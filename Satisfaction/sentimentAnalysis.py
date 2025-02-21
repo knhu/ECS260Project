@@ -28,30 +28,45 @@ if torch.cuda.is_available():
 else:
     print("Using CPU")
 
+import torch
+import numpy as np
+
 def analyze_sentiment(df):
     sentiments = []
     textCount = 0
     model.eval()  # Set model to evaluation mode
+
     for text in df["Message"]:
         try:
             print(textCount)
             text = preprocess(text)
             # Tokenize and move inputs to the same device as the model
-            encoded_input = tokenizer(text, return_tensors='pt').to(device)
+            encoded_input = tokenizer(text, return_tensors='pt', padding=True, truncation=True, max_length=512).to(device)  # Add padding, truncation, and max_length
             with torch.no_grad():  # Disable gradient calculation
                 output = model(**encoded_input)
+
             # Move logits to CPU and process
-            scores = output[0][0].cpu().detach().numpy()
+            scores = output.logits[0].cpu().numpy() # Access logits correctly
             scores = softmax(scores)
             ranking = np.argsort(scores)[::-1]
             sentiment_label = config.id2label[ranking[0]]
             sentiment_score = scores[ranking[0]]
-            sentiments.append({"label": sentiment_label, "score": sentiment_score})
-            textCount += 1
+            sentiments.append({"label": sentiment_label, "score": float(sentiment_score)}) #convert score to float for json serialization
+
         except Exception as e:
             print(f"Error processing message: {text}")
             print(f"Error: {e}")
             sentiments.append({"label": "ERROR", "score": 0.0})
+        finally:
+            # Explicitly delete tensors to free GPU memory, even if errors occur.
+            if 'encoded_input' in locals():
+                del encoded_input
+            if 'output' in locals():
+                del output
+            torch.cuda.empty_cache() # Empty cache after each iteration
+
+        textCount += 1
+
     return sentiments
 
 df = pd.read_csv("test.csv")
