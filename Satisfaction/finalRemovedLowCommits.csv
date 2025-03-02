@@ -1,0 +1,2640 @@
+Project Name,Author,Date,Message,Repo Path,Project Age (Years),Total Commits,Sentiment,Negative Commit Percentage
+activist,Andrew Tavis,2021-02-27 19:06:43+00:00,Change logo to just borders,https://github.com/activist-org/activist,4.0657084188911705,43,neutral,2.3255813953488373
+activist,Andrew Tavis McAllister,2022-06-02 10:59:49+00:00,File deleltion and readme changes to set basis for Vue/Django implementation,https://github.com/activist-org/activist,4.0657084188911705,1593,neutral,4.268675455116133
+activist,dependabot[bot],2022-07-05 22:38:09+00:00,"Bump django from 4.0.5 to 4.0.6
+
+Bumps [django](https://github.com/django/django) from 4.0.5 to 4.0.6.
+- [Release notes](https://github.com/django/django/releases)
+- [Commits](https://github.com/django/django/compare/4.0.5...4.0.6)
+
+---
+updated-dependencies:
+- dependency-name: django
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",https://github.com/activist-org/activist,4.0657084188911705,57,neutral,0.0
+activist,wkyoshida,2023-03-08 00:38:15+00:00,fix: changes to docker files for usability,https://github.com/activist-org/activist,4.0657084188911705,24,neutral,0.0
+activist,momanyisamuel,2023-03-08 08:28:09+00:00,Put exterior link icons on text baseline in /supporters and /supporter/join #70,https://github.com/activist-org/activist,4.0657084188911705,56,neutral,0.0
+activist,anthonyshibitov,2023-05-22 23:31:32+00:00,"Add height and width to Logo components in LandingPageLogoImage
+
+Fix Safari mobile click area bug by explicitly stating the height and width
+of the Logo components in LandingPageLogoImage. Previously, the clickable
+area was spilling out of the LandingPageLogoImage component.
+
+Since the SVGs are now resized to this 200/250px width, scale-[x] can be mostly
+removed except to fix small spacing/aesthetic issues. I left scaling in the
+WikimediaRS and ImpactHub components to match what it looked like beforehand.
+
+This could be further fixed by using SVGs specifically made for the Supporters
+section, instead of scaling them via tailwind.",https://github.com/activist-org/activist,4.0657084188911705,21,neutral,14.285714285714285
+activist,tosta,2023-07-30 11:28:46+00:00,footer adjusted for small screens,https://github.com/activist-org/activist,4.0657084188911705,221,neutral,5.429864253393665
+activist,Felipe Archanjo,2023-08-24 22:16:28+00:00,Adding labels for all the pages into the en-US.json file,https://github.com/activist-org/activist,4.0657084188911705,40,neutral,0.0
+activist,kurtisolo,2023-08-26 07:43:03+00:00,"improved backend/apps/models.py
+
+Each field without a default value has been fixed, more details in the comment on models.py",https://github.com/activist-org/activist,4.0657084188911705,26,neutral,0.0
+activist,thiagogquinto,2023-09-04 02:59:03+00:00,done: all serializers implemented,https://github.com/activist-org/activist,4.0657084188911705,58,neutral,5.172413793103448
+activist,José Rigoberto Salas Chacón,2023-09-22 23:00:18+00:00,fix: fix linter issue related to uuid,https://github.com/activist-org/activist,4.0657084188911705,31,neutral,0.0
+activist,Ahmet,2023-09-28 05:49:14+00:00,Layout has been created for sign-in sign-up page.,https://github.com/activist-org/activist,4.0657084188911705,30,neutral,6.666666666666667
+activist,Nicholas Vecchio,2023-11-14 06:15:41+00:00,"PageSubPageSelector changed to use HeadlessUI.
+
+- Changed to use Headless UI components
+
+- Manually handling pushes otherwise headlessui accessibility will not function.",https://github.com/activist-org/activist,4.0657084188911705,21,neutral,9.523809523809524
+activist,Matt Burnett,2023-12-04 04:27:10+00:00,fix: Issue #552 add CardFAQEntry,https://github.com/activist-org/activist,4.0657084188911705,43,neutral,13.953488372093023
+activist,Sean Leong,2023-12-30 17:28:09+00:00,fix: Combobox options expand on tab,https://github.com/activist-org/activist,4.0657084188911705,39,neutral,0.0
+activist,Tessa,2024-01-08 03:43:09+00:00,initial setup for the modal share page component,https://github.com/activist-org/activist,4.0657084188911705,26,neutral,3.8461538461538463
+activist,Tanya Kharitonovich,2024-01-21 16:53:07+00:00,refactor: remove reuse code from `SidebarLeftFooter`,https://github.com/activist-org/activist,4.0657084188911705,22,neutral,0.0
+activist,lucianmurmurache,2024-02-15 11:36:07+00:00,chore: add i18n head plugin,https://github.com/activist-org/activist,4.0657084188911705,51,neutral,1.96078431372549
+activist,github-actions[bot],2024-05-21 18:02:05+00:00,"### Summary of Changes
+
+#### GitHub Actions Workflow
+
+- **Modified Workflow**:
+  - Added a step to check Docker container logs.
+  - Enhanced the  step with retry logic:
+    - Attempts up to 3 times.
+    - Waits for 30 seconds on each attempt.
+    - Exits with failure message after 3 unsuccessful attempts.
+
+#### Configuration and Dependencies
+
+- **Frontend**:
+  - Added  file to ignore engines check.
+  - Updated  dependencies and devDependencies:
+    - Upgraded  to .
+    - Upgraded  to .
+    - Removed  dependency.
+    - Added resolutions for  to .
+
+#### Components
+
+- **BtnRoadMap.vue**:
+  - Added  to the NuxtLink.
+
+- **BtnRouteExternal.vue and BtnRouteInternal.vue**:
+  - Added dynamic ID binding .
+
+- **DropdownLanguage.vue and DropdownTheme.vue**:
+  - Added class attributes for  and .
+
+- **HeaderWebsite.vue**:
+  - Added  to the header.
+  - Added IDs for mobile and desktop headers.
+  - Added IDs for  components.
+
+- **LandingContent.vue**:
+  - Added dynamic button IDs.
+
+- **LogoActivist.vue**:
+  - Added  class.
+
+- **SidebarRightHamburger.vue**:
+  - Added  to the button.
+
+#### Playwright Configuration
+
+- **playwright.config.ts**:
+  - Added screenshot settings for  and .
+  - Removed comments and unused configurations.
+
+#### Component Objects
+
+- **BaseComponent.ts**:
+  - Added locator handling with  and  methods.
+
+- **HeaderWebsite.ts**:
+  - New file created for handling header-specific components and interactions.
+
+- **BasePage.ts**:
+  - Enhanced base page with locator handling.
+  - Added methods for viewport detection and URL waiting.
+
+- **LandingPage.ts**:
+  - Added component object for the landing page, integrating  for header interactions.
+  - Updated locators for buttons and links.
+
+#### Tests
+
+- **landing-page.spec.ts**:
+  - Added tests for header visibility, roadmap navigation, and Get In Touch button functionality.
+  - Updated accessibility and link visibility tests.
+
+#### Type Definitions
+
+- **btn-props.d.ts**:
+  - Added optional uid=501(aasim) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),101(access_bpf),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae),333(piavpn),701(com.apple.sharepoint.group.1) property to .
+
+#### Yarn Lock
+
+- **yarn.lock**:
+  - Updated package versions to match new dependencies in .",https://github.com/activist-org/activist,4.0657084188911705,40,neutral,5.0
+activist,cquinn540,2024-10-30 19:35:31+00:00,docs: add yarn version to dev set up docs,https://github.com/activist-org/activist,4.0657084188911705,49,neutral,24.489795918367346
+ansible,Michael DeHaan,2012-02-23 19:17:24+00:00,Genesis.,https://github.com/ansible/ansible,13.040383299110198,5108,neutral,8.007047768206736
+ansible,Seth Vidal,2012-02-24 23:13:11+00:00,add support to prompt for ssh password on the cli,https://github.com/ansible/ansible,13.040383299110198,117,neutral,11.965811965811966
+ansible,Tim Bielawa,2012-02-25 01:07:49+00:00,Fix tbielawa email in AUTHORS file,https://github.com/ansible/ansible,13.040383299110198,97,neutral,11.34020618556701
+ansible,Stephen Fromm,2012-03-22 18:21:41+00:00,"Add user module to create, modify, and delete user accounts
+
+This relies on useradd, usermod, and userdel utilities on the system.
+The argument name is required; if state is not provided, present is
+assumed.  Other options supported for creating or modifying an existing
+account:  uid, gid, comment, home, shell, and password.  If managing the
+password, it must already be encrypted.  When creating an account, you
+can also provide the argument createhome to control whether the home
+directory is created.  Arguments supported for deleting an account are:
+force (remove account even if user is logged in) and remove (remove home
+directory).",https://github.com/ansible/ansible,13.040383299110198,166,neutral,7.228915662650602
+ansible,Jeroen Hoekx,2012-03-26 08:30:48+00:00,Playbook: create one task per include instead of per argument.,https://github.com/ansible/ansible,13.040383299110198,79,neutral,11.39240506329114
+ansible,Matthew Williams,2012-03-26 19:49:13+00:00,preliminary apt module,https://github.com/ansible/ansible,13.040383299110198,24,neutral,8.333333333333332
+ansible,Dag Wieers,2012-04-17 13:06:12+00:00,Fix small typo,https://github.com/ansible/ansible,13.040383299110198,1087,negative,14.167433302667892
+ansible,Michel Blanc,2012-04-19 13:30:26+00:00,"Adds ArchLinux build file
+
+Adds PKGBUILD file required to build Arch Linux packages",https://github.com/ansible/ansible,13.040383299110198,39,neutral,10.256410256410255
+ansible,Peter Sankauskas,2012-05-02 16:50:20+00:00,Adding a missing '~' to use the user's home directory instead of the root file system for the module arguments,https://github.com/ansible/ansible,13.040383299110198,22,neutral,22.727272727272727
+ansible,Daniel Hokka Zakrisson,2012-06-07 23:32:56+00:00,Expand vars_files identically for lists and non-lists,https://github.com/ansible/ansible,13.040383299110198,329,neutral,10.94224924012158
+ansible,Timothy Appnel,2012-06-11 22:07:44+00:00,Most constants can be overriden with environment variables. Reserved doing anything with the connection options for further review.,https://github.com/ansible/ansible,13.040383299110198,42,neutral,9.523809523809524
+ansible,Lorin Hochstein,2012-07-10 17:39:52+00:00,Missing a colon in a YAML example.,https://github.com/ansible/ansible,13.040383299110198,96,negative,18.75
+ansible,Mark Theunissen,2012-07-13 22:07:23+00:00,The MySQL modules,https://github.com/ansible/ansible,13.040383299110198,22,neutral,13.636363636363637
+ansible,Jan-Piet Mens,2012-07-21 11:34:42+00:00,"new module: get_url
+	get module (with new module-magic-code!)
+	Usage: ansible -m get -a ""url=http://xxxxxxx  dest=fileordirctory""
+	all cleanups as per @mpdehaan's suggestions
+	add daisychain
+	added example playbook (get_url.yml) with URLencode example",https://github.com/ansible/ansible,13.040383299110198,102,neutral,8.823529411764707
+ansible,willthames,2012-07-30 03:18:28+00:00,"env-setup no longer needs to be run from the ansible directory, it can be run from anywhere
+env-setup now takes a -q argument to run in quiet mode",https://github.com/ansible/ansible,13.040383299110198,41,neutral,17.073170731707318
+ansible,Will Thames,2012-07-30 11:35:24+00:00,readlink -f does not work on OS X. Replaced with a python solution,https://github.com/ansible/ansible,13.040383299110198,286,negative,13.636363636363637
+ansible,Marco Vito Moscaritolo,2012-08-28 19:56:16+00:00,Added basic support for OpenStack inventory support. Tested only with RackSpace. Require python-novaclient to work.,https://github.com/ansible/ansible,13.040383299110198,29,neutral,6.896551724137931
+ansible,Brian Coca,2012-08-29 13:46:05+00:00,"- Makefile now works with freebsd (date command options are diff)
+date still issues warning and ignores TZ
+
+- Updated tests to work inside bsd jails (127 addresses are an issue)
+Signed-off-by: Brian Coca <briancoca+ansible@gmail.com>",https://github.com/ansible/ansible,13.040383299110198,4437,neutral,9.375704304710393
+ansible,Nigel Metheringham,2012-09-10 10:51:16+00:00,Typo fix for assemble module,https://github.com/ansible/ansible,13.040383299110198,24,neutral,12.5
+ansible,Serge van Ginderachter,2012-10-10 17:38:30+00:00,fix missing --limit in docssite examples,https://github.com/ansible/ansible,13.040383299110198,120,negative,9.166666666666666
+ansible,Patrik Lundin,2012-11-23 20:03:17+00:00,"Refactor module to use subclasses like user module.
+
+* Basically the moving parts from the original service module arranged in
+  subclasses.
+* General structure and helper methods comes from the user module.
+* Less forgiving to unsupported platforms: it requires a subclass per platform.
+  (This makes it easier to work on one platform without having to think about.
+  what other platform might be affected in unexpected ways).
+* Now has basic OpenBSD support.
+* Solaris support needs to be added.
+
+Thanks to @dhozac for general advice and Linux testing.
+Thanks to @bcoca for clearing up some FreeBSD questions.",https://github.com/ansible/ansible,13.040383299110198,46,neutral,19.565217391304348
+ansible,Tim Gerla,2013-01-20 21:16:29+00:00,Expand ~ shell shortcuts for the --private-key argument,https://github.com/ansible/ansible,13.040383299110198,39,neutral,12.82051282051282
+ansible,Jimmy Tang,2013-02-01 16:51:20+00:00,Add macports packaging - points to git repo and devel branch instead of releases,https://github.com/ansible/ansible,13.040383299110198,23,neutral,13.043478260869565
+ansible,Stoned Elipot,2013-02-06 13:47:21+00:00,For ansible --list-hosts benefit apply hosts selection limits early,https://github.com/ansible/ansible,13.040383299110198,49,neutral,10.20408163265306
+ansible,Chris Hoffman,2013-02-09 16:55:23+00:00,Adding rabbitmq modules,https://github.com/ansible/ansible,13.040383299110198,27,neutral,11.11111111111111
+ansible,Johan Wirén,2013-02-14 13:16:08+00:00,Added zfs module,https://github.com/ansible/ansible,13.040383299110198,21,neutral,9.523809523809524
+ansible,lwade,2013-02-14 14:18:35+00:00,Adding a simple EC2 volume module for creation and attach,https://github.com/ansible/ansible,13.040383299110198,21,neutral,0.0
+ansible,James Martin,2013-02-16 18:32:48+00:00,Support for amazon linux distribution facts.,https://github.com/ansible/ansible,13.040383299110198,38,neutral,10.526315789473683
+ansible,Maykel Moya,2013-02-20 19:52:45+00:00,"Prevent traceback when /etc/mtab is not available
+
+* get_file_contents returns None when file is not available.
+  When /etc/mtab is pointing to /proc/mounts and /proc is not
+  mounted, mtab.split will traceback.",https://github.com/ansible/ansible,13.040383299110198,39,neutral,20.51282051282051
+ansible,Till Maas,2013-02-22 12:25:34+00:00,"mysql_db/user: Use password for my.cnf
+
+According to the MySQL docs[0] the password should be stored after
+'password=' instead of 'pass='.
+
+[0] http://dev.mysql.com/doc/refman/5.1/en/password-security-user.html",https://github.com/ansible/ansible,13.040383299110198,22,neutral,18.181818181818183
+ansible,Jesse Keating,2013-03-31 06:04:07+00:00,"Initial commit of rax library
+
+This library provides functionality for the Rackspace Public Cloud by
+way of the official pyrax SDK (https://github.com/rackspace/pyrax). At
+this time only the cloudservers service is functional. Instances can be
+created or deleted. Idempotency is provided on matching instances with
+the same name, flavor, image, and metadata values within a given
+region.
+
+pyrax usage does require a credentials file written out to hold username
+and API key.  See pyrax documentation for details
+(https://github.com/rackspace/pyrax/blob/master/docs/pyrax_doc.md)",https://github.com/ansible/ansible,13.040383299110198,41,neutral,29.268292682926827
+ansible,James Cammarata,2013-05-05 16:05:32+00:00,"BUGFIX - --start-at-task= works only with --step
+
+From issue #2820, --start-at-task does not actually run tasks
+unless --step is specified. This appears to be because skip_task
+is being evaluated as True in PlayBook._run_task(). This patch
+ensures skip_task is set to False in the callback.",https://github.com/ansible/ansible,13.040383299110198,2822,neutral,8.646350106307583
+ansible,Michael Vogt,2013-05-10 18:32:33+00:00,"add ""no_log=True to copy:content",https://github.com/ansible/ansible,13.040383299110198,21,neutral,14.285714285714285
+ansible,Bruce Pennypacker,2013-05-21 17:59:42+00:00,Fixed handling of urlopen result to work properly under both python 2.4 and python 2.6,https://github.com/ansible/ansible,13.040383299110198,41,positive,9.75609756097561
+ansible,Dylan Silva,2013-05-27 18:55:29+00:00,Pagerduty and Pingdom modules for core,https://github.com/ansible/ansible,13.040383299110198,25,neutral,8.0
+ansible,Adam Miller,2013-05-29 22:14:20+00:00,fix ambiguous use of automatically automatic in Roles docs,https://github.com/ansible/ansible,13.040383299110198,134,neutral,2.985074626865672
+ansible,Joshua Lund,2013-06-05 05:28:28+00:00,"* Added a sha256 method to module_common
+* Added a sha256sum parameter to the get_url module to enable
+cryptographic verification of downloaded files
+* Fixed a few typos in the documentation",https://github.com/ansible/ansible,13.040383299110198,23,neutral,4.3478260869565215
+ansible,James Laska,2013-06-06 19:00:38+00:00,"Add RHN subscription_manager module
+
+The subscription_manager module acts as a wrapper to the command
+'subscription-manager'.  The subscription-manager utility allows users
+to manage RHN registration, subscription and yum repositories from the
+Red Hat Entitlement platform.
+
+Currently, this module supports the following sub-commands:
+ * config
+ * [un]register
+ * subscribe",https://github.com/ansible/ansible,13.040383299110198,59,neutral,8.47457627118644
+ansible,Chris Church,2013-06-09 16:17:57+00:00,Set current play/task to None for callback context when finished running the current play/task.,https://github.com/ansible/ansible,13.040383299110198,132,neutral,4.545454545454546
+ansible,Peter Sprygada,2013-06-27 02:59:23+00:00,initial arista module import,https://github.com/ansible/ansible,13.040383299110198,782,neutral,8.951406649616368
+ansible,Michael Scherer,2013-08-03 22:03:50+00:00,Add urpmi as a package manager for mandriva-based distribution,https://github.com/ansible/ansible,13.040383299110198,426,neutral,26.291079812206576
+ansible,Abhijit Menon-Sen,2013-08-08 16:07:33+00:00,Add a nocolor setting to ansible.cfg,https://github.com/ansible/ansible,13.040383299110198,183,neutral,21.311475409836063
+ansible,René Moser,2013-08-10 11:04:56+00:00,implemented 'inventory_file' variable. Closes GH-3789.,https://github.com/ansible/ansible,13.040383299110198,399,neutral,12.030075187969924
+ansible,Hiroaki Nakamura,2013-08-24 15:49:15+00:00,"Add a hostname module, which sets system's hostname.",https://github.com/ansible/ansible,13.040383299110198,51,neutral,17.647058823529413
+ansible,Rene Moser,2013-09-17 13:05:20+00:00,apt: fixed duplicate fail_json,https://github.com/ansible/ansible,13.040383299110198,367,neutral,10.626702997275205
+ansible,Maciej Delmanowski,2013-09-23 10:15:33+00:00,Add Linux Container identification,https://github.com/ansible/ansible,13.040383299110198,24,neutral,4.166666666666666
+ansible,Benno Joy,2013-09-25 05:18:43+00:00,Update playbooks2.rst,https://github.com/ansible/ansible,13.040383299110198,23,neutral,8.695652173913043
+ansible,Paul Durivage,2013-09-27 20:50:32+00:00,Use set_setting; alleviates pyrax requiring the ~/pyrax.cfg in order to establish identity_type,https://github.com/ansible/ansible,13.040383299110198,63,neutral,6.349206349206349
+ansible,Matt Martz,2013-09-30 17:55:13+00:00,Add fileglob Jinja2 filter. Fixes #3563,https://github.com/ansible/ansible,13.040383299110198,1179,neutral,11.11111111111111
+ansible,jctanner,2013-10-01 03:24:49+00:00,"Merge pull request #4269 from jphalip/issue-4256
+
+In the script action: Get around a Python bug.",https://github.com/ansible/ansible,13.040383299110198,425,neutral,6.588235294117648
+ansible,James Tanner,2013-10-01 20:46:17+00:00,fix docstring indentation on scc modules,https://github.com/ansible/ansible,13.040383299110198,449,neutral,8.463251670378618
+ansible,Jonathan Mainguy,2013-10-09 23:57:52+00:00,Added resp= option for svr4pkg to enable the -r option in pkgadd for response files,https://github.com/ansible/ansible,13.040383299110198,61,neutral,14.754098360655735
+ansible,Evan Kaufman,2013-11-16 19:23:50+00:00,"Added replace module
+
+Heavily based on existing lineinfile module, but where it literally tests a regexp against
+*each individual line* of a file, this replace module is more analogous to common uses of
+a `sed` or `perl` match + replacement of all instances of a pattern anywhere in the file.
+
+Was debating adding `all` boolean or `count` numeric options to control how many
+replacements to make in the destfile (vs currently replacing all instances)
+
+Noted use of MULTILINE mode in docs, per suggestion from @jarv",https://github.com/ansible/ansible,13.040383299110198,21,neutral,9.523809523809524
+ansible,John Barker,2013-11-18 19:02:51+00:00,correct link to developing modules on ansible work's website,https://github.com/ansible/ansible,13.040383299110198,41,neutral,19.51219512195122
+ansible,Chris Houseknecht,2014-01-06 22:55:19+00:00,Modified docsite layout to use Google custom search.,https://github.com/ansible/ansible,13.040383299110198,127,neutral,7.086614173228346
+ansible,Richard C Isaacson,2014-01-10 03:27:04+00:00,Language cleanup for clarity.,https://github.com/ansible/ansible,13.040383299110198,84,neutral,11.904761904761903
+ansible,Richard Isaacson,2014-01-29 19:25:35+00:00,"Merge pull request #5821 from risaacson/issue5781
+
+If a executable is defined but not found the module should fail.",https://github.com/ansible/ansible,13.040383299110198,57,negative,7.017543859649122
+ansible,Robin Roth,2014-02-12 16:14:43+00:00,"remove check for version string
+
+this check does not get used anywhere and is not needed as zypper/rpm can handle version information directly",https://github.com/ansible/ansible,13.040383299110198,101,negative,10.891089108910892
+ansible,jjshoe,2014-02-24 19:03:01+00:00,Typo/Grammar fix.,https://github.com/ansible/ansible,13.040383299110198,23,neutral,21.73913043478261
+ansible,Toshio Kuratomi,2014-03-14 18:55:06+00:00,Require a recent enough version of pycrypto and see that playbook and vault ues it.,https://github.com/ansible/ansible,13.040383299110198,2707,neutral,14.07462135205024
+ansible,Pierre-Louis Bonicoli,2014-03-23 02:35:10+00:00,Fix ValueError when selection contains a colon,https://github.com/ansible/ansible,13.040383299110198,78,neutral,23.07692307692308
+ansible,Ted Timmons,2014-04-04 15:00:56+00:00,"cloudformation's disable_rollback must be a bool
+
+passing ""yes"" to boto causes severe problems.",https://github.com/ansible/ansible,13.040383299110198,31,negative,32.25806451612903
+ansible,Jonathan Davila,2014-04-11 15:14:40+00:00,Added example demonstrating other functionality,https://github.com/ansible/ansible,13.040383299110198,29,neutral,10.344827586206897
+ansible,Bill Nottingham,2014-06-16 19:51:25+00:00,"Update tower.rst
+
+Point to current URLs, fix a Ansible/Tower reference.",https://github.com/ansible/ansible,13.040383299110198,23,neutral,13.043478260869565
+ansible,Marc Abramowitz,2014-06-28 15:21:15+00:00,CODING_GUIDELINES: Fix typo: / => \,https://github.com/ansible/ansible,13.040383299110198,27,neutral,18.51851851851852
+ansible,Tim Rupp,2014-07-04 19:00:15+00:00,"Fix missing msg argument
+
+The following patch adds a missing 'msg=' syntax. An exception is raised
+in ansible if this block is reached during the execution of the module
+
+    TypeError: fail_json() takes exactly 1 argument (2 given)
+
+With the 'msg=' added, you get a more informative error. For example
+
+    msg: No settings provided to update_domain().",https://github.com/ansible/ansible,13.040383299110198,548,negative,8.211678832116789
+ansible,Trond Hindenes,2014-07-06 17:02:32+00:00,"Added script for configuring winrm for Ansible
+
+The script can be used to set up a windows host with WinRM with the least possible effort.",https://github.com/ansible/ansible,13.040383299110198,38,neutral,5.263157894736842
+ansible,Monty Taylor,2014-08-03 00:15:15+00:00,"Split nova floating-ip pool logic
+
+The desires around getting a floating ip associated with a pool and
+getting a floating ip not associated with a pool is just different
+enough that following it as one set of nested ifs is tricky. Split
+the function into two, one for the pool and one for the non-pool logic.",https://github.com/ansible/ansible,13.040383299110198,144,neutral,13.88888888888889
+ansible,Greg DeKoenigsberg,2014-08-11 17:25:02+00:00,"Text tweak
+
+A suggestion to smooth out the text -- if you think it's an improvement, happy to make a larger PR with all the instances of this fixed.",https://github.com/ansible/ansible,13.040383299110198,68,positive,2.941176470588235
+ansible,Strahinja Kustudic,2014-10-05 17:54:31+00:00,Added an example for paretheses,https://github.com/ansible/ansible,13.040383299110198,30,neutral,20.0
+ansible,Chris Meyers,2015-01-16 15:28:34+00:00,add tagless grouping for destinations without any tags,https://github.com/ansible/ansible,13.040383299110198,24,neutral,8.333333333333332
+ansible,Joseph Callen,2015-04-17 18:48:57+00:00,Adding a new VMware utilities module,https://github.com/ansible/ansible,13.040383299110198,23,neutral,0.0
+ansible,Tom Paine,2015-05-07 11:22:08+00:00,"Update playbooks_tags.rst
+
+highlight the command part of the sentence to clarify use of 'all' tag.",https://github.com/ansible/ansible,13.040383299110198,23,neutral,4.3478260869565215
+ansible,Victor Schröder,2015-06-14 20:07:39+00:00,Adds basic configuration to ec2.ini to support ElastiCache Clusters and Nodes,https://github.com/ansible/ansible,13.040383299110198,26,neutral,3.8461538461538463
+ansible,nitzmahone,2015-06-24 18:40:59+00:00,added six to install-from-source docs,https://github.com/ansible/ansible,13.040383299110198,123,neutral,17.88617886178862
+ansible,Jiri Tyr,2015-07-02 13:37:51+00:00,Adding comment filter,https://github.com/ansible/ansible,13.040383299110198,55,neutral,3.636363636363636
+ansible,Indrajit Raychaudhuri,2015-07-19 00:46:26+00:00,Add homebrew to package managers' list,https://github.com/ansible/ansible,13.040383299110198,23,neutral,8.695652173913043
+ansible,Yannig Perré,2015-08-05 08:54:24+00:00,"When value does not exist, return default value instead of stopping ansible with an exception.",https://github.com/ansible/ansible,13.040383299110198,34,neutral,17.647058823529413
+ansible,Marius Gedminas,2015-08-25 13:07:21+00:00,"Speed up execution
+
+`if method in dir(self):` is very inefficient:
+
+- it must construct a list object listing all the object attributes & methods
+- it must then perform a O(N) linear scan of that list
+
+Replace it with the idiomatic `if hasattr(self, method):`, which is a
+O(1) expected time hash lookup.
+
+Should fix #11981.",https://github.com/ansible/ansible,13.040383299110198,107,negative,29.906542056074763
+ansible,Sandra Wills,2015-08-26 15:51:17+00:00,"ansible-lockdown added, minor editing
+
+added info/link for ansible-lockdown to mailing list section, minor editing
+(can't help myself it seems) to the paragraph about subscribing from a non-google account",https://github.com/ansible/ansible,13.040383299110198,45,neutral,4.444444444444445
+ansible,chouseknecht,2015-09-30 17:36:17+00:00,"Replace categories with tags.
+
+Also added --ignore-certs option for use with install and search commands. Helpful when
+overriding server and server has self signed cert.",https://github.com/ansible/ansible,13.040383299110198,139,neutral,18.705035971223023
+ansible,Ryan S. Brown,2015-10-15 17:35:07+00:00,"Document using the `raw` module to install a py2.X and simplejson
+
+In the installation guide, the raw module is mentioned as an option for
+installing Python or simplejson on managed nodes that don't have them.
+This change adds an example for users that may already be familiar with
+using ansible but are checking install docs because they don't know the
+requirements for managed nodes, or are using a distribution that doesn't
+include Python 2 by default.",https://github.com/ansible/ansible,13.040383299110198,100,neutral,11.0
+ansible,Lars Kellogg-Stedman,2015-10-16 15:17:58+00:00,"correct value of remote_user for local connections
+
+When using 'local' connections, privilege escalation would fail if
+ansible_ssh_user was in the current context to the same value as
+become_user.
+
+This commit ensures that for 'local' connections we reset remote_user to
+the local username.
+
+This fixes #12782.",https://github.com/ansible/ansible,13.040383299110198,35,neutral,22.857142857142858
+ansible,Matt Davis,2015-11-20 23:22:04+00:00,"Merge pull request #13212 from cchurch/recommended_pywinrm_version
+
+Recommend using pywinrm >= 0.1.1 from PyPI instead of GitHub version.",https://github.com/ansible/ansible,13.040383299110198,316,neutral,12.974683544303796
+ansible,Hans-Joachim Kliemeck,2015-12-14 14:04:31+00:00,use default settings from ansible.cfg,https://github.com/ansible/ansible,13.040383299110198,34,neutral,20.588235294117645
+ansible,Matt Clay,2015-12-16 09:37:02+00:00,Test for filename option in apt_repository module.,https://github.com/ansible/ansible,13.040383299110198,2535,neutral,14.792899408284024
+ansible,Andrew Gaffney,2015-12-21 22:41:52+00:00,"Add 'filtered' stdout callback plugin
+
+This plugin filters output for any task that is 'ok' or 'skipped'.
+It works by subclassing the 'default' stdout callback plugin and
+overriding certain functions. It will suppress display of the task
+banner until there is a 'changed' or 'failed' result or an
+unreachable host.",https://github.com/ansible/ansible,13.040383299110198,48,neutral,16.666666666666664
+ansible,Tobias Wolf,2016-01-21 16:35:40+00:00,"Avoid recursively checking JSON inventory for Unicode
+
+by moving to en-bloc unicode conversion to act on scripts stdout
+
+Both python-json and simplejson always return unicode strings when using
+their loads() method on unicode strings. This is true at least since
+2009. This makes checking each substring unnecessary, because we do not
+need to recursively check the strings contained in the inventory dict
+later one-by-one
+
+This commit makes parsing of large dynamic inventory at least 2 seconds
+faster.
+
+cf: https://github.com/towolf/ansible-large-inventory-testcase",https://github.com/ansible/ansible,13.040383299110198,23,neutral,21.73913043478261
+ansible,Felix Fontein,2016-02-06 20:19:03+00:00,Allowing multiple tags to be specified in include's tags argument.,https://github.com/ansible/ansible,13.040383299110198,683,neutral,13.177159590043924
+ansible,Jason McKerr,2016-02-11 20:51:53+00:00,"Initial checkin of new roadmap file.  Currently encompasses 2.1 roadmap
+and some community objectives.",https://github.com/ansible/ansible,13.040383299110198,57,neutral,3.508771929824561
+ansible,Evgeni Golov,2016-03-03 22:57:30+00:00,don't escape asterisks in parameter lists,https://github.com/ansible/ansible,13.040383299110198,48,neutral,20.833333333333336
+ansible,David Shrewsbury,2016-03-11 13:07:30+00:00,"Set type for OpenStack 'verify' param
+
+The 'verify' param is a bool, so we don't want it to be an assumed
+str.",https://github.com/ansible/ansible,13.040383299110198,116,neutral,16.379310344827587
+ansible,Rob White,2016-03-26 07:46:50+00:00,Add function to convert CamelCased key names to snake_names,https://github.com/ansible/ansible,13.040383299110198,21,neutral,9.523809523809524
+ansible,Nathaniel Case,2016-03-30 21:28:30+00:00,"Override params from environment variables, if set.
+
+Fix a typo while I'm in the area.
+
+Handle having None set in module.params more intelligently",https://github.com/ansible/ansible,13.040383299110198,352,neutral,17.045454545454543
+ansible,Adrian Likins,2016-04-03 01:01:13+00:00,"Fix galaxy roles_path cli usage.
+
+If we specify a roles_path from the cli, use a
+optparse action callback to make sure the roles_path
+is set to a path list.
+
+Fixes #15255",https://github.com/ansible/ansible,13.040383299110198,245,neutral,21.63265306122449
+ansible,Rob,2016-04-26 13:17:36+00:00,"Add shared functionality to return list of security group IDs from list of names (#15054)
+
+* Add shared functionality to return list of security group IDs from list of security group names - this functionality can be used by nearly all ec2 modules
+
+* Improved doc string for get_ec2_security_group_ids_from_names function",https://github.com/ansible/ansible,13.040383299110198,54,neutral,7.4074074074074066
+ansible,John R Barker,2016-05-03 18:18:48+00:00,"Track build times (#15708)
+
+See if https://buildtimetrend.herokuapp.com/ gives us any extra insights
+into how we can speed up builds",https://github.com/ansible/ansible,13.040383299110198,426,neutral,15.727699530516432
+ansible,Scott Butler,2016-05-06 17:35:46+00:00,Initial structural development draft of working with networking topic,https://github.com/ansible/ansible,13.040383299110198,56,neutral,3.571428571428571
+ansible,Ryan Brown,2016-05-25 22:01:21+00:00,"Merge pull request #15986 from dharmabumstead/devel
+
+Incorporated additional tech review feedback.",https://github.com/ansible/ansible,13.040383299110198,113,neutral,13.274336283185844
+ansible,scottb,2016-06-09 18:31:46+00:00,"Merge pull request #16023 from jhawkesworth/add_fetch_to_windows_modules
+
+[WIP]: A few ideas for updating the windows introduction.",https://github.com/ansible/ansible,13.040383299110198,88,neutral,0.0
+ansible,Pilou,2016-06-22 20:30:10+00:00,"Add python-passlib to docker images. (#16376)
+
+Related to #16361",https://github.com/ansible/ansible,13.040383299110198,144,neutral,20.13888888888889
+ansible,s-hertel,2016-07-11 17:54:29+00:00,"Adding a test for GalaxyCLI and two methods on which it depends. Tes…  (#16651)
+
+* Adding a test for GalaxyCLI and two methods on which it depends. Tests execute_info method.
+
+*  Adding a test for GalaxyCLI and two methods on which it depends. Tests execute_remove method.
+
+* Update test_galaxy.py
+
+* Revising test for GalaxyCLI execute_remove.
+
+* Removing mocks",https://github.com/ansible/ansible,13.040383299110198,37,neutral,2.702702702702702
+ansible,Senthil Kumar Ganesan,2016-08-17 01:27:54+00:00,Added Dell Networking Modules to the Roadmap,https://github.com/ansible/ansible,13.040383299110198,53,neutral,5.660377358490567
+ansible,Allen Sanabria,2016-08-30 21:34:31+00:00,"Include vars updated to work with directories (#17207)
+
+* New features for include_vars
+
+include_vars.py now allows you to include an entire directory and its nested directories of variable files.
+
+Added Features..
+
+* Ignore by default *.md, *.py, and *.pyc
+* Ignore any list of files.
+* Only include files nested by depth (default=unlimited)
+* Match only files matching (valid regex)
+* Sort files alphabetically and load in that order.
+* Sort directories alphabetically and load in that order.
+
+```
+    - include_vars: 'vars/all.yml'
+
+    - name: include all.yml
+      include_vars:
+        file: 'vars/all.yml'
+
+    - name: include all yml files in vars/all and all nested directories
+      include_vars:
+        dir: 'vars/all'
+
+    - name: include all yml files in vars/all and all nested directories and save the output in test.
+      include_vars:
+        dir: 'vars/all'
+        name: test
+
+    - name: include all yml files in vars/services
+      include_vars:
+        dir: 'vars/services'
+        depth: 1
+
+    - name: include only bastion.yml files
+      include_vars:
+        dir: 'vars'
+        files_matching: 'bastion.yml'
+
+    - name: include only all yml files exception bastion.yml
+      include_vars:
+        dir: 'vars'
+        ignore_files: 'bastion.yml'
+```
+
+* Added whitelist for file extensisions (yaml, yml, json)
+
+* Removed unit tests in favor of integration tests",https://github.com/ansible/ansible,13.040383299110198,33,neutral,6.0606060606060606
+ansible,Fabio Alessandro Locati,2016-08-31 14:39:51+00:00,Remove see also at the same page (#17317),https://github.com/ansible/ansible,13.040383299110198,159,neutral,4.40251572327044
+ansible,Andrea Tartaglia,2016-08-31 15:07:13+00:00,Added allow_world_readable_tmpfiles in config #17013 (#17153),https://github.com/ansible/ansible,13.040383299110198,41,neutral,7.317073170731707
+ansible,jhawkesworth,2016-09-06 06:09:32+00:00,"add very basic tests of win_package, based on existing win_msi tests. (#17383)
+
+* add very basic tests of win_package, based on existing win_msi tests.",https://github.com/ansible/ansible,13.040383299110198,27,neutral,7.4074074074074066
+ansible,Tom Melendez,2016-09-16 14:02:18+00:00,Changes to enable make gce to run.  Added sys import so libcloud error is displayed; renamed credentials keys in template file so they work properly with gce_credentials.py. (#16607),https://github.com/ansible/ansible,13.040383299110198,33,neutral,3.0303030303030303
+ansible,Gabriele,2016-09-21 09:35:56+00:00,Adding raw check to nxos.py (#17659),https://github.com/ansible/ansible,13.040383299110198,46,neutral,4.3478260869565215
+ansible,Ondra Machacek,2016-09-21 16:41:36+00:00,"Add oVirt support to `ansible/module_utils` module (#17364)
+
+* Add oVirt utility module
+
+This patch add oVirt utility module, which contains helper functions,
+for oVirt modules and also shared documentation fragment for oVirt.
+
+* Adjust to Python 2.4
+
+* Fixups
+
+* Add support for poll interval and fixes",https://github.com/ansible/ansible,13.040383299110198,185,neutral,5.9459459459459465
+ansible,Jordan Borean,2016-10-05 22:46:12+00:00,"Fix/windows documentation (#17851)
+
+* Updated Windows documentation for more clarity on particular features like NTLM auth.",https://github.com/ansible/ansible,13.040383299110198,732,neutral,8.060109289617486
+ansible,Sam Doran,2016-10-12 18:03:42+00:00,Change ie to i.e. and add a bit more clarity,https://github.com/ansible/ansible,13.040383299110198,468,neutral,12.393162393162394
+ansible,Jasper Lievisse Adriaanse,2016-11-01 17:50:02+00:00,Implement basic DMI facts for OpenBSD,https://github.com/ansible/ansible,13.040383299110198,30,neutral,3.333333333333333
+ansible,Gonéri Le Bouder,2016-11-02 23:36:22+00:00,"drop duplicated section from CHANGELOG
+
+This 2.1.2 section from the changelog was duplicated.
+
+78a02555e5577162a02c1 was coming from extra 2.1.2 information but the section
+was already here since 94a0d2afb4b7b74bb.",https://github.com/ansible/ansible,13.040383299110198,152,neutral,18.421052631578945
+ansible,David Moreau Simard,2016-11-08 15:41:38+00:00,"Update the link to the os-client-config repository
+
+This is a trivial change -- os-client-config has moved from /stackforge/ to /openstack/ a long time ago.",https://github.com/ansible/ansible,13.040383299110198,39,neutral,2.564102564102564
+ansible,Ganesh Nalawade,2016-11-18 10:50:39+00:00,Fix command typo in integration tests README file (#18539),https://github.com/ansible/ansible,13.040383299110198,372,negative,15.32258064516129
+ansible,Robert Estelle,2016-12-08 16:22:26+00:00,Remove incorrect executable permissions.,https://github.com/ansible/ansible,13.040383299110198,25,neutral,16.0
+ansible,Ash Wilson,2016-12-08 16:22:46+00:00,Another documentation commit.,https://github.com/ansible/ansible,13.040383299110198,30,neutral,10.0
+ansible,whiter,2016-12-08 16:22:59+00:00,Added postgresql-license type,https://github.com/ansible/ansible,13.040383299110198,28,neutral,3.571428571428571
+ansible,Ricardo Carrillo Cruz,2016-12-08 16:24:13+00:00,"Allow passing domain name on os_server
+
+A cloud admin can search domains, thus it should be possible
+to pass a domain name, just like ids.",https://github.com/ansible/ansible,13.040383299110198,244,neutral,28.688524590163933
+ansible,Fabian von Feilitzsch,2016-12-08 16:24:17+00:00,make binds a list instead of a dict (to prevent overwriting when copying the same file to two places) (#2294),https://github.com/ansible/ansible,13.040383299110198,25,neutral,12.0
+ansible,GGabriele,2016-12-08 16:24:21+00:00,Addng nxos_feature,https://github.com/ansible/ansible,13.040383299110198,118,neutral,5.932203389830509
+ansible,Siva Popuri,2016-12-08 16:32:52+00:00,ansible modules for centurylink cloud are added,https://github.com/ansible/ansible,13.040383299110198,25,neutral,12.0
+ansible,Eike Frost,2016-12-08 16:32:53+00:00,add zabbix proxy support to zabbix_host,https://github.com/ansible/ansible,13.040383299110198,29,neutral,10.344827586206897
+ansible,Baptiste Mille-Mathias,2016-12-08 16:33:46+00:00,"fix typo
+
+conainerization => containerization",https://github.com/ansible/ansible,13.040383299110198,37,neutral,13.513513513513514
+ansible,Ivan Bojer,2016-12-08 16:34:57+00:00,"PanOS module for admin password change using PanOS API as the transport (#2930)
+
+* PanOS module that allows admin password change.
+
+* fixed a typo
+
+* empty __init__.py
+
+* added require ansible Python extension .py
+
+* added version string
+
+* added return docstring
+
+* changed version to 2.2
+
+* - changes to the format and module as requested by @privateip
+
+* changed version back to 2.2 as 2.3 was failing automated tests
+
+* Revert ""changed version back to 2.2 as 2.3 was failing automated tests""
+
+reverting version info
+
+This reverts commit 71d520f3b4b69eb017c2b9f287a74cb77fae9d1c.",https://github.com/ansible/ansible,13.040383299110198,29,neutral,3.4482758620689653
+ansible,Yanis Guenane,2016-12-08 16:35:03+00:00,"network: Add new module openssl_privatekey
+
+This module aims to allow a user to manage the lifecycle of OpenSSL
+private keys. Internally it relies on the pyOpenSSL python library
+to interact with openssl.
+
+A user is able to specify :
+
+  * key size (via `size` parameter)
+  * key algorithm (via `type` parameter)
+  * key location (via `path` parameter)
+
+The most simple use case is:
+
+```
+- name: Generate ansible.com.pem SSL private key
+  openssl_privatekey: name=ansible.com.pem
+                      path=/etc/ssl/private
+```
+
+A user can speficy more settings:
+
+```
+- name: Generate ansible.com.pem SSL private key
+  openssl_privatekey: name=ansible.com.pem
+                      path=/etc/ssl/private
+                      size=2048
+                      type=DSA
+```
+
+A user can also force the regeneration of an SSL key:
+
+```
+- name: Generate ansible.com.pem SSL private key
+  openssl_privatekey: name=ansible.com.pem
+                      path=/etc/ssl/private
+                      force=true
+```",https://github.com/ansible/ansible,13.040383299110198,83,neutral,8.433734939759036
+ansible,Gaurav Rastogi,2017-02-08 14:47:18+00:00,"Avi Networks Ansible modules. (#20415)
+
+* Avi Networks Ansible modules.
+Avi Version: 16.3.4
+
+* Fixed Review comments
+1. Changed description to be full sentences
+2. Fixed Pep8 warnings.
+3. Fixed comments and descriptions.
+
+* 1. Fixed descriptions and messages as per review comments.
+2. Added descriptions for the missing parameters.
+
+* Fixed the shippable break due to the incorrect description format
+
+* Removed the extra modules so that there is a single module for the first commit
+
+* Updated license to BSD based on review comments
+
+* updated comments based on review feedback
+
+* Refactored code to handle POST and PUT scenarios where playbook does not need to check whether object is present.
+Moved ansible helper utilities to module_utils as now roles can be patched with module_utils as well.
+
+* fixed pep8 warnings",https://github.com/ansible/ansible,13.040383299110198,74,neutral,0.0
+ansible,Damien,2017-02-09 18:10:36+00:00,"New dynamic inventory for Apstra AOS (#21045)
+
+* Initial release of dynamic inventory for AOS",https://github.com/ansible/ansible,13.040383299110198,23,neutral,0.0
+ansible,Sloane Hertel,2017-02-15 23:52:48+00:00,"add 'version_added' field for environment_variables option in lambda.py (#21500)
+
+* Add 'version_added' field for environment_variables option (version_added: ""2.3"")",https://github.com/ansible/ansible,13.040383299110198,549,neutral,12.932604735883425
+ansible,Alan Rominger,2017-03-03 07:29:19+00:00,"Update dead support link (#22212)
+
+* Update dead support link
+
+Visit https://www.ansible.com/, and you'll find the support link points to this URL, https://access.redhat.com/products/ansible-tower-red-hat/.
+
+The current link is a dead link.
+
+* update github code blocks link",https://github.com/ansible/ansible,13.040383299110198,34,negative,26.47058823529412
+ansible,Prasad Katti,2017-04-03 17:40:12+00:00,"[cloud][docs] Must use the count_tag option with exact_count (#23167)
+
+Fixed an example in ec2 module. The example does not work without
+count_tag option.",https://github.com/ansible/ansible,13.040383299110198,52,neutral,1.9230769230769231
+ansible,Jacob McGill,2017-04-03 18:22:57+00:00,Update fortios_config.py (#23230),https://github.com/ansible/ansible,13.040383299110198,72,neutral,2.7777777777777777
+ansible,Mark Chappell,2017-04-04 18:07:03+00:00,"ec2_lc.py: Also pass 'encrypted' when adding a volume
+
+This only allows for using the default KMS keys, but enables encryption
+at rest without needing to migrate the module to boto3",https://github.com/ansible/ansible,13.040383299110198,98,neutral,13.26530612244898
+ansible,Abhijeet Kasurde,2017-04-11 23:26:51+00:00,"Fix atomic pylint issues
+
+Signed-off-by: Abhijeet Kasurde <akasurde@redhat.com>",https://github.com/ansible/ansible,13.040383299110198,1068,neutral,5.992509363295881
+ansible,Andreas Olsson,2017-04-15 16:09:47+00:00,"Fix documented defaults in the nsupdate module (#23532)
+
+Let the documentation reflect what the module actually implements.",https://github.com/ansible/ansible,13.040383299110198,39,neutral,12.82051282051282
+ansible,Trishna Guha,2017-04-20 10:12:40+00:00,"Add eos_banner as module to banner param (#23789)
+
+Signed-off-by: Trishna Guha <trishnaguha17@gmail.com>",https://github.com/ansible/ansible,13.040383299110198,266,neutral,5.263157894736842
+ansible,QijunPan,2017-05-16 21:43:33+00:00,"Contributing lib/ansible/modules/network/cloudengine/ce_netconf.py module to manage HUAWEI data center CloudEngine (#22056)
+
+* add ce_netconf
+
+add ce_netconf
+
+* update
+
+* upgrade netconf
+
+* fix review issues
+
+* fix review issue.",https://github.com/ansible/ansible,13.040383299110198,72,neutral,1.3888888888888888
+ansible,Mike Wiebe,2017-06-07 14:35:08+00:00,"Fix nxos_vpc idempotence issues (#25219)
+
+* Fix nxos_vpc idempotence issues
+
+* Remove legacy-file pep8 now passing",https://github.com/ansible/ansible,13.040383299110198,71,neutral,7.042253521126761
+ansible,Simon Dodsley,2017-06-16 10:28:50+00:00,"Initial commit for Pure Storage Ansible module (#25386)
+
+* Initial commit for Pure Storage Ansible module
+
+* Initial commit for Pure Storage Ansible module
+
+* Initial commit for Pure Storage Ansible module
+
+* Fix import issues as required by post-2.2
+
+* Move last import to top
+
+* Follow suggestions and only implement one module per PR
+Fix documentation changes requested
+
+* Documentation and formatting changes",https://github.com/ansible/ansible,13.040383299110198,111,neutral,18.01801801801802
+ansible,David Newswanger,2017-06-19 07:47:17+00:00,"added integration tests for yum repository (#25671)
+
+* added integration tests for yum repository
+
+* fixed escaped single quote
+
+* extended yum_repository tests to include fedora
+
+* removed unused variable file
+
+* added check for return values
+
+* replaced escaped double quotes with single quotes, switched to lookup for reading repofile",https://github.com/ansible/ansible,13.040383299110198,50,neutral,16.0
+ansible,James Mighion,2017-06-30 02:16:45+00:00,Calling connection.close() instead of self.close() to actually close the connection. (#26257),https://github.com/ansible/ansible,13.040383299110198,30,neutral,6.666666666666667
+ansible,saichint,2017-07-05 16:05:47+00:00,"fix for nxos_acl_interface idempotency (#26156)
+
+* fix for nxos_acl_interface idempotency
+
+* shippable error fix
+
+* fix issues with python3.x",https://github.com/ansible/ansible,13.040383299110198,71,neutral,25.352112676056336
+ansible,rahushen,2017-07-12 17:19:02+00:00,"Add nxos_command IT and generalize UT (#26617)
+
+* Add nxos_command IT sanity
+
+* generalize nxos_command UT for different NXOS platforms",https://github.com/ansible/ansible,13.040383299110198,31,neutral,6.451612903225806
+ansible,Anil Kumar Muraleedharan,2017-07-18 12:11:21+00:00,Checked again with YAML Checker and Pep8 checker (#26786),https://github.com/ansible/ansible,13.040383299110198,70,neutral,4.285714285714286
+ansible,Martin Krizek,2017-07-25 13:23:01+00:00,docs: fix community meetings link (#27264),https://github.com/ansible/ansible,13.040383299110198,509,neutral,16.50294695481336
+ansible,flowerysong,2017-08-09 14:53:30+00:00,"hashi_vault: fix token logic again (#27863)
+
+The token is not mandatory, and there are more ways of setting it than
+passing it in as a module arg.",https://github.com/ansible/ansible,13.040383299110198,25,neutral,36.0
+ansible,Bruno,2017-08-29 21:59:06+00:00,"Azure managed disks module (#28424)
+
+* First version of managed disks: Multiple methods for creating, one get and one delete
+
+* My name is too cool to be there
+
+* Passing pep8 test
+
+* Create and delete empty working
+
+* Module for testing, lacks sense of setting state changed for unchanged operations
+
+* Checking that actual changes are done to update status changed
+
+* First version of the integration test
+
+* Adding the dictionary to translate the facts, without using serializer
+
+* Adding the serializer to managed disk
+
+* Using native serializer in managed disks facts
+
+* Added DiskSku to pass the whole class to the disk instead of a string
+
+* Bumping version
+
+* Passing sanity checks
+
+* Aparently they Id is not returned by the serilizer
+
+* Integration test
+
+* Latest version
+
+* Using my own serializer, the one in commons is not working for me
+
+* Managed disks module support for ansible
+
+* Updating my github account username in the file
+
+* Sanity checks were missing  in facts and integration test
+
+* Fixing typo in source_resource_uri and removed AzureHTTPErrors
+
+* Update tags are working now
+
+* Integration test for tags
+
+* Added support for tags, added check mode, corrected style",https://github.com/ansible/ansible,13.040383299110198,24,neutral,0.0
+ansible,Dusan Matejka,2017-09-11 15:14:22+00:00,"adds soft-update logic if force is set to no in zabbix_host module in… (#22614)
+
+* adds soft-update logic if force is set to no in zabbix_host module instead of failing
+
+* makes zabbix_host soft-update compatible with python2.6",https://github.com/ansible/ansible,13.040383299110198,34,neutral,8.823529411764707
+ansible,Lindsay Hill,2017-10-06 08:30:10+00:00,Fixed RST hyperlink issues (#31394),https://github.com/ansible/ansible,13.040383299110198,25,neutral,20.0
+ansible,Richlv,2017-10-09 14:00:05+00:00,"Update playbooks_lookups.rst
+
+fix doublequote being used in place of the colon",https://github.com/ansible/ansible,13.040383299110198,28,neutral,0.0
+ansible,Yuwei Zhou,2017-11-22 03:20:00+00:00,"Fixes #30863: support update source_address_prefix in azure_rm_securitygroup (#32614)
+
+* compare source address prefix
+
+* remove useless quote",https://github.com/ansible/ansible,13.040383299110198,65,neutral,15.384615384615383
+ansible,Samer Deeb,2017-11-27 20:55:08+00:00,"Add Support for Mellanox switches: first module: mlnxos_command (#33121)
+
+* Add Support for Mellanox switches: first module: mlnxos_command
+
+Signed-off-by: Samer Deeb <samerd@mellanox.com>
+
+* Add cliconf support for mlnxos
+
+Signed-off-by: Samer Deeb <samerd@mellanox.com>
+
+* 1- Fix short description, 2- remove waitfor
+
+Signed-off-by: Samer Deeb <samerd@mellanox.com>
+
+* remove usage of check_args
+
+Signed-off-by: Samer Deeb <samerd@mellanox.com>",https://github.com/ansible/ansible,13.040383299110198,32,neutral,3.125
+ansible,Zim Kalinowski,2017-12-13 04:31:00+00:00,"[new module] Added Azure SQL Servers support - cloud/azure/azure_rm_sql_servers (#33077)
+
+* Added new module: Azure RM SQL Servers
+
+* fixed sanity issues
+
+* enabled integration test
+
+* disabling test as Microsoft.Sql namespace not available
+
+* renamed servers -> server
+
+* updates as requested in the review
+
+* udpates to sql server
+
+* renamed module
+
+* replaced has_key by in
+
+* flattened results
+
+* final updates to sql server
+
+* updates as requested in the review
+
+* added more tests
+
+* deleting unexisting instance up front
+
+* more tests
+
+* another round of test changes
+
+* removed uneeded test",https://github.com/ansible/ansible,13.040383299110198,203,neutral,11.822660098522167
+ansible,David Soper,2017-12-14 18:38:35+00:00,"Connection and MAC pool module for Cisco UCS (#31151)
+
+* Initial commit for UcsConnection and ucs_macpool module.
+Configures MAC address pools on UCS Manager.
+
+* ansible-doc fixes
+
+* PEP8 fixes
+
+* pep8, pylint, and validate-modules fixes
+
+* Correct indent issue introduced during pycodestyle cleanup
+
+* Simplified module arugment setup.
+Placed all code in main to avoid multiple calls and arg passing.
+
+* module_utils/ucs changed to UCSModule which now handles login/logout directly
+login_handle removed from module.params
+doc updates on mac_list params and change to first_addr/last_addr for mac blocks
+checking of all mac params
+
+* Move module_utils to remote_management/ucs
+Fix validate-modules issue with docs
+
+* UCS MAC pool integration tests
+Fixed issues with MAC pool descr and address range params",https://github.com/ansible/ansible,13.040383299110198,27,neutral,0.0
+ansible,Alicia Cozine,2018-01-31 18:01:55+00:00,creates structure for network docs (#35514),https://github.com/ansible/ansible,13.040383299110198,176,neutral,2.840909090909091
+ansible,Alex Stephen,2018-02-06 16:50:16+00:00,[cloud] New GCP module: DNS Managed Zones (gcp_dns_managed_zone.py) (#35014),https://github.com/ansible/ansible,13.040383299110198,180,neutral,4.444444444444445
+ansible,Sviatoslav Sydorenko,2018-02-17 11:03:12+00:00,"Drop duplicate imports from apt_repository module (#36320)
+
+* Drop duplicate imports from apt_repository module
+* Drop json import from apt_repository module",https://github.com/ansible/ansible,13.040383299110198,114,neutral,13.157894736842104
+ansible,Deepak Agrawal,2018-02-20 12:59:34+00:00,"vyos_config IndexError in sanitize_config (#36375)
+
+* Bug in del(list) logic. Say you have a list of 4 elements a[0-3]
+and you have to remove index 1 and 3, if you remove index 1 first
+then list is cut short a[0-2] and does not have index 3
+
+Fix: Remove indexes in reverse sorted order e.g. 3 and 1 in above
+example so that order of indexes remain preserved even after deleting
+
+fix is to remove indexes in reverse sorted order
+
+* Add test cases for failed case",https://github.com/ansible/ansible,13.040383299110198,30,neutral,30.0
+ansible,Kevin Breit,2018-02-26 11:24:53+00:00,"Fix typos (#36671)
+
+Fix minor typos",https://github.com/ansible/ansible,13.040383299110198,131,negative,9.16030534351145
+ansible,David Passante,2018-03-23 13:13:41+00:00,"cs_vpc_offering: listVPCOffering API returns any matching names (#37783)
+
+* fix listVPCOffering API method returns any matching names
+
+* fix build_ci no-underscore-variable
+
+* clearer variable name
+
+* making it simpler",https://github.com/ansible/ansible,13.040383299110198,27,neutral,0.0
+ansible,Rémy Léone,2018-04-03 19:04:42+00:00,Initial commit for Scaleway support (#37638),https://github.com/ansible/ansible,13.040383299110198,49,neutral,4.081632653061225
+ansible,Sumit Jaiswal,2018-04-20 08:23:59+00:00,Merge branch 'devel' of https://github.com/ansible/ansible into devel,https://github.com/ansible/ansible,13.040383299110198,84,neutral,7.142857142857142
+ansible,Miguel Angel Muñoz González,2018-04-27 09:47:58+00:00,"Initial commit for fortios_webfilter (#37196)
+
+* Initial commit for fortios_webfilter",https://github.com/ansible/ansible,13.040383299110198,429,neutral,0.9324009324009324
+ansible,Chris Archibald,2018-05-19 00:17:01+00:00,"Add Na_ontap_broadcast_domain module.  (#39753)
+
+* add first module
+
+* fix case
+
+* Create na_ontap
+
+* Fix small pep8 errors
+
+* Fixes for issues found by Amit
+
+* fixes for amit
+
+* fix doc
+
+* get doc to compile",https://github.com/ansible/ansible,13.040383299110198,227,neutral,6.167400881057269
+ansible,Yunge Zhu,2018-05-23 23:37:44+00:00,"Fixes #36621, support adfs auth through adal  (#37909)
+
+* update username/password auth to use adal lib
+
+* remove default client_id after discussion
+
+* fix lint error: trailing whitespace",https://github.com/ansible/ansible,13.040383299110198,57,neutral,8.771929824561402
+ansible,Nilashish Chakraborty,2018-05-30 12:51:54+00:00,"Fixes eos_logging idempotence issue #31862 (#40604)
+
+* eos_logging idempotence fix
+
+* fixed eos_logging idempotence issue
+
+* Fixed pylint and pep8 errors
+
+* Added tests for eos_logging & minor fix
+
+* Removed q statements",https://github.com/ansible/ansible,13.040383299110198,84,neutral,4.761904761904762
+ansible,James Cassell,2018-06-18 15:10:16+00:00,"update play_context for reset_connection (#40866)
+
+steps taken from lib/ansible/executor/task_executor.py
+
+fixes: https://github.com/ansible/ansible/issues/27520",https://github.com/ansible/ansible,13.040383299110198,30,neutral,6.666666666666667
+ansible,Fred-sun,2018-06-22 08:22:48+00:00,"Update azure_rm_publicipaddress_facts.py example (#41833)
+
+Example describe error",https://github.com/ansible/ansible,13.040383299110198,88,neutral,1.1363636363636365
+ansible,Jill R,2018-07-06 17:52:17+00:00,"Add additional puppet options (#42218)
+
+* Add additional puppet options
+
+Add support for puppet options --debug, --verbose, --summary,
+and extend logdest to support logging to stdout and syslog at
+the same time.
+
+Fixes issue: #37986
+
+* Fix docs
+
+* Doc fix, add release note
+
+* Fix silly yaml error
+
+* Correct changelog, add C() to params in doc",https://github.com/ansible/ansible,13.040383299110198,37,neutral,13.513513513513514
+ansible,Sandra McCann,2018-07-17 16:13:20+00:00,fixed typo (#42900),https://github.com/ansible/ansible,13.040383299110198,313,neutral,7.987220447284344
+ansible,Martin Nečas,2018-08-15 12:56:18+00:00,"add custom_compatibility_version (#40813)
+
+* add custom_compatibility_version
+
+* use implemented methods get minor and major",https://github.com/ansible/ansible,13.040383299110198,90,neutral,1.1111111111111112
+ansible,Christian Kotte,2018-08-27 19:13:35+00:00,"Fix systemd service is already masked issue (#44730)
+
+* Check if service is already masked
+
+Newer versions of Systemd now report a 'LoadError' when the unit file
+is masked. This causes the play to fail with an error stating that the
+service is already masked.
+
+Now the systemd module checks if the service is masked and doesn't
+fail if it's masked and LoadError is reported.
+
+Fixes issue #42384.
+
+* Remove useless parens",https://github.com/ansible/ansible,13.040383299110198,36,negative,5.555555555555555
+ansible,Mariusz Mazur,2018-10-16 16:52:18+00:00,Correct wording in k8s module description (#47125),https://github.com/ansible/ansible,13.040383299110198,26,neutral,11.538461538461538
+ansible,Paul Belanger,2018-10-19 04:25:55+00:00,"Force PEM SSH keys for paramiko
+
+Trying to get ansible-test working on my fedora-28 system, I noticed I
+was getting invalid keys from paramiko. It looks like this is because
+ssh-keygen is now defaulting to RFC4716 format for private / public
+keys.
+
+For now, we can still use PEM based SSH keys, but the long term fix here
+is to report a bug to paramiko and support RFC4716 for rsa keys.
+
+Signed-off-by: Paul Belanger <pabelanger@redhat.com>",https://github.com/ansible/ansible,13.040383299110198,89,negative,16.853932584269664
+ansible,ftntcorecse,2018-11-21 05:14:35+00:00,"FortiManager SSL SSH Security Profiles (#47152)
+
+* Initial Commit
+
+* Initial Commit
+
+* Initial Commit
+
+* Fixing syntax errors
+
+* After running sanity tests, fixed pylint and pep8 errors
+
+* After running sanity tests, fixed pylint and pep8 errors
+
+* Fixing more syntax issues
+
+* Fixing more syntax issues
+
+* Adding username to doc block
+
+* PR candidate
+
+* PR candidate
+
+* fixed pep8 and docs issues
+
+* fixed 2.6 function issues
+
+* fixed 2.6 function issues part duex
+
+* Initial commit for security profile group module
+
+* Adding better playbook example to module
+
+* Adding another commit to test shippable tests
+
+* Fixing shippable errors, pep8 in unit test file and doc block problem in main module
+
+* Fixing documentation module error
+
+* Fixing pep8 line too long in unit test
+
+* Fixing utility function with nested dictionaries
+
+* Fixing utility function with pep8 issue
+
+* Adding change to allow for multiple list of dictionaries to be submitted via a single playbook
+
+* Initial commit for FMG Security Profile Web Application Firewall
+
+* adding extra line at bottom for pep8 conditions
+
+* Adding descriptions to documentation
+
+* Fixing more pep8 issues
+
+* New commit for new PR
+
+* Removing todo in documentation
+
+* Changing module name in documentation to match actual module name
+
+* Fixing yaml syntax for long choices list
+
+* Fixing yaml syntax for long choices list
+
+* Initial commit for fmgr web filter security profile
+
+* Initial commit for SSL and SSH security profiles in FMG
+
+* Fixing pep8 syntax issues
+
+* Adding better playbook example
+
+* Fixing review changes
+
+* Adding @ in author names per @Gundalow's request per Ansible's guidelines",https://github.com/ansible/ansible,13.040383299110198,41,neutral,2.4390243902439024
+ansible,Diane Wang,2018-11-21 17:27:35+00:00,Fix pr44962 add check before hot add cpu or memory (#48289),https://github.com/ansible/ansible,13.040383299110198,21,neutral,4.761904761904762
+ansible,rajaspachipulusu17,2018-11-30 07:10:43+00:00,"Pluribus Networks pn access list module (#49176)
+
+* Pluribus Networks pn access list module
+* Added shlex import which was missing and added correct author
+* Added an extra space which is according to pep8",https://github.com/ansible/ansible,13.040383299110198,44,neutral,2.272727272727273
+ansible,Bill Dodd,2018-12-06 20:05:31+00:00,remove non-standard CreateBiosConfigJob command (#48740),https://github.com/ansible/ansible,13.040383299110198,29,negative,17.24137931034483
+ansible,Andrey Klychkov,2018-12-17 11:56:33+00:00,"New module - postgresql_idx (#49684)
+
+* New module - postgresql_idx
+
+* New module postgresql_idx: added returns block
+
+* New module postgresql_idx: fixed documentation, typos and added idxname to fail_json",https://github.com/ansible/ansible,13.040383299110198,172,neutral,12.209302325581394
+ansible,Wojciech Wypior,2018-12-19 02:38:19+00:00,"added ASM policy server technology module (#50116)
+
+* added ASM policy server technology module
+
+* Update bigip_asm_policy_server_technology.py",https://github.com/ansible/ansible,13.040383299110198,94,neutral,3.191489361702128
+ansible,Hannes Ljungberg,2019-01-14 10:58:05+00:00,"docker_swarm_service: Don’t add difference when update_order is None (#50655)
+
+* Don’t add difference when update_order is None
+
+* Add changelog fragment",https://github.com/ansible/ansible,13.040383299110198,50,neutral,0.0
+ansible,The Magician,2019-02-20 18:11:28+00:00,New Module: gcp_cloudbuild_trigger_facts (#52622),https://github.com/ansible/ansible,13.040383299110198,185,neutral,0.0
+ansible,Lukas Kämmerling,2019-02-22 09:18:30+00:00,"Add Hetzner Cloud Inventory Plugin (#52553)
+
+* Add hcloud Inventory Plugin
+
+* Rename hcloudAPIException to APIException
+
+* Apply changes from hcloud-python 1.0.0
+Some source cleanup
+
+* Add handling for server.image is None
+
+* Fix some small things.
+
+* Fix some small things.
+
+* Remove some golang-ish code
+
+* Apply review results
+
+* Fix ci tests",https://github.com/ansible/ansible,13.040383299110198,33,neutral,6.0606060606060606
+ansible,Mario Lenz,2019-02-25 07:57:49+00:00,"VMware: Fix KeyError in vmware_host_config_manager (#52736)
+
+* Bug fix for vmware_host_config_manager
+
+* Update changelogs/fragments/44561-vmware_host_config_manager-fix_key_error.yml
+
+Co-Authored-By: mariolenz <m@riolenz.de>",https://github.com/ansible/ansible,13.040383299110198,23,neutral,8.695652173913043
+ansible,Chris Van Heuveln,2019-02-26 06:31:13+00:00,nxos_command:run_commands results failure when commands array size >1 (#52670),https://github.com/ansible/ansible,13.040383299110198,54,negative,37.03703703703704
+ansible,chkp-orso,2019-06-11 06:57:03+00:00,"PR to introduce cp_network and cp_publish as modules (#57621)
+
+* network and install policy modules for example
+
+network and install policy modules for example
+
+* revert the changes in version
+
+revert the changes in version
+
+* documentation_fragment
+
+documentation_fragment
+
+* Checking the status code of the set request
+
+* delete some of Rikis' files
+
+* retrieve Rikis' files and call equals API method
+
+* adding blanck line between functions
+
+* implement host, address-range and group
+
+* mostly sintax fixes
+
+* try again with the old host and access rule
+
+* small changes
+
+* adding service udp and publish
+
+* publish command
+
+* little fix
+
+* choises for state parameter
+
+* support wait_for_task and API version
+
+* imports
+
+* refactor of function's name
+
+* network module
+
+* rename modules and return value from modules
+
+* PR before examples to: tests, lookup, check_mode
+
+* small fixes
+
+* fixes for code review
+
+* small fixes
+
+* state parameter in examples and many /n
+
+* white spaces
+
+* 4 tries for how choices should be, and turn true to True",https://github.com/ansible/ansible,13.040383299110198,37,neutral,8.108108108108109
+ansible,Shachaf92,2019-07-04 21:42:05+00:00,win_get_url - Fix proxy_url not used correctly (#58738),https://github.com/ansible/ansible,13.040383299110198,21,negative,14.285714285714285
+ansible,Xu Yuandong,2019-07-14 15:28:40+00:00,update ce_interface to fix a bug. (#59070),https://github.com/ansible/ansible,13.040383299110198,55,neutral,10.909090909090908
+ansible,yanzhangi,2019-07-19 01:33:19+00:00,"update ce_vrrp to fix a bug (#59185)
+
+* update ce_vrrp to fix a bug
+
+* update module ce_vrrp 20190718
+
+* update ce_vrrp to fix bugs",https://github.com/ansible/ansible,13.040383299110198,33,neutral,0.0
+ansible,sky-joker,2019-07-31 14:12:29+00:00,VMware: Modify guest_id reference URL of vmware_guest (#59861),https://github.com/ansible/ansible,13.040383299110198,24,neutral,8.333333333333332
+ansible,chkp-amiads,2019-08-29 04:13:34+00:00,verify_policy module (#61455),https://github.com/ansible/ansible,13.040383299110198,29,neutral,10.344827586206897
+ansible,Andrew Klychkov,2019-12-06 10:53:04+00:00,mysql_info: add note to the module's documentation (#65603),https://github.com/ansible/ansible,13.040383299110198,131,neutral,14.50381679389313
+ansible,Rick Elrod,2020-01-29 21:29:40+00:00,"Remove `with` statement for pytest-mock unit tests
+
+As per:
+https://github.com/pytest-dev/pytest-mock#note-about-usage-as-context-manager
+pytest-mock is not meant to be used within a `with` context or as a
+decorator. Instead, pytest-mock will automatically unpatch the mocked
+methods when each test is complete.
+
+In newer pytest-mock, this use actually throws an exception and causes
+the tests to fail.
+
+This hasn't been hit in Ansible's CI yet, because the docker image
+that the tests run in uses an older version of pytest-mock. However,
+there is no constraint on the upper bound of pytest-mock in
+test/lib/ansible_test/_data/requirements/constraints.txt which means
+that when running the tests locally, outside of that docker image, the
+tests never pass.
+
+This patch removes the `with` context in each such case.
+
+Signed-off-by: Rick Elrod <rick@elrod.me>",https://github.com/ansible/ansible,13.040383299110198,181,negative,3.867403314917127
+ansible,Ansible Core Team,2020-03-23 16:14:21+00:00,Mark migrated init,https://github.com/ansible/ansible,13.040383299110198,108,neutral,0.9259259259259258
+ansible,Don Naro,2022-06-02 14:28:11+00:00,Issue #77681 revamp getting started guide (#77897),https://github.com/ansible/ansible,13.040383299110198,29,neutral,3.4482758620689653
+arviz,aloctavodia,2015-07-29 12:56:07+00:00,add stats module,https://github.com/arviz-devs/arviz,9.557837097878163,41,neutral,9.75609756097561
+arviz,Ari Hartikainen,2017-01-06 22:46:23+00:00,"round_to_string_formatting
+
+round-functions are turned to string formatting.
+
+round(num, roundto)  -> ”:.{roundto}g”.format(num, roundto=roundto)",https://github.com/arviz-devs/arviz,9.557837097878163,232,neutral,9.051724137931034
+arviz,Osvaldo Martin,2017-03-18 13:15:45+00:00,"Merge pull request #9 from ahartikainen/feature/round_to_string_formatting
+
+Feature/round to string formatting",https://github.com/arviz-devs/arviz,9.557837097878163,204,neutral,9.803921568627452
+arviz,Agustina Arroyuelo,2018-04-27 19:29:20+00:00,"Pairplot for arviz (#63)
+
+* pairplot for arviz
+
+* moved scale_text function to plot_utils
+
+* changed tests
+
+* removed import warnings line",https://github.com/arviz-devs/arviz,9.557837097878163,28,neutral,0.0
+arviz,Colin,2018-05-15 11:50:00+00:00,"Add linting framework (#79)
+
+* Add linting framework
+
+* More linting",https://github.com/arviz-devs/arviz,9.557837097878163,122,neutral,11.475409836065571
+arviz,Colin Carroll,2018-05-20 20:21:04+00:00,Add optional dependency class,https://github.com/arviz-devs/arviz,9.557837097878163,59,neutral,5.084745762711865
+arviz,Ravin Kumar,2018-08-03 14:07:03+00:00,"Fix bug in mode for posterior plot
+
+Add additional plots to posterior documentation",https://github.com/arviz-devs/arviz,9.557837097878163,151,neutral,10.596026490066226
+arviz,Oriol Abril,2018-11-25 17:09:41+00:00,"emcee version 3 compatibility  (#426)
+
+* emcee version 3 compatibility
+
+* Comment and run through black",https://github.com/arviz-devs/arviz,9.557837097878163,111,neutral,11.711711711711713
+arviz,Piyush Gautam,2020-01-15 14:13:35+00:00,"Clarify the usage of ""plot_joint"" (#1001)",https://github.com/arviz-devs/arviz,9.557837097878163,28,neutral,0.0
+arviz,Oriol Abril-Pla,2020-06-12 01:17:33+00:00,update governance to match description in election.md (#1231),https://github.com/arviz-devs/arviz,9.557837097878163,124,neutral,8.870967741935484
+arviz,Rosheen Naeem,2021-09-01 08:35:19+00:00,"Updated Installation Guide (#1776)
+
+* Updated and fixed few mistakes in installation-guide
+
+* Removed extra line
+
+* Added python version in required dependencies
+
+* Incorporated changes
+
+* Fixed the aviz[all] command",https://github.com/arviz-devs/arviz,9.557837097878163,49,neutral,2.0408163265306123
+arviz,Osvaldo A Martin,2022-06-21 17:21:59+00:00,"Make plot_compare easy to understand (#2043)
+
+* add legend, improve docstrings and change names
+
+* fix tests, add title and y_label
+
+* Apply suggestions from code review
+
+Co-authored-by: Yann McLatchie <67298926+yannmclatchie@users.noreply.github.com>
+
+* update
+
+* update
+
+* pylint
+
+* pylint
+
+* fix test
+
+* fix test
+
+* fix docstrings
+
+* add bokeh
+
+* fix docs
+
+Co-authored-by: Yann McLatchie <67298926+yannmclatchie@users.noreply.github.com>
+Co-authored-by: Oriol (ZBook) <oriol.abril.pla@gmail.com>",https://github.com/arviz-devs/arviz,9.557837097878163,24,neutral,4.166666666666666
+borg,Jonas Borgström,2010-02-14 13:44:18+00:00,Initial import.,https://github.com/borgbackup/borg,15.00889801505818,560,neutral,9.285714285714286
+borg,Dan Christensen,2014-02-03 04:42:10+00:00,"Add tests for helpers.prune_split, one of which fails.",https://github.com/borgbackup/borg,15.00889801505818,40,negative,10.0
+borg,anarcat,2014-12-16 02:53:05+00:00,"document that hardlinks and symlinks are supported
+
+it seems that hardlinks are supported, but were not explicitely documented in the documentation. the FAQ seems like the right place to do this. closes #133.",https://github.com/borgbackup/borg,15.00889801505818,24,neutral,20.833333333333336
+borg,Antoine Beaupré,2014-12-16 03:07:05+00:00,"document better different dependencies
+
+this is written with recent Ubuntu and Debian in mind, but should be
+working everywhere. the idea here is to make sure anyone can install
+this without knowning too much about ACLs or anything similar.
+
+closes #135",https://github.com/borgbackup/borg,15.00889801505818,285,neutral,23.157894736842103
+borg,Thomas Waldmann,2015-02-28 01:33:35+00:00,"add .idea/ to gitignore, so PyCharm stuff does not get accidentally added/committed",https://github.com/borgbackup/borg,15.00889801505818,3609,neutral,11.970074812967582
+borg,TW,2015-05-14 15:18:00+00:00,"Merge pull request #6 from ThomasWaldmann/master
+
+merged attic PR #286 - sigusr1 / sigint handler to print current file infos",https://github.com/borgbackup/borg,15.00889801505818,2086,neutral,4.026845637583892
+borg,Michael Hanselmann,2016-01-07 10:18:03+00:00,Fix typo in comment,https://github.com/borgbackup/borg,15.00889801505818,22,negative,4.545454545454546
+borg,Marian Beermann,2016-03-14 19:26:12+00:00,Possible fix to silently skipping EIO and the like? #748,https://github.com/borgbackup/borg,15.00889801505818,711,neutral,12.37693389592124
+borg,enkore,2016-03-15 17:23:49+00:00,borg diff: find different files between archives,https://github.com/borgbackup/borg,15.00889801505818,429,neutral,6.293706293706294
+borg,Abogical,2016-06-20 13:14:52+00:00,Move code block for the write() function at do_list(),https://github.com/borgbackup/borg,15.00889801505818,29,neutral,3.4482758620689653
+borg,Martin Hostettler,2016-08-16 23:35:35+00:00,"Archiver.do_extract: Fix leak of downloaded chunk contents caused by preloading
+
+Include condition that path is non empty after applying strip_components into
+filter passed to iter_items.
+
+All filtering of files to extract must be done in the filter callable used in
+archive.iter_items because iter_items will preload all chunks used in items
+it returns. If they are not actually extracted the accumulate in the
+responsed dict.",https://github.com/borgbackup/borg,15.00889801505818,46,neutral,4.3478260869565215
+borg,Milkey Mouse,2017-03-09 20:35:33+00:00,"Add warning about running build_usage on Python >3.4 (fixes #2123)
+
+Python 3.6 added some new guaranteed hashing algorithms that will
+show up as available in the docs even though the baseline for support
+is Python 3.4; running build_usage with Python 3.4 will fix this.
+
+# Conflicts:
+#	docs/development.rst",https://github.com/borgbackup/borg,15.00889801505818,42,neutral,16.666666666666664
+borg,Manu,2018-10-02 09:28:29+00:00,Add argument storage_quota to forced_result. Avoids override by client.,https://github.com/borgbackup/borg,15.00889801505818,25,neutral,12.0
+borg,Thalian,2019-03-29 16:38:45+00:00,"[TASK] #4471 – borg help should print <command> list in sorted order: Step 1
+
+Added command section markers that will help when moving the sections later.",https://github.com/borgbackup/borg,15.00889801505818,63,neutral,17.46031746031746
+borg,Andrey Bienkowski,2021-11-28 14:32:34+00:00,"Remove BORG_LIBC completion
+
+BORG_LIBC was added in a4f7e69 to allow borg to work on systems where 
+ctypes.util,find_library() fails. Since 9914968 borg no longer uses 
+find_library().",https://github.com/borgbackup/borg,15.00889801505818,69,negative,17.391304347826086
+borg,Rayyan Ansari,2022-10-27 12:34:32+00:00,Remove old Windows scripts and Appveyor CI,https://github.com/borgbackup/borg,15.00889801505818,34,neutral,26.47058823529412
+borg,bigtedde,2023-06-02 19:55:35+00:00,parameterized compression tests,https://github.com/borgbackup/borg,15.00889801505818,66,neutral,0.0
+OpenCiviWiki,Dan Borstelmann,2016-04-23 20:07:40+00:00,Initial commit,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,23,neutral,0.0
+OpenCiviWiki,Darius Calliet,2016-05-14 17:22:34+00:00,Here goes nothing.,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,50,negative,8.0
+OpenCiviWiki,Daniel Borstelmann,2016-06-15 00:44:10+00:00,ds_store git ignore,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,156,negative,20.51282051282051
+OpenCiviWiki,jl24,2016-06-22 16:52:22+00:00,added static files,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,213,neutral,7.511737089201878
+OpenCiviWiki,Brylie Christopher Oxley,2017-07-09 18:17:44+00:00,Initial structure (set-up instructions),https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,737,neutral,5.291723202170964
+OpenCiviWiki,JooHee Lee,2017-08-12 09:49:25+00:00,enable csrf middleware,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,105,neutral,12.38095238095238
+OpenCiviWiki,Trac Taylor,2017-09-08 01:30:16+00:00,fixed 2 F401 issues in the api/migrations directory,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,40,neutral,30.0
+OpenCiviWiki,pyup-bot,2019-05-06 08:39:51+00:00,Update aloe from 0.1.15 to 0.1.18,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,146,neutral,0.0
+OpenCiviWiki,Tomasz Kołek,2019-05-06 08:39:51+00:00,Reduce unnecessary requirements.,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,36,neutral,16.666666666666664
+OpenCiviWiki,allcontributors[bot],2019-05-19 07:15:46+00:00,docs: update README.md,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,184,neutral,0.0
+OpenCiviWiki,Maryam Yusuf,2021-08-23 19:38:23+00:00,update space in frontend view,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,26,neutral,0.0
+OpenCiviWiki,Abhijith Ganesh,2021-09-02 10:06:57+00:00,Moved Account and Profile code as per #926,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,118,neutral,2.5423728813559325
+OpenCiviWiki,grkm,2021-09-08 18:30:16+00:00,Update dependencies as separated requirements files,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,82,neutral,9.75609756097561
+OpenCiviWiki,gorkemarslan,2021-09-09 10:55:23+00:00,Update dev.txt,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,61,neutral,11.475409836065571
+OpenCiviWiki,Görkem Arslan,2021-09-17 08:01:04+00:00,Update forms.py,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,55,neutral,0.0
+OpenCiviWiki,Nehemiah60,2023-01-28 10:54:23+00:00,Added an Issues Tab,https://github.com/CiviWiki/OpenCiviWiki,8.635181382614647,32,neutral,0.0
+ColossalAI,アマデウス,2021-10-28 16:19:45+00:00,Initial commit,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,35,neutral,0.0
+ColossalAI,ver217,2021-10-29 01:29:20+00:00,update documentation,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,237,neutral,8.860759493670885
+ColossalAI,Frank Lee,2021-11-02 06:35:06+00:00,"Merge pull request #4 from hpcaitech/hotfix/doc
+
+reoder parallelization methods in parallelization documentation",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,465,neutral,5.591397849462366
+ColossalAI,binmakeswell,2021-11-03 09:18:43+00:00,"fixed some typos in the documents, added blog link and paper author information in README",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,135,neutral,2.9629629629629632
+ColossalAI,HELSON,2021-12-16 08:05:15+00:00,overlap computation and communication in 2d operations (#75),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,132,neutral,6.0606060606060606
+ColossalAI,Jiarui Fang,2022-01-05 08:07:06+00:00,fix a bug in timer (#114),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,319,negative,10.658307210031348
+ColossalAI,github-actions[bot],2022-02-04 02:19:38+00:00,"Automated submodule synchronization (#203)
+
+Co-authored-by: github-actions <github-actions@github.com>",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,89,neutral,0.0
+ColossalAI,LuGY,2022-03-11 07:50:28+00:00,"[zero] cpu adam kernel (#288)
+
+* Added CPU Adam
+
+* finished the cpu adam
+
+* updated the license
+
+* delete useless parameters, removed resnet
+
+* modified the method off cpu adam unittest
+
+* deleted some useless codes
+
+* removed useless codes
+
+Co-authored-by: ver217 <lhx0217@gmail.com>
+Co-authored-by: Frank Lee <somerlee.9@gmail.com>
+Co-authored-by: jiaruifang <fangjiarui123@gmail.com>",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,36,neutral,11.11111111111111
+ColossalAI,jiaruifang,2022-03-11 07:50:28+00:00,show pytest parameterize,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,28,neutral,7.142857142857142
+ColossalAI,Maruyama_Aya,2022-03-11 07:50:28+00:00,fix format ColossalAI\colossalai\context\process_group_initializer,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,27,neutral,3.7037037037037033
+ColossalAI,Ziyue Jiang,2022-03-30 01:35:46+00:00,[TP] Add gather_out arg to Linear (#541),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,56,neutral,3.571428571428571
+ColossalAI,YuliangLiu0306,2022-04-03 12:46:45+00:00,"[refactor] pipeline, put runtime schedule into engine. (#627)",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,186,neutral,6.451612903225806
+ColossalAI,oahzxl,2022-07-12 10:18:14+00:00,[NFC] polish <colossalai/nn/lr_scheduler/poly.py> code style (#1267),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,145,neutral,4.137931034482759
+ColossalAI,Super Daniel,2022-07-13 04:08:21+00:00,[NFC] polish colossalai/nn/lr_scheduler/onecycle.py code style (#1269),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,49,neutral,10.20408163265306
+ColossalAI,Boyuan Yao,2022-07-13 04:08:21+00:00,[NFC] polish colossalai/nn/optimizer/lamb.py code style (#1275),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,59,neutral,10.16949152542373
+ColossalAI,Fazzie-Maqianli,2022-09-08 14:11:04+00:00,[NFC] polish colossalai/zero/sharded_model/reduce_scatter.py code style (#1554),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,40,neutral,5.0
+ColossalAI,BlueRum,2022-12-19 14:37:07+00:00,[Gemini] Update coloinit_ctx to support meta_tensor (#2147),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,24,neutral,16.666666666666664
+ColossalAI,Camille Zhong,2023-03-10 01:55:58+00:00,"Fix the version of lightning and colossalai in Stable Diffusion environment requirement (#3073)
+
+1. Modify the README of stable diffusion
+2. Fix the version of pytorch lightning&lightning and colossalai version to enable codes running successfully.",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,22,neutral,0.0
+ColossalAI,Yuanchen,2023-03-22 11:09:39+00:00,"[chatgpt]add reward model code for deberta (#3199)
+
+Co-authored-by: Yuanchen Xu <yuanchen.xu00@gmail.com>",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,24,neutral,0.0
+ColossalAI,jiangmingyan,2023-03-29 07:22:21+00:00,"[NFC] polish colossalai/global_variables.py code style (#3259)
+
+Co-authored-by: luchen <luchen@luchendeMBP.lan>",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,23,neutral,0.0
+ColossalAI,Tong Li,2023-03-29 07:22:21+00:00,[NFC] polish colossalai/nn/_ops/addmm.py code style (#3274),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,33,neutral,0.0
+ColossalAI,Hongxin Liu,2023-04-12 08:03:25+00:00,"[gemini] gemini supports lazy init (#3379)
+
+* [gemini] fix nvme optimizer init
+
+* [gemini] gemini supports lazy init
+
+* [gemini] add init example
+
+* [gemini] add fool model
+
+* [zero] update gemini ddp
+
+* [zero] update init example
+
+* add chunk method
+
+* add chunk method
+
+* [lazyinit] fix lazy tensor tolist
+
+* [gemini] fix buffer materialization
+
+* [misc] remove useless file
+
+* [booster] update gemini plugin
+
+* [test] update gemini plugin test
+
+* [test] fix gemini plugin test
+
+* [gemini] fix import
+
+* [gemini] fix import
+
+* [lazyinit] use new metatensor
+
+* [lazyinit] use new metatensor
+
+* [lazyinit] fix __set__ method",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,193,neutral,8.808290155440414
+ColossalAI,digger-yu,2023-04-12 15:09:30+00:00,"[doc] Update README-zh-Hans.md (#3541)
+
+Fixing document link errors using absolute paths",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,22,neutral,36.36363636363637
+ColossalAI,digger yu,2023-05-17 03:13:23+00:00,"[NFC] fix typo with colossalai/auto_parallel/tensor_shard (#3742)
+
+* fix typo applications/ and colossalai/ date 5.11
+
+* fix typo colossalai/",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,45,negative,71.11111111111111
+ColossalAI,Baizhou Zhang,2023-06-06 05:36:11+00:00,[doc] fix docs about booster api usage (#3898),https://github.com/hpcaitech/ColossalAI,3.3127994524298425,51,neutral,9.803921568627452
+ColossalAI,FoolPlayer,2023-06-08 07:01:34+00:00,"[shardformer] init shardformer code structure (#3731)
+
+* init shardformer code structure
+
+* add implement of sharder (inject and replace)
+
+* add implement of replace layer to colossal layer
+
+* separate different layer policy, add some notion
+
+* implement 1d and 2d slicer, can tell col or row
+
+* fix bug when slicing and inject model
+
+* fix some bug; add inference test example",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,34,neutral,2.941176470588235
+ColossalAI,Wenhao Chen,2023-06-13 05:31:56+00:00,"[chat] refactor actor class (#3968)
+
+* refactor: separate log_probs fn from Actor forward fn
+
+* refactor: separate generate fn from Actor class
+
+* feat: update unwrap_model and get_base_model
+* unwrap_model returns model not wrapped by Strategy
+* get_base_model returns HF model for Actor, Critic and RewardModel
+
+* feat: simplify Strategy.prepare
+
+* style: remove get_base_model method of Actor
+
+* perf: tokenize text in batches
+
+* refactor: move calc_action_log_probs to utils of model
+
+* test: update test with new forward fn
+
+* style: rename forward fn args
+
+* fix: do not unwrap model in save_model fn of naive strategy
+
+* test: add gemini test for train_prompts
+
+* fix: fix _set_default_generate_kwargs",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,22,neutral,0.0
+ColossalAI,Jianghai,2023-06-27 08:40:46+00:00,"[examples] copy resnet example to image (#4090)
+
+* copy resnet example
+
+* add pytest package
+
+* skip test_ci
+
+* skip test_ci
+
+* skip test_ci",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,59,neutral,0.0
+ColossalAI,YeAnbang,2023-07-26 06:12:57+00:00,"[NFC] polish unary_elementwise_generator.py code style (#4267)
+
+Co-authored-by: aye42 <aye42@gatech.edu>",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,66,neutral,10.606060606060606
+ColossalAI,flybird11111,2023-08-15 15:25:14+00:00,"[shardformer]fix, test gpt2 for AMP+TP (#4403)
+
+* [shardformer] gpt2 tests fix
+
+[shardformer] test all optimizations (#4399)
+
+[shardformer] test all optimizations
+
+[shardformer] test all optimizations
+
+[shardformer] test all optimizations
+
+[shardformer] gpt2 tests fix
+
+* [shardformer] gpt2 tests fix",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,78,neutral,10.256410256410255
+ColossalAI,Yuanheng Zhao,2023-09-14 10:03:55+00:00,"[hotfix] Fix import error: colossal.kernel without triton installed (#4722)
+
+* [hotfix] remove triton kernels from kernel init
+
+* revise bloom/llama kernel imports for infer",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,55,neutral,5.454545454545454
+ColossalAI,yuehuayingxueluo,2024-01-11 13:39:29+00:00,"[Inference]Add BatchInferState, Sequence and InferConfig (#5149)
+
+* add infer_struct and infer_config
+
+* update codes
+
+* change InferConfig
+
+* Add hf_model_config to the engine
+
+* rm _get_hf_model_config
+
+* update codes
+
+* made adjustments according to the feedback from the reviewer.
+
+* update codes
+
+* add ci test for config and struct",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,47,neutral,10.638297872340424
+ColossalAI,Runyu Lu,2024-03-08 06:19:35+00:00,[feat] cuda graph support and refactor non-functional api,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,25,neutral,16.0
+ColossalAI,傅剑寒,2024-03-08 06:44:37+00:00,"Merge pull request #5433 from Courtesy-Xs/add_silu_and_mul
+
+【Inference】Add silu_and_mul for infer",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,22,neutral,0.0
+ColossalAI,Edenzzzz,2024-03-26 09:22:27+00:00,fixed layout converter caching and updated tester,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,27,neutral,7.4074074074074066
+ColossalAI,pre-commit-ci[bot],2024-04-08 08:41:09+00:00,"[pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci",https://github.com/hpcaitech/ColossalAI,3.3127994524298425,26,neutral,0.0
+ColossalAI,wangbluo,2024-04-30 08:10:20+00:00,add parallel output for mistral model,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,65,neutral,23.07692307692308
+ColossalAI,hxwang,2024-05-15 08:51:44+00:00,[gemini] prefetch chunks,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,42,neutral,7.142857142857142
+ColossalAI,botbw,2024-05-17 05:42:18+00:00,[chore] Update placement_policy.py,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,35,neutral,5.714285714285714
+ColossalAI,GuangyaoZhang,2024-06-14 03:07:01+00:00,Copy llama to command,https://github.com/hpcaitech/ColossalAI,3.3127994524298425,22,neutral,9.090909090909092
+cookiecutter-django,Daniel Greenfeld,2013-08-14 17:43:32+00:00,Initial commit,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,301,neutral,4.651162790697675
+cookiecutter-django,Saurabh Kumar,2013-12-12 12:01:45+00:00,"Add .gitattributes file.
+
+To deal with line endings. A project should not rely on
+global settings.
+
+https://help.github.com/articles/dealing-with-line-endings
+
+Signed-off-by: Saurabh Kumar <thes.kumar@gmail.com>",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,104,neutral,13.461538461538462
+cookiecutter-django,Fábio C. Barrionuevo da Luz,2014-02-20 21:00:24+00:00,"Update version of libs
+
+Update django-cache-url and django-model-utils to latest version",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,369,neutral,1.6260162601626018
+cookiecutter-django,Jay,2014-10-12 08:32:17+00:00,added optional celery support out of the box,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,28,neutral,3.571428571428571
+cookiecutter-django,Fabio C. Barrioneuvo da Luz,2014-12-18 15:19:56+00:00,update requirements,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,79,neutral,2.5316455696202533
+cookiecutter-django,Fabio C. Barrionuevo da Luz,2015-02-10 15:55:33+00:00,ignore pep8 on django-configurations import in wsgi.py file,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,35,neutral,2.857142857142857
+cookiecutter-django,Burhan Khalid,2015-07-06 11:09:13+00:00,adding redis support,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,51,neutral,7.84313725490196
+cookiecutter-django,Audrey Roy Greenfeld,2015-08-05 22:11:51+00:00,Update coverage version to 4.0b1.,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,184,neutral,8.152173913043478
+cookiecutter-django,Daniel Roy Greenfeld,2015-08-21 05:08:40+00:00,Changed requirements files to match current dependency versions,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,237,neutral,5.907172995780591
+cookiecutter-django,yunti,2015-09-17 11:09:26+00:00,"Production settings typo
+
+(testing basic pull request before submitting more)",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,22,neutral,0.0
+cookiecutter-django,Jannis Gebauer,2015-09-28 07:42:13+00:00,Added advice on how to persist changes with boot2docker,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,145,neutral,2.0689655172413794
+cookiecutter-django,Trung Dong Huynh,2016-05-08 10:55:32+00:00,"Updated whitenoise configuration to match changes in version 3.0
+(see http://whitenoise.evans.io/en/stable/changelog.html)",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,36,neutral,0.0
+cookiecutter-django,pyup-bot,2016-06-14 15:47:21+00:00,Pin opbeat to latest version 3.3.3,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,849,neutral,0.0
+cookiecutter-django,pyup.io bot,2016-06-16 00:57:04+00:00,"Update flake8 to 2.6.0 (#625)
+
+* Update flake8 from 2.5.5 to 2.6.0
+
+* Update flake8 from 2.5.5 to 2.6.0",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,1162,neutral,0.0860585197934595
+cookiecutter-django,Nikita P. Shupeyko,2017-02-10 11:33:29+00:00,"Fix Docker test PyCharm Run Configurations settings file
+
+Switch from env name=""DJANGO_SETTINGS_MODULE"" value=""config.settings.local"" to env name=""DJANGO_SETTINGS_MODULE"" value=""config.settings.test""",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,113,neutral,12.389380530973453
+cookiecutter-django,Shupeyko Nikita,2017-03-16 15:06:09+00:00,"Fix autoprefixer options in gulp styles task (#1081)
+
+Fix `'last 2 version'` -> `'last 2 versions'` (https://www.npmjs.com/package/gulp-autoprefixer#usage)",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,33,neutral,6.0606060606060606
+cookiecutter-django,Bruno Alla,2017-08-01 21:34:09+00:00,"Update django-storages fixes #998
+
+The -redux project is now the official project, update to the latest version",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,1593,neutral,5.273069679849341
+cookiecutter-django,Demetris Stavrou,2018-06-21 20:11:08+00:00,Redis config in local is now conditional on Celery.,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,22,neutral,0.0
+cookiecutter-django,browniebroke,2019-03-21 16:00:43+00:00,Update sentry-sdk from 0.7.6 to 0.7.7,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,612,neutral,0.0
+cookiecutter-django,Dani Hodovic,2019-06-20 15:41:31+00:00,"Remove redundant template debug setting
+
+> 'debug': a boolean that turns on/off template debug mode. If it is
+> True, the fancy error page will display a detailed report for any
+> exception raised during template rendering. This report contains the
+> relevant snippet of the template with the appropriate line highlighted.
+
+> It defaults to the value of the DEBUG setting.
+
+https://docs.djangoproject.com/en/2.2/topics/templates/#module-django.template.backends.django
+
+I could be wrong about this, but it seems like setting the template
+DEBUG setting is redundant, since it should follow whatever the DEBUG
+variable is set to.",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,21,neutral,14.285714285714285
+cookiecutter-django,Andrew-Chen-Wang,2020-02-06 20:17:46+00:00,"Added all supported Anymail Providers in cookiecutter.json
+* Utilizes {% if %} since it's financially more wise to use AWS SES only if AWS is the cloud provider.
+* FIXME: If AWS is not cloud provider, there are two None options. This may require a little hack inside of cookiecutter that I may not be aware of.",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,42,neutral,9.523809523809524
+cookiecutter-django,Andrew Chen Wang,2020-03-28 01:32:17+00:00,Update so apps load first when using asgi.py,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,67,neutral,7.462686567164178
+cookiecutter-django,github-actions[bot],2020-08-12 11:56:34+00:00,Auto-update pre-commit hooks,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,112,neutral,0.0
+cookiecutter-django,Jelmer Draaijer,2020-08-28 08:25:40+00:00,Add environment and traces_sample_rate keyword to sentry_sdk.init,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,23,neutral,4.3478260869565215
+cookiecutter-django,Arnav Choudhury,2020-09-07 12:28:49+00:00,Updated Gitlab CI to use Python 3.8 instead of Python 3.7 (#2794),https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,39,neutral,7.6923076923076925
+cookiecutter-django,dependabot[bot],2020-09-09 12:25:44+00:00,"Update actions/setup-python requirement to v2.1.2
+
+Updates the requirements on [actions/setup-python](https://github.com/actions/setup-python) to permit the latest version.
+- [Release notes](https://github.com/actions/setup-python/releases)
+- [Commits](https://github.com/actions/setup-python/commits/24156c231c5e9d581bde27d0cdbb72715060ea51)
+
+Signed-off-by: dependabot[bot] <support@github.com>",https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,164,neutral,0.0
+cookiecutter-django,github-actions,2021-11-19 02:15:50+00:00,Release 2021.11.18,https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,571,neutral,0.0
+cookiecutter-django,Jelmer,2022-02-10 15:06:22+00:00,Fix GitLab CI error caused by Docker Compose's `platform` option (#3585),https://github.com/cookiecutter/cookiecutter-django,11.515400410677618,98,negative,4.081632653061225
+mem0,Taranjeet Singh,2023-06-20 08:59:41+00:00,Hello World,https://github.com/mem0ai/mem0,1.672826830937714,202,neutral,4.950495049504951
+mem0,cachho,2023-06-23 14:23:57+00:00,feat: add markdown to plaintext,https://github.com/mem0ai/mem0,1.672826830937714,104,neutral,9.615384615384617
+mem0,Deshraj Yadav,2023-07-10 12:12:29+00:00,feat: Add basic unit test for embedchain (#209),https://github.com/mem0ai/mem0,1.672826830937714,196,neutral,4.591836734693878
+mem0,Dev Khant,2023-08-16 17:25:13+00:00,Add guide links to readme (#451),https://github.com/mem0ai/mem0,1.672826830937714,238,neutral,3.7815126050420167
+mem0,Sidharth Mohanty,2023-10-09 18:26:21+00:00,Improve tests (#780),https://github.com/mem0ai/mem0,1.672826830937714,77,neutral,7.792207792207792
+mem0,Deven Patel,2023-10-18 20:53:15+00:00,[Feature] JSON data loader support (#816),https://github.com/mem0ai/mem0,1.672826830937714,91,neutral,3.296703296703297
+mem0,Prateek Chhikara,2024-07-26 07:01:04+00:00,Improved readme (#1587),https://github.com/mem0ai/mem0,1.672826830937714,38,neutral,0.0
+mem0,Dev-Khant,2024-08-04 15:40:51+00:00,Fix docs and config for vector store,https://github.com/mem0ai/mem0,1.672826830937714,24,neutral,4.166666666666666
+fastapi,Sebastián Ramírez,2018-12-05 06:56:50+00:00,":tada: Start tracking messy initial stage
+
+...before refactoring and breaking something",https://github.com/fastapi/fastapi,6.2121834360027375,1677,neutral,4.114490161001789
+fastapi,T. Tokusumi,2020-02-16 20:00:42+00:00,:memo: Add link: JP articles related to fastapi (#974),https://github.com/fastapi/fastapi,6.2121834360027375,22,neutral,0.0
+fastapi,Xie Wei,2020-05-16 09:58:10+00:00,":globe_with_meridians: Add Chinese translation for index docs (#1191)
+
+* Add Chinese tranlation for docs/index.md
+
+* Fix syntax issue
+
+* Update resource address of zh docs
+
+* Optimize typography in zh docs
+
+* improve translations
+
+Co-authored-by: Waynerv <wei.xie@woqutech.com>",https://github.com/fastapi/fastapi,6.2121834360027375,25,neutral,0.0
+fastapi,Nils Lindemann,2020-08-03 07:12:07+00:00,"✏ Fix typos in docs for dependencies (#1675)
+
+Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>",https://github.com/fastapi/fastapi,6.2121834360027375,131,neutral,0.0
+fastapi,Marcelo Trylesinski,2020-08-03 15:39:48+00:00,":pencil: Update external links (#1786)
+
+Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>",https://github.com/fastapi/fastapi,6.2121834360027375,23,neutral,8.695652173913043
+fastapi,github-actions,2020-10-11 10:04:35+00:00,📝 Update release notes,https://github.com/fastapi/fastapi,6.2121834360027375,2065,neutral,0.0
+fastapi,SwftAlpc,2020-10-17 13:55:39+00:00,"🌐 Add Japanese translation for Tutorial - Header Parameters (#1935)
+
+Co-authored-by: ryusuke.miyaji <bluce826@gmail.com>
+Co-authored-by: ryuckel <36391432+ryuckel@users.noreply.github.com>
+Co-authored-by: tokusumi <tksmtoms@gmail.com>
+Co-authored-by: T. Tokusumi <41147016+tokusumi@users.noreply.github.com>
+Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>",https://github.com/fastapi/fastapi,6.2121834360027375,23,neutral,0.0
+fastapi,github-actions[bot],2020-10-18 20:19:01+00:00,"👥 Update FastAPI People (#2202)
+
+Co-authored-by: github-actions <github-actions@github.com>",https://github.com/fastapi/fastapi,6.2121834360027375,26,neutral,0.0
+fastapi,jaystone776,2021-06-29 12:24:19+00:00,"🌐 Add Chinese translation for Tutorial - Request - Files (#3244)
+
+Co-authored-by: Xie Wei <ampedee@gmail.com>",https://github.com/fastapi/fastapi,6.2121834360027375,49,neutral,0.0
+fastapi,dependabot[bot],2022-07-14 11:20:51+00:00,"⬆ Bump actions/setup-python from 2 to 4 (#5129)
+
+Bumps [actions/setup-python](https://github.com/actions/setup-python) from 2 to 4.
+- [Release notes](https://github.com/actions/setup-python/releases)
+- [Commits](https://github.com/actions/setup-python/compare/v2...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-python
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",https://github.com/fastapi/fastapi,6.2121834360027375,94,neutral,0.0
+fastapi,pre-commit-ci[bot],2022-07-14 11:25:32+00:00,"⬆ [pre-commit.ci] pre-commit autoupdate (#5030)
+
+updates:
+- [github.com/pre-commit/pre-commit-hooks: v4.2.0 → v4.3.0](https://github.com/pre-commit/pre-commit-hooks/compare/v4.2.0...v4.3.0)
+- [github.com/asottile/pyupgrade: v2.32.1 → v2.37.1](https://github.com/asottile/pyupgrade/compare/v2.32.1...v2.37.1)
+- [github.com/psf/black: 22.3.0 → 22.6.0](https://github.com/psf/black/compare/22.3.0...22.6.0)
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",https://github.com/fastapi/fastapi,6.2121834360027375,22,neutral,0.0
+fastapi,Alejandra,2023-12-26 17:13:50+00:00,"📝 Restructure Docs section in Contributing page (#10844)
+
+📝 Restructure Docs section in Contributing page",https://github.com/fastapi/fastapi,6.2121834360027375,50,neutral,0.0
+fastapi,Hasan Sezer Taşan,2024-01-09 15:14:23+00:00,🌐 Add Turkish translation for `docs/tr/docs/newsletter.md` (#10550),https://github.com/fastapi/fastapi,6.2121834360027375,23,neutral,0.0
+fastapi,Rafael de Oliveira Marques,2024-06-14 15:07:11+00:00,🌐 Add Portuguese translation for `docs/pt/docs/advanced/benchmarks.md` (#11713),https://github.com/fastapi/fastapi,6.2121834360027375,28,neutral,3.571428571428571
+wave,Prithvi Prabhu,2020-05-16 20:07:08+00:00,Initial commit,https://github.com/h2oai/wave,4.698151950718686,1074,neutral,3.8175046554934826
+wave,mturoci,2020-07-03 22:17:46+00:00,"Center loading/error on page, if any h2oai/q#678
+
+* feat: Theming colors
+
+* chore: Rollback theming changes (postponing later)",https://github.com/h2oai/wave,4.698151950718686,220,neutral,4.545454545454546
+wave,Peter Szabó,2020-07-03 22:20:10+00:00,Add -f to rm and fix pip install,https://github.com/h2oai/wave,4.698151950718686,28,neutral,0.0
+wave,lo5,2020-07-26 21:04:20+00:00,Add roadmap link to readme,https://github.com/h2oai/wave,4.698151950718686,38,neutral,0.0
+wave,Martin Turoci,2020-10-26 21:15:06+00:00,fix: repair checkbox and visible prop regression,https://github.com/h2oai/wave,4.698151950718686,590,neutral,8.135593220338983
+wave,Alexandre Alencar,2021-10-20 09:13:43+00:00,feat: add min and max support for datepicker #584 (#1078),https://github.com/h2oai/wave,4.698151950718686,38,neutral,5.263157894736842
+wave,Marek Mihok,2022-01-05 15:58:58+00:00,"feat: Add ability to turn off spellcheck for textbox #606 (#1175)
+
+* feat: Add ability to turn off spellcheck for textbox
+
+* chore: address code review comments #606",https://github.com/h2oai/wave,4.698151950718686,143,neutral,7.6923076923076925
+wave,Martin Turóci,2023-06-21 08:51:18+00:00,feat: Wave share client. (#1953),https://github.com/h2oai/wave,4.698151950718686,35,neutral,2.857142857142857
+wave-apps,VijithaEkanayake,2020-11-12 08:25:38+00:00,Initial project setup and app,https://github.com/h2oai/wave-apps,3.865845311430527,146,neutral,7.534246575342466
+wave-apps,Dulaj Atapattu,2020-11-12 08:58:42+00:00,Fix typo in README,https://github.com/h2oai/wave-apps,3.865845311430527,316,negative,8.860759493670885
+wave-apps,Michelle Tanco,2020-11-14 00:10:01+00:00,Add the list of OSS applications and priorities,https://github.com/h2oai/wave-apps,3.865845311430527,67,neutral,2.985074626865672
+Jarvis,Sukeesh,2017-03-10 22:09:15+00:00,Initial commit,https://github.com/sukeesh/Jarvis,7.942505133470226,32,neutral,3.125
+Jarvis,StefanosChaliasos,2017-03-17 08:07:14+00:00,Update main.py,https://github.com/sukeesh/Jarvis,7.942505133470226,72,neutral,12.5
+Jarvis,Lucas Keune,2017-03-17 15:29:31+00:00,Fix tabs to spaces,https://github.com/sukeesh/Jarvis,7.942505133470226,32,neutral,3.125
+Jarvis,Brent,2017-03-23 04:50:28+00:00,added a chuck norris fact function,https://github.com/sukeesh/Jarvis,7.942505133470226,26,neutral,0.0
+Jarvis,Ander Raso Vázquez,2017-04-05 16:47:03+00:00,say command implemented,https://github.com/sukeesh/Jarvis,7.942505133470226,39,neutral,2.564102564102564
+Jarvis,appi,2017-06-28 06:39:53+00:00,prepare for pip release,https://github.com/sukeesh/Jarvis,7.942505133470226,95,neutral,7.368421052631578
+Jarvis,Arpit Choudhary,2017-06-28 17:53:03+00:00,"added calculate command issue#104 (#116)
+
+* added calculate command
+
+* added name in contributors list",https://github.com/sukeesh/Jarvis,7.942505133470226,177,neutral,7.909604519774012
+Jarvis,pnhofmann,2018-04-29 11:55:48+00:00,"Featre: Roll a dice, openSUSE and input() (#314)
+
+* Add new feature: roll a dice
+
+* Add openSUSE support
+
+* Improve input / raw_input calls
+
+six.moves.input-method works both on Python 2 and Python 3:
+	from six.moves import input
+makes input() work with Python 2 - and saves 3 Lines
+(if six.PY2: (...) ) for each input-call.
+
+Also make Dictionary work with Python 3.",https://github.com/sukeesh/Jarvis,7.942505133470226,202,neutral,4.950495049504951
+Jarvis,Philipp Hofmann,2018-06-02 13:03:43+00:00,"Implement basic plugin manager
+
+Convert dice to plugin; update test",https://github.com/sukeesh/Jarvis,7.942505133470226,84,neutral,16.666666666666664
+Jarvis,aazuspan,2020-01-06 20:15:29+00:00,Create geocoding plugin,https://github.com/sukeesh/Jarvis,7.942505133470226,32,neutral,15.625
+Jarvis,Methenitis,2020-04-29 13:03:25+00:00,"Initial Push
+
+Pushing some files that appear to be changed on my computer, in order to be alligned with the original",https://github.com/sukeesh/Jarvis,7.942505133470226,30,neutral,13.333333333333334
+Jarvis,gianniskokkosis,2020-05-12 18:33:37+00:00,"Update bulkresizer.py file
+
+- Import Fore module
+
+- This addition will allow jarvis print colorful messages in the terminal for the bulkresizer plugin",https://github.com/sukeesh/Jarvis,7.942505133470226,23,neutral,0.0
+Jarvis,Milind Sharma,2021-11-07 13:41:32+00:00,Make grammatical improvements to print msgs,https://github.com/sukeesh/Jarvis,7.942505133470226,21,neutral,0.0
+Jarvis,evidencebp,2024-12-21 16:53:34+00:00,"jarviscli\plugins\agify.py	 superfluous-parens
+
+Removed unneeded parentheses",https://github.com/sukeesh/Jarvis,7.942505133470226,87,negative,37.93103448275862
+notebook,Fernando Perez,2008-03-10 05:00:33+00:00,Update permissions,https://github.com/jupyter/notebook,19.6249144421629,255,neutral,15.68627450980392
+notebook,Brian Granger,2008-08-24 06:35:54+00:00,Updstream changes.,https://github.com/jupyter/notebook,19.6249144421629,240,neutral,5.0
+notebook,Thomas Kluyver,2010-10-10 20:08:48+00:00,Ignore .py~ files,https://github.com/jupyter/notebook,19.6249144421629,1377,neutral,10.45751633986928
+notebook,MinRK,2011-01-03 00:00:59+00:00,added gh-pages command for GitHub hosted sphinx docs,https://github.com/jupyter/notebook,19.6249144421629,1106,neutral,19.439421338155515
+notebook,Paul Ivanov,2011-04-04 00:52:21+00:00,"make know failures report as 'K'
+
+ported from numpy.testing.noseclasses, with the equivalent code
+extracted into _numpy_testing_noseclasses in case numpy is not
+installed.
+
+removed some unused imports throughout",https://github.com/jupyter/notebook,19.6249144421629,330,neutral,11.212121212121213
+notebook,Brian E. Granger,2011-04-27 19:56:15+00:00,"Merged pull request #397 from minrk/ioterm.
+
+utils.io.Term.cin/out/err -> utils.io.stdin/out/err",https://github.com/jupyter/notebook,19.6249144421629,730,neutral,4.794520547945205
+notebook,Min RK,2011-07-13 22:29:19+00:00,"Merge pull request #574 from jstenar/getcwdu
+
+always use getcwdu instead of getcwd",https://github.com/jupyter/notebook,19.6249144421629,1863,neutral,12.506709608158884
+notebook,Stefan van der Walt,2011-08-17 01:56:34+00:00,Implement static publishing of HTML notebook.,https://github.com/jupyter/notebook,19.6249144421629,23,neutral,8.695652173913043
+notebook,Matthias BUSSONNIER,2011-10-13 18:50:41+00:00,"Warn user if MathJax can't be fetched from notebook
+
+	closes #744",https://github.com/jupyter/notebook,19.6249144421629,427,negative,13.114754098360656
+notebook,Bussonnier Matthias,2011-11-25 23:07:34+00:00,fix firefox (windows) break line on empty prompt number,https://github.com/jupyter/notebook,19.6249144421629,125,negative,8.799999999999999
+notebook,Bradley M. Froehle,2011-12-18 20:36:38+00:00,"Show class init and call tooltips in notebook.
+
+Closes #1094.",https://github.com/jupyter/notebook,19.6249144421629,22,neutral,22.727272727272727
+notebook,Matthias Bussonnier,2012-05-31 20:08:16+00:00,tooltip to mac,https://github.com/jupyter/notebook,19.6249144421629,788,neutral,8.756345177664974
+notebook,Jason Grout,2012-07-21 03:14:32+00:00,Pass the header of output and clear_output messages to javascript callbacks,https://github.com/jupyter/notebook,19.6249144421629,207,neutral,10.628019323671497
+notebook,Jonathan Frederic,2013-04-28 19:11:18+00:00,"Create exceptions file to house all of the convert specific exceptions.
+Refactored 'exporter'
+Lots of changes....",https://github.com/jupyter/notebook,19.6249144421629,1423,neutral,6.957132817990162
+notebook,Jessica B. Hamrick,2013-07-26 01:40:25+00:00,Closes #3788,https://github.com/jupyter/notebook,19.6249144421629,115,neutral,6.956521739130435
+notebook,Zachary Sailer,2013-08-19 21:47:18+00:00,"minor bug fix, define 'var' in dialog.js.
+
+The 'cell' variable isn't defined and causes and error in the
+console",https://github.com/jupyter/notebook,19.6249144421629,103,negative,3.883495145631068
+notebook,Sylvain Corlay,2014-01-11 19:46:07+00:00,"Replacing a for-in loop by an index loop on an array, to avoid enumerating inherited properties",https://github.com/jupyter/notebook,19.6249144421629,93,neutral,15.053763440860216
+notebook,Kyle Kelley,2014-01-21 18:55:52+00:00,Add Origin Checking.,https://github.com/jupyter/notebook,19.6249144421629,144,neutral,7.638888888888889
+notebook,Gordon Ball,2014-06-25 14:49:56+00:00,Add 'on_demand' option to interact() so that long-running functions can be started only when explicitly requested,https://github.com/jupyter/notebook,19.6249144421629,34,neutral,8.823529411764707
+notebook,Pierre Gerold,2014-07-18 10:44:23+00:00,"Update celltoolbar.js
+
+I want to write an extension with multiple select bar. They are supposed to be displayed inline, not in block mode. The better way is to use span instead of div.",https://github.com/jupyter/notebook,19.6249144421629,32,neutral,15.625
+notebook,Scott Sanderson,2014-10-30 06:43:22+00:00,BUG: Set file encoding for IPython.html.terminal.handlers.,https://github.com/jupyter/notebook,19.6249144421629,67,neutral,16.417910447761194
+notebook,Mathieu,2015-01-09 03:26:16+00:00,create new notebook with same kernel,https://github.com/jupyter/notebook,19.6249144421629,24,neutral,8.333333333333332
+notebook,Nicholas Bollweg,2015-01-13 23:54:32+00:00,#7239: left-aligning text,https://github.com/jupyter/notebook,19.6249144421629,35,neutral,0.0
+notebook,Peter Parente,2015-01-22 03:08:39+00:00,Bump less to @<3.0 so setup.py css works,https://github.com/jupyter/notebook,19.6249144421629,40,neutral,2.5
+notebook,Safia Abdalla,2015-08-26 05:36:05+00:00,Added check for index on merge_above to resolve #330,https://github.com/jupyter/notebook,19.6249144421629,79,neutral,0.0
+notebook,Steven Silvester,2015-08-26 21:11:27+00:00,Include components in setup base,https://github.com/jupyter/notebook,19.6249144421629,170,neutral,7.0588235294117645
+notebook,Josh Barnes,2015-09-04 14:34:27+00:00,require bootstrap in base/js/dialog.js,https://github.com/jupyter/notebook,19.6249144421629,21,neutral,19.047619047619047
+notebook,John Kirkham,2015-09-10 20:56:40+00:00,".travis.yml: Test on Python 3.3, as well.",https://github.com/jupyter/notebook,19.6249144421629,36,neutral,13.88888888888889
+notebook,Carol Willing,2015-09-16 17:45:30+00:00,Fix small docs errors and add hidden index for clean doc builds,https://github.com/jupyter/notebook,19.6249144421629,156,neutral,12.82051282051282
+notebook,Julien Rebetez,2015-09-28 12:06:10+00:00,Adds kernel name to running notebooks list,https://github.com/jupyter/notebook,19.6249144421629,35,neutral,8.571428571428571
+notebook,Matthias Geier,2016-03-14 19:21:27+00:00,"DOC: Trying to make a single place for contributor docs
+
+See #1193.",https://github.com/jupyter/notebook,19.6249144421629,30,neutral,26.666666666666668
+notebook,Grant Nestor,2016-08-03 21:21:48+00:00,"Merge pull request #1645 from Carreau/improve-nbextension-error-message
+
+Improve the error message for the nbextension.",https://github.com/jupyter/notebook,19.6249144421629,224,neutral,8.482142857142858
+notebook,Kevin Bates,2017-02-22 19:13:34+00:00,Cull idle kernels after specified period,https://github.com/jupyter/notebook,19.6249144421629,154,neutral,8.441558441558442
+notebook,M Pacer,2017-06-28 20:41:41+00:00,Remove references to heading cells and 'best practices' that better fit the existence of heading cells,https://github.com/jupyter/notebook,19.6249144421629,58,neutral,5.172413793103448
+notebook,Ashley Teoh,2018-03-01 03:07:49+00:00,add title attributes to widgets and disable clicking trusted button,https://github.com/jupyter/notebook,19.6249144421629,25,neutral,4.0
+notebook,sheshtawy,2018-03-31 20:58:47+00:00,Add tests for deletable cells and non-deleteable cells,https://github.com/jupyter/notebook,19.6249144421629,23,neutral,17.391304347826086
+notebook,Celina Kilcrease,2018-04-05 15:57:06+00:00,"added labels and changed ids according to accessibility guidelines, added new event handlers for new ids",https://github.com/jupyter/notebook,19.6249144421629,25,neutral,12.0
+notebook,Joshua Zeltser,2019-06-18 17:08:56+00:00,Solved Issue 4015,https://github.com/jupyter/notebook,19.6249144421629,33,neutral,12.12121212121212
+notebook,Berend-Jan Lange,2020-03-29 19:27:52+00:00,duplicate_reduction,https://github.com/jupyter/notebook,19.6249144421629,23,neutral,0.0
+notebook,Jeremy Tuloup,2020-12-04 13:15:41+00:00,Initial commit,https://github.com/jupyter/notebook,19.6249144421629,1041,neutral,4.034582132564841
+notebook,GitHub Action,2021-05-12 18:24:11+00:00,"Publish 6.4.0rc0
+
+SHA256 hashes:
+
+dist/notebook-6.4.0rc0-py3-none-any.whl: 944399ed932a6d8107ecdebcdfb10fd27b2a8e52e37920ad0b6bd72ba69bdb4d
+
+dist/notebook-6.4.0rc0.tar.gz: d93f3eb1b2e5f6bf6d9d0b3a2aa99a605f3d35470f6b10ad42d03a0aa613725a",https://github.com/jupyter/notebook,19.6249144421629,68,neutral,0.0
+notebook,dependabot[bot],2022-03-07 18:18:41+00:00,"Bump follow-redirects from 1.14.5 to 1.14.9 in /ui-tests
+
+Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.5 to 1.14.9.
+- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.5...v1.14.9)
+
+---
+updated-dependencies:
+- dependency-name: follow-redirects
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",https://github.com/jupyter/notebook,19.6249144421629,43,neutral,0.0
+notebook,pre-commit-ci[bot],2022-04-05 02:56:08+00:00,"[pre-commit.ci] pre-commit autoupdate (#6343)
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",https://github.com/jupyter/notebook,19.6249144421629,42,neutral,0.0
+notebook,Nicolas Brichet,2022-07-19 11:50:00+00:00,Change the tab renderer to allow adding closable tab,https://github.com/jupyter/notebook,19.6249144421629,41,neutral,4.878048780487805
+notebook,jtpio,2022-11-21 09:36:36+00:00,"Publish 7.0.0a9
+
+SHA256 hashes:
+
+jupyter-notebook-application-7.0.0-alpha.9.tgz: cdc301c067e5583a443fdbf3925959845fef7e870c51b8cc2f374451543919a6
+
+jupyter-notebook-application-extension-7.0.0-alpha.9.tgz: f862bf9884952070f0f8af21f4c4bea26e0275948364903843b3fa3a0ca97bd3
+
+jupyter-notebook-console-extension-7.0.0-alpha.9.tgz: f03a4ff061e14f30280bb48a4e8e959baf4170b2f59be193534ae2e219fa40ba
+
+jupyter-notebook-docmanager-extension-7.0.0-alpha.9.tgz: 3aa886c55828b79c122609cb3bebe64d0f8ba5f3f805fce276967f361d31e799
+
+jupyter-notebook-documentsearch-extension-7.0.0-alpha.9.tgz: 1ddea9ceda0a5856ffd0d93a01a57e7999f6a2d3946c5e28976bf61e2b796f7f
+
+jupyter-notebook-help-extension-7.0.0-alpha.9.tgz: d93f160daf480ce205251d9d97ce1f29eb7b084523332e84eef38b4581713cfa
+
+jupyter-notebook-lab-extension-7.0.0-alpha.9.tgz: 77570e00d7f6474cbdf86466a862791081e1569070d04c4eddf9e820c29aaeb7
+
+jupyter-notebook-notebook-extension-7.0.0-alpha.9.tgz: a5ceda82dd86d1df184a87e19f2f088a2adb01059cfe9fdfad35832a2e8cd3b4
+
+jupyter-notebook-terminal-extension-7.0.0-alpha.9.tgz: 93be8193418711a981cc37c9de93ef33f3c8f373db360f15b441a30a28047776
+
+jupyter-notebook-tree-7.0.0-alpha.9.tgz: 9763463fee3563eea0777c16e0a0f74de0b5cb7be53c9f402226034e309e9d17
+
+jupyter-notebook-tree-extension-7.0.0-alpha.9.tgz: 65cc9bc6b481036bbfc08f255585e69e6d00a5175969b40c190570e998eff2f6
+
+jupyter-notebook-ui-components-7.0.0-alpha.9.tgz: d35ede0cd4abc077d6ad055bf814319338b00c0208ff0c80b14b4e9410c28b69
+
+notebook-7.0.0a9-py3-none-any.whl: 282e1bb8c6e2836995135220e7e21001a6b784b5664881b1ca711c7186bcc579
+
+notebook-7.0.0a9.tar.gz: 2dccc5cbcdebd3a223da76e93c305eec544d42ae0139f4120ab80e911adcd5a0",https://github.com/jupyter/notebook,19.6249144421629,53,neutral,0.0
+kinto,Mathieu Leplatre,2014-12-15 09:28:38+00:00,POC with Eve,https://github.com/Kinto/kinto,10.179329226557153,3364,neutral,7.728894173602854
+kinto,Rémy HUBSCHER,2014-12-24 13:56:01+00:00,Update README.rst,https://github.com/Kinto/kinto,10.179329226557153,1812,neutral,9.381898454746135
+kinto,Alexis Métaireau,2015-01-15 08:37:20+00:00,Change some authors fields on the setup.py file,https://github.com/Kinto/kinto,10.179329226557153,338,neutral,8.284023668639055
+kinto,Alexis Metaireau,2015-01-19 14:35:41+00:00,Remove sudo from travis to speedup the tests,https://github.com/Kinto/kinto,10.179329226557153,170,neutral,2.941176470588235
+kinto,Nicolas Perriault,2015-02-16 11:37:58+00:00,Fixed fxa-oauth.oauth_uri.,https://github.com/Kinto/kinto,10.179329226557153,28,neutral,10.714285714285714
+kinto,Tarek Ziade,2015-03-05 20:48:52+00:00,added Docker files,https://github.com/Kinto/kinto,10.179329226557153,52,neutral,3.8461538461538463
+kinto,Balthazar Rouberol,2015-06-15 12:19:24+00:00,"Add missing config key, required for a full in-memory quickstart",https://github.com/Kinto/kinto,10.179329226557153,22,neutral,22.727272727272727
+kinto,Mathieu Agopian,2015-06-29 08:07:04+00:00,use pytest,https://github.com/Kinto/kinto,10.179329226557153,60,neutral,8.333333333333332
+kinto,ayush sharma,2016-02-11 13:07:54+00:00,address port is alredy in use,https://github.com/Kinto/kinto,10.179329226557153,27,neutral,3.7037037037037033
+kinto,Ethan Glasser-Camp,2016-04-26 17:54:28+00:00,this article is already bilingual,https://github.com/Kinto/kinto,10.179329226557153,847,neutral,10.38961038961039
+kinto,Gabriela Surita,2016-09-24 20:37:45+00:00,Postgres storage: remove id/timestamp from data field (fixes #762),https://github.com/Kinto/kinto,10.179329226557153,190,neutral,6.842105263157896
+kinto,Gabi Surita,2016-10-06 04:23:15+00:00,Fix filtering with id=0 (fixes #851),https://github.com/Kinto/kinto,10.179329226557153,51,neutral,7.84313725490196
+kinto,pyup-bot,2017-11-06 14:28:46+00:00,Pin bravado_core to latest version 4.10.1,https://github.com/Kinto/kinto,10.179329226557153,371,neutral,0.0
+kinto,Peter Bengtsson,2018-05-22 12:31:25+00:00,"it's called GitHub, not Github (#1643)
+
+* it's called GitHub, not Github
+
+* adding note to changelog",https://github.com/Kinto/kinto,10.179329226557153,31,neutral,0.0
+kinto,DrFaustie,2018-11-05 10:04:52+00:00,version test case expects 500 if version file is not found,https://github.com/Kinto/kinto,10.179329226557153,22,neutral,27.27272727272727
+kinto,dependabot[bot],2019-01-23 11:26:58+00:00,"Bump newrelic from 4.10.0.112 to 4.12.0.113
+
+Bumps [newrelic](http://newrelic.com/docs/python/new-relic-for-python) from 4.10.0.112 to 4.12.0.113.
+
+Signed-off-by: dependabot[bot] <support@dependabot.com>",https://github.com/Kinto/kinto,10.179329226557153,573,neutral,0.0
+kinto,dependabot-preview[bot],2019-05-28 14:30:57+00:00,"Bump sqlalchemy from 1.3.3 to 1.3.4
+
+Bumps [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) from 1.3.3 to 1.3.4.
+- [Release notes](https://github.com/sqlalchemy/sqlalchemy/releases)
+- [Changelog](https://github.com/sqlalchemy/sqlalchemy/blob/master/CHANGES)
+- [Commits](https://github.com/sqlalchemy/sqlalchemy/commits)",https://github.com/Kinto/kinto,10.179329226557153,399,neutral,0.0
+matplotlib,John Hunter,2003-05-12 15:20:38+00:00,"The new matplotlib hierarchy
+
+svn path=/trunk/matplotlib/; revision=7",https://github.com/matplotlib/matplotlib,21.779603011635867,2130,neutral,2.9577464788732395
+matplotlib,Todd Miller,2004-02-23 18:34:12+00:00,"Added files for TkAgg backend.  Currently linux only.
+
+svn path=/trunk/matplotlib/; revision=155",https://github.com/matplotlib/matplotlib,21.779603011635867,42,neutral,7.142857142857142
+matplotlib,Paul Barret,2004-03-17 21:40:52+00:00,"Added font_manager.py to matplotlib to manage font properties. It currently
+  handles only TrueType (TT) fonts.  It is based on CSS1 font properties.
+
+Modified __init__.py, axes.py, axis.py, mathtext.py, text.py backend_agg.py
+  backend_gd.py, and backend_paint.py to use the new font_manager.
+
+Modified ft2font.c and ft2font.h to return SFNT table information, which
+  is used by font_manager.
+
+Removed fonttools and ttfquery from setup.py and setupext.py, since they
+  are replaced by the font_manager and ft2font modules.
+
+svn path=/trunk/matplotlib/; revision=190",https://github.com/matplotlib/matplotlib,21.779603011635867,29,neutral,0.0
+matplotlib,Andrew Straw,2004-05-04 02:43:56+00:00,"Typo fix in docstring.
+
+svn path=/trunk/matplotlib/; revision=274",https://github.com/matplotlib/matplotlib,21.779603011635867,272,neutral,7.720588235294118
+matplotlib,Steve Chaplin,2004-06-15 08:46:55+00:00,"SC 15/06/2004
+
+svn path=/trunk/matplotlib/; revision=343",https://github.com/matplotlib/matplotlib,21.779603011635867,263,neutral,0.0
+matplotlib,Jochen Voss,2004-10-30 14:02:28+00:00,"* backend_ps.py:
+  - clean up the code a lot.
+  - Change the PostScript output to be more DSC compliant.  All
+    definitions for the generated PostScript are now in a
+    PostScript dictionary 'mpldict'.
+  - Moved the long comment about drawing ellipses from the PostScript
+    output into a Python comment.
+
+svn path=/trunk/matplotlib/; revision=636",https://github.com/matplotlib/matplotlib,21.779603011635867,23,neutral,21.73913043478261
+matplotlib,Darren Dale,2005-03-28 02:17:28+00:00,"Added FixedLocator description to module docstring.
+Removed IndexFormatter description from module docstring, this
+	formatter does not exist.
+
+svn path=/trunk/matplotlib/; revision=1095",https://github.com/matplotlib/matplotlib,21.779603011635867,442,negative,10.633484162895927
+matplotlib,Jeff Whitaker,2005-05-16 11:44:18+00:00,"Added masked array support in pcolor.
+
+svn path=/trunk/matplotlib/; revision=1322",https://github.com/matplotlib/matplotlib,21.779603011635867,60,neutral,13.333333333333334
+matplotlib,Charles Moad,2005-06-15 19:56:36+00:00,"Initial import of CocoaAgg.
+The Matplotlib.nib bundle is the gui as built in Interface Builder.
+The backend directory seemed the most logical place to put the nib.
+Edited setup.py to install the nib file only if on a mac.
+
+svn path=/trunk/matplotlib/; revision=1469",https://github.com/matplotlib/matplotlib,21.779603011635867,149,neutral,6.04026845637584
+matplotlib,Eric Firing,2005-09-25 23:03:37+00:00,"contour, contourf return ContourSet object; colorbar uses it
+
+svn path=/trunk/matplotlib/; revision=1788",https://github.com/matplotlib/matplotlib,21.779603011635867,1947,neutral,9.193631227529533
+matplotlib,James Evans,2006-03-31 19:01:59+00:00,"Applied Vasily Sulatskov's Qt Navigation Toolbar Enhancement.
+(Patch #1452234)
+
+
+svn path=/trunk/matplotlib/; revision=2245",https://github.com/matplotlib/matplotlib,21.779603011635867,59,neutral,15.254237288135592
+matplotlib,Jouni K. Seppänen,2006-04-19 14:30:16+00:00,"Removed unused import of cStringIO (and testing developer svn commit)
+
+svn path=/trunk/matplotlib/; revision=2309",https://github.com/matplotlib/matplotlib,21.779603011635867,413,neutral,15.254237288135592
+matplotlib,Edin Salkovic,2006-08-20 13:44:43+00:00,"Begun work on mathtext2.py (already a lot down the pipe). Also my first SVN commit, ever, so beware.
+
+svn path=/trunk/matplotlib/; revision=2702",https://github.com/matplotlib/matplotlib,21.779603011635867,21,neutral,0.0
+matplotlib,Norbert Nemec,2006-09-29 09:33:56+00:00,"cleaned up setup logic
+
+svn path=/trunk/matplotlib/; revision=2786",https://github.com/matplotlib/matplotlib,21.779603011635867,48,neutral,6.25
+matplotlib,Michael Droettboom,2007-07-03 13:02:53+00:00,"Clean up cycles to prevent memory leak.
+
+
+svn path=/trunk/matplotlib/; revision=3448",https://github.com/matplotlib/matplotlib,21.779603011635867,3919,neutral,16.50931360040827
+matplotlib,pkienzle,2007-07-15 04:05:37+00:00,"Correctly distinguish between lines and points in contains() test
+
+svn path=/trunk/matplotlib/; revision=3528",https://github.com/matplotlib/matplotlib,21.779603011635867,42,neutral,2.380952380952381
+matplotlib,Manuel Metz,2008-03-20 16:57:41+00:00,"scatter docs fixed
+
+svn path=/trunk/matplotlib/; revision=5009",https://github.com/matplotlib/matplotlib,21.779603011635867,53,neutral,9.433962264150944
+matplotlib,Ryan May,2008-07-20 02:59:00+00:00,"Move delete_masked_points() from axes.py to cbook.py so that it's available to more places.
+
+svn path=/trunk/matplotlib/; revision=5794",https://github.com/matplotlib/matplotlib,21.779603011635867,592,neutral,13.513513513513514
+matplotlib,Jae-Joon Lee,2008-11-21 16:52:25+00:00,"fixed a bug the get_text_width_height_descent() method of the pdf backend not returning the correct text height.
+
+svn path=/trunk/matplotlib/; revision=6430",https://github.com/matplotlib/matplotlib,21.779603011635867,444,neutral,9.00900900900901
+matplotlib,Reinier Heeres,2009-05-23 14:31:14+00:00,"mplot3d: contourf3d, bar / zordering
+
+svn path=/trunk/matplotlib/; revision=7137",https://github.com/matplotlib/matplotlib,21.779603011635867,22,neutral,9.090909090909092
+matplotlib,Michiel de Hoon,2009-09-01 14:06:35+00:00,"Adding calls to gc.restore() whenever new_gc is called. This is necessary for the Mac OS X and the Cairo backend to work correctly. Also, updating the Mac OS X backend to be consistent with recent changes in SVN. See issue 2844845 on sourceforge.
+
+
+svn path=/trunk/matplotlib/; revision=7625",https://github.com/matplotlib/matplotlib,21.779603011635867,56,neutral,16.071428571428573
+matplotlib,Ian Thomas,2010-05-13 09:13:49+00:00,"Added triangular grid plotting and contouring functions.
+
+svn path=/trunk/matplotlib/; revision=8316",https://github.com/matplotlib/matplotlib,21.779603011635867,145,neutral,11.03448275862069
+matplotlib,Ben Root,2010-07-14 02:42:19+00:00,"Added documentation and examples for new, easier Axes3D use.
+
+svn path=/branches/v1_0_maint/; revision=8543",https://github.com/matplotlib/matplotlib,21.779603011635867,139,neutral,10.071942446043163
+matplotlib,Paul Ivanov,2011-01-12 00:49:36+00:00,"[DOC] gridspec anchor fix
+
+svn path=/trunk/matplotlib/; revision=8903",https://github.com/matplotlib/matplotlib,21.779603011635867,124,neutral,9.67741935483871
+matplotlib,Christoph Gohlke,2011-03-17 13:26:02+00:00,Miscellaneous fixes to the examples to make them run on both Python 3.x and Python 2.x,https://github.com/matplotlib/matplotlib,21.779603011635867,73,neutral,47.94520547945205
+matplotlib,Thomas Robitaille,2011-04-26 02:55:29+00:00,Fixed warning message relating to interpolation='none' setting,https://github.com/matplotlib/matplotlib,21.779603011635867,35,neutral,22.857142857142858
+matplotlib,Benjamin Root,2011-05-11 14:35:07+00:00,"Merge pull request #111 from WeatherGod/mplot3d/line_zpos
+
+Added missing set_sort_zpos method for Line3DCollection objects.  Thanks to Virgil Stokes for the bug report and patch.",https://github.com/matplotlib/matplotlib,21.779603011635867,486,neutral,6.995884773662551
+matplotlib,Jens Hedegaard Nielsen,2011-06-24 12:42:31+00:00,"add , to fix text test",https://github.com/matplotlib/matplotlib,21.779603011635867,778,neutral,12.724935732647817
+matplotlib,Jouni K. Seppänen,2011-09-18 13:23:20+00:00,"Test nearest and none interpolation better
+
+Changes the baseline file image_interps.pdf to match the current
+behavior of the code, and adds a new test for the difference between
+""nearest"" and ""none"" interpolation.",https://github.com/matplotlib/matplotlib,21.779603011635867,61,neutral,27.86885245901639
+matplotlib,cgohlke,2011-09-21 02:26:54+00:00,Fix potential issue with np.float16,https://github.com/matplotlib/matplotlib,21.779603011635867,99,neutral,25.252525252525253
+matplotlib,Damon McDougall,2011-09-28 14:52:51+00:00,"Added Carey Rappaport's CMRmap
+
+This colour map is great for colour images but is also ideal for
+rendering these images in black and white. Suitable for publications.",https://github.com/matplotlib/matplotlib,21.779603011635867,304,positive,12.828947368421051
+matplotlib,Tony S Yu,2011-10-09 16:10:49+00:00,Add missing qt4 key bindings,https://github.com/matplotlib/matplotlib,21.779603011635867,162,neutral,14.814814814814811
+matplotlib,Daniel Hyams,2011-10-23 23:39:05+00:00,"Added double click support to matplotlib for the following backends:
+Qt4Agg, GTK, GTKAgg, WXAgg, TkAgg, QtAgg, WX",https://github.com/matplotlib/matplotlib,21.779603011635867,46,neutral,10.869565217391305
+matplotlib,Jens H. Nielsen,2011-11-03 20:25:39+00:00,"Fix TypeError: __bool__ should return bool, returned int in python3. __bool__ is converted from __nozero__ by 2to3
+so change this to return bool",https://github.com/matplotlib/matplotlib,21.779603011635867,64,neutral,14.0625
+matplotlib,Joe Kington,2012-01-17 02:51:29+00:00,Fixed problem with non-base-10 symlog axes due to mutable default argument,https://github.com/matplotlib/matplotlib,21.779603011635867,36,neutral,2.7777777777777777
+matplotlib,Phil Elson,2012-02-17 18:21:30+00:00,First pass support at contour hatching.,https://github.com/matplotlib/matplotlib,21.779603011635867,452,neutral,6.8584070796460175
+matplotlib,endolith,2012-05-17 14:18:47+00:00,fix two typos,https://github.com/matplotlib/matplotlib,21.779603011635867,42,negative,19.047619047619047
+matplotlib,Martin Spacek,2012-06-03 01:51:41+00:00,"replace cairo.format with savefig.format in rcParams, apply to most backends
+
+replace some stray tabs with spaces",https://github.com/matplotlib/matplotlib,21.779603011635867,37,neutral,16.216216216216218
+matplotlib,pelson,2012-06-16 14:02:15+00:00,Full support for string cmaps.,https://github.com/matplotlib/matplotlib,21.779603011635867,38,positive,2.631578947368421
+matplotlib,Thomas A Caswell,2012-08-08 20:08:15+00:00,increased the padding on FileMovieWritter.frame_format_str,https://github.com/matplotlib/matplotlib,21.779603011635867,6743,neutral,9.624796084828713
+matplotlib,pwuertz,2012-08-14 18:13:26+00:00,fixed conversion from pt to inch in tight_layout,https://github.com/matplotlib/matplotlib,21.779603011635867,53,neutral,9.433962264150944
+matplotlib,Nelle Varoquaux,2012-08-28 14:39:08+00:00,FIX - typo in lib/matplotlib/testing/compare.py,https://github.com/matplotlib/matplotlib,21.779603011635867,854,negative,8.665105386416862
+matplotlib,Peter Würtz,2012-08-28 16:59:59+00:00,"Merge pull request #1160 from pwuertz/pgf-backend
+
+backend_pgf: clarifications and fixes in documentation",https://github.com/matplotlib/matplotlib,21.779603011635867,42,neutral,7.142857142857142
+matplotlib,Nic Eggert,2012-09-05 02:29:12+00:00,Add stacked kwarg to hist. This allows stacked step and stepfilled hists.,https://github.com/matplotlib/matplotlib,21.779603011635867,28,neutral,14.285714285714285
+matplotlib,Matt Giuca,2012-09-20 06:14:53+00:00,Fix Image Tutorial: plt.imshow instead of mpimg.imshow.,https://github.com/matplotlib/matplotlib,21.779603011635867,57,negative,24.561403508771928
+matplotlib,Till Stensitzki,2012-10-10 23:04:53+00:00,"fixed lognorm clip behavior
+added test",https://github.com/matplotlib/matplotlib,21.779603011635867,22,neutral,18.181818181818183
+matplotlib,Maximilian Albert,2012-10-31 22:18:12+00:00,Allow Animation.save() to accept keyword arguments which are passed on to savefig() when saving individual frames. This can be used to set tight bounding boxes etc.,https://github.com/matplotlib/matplotlib,21.779603011635867,24,neutral,29.166666666666668
+matplotlib,Tobias Megies,2012-11-23 12:32:09+00:00,"fix 2 html color names
+
+There are two garbled up lines resulting in one missing colorname and one colorname assigned to the wrong html color code.",https://github.com/matplotlib/matplotlib,21.779603011635867,39,negative,20.51282051282051
+matplotlib,Todd Jennings,2013-01-11 13:09:00+00:00,Ignore kdevelop4 project files,https://github.com/matplotlib/matplotlib,21.779603011635867,31,negative,6.451612903225806
+matplotlib,Antony Lee,2013-01-16 19:36:16+00:00,Recompute Wedge path after change of attributes.,https://github.com/matplotlib/matplotlib,21.779603011635867,4401,neutral,18.74573960463531
+matplotlib,Cimarron Mittelsteadt,2013-03-22 03:12:32+00:00,Added modifier key event handling for the macosx backend and cleaned up key event handler.,https://github.com/matplotlib/matplotlib,21.779603011635867,84,neutral,10.714285714285714
+matplotlib,Francesco Montesano,2013-03-24 10:56:34+00:00,fill_betweenx signature fixed,https://github.com/matplotlib/matplotlib,21.779603011635867,45,neutral,8.88888888888889
+matplotlib,Paul Hobson,2013-05-14 10:04:22+00:00,BUG: fixed weird case where boxplot whiskers went inside box,https://github.com/matplotlib/matplotlib,21.779603011635867,255,negative,5.098039215686274
+matplotlib,Matt Terry,2013-06-28 22:27:24+00:00,forward keyword args though table,https://github.com/matplotlib/matplotlib,21.779603011635867,25,neutral,4.0
+matplotlib,Katy Huff,2013-06-28 22:38:08+00:00,This commented-out code seems unnecessary.,https://github.com/matplotlib/matplotlib,21.779603011635867,28,negative,10.714285714285714
+matplotlib,Varoquaux,2013-06-29 19:11:59+00:00,"Merge pull request #2180 from pelson/v1.2.x
+
+Backported #2178 to v1.2.x",https://github.com/matplotlib/matplotlib,21.779603011635867,21,neutral,4.761904761904762
+matplotlib,Matthew Brett,2013-08-22 02:51:54+00:00,"BF: guard against broken PyQt import
+
+We may have picked up a broken PyQt that correctly imported, for example
+if we have imported a Python 3.3 PyQt from Python 3.2; check we do have
+the attribute we need for getting PyQt versions.",https://github.com/matplotlib/matplotlib,21.779603011635867,56,neutral,19.642857142857142
+matplotlib,Federico Ariza,2013-09-12 13:53:24+00:00,Adding possibility to remove invisible lines and patches from relim,https://github.com/matplotlib/matplotlib,21.779603011635867,129,neutral,4.651162790697675
+matplotlib,Jan Schulz,2013-10-29 17:00:37+00:00,"Make it possible to add mpl.rcParams to itself or deepcopy
+
+Before it was not possible to set all rcParams to mpl.rcParams or use
+ copy.deepcopy on mpl.rcParams.
+
+There were two problems:
+ 1. validate_bool_maybe_none(None) was raising ValueError
+ -> fixed by accepting this value
+ 2. svg.embed_char_paths was deprecated by svg.fonttype but both have
+ different valid values (bool vs strings).
+ -> fixed by adding a ""value translation"" lambda to deprecatedmap
+ which translates the boolean values to the string values of
+ svg.fonttype.
+
+Also changed all validators, which accept None to check strings
+without case (""none"" vs ""None"").
+
+Test for this: mpl.tests.test_rcparams.test_Bug_2543()
+
+Closes: #2543",https://github.com/matplotlib/matplotlib,21.779603011635867,117,neutral,17.94871794871795
+matplotlib,Thomas Hisch,2013-11-24 18:42:39+00:00,subplottool -> whats_new.rst,https://github.com/matplotlib/matplotlib,21.779603011635867,83,neutral,12.048192771084338
+matplotlib,Nicolas P. Rougier,2014-05-13 05:05:09+00:00,"Merge pull request #1 from pelson/rain_anim
+
+Rain anim",https://github.com/matplotlib/matplotlib,21.779603011635867,52,neutral,7.6923076923076925
+matplotlib,Elliott Sales de Andrade,2014-07-06 20:50:50+00:00,"Fix plot directive when used with multiple options.
+
+The existing template produces newlines between options, which were
+confusing the reST parser. By fiddling with whitespace control, the
+template can be made to put things together correctly.",https://github.com/matplotlib/matplotlib,21.779603011635867,5227,neutral,10.981442510044005
+matplotlib,Steven Silvester,2014-09-14 01:15:34+00:00,"Add proper search for libpng and freetype on win32 during install.
+
+Allow for getstatusoutput on win32 and use INCLUDE and LIB env vars
+
+Back off on the use of the environmental variables
+
+Pinpointed necessary location for INCLUDE
+
+Fix link to matplotlib-winbuild
+
+Normalize handling of library location finding
+
+Include more paths in the search
+
+Restore _check for_pkg_config behavior
+
+Implement getstatusoutput on win32
+
+Remove win32 getstatusoutput in favor of explicit check_include_file",https://github.com/matplotlib/matplotlib,21.779603011635867,151,neutral,12.582781456953644
+matplotlib,Matthias Bussonnier,2014-10-02 16:38:16+00:00,"Icon for font awesome 3.2.1 and 4
+
+Should fix https://github.com/matplotlib/matplotlib/issues/3606",https://github.com/matplotlib/matplotlib,21.779603011635867,51,neutral,33.33333333333333
+matplotlib,Paul G,2014-12-24 15:24:40+00:00,"Clean up docstrings (convert several single-quote string comments to triple-quote docstrings for consistency.)
+
+Signed-off-by: Paul G <p.ganssle@gmail.com>",https://github.com/matplotlib/matplotlib,21.779603011635867,23,neutral,4.3478260869565215
+matplotlib,Jody Klymak,2015-06-07 03:45:54+00:00,"Create colormap_normalizations.py
+
+Example with colormap normalizations",https://github.com/matplotlib/matplotlib,21.779603011635867,2550,neutral,6.078431372549019
+matplotlib,Eric Ma,2015-07-11 15:48:07+00:00,"In coutourf_log.py, changed `P.` to `plt.`
+
+Originally had:
+`from matplotlib import pyplot as P`.
+
+Changed to:
+`import matplotlib.pyplot as plt`.
+
+In later lines, changed all `P.function()`s to `plt.function()`s.",https://github.com/matplotlib/matplotlib,21.779603011635867,161,neutral,1.8633540372670807
+matplotlib,domspad,2015-07-11 16:38:58+00:00,translated pylab import to plts,https://github.com/matplotlib/matplotlib,21.779603011635867,26,neutral,7.6923076923076925
+matplotlib,Thomas Spura,2015-07-28 09:05:56+00:00,Axes3D.plot: Fix minor typo in description,https://github.com/matplotlib/matplotlib,21.779603011635867,21,neutral,19.047619047619047
+matplotlib,Bruno Beltran,2015-07-29 04:19:56+00:00,FIX: violinplot crashed if input variance was zero,https://github.com/matplotlib/matplotlib,21.779603011635867,41,negative,14.634146341463412
+matplotlib,Víctor Zabalza,2015-08-07 00:08:44+00:00,"first attempt
+
+finetuning with cm TeX
+
+match superscript height",https://github.com/matplotlib/matplotlib,21.779603011635867,56,neutral,8.928571428571429
+matplotlib,Joseph Jon Booker,2015-08-08 14:22:48+00:00,"Use pcolormesh in axes_grid.colorbar
+
+Remove redudant code by using axes_grid1's implementation",https://github.com/matplotlib/matplotlib,21.779603011635867,24,neutral,4.166666666666666
+matplotlib,Julien Lhermitte,2015-09-14 01:29:16+00:00,"added None option to _get_view, also fixed a typo",https://github.com/matplotlib/matplotlib,21.779603011635867,23,neutral,4.3478260869565215
+matplotlib,Nikita Kniazev,2015-10-26 15:48:24+00:00,Fix #5316: Remove hardcoded parameter from barh doc,https://github.com/matplotlib/matplotlib,21.779603011635867,144,negative,15.97222222222222
+matplotlib,Joseph Fox-Rabinovitz,2016-03-26 12:49:23+00:00,ENH: Added `file` keyword to `setp` to redirect output,https://github.com/matplotlib/matplotlib,21.779603011635867,21,neutral,28.57142857142857
+matplotlib,Benjamin Congdon,2016-04-23 23:57:03+00:00,Add 'scatter.marker' option to rcParams,https://github.com/matplotlib/matplotlib,21.779603011635867,24,neutral,8.333333333333332
+matplotlib,David Stansby,2016-05-05 11:12:33+00:00,Update demo_floating_axes.py,https://github.com/matplotlib/matplotlib,21.779603011635867,1964,neutral,8.146639511201629
+matplotlib,Adrien F Vincent,2016-05-30 12:35:46+00:00,First draft to correct issue #6035 and to write relevant unit tests. Does break old unit tests of fancyarrow (test_arrow_patches.py)!,https://github.com/matplotlib/matplotlib,21.779603011635867,64,neutral,17.1875
+matplotlib,Adrien F. VINCENT,2016-06-02 17:18:30+00:00,TST Remove plt.show() from test_axes.test_dash_offset,https://github.com/matplotlib/matplotlib,21.779603011635867,27,neutral,29.629629629629623
+matplotlib,Alexis Bienvenüe,2016-06-16 21:38:06+00:00,"To allow reproducible output:
+* honour SOURCE_DATE_EPOCH for timestamps in PS and PDF files.
+  See https://reproducible-builds.org/specs/source-date-epoch/
+* get keys sorted so that hatchPatterns, images and markers are included with
+  a reproducible order in the PDF file.
+See https://reproducible-builds.org/",https://github.com/matplotlib/matplotlib,21.779603011635867,27,neutral,11.11111111111111
+matplotlib,Chris Holdgraf,2016-06-28 17:32:56+00:00,adding from_list to custom cmap tutorial,https://github.com/matplotlib/matplotlib,21.779603011635867,42,neutral,7.142857142857142
+matplotlib,Adrien F. Vincent,2016-07-03 16:34:43+00:00,"Add Adrien F. Vincent to `.mailmap`
+
+This should avoid obfuscating the GH stats with 4 different variations of my name...",https://github.com/matplotlib/matplotlib,21.779603011635867,52,neutral,13.461538461538462
+matplotlib,hannah,2016-07-08 02:03:06+00:00,"Basic support for plotting lists of strings/categorical data. Support for updating ticks/animation in progress/buggy, 'especially for scatter.",https://github.com/matplotlib/matplotlib,21.779603011635867,578,neutral,5.017301038062284
+matplotlib,Eric Larson,2016-12-22 17:01:40+00:00,FIX: Fix super call for Python 2.7,https://github.com/matplotlib/matplotlib,21.779603011635867,45,neutral,6.666666666666667
+matplotlib,Kacper Kowalik (Xarthisius),2016-12-25 13:48:07+00:00,Allow to store metadata in png files,https://github.com/matplotlib/matplotlib,21.779603011635867,22,neutral,4.545454545454546
+matplotlib,patniharshit,2017-02-17 16:28:24+00:00,"Remove example of matrix of size (12, 12) and (64, 64)",https://github.com/matplotlib/matplotlib,21.779603011635867,38,neutral,2.631578947368421
+matplotlib,Christopher Holdgraf,2017-04-10 01:52:39+00:00,Merge branch 'sphinx_gallery' of https://github.com/NelleV/matplotlib into sphinx_gallery,https://github.com/matplotlib/matplotlib,21.779603011635867,46,neutral,15.217391304347828
+matplotlib,Eric Wieser,2017-05-11 14:00:54+00:00,"BUG: Correct invocation of `expand_dims`
+
+`alpha` is 2d, yet here it was requested to insert a fourth dimension.
+
+This rightly produces an error in numpy 1.13.0rc1, although we might soften this to a deprecation warning",https://github.com/matplotlib/matplotlib,21.779603011635867,53,negative,11.320754716981131
+matplotlib,Importance of Being Ernest,2017-08-21 10:11:42+00:00,"Using `canvas.draw_idle()` inside `plt.pause`
+
+Instead of `canvas.draw()` we may use `canvas.draw_idle()` inside `plt.pause`. In general using `draw_idle()` has several advantages over `draw()`, so one might also use it here.",https://github.com/matplotlib/matplotlib,21.779603011635867,24,neutral,12.5
+matplotlib,mattip,2017-10-12 11:43:07+00:00,fill out dev docs,https://github.com/matplotlib/matplotlib,21.779603011635867,22,neutral,9.090909090909092
+matplotlib,Tim Hoffmann,2017-11-13 20:26:24+00:00,fix exception when guessing the AFM familyname,https://github.com/matplotlib/matplotlib,21.779603011635867,3963,neutral,6.43451930355791
+matplotlib,DietmarSchwertberger,2018-01-07 21:24:00+00:00,remove evt.Skip() from EVT_PAINT handler,https://github.com/matplotlib/matplotlib,21.779603011635867,33,neutral,15.151515151515152
+matplotlib,Maximilian Nöthe,2018-02-20 15:23:14+00:00,Implement PdfPages for backend pgf,https://github.com/matplotlib/matplotlib,21.779603011635867,28,neutral,0.0
+matplotlib,ImportanceOfBeingErnest,2018-03-27 17:31:50+00:00,Update install instructions for win,https://github.com/matplotlib/matplotlib,21.779603011635867,67,neutral,2.985074626865672
+matplotlib,fredrik-1,2018-04-17 04:52:40+00:00,changed tight_layout doc strings,https://github.com/matplotlib/matplotlib,21.779603011635867,23,neutral,8.695652173913043
+matplotlib,pharshalp,2018-07-07 13:45:55+00:00,"Added _ColorbarAutoMinorLocator and minorticks_on/off
+
+Added a missing blank line before class definition
+
+added a test for minorticks_on/off
+
+Renamed the test for colorbar minorticks_on/off and added helpful comment
+
+Cleaned up the __call__ method for _ColorbarAutoMinorLocator as per the suggestion of @jklymak
+
+Added whats new entry
+
+making sure that minorticks_on/off doesn't act on a logarithmic colorbar axis
+
+Added _ColorbarAutoMinorLocator, minorticks_on/off, test_colorbar_minorticks_on_off and whats new entry
+
+Added an example showing off the utility of cbar.minorticks_on()
+
+Cleaning up",https://github.com/matplotlib/matplotlib,21.779603011635867,24,neutral,12.5
+matplotlib,Kyle Sunden,2018-07-15 17:43:03+00:00,Increase tolerance for aarch64 tests,https://github.com/matplotlib/matplotlib,21.779603011635867,913,neutral,6.24315443592552
+matplotlib,Elan Ernest,2018-09-20 15:19:27+00:00,Doc: Don't use Sphinx 1.8 (#12183),https://github.com/matplotlib/matplotlib,21.779603011635867,37,negative,8.108108108108109
+matplotlib,MeeseeksMachine,2018-09-21 12:04:05+00:00,Backport PR #12187: DOC: Update INSTALL.rst (#12195),https://github.com/matplotlib/matplotlib,21.779603011635867,62,neutral,14.516129032258066
+matplotlib,sasoripathos,2019-03-22 16:40:32+00:00,Fix issue 10788,https://github.com/matplotlib/matplotlib,21.779603011635867,28,neutral,10.714285714285714
+matplotlib,Greg Lucas,2019-05-20 16:36:18+00:00,Changing cmap(np.nan) to bad value rather than under value. Addresses issue #9892,https://github.com/matplotlib/matplotlib,21.779603011635867,319,negative,6.583072100313479
+matplotlib,Bingyao Liu,2019-07-01 04:14:50+00:00,fix a typo in pyplot tutorial.,https://github.com/matplotlib/matplotlib,21.779603011635867,23,negative,39.130434782608695
+matplotlib,Alex Rudy,2019-07-13 21:18:02+00:00,Deprecate math_symbol_table function directive,https://github.com/matplotlib/matplotlib,21.779603011635867,22,negative,9.090909090909092
+matplotlib,Max Chen,2019-10-13 16:00:16+00:00,"catch OSError instead of FileNotFoundError to resolve #15399
+
+While finding available movie writers, if the executable is presented but
+cannot be run, the import process will fail upon calling '_get_executable_info'
+since it only handled CalledProcessError and FileNotFoundError.
+
+In this commit, we catch OSError instead of FileNotFoundError in '__init__.py'
+and log the error message in 'animation.py' to improve the import robustness.",https://github.com/matplotlib/matplotlib,21.779603011635867,25,negative,16.0
+matplotlib,Vlas Sokolov,2020-04-16 09:06:28+00:00,add minimal errorbar3d method to Axes3D,https://github.com/matplotlib/matplotlib,21.779603011635867,36,neutral,8.333333333333332
+matplotlib,Richard Sheridan,2020-06-30 00:23:28+00:00,"fix FigureManagerTk close behavior if embedded in Tk App
+
+Check if the Tk mainloop was dispatching (with an ugly thread hack) and don't quit it if that was the case.",https://github.com/matplotlib/matplotlib,21.779603011635867,25,negative,20.0
+matplotlib,ianhi,2020-08-03 16:13:54+00:00,"add feature request template
+
+I also moved the ISSUE_TEMPLATE.md to ISSUE_TEMPLATE/bug_report.md so that both feature requests and bug report templates will show up after clicking the new issue button",https://github.com/matplotlib/matplotlib,21.779603011635867,35,neutral,2.857142857142857
+matplotlib,Ian Hunt-Isaak,2020-08-05 00:18:54+00:00,"correct api note formatting
+
+Co-authored-by: Elliott Sales de Andrade <quantum.analyst@gmail.com>",https://github.com/matplotlib/matplotlib,21.779603011635867,36,neutral,13.88888888888889
+matplotlib,richardsheridan,2020-08-06 11:09:59+00:00,"spelling correction
+
+Co-authored-by: Elliott Sales de Andrade <quantum.analyst@gmail.com>",https://github.com/matplotlib/matplotlib,21.779603011635867,47,neutral,8.51063829787234
+matplotlib,Aitik Gupta,2020-11-14 01:22:47+00:00,"Add strictly increasing check, corresponding doc fix",https://github.com/matplotlib/matplotlib,21.779603011635867,48,neutral,6.25
+matplotlib,yozhikoff,2020-12-23 19:56:26+00:00,Add multiple labels support to Axes.plot(),https://github.com/matplotlib/matplotlib,21.779603011635867,22,neutral,9.090909090909092
+matplotlib,Ruth Comer,2020-12-30 17:40:45+00:00,clarify date format example,https://github.com/matplotlib/matplotlib,21.779603011635867,390,neutral,3.333333333333333
+matplotlib,Eric Prestat,2021-01-21 10:43:22+00:00,Set `QT_MAC_WANTS_LAYER='1'` on mac to fix issue with the qt backend on mac big sur.,https://github.com/matplotlib/matplotlib,21.779603011635867,114,neutral,5.263157894736842
+matplotlib,Tortar,2021-06-29 01:45:19+00:00,"_rendercursor of TextBox can be used with different locations
+
+I updated the _rendercursor function of the TextBox class so that now it is possible to locate the text in other positions e.g. the center of the TextBox, with the cursor following it. Previously the cursor would have cut a letter if just the property of self.text_disp in init had been changed.",https://github.com/matplotlib/matplotlib,21.779603011635867,43,neutral,0.0
+matplotlib,dependabot[bot],2021-07-19 20:31:20+00:00,"Bump codecov/codecov-action from 1 to 2
+
+Bumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 1 to 2.
+- [Release notes](https://github.com/codecov/codecov-action/releases)
+- [Changelog](https://github.com/codecov/codecov-action/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/codecov/codecov-action/compare/v1...v2.0.1)
+
+---
+updated-dependencies:
+- dependency-name: codecov/codecov-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",https://github.com/matplotlib/matplotlib,21.779603011635867,68,neutral,0.0
+matplotlib,Jakub Klus,2021-07-24 09:33:25+00:00,"Improved implementation of Path.copy and deepcopy
+
+The original Path.copy raised RecursionError, new implementation mimicks
+deepcopy, creating shared members.
+
+Path tests were updated to utilize member functions copy and deepcopy
+instead of builtin copy functional protocol.",https://github.com/matplotlib/matplotlib,21.779603011635867,29,neutral,6.896551724137931
+matplotlib,Stefanie Molin,2021-08-22 20:03:27+00:00,Add additional external resource.,https://github.com/matplotlib/matplotlib,21.779603011635867,46,neutral,4.3478260869565215
+matplotlib,Richard Penney,2021-10-21 15:57:45+00:00,Grafted prototype arcsinh axis-scaling from stand-alone script,https://github.com/matplotlib/matplotlib,21.779603011635867,39,neutral,0.0
+matplotlib,Jan-Hendrik Müller,2021-11-12 09:20:12+00:00,Rename to voxelarray,https://github.com/matplotlib/matplotlib,21.779603011635867,21,neutral,4.761904761904762
+matplotlib,Steffen Rehberg,2021-11-25 14:13:35+00:00,"DOC: Clarify Coords Report Example
+
+- add remark that this only pertains to the interactive backend
+- PEP8 fixes",https://github.com/matplotlib/matplotlib,21.779603011635867,54,neutral,14.814814814814811
+matplotlib,Scott Shambaugh,2021-12-03 16:49:46+00:00,"Add ability to roll the camera in 3D plots (#21426)
+
+* Add a roll angle for viewing 3D plots
+
+Add roll angle for 3d plot examples
+
+Align rotation of 3D plot by mouse with rolled axes
+
+3D plot roll angle flake8, tests, and whats new
+
+Fix plot flipping at elev>270
+
+Test for 3d plot with elev>270
+
+Normalize the displayed angles for 3d plots when rotating with mouse
+
+Make elev, azim, roll ordering consistent everywhere
+
+Rename roll angle to tilt
+
+Speed up calculations for default tilt=0
+
+Code review updates
+
+Switch tilt naming back to roll, flip rotation handedness
+
+Switch tilt naming back to roll, flip rotation handedness
+
+* Better elev/azim/roll docstrings
+
+Co-authored-by: Scott Shambaugh <scottshambaugh@users.noreply.github.com>",https://github.com/matplotlib/matplotlib,21.779603011635867,114,neutral,9.649122807017545
+matplotlib,Oscar Gustafsson,2021-12-19 15:18:17+00:00,Added color keyword argument to math_to_image,https://github.com/matplotlib/matplotlib,21.779603011635867,908,neutral,8.370044052863436
+matplotlib,Matthew Feickert,2022-03-31 04:17:28+00:00,"CI: Add nightly upload of wheels to Anaconda Cloud
+
+Add nightlies.yml GitHub Action workflow that uses the gh CLI API to
+download the 'wheels' artifact from the latest completed build of the
+cibuildwheel workflow from the 'main' branch. This is done by getting
+the fields 'event', 'status', and 'databaseId' from the output of
+`gh run list` as JSON and then using jq to filter for 'push' events
+(which correspond to merged PRs to the 'main' branch) that have
+completed runs. This is then sorted by the databaseIds in descending
+order to get the latest completed build run number. Then the 'wheels'
+artifact can be downloaded.
+
+The downloaded wheels are then uploaded to the scipy-wheels-nightly
+Anaconda Cloud organization (https://anaconda.org/scipy-wheels-nightly)
+using the anaconda-client CLI API.",https://github.com/matplotlib/matplotlib,21.779603011635867,36,neutral,2.7777777777777777
+matplotlib,DWesl,2022-05-18 11:36:00+00:00,"BLD: Define an error function on Cygwin.
+
+This function is defined on Windows, not Cygwin.
+Should maybe request that upstream.",https://github.com/matplotlib/matplotlib,21.779603011635867,26,neutral,7.6923076923076925
+matplotlib,Chahak Mehta,2022-10-08 01:23:31+00:00,"Add textcolor to legend based on labelcolor string
+
+As raised by #20577, setting `labelcolor` to any of the string options
+did not work with a scatter plot as it is a PathCollection with possible
+multiple color values. This commit fixes that. Now, if there is a
+Colormap or a scatter plot with multiple values, then, the legend text
+color is not changed, but otherwise, the text color is changed to the
+color of the scatter markers.",https://github.com/matplotlib/matplotlib,21.779603011635867,36,neutral,2.7777777777777777
+matplotlib,saranti,2022-11-26 07:01:40+00:00,Test that plot results aren't affected by mutating input arrays,https://github.com/matplotlib/matplotlib,21.779603011635867,35,neutral,14.285714285714285
+matplotlib,Ratnabali Dutta,2023-02-05 05:51:00+00:00,Merge branch 'matplotlib:main' into lasso_demo,https://github.com/matplotlib/matplotlib,21.779603011635867,24,neutral,8.333333333333332
+matplotlib,Johann Krauter,2023-04-27 11:43:21+00:00,Adding ellipse_arrow.py example and fix #25477,https://github.com/matplotlib/matplotlib,21.779603011635867,23,neutral,13.043478260869565
+mindsdb,Jorge Torres,2018-08-02 21:07:32+00:00,first commit mindsdb standalone code,https://github.com/mindsdb/mindsdb,6.551676933607118,453,neutral,1.9867549668874167
+mindsdb,Zoran Pandovski,2018-11-15 17:02:53+00:00,Update issue templates,https://github.com/mindsdb/mindsdb,6.551676933607118,1871,neutral,1.6034206306787813
+mindsdb,George,2019-01-29 19:42:00+00:00,"Gpu fix (#66)
+
+* fixed an ambiguity in sourcing the USE_CUDA and added .cuda to decoder and encoder rnns
+
+* added cuda method call on batches in all pytorch forward prop calls if the env variable is True
+
+* small fix in sourcing USE_CUDA
+
+* added .cuda to some nets that were missing it and to all the correct inputs, enabled cudnn auto-tunner
+
+* only enabling torch.backends.cudnn.benchmark if USE_CUDA is set to true
+
+* added some documentation and removed a line that was only used for debugging",https://github.com/mindsdb/mindsdb,6.551676933607118,309,neutral,3.2362459546925564
+mindsdb,George3d6,2019-01-30 11:51:42+00:00,hotfix,https://github.com/mindsdb/mindsdb,6.551676933607118,1677,neutral,6.2015503875969
+mindsdb,ZoranPandovski,2019-05-21 22:49:21+00:00,Use requests instead of urlib3,https://github.com/mindsdb/mindsdb,6.551676933607118,438,neutral,6.164383561643835
+mindsdb,Max Stepanov,2020-06-25 14:10:38+00:00,fix #516 flask global objects,https://github.com/mindsdb/mindsdb,6.551676933607118,3701,neutral,4.350175628208592
+mindsdb,maximlopin,2020-06-25 19:39:00+00:00,add windows storage path,https://github.com/mindsdb/mindsdb,6.551676933607118,144,neutral,4.861111111111112
+mindsdb,mindsdbadmin,2020-08-21 21:33:54+00:00,@Ricram2 has signed the CLA from Pull Request 661,https://github.com/mindsdb/mindsdb,6.551676933607118,720,neutral,0.0
+mindsdb,Ilia Tsyplenkov,2020-11-16 16:48:25+00:00,"Install mindsdb from pypi in deploy step (#939)
+
+* Install mindsdb from pypi in deploy step",https://github.com/mindsdb/mindsdb,6.551676933607118,122,neutral,9.836065573770492
+mindsdb,george,2021-10-06 22:03:53+00:00,fix: constructing problem definition with lightwood type constructor before putting it in the database,https://github.com/mindsdb/mindsdb,6.551676933607118,31,neutral,0.0
+mindsdb,parthiv11,2021-10-09 18:46:38+00:00,Added sql to format it as a aql query,https://github.com/mindsdb/mindsdb,6.551676933607118,204,neutral,2.450980392156863
+mindsdb,Michael Lantz,2021-10-18 17:04:48+00:00,"Updating local deployment doc to correct port
+
+Fix the port number for local deployment docs. Specifically changing MySQL port from 3306 to 47335.",https://github.com/mindsdb/mindsdb,6.551676933607118,40,neutral,22.5
+mindsdb,pixpack,2021-10-23 20:39:48+00:00,Inital commit,https://github.com/mindsdb/mindsdb,6.551676933607118,43,neutral,13.953488372093023
+mindsdb,Parthiv Makwana,2021-10-31 16:30:39+00:00,Improved Code Block And one typo,https://github.com/mindsdb/mindsdb,6.551676933607118,91,neutral,3.296703296703297
+mindsdb,andrew,2021-11-30 11:13:28+00:00,alembic migrations,https://github.com/mindsdb/mindsdb,6.551676933607118,1074,neutral,7.355679702048418
+mindsdb,Chandre Van Der Westhuizen,2022-01-09 18:24:19+00:00,amended text,https://github.com/mindsdb/mindsdb,6.551676933607118,112,neutral,4.464285714285714
+mindsdb,ea-rus,2022-01-19 20:02:56+00:00,"Merge pull request #1872 from mindsdb/staging
+
+Release 2.62.4",https://github.com/mindsdb/mindsdb,6.551676933607118,112,neutral,8.035714285714286
+mindsdb,Patricio Cerda Mardini,2022-02-16 18:26:57+00:00,fix: VIEW page,https://github.com/mindsdb/mindsdb,6.551676933607118,670,neutral,2.985074626865672
+mindsdb,Ricram2,2022-02-16 19:00:25+00:00,Changes on USING Docs WIP,https://github.com/mindsdb/mindsdb,6.551676933607118,158,neutral,1.2658227848101269
+mindsdb,Dave Lewis,2022-02-17 10:30:37+00:00,New Quickstart Page.,https://github.com/mindsdb/mindsdb,6.551676933607118,33,neutral,6.0606060606060606
+mindsdb,Rutam Prita Mishra,2022-03-03 13:01:29+00:00,Create Getting Started with MindsDB on Digital Ocean.md,https://github.com/mindsdb/mindsdb,6.551676933607118,68,neutral,4.411764705882353
+mindsdb,Minura Punchihewa,2022-07-05 17:24:22+00:00,added the skeleton for the SQLite handler and implemented the connect and disconnect methods,https://github.com/mindsdb/mindsdb,6.551676933607118,1455,neutral,2.1305841924398625
+mindsdb,Martyna,2022-07-19 18:49:40+00:00,removed the test word,https://github.com/mindsdb/mindsdb,6.551676933607118,660,neutral,0.9090909090909092
+mindsdb,Tom Hudson,2022-09-14 18:49:51+00:00,HF handler figuring out dependency issues,https://github.com/mindsdb/mindsdb,6.551676933607118,47,neutral,4.25531914893617
+mindsdb,Arman Chand,2022-09-20 18:04:40+00:00,"Updated Docs for SQLAlchemy 
+
+Added pymysql library and Port change #2914",https://github.com/mindsdb/mindsdb,6.551676933607118,24,neutral,8.333333333333332
+mindsdb,martyna-mindsdb,2022-10-03 14:36:13+00:00,"Merge pull request #3070 from mindsdb/readme-changes
+
+Update README.md",https://github.com/mindsdb/mindsdb,6.551676933607118,227,neutral,1.762114537444934
+mindsdb,Alissa,2022-10-04 21:24:46+00:00,Add medium article to tutorials.md,https://github.com/mindsdb/mindsdb,6.551676933607118,33,neutral,6.0606060606060606
+mindsdb,zoran,2022-11-21 14:24:23+00:00,Delete old assets,https://github.com/mindsdb/mindsdb,6.551676933607118,97,neutral,8.24742268041237
+mindsdb,bala_ceg,2022-11-27 17:15:44+00:00,Adding Support for Jira Integration,https://github.com/mindsdb/mindsdb,6.551676933607118,72,neutral,0.0
+mindsdb,Andrew,2022-12-12 05:53:03+00:00,merge from stable,https://github.com/mindsdb/mindsdb,6.551676933607118,21,neutral,9.523809523809524
+mindsdb,Dylan Ketterer,2023-01-31 20:37:33+00:00,Ignore docstring in linter for ml_exec_base.py,https://github.com/mindsdb/mindsdb,6.551676933607118,52,neutral,1.9230769230769231
+mindsdb,Sam Miller,2023-02-01 14:35:48+00:00,initial commits for failing test,https://github.com/mindsdb/mindsdb,6.551676933607118,94,negative,11.702127659574469
+mindsdb,ktyborowski,2023-02-20 08:02:27+00:00,Duckdb handler initial commit,https://github.com/mindsdb/mindsdb,6.551676933607118,21,neutral,4.761904761904762
+mindsdb,sammiller06,2023-02-21 11:03:48+00:00,update readme with system specs,https://github.com/mindsdb/mindsdb,6.551676933607118,92,neutral,7.608695652173914
+mindsdb,tmichaeldb,2023-03-08 19:51:33+00:00,Moved SQL related integration utils to their own file and added 'extract_comparison_conditions' util function,https://github.com/mindsdb/mindsdb,6.551676933607118,176,neutral,5.681818181818182
+mindsdb,Panagiotis Spanakis,2023-03-10 17:10:42+00:00,Update a link to the Trino integration (#4896),https://github.com/mindsdb/mindsdb,6.551676933607118,93,neutral,9.67741935483871
+mindsdb,elkin,2023-03-15 18:27:24+00:00,"fix limit bug
+#4992",https://github.com/mindsdb/mindsdb,6.551676933607118,22,negative,13.636363636363637
+mindsdb,Ty,2023-03-21 22:46:51+00:00,"Merge pull request #5136 from mindsdb/twitter-chatbot-tutorial-docs
+
+Update Twitter Chatbot docs with SNOOPSTEIN",https://github.com/mindsdb/mindsdb,6.551676933607118,145,neutral,2.7586206896551726
+mindsdb,Shruti Agarwal,2023-03-31 12:32:33+00:00,"Added the ""oracle.mdx"" file in data-integrations",https://github.com/mindsdb/mindsdb,6.551676933607118,37,neutral,0.0
+mindsdb,2170chm,2023-04-06 20:29:08+00:00,"Added a step in Windows installation guide
+
+This step resolves the encoding error on Windows systems with default encoding standards other than UTF-8.",https://github.com/mindsdb/mindsdb,6.551676933607118,63,neutral,6.349206349206349
+mindsdb,Pranav,2023-04-10 04:48:04+00:00,made init file,https://github.com/mindsdb/mindsdb,6.551676933607118,27,neutral,3.7037037037037033
+mindsdb,Christinanik251,2023-04-11 13:09:45+00:00,Fix typo in app-handlers.mdx,https://github.com/mindsdb/mindsdb,6.551676933607118,26,negative,11.538461538461538
+mindsdb,Smyja,2023-04-12 14:30:03+00:00,typo fix,https://github.com/mindsdb/mindsdb,6.551676933607118,42,neutral,0.0
+mindsdb,sid,2023-04-12 20:09:15+00:00,connection done with test.py,https://github.com/mindsdb/mindsdb,6.551676933607118,35,neutral,22.857142857142858
+mindsdb,tcchawla,2023-04-24 22:26:06+00:00,Added Boilerplate code and testcases,https://github.com/mindsdb/mindsdb,6.551676933607118,25,neutral,4.0
+mindsdb,Andrey,2023-04-27 08:43:40+00:00,"Merge pull request #5833 from mindsdb/fix-twitter-import
+
+Fixed twitter handler import",https://github.com/mindsdb/mindsdb,6.551676933607118,245,neutral,8.16326530612245
+mindsdb,dusvyat,2023-05-02 11:41:04+00:00,"first commit:
+
+- preprocessing of recommendation data
+- start on model creation - wip",https://github.com/mindsdb/mindsdb,6.551676933607118,238,neutral,4.201680672268908
+mindsdb,Bill Nguyen Ton Hoang,2023-05-07 01:04:18+00:00,Removed xgboost from mint.json,https://github.com/mindsdb/mindsdb,6.551676933607118,89,neutral,3.3707865168539324
+mindsdb,marios,2023-05-10 10:55:22+00:00,Add support for the credentials file to be taken through s3 signed url,https://github.com/mindsdb/mindsdb,6.551676933607118,36,neutral,2.7777777777777777
+mindsdb,Daniel Usvyat,2023-05-31 14:46:18+00:00,Merge branch 'staging' into writer-handler,https://github.com/mindsdb/mindsdb,6.551676933607118,81,neutral,1.2345679012345678
+mindsdb,hamishfagg,2023-07-05 18:37:33+00:00,Use pre-commit for code checking,https://github.com/mindsdb/mindsdb,6.551676933607118,77,neutral,6.493506493506493
+mindsdb,MinuraPunchihewa,2023-07-11 16:40:05+00:00,added the endpoint parameter to allow users to specify their own endpoint,https://github.com/mindsdb/mindsdb,6.551676933607118,62,neutral,1.6129032258064515
+mindsdb,Yuhui Shi,2023-07-18 22:09:55+00:00,Fix typo in bodyfat tutorial,https://github.com/mindsdb/mindsdb,6.551676933607118,53,negative,11.320754716981131
+mindsdb,Hamish Fagg,2023-08-30 00:35:50+00:00,"Merge pull request #7191 from mindsdb/fix_huggingface_deps
+
+Fix hugginface pandas required version",https://github.com/mindsdb/mindsdb,6.551676933607118,94,neutral,9.574468085106384
+mindsdb,Abhi,2023-10-02 21:18:56+00:00,added inventory table implementation,https://github.com/mindsdb/mindsdb,6.551676933607118,66,neutral,1.5151515151515151
+mindsdb,Better-Boy,2023-10-03 10:17:19+00:00,Merge branch 'mindsdb:staging' into staging,https://github.com/mindsdb/mindsdb,6.551676933607118,100,neutral,0.0
+mindsdb,Aditya Azad,2023-10-04 14:43:50+00:00,"Customer Reviews Table (#7527)
+
+* implemented yotpo api to access customer reviews
+
+* made the changes pep8 compliant
+
+* Fix docs
+
+* Fix README.md
+
+* Fix docs in shopify_tables.py
+
+* Implement requested changes
+
+* Change condition on yotpo key check
+
+* Fix README.md
+
+---------
+
+Co-authored-by: martyna-mindsdb <109554435+martyna-mindsdb@users.noreply.github.com>",https://github.com/mindsdb/mindsdb,6.551676933607118,45,neutral,13.333333333333334
+mindsdb,DidierRLopes,2023-10-07 08:37:11+00:00,initial implementation of OpenBB handler,https://github.com/mindsdb/mindsdb,6.551676933607118,23,neutral,13.043478260869565
+mindsdb,Maulana Akbar,2023-10-08 12:49:34+00:00,Update Docs_Manual_QA.md,https://github.com/mindsdb/mindsdb,6.551676933607118,48,neutral,6.25
+mindsdb,ritwickrajmakhal,2023-10-11 12:26:28+00:00,add mindsdb powered project,https://github.com/mindsdb/mindsdb,6.551676933607118,49,neutral,0.0
+mindsdb,RITWICK RAJ MAKHAL,2023-10-12 11:19:34+00:00,Merge branch 'mindsdb:staging' into add-application-yt-insights,https://github.com/mindsdb/mindsdb,6.551676933607118,26,neutral,0.0
+mindsdb,abhijitpal1247,2023-10-12 18:15:51+00:00,initial commit,https://github.com/mindsdb/mindsdb,6.551676933607118,26,neutral,3.8461538461538463
+mindsdb,Ezra Adeyinka,2023-10-19 22:23:25+00:00,chore(docs/integration): fix typo in reddit.mdx,https://github.com/mindsdb/mindsdb,6.551676933607118,34,neutral,44.11764705882353
+mindsdb,Sekhar-Kumar-Dash,2023-10-25 11:57:16+00:00,Update Handlers_Manual_QA.md,https://github.com/mindsdb/mindsdb,6.551676933607118,31,neutral,0.0
+mindsdb,Lucas Koontz,2023-10-31 18:56:50+00:00,fix typo openapi,https://github.com/mindsdb/mindsdb,6.551676933607118,22,negative,4.545454545454546
+mitmproxy,Aldo Cortesi,2010-02-16 04:09:07+00:00,Initial checkin.,https://github.com/mitmproxy/mitmproxy,15.00889801505818,2958,neutral,10.006761325219744
+mitmproxy,Maximilian Hils,2012-06-05 23:26:19+00:00,add missing parser.add_option_group(group),https://github.com/mitmproxy/mitmproxy,15.00889801505818,3950,neutral,9.518987341772153
+mitmproxy,root,2013-12-23 03:41:46+00:00,add search with / for compatibility with what I'll do.,https://github.com/mitmproxy/mitmproxy,15.00889801505818,21,neutral,23.809523809523807
+mitmproxy,Marcelo Glezer,2014-10-03 10:29:44+00:00,--replay-ignore-content & --replay-ignore-param ported from branch 0.10,https://github.com/mitmproxy/mitmproxy,15.00889801505818,83,neutral,8.433734939759036
+mitmproxy,Jim Shaver,2015-03-02 02:12:27+00:00,"specified cipher_list in a few more locations, added a missing comma",https://github.com/mitmproxy/mitmproxy,15.00889801505818,28,neutral,0.0
+mitmproxy,Thomas Kriechbaumer,2015-05-21 11:15:55+00:00,"improve autoenv script
+
+* properly quote DIR variable
+  (it might contain spaces)
+* use builtin string magic instead of `dirname`",https://github.com/mitmproxy/mitmproxy,15.00889801505818,1027,neutral,9.055501460564752
+mitmproxy,Matthew Shao,2015-11-11 01:03:05+00:00,Use watchdog to reload scripts automatically.,https://github.com/mitmproxy/mitmproxy,15.00889801505818,237,neutral,4.641350210970464
+mitmproxy,Shadab Zafar,2016-01-13 10:47:01+00:00,Refactor copy_as_curl_command,https://github.com/mitmproxy/mitmproxy,15.00889801505818,258,neutral,7.3643410852713185
+mitmproxy,requires.io,2016-02-06 17:25:01+00:00,[requires.io] dependency update,https://github.com/mitmproxy/mitmproxy,15.00889801505818,23,neutral,0.0
+mitmproxy,Jason,2016-03-02 07:59:56+00:00,[web] fix StoreView.index,https://github.com/mitmproxy/mitmproxy,15.00889801505818,97,neutral,2.061855670103093
+mitmproxy,Clemens,2016-06-02 17:29:55+00:00,added ui,https://github.com/mitmproxy/mitmproxy,15.00889801505818,68,neutral,5.88235294117647
+mitmproxy,Sachin Kelkar,2016-06-02 17:57:26+00:00,Update README,https://github.com/mitmproxy/mitmproxy,15.00889801505818,22,neutral,0.0
+mitmproxy,Ujjwal Verma,2017-02-02 20:05:53+00:00,Closes #1960 'Z' removes unmarked flows,https://github.com/mitmproxy/mitmproxy,15.00889801505818,68,neutral,5.88235294117647
+mitmproxy,Miroslav,2018-01-07 14:18:58+00:00,Fix #2688,https://github.com/mitmproxy/mitmproxy,15.00889801505818,33,neutral,6.0606060606060606
+mitmproxy,madt1m,2018-04-01 19:14:29+00:00,New context for dataviewer overlays,https://github.com/mitmproxy/mitmproxy,15.00889801505818,36,neutral,5.555555555555555
+mitmproxy,Henrique,2019-11-12 23:57:39+00:00,"Fix for issues when using \ and "" on the commander bar",https://github.com/mitmproxy/mitmproxy,15.00889801505818,50,neutral,8.0
+mitmproxy,Alexander Prinzhorn,2020-04-02 09:18:38+00:00,"Only emit ""serverconnect"" after successfully connecting",https://github.com/mitmproxy/mitmproxy,15.00889801505818,31,neutral,19.35483870967742
+mitmproxy,Martin Plattner,2020-06-25 13:33:42+00:00,setheaders addon: change pattern order,https://github.com/mitmproxy/mitmproxy,15.00889801505818,54,neutral,5.555555555555555
+mitmproxy,zokutyou2@gmail.com,2021-06-07 06:25:38+00:00,Add hover menu to FlowRow,https://github.com/mitmproxy/mitmproxy,15.00889801505818,33,neutral,12.12121212121212
+mitmproxy,Manuel Meitinger,2022-03-19 15:17:44+00:00,[dns] first commit,https://github.com/mitmproxy/mitmproxy,15.00889801505818,212,neutral,3.30188679245283
+mitmproxy,Miguel Guarniz,2022-07-29 17:02:05+00:00,"add dtls layer - only forward messages as-is
+
+Signed-off-by: Miguel Guarniz <mi9uel9@gmail.com>",https://github.com/mitmproxy/mitmproxy,15.00889801505818,28,neutral,3.571428571428571
+mitmproxy,mitmproxy release bot,2022-10-28 12:47:17+00:00,mitmproxy 9.0.0,https://github.com/mitmproxy/mitmproxy,15.00889801505818,54,neutral,0.0
+mitmproxy,dependabot[bot],2022-11-29 13:39:38+00:00,"Bump actions/download-artifact from 2 to 3 (#5769)
+
+Bumps [actions/download-artifact](https://github.com/actions/download-artifact) from 2 to 3.
+- [Release notes](https://github.com/actions/download-artifact/releases)
+- [Commits](https://github.com/actions/download-artifact/compare/v2...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/download-artifact
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",https://github.com/mitmproxy/mitmproxy,15.00889801505818,180,neutral,0.0
+mitmproxy,Matteo Luppi,2024-02-20 08:59:35+00:00,"Fix bug scripts in Mitmweb (#6668)
+
+#### Description
+
+This PR should fix issue: #6002 
+
+#### Checklist
+
+ - [x] I have updated tests where applicable.
+ - [ ] I have added an entry to the CHANGELOG.
+
+---------
+
+Co-authored-by: autofix-ci[bot] <114827586+autofix-ci[bot]@users.noreply.github.com>",https://github.com/mitmproxy/mitmproxy,15.00889801505818,35,neutral,0.0
+mitmproxy,Gaurav Jain,2024-02-27 11:50:25+00:00,"Add `content_view_lines_cutoff` option to mitmdump (#6692)
+
+#### Description
+
+Fixes #4476 
+This PR adds the already existing `content_view_lines_cutoff` option to
+`mitmdump` to filter the number of content lines shown when
+`flow_detail` option is set to `3`. By default this option's value is
+set to `512`
+
+Updated tests that check for `cutoff` in responses that cross `512`
+lines(with the default value set)
+Added tests to ensure that custom values for `content_view_lines_cutoff`
+works as intended
+
+#### Verification
+1. run `mitmdump --set flow_detail=3 --set content_view_lines_cutoff=3`
+2. run `curl --proxy http:/127.0.0.1:8080 ""https://google.com/""`
+
+#### Before
+<details>
+<summary>Output</summary>
+
+```
+[15:00:41.441] HTTP(S) proxy listening at *:8080.
+[15:00:53.236][127.0.0.1:38826] client connect
+[15:00:53.520][127.0.0.1:38826] server connect google.com:443 (142.250.183.238:443)
+127.0.0.1:38826: GET https://google.com/ HTTP/2.0
+    user-agent: curl/8.5.0
+    accept: */*
+
+ << HTTP/2.0 301 Moved Permanently 220b
+    location: https://www.google.com/
+    content-type: text/html; charset=UTF-8
+    content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-7rNdfc7B14cr_4JZskk3AQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+    date: Tue, 27 Feb 2024 09:31:02 GMT
+    expires: Thu, 28 Mar 2024 09:31:02 GMT
+    cache-control: public, max-age=2592000
+    server: gws
+    content-length: 220
+    x-xss-protection: 0
+    x-frame-options: SAMEORIGIN
+    alt-svc: h3="":443""; ma=2592000,h3-29="":443""; ma=2592000
+
+    <HTML>
+    <HEAD>
+      <meta http-equiv=""content-type"" content=""text/html;charset=utf-8"">
+      <TITLE>301 Moved</TITLE>
+    </HEAD>
+    <BODY>
+      <H1>301 Moved</H1>
+      The document has moved
+      <A HREF=""https://www.google.com/"">here</A>
+      .
+    </BODY>
+    </HTML>
+
+[15:00:53.897][127.0.0.1:38826] client disconnect
+[15:00:53.897][127.0.0.1:38826] server disconnect google.com:443 (142.250.183.238:443)
+```
+</details>
+
+Content is not truncated within `3` lines
+
+#### After
+
+<details>
+<summary>Output</summary>
+
+```
+[14:55:26.042] HTTP(S) proxy listening at *:8080.
+[14:55:33.630][127.0.0.1:40554] client connect
+[14:55:33.775][127.0.0.1:40554] server connect google.com:443 (142.250.182.142:443)
+127.0.0.1:40554: GET https://google.com/ HTTP/2.0
+    user-agent: curl/8.5.0
+    accept: */*
+
+ << HTTP/2.0 301 Moved Permanently 220b
+    location: https://www.google.com/
+    content-type: text/html; charset=UTF-8
+    content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-LCd_ThPYwSImYoighASUFQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+    date: Tue, 27 Feb 2024 09:25:42 GMT
+    expires: Thu, 28 Mar 2024 09:25:42 GMT
+    cache-control: public, max-age=2592000
+    server: gws
+    content-length: 220
+    x-xss-protection: 0
+    x-frame-options: SAMEORIGIN
+    alt-svc: h3="":443""; ma=2592000,h3-29="":443""; ma=2592000
+
+    <HTML>
+    <HEAD>
+      <meta http-equiv=""content-type"" content=""text/html;charset=utf-8"">
+    (cut off)
+
+[14:55:34.021][127.0.0.1:40554] client disconnect
+[14:55:34.022][127.0.0.1:40554] server disconnect google.com:443 (142.250.182.142:443)
+```
+</details>
+
+Content is truncated within `3` lines
+
+#### Checklist
+
+ - [x] I have updated tests where applicable.
+ - [x] I have added an entry to the CHANGELOG.
+
+---------
+
+Co-authored-by: autofix-ci[bot] <114827586+autofix-ci[bot]@users.noreply.github.com>",https://github.com/mitmproxy/mitmproxy,15.00889801505818,22,neutral,4.545454545454546
+mygpo,Stefan Koegl,2009-11-01 21:40:29+00:00,created Django Project with Apps api and web,https://github.com/gpodder/mygpo,15.268993839835728,771,neutral,13.2295719844358
+mygpo,Stefan Kögl,2009-11-07 15:26:27+00:00,"added new episode_log fields to model (bug 644)
+
+I've added the new db fields episode_log.device_id and
+episode_log.playmark to the model EpisodeAction",https://github.com/gpodder/mygpo,15.268993839835728,2637,neutral,10.542282897231702
+mygpo,Thomas Perl,2009-11-11 19:46:35+00:00,Fix bugs in the API modules (legacy+opml),https://github.com/gpodder/mygpo,15.268993839835728,103,neutral,18.446601941747574
+mygpo,Alexander Duml,2009-11-14 17:28:02+00:00,modified:   mygpo/api/simple.py,https://github.com/gpodder/mygpo,15.268993839835728,53,neutral,1.8867924528301887
+mygpo,Armin Muellner,2009-11-17 12:24:55+00:00,Added the login functionality,https://github.com/gpodder/mygpo,15.268993839835728,42,neutral,4.761904761904762
+mygpo,Martin Wieser,2009-11-17 12:37:59+00:00,Update 03 Trigger,https://github.com/gpodder/mygpo,15.268993839835728,53,neutral,11.320754716981131
+mygpo,dependabot[bot],2018-03-24 11:59:20+00:00,"Bump dj-database-url from 0.4.2 to 0.5.0
+
+Bumps [dj-database-url](https://github.com/kennethreitz/dj-database-url) from 0.4.2 to 0.5.0.
+- [Release notes](https://github.com/kennethreitz/dj-database-url/releases)
+- [Commits](https://github.com/kennethreitz/dj-database-url/compare/v0.4.2...v0.5.0)
+
+Signed-off-by: dependabot[bot] <support@dependabot.com>",https://github.com/gpodder/mygpo,15.268993839835728,97,neutral,0.0
+mygpo,Guilherme,2018-06-26 22:02:08+00:00,[doc] Fixed wrong http method in list devices api documentation,https://github.com/gpodder/mygpo,15.268993839835728,21,neutral,4.761904761904762
+mygpo,dependabot-preview[bot],2019-05-30 11:15:46+00:00,"Bump markdown2 from 2.3.6 to 2.3.8
+
+Bumps [markdown2](https://github.com/trentm/python-markdown2) from 2.3.6 to 2.3.8.
+- [Release notes](https://github.com/trentm/python-markdown2/releases)
+- [Changelog](https://github.com/trentm/python-markdown2/blob/master/CHANGES.md)
+- [Commits](https://github.com/trentm/python-markdown2/compare/2.3.6...2.3.8)",https://github.com/gpodder/mygpo,15.268993839835728,119,neutral,0.0
+mygpo,Josh Clements,2019-10-25 22:33:04+00:00,Updated bug tracker link,https://github.com/gpodder/mygpo,15.268993839835728,237,negative,0.8438818565400843
+mygpo,Ssuching Yu,2020-01-13 17:04:01+00:00,API for adding new podcast.,https://github.com/gpodder/mygpo,15.268993839835728,26,neutral,15.384615384615383
