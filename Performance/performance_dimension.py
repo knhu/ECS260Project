@@ -42,8 +42,11 @@ def mine_repo_commits(repo_url: str):
     os.makedirs(repo_local_path, exist_ok=True)
 
     # Example: no 'since' date => full commit history
-    for commit in Repository(repo_url, clone_repo_to=repo_local_path, since=datetime(2024, 1, 1)).traverse_commits():
+    for commit in Repository(repo_url, clone_repo_to=repo_local_path, since=datetime(2024, 7, 1), only_no_merge=True).traverse_commits():
         code_churn = commit.insertions + commit.deletions
+        dmm_unit_size = commit.dmm_unit_size
+        dmm_unit_complexity = commit.dmm_unit_complexity
+        dmm_unit_interfacing = commit.dmm_unit_interfacing
         commit_message = commit.msg.lower() if commit.msg else ""
 
         yield {
@@ -51,9 +54,12 @@ def mine_repo_commits(repo_url: str):
             'commit_hash': commit.hash,
             'author': commit.author.name,
             'date': commit.committer_date.isoformat(),
+            'dmm_unit_size': dmm_unit_size,
+            'dmm_unit_complexity': dmm_unit_complexity,
+            'dmm_unit_interfacing': dmm_unit_interfacing,
             'code_churn': code_churn,
             'is_bug_fix': 1 if is_bug_fix_commit(commit_message) else 0,
-            'is_revert': 1 if is_revert_commit(commit_message) else 0
+            'is_revert': 1 if is_revert_commit(commit_message) else 0,
         }
 
 def process_repo_with_retries(repo_url: str, max_attempts=3, wait_seconds=5):
@@ -85,6 +91,9 @@ def main():
             'commit_hash',
             'author',
             'date',
+            'dmm_unit_size',
+            'dmm_unit_complexity',
+            'dmm_unit_interfacing',
             'code_churn',
             'is_bug_fix',
             'is_revert'
