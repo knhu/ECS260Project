@@ -57,6 +57,10 @@ def analyze_repositories(repo_paths, csv_file_path):
         project_age = (last_commit - first_commit).days / 365.25
         df.loc[df['Project_Name'] == project_name, 'Project_Age_(Years)'] = project_age
     
+    # Calculate Total Commits per Author within each project
+    project_author_commits = df.groupby(['Project_Name', 'Author']).size().reset_index(name='Total_Commits')
+    df = pd.merge(df, project_author_commits, on=['Project_Name', 'Author'], how='left')
+    
     # Save to CSV (append if exists)
     if os.path.exists(csv_file_path):
         df.to_csv(csv_file_path, mode='a', header=False, index=False, encoding='utf-8')
