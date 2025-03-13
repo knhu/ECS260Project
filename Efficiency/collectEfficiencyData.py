@@ -30,6 +30,9 @@ df['Commit_Date'] = pd.to_datetime(df['Commit_Date'].transform(lambda x: x.split
 for author in df['Author'].unique():
     author_df = df[df['Author'] == author]
 
+    if author_df.shape[0] <= 4: #Dev must have 5 or more commits to be used
+       continue
+
     for date in author_df['Commit_Date']:
         date_df = author_df.loc[author_df['Commit_Date'] == date]
 
@@ -46,16 +49,18 @@ for author in df['Author'].unique():
             data.append(data_temp)
 
 
-
+#maybe filter on total #commits by author? Should have a base num of commits to be added?
 
     
 df_new = pd.DataFrame(data, columns=["Project_Name","Author","Date","Daily_Code_Churn","Num_Commits"])
 
+#df_new = df_new[df_new["Num_Commits"] > 1]
+
 #df_new = df_new.groupby('Author').filter(lambda x: x['Daily_Code_Churn'].mean() & x['Num_Commits'].mean())
 
-df_new = df_new.groupby('Author').agg({'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean']}).reset_index()
+df_new = df_new.groupby('Author').agg({'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean', 'sum']}).reset_index()
     
-df_new.columns = ['Author','Average_Daily_Code_Churn','Average_Daily_Num_Commits']
+df_new.columns = ['Author','Average_Daily_Code_Churn','Average_Daily_Num_Commits','Total_Commits']
 
 if os.path.exists(output_csv):
     df_new.to_csv(output_csv, mode='a', header=False, index=False, encoding='utf-8')
