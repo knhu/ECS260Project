@@ -51,6 +51,12 @@ for author in df['Author'].unique():
     
 df_new = pd.DataFrame(data, columns=["Project_Name","Author","Date","Daily_Code_Churn","Num_Commits"])
 
+#df_new = df_new.groupby('Author').filter(lambda x: x['Daily_Code_Churn'].mean() & x['Num_Commits'].mean())
+
+df_new = df_new.groupby('Author').agg({'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean']}).reset_index()
+    
+df_new.columns = ['Author','Average_Daily_Code_Churn','Average_Daily_Num_Commits']
+
 if os.path.exists(output_csv):
     df_new.to_csv(output_csv, mode='a', header=False, index=False, encoding='utf-8')
 else:
