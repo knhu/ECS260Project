@@ -78,7 +78,7 @@ df_new = pd.DataFrame(data, columns=["Project_Name","Author","Date","Mean_Commit
 df_new = df_new.groupby(['Project_Name','Author']).agg({'Mean_Commit_Time': ['mean'],'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean', 'sum']}).reset_index()
     
 df_new.columns = ['Project_Name','Author','Mean_Commit_Time','Average_Daily_Code_Churn','Average_Daily_Num_Commits','Total_Commits']
-
+df_new = df_new.groupby(['Project_Name','Author']).filter(lambda x: x['Total_Commits'] > 4)
 if os.path.exists(output_csv):
     df_new.to_csv(output_csv, mode='a', header=False, index=False, encoding='utf-8')
 else:
