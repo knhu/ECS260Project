@@ -1,0 +1,39 @@
+Field,Value
+Committer Timezone Distribution,
+Timezone,Commits
++00:00,322
++01:00,368
++02:00,15
++03:00,19
++05:00,7
++05:30,26
++06:00,4
++06:30,2
++07:00,4
++08:00,20
++09:00,2
++10:00,2
+-03:00,6
+-04:00,4
+-05:00,6
+-07:00,7
+-08:00,2
+,
+Contributors Experience (All 13 files),
+File,Top Contributor Share (%)
+.github/FUNDING.yml,100.00
+.github/README-template.j2,100.00
+.github/README.j2,100.00
+.github/pull_request_template.md,94.44
+.github/scripts/build.js,100.00
+.github/scripts/render-readme.py,100.00
+.github/stale.yml,100.00
+.github/tpl.md,100.00
+.github/workflows/build.yml,90.00
+.github/workflows/invalid.yml,97.50
+CONTRIBUTING.md,52.63
+README.md,64.42
+data.json,77.25
+,
+Average Contributors Experience across files,90.48%
+Total unique timezones,17
