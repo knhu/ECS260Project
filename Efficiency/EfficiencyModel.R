@@ -15,15 +15,17 @@ Commit_Time_Q3 <- quantile(data$Mean_Commit_Time, 0.75)
 Commit_Time_IQR <- IQR(data$Mean_Commit_Time)
 Commits <- data$Total_Commits
 #Removing Churn outliers from dataset
+
+
 data <- subset(data, data$Average_Daily_Code_Churn > 
                   (Churn_Q1 - 1.5*Churn_IQR) & data$Average_Daily_Code_Churn
                 < (Churn_Q3 + 1.5*Churn_IQR))
 #Removing Avg daily commits outlierss
-data <- subset(data, data$Average_Daily_Num_Commits > (Commits_Q1 - 1.5*Commits_IQR) & data$Average_Daily_Num_Commits
-               < (Commits_Q3 + 1.5*Commits_IQR))
+#data <- subset(data, data$Average_Daily_Num_Commits > (Commits_Q1 - 1.5*Commits_IQR) & data$Average_Daily_Num_Commits
+#               < (Commits_Q3 + 1.5*Commits_IQR))
 
-data <- subset(data, data$Mean_Commit_Time > (Commit_Time_Q1 - 1.5*Commit_Time_IQR) & data$Mean_Commit_Time
-               < (Commit_Time_Q3 + 1.5*Commit_Time_IQR))
+#data <- subset(data, data$Mean_Commit_Time > (Commit_Time_Q1 - 1.5*Commit_Time_IQR) & data$Mean_Commit_Time
+#               < (Commit_Time_Q3 + 1.5*Commit_Time_IQR))
 
 Churn <- data$Average_Daily_Code_Churn
 Commits <- data$Total_Commits

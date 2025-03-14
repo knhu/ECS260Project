@@ -28,7 +28,7 @@ df['Commit_Date'] = pd.to_datetime(df['Commit_Date'].transform(lambda x: x.split
 
 
 #Collect average daily commits and average daily churn
-df['Previous_Commit_Date'] = df.groupby('Author')['Commit_DateTime'].shift()
+df['Previous_Commit_Date'] = df.groupby(['Project_Name','Author'])['Commit_DateTime'].shift()
 df['Time_Between_Commits'] = df['Commit_DateTime'] - df['Previous_Commit_Date']
 df['Time_Between_Commits'] = df['Time_Between_Commits'].apply(lambda x: (x.days * 24) + (x.seconds // 3600))
 
@@ -75,9 +75,9 @@ df_new = pd.DataFrame(data, columns=["Project_Name","Author","Date","Mean_Commit
 
 #df_new = df_new.groupby('Author').filter(lambda x: x['Daily_Code_Churn'].mean() & x['Num_Commits'].mean())
 
-df_new = df_new.groupby('Author').agg({'Mean_Commit_Time': ['mean'],'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean', 'sum']}).reset_index()
+df_new = df_new.groupby(['Project_Name','Author']).agg({'Mean_Commit_Time': ['mean'],'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean', 'sum']}).reset_index()
     
-df_new.columns = ['Author','Mean_Commit_Time','Average_Daily_Code_Churn','Average_Daily_Num_Commits','Total_Commits']
+df_new.columns = ['Project_Name','Author','Mean_Commit_Time','Average_Daily_Code_Churn','Average_Daily_Num_Commits','Total_Commits']
 
 if os.path.exists(output_csv):
     df_new.to_csv(output_csv, mode='a', header=False, index=False, encoding='utf-8')
