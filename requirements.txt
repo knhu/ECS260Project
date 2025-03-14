@@ -7,3 +7,4 @@ transformers
 numpy
 scipy
 pydriller
+thefuzz
