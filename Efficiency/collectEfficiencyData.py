@@ -38,7 +38,7 @@ df['Time_Between_Commits'] = df['Time_Between_Commits'].apply(lambda x: (x.days 
 for author in df['Author'].unique():
     author_df = df[df['Author'] == author]
 
-    if author_df.shape[0] <= 4 or author_df.shape[0] >= 500: #Dev must have 5 or more commits but fewer than 150
+    if author_df.shape[0] < 20 or "[bot]" in author: #or author_df.shape[0] >= 500: #Dev must have 20 or more commits but fewer than 500
        continue
 
     #idk how to do this yet but this is throwing all kinds of warnings
@@ -78,7 +78,7 @@ df_new = pd.DataFrame(data, columns=["Project_Name","Author","Date","Mean_Commit
 df_new = df_new.groupby(['Project_Name','Author']).agg({'Mean_Commit_Time': ['mean'],'Daily_Code_Churn': ['mean'], 'Num_Commits': ['mean', 'sum']}).reset_index()
     
 df_new.columns = ['Project_Name','Author','Mean_Commit_Time','Average_Daily_Code_Churn','Average_Daily_Num_Commits','Total_Commits']
-df_new = df_new.groupby(['Project_Name','Author']).filter(lambda x: x['Total_Commits'] > 4)
+df_new = df_new.groupby(['Project_Name','Author']).filter(lambda x: x['Total_Commits'] >= 20)
 if os.path.exists(output_csv):
     df_new.to_csv(output_csv, mode='a', header=False, index=False, encoding='utf-8')
 else:

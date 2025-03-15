@@ -1,7 +1,10 @@
+library(nlcor)
+library("ggpubr")
 file <- "efficiency_data.csv"
 
 data <- read.csv(file)
 
+#IQR Measurements for Churn, Avg daily commits, avg commit time
 Churn_Q1 <- quantile(data$Average_Daily_Code_Churn, 0.25)
 Churn_Q3 <- quantile(data$Average_Daily_Code_Churn, 0.75)
 Churn_IQR <- IQR(data$Average_Daily_Code_Churn)
@@ -13,8 +16,14 @@ Commits_IQR <- IQR(data$Average_Daily_Num_Commits)
 Commit_Time_Q1 <- quantile(data$Mean_Commit_Time, 0.25)
 Commit_Time_Q3 <- quantile(data$Mean_Commit_Time, 0.75)
 Commit_Time_IQR <- IQR(data$Mean_Commit_Time)
+
+Total_Commits_Q1 <- quantile(data$Total_Commits, 0.25)
+Total_Commits_Q3 <- quantile(data$Total_Commits, 0.75)
+Total_Commits_IQR <- IQR(data$Total_Commits)
+
 Commits <- data$Total_Commits
 #Removing Churn outliers from dataset
+
 
 
 data <- subset(data, data$Average_Daily_Code_Churn > 
@@ -27,6 +36,8 @@ data <- subset(data, data$Average_Daily_Num_Commits > (Commits_Q1 - 1.5*Commits_
 data <- subset(data, data$Mean_Commit_Time > (Commit_Time_Q1 - 1.5*Commit_Time_IQR) & data$Mean_Commit_Time
                < (Commit_Time_Q3 + 1.5*Commit_Time_IQR))
 
+data <- subset(data, data$Total_Commits > (Total_Commits_Q1 - 1.5*Total_Commits_IQR) & data$Total_Commits
+               < (Total_Commits_Q3 + 1.5*Total_Commits_IQR))
 Churn <- data$Average_Daily_Code_Churn
 Commits <- data$Total_Commits
 Daily_Commits <- data$Average_Daily_Num_Commits
@@ -46,3 +57,13 @@ plot(Commits,Churn)
 
 plot(Daily_Commits,Mean_Commit_Time)
 plot(Commits,Mean_Commit_Time)
+plot(Mean_Commit_Time,Churn)
+
+cor.test(Daily_Commits, Churn, method=c("pearson", "kendall", "spearman"))
+cor.test(Commits,Churn, method=c("pearson", "kendall", "spearman"))
+cor.test(Churn,Mean_Commit_Time, method=c("pearson", "kendall", "spearman"))
+cor.test(Mean_Commit_Time,Commits)
+
+nlcor(Mean_Commit_Time,Commits, plt= T)
+
+ggscatter(data, x = "Total_Commits", y = "Mean_Commit_Time", add = "reg.line", conf.int = TRUE, cor.coef = TRUE, cor.method = "pearson")
