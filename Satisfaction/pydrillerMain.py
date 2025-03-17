@@ -5,6 +5,38 @@ import csv
 import pandas as pd
 from datetime import datetime
 import os
+from thefuzz import fuzz
+
+def standardize_author_names(df, threshold=70):
+    canonical_names = group_similar_names(df, threshold)
+    df["Author"] = df["Author"].map(canonical_names)
+    return df
+
+def group_similar_names(df, threshold):
+    unique_names = df["Author"].unique()
+    name_groups = {}
+    canonical_names = {}
+
+    for name in unique_names:
+        found_group = False
+        for group_key, group_members in name_groups.items():
+            for member in group_members:
+                if fuzz.ratio(name, member) >= threshold:
+                    name_groups[group_key].add(name)
+                    found_group = True
+                    break
+            if found_group:
+                break
+
+        if not found_group:
+            name_groups[name] = {name}
+
+    for group_members in name_groups.values():
+        canonical_name = max(group_members, key=len)
+        for member in group_members:
+            canonical_names[member] = canonical_name
+
+    return canonical_names
 
 def get_commits_and_save_to_csv(repo_paths, csv_file_path):
     """Retrieves commits from multiple repositories, calculates project age,
@@ -38,6 +70,15 @@ def get_commits_and_save_to_csv(repo_paths, csv_file_path):
         return
 
     df['Date'] = pd.to_datetime(df['Date'], utc=True)
+
+    #Remove Bots and Bot comments
+    df = df[~df["Author"].str.contains("bot", case=False, na=False)]
+    df = df[~df["Message"].str.contains("dependabot", case=False, na=False)]
+    df = df[~df["Message"].str.contains("Merge pull request",case=False, na=False)]
+
+
+    df = standardize_author_names(df)
+
 
     # Calculate Project Age (per project and overall)
     for project_name in df['Project Name'].unique():
@@ -107,28 +148,10 @@ def get_committer_timezone_info(repo_path):
 if __name__ == "__main__":
 
     repo_path = [
-"https://github.com/activist-org/activist",
-"https://github.com/ansible/ansible",
-"https://github.com/arviz-devs/arviz",
-"https://github.com/bokeh/bokeh",
-"https://github.com/borgbackup/borg",
-"https://github.com/CiviWiki/OpenCiviWiki",
-"https://github.com/hpcaitech/ColossalAI",
-"https://github.com/cookiecutter/cookiecutter-django",
-"https://github.com/mem0ai/mem0",
-"https://github.com/fastapi/fastapi",
-"https://github.com/h2oai/wave",
-"https://github.com/h2oai/wave-apps",
-"https://github.com/harmonydata/harmony",
-"https://github.com/sukeesh/Jarvis",
-"https://github.com/jupyter/notebook",
-"https://github.com/Kinto/kinto",
-"https://github.com/matplotlib/matplotlib",
-"https://github.com/mindsdb/mindsdb",
-"https://github.com/mitmproxy/mitmproxy",
-"https://github.com/gpodder/mygpo"
+    "https://github.com/activist-org/activist"
+
 ]
 
     #repo_path = ["https://github.com/Eissayou/CatDetector", "https://github.com/aj-avendano/Melody-Project"]
     #get_committer_timezone_info(repo_path)
-    get_commits_and_save_to_csv(repo_path, "test.csv")
+    get_commits_and_save_to_csv(repo_path, "NoAliastest.csv")
