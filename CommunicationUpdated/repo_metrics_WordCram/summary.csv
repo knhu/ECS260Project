@@ -1,0 +1,41 @@
+Field,Value
+Commits Overview,
+Total Commits,600
+Total Unique Authors,6
+,
+Top 10 Contributors,
+Author,Commits
+danbernier,1029
+Dan Bernier,668
+simpsus,31
+Pierre Haessig,1
+Alan Orth,1
+Martin Prout,1
+,
+Communication Events,Total: 2
+"Author1,Author2",Events
+"Dan Bernier,simpsus",2
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++00:00,297
++01:00,3
++02:00,10
++03:00,1
+-04:00,204
+-05:00,80
+-07:00,4
+-08:00,1
+,
+Contributors Experience,Average across 258 files: 81.53%
+File,Top Contributor Share (%)
+.project,100.00
+.settings/org.eclipse.jdt.core.prefs,100.00
+LICENSE,100.00
+example/example/Main.java,100.00
+example/example/MainFading.java,100.00
+example/example/MainOffScreen.java,100.00
+example/tao-te-ching.txt,100.00
+src/wordcram/CenterClumpWordPlacer.java,100.00
+src/wordcram/GrabBagWordFonter.java,100.00
+src/wordcram/WordPlacement.java,100.00

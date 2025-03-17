@@ -1,0 +1,192 @@
+Field,Value
+Commits Overview,
+Total Commits,1796
+Total Unique Authors,292
+,
+Top 10 Contributors,
+Author,Commits
+pnhofmann,375
+Philipp Hofmann,327
+appi,258
+Arpit Choudhary,207
+evidencebp,88
+StefanosChaliasos,84
+Sukeesh,76
+Brent,70
+=,57
+Stefanos,57
+,
+Communication Events,Total: 211
+"Author1,Author2",Events
+"Philipp Hofmann,pnhofmann",11
+"x1ah,sukeesh",7
+"StefanosChaliasos,5n8ke",6
+"Stefanos,appi",5
+"Umang Ahuja,appi",5
+"Philipp Hofmann,Arpit Choudhary",4
+"StefanosChaliasos,Lucas Keune",4
+"Arpit Choudhary,pnhofmann",3
+"Arpit Choudhary,Philipp Hofmann",3
+"Ana Isabel,=",3
+"pierre,pnhofmann",3
+"StefanosChaliasos,Philipp Hofmann",3
+"Mukesh Kumar,pnhofmann",3
+"RottenCrab,StefanosChaliasos",2
+"enqidu,pnhofmann",2
+"Roberto Oliveira,Arpit Choudhary",2
+"Stefanos,StefanosChaliasos",2
+"StefanosChaliasos,Ander Raso Vázquez",2
+"umangahuja1,appi",2
+"sprintyaf,pnhofmann",2
+"Adelin,dixi3",2
+"5n8ke,Luis Silva",2
+"StefanosChaliasos,Brent",2
+"Dudu Popkhadze,pnhofmann",2
+"LeonidhaMara,Manos Manousakis",2
+"Philipp Hofmann,StefanosChaliasos",2
+"Brent,sukeesh",2
+"Arpit Choudhary,Sanjay Prajapat",2
+"Mukesh Kumar,M. Mukesh Kumar",2
+"StefanosChaliasos,sukeesh",2
+"appi,eudescar",2
+"Yash Ladha,appi",2
+"Darin Rawson,Darin755",2
+"Brent Hand,StefanosChaliasos",2
+"Brent,StefanosChaliasos",2
+"Jiabao Han,u7726387",2
+"StefanosChaliasos,Sukeesh",2
+"Arjun Khanna,arjunk2004",1
+"Ander Raso Vázquez,Pedro José Anula",1
+"Ander Raso Vázquez,Brent Hand",1
+"Ana Isabel,Ryan Arredondo",1
+"5n8ke,Brent",1
+"=,Roger Vieira",1
+"=,pnhofmann",1
+"Arpit Choudhary,Jon Ander Oribe",1
+"Madhava Kulkarni,pnhofmann",1
+"M. Mukesh Kumar,Mukesh Kumar",1
+"Lucas Keune,kennymccormick3",1
+"Lucas Keune,RottenCrab",1
+"Madhav Kulkarni,Sukeesh",1
+"KrishnaSai2020,pnhofmann",1
+"KrishnaSai2020,Krishna Chivukula",1
+"Hongyu Li,Jiabao Han",1
+"Kevin Schellenberg,Sukeesh",1
+"Jiabao Han,u7041989",1
+"IriannaPapoutsi,pnhofmann",1
+"Grant Parajuli,appi",1
+"Methenitis,Anna Kotsa",1
+"Manos Manousakis,LeonidhaMara",1
+"Manousakis01,LeonidhaMara",1
+"Ritik Ranjan,pnhofmann",1
+"Philipp Hofmann,bsushmith",1
+"Pedro José Anula,Ander Raso Vázquez",1
+"Pedro José Anula,Brent",1
+"Nilay Majorwar,pnhofmann",1
+"Leonardo Scarlato,pnhofmann",1
+"Ian Zhang,pnhofmann",1
+"Darin755,Darin Rawson",1
+"Ekansh Talwar,Modi08",1
+"Bersam Karbasion,pnhofmann",1
+"Brent,RottenCrab",1
+"Arpit Choudhary,jlvivero",1
+"Arpit Choudhary,Sukeesh",1
+"Cheuk Yin Ng,pnhofmann",1
+"Ayush Aggarwal,yashLadha",1
+"Arpit Choudhary,Umang Ahuja",1
+"Sreekanth T M,pnhofmann",1
+"Shahlin Ibrahim,pnhofmann",1
+"Roberto Oliveira,siddardhaks",1
+"Roger Vieira,=",1
+"Ryan Arredondo,Ana Isabel",1
+"Ryan Arredondo,StefanosChaliasos",1
+"Sanil,pnhofmann",1
+"Sanjay Prajapat,Arpit Choudhary",1
+"Milind Sharma,pnhofmann",1
+"Monal Shadi,appi",1
+"Matthew237,pnhofmann",1
+"Troy,Troy Phillips",1
+"Sushmith,bsushmith",1
+"Sukeesh,kennymccormick3",1
+"The Gitter Badger,Sukeesh",1
+"Sukeesh,Arpit Choudhary",1
+"Yash Ladha,Arpit Choudhary",1
+"World,World (Gi-hyeon)",1
+"akshgpt7,pnhofmann",1
+"abrahammurciano,sukeesh",1
+"appi,umangahuja1",1
+"brennop,pnhofmann",1
+"bsushmith,Sushmith",1
+"appi,sukeesh",1
+"bsushmith,pnhofmann",1
+"dbherol,pnhofmann",1
+"dengelt,abrahammurciano",1
+"giorgos pappas,pnhofmann",1
+"Umang Ahuja,Sudharsanaraj R",1
+"Umang Ahuja,Arpit Choudhary",1
+"StefanosChaliasos,appi",1
+"StefanosChaliasos,Stefanos",1
+"kennymccormick3,Sukeesh",1
+"kennymccormick3,Lucas Keune",1
+"jlvivero,umangahuja1",1
+"gmitchell,PappaStalin",1
+"minki kim,pnhofmann",1
+"mohit17067,appi147",1
+"minki kim,MINKI KIM",1
+"lstgl,pnhofmann",1
+"phinum,Arpit Choudhary",1
+"pnhofmann,AltheusV",1
+"pnhofmann,Philipp Hofmann",1
+"pnhofmann,Arpit Choudhary",1
+"pnhofmann,enqidu",1
+"shoniavika,pnhofmann",1
+"nikiboura,pnhofmann",1
+"menachem,pnhofmann",1
+"siddardhaks,Arpit Choudhary",1
+"shotanozadze,pnhofmann",1
+"sravanjosh,Alexandr Alexeenko",1
+"sukeesh,Brent",1
+"sukeesh,Sukeesh",1
+"u7041989,Hongyu Li",1
+"sukeesh,Lucas Keune",1
+"sukeesh,Stefanos",1
+"u7726387,u7041989",1
+"u7726387,Jiabao Han",1
+"umangahuja1,Umang Ahuja",1
+"umang,appi147",1
+"vakhokoto,pnhofmann",1
+"vvash17,pnhofmann",1
+"x1ah,dengelt",1
+"xenakal,pnhofmann",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,406
++01:00,180
++02:00,394
++03:00,186
++04:00,1
++05:30,422
++06:00,9
++08:00,6
++09:00,3
++11:00,31
+-03:00,15
+-04:00,72
+-05:00,32
+-06:00,4
+-07:00,32
+-08:00,3
+,
+Contributors Experience,Average across 514 files: 85.21%
+File,Top Contributor Share (%)
+todolist.txt,100.00
+Jarvis/audioHandler.py,100.00
+Jarvis/evaluator.py,100.00
+Jarvis/record.py,100.00
+Jarvis/fileHandler.py,100.00
+Jarvis/reminder.py,100.00
+Jarvis/packages/audioHandler.py,100.00
+Jarvis/packages/picshow.py,100.00
+Jarvis/packages/record.py,100.00
+Jarvis/packages/aiml/jarvis.aiml,100.00

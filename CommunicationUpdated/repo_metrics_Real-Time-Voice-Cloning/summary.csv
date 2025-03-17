@@ -1,0 +1,51 @@
+Field,Value
+Commits Overview,
+Total Commits,297
+Total Unique Authors,21
+,
+Top 10 Contributors,
+Author,Commits
+Corentin Jemine,2082
+blue-fish,91
+Valiox,64
+Rami Mouro,11
+CorentinJ,8
+Tomcattwo,7
+unknown,6
+Alex Peattie,6
+Matheus Fillipe,5
+Niwala,2
+,
+Communication Events,Total: 14
+"Author1,Author2",Events
+"Valiox,Corentin Jemine",3
+"Alex Peattie,Corentin Jemine",2
+"Corentin Jemine,unknown",2
+"Corentin Jemine,Alex Peattie",1
+"Corentin Jemine,Rancoud",1
+"Corentin Jemine,Niwala",1
+"Corentin Jemine,Valiox",1
+"Mathias Gatti,Corentin Jemine",1
+"Niwala,Corentin Jemine",1
+"blue-fish,Corentin Jemine",1
+,
+Committer Timezone Distribution,Unique Timezones: 5
+Timezone,Commits
++00:00,7
++01:00,82
++02:00,176
+-07:00,27
+-08:00,5
+,
+Contributors Experience,Average across 304 files: 97.23%
+File,Top Contributor Share (%)
+.gitignore,100.00
+documents/subject_formal.tex,100.00
+notes/datasets.txt,100.00
+notes/papers.txt,100.00
+notes/subjects.txt,100.00
+documents/subject.tex,100.00
+notes/questions.txt,100.00
+documents/thesis.tex,100.00
+documents/references.bib,100.00
+documents/thesis.bbl,100.00

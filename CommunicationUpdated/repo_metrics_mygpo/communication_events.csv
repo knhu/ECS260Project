@@ -1,0 +1,142 @@
+file,author1,author2,time1,time2
+doc/user/clients.rst,Stefan Kögl,Samim Pezeshki,2017-07-19 18:24:57+02:00,2017-07-19 13:18:24-05:00
+htdocs/media/screen.css,Alexander Duml,Thomas Perl,2010-01-14 13:09:30+01:00,2010-01-14 18:38:36+01:00
+install/doku.txt,Stefan Koegl,Martin Wieser,2009-12-14 17:02:07+01:00,2009-12-14 19:32:22+01:00
+install/update-03.sql,Martin Wieser,Stefan Koegl,2009-11-20 16:50:45+01:00,2009-11-20 17:55:02+01:00
+install/update-04.sql,Stefan Koegl,Martin Wieser,2009-11-30 22:30:33+00:00,2009-12-01 14:01:52+01:00
+install/update-04.sql,Martin Wieser,Stefan Koegl,2009-12-01 14:01:52+01:00,2009-12-02 00:25:49+01:00
+install/update-07.sql,Stefan Koegl,Martin Wieser,2009-12-19 17:07:21+01:00,2009-12-19 17:18:07+01:00
+install/update-11.sql,Martin Wieser,Thomas Perl,2010-01-14 16:52:48+01:00,2010-01-14 18:01:09+01:00
+install/update-11.sql,Thomas Perl,Martin Wieser,2010-01-14 18:01:09+01:00,2010-01-14 18:18:08+01:00
+install/update-12.sql,Martin Wieser,Stefan Koegl,2010-01-15 11:15:48+01:00,2010-01-15 17:51:49+01:00
+install/update-12.sql,Stefan Koegl,Martin Wieser,2010-01-17 22:19:54+01:00,2010-01-18 11:34:47+01:00
+mygpo/__init__.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/api/__init__.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/api/legacy.py,Thomas Perl,Stefan Koegl,2009-11-11 20:46:35+01:00,2009-11-12 17:42:44+01:00
+mygpo/api/models.py,Stefan Kögl,Stefan Koegl,2009-11-07 16:26:27+01:00,2009-11-07 18:12:44+01:00
+mygpo/api/models.py,Stefan Koegl,Thomas Perl,2009-11-21 20:50:16+01:00,2009-11-22 14:17:09+01:00
+mygpo/api/models.py,Stefan Koegl,Alexander Duml,2009-12-10 18:11:40+01:00,2009-12-11 11:33:10+01:00
+mygpo/api/models.py,Alexander Duml,Stefan Koegl,2009-12-11 11:33:10+01:00,2009-12-11 15:49:54+01:00
+mygpo/api/models.py,Martin Wieser,Stefan Koegl,2010-01-04 14:23:45+01:00,2010-01-04 18:29:44+01:00
+mygpo/api/models.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/api/opml.py,Matt Scheirer,Ssuching Yu,2020-02-06 20:28:27+08:00,2020-02-07 00:13:35+08:00
+mygpo/api/simple.py,Stefan Koegl,Alexander Duml,2009-11-19 19:31:26+01:00,2009-11-19 21:33:46+01:00
+mygpo/api/simple.py,Alexander Duml,Stefan Koegl,2009-11-27 15:09:22+01:00,2009-11-27 15:38:06+01:00
+mygpo/api/tests.py,Stefan Koegl,Alexander Duml,2010-01-04 18:29:44+01:00,2010-01-05 14:22:43+01:00
+mygpo/data/feeddownloader.py,dinesh,Stefan Kögl,2019-10-20 22:30:32+04:00,2019-10-21 19:06:53+02:00
+mygpo/data/feeddownloader.py,Stefan Kögl,dinesh,2019-10-21 20:16:07+02:00,2019-10-22 21:28:40+04:00
+mygpo/locale/de/LC_MESSAGES/django.mo,Martin Wieser,Stefan Koegl,2009-11-29 13:34:13+01:00,2009-11-29 14:31:14+01:00
+mygpo/locale/de/LC_MESSAGES/django.po,Martin Wieser,Thomas Perl,2010-01-14 19:08:58+01:00,2010-01-14 19:36:11+01:00
+mygpo/locale/de/LC_MESSAGES/django.po,Thomas Perl,Martin Wieser,2010-01-14 19:36:11+01:00,2010-01-14 19:41:51+01:00
+mygpo/locale/de/LC_MESSAGES/django.po,Stefan Kögl,Stefan Koegl,2010-06-18 19:44:09+00:00,2010-06-19 14:14:15+02:00
+mygpo/locale/de/LC_MESSAGES/django.po,Stefan Koegl,Stefan Kögl,2010-06-19 14:14:15+02:00,2010-06-19 12:39:24+00:00
+mygpo/locale/de/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/de/LC_MESSAGES/django.po~,Martin Wieser,Stefan Koegl,2009-11-29 10:44:00+01:00,2009-11-29 14:25:21+01:00
+mygpo/locale/en/LC_MESSAGES/django.po,Martin Wieser,Thomas Perl,2010-01-14 19:08:58+01:00,2010-01-14 19:36:11+01:00
+mygpo/locale/en/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/es/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/fr/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/he/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/it/LC_MESSAGES/django.po,Thomas Perl,Martin Wieser,2010-01-14 18:00:49+01:00,2010-01-14 18:18:08+01:00
+mygpo/locale/it/LC_MESSAGES/django.po,Martin Wieser,Thomas Perl,2010-01-14 19:08:58+01:00,2010-01-14 19:36:11+01:00
+mygpo/locale/it/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/ko/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/nb/LC_MESSAGES/django.po,Martin Wieser,Thomas Perl,2010-01-14 19:08:58+01:00,2010-01-14 19:36:11+01:00
+mygpo/locale/nb/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/nl/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/no/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/pl/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/pt/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/locale/tr_TR/LC_MESSAGES/django.po,Stefan Kögl,Josh Clements,2019-10-27 13:14:58+01:00,2019-10-27 16:50:18-04:00
+mygpo/search/index.py,Hyde46,Denis,2019-10-16 22:29:50+02:00,2019-10-17 09:27:10+02:00
+mygpo/search/index.py,Denis,Hyde46,2019-10-17 09:27:10+02:00,2019-10-17 21:27:57+02:00
+mygpo/settings.py,Armin Muellner,Stefan Koegl,2009-11-20 00:35:20+01:00,2009-11-20 17:55:02+01:00
+mygpo/settings.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/share/templates/share/favorites.html,Stefan Kögl,Thomas Perl,2012-07-05 18:09:50+02:00,2012-07-05 20:51:44+02:00
+mygpo/urls.py,Thomas Perl,Stefan Koegl,2009-11-11 20:46:57+01:00,2009-11-12 17:46:50+01:00
+mygpo/urls.py,Armin Muellner,Stefan Koegl,2009-11-20 00:35:20+01:00,2009-11-20 12:17:03+01:00
+mygpo/urls.py,Stefan Koegl,Alexander Duml,2009-11-26 20:11:38+01:00,2009-11-27 15:09:22+01:00
+mygpo/urls.py,Martin Wieser,Stefan Koegl,2009-11-30 18:17:38+01:00,2009-11-30 22:30:33+00:00
+mygpo/urls.py,Armin Muellner,Alexander Duml,2010-01-04 20:01:24+01:00,2010-01-05 18:37:21+01:00
+mygpo/urls.py,Alexander Duml,Armin Muellner,2010-01-14 13:09:30+01:00,2010-01-14 19:07:03+01:00
+mygpo/urls.py,Armin Muellner,Alexander Duml,2010-01-14 19:07:03+01:00,2010-01-15 14:49:54+01:00
+mygpo/urls.py,Alexander Duml,Armin Muellner,2010-01-25 11:25:00+01:00,2010-01-25 13:49:53+01:00
+mygpo/urls.py,Travis Nickles,Josh Clements,2021-10-25 22:00:23-04:00,2021-10-25 22:07:26-04:00
+mygpo/urls.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/web/__init__.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/web/models.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/web/templates/base.html,Stefan Koegl,Armin Müllner,2009-11-15 20:57:11+01:00,2009-11-15 22:11:23+01:00
+mygpo/web/templates/base.html,Armin Muellner,Stefan Koegl,2009-11-20 00:35:20+01:00,2009-11-20 22:53:17+01:00
+mygpo/web/templates/base.html,Armin Muellner,Alexander Duml,2010-01-04 20:01:24+01:00,2010-01-05 18:37:21+01:00
+mygpo/web/templates/base.html,Martin Wieser,Thomas Perl,2010-01-14 18:18:08+01:00,2010-01-14 18:38:36+01:00
+mygpo/web/templates/base.html,Thomas Perl,Armin Muellner,2010-01-14 18:52:18+01:00,2010-01-14 18:53:02+01:00
+mygpo/web/templates/base.html,Armin Muellner,Thomas Perl,2010-01-14 18:53:02+01:00,2010-01-14 18:54:29+01:00
+mygpo/web/templates/base.html,Armin Muellner,Stefan Koegl,2010-01-26 13:21:02+01:00,2010-01-26 22:27:22+01:00
+mygpo/web/templates/dashboard.html,Stefan Koegl,Thomas Perl,2010-04-10 21:45:36+02:00,2010-04-10 22:55:07+02:00
+mygpo/web/templates/device.html,Armin Muellner,Stefan Koegl,2010-01-26 13:45:00+01:00,2010-01-26 15:32:42+01:00
+mygpo/web/templates/device.html,Stefan Koegl,Armin Muellner,2010-01-26 15:32:42+01:00,2010-01-26 16:47:20+01:00
+mygpo/web/templates/device.html,Armin Muellner,Stefan Koegl,2010-01-26 16:47:20+01:00,2010-01-26 23:02:10+01:00
+mygpo/web/templates/device.html,Stefan Koegl,Armin Muellner,2010-01-26 23:02:10+01:00,2010-01-27 21:48:30+01:00
+mygpo/web/templates/device.html,Thomas Perl,Stefan Koegl,2010-04-02 16:21:58+02:00,2010-04-02 19:10:35+02:00
+mygpo/web/templates/episode_toplist.html,Stefan Koegl,Thomas Perl,2010-03-06 20:28:55+01:00,2010-03-07 12:47:13+01:00
+mygpo/web/templates/history.html,Armin Muellner,Stefan Koegl,2010-01-13 19:24:46+01:00,2010-01-13 19:39:10+01:00
+mygpo/web/templates/history.html,Stefan Koegl,Thomas Perl,2010-01-13 19:39:10+01:00,2010-01-14 18:47:08+01:00
+mygpo/web/templates/home-user.html,Armin Muellner,Stefan Koegl,2009-12-14 10:35:47+01:00,2009-12-15 00:02:33+01:00
+mygpo/web/templates/home-user.html,Stefan Koegl,Thomas Perl,2010-03-06 20:28:55+01:00,2010-03-07 12:47:13+01:00
+mygpo/web/templates/home.html,Alexander Duml,Martin Wieser,2009-11-28 18:07:03+01:00,2009-11-29 10:44:00+01:00
+mygpo/web/templates/home.html,Martin Wieser,Stefan Koegl,2009-11-29 13:34:13+01:00,2009-11-30 13:23:02+01:00
+mygpo/web/templates/login.html,Thomas Perl,Martin Wieser,2010-01-07 14:11:44+01:00,2010-01-07 17:25:30+01:00
+mygpo/web/templates/online-help.html,Alexander Duml,Thomas Perl,2010-01-14 18:00:34+01:00,2010-01-14 18:04:12+01:00
+mygpo/web/templates/online-help.html,Thomas Perl,Alexander Duml,2010-01-14 18:04:12+01:00,2010-01-14 19:03:46+01:00
+mygpo/web/templates/podcast.html,Armin Muellner,Alexander Duml,2010-01-13 19:24:46+01:00,2010-01-14 13:09:30+01:00
+mygpo/web/templates/podcast.html,Armin Muellner,Stefan Koegl,2010-01-27 22:53:42+01:00,2010-01-28 22:00:43+01:00
+mygpo/web/templates/podcast.html,Stefan Koegl,Thomas Perl,2010-03-06 20:28:55+01:00,2010-03-07 12:47:13+01:00
+mygpo/web/templates/privacy.html,Filip Kłębczyk,Stefan Kögl,2013-05-01 10:45:03+02:00,2013-05-01 10:45:03+02:00
+mygpo/web/templates/registration/activation_email.txt,Armin Muellner,Stefan Koegl,2009-11-20 00:35:20+01:00,2009-11-20 17:55:02+01:00
+mygpo/web/templates/registration/registration_form.html,Armin Muellner,Stefan Koegl,2009-11-20 00:35:20+01:00,2009-11-20 17:55:02+01:00
+mygpo/web/templates/share.html,Stefan Kögl,Thomas Perl,2012-07-05 18:09:50+02:00,2012-07-05 20:51:44+02:00
+mygpo/web/templates/subscriptions.html,Thomas Perl,Stefan Koegl,2010-04-02 02:20:27+02:00,2010-04-02 18:35:51+02:00
+mygpo/web/templatetags/menu.py,Thomas Perl,Stefan Koegl,2010-04-02 20:03:47+02:00,2010-04-03 16:28:52+02:00
+mygpo/web/templatetags/menu.py,Thomas Perl,Stefan Koegl,2010-04-26 09:51:11+02:00,2010-04-26 21:22:00+02:00
+mygpo/web/users.py,Armin Muellner,Stefan Koegl,2009-11-17 17:15:17+01:00,2009-11-17 17:58:53+01:00
+mygpo/web/users.py,Armin Muellner,Stefan Koegl,2009-11-20 00:35:20+01:00,2009-11-20 17:55:02+01:00
+mygpo/web/users.py,Armin Muellner,Stefan Koegl,2010-01-26 16:47:20+01:00,2010-01-26 17:26:31+01:00
+mygpo/web/views.py,Armin Muellner,Stefan Koegl,2009-11-17 13:24:55+01:00,2009-11-17 15:09:14+01:00
+mygpo/web/views.py,Stefan Koegl,Armin Muellner,2009-11-17 15:09:14+01:00,2009-11-17 15:52:40+01:00
+mygpo/web/views.py,Armin Muellner,Stefan Koegl,2009-12-13 22:33:56+01:00,2009-12-14 12:57:11+01:00
+mygpo/web/views.py,Armin Muellner,Alexander Duml,2010-01-04 20:01:24+01:00,2010-01-05 18:37:21+01:00
+mygpo/web/views.py,Alexander Duml,Thomas Perl,2010-01-14 13:09:30+01:00,2010-01-14 16:53:48+01:00
+mygpo/web/views.py,Thomas Perl,Armin Muellner,2010-01-14 16:53:48+01:00,2010-01-14 19:07:03+01:00
+mygpo/web/views.py,Armin Muellner,Alexander Duml,2010-01-14 19:07:03+01:00,2010-01-15 14:49:54+01:00
+mygpo/web/views.py,Alexander Duml,Armin Muellner,2010-01-25 11:25:00+01:00,2010-01-25 13:49:53+01:00
+mygpo/web/views.py,Armin Muellner,Stefan Koegl,2010-01-25 13:49:53+01:00,2010-01-26 09:46:37+01:00
+mygpo/web/views.py,Stefan Koegl,Armin Muellner,2010-01-26 09:46:37+01:00,2010-01-26 13:21:02+01:00
+mygpo/web/views.py,Armin Muellner,Stefan Koegl,2010-01-26 16:47:20+01:00,2010-01-26 17:28:16+01:00
+mygpo/web/views.py,Stefan Koegl,Armin Muellner,2010-01-26 22:58:57+01:00,2010-01-27 20:41:19+01:00
+mygpo/web/views.pyc,Armin Müllner,Armin Muellner,2009-11-16 21:56:36+01:00,2009-11-17 13:24:55+01:00
+mygpo/web/views/__init__.py,Thomas Perl,Stefan Koegl,2010-04-02 16:16:37+02:00,2010-04-02 19:20:58+02:00
+mygpo/web/views/__init__.py,Stefan Koegl,Thomas Perl,2010-04-02 19:20:58+02:00,2010-04-02 22:02:46+02:00
+mygpo/web/views/__init__.py,Thomas Perl,Stefan Koegl,2010-04-02 22:02:46+02:00,2010-04-03 16:28:52+02:00
+requirements-dev.txt,dependabot-preview[bot],Stefan Kögl,2019-09-13 08:10:23+00:00,2019-09-13 16:01:42+02:00
+requirements-dev.txt,dependabot[bot],Josh Clements,2021-10-11 18:37:56+00:00,2021-10-11 15:12:46-04:00
+requirements-dev.txt,Josh Clements,dependabot[bot],2022-07-03 16:28:28-04:00,2022-07-03 20:41:02+00:00
+requirements-test.txt,Josh Clements,dependabot-preview[bot],2020-07-20 07:16:27-04:00,2020-07-20 11:23:52+00:00
+requirements-test.txt,dependabot-preview[bot],Josh Clements,2020-07-20 11:23:52+00:00,2020-07-20 07:41:35-04:00
+requirements-test.txt,dependabot[bot],Josh Clements,2021-10-11 18:25:12+00:00,2021-10-11 15:12:46-04:00
+requirements-test.txt,Josh Clements,dependabot[bot],2022-07-03 16:28:28-04:00,2022-07-03 20:40:59+00:00
+requirements.txt,dependabot[bot],Stefan Kögl,2018-07-31 05:55:22+00:00,2018-07-31 08:28:58+02:00
+requirements.txt,dependabot[bot],Stefan Kögl,2018-08-15 15:48:14+00:00,2018-08-15 17:50:56+02:00
+requirements.txt,Stefan Kögl,dependabot-preview[bot],2019-10-14 18:44:13+02:00,2019-10-14 16:51:29+00:00
+requirements.txt,dependabot-preview[bot],Stefan Kögl,2019-10-22 07:23:55+00:00,2019-10-22 20:03:18+02:00
+requirements.txt,Stefan Kögl,dependabot-preview[bot],2019-10-22 20:16:32+02:00,2019-10-22 18:26:52+00:00
+requirements.txt,dependabot-preview[bot],Josh Clements,2020-01-17 15:21:11+00:00,2020-01-17 10:50:47-05:00
+requirements.txt,Stefan Kögl,dependabot-preview[bot],2020-01-19 16:11:54+01:00,2020-01-20 08:14:57+00:00
+requirements.txt,dependabot-preview[bot],Josh Clements,2020-11-26 17:31:20+00:00,2020-11-26 13:01:40-05:00
+requirements.txt,Josh Clements,dependabot-preview[bot],2020-11-26 13:01:40-05:00,2020-11-27 07:12:35+00:00
+requirements.txt,dependabot-preview[bot],dependabot[bot],2021-05-24 18:58:21+00:00,2021-05-24 18:59:47+00:00
+requirements.txt,RYoung,dependabot[bot],2021-06-16 08:24:18-07:00,2021-06-16 15:31:16+00:00
+requirements.txt,Josh Clements,dependabot[bot],2021-10-11 11:08:39-04:00,2021-10-11 18:25:17+00:00
+requirements.txt,dependabot[bot],Josh Clements,2021-10-11 18:49:55+00:00,2021-10-11 15:01:52-04:00
+requirements.txt,Josh Clements,dependabot[bot],2022-07-03 16:28:28-04:00,2022-07-03 20:41:04+00:00
+requirements.txt,dependabot[bot],Josh Clements,2022-07-03 21:12:15+00:00,2022-07-04 08:54:30-04:00
+res/start.html,Thomas Perl,Stefan Kögl,2012-09-02 18:07:31+02:00,2012-09-02 20:58:40+02:00

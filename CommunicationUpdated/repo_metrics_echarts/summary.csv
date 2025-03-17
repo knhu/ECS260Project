@@ -1,0 +1,205 @@
+Field,Value
+Commits Overview,
+Total Commits,9516
+Total Unique Authors,311
+,
+Top 10 Contributors,
+Author,Commits
+pissang,7478
+lang,7010
+kener,6074
+sushuang,5523
+100pah,3968
+pah100,2704
+Ovilia,1824
+plainheart,825
+deqingli,439
+susiwen8,405
+,
+Communication Events,Total: 991
+"Author1,Author2",Events
+"lang,pah100",118
+"pah100,lang",110
+"100pah,pissang",61
+"pissang,100pah",60
+"erik,kener",56
+"lang,kener",42
+"sushuang,pissang",39
+"pissang,sushuang",35
+"Ovilia,pissang",32
+"kener,lang",27
+"pissang,Ovilia",26
+"pissang,plainheart",25
+"zakwu,pissang",18
+"susiwen8,pissang",16
+"plainheart,pissang",12
+"loutongbing,lang",10
+"deqingli,lang",10
+"100pah,Ovilia",9
+"pissang,susiwen8",9
+"pissang,Yi Shen",9
+"Ovilia,100pah",9
+"kener,Kener",9
+"deqingli,sushuang",9
+"plainheart,Ovilia",8
+"susiwen8,100pah",7
+"Kener,kener",7
+"lang,100pah",7
+"sushuang,deqingli",6
+"Ovilia,sushuang",6
+"pissang,zakwu",6
+"dengxiaohong01,pah100",6
+"Kener,lang",5
+"lang,Kener",5
+"lang,loutongbing",5
+"Ovilia,plainheart",5
+"100pah,lang",4
+"cuijian,cuijian-dexter",4
+"SHUANG SU,yufeng04",4
+"saniac,pissang",4
+"Ovilia,pah100",4
+"pissang,SHUANG SU",3
+"sushuang,Ovilia",3
+"100pah,zakwu",3
+"Xiao Long,Kener",3
+"Yi Shen,pissang",3
+"Ovilia,susiwen8",3
+"pissang,deqingli",3
+"cuijian-dexter,cuijian",3
+"Clement Ho,sushuang",2
+"100pah,susiwen8",2
+"plainheart,Zhongxiang Wang",2
+"loutongbing,pah100",2
+"羡辙,Ovilia",2
+"susiwen,sushuang",2
+"susiwen8,Ovilia",2
+"Leon.Y,Ovilia",2
+"i6ma,kener",2
+"SHUANG SU,pissang",2
+"yufeng04,pissang",2
+"sushuang,kener",2
+"pah100,Ovilia",2
+"杨骥,Ovilia",2
+"kener,linfeng",2
+"c-okelly,Author Name",2
+"Ovilia,dependabot[bot]",2
+"Ovilia,Zhongxiang Wang",2
+"sz-p,plainheart",2
+"Clement Ho,Ovilia",1
+"Andrea Rota,plainheart",1
+"100pah,xLsDg",1
+"Brendon Boshell,sushuang",1
+"Gijsbert ter Horst,Ovilia",1
+"Nick22nd,pissang",1
+"Map1en_,plainheart",1
+"Leon.Y,pissang",1
+"Lam Tang,Wenli Zhang",1
+"Kener,maggiehe",1
+"John Coene,羡辙",1
+"Julie Pagano,Ovilia",1
+"Kener,erik",1
+"Dirk Ecker,sushuang",1
+"Devit,DevitX",1
+"Zhongxiang Wang,plainheart",1
+"Zachary Snow,pah100",1
+"Ovilia,Yi Shen",1
+"Ovilia,Wenli Zhang",1
+"Ovilia,SHUANG SU",1
+"Ovilia,Justineo",1
+"lang,deqingli",1
+"lang,Ovilia",1
+"lang,Limei Che",1
+"kener,erik",1
+"junmer,kener",1
+"gnijuohz,pissang",1
+"kener,i6ma",1
+"alex2wong,yufeng04",1
+"cuijian-dexter,sushuang",1
+"cuijian-dexter,Ovilia",1
+"algoshipda,sushuang",1
+"dependabot[bot],plainheart",1
+"deqingli,SREELAKSHMI-NAYATH",1
+"deqingli,100pah",1
+"deqingli,zhuangzhuang",1
+"fanlia,kener",1
+"Ovilia,saniac",1
+"Ovilia,Zhongxiang.Wang",1
+"Ovilia,Gijsbert ter Horst",1
+"Ovilia,AmosChenYQ",1
+"SHUANG SU,susiwen8",1
+"TYzzt,SHUANG SU",1
+"SHUANG SU,Ovilia",1
+"Ovilia,yufeng04",1
+"Wenli Zhang,Ovilia",1
+"Ville Brofeldt,pissang",1
+"Wenli Zhang,plainheart",1
+"Yi Shen,Ovilia",1
+"Yi Shen,sushuang",1
+"Yiqian Li,pissang",1
+"pah100,pissang",1
+"lang,xwartz",1
+"plainheart,susiwen8",1
+"plainheart,100pah",1
+"pissang,bwubete",1
+"pissang,timshen",1
+"pissang,pah100",1
+"pissang,dependabot[bot]",1
+"pah100,sushuang",1
+"pissang,Eason Wang",1
+"pah100,dengxiaohong01",1
+"napjon,lang",1
+"make it right,Yi Shen",1
+"lang,pissang",1
+"susiwen,Ovilia",1
+"sushuang,abigale Li",1
+"sushuang,algoshipda",1
+"susiwen8,Bin Wen",1
+"timshen,pissang",1
+"tanzhongyibidu,pissang",1
+"susiwen8,plainheart",1
+"susiwen8,Saniac",1
+"yangji,kener",1
+"williamorim,pissang",1
+"xiaoshan00,sushuang",1
+"xLsDg,100pah",1
+"yufeng04,make it right",1
+"yufeng04,100pah",1
+"yangji,lang",1
+"zakwu,susiwen8",1
+"其妙,sushuang",1
+"zhangyi,pissang",1
+"杨骥,Zhongxiang Wang",1
+"杨骥,plainheart",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,43
++01:00,39
++02:00,45
++03:00,35
++05:00,1
++05:30,20
++07:00,7
++08:00,9281
++09:00,8
++10:00,1
++13:00,1
+-03:00,7
+-04:00,5
+-05:00,8
+-06:00,2
+-07:00,8
+-08:00,5
+,
+Contributors Experience,Average across 3785 files: 84.33%
+File,Top Contributor Share (%)
+LICENSE.txt,100.00
+doc/asset/css/bootstrap-responsive.css,100.00
+doc/asset/css/bootstrap.css,100.00
+doc/asset/js/application.js,100.00
+doc/asset/js/bootstrap-affix.js,100.00
+doc/asset/js/bootstrap-alert.js,100.00
+doc/asset/js/bootstrap-button.js,100.00
+doc/asset/js/bootstrap-carousel.js,100.00
+doc/asset/js/bootstrap-collapse.js,100.00
+doc/asset/js/bootstrap-dropdown.js,100.00

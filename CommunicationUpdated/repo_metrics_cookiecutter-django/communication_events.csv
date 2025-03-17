@@ -1,0 +1,599 @@
+file,author1,author2,time1,time2
+.github/contributors.json,Bruno Alla,browniebroke,2020-08-10 18:06:50+01:00,2020-08-11 16:20:28+00:00
+.github/contributors.json,browniebroke,Bruno Alla,2020-08-14 07:17:53+00:00,2020-08-14 08:24:34+01:00
+.github/contributors.json,Bruno Alla,browniebroke,2020-08-14 08:24:34+01:00,2020-08-14 07:25:26+00:00
+.github/contributors.json,luzfcb,browniebroke,2022-11-22 19:20:22+00:00,2022-11-22 19:59:59+00:00
+.github/contributors.json,luzfcb,browniebroke,2023-01-25 12:51:16+00:00,2023-01-25 23:40:00+00:00
+.github/contributors.json,Jelmer Draaijer,foarsitter,2023-06-13 21:13:32+02:00,2023-06-13 20:06:25+00:00
+.github/contributors.json,foarsitter,browniebroke,2024-04-02 16:59:48+00:00,2024-04-03 13:49:59+00:00
+.github/contributors.json,foarsitter,browniebroke,2024-09-07 23:45:21+00:00,2024-09-08 15:22:51+00:00
+.github/workflows/align-versions.yml,Bruno Alla,dependabot[bot],2025-02-14 07:18:14+00:00,2025-02-14 07:58:21+00:00
+.github/workflows/ci.yml,Bruno Alla,pyup.io bot,2023-02-08 17:51:29+00:00,2023-02-09 09:35:41+00:00
+.github/workflows/ci.yml,Jelmer,Andrew Chen Wang,2023-04-15 11:42:33+01:00,2023-04-15 11:53:15+01:00
+.github/workflows/ci.yml,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 12:15:15+01:00
+.github/workflows/django-issue-checker.yml,Jelmer Draaijer,jelmert,2024-10-05 17:45:50+02:00,2024-10-05 17:45:50+02:00
+.github/workflows/pre-commit-autoupdate.yml,dependabot[bot],areski,2021-01-26 06:07:57+00:00,2021-01-26 16:13:27+01:00
+.github/workflows/pre-commit-autoupdate.yml,dependabot[bot],Bruno Alla,2021-11-04 05:18:08+00:00,2021-11-04 14:55:32+00:00
+.github/workflows/pre-commit-autoupdate.yml,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 12:15:15+01:00
+.github/workflows/update-changelog.yml,Jelmer Draaijer,jelmert,2024-10-05 17:45:50+02:00,2024-10-05 17:45:50+02:00
+.github/workflows/update-contributors.yml,Jelmer,dependabot[bot],2022-10-24 21:41:00+01:00,2022-10-24 21:45:46+01:00
+.github/workflows/update-contributors.yml,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 12:15:15+01:00
+.github/workflows/update-contributors.yml,Jelmer Draaijer,jelmert,2024-10-05 17:45:50+02:00,2024-10-05 17:45:50+02:00
+.gitignore,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2016-04-19 15:46:46-07:00,2016-04-20 11:41:17-07:00
+.pre-commit-config.yaml,github-actions[bot],Bruno Alla,2022-07-10 12:02:35+01:00,2022-07-10 21:44:13+01:00
+.pre-commit-config.yaml,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 12:15:15+01:00
+.pre-commit-config.yaml,dependabot[bot],github-actions[bot],2023-12-06 09:40:04+00:00,2023-12-07 09:19:42+00:00
+.pre-commit-config.yaml,github-actions[bot],pre-commit-ci[bot],2023-12-11 09:16:18+00:00,2023-12-11 21:16:50+00:00
+.pre-commit-config.yaml,browniebroke,Jelmer Draaijer,2024-03-18 02:23:15+00:00,2024-03-18 20:07:24+01:00
+.pre-commit-config.yaml,pre-commit-ci[bot],browniebroke,2024-10-08 00:48:03+00:00,2024-10-08 02:39:47+00:00
+.travis.yml,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2017-12-28 08:30:33-08:00,2017-12-28 08:45:28-08:00
+CHANGELOG.md,Fabio C. Barrioneuvo da Luz,Fábio C. Barrionuevo da Luz,2015-07-27 10:01:31-03:00,2015-07-27 14:24:52-03:00
+CHANGELOG.md,Daniel Greenfeld,Fabio C. Barrioneuvo da Luz,2015-07-29 20:21:18-07:00,2015-07-30 08:47:20-03:00
+CHANGELOG.md,Daniel Greenfeld,Fabio C. Barrionuevo da Luz,2015-08-30 15:46:30-07:00,2015-08-31 00:06:32-03:00
+CHANGELOG.md,Fabio C. Barrionuevo da Luz,Daniel Greenfeld,2015-09-13 13:04:57-03:00,2015-09-13 09:18:39-07:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-09-14 13:41:51-07:00,2015-09-14 18:55:41-07:00
+CHANGELOG.md,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2015-09-21 21:24:19-07:00,2015-09-22 08:52:06-07:00
+CHANGELOG.md,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2015-09-25 23:28:33-07:00,2015-09-26 01:06:18-07:00
+CHANGELOG.md,Audrey Roy Greenfeld,Jannis Gebauer,2015-09-29 11:13:13-07:00,2015-09-30 10:40:09+02:00
+CHANGELOG.md,Jannis Gebauer,Fábio C. Barrionuevo da Luz,2015-09-30 10:40:09+02:00,2015-09-30 12:59:51-03:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2015-09-30 12:59:51-03:00,2015-09-30 15:13:20-03:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-10-04 10:53:12-07:00,2015-10-04 11:44:51-07:00
+CHANGELOG.md,Jannis Gebauer,Audrey Roy Greenfeld,2015-10-24 19:38:06+02:00,2015-10-24 20:31:36-05:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-10-24 20:31:36-05:00,2015-10-25 08:36:20-07:00
+CHANGELOG.md,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2015-10-25 09:29:43-07:00,2015-10-25 17:30:36-05:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-10-25 17:30:36-05:00,2015-10-25 17:37:34-07:00
+CHANGELOG.md,Fabio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2015-11-04 23:24:49-03:00,2015-11-05 10:02:05-03:00
+CHANGELOG.md,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2015-11-06 16:21:16-08:00,2015-11-06 19:07:11-08:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-11-06 19:07:11-08:00,2015-11-06 19:51:43-08:00
+CHANGELOG.md,Daniel Roy Greenfeld,Jay,2015-11-06 19:53:16-08:00,2015-11-07 18:45:40+01:00
+CHANGELOG.md,Jay,Daniel Roy Greenfeld,2015-11-07 20:23:46+01:00,2015-11-07 19:47:31-08:00
+CHANGELOG.md,Audrey Roy Greenfeld,Fábio C. Barrionuevo da Luz,2015-11-11 21:07:16-08:00,2015-11-12 09:50:33-03:00
+CHANGELOG.md,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2015-11-17 16:58:00-08:00,2015-11-17 21:07:14-08:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-11-17 21:07:14-08:00,2015-11-18 17:19:53-08:00
+CHANGELOG.md,Fabio C. Barrioneuvo da Luz,Jannis Gebauer,2015-11-22 13:56:55-03:00,2015-11-22 23:27:11+01:00
+CHANGELOG.md,Fabio C. Barrioneuvo da Luz,Fábio C. Barrionuevo da Luz,2015-11-24 22:00:16-03:00,2015-11-25 09:36:10-03:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Audrey Roy Greenfeld,2015-11-25 09:36:10-03:00,2015-11-25 08:20:19-08:00
+CHANGELOG.md,Audrey Roy Greenfeld,Fábio C. Barrionuevo da Luz,2015-11-25 08:35:13-08:00,2015-11-25 14:35:56-03:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2015-11-25 14:35:56-03:00,2015-11-25 16:29:53-03:00
+CHANGELOG.md,Fabio C. Barrioneuvo da Luz,Daniel Roy Greenfeld,2015-12-11 09:05:49-03:00,2015-12-11 07:35:19-08:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Saurabh Kumar,2015-12-15 20:54:17-03:00,2015-12-16 14:16:54+05:30
+CHANGELOG.md,Jannis Gebauer,Daniel Roy Greenfeld,2016-01-04 11:54:09+01:00,2016-01-04 13:54:59-08:00
+CHANGELOG.md,Daniel Roy Greenfeld,Fábio C. Barrionuevo da Luz,2016-01-04 13:54:59-08:00,2016-01-04 19:40:23-03:00
+CHANGELOG.md,Jay,Audrey Roy Greenfeld,2016-01-06 09:58:18+01:00,2016-01-06 21:47:14-08:00
+CHANGELOG.md,Audrey Roy Greenfeld,Jay,2016-01-07 09:36:36-08:00,2016-01-08 11:16:14+01:00
+CHANGELOG.md,Jay,Jannis Gebauer,2016-01-08 11:16:14+01:00,2016-01-08 11:30:27+01:00
+CHANGELOG.md,Daniel Roy Greenfeld,Burhan Khalid,2016-01-16 10:40:32-08:00,2016-01-17 13:03:01+03:00
+CHANGELOG.md,Burhan Khalid,Audrey Roy Greenfeld,2016-01-17 13:07:31+03:00,2016-01-18 00:00:03-08:00
+CHANGELOG.md,Audrey Roy Greenfeld,Jannis Gebauer,2016-01-18 00:00:03-08:00,2016-01-18 12:45:56+01:00
+CHANGELOG.md,Jannis Gebauer,Daniel Roy Greenfeld,2016-01-18 12:50:01+01:00,2016-01-18 19:31:56-08:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Daniel Roy Greenfeld,2016-04-14 00:22:29-03:00,2016-04-13 20:31:41-07:00
+CHANGELOG.md,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2016-04-17 11:47:07-07:00,2016-04-17 12:50:13-07:00
+CHANGELOG.md,Daniel Roy Greenfeld,Jannis Gebauer,2016-04-17 12:51:19-07:00,2016-04-18 20:54:57+02:00
+CHANGELOG.md,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2016-04-19 15:53:59-07:00,2016-04-20 10:47:09-07:00
+CHANGELOG.md,Daniel Roy Greenfeld,Fabio C. Barrioneuvo da Luz,2016-04-30 22:27:42-07:00,2016-05-01 20:35:13-03:00
+CHANGELOG.md,Daniel Roy Greenfeld,kappataumu,2016-06-05 12:33:36-07:00,2016-06-06 14:14:41+00:00
+CHANGELOG.md,Jannis Gebauer,Fabio C. Barrioneuvo da Luz,2016-06-24 22:46:36+02:00,2016-06-25 11:25:05-03:00
+CHANGELOG.md,Fabio C. Barrioneuvo da Luz,Fábio C. Barrionuevo da Luz,2016-09-29 01:08:24-03:00,2016-09-29 01:24:51-03:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2016-09-29 01:27:48-03:00,2016-09-29 01:47:03-03:00
+CHANGELOG.md,Fabio C. Barrioneuvo da Luz,Fábio C. Barrionuevo da Luz,2016-09-29 01:47:03-03:00,2016-09-29 01:48:42-03:00
+CHANGELOG.md,Fábio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2016-09-29 01:48:42-03:00,2016-09-29 13:12:29-03:00
+CHANGELOG.md,Bruno Alla,browniebroke,2020-09-04 17:55:16+02:00,2020-09-05 02:43:34+00:00
+CHANGELOG.md,browniebroke,Bruno Alla,2021-10-13 02:18:21+00:00,2021-10-13 09:19:45+01:00
+CHANGELOG.md,Bruno Alla,browniebroke,2021-10-13 09:20:22+01:00,2021-10-14 02:15:49+00:00
+CHANGELOG.md,Bruno Alla,browniebroke,2021-10-22 13:40:53-07:00,2021-10-23 02:17:48+00:00
+CHANGELOG.md,github-actions,Bruno Alla,2021-11-26 02:14:02+00:00,2021-11-26 15:41:50+00:00
+CHANGELOG.md,Bruno Alla,github-actions,2021-11-26 15:41:50+00:00,2021-11-27 02:15:10+00:00
+CHANGELOG.md,github-actions,Bruno Alla,2024-08-21 02:19:50+00:00,2024-08-21 10:06:24+02:00
+CHANGELOG.md,Bruno Alla,github-actions,2024-08-21 10:06:24+02:00,2024-08-22 02:20:25+00:00
+CONTRIBUTING.md,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 13:41:51+01:00
+CONTRIBUTORS.md,Bruno Alla,browniebroke,2020-08-10 18:06:49+01:00,2020-08-10 17:45:27+00:00
+CONTRIBUTORS.md,Arnav Choudhury,browniebroke,2020-09-07 13:28:49+01:00,2020-09-07 12:29:24+00:00
+CONTRIBUTORS.md,browniebroke,Arnav Choudhury,2020-09-07 12:52:21+00:00,2020-09-08 09:04:10+01:00
+CONTRIBUTORS.md,Arnav Choudhury,browniebroke,2020-09-08 09:04:10+01:00,2020-09-08 08:04:49+00:00
+CONTRIBUTORS.md,luzfcb,browniebroke,2022-11-22 19:20:22+00:00,2022-11-22 19:59:59+00:00
+CONTRIBUTORS.md,luzfcb,browniebroke,2023-01-25 12:51:16+00:00,2023-01-25 23:40:00+00:00
+CONTRIBUTORS.md,Bruno Alla,browniebroke,2023-04-15 12:15:15+01:00,2023-04-15 11:15:42+00:00
+CONTRIBUTORS.md,browniebroke,Bruno Alla,2023-04-15 11:15:42+00:00,2023-04-15 13:21:18+01:00
+CONTRIBUTORS.md,Bruno Alla,browniebroke,2023-04-15 13:21:18+01:00,2023-04-15 12:21:47+00:00
+CONTRIBUTORS.md,foarsitter,browniebroke,2024-04-02 16:59:48+00:00,2024-04-03 13:49:59+00:00
+CONTRIBUTORS.md,foarsitter,browniebroke,2024-09-07 23:45:21+00:00,2024-09-08 15:22:51+00:00
+CONTRIBUTORS.rst,Fabio C. Barrioneuvo da Luz,Jannis Gebauer,2015-11-22 13:56:55-03:00,2015-11-22 23:28:27+01:00
+CONTRIBUTORS.rst,Fabio C. Barrioneuvo da Luz,Eraldo Energy,2016-02-15 22:50:40-03:00,2016-02-16 18:38:44+01:00
+CONTRIBUTORS.rst,Daniel Roy Greenfeld,mjsisley,2016-06-02 18:34:09-07:00,2016-06-03 08:07:39-07:00
+CONTRIBUTORS.rst,mjsisley,Daniel Roy Greenfeld,2016-06-03 08:07:39-07:00,2016-06-03 12:52:52-07:00
+CONTRIBUTORS.rst,Matt Braymer-Hayes,Fábio C. Barrionuevo da Luz,2017-02-10 09:21:04+01:00,2017-02-10 09:02:02-03:00
+CONTRIBUTORS.rst,Malik S,Nikita P. Shupeyko,2018-03-08 15:54:24+03:00,2018-03-08 21:45:16+03:00
+CONTRIBUTORS.rst,Jerome Leclanche,Davit Tovmasyan,2018-10-24 12:39:27+03:00,2018-10-24 13:37:15+03:00
+CONTRIBUTORS.rst,Leo Zhou,Carl Johnson,2018-11-12 17:59:26+08:00,2018-11-12 15:09:04-05:00
+CONTRIBUTORS.rst,step21,Bruno Alla,2019-07-17 16:19:11+02:00,2019-07-17 15:52:46+01:00
+CONTRIBUTORS.rst,Bruno Alla,Bo,2020-01-13 17:51:50+00:00,2020-01-14 08:49:33-06:00
+CONTRIBUTORS.rst,Vicente G. Reyes,Cole Maclean,2020-02-20 02:39:21+08:00,2020-02-19 19:18:17-08:00
+CONTRIBUTORS.rst,Guilherme Guy,Bruno Alla,2020-03-15 09:29:07-03:00,2020-03-15 19:11:43+00:00
+CONTRIBUTORS.rst,Gabriel Mejia,Bruno Alla,2020-03-23 21:43:59+00:00,2020-03-23 21:45:38+00:00
+CONTRIBUTORS.rst,Ernesto Cedeno,codnee,2020-03-29 19:54:30+02:00,2020-03-29 23:30:42+02:00
+CONTRIBUTORS.rst,gwiskur,Tevak,2020-04-04 08:59:00-05:00,2020-04-04 17:26:24+02:00
+CONTRIBUTORS.rst,Sudarshan Wadkar,Hannah Lazarus,2020-04-24 19:43:38+05:30,2020-04-24 16:31:20-04:00
+CONTRIBUTORS.rst,Gil,Bruno Alla,2020-06-21 16:17:26+09:00,2020-06-21 14:15:00+01:00
+CONTRIBUTORS.txt,Daniel Greenfeld,jmunro,2013-09-22 14:43:32+02:00,2013-09-22 07:28:45-06:00
+CONTRIBUTORS.txt,Henrique Pereira,Travis McNeill,2014-07-09 17:12:11-03:00,2014-07-10 00:44:56-04:00
+CONTRIBUTORS.txt,Daniel Greenfeld,Saurabh Kumar,2014-09-16 10:26:15-07:00,2014-09-16 23:11:13+05:30
+CONTRIBUTORS.txt,Fábio C. Barrionuevo da Luz,zcho,2015-01-04 10:46:09-03:00,2015-01-04 17:07:27+03:00
+CONTRIBUTORS.txt,yunti,Fábio C. Barrionuevo da Luz,2015-09-17 14:39:23+01:00,2015-09-17 11:11:56-03:00
+README.md,TAKAHASHI Shuuji,Bruno Alla,2022-12-21 09:47:51+00:00,2022-12-21 09:49:45+00:00
+README.md,Jelmer,Andrew Chen Wang,2023-04-15 11:42:33+01:00,2023-04-15 11:53:15+01:00
+README.md,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 12:15:15+01:00
+README.md,Hoai-Thu Vuong,Bruno Alla,2024-07-24 16:20:38-03:00,2024-07-25 13:18:03+01:00
+README.rst,Alberto Sanchez,Daniel Greenfeld,2014-09-03 16:03:02-04:30,2014-09-03 13:58:48-07:00
+README.rst,Daniele Tricoli,Fabio C. Barrionuevo da Luz,2015-05-19 12:47:53+02:00,2015-05-19 13:42:01-03:00
+README.rst,Daniel Roy Greenfeld,Fábio C. Barrionuevo da Luz,2015-08-30 12:12:21-07:00,2015-08-30 22:12:18-03:00
+README.rst,Fábio C. Barrionuevo da Luz,Fabio C. Barrionuevo da Luz,2015-08-30 22:14:25-03:00,2015-08-31 00:06:11-03:00
+README.rst,Fabio C. Barrionuevo da Luz,Fábio C. Barrionuevo da Luz,2015-08-31 00:06:11-03:00,2015-08-31 00:14:44-03:00
+README.rst,yunti,Daniel Roy Greenfeld,2015-09-18 11:56:49+01:00,2015-09-18 09:32:47-07:00
+README.rst,Daniel Roy Greenfeld,Amjith Ramanujam,2015-10-03 14:12:58-07:00,2015-10-04 05:06:20-07:00
+README.rst,Burhan Khalid,Tom Atkins,2015-11-16 14:20:19+03:00,2015-11-16 11:45:29+00:00
+README.rst,Tom Atkins,Burhan Khalid,2015-11-16 11:45:29+00:00,2015-11-16 18:55:37+03:00
+README.rst,Taylor Edmiston,Tom Atkins,2015-11-17 22:54:29-05:00,2015-11-18 11:16:25+00:00
+README.rst,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2016-04-16 13:36:12-07:00,2016-04-16 23:44:53-07:00
+README.rst,Daniel Roy Greenfeld,Krzysztof Żuraw,2016-04-16 23:44:53-07:00,2016-04-17 18:56:28+02:00
+README.rst,Krzysztof Żuraw,Daniel Roy Greenfeld,2016-04-17 18:56:28+02:00,2016-04-17 12:00:56-07:00
+README.rst,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2016-04-19 09:17:27-07:00,2016-04-19 15:53:59-07:00
+README.rst,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2016-04-19 15:53:59-07:00,2016-04-20 11:41:17-07:00
+README.rst,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2016-04-25 15:11:19-07:00,2016-04-25 23:11:17-07:00
+README.rst,Meghan Heintz,Daniel Roy Greenfeld,2016-06-03 12:11:54-07:00,2016-06-03 14:07:25-07:00
+README.rst,Kenneth Schnall,Daniel Roy Greenfeld,2016-06-27 16:29:19-04:00,2016-06-28 09:38:42+08:00
+README.rst,Daniel Roy Greenfeld,Fabio C. Barrioneuvo da Luz,2016-06-28 09:38:42+08:00,2016-06-27 23:09:51-03:00
+README.rst,ReadmeCritic,Burhan Khalid,2016-08-09 15:31:29-07:00,2016-08-10 18:31:48+03:00
+README.rst,Daniel Roy Greenfeld,Parbhat Puri,2016-08-24 14:52:59-07:00,2016-08-25 16:09:35+05:30
+README.rst,Fabio C. Barrioneuvo da Luz,Daniel Roy Greenfeld,2016-09-29 01:08:24-03:00,2016-09-29 01:43:48-03:00
+README.rst,Daniel Roy Greenfeld,Fabio C. Barrioneuvo da Luz,2016-09-29 01:43:48-03:00,2016-09-29 01:47:03-03:00
+README.rst,Shupeyko Nikita,Nikita P. Shupeyko,2017-07-31 12:47:29+03:00,2017-07-31 12:58:29+03:00
+README.rst,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2018-01-15 12:43:34-08:00,2018-01-15 12:51:24-08:00
+README.rst,Fábio C. Barrionuevo da Luz,Bruno Alla,2019-04-16 20:42:17-03:00,2019-04-17 08:37:45+01:00
+README.rst,Andrew-Chen-Wang,Andrew Chen Wang,2021-05-04 11:34:25-04:00,2021-05-04 11:39:03-04:00
+README.rst,mpoli,Bruno Alla,2021-12-04 13:31:46+00:00,2021-12-04 13:41:49+00:00
+cookiecutter.json,Tom Atkins,Burhan Khalid,2015-11-16 11:45:29+00:00,2015-11-16 18:55:37+03:00
+cookiecutter.json,Fabio C. Barrioneuvo da Luz,Catherine Devlin,2016-03-06 01:30:27-03:00,2016-03-06 05:05:24-05:00
+cookiecutter.json,mjsisley,Meghan Heintz,2016-06-03 08:07:39-07:00,2016-06-03 14:02:51-07:00
+cookiecutter.json,Meghan Heintz,Daniel Roy Greenfeld,2016-06-03 14:02:51-07:00,2016-06-03 14:07:25-07:00
+cookiecutter.json,Daniel Roy Greenfeld,Sulé,2016-06-03 14:07:25-07:00,2016-06-03 16:35:10-07:00
+cookiecutter.json,Sulé,Vivian Guillen,2016-06-03 16:35:10-07:00,2016-06-03 17:05:57-07:00
+cookiecutter.json,Vivian Guillen,Audrey Roy Greenfeld,2016-06-03 17:35:46-07:00,2016-06-03 18:12:18-07:00
+cookiecutter.json,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2016-06-03 18:12:18-07:00,2016-06-04 17:16:48-07:00
+cookiecutter.json,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 12:15:15+01:00
+docs/deployment-on-heroku.rst,Bruno Alla,Nicholas,2018-03-05 17:56:45+00:00,2018-03-06 12:44:44+03:00
+docs/deployment-on-heroku.rst,saschalalala,Bruno Alla,2018-05-14 10:09:24+03:00,2018-05-14 08:39:46+01:00
+docs/deployment-on-pythonanywhere.rst,Sebastian Reyes Espinosa,Audrey Roy Greenfeld,2017-02-13 10:37:36-08:00,2017-02-13 10:39:43-08:00
+docs/deployment-with-docker.rst,jduraj,Alexandre Provencio,2017-04-24 10:09:21-07:00,2017-04-24 15:42:46-07:00
+docs/deployment-with-docker.rst,Nikita Shupeyko,Nikita P. Shupeyko,2018-06-27 19:33:21+03:00,2018-06-27 19:52:06+03:00
+docs/developing-locally-docker.rst,Alvaro [Andor],Jannis Gebauer,2015-09-27 19:42:21+02:00,2015-09-28 09:42:13+02:00
+docs/developing-locally-docker.rst,Audrey Roy Greenfeld,Daniel Greenfeld,2015-10-04 11:47:58-07:00,2015-10-04 12:09:18-07:00
+docs/developing-locally-docker.rst,kappataumu,Audrey Roy Greenfeld,2016-06-13 12:56:12+00:00,2016-06-13 08:40:48-07:00
+docs/developing-locally-docker.rst,Bert de Miranda,Shupeyko Nikita,2017-07-31 13:16:38+03:00,2017-07-31 13:27:58+03:00
+docs/developing-locally-docker.rst,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+docs/developing-locally-docker.rst,Nikita Shupeyko,Nikita P. Shupeyko,2018-06-27 19:33:21+03:00,2018-06-27 19:52:06+03:00
+docs/developing-locally-docker.rst,hleroy,Imran Rahman,2023-07-27 12:28:49+01:00,2023-07-27 14:42:04+01:00
+docs/developing-locally.rst,shireenrao,Fabio C. Barrioneuvo da Luz,2016-05-09 14:33:21-04:00,2016-05-09 17:18:58-03:00
+docs/developing-locally.rst,Fabio C. Barrioneuvo da Luz,Daniel Roy Greenfeld,2016-05-09 17:18:58-03:00,2016-05-09 21:12:34-07:00
+docs/index.rst,Meghan Heintz,Emily C,2016-06-03 12:04:11-07:00,2016-06-03 15:23:00-07:00
+docs/project-generation-options.rst,Nikita P. Shupeyko,Melanie Crutchfield,2018-03-05 13:54:35+03:00,2018-03-05 23:55:15+01:00
+docs/project-generation-options.rst,Bruno Alla,Tano Abeleyra,2019-05-27 18:16:51+01:00,2019-05-27 17:39:45-03:00
+docs/project-generation-options.rst,Leonardo,Andrew-Chen-Wang,2020-02-06 05:37:31-04:00,2020-02-06 20:18:49-05:00
+docs/requirements.txt,pyup.io bot,pyup-bot,2022-07-26 23:51:25+01:00,2022-07-26 16:55:57-07:00
+docs/requirements.txt,Bruno Alla,pyup.io bot,2023-03-04 18:45:25+00:00,2023-03-04 18:57:53+00:00
+docs/requirements.txt,pyup.io bot,pyup-bot,2024-07-15 10:46:00+01:00,2024-07-15 09:26:43-03:00
+docs/requirements.txt,pyup-bot,pyup.io bot,2024-07-15 09:26:43-03:00,2024-07-16 10:14:56+01:00
+docs/requirements.txt,pyup.io bot,pyup-bot,2024-07-16 10:14:56+01:00,2024-07-16 21:57:28-03:00
+docs/requirements.txt,pyup-bot,dependabot[bot],2024-10-07 08:49:25+01:00,2024-10-07 10:03:02+02:00
+docs/requirements.txt,dependabot[bot],Bruno Alla,2024-10-07 10:03:02+02:00,2024-10-07 15:43:09-03:00
+docs/settings.rst,Bruno Alla,Tano Abeleyra,2019-05-27 18:16:00+01:00,2019-05-27 17:39:45-03:00
+hooks/post_gen_project.py,mjsisley,Vivian Guillen,2016-06-03 08:07:39-07:00,2016-06-03 17:05:57-07:00
+hooks/post_gen_project.py,Cédric Gaspoz,Fabio C. Barrioneuvo da Luz,2016-06-24 16:59:55+02:00,2016-06-25 11:25:05-03:00
+hooks/post_gen_project.py,Sebastian Reyes Espinosa,Audrey Roy Greenfeld,2017-02-13 15:37:14-08:00,2017-02-13 21:57:59-08:00
+hooks/post_gen_project.py,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2018-01-15 12:33:51-08:00,2018-01-15 14:05:27-08:00
+hooks/post_gen_project.py,Daniel Roy Greenfeld,Reggie Riser,2018-01-16 22:06:28-08:00,2018-01-17 10:13:09-08:00
+hooks/post_gen_project.py,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+hooks/post_gen_project.py,Nikita P. Shupeyko,saschalalala,2018-05-13 13:51:01+03:00,2018-05-14 10:09:24+03:00
+hooks/post_gen_project.py,Nikita Shupeyko,Nikita P. Shupeyko,2018-06-27 19:33:21+03:00,2018-06-28 16:39:51+03:00
+hooks/post_gen_project.py,Bruno Alla,Andrew-Chen-Wang,2020-03-23 21:46:14+00:00,2020-03-24 15:40:14-04:00
+hooks/post_gen_project.py,Pilhwan Kim,Bruno Alla,2020-04-28 12:41:51+09:00,2020-04-28 23:18:52+01:00
+hooks/post_gen_project.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 15:43:04+01:00
+hooks/pre_gen_project.py,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 15:43:04+01:00
+pyproject.toml,Jelmer,github-actions,2024-09-06 14:05:26+02:00,2024-09-07 02:21:48+00:00
+pyproject.toml,github-actions,rxm7706,2024-09-07 02:21:48+00:00,2024-09-08 01:44:46+02:00
+pyproject.toml,rxm7706,github-actions,2024-09-08 01:44:46+02:00,2024-09-08 02:27:07+00:00
+pyproject.toml,github-actions,Jelmer Draaijer,2024-10-05 02:26:51+00:00,2024-10-05 17:45:50+02:00
+pyproject.toml,Jelmer Draaijer,github-actions,2024-10-05 17:45:50+02:00,2024-10-06 02:30:10+00:00
+pyproject.toml,Bruno Alla,github-actions,2024-10-07 15:43:09-03:00,2024-10-08 02:29:35+00:00
+pyproject.toml,github-actions,pre-commit-ci[bot],2024-10-11 02:27:43+00:00,2024-10-11 02:38:44+00:00
+pyproject.toml,pre-commit-ci[bot],github-actions,2024-10-11 02:38:44+00:00,2024-10-12 02:25:39+00:00
+pyproject.toml,github-actions,Bruno Alla,2024-10-12 02:25:39+00:00,2024-10-12 17:46:45+01:00
+pyproject.toml,Bruno Alla,github-actions,2024-10-12 17:46:45+01:00,2024-10-13 02:30:03+00:00
+pyproject.toml,pyup.io bot,github-actions,2024-10-17 21:29:12+01:00,2024-10-18 02:28:50+00:00
+pyproject.toml,github-actions,Bruno Alla,2024-10-31 02:29:26+00:00,2024-10-31 19:57:08+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-02 18:13:06+00:00,2025-01-03 02:27:46+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-04 19:35:10+00:00,2025-01-05 02:30:04+00:00
+pyproject.toml,github-actions,Bruno Alla,2025-01-11 02:27:14+00:00,2025-01-11 12:00:31+00:00
+pyproject.toml,Bruno Alla,browniebroke,2025-01-11 12:00:31+00:00,2025-01-11 12:00:31+00:00
+pyproject.toml,browniebroke,pyup.io bot,2025-01-11 12:00:31+00:00,2025-01-11 12:08:23+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-11 12:08:23+00:00,2025-01-12 02:31:00+00:00
+pyproject.toml,github-actions,pyup.io bot,2025-01-16 02:24:24+00:00,2025-01-16 13:59:24+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-16 13:59:24+00:00,2025-01-17 02:23:58+00:00
+pyproject.toml,github-actions,pyup.io bot,2025-01-21 02:24:53+00:00,2025-01-21 10:08:29+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-21 10:08:29+00:00,2025-01-22 02:26:55+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-24 07:50:53+00:00,2025-01-25 02:21:10+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-01-30 20:54:37+00:00,2025-01-31 02:24:55+00:00
+pyproject.toml,github-actions,pyup.io bot,2025-02-06 02:26:42+00:00,2025-02-06 22:55:52+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-02-06 22:55:52+00:00,2025-02-07 02:27:02+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-02-10 15:28:24+00:00,2025-02-11 02:27:17+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-02-21 17:09:09+00:00,2025-02-22 02:25:06+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-02-28 10:36:26+00:00,2025-03-01 02:31:13+00:00
+pyproject.toml,github-actions,pyup.io bot,2025-03-01 02:31:13+00:00,2025-03-01 09:20:09+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-03-01 09:20:09+00:00,2025-03-02 02:30:47+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-03-08 10:17:26+00:00,2025-03-09 02:17:53+00:00
+pyproject.toml,pyup.io bot,github-actions,2025-03-15 10:23:52+00:00,2025-03-16 02:32:10+00:00
+requirements.txt,Jannis Gebauer,Fabio C. Barrioneuvo da Luz,2015-09-30 10:37:46+02:00,2015-09-30 15:10:12-03:00
+requirements.txt,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2016-04-20 11:50:06-07:00,2016-04-20 12:07:19-07:00
+requirements.txt,pyup-bot,pyup.io bot,2017-04-12 11:17:55-07:00,2017-04-12 13:55:42-07:00
+requirements.txt,pyup-bot,pyup.io bot,2017-09-29 10:14:41-07:00,2017-09-30 15:46:19+03:00
+requirements.txt,pyup-bot,pyup.io bot,2017-10-15 12:37:16-07:00,2017-10-16 18:28:51+03:00
+requirements.txt,Nikita P. Shupeyko,pyup.io bot,2018-03-05 14:01:45+03:00,2018-03-06 11:22:44+03:00
+requirements.txt,pyup.io bot,Nikita Shupeyko,2018-03-06 11:22:44+03:00,2018-03-06 14:28:25+03:00
+requirements.txt,Bruno Alla,pyup-bot,2019-04-01 08:47:46+01:00,2019-04-01 00:47:56-07:00
+requirements.txt,Bruno Alla,pyup-bot,2019-05-15 12:37:17+01:00,2019-05-15 10:45:37-07:00
+requirements.txt,pyup-bot,browniebroke,2019-05-15 10:45:37-07:00,2019-05-16 12:00:38+01:00
+requirements.txt,browniebroke,pyup-bot,2019-06-14 12:00:30+01:00,2019-06-14 14:16:20-07:00
+requirements.txt,pyup-bot,browniebroke,2019-06-26 03:46:17-07:00,2019-06-26 12:00:29+01:00
+requirements.txt,browniebroke,pyup-bot,2019-12-03 11:00:37+00:00,2019-12-03 08:01:37-08:00
+requirements.txt,Bruno Alla,pyup-bot,2020-08-10 18:06:49+01:00,2020-08-11 01:42:06-07:00
+requirements.txt,pyup-bot,Bruno Alla,2020-08-11 02:42:42-07:00,2020-08-11 17:17:12+01:00
+requirements.txt,Bruno Alla,pyup-bot,2020-12-02 14:14:34+00:00,2020-12-02 06:17:15-08:00
+requirements.txt,Bruno Alla,pyup-bot,2021-04-07 20:57:04+01:00,2021-04-07 13:01:52-07:00
+requirements.txt,Bruno Alla,pyup-bot,2021-06-21 12:17:56+01:00,2021-06-21 04:18:10-07:00
+requirements.txt,Andrew-Chen-Wang,pyup-bot,2021-07-27 05:25:05-04:00,2021-07-27 04:23:35-07:00
+requirements.txt,Bruno Alla,pyup.io bot,2021-11-18 09:36:42+00:00,2021-11-18 09:54:24+00:00
+requirements.txt,Bruno Alla,pyup.io bot,2022-02-07 15:40:53+00:00,2022-02-07 17:19:52+00:00
+requirements.txt,pyup-bot,pyup.io bot,2022-12-29 00:18:41-08:00,2022-12-29 18:17:02+00:00
+requirements.txt,pyup-bot,pyup.io bot,2023-01-02 16:43:31-08:00,2023-01-03 15:31:12-03:00
+requirements.txt,pyup.io bot,Bruno Alla,2023-04-15 10:02:54+01:00,2023-04-15 15:43:04+01:00
+requirements.txt,pyup.io bot,pyup-bot,2023-06-22 16:24:38-03:00,2023-06-23 18:48:31+01:00
+requirements.txt,pyup.io bot,Jelmer Draaijer,2024-02-13 10:25:10+00:00,2024-02-13 11:59:54+01:00
+requirements.txt,pyup.io bot,pyup-bot,2024-08-07 13:46:04+01:00,2024-08-07 20:51:12-03:00
+requirements.txt,pyup.io bot,pyup-bot,2024-08-28 18:06:11+01:00,2024-08-29 11:51:28-03:00
+requirements.txt,pyup-bot,pyup.io bot,2024-08-29 11:51:28-03:00,2024-08-29 20:23:17+01:00
+requirements.txt,pyup-bot,pyup.io bot,2024-09-05 14:49:41-03:00,2024-09-06 12:45:03+01:00
+requirements.txt,pyup.io bot,Jelmer Draaijer,2024-10-04 19:45:26+01:00,2024-10-05 17:45:50+02:00
+requirements_to_watch.txt,Jannis Gebauer,pyup.io bot,2016-09-11 23:57:47+02:00,2016-09-11 23:58:19+02:00
+scripts/node_version.py,Bruno Alla,pyup.io bot,2025-02-07 10:12:43+00:00,2025-02-07 11:08:49+00:00
+setup.py,Audrey Roy Greenfeld,Reggie Riser,2017-12-28 08:30:33-08:00,2017-12-28 15:52:22-05:00
+setup.py,Bruno Alla,github-actions,2021-11-18 09:36:42+00:00,2021-11-19 02:15:50+00:00
+setup.py,Bruno Alla,github-actions,2021-11-24 08:05:53+00:00,2021-11-25 02:15:48+00:00
+setup.py,github-actions,Bruno Alla,2021-11-26 02:14:02+00:00,2021-11-26 15:41:50+00:00
+setup.py,Bruno Alla,github-actions,2021-11-26 15:41:50+00:00,2021-11-27 02:15:10+00:00
+setup.py,Bruno Alla,github-actions,2022-10-19 20:01:43+01:00,2022-10-20 03:00:16+00:00
+setup.py,Jelmer,github-actions,2022-10-24 21:41:00+01:00,2022-10-25 03:01:24+00:00
+setup.py,github-actions,Jelmer,2023-04-04 02:18:27+00:00,2023-04-04 22:10:17+01:00
+setup.py,Jelmer,github-actions,2023-04-04 22:10:17+01:00,2023-04-05 02:10:28+00:00
+setup.py,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 15:43:04+01:00
+setup.py,Bruno Alla,github-actions,2023-04-15 15:43:04+01:00,2023-04-16 02:20:37+00:00
+setup.py,Jelmer Draaijer,github-actions,2023-06-14 15:26:44+02:00,2023-06-15 02:24:08+00:00
+setup.py,Sadra Yahyapour,github-actions,2023-07-30 12:15:06+01:00,2023-07-31 02:18:38+00:00
+setup.py,github-actions,Jelmer Draaijer,2024-03-18 02:10:30+00:00,2024-03-18 20:07:24+01:00
+setup.py,Jelmer Draaijer,github-actions,2024-03-18 20:07:24+01:00,2024-03-19 02:10:39+00:00
+setup.py,github-actions,Bruno Alla,2024-07-25 02:18:59+00:00,2024-07-25 13:18:03+01:00
+setup.py,Bruno Alla,github-actions,2024-07-25 13:18:03+01:00,2024-07-26 02:19:01+00:00
+setup.py,github-actions,Jelmer,2024-09-06 02:23:41+00:00,2024-09-06 14:05:26+02:00
+tests/test_cookiecutter_generation.py,Bruno Alla,pyup.io bot,2022-02-07 15:40:53+00:00,2022-02-07 17:19:52+00:00
+tests/test_cookiecutter_generation.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 13:21:18+01:00
+tests/test_cookiecutter_generation.py,monosans,Jelmer Draaijer,2023-06-27 22:52:36+01:00,2023-06-28 08:38:04+02:00
+tox.ini,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2017-12-28 08:30:33-08:00,2017-12-28 08:45:28-08:00
+tox.ini,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 15:43:04+01:00
+uv.lock,pyup.io bot,github-actions,2025-01-02 18:13:06+00:00,2025-01-03 02:27:46+00:00
+uv.lock,pyup.io bot,github-actions,2025-01-04 19:35:10+00:00,2025-01-05 02:30:04+00:00
+uv.lock,github-actions,browniebroke,2025-01-11 02:27:14+00:00,2025-01-11 12:00:31+00:00
+uv.lock,browniebroke,pyup.io bot,2025-01-11 12:00:31+00:00,2025-01-11 12:08:23+00:00
+uv.lock,pyup.io bot,github-actions,2025-01-11 12:08:23+00:00,2025-01-12 02:31:00+00:00
+uv.lock,github-actions,pyup.io bot,2025-01-16 02:24:24+00:00,2025-01-16 13:59:24+00:00
+uv.lock,pyup.io bot,github-actions,2025-02-03 11:11:47+00:00,2025-02-04 02:25:06+00:00
+uv.lock,github-actions,pyup.io bot,2025-02-06 02:26:42+00:00,2025-02-06 22:55:52+00:00
+uv.lock,pyup.io bot,github-actions,2025-02-06 22:55:52+00:00,2025-02-07 02:27:02+00:00
+uv.lock,pyup.io bot,github-actions,2025-02-10 15:28:24+00:00,2025-02-11 02:27:17+00:00
+uv.lock,pyup.io bot,github-actions,2025-02-21 17:09:09+00:00,2025-02-22 02:25:06+00:00
+uv.lock,pyup.io bot,github-actions,2025-02-28 10:36:26+00:00,2025-03-01 02:31:13+00:00
+uv.lock,github-actions,pyup.io bot,2025-03-01 02:31:13+00:00,2025-03-01 09:20:09+00:00
+uv.lock,pyup.io bot,github-actions,2025-03-01 09:20:09+00:00,2025-03-02 02:30:47+00:00
+uv.lock,pyup.io bot,github-actions,2025-03-08 10:17:26+00:00,2025-03-09 02:17:53+00:00
+uv.lock,pyup.io bot,github-actions,2025-03-15 10:23:52+00:00,2025-03-16 02:32:10+00:00
+{{cookiecutter.project_slug}}/.drone.yml,Jelmer Draaijer,Shayan Karimi,2024-03-18 20:07:24+01:00,2024-03-18 19:26:18+00:00
+{{cookiecutter.project_slug}}/.envs/.local/.django,Nikita Shupeyko,Demetris Stavrou,2018-06-27 19:33:21+03:00,2018-06-28 00:27:22+03:00
+{{cookiecutter.project_slug}}/.envs/.local/.postgres,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+{{cookiecutter.project_slug}}/.envs/.production/.django,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 22:40:22+03:00
+{{cookiecutter.project_slug}}/.envs/.production/.postgres,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+{{cookiecutter.project_slug}}/.github/workflows/ci.yml,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 12:15:15+01:00
+{{cookiecutter.project_slug}}/.github/workflows/ci.yml,Jelmer Draaijer,Shayan Karimi,2024-03-18 20:07:24+01:00,2024-03-18 19:26:18+00:00
+{{cookiecutter.project_slug}}/.gitignore,Daniel Roy Greenfeld,Ray Ch,2016-09-15 16:01:22-07:00,2016-09-16 15:28:22+02:00
+{{cookiecutter.project_slug}}/.gitlab-ci.yml,Jelmer Draaijer,Shayan Karimi,2024-03-18 20:07:24+01:00,2024-03-18 19:26:18+00:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,Bruno Alla,github-actions[bot],2020-08-12 12:31:32+01:00,2020-08-12 11:56:34+00:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,github-actions[bot],Bruno Alla,2021-11-19 11:55:43+00:00,2021-11-20 00:13:01+00:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,github-actions[bot],Bruno Alla,2022-07-10 12:02:35+01:00,2022-07-10 21:44:13+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 12:15:15+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,monosans,Andrew Chen Wang,2023-06-27 22:52:36+01:00,2023-06-27 23:18:19+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,Andrew Chen Wang,Jelmer Draaijer,2023-06-27 23:18:19+01:00,2023-06-28 08:38:04+02:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,Bruno Alla,github-actions[bot],2023-08-01 20:56:51+01:00,2023-08-01 23:02:31+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,dependabot[bot],github-actions[bot],2023-12-06 09:40:04+00:00,2023-12-07 09:19:42+00:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,github-actions[bot],Jelmer Draaijer,2024-02-13 10:25:25+00:00,2024-02-13 11:59:54+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,browniebroke,Jelmer Draaijer,2024-03-18 02:23:15+00:00,2024-03-18 20:07:24+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,pyup.io bot,github-actions[bot],2024-06-30 17:50:12+01:00,2024-07-01 11:51:29+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,Bruno Alla,pyup.io bot,2024-07-25 13:18:03+01:00,2024-07-26 08:20:02+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,github-actions[bot],pyup.io bot,2024-08-29 09:16:03+01:00,2024-08-29 20:23:17+01:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,github-actions[bot],browniebroke,2024-09-21 11:38:40-03:00,2024-09-22 02:39:44+00:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,github-actions[bot],pyup.io bot,2024-11-28 14:20:39+00:00,2024-11-29 08:51:35+00:00
+{{cookiecutter.project_slug}}/.pre-commit-config.yaml,browniebroke,pyup.io bot,2025-01-11 12:00:31+00:00,2025-01-11 12:08:23+00:00
+{{cookiecutter.project_slug}}/.readthedocs.yml,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 12:15:15+01:00
+{{cookiecutter.project_slug}}/.travis.yml,Xaver Y.R. Chen,Bruno Alla,2019-06-06 14:48:48+08:00,2019-06-06 17:23:37+01:00
+{{cookiecutter.project_slug}}/.travis.yml,Jelmer Draaijer,Shayan Karimi,2024-03-18 20:07:24+01:00,2024-03-18 19:26:18+00:00
+{{cookiecutter.project_slug}}/Procfile,Marlon,Nikita P. Shupeyko,2018-05-05 12:28:30+03:00,2018-05-05 12:30:20+03:00
+{{cookiecutter.project_slug}}/README.rst,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2016-04-25 23:11:17-07:00,2016-04-26 19:18:31-07:00
+{{cookiecutter.project_slug}}/compose/local/django/Dockerfile,Bruno Alla,Arnav Choudhury,2021-02-23 20:36:52+00:00,2021-02-24 10:58:28+05:30
+{{cookiecutter.project_slug}}/compose/local/django/Dockerfile,Bruno Alla,dependabot[bot],2023-03-16 16:05:02+00:00,2023-03-16 16:35:28+00:00
+{{cookiecutter.project_slug}}/compose/local/docs/Dockerfile,Arnav Choudhury,Andrew Chen Wang,2021-12-24 11:55:47+00:00,2021-12-24 19:13:43+00:00
+{{cookiecutter.project_slug}}/compose/local/docs/Dockerfile,Bruno Alla,dependabot[bot],2023-03-16 16:05:02+00:00,2023-03-16 16:35:57+00:00
+{{cookiecutter.project_slug}}/compose/production/caddy/Dockerfile,Nikita Shupeyko,Nikita P. Shupeyko,2018-05-21 12:44:38+03:00,2018-05-21 22:36:50+03:00
+{{cookiecutter.project_slug}}/compose/production/django/Dockerfile,Michel Sassano,Nikita P. Shupeyko,2018-05-25 14:21:22+08:00,2018-05-25 12:55:27+03:00
+{{cookiecutter.project_slug}}/compose/production/django/Dockerfile,Bruno Alla,Arnav Choudhury,2021-02-23 20:36:52+00:00,2021-02-24 10:58:28+05:30
+{{cookiecutter.project_slug}}/compose/production/django/Dockerfile,Bruno Alla,dependabot[bot],2023-03-16 16:05:02+00:00,2023-03-16 17:13:53+00:00
+{{cookiecutter.project_slug}}/compose/production/django/Dockerfile,Bruno Alla,dependabot[bot],2023-04-25 10:44:02+02:00,2023-04-26 08:06:56+01:00
+{{cookiecutter.project_slug}}/compose/production/django/Dockerfile,dependabot[bot],Bruno Alla,2023-06-08 16:47:50+01:00,2023-06-09 11:12:44+01:00
+{{cookiecutter.project_slug}}/config/settings/base.py,Mesut YILMAZ,Fábio C. Barrionuevo da Luz,2017-02-15 11:17:34+03:00,2017-02-15 18:15:16-03:00
+{{cookiecutter.project_slug}}/config/settings/base.py,Bruno Alla,Tano Abeleyra,2019-05-15 17:20:14+01:00,2019-05-15 20:10:55-03:00
+{{cookiecutter.project_slug}}/config/settings/base.py,adinhodovic,Andrew Chen Wang,2022-11-22 20:28:52+01:00,2022-11-22 22:51:31+00:00
+{{cookiecutter.project_slug}}/config/settings/base.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 15:43:04+01:00
+{{cookiecutter.project_slug}}/config/settings/common.py,Leonardo Jimenez,Leonardo,2016-06-03 11:51:28-07:00,2016-06-03 16:07:27-07:00
+{{cookiecutter.project_slug}}/config/settings/common.py,Andres Gonzalez,Daniel Roy Greenfeld,2016-06-17 19:07:45-07:00,2016-06-18 13:18:40-07:00
+{{cookiecutter.project_slug}}/config/settings/common.py,Daniel Roy Greenfeld,Will Farley,2016-06-18 13:18:40-07:00,2016-06-19 12:24:43-07:00
+{{cookiecutter.project_slug}}/config/settings/common.py,Jannis Gebauer,Bartłomiej Kurzeja,2016-09-12 00:22:21+02:00,2016-09-12 15:52:49+02:00
+{{cookiecutter.project_slug}}/config/settings/local.py,Nikita P. Shupeyko,Daniel Roy Greenfeld,2017-04-21 18:52:53+03:00,2017-04-21 12:31:45-07:00
+{{cookiecutter.project_slug}}/config/settings/local.py,Nikita Shupeyko,Wan Liuyang,2018-03-06 14:28:25+03:00,2018-03-06 19:56:27+03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Leonardo Jimenez,Jeremy Carbaugh,2016-06-03 12:24:11-07:00,2016-06-03 12:32:05-07:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Jeremy Carbaugh,Leonardo Jimenez,2016-06-03 12:32:05-07:00,2016-06-03 15:50:34-07:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Leonardo Jimenez,Leonardo,2016-06-03 15:50:34-07:00,2016-06-03 16:07:27-07:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Delio Castillo,Daniel Roy Greenfeld,2016-09-22 11:42:16-07:00,2016-09-22 18:21:00-07:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Daniel Roy Greenfeld,Fabio C. Barrioneuvo da Luz,2016-09-28 16:42:02-07:00,2016-09-29 00:58:26-03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Fabio C. Barrioneuvo da Luz,Daniel Roy Greenfeld,2016-09-29 00:58:26-03:00,2016-09-29 01:43:48-03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Daniel Roy Greenfeld,Fabio C. Barrioneuvo da Luz,2016-09-29 01:43:48-03:00,2016-09-29 01:43:48-03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,schacki,Jimmy Gitonga,2017-02-13 10:33:52-08:00,2017-02-13 12:27:09-08:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Bruno Alla,Nikita Shupeyko,2018-03-05 17:56:45+00:00,2018-03-06 14:28:25+03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Nikita Shupeyko,Wan Liuyang,2018-03-06 14:28:25+03:00,2018-03-06 19:56:27+03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Bruno Alla,Guilherme Fabrizio,2019-03-19 19:57:31+00:00,2019-03-20 10:04:44+00:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Bruno Alla,shireenrao,2019-05-18 14:06:05+01:00,2019-05-18 22:49:10-04:00
+{{cookiecutter.project_slug}}/config/settings/production.py,shireenrao,Tano Abeleyra,2019-05-19 08:27:28-04:00,2019-05-19 12:45:28-03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Bruno Alla,Tano Abeleyra,2019-05-27 16:33:07+01:00,2019-05-27 17:39:45-03:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Andrew Chen Wang,Bruno Alla,2020-08-13 18:45:37-04:00,2020-08-14 08:12:55+01:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Jelmer Draaijer,Howie Zhao,2020-08-28 10:25:40+02:00,2020-08-29 11:59:29+08:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Adin Hodovic,ghazi-git,2022-12-06 19:04:38+00:00,2022-12-06 19:26:24+00:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Bruno Alla,Jens Kaeske,2024-01-24 15:32:44+00:00,2024-01-25 09:01:27+00:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Jens Kaeske,Bruno Alla,2024-05-13 21:45:55+01:00,2024-05-13 22:26:26+01:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Param Kapur,Alexandr Artemyev,2024-05-27 14:46:12+01:00,2024-05-28 14:10:33+05:00
+{{cookiecutter.project_slug}}/config/settings/production.py,Bruno Alla,Jelmer Draaijer,2024-10-21 10:12:29+01:00,2024-10-21 22:10:42+02:00
+{{cookiecutter.project_slug}}/config/settings/test.py,Nikita Shupeyko,Wan Liuyang,2018-03-06 14:28:25+03:00,2018-03-06 19:56:27+03:00
+{{cookiecutter.project_slug}}/config/wsgi.py,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2017-04-13 10:48:44-07:00,2017-04-13 11:27:54-07:00
+{{cookiecutter.project_slug}}/docker-compose.docs.yml,Matthew Foster Walsh,mpsantos,2024-05-13 18:18:56+01:00,2024-05-13 18:27:41+01:00
+{{cookiecutter.project_slug}}/docker-compose.local.yml,Matthew Foster Walsh,mpsantos,2024-05-13 18:18:56+01:00,2024-05-13 18:27:41+01:00
+{{cookiecutter.project_slug}}/docker-compose.production.yml,Matthew Foster Walsh,mpsantos,2024-05-13 18:18:56+01:00,2024-05-13 18:27:41+01:00
+{{cookiecutter.project_slug}}/env.example,Delio Castillo,Daniel Roy Greenfeld,2016-09-22 11:42:16-07:00,2016-09-22 18:21:00-07:00
+{{cookiecutter.project_slug}}/gulpfile.js,Andrew-Chen-Wang,Andrew Chen Wang,2021-07-27 01:15:22-04:00,2021-07-27 19:39:15-04:00
+{{cookiecutter.project_slug}}/local.yml,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+{{cookiecutter.project_slug}}/local.yml,Nikita Shupeyko,Nikita P. Shupeyko,2018-06-27 19:33:21+03:00,2018-06-27 19:45:36+03:00
+{{cookiecutter.project_slug}}/local.yml,Haseeb ur Rehman,Fábio C. Barrionuevo da Luz,2021-06-28 11:30:30+01:00,2021-06-28 09:02:16-03:00
+{{cookiecutter.project_slug}}/merge_production_dotenvs_in_dotenv.py,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+{{cookiecutter.project_slug}}/package.json,Andrew-Chen-Wang,Andrew Chen Wang,2021-07-27 01:15:22-04:00,2021-07-27 19:39:15-04:00
+{{cookiecutter.project_slug}}/package.json,dependabot[bot],Bruno Alla,2023-04-26 09:22:00+01:00,2023-04-26 10:29:07+02:00
+{{cookiecutter.project_slug}}/package.json,dependabot[bot],Bruno Alla,2024-11-27 18:37:39+00:00,2024-11-27 21:18:33+00:00
+{{cookiecutter.project_slug}}/production.yml,Shupeyko Nikita,Jannis Gebauer,2017-08-11 09:13:30+02:00,2017-08-11 11:16:15+02:00
+{{cookiecutter.project_slug}}/production.yml,Nikita Shupeyko,Nikita P. Shupeyko,2018-03-08 15:56:15+03:00,2018-03-08 19:04:10+03:00
+{{cookiecutter.project_slug}}/production.yml,Nikita Shupeyko,Nikita P. Shupeyko,2018-06-27 19:33:21+03:00,2018-06-27 19:45:36+03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Leonardo Jimenez,Leonardo,2016-06-03 11:51:28-07:00,2016-06-03 16:07:27-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Jannis Gebauer,2016-08-18 12:35:00-07:00,2016-08-19 15:50:09+02:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Jannis Gebauer,pyup-bot,2016-08-19 15:50:09+02:00,2016-08-19 07:10:12-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Andreas Meistad,Daniel Roy Greenfeld,2016-08-21 22:11:01+02:00,2016-08-22 07:36:40-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Daniel Roy Greenfeld,Jannis Gebauer,2016-08-22 07:36:40-07:00,2016-08-23 08:24:43+02:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Fabio C. Barrioneuvo da Luz,pyup-bot,2016-09-29 01:02:58-03:00,2016-09-28 21:32:04-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Fabio C. Barrioneuvo da Luz,2016-09-28 21:32:04-07:00,2016-09-29 01:43:48-03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Fabio C. Barrioneuvo da Luz,pyup-bot,2016-09-29 01:43:48-03:00,2016-09-29 01:48:42-03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2016-10-17 03:20:09-07:00,2016-10-17 09:56:25-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2016-11-02 10:10:59+01:00,2016-11-02 08:36:39-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2017-01-04 13:54:07+01:00,2017-01-04 12:52:37-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Jannis Gebauer,pyup.io bot,2017-04-05 10:28:42+02:00,2017-04-05 10:36:50+02:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2017-10-30 00:21:09+03:00,2017-10-30 10:54:45-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2018-02-08 23:46:03+03:00,2018-02-09 02:46:23-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Bruno Alla,2018-02-09 02:46:23-08:00,2018-02-09 13:00:20+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,Nikita P. Shupeyko,2018-03-06 06:13:20+00:00,2018-03-06 14:27:13+03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Nikita P. Shupeyko,pyup.io bot,2018-03-06 14:27:13+03:00,2018-03-06 19:44:43+03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Nikita Shupeyko,pyup.io bot,2018-03-09 12:57:32+03:00,2018-03-09 19:21:40+03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,Daniel Roy Greenfeld,2018-03-16 16:32:43-05:00,2018-03-17 06:58:16-05:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Vadim Iskuchekov,pyup-bot,2018-11-18 18:49:55+01:00,2018-11-19 02:19:54-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2018-11-19 02:19:54-08:00,2018-11-20 10:10:30+08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2019-01-04 10:17:12+08:00,2019-01-04 13:34:34-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,browniebroke,2019-04-01 08:47:46+01:00,2019-04-01 12:00:32+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,browniebroke,Bruno Alla,2019-04-01 12:00:35+01:00,2019-04-01 12:59:05+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,browniebroke,2019-04-01 12:59:05+01:00,2019-04-02 12:00:29+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,browniebroke,Bruno Alla,2019-04-02 12:00:29+01:00,2019-04-02 19:11:47+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Keyvan Mosharraf,browniebroke,2019-05-30 16:42:57-07:00,2019-05-31 12:00:33+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,browniebroke,Bruno Alla,2020-01-31 11:00:30+00:00,2020-01-31 17:15:37+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,browniebroke,2020-01-31 17:15:37+00:00,2020-02-01 11:00:29+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,browniebroke,Bruno Alla,2020-02-03 11:00:35+00:00,2020-02-03 12:56:37+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,browniebroke,jeromecaisip,2020-03-03 11:00:36+00:00,2020-03-03 14:45:20+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,jeromecaisip,browniebroke,2020-03-03 14:45:20+01:00,2020-03-04 11:00:32+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,Andrew-Chen-Wang,2020-03-23 21:41:51+00:00,2020-03-24 15:40:14-04:00
+{{cookiecutter.project_slug}}/requirements/base.txt,browniebroke,Andrew-Chen-Wang,2020-04-29 12:00:30+01:00,2020-04-29 15:56:09-04:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Andrew-Chen-Wang,browniebroke,2020-04-29 16:42:24-04:00,2020-04-30 12:00:30+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Aadith PM,pyup-bot,2020-07-17 08:37:15-05:00,2020-07-17 07:46:56-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,pyup-bot,2020-07-24 16:54:39+01:00,2020-07-24 09:58:28-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Simon Rey,2020-11-18 13:53:32-08:00,2020-11-19 20:16:56+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,pyup-bot,2020-11-21 11:44:46+00:00,2020-11-22 02:00:45-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,pyup-bot,2020-12-02 14:02:54+00:00,2020-12-02 06:09:49-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,areski,2021-02-21 06:12:17-08:00,2021-02-21 17:55:05+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Bruno Alla,2021-09-02 13:43:44-07:00,2021-09-03 18:24:19+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,pyup-bot,2021-09-03 18:24:19+01:00,2021-09-04 09:05:57-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Bruno Alla,2021-09-11 09:42:13-07:00,2021-09-11 18:12:33+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2021-11-15 09:06:22-08:00,2021-11-16 10:02:24+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,Bruno Alla,2021-12-13 20:50:17+00:00,2021-12-14 09:20:31+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2022-01-03 18:01:40+00:00,2022-01-04 04:57:54-08:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2022-06-04 18:21:44+01:00,2022-06-04 19:14:56+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2022-07-27 00:04:37+01:00,2022-07-27 05:11:57-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2022-09-26 16:03:39+01:00,2022-09-26 08:58:07-07:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,Bruno Alla,2022-10-19 19:48:56+01:00,2022-10-19 20:01:43+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Jelmer,pyup.io bot,2023-04-04 22:10:17+01:00,2023-04-05 14:57:59+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Bruno Alla,pyup.io bot,2023-05-04 09:02:02+01:00,2023-05-04 09:12:00+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,Jelmer Draaijer,2023-06-14 13:54:22+01:00,2023-06-14 15:26:44+02:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Jelmer Draaijer,pyup.io bot,2023-06-14 15:26:44+02:00,2023-06-14 20:49:07+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2023-06-16 14:55:01+01:00,2023-06-16 21:10:09+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2024-02-07 12:07:37+00:00,2024-02-07 13:53:26+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,Jelmer Draaijer,pyup.io bot,2024-02-08 16:52:16+01:00,2024-02-09 10:46:52+00:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2024-05-27 14:40:28+01:00,2024-05-28 08:41:57+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2024-07-30 17:41:25+01:00,2024-07-31 14:59:08+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2024-09-02 15:44:46-03:00,2024-09-03 19:44:32+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup.io bot,pyup-bot,2024-09-27 11:48:35+01:00,2024-09-27 15:41:53-03:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2024-09-27 15:41:53-03:00,2024-09-28 16:19:23+01:00
+{{cookiecutter.project_slug}}/requirements/base.txt,pyup-bot,pyup.io bot,2024-10-29 12:00:39+00:00,2024-10-30 07:47:48+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Fábio C. Barrionuevo da Luz,2016-09-29 01:48:42-03:00,2016-09-29 02:11:45-03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Fábio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2016-09-29 02:11:45-03:00,2016-09-29 13:12:11-03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2016-10-01 08:09:52-07:00,2016-10-01 09:20:26-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2017-05-06 14:48:47+02:00,2017-05-06 05:49:21-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2017-10-24 21:12:37+03:00,2017-10-24 13:13:22-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2017-10-31 06:53:43-07:00,2017-10-31 20:04:21+03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,Nikita Shupeyko,2018-03-08 19:03:18+03:00,2018-03-09 12:57:32+03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2018-04-25 03:24:51-07:00,2018-04-26 09:06:35+08:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2018-09-06 10:19:59+08:00,2018-09-06 18:39:21-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2018-09-06 18:39:21-07:00,2018-09-07 08:37:37+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2018-09-07 08:37:37+00:00,2018-09-07 09:34:37-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2018-11-12 16:08:48-08:00,2018-11-13 15:24:27+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2019-01-12 23:34:49-08:00,2019-01-13 16:48:11+03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2019-01-22 14:30:50+03:00,2019-01-22 11:58:06-08:00
+{{cookiecutter.project_slug}}/requirements/local.txt,hanasuhail,browniebroke,2019-03-26 17:16:40-04:00,2019-03-27 11:00:31+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,browniebroke,Bruno Alla,2019-04-04 12:00:33+01:00,2019-04-04 15:03:49+02:00
+{{cookiecutter.project_slug}}/requirements/local.txt,browniebroke,Bruno Alla,2019-06-14 12:00:33+01:00,2019-06-14 12:49:02+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,browniebroke,leollon,2019-10-29 11:00:32+00:00,2019-10-29 22:48:39+08:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Jelmert,browniebroke,2019-12-03 11:19:01+01:00,2019-12-03 11:00:42+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Bruno Alla,Daniel Hillier,2020-01-11 16:10:14+00:00,2020-01-13 01:57:20+11:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Daniel Hillier,browniebroke,2020-01-13 01:57:20+11:00,2020-01-13 11:00:33+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,browniebroke,Bruno Alla,2020-02-25 11:00:36+00:00,2020-02-25 20:58:45+08:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Bruno Alla,browniebroke,2020-03-03 20:04:31+00:00,2020-03-04 11:00:36+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,browniebroke,Bruno Alla,2020-04-06 13:36:42+01:00,2020-04-06 13:36:42+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,browniebroke,Yotam Tal,2020-04-20 12:00:32+01:00,2020-04-21 13:45:30+03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Andrew-Chen-Wang,Hannah Lazarus,2020-04-29 15:56:09-04:00,2020-04-30 13:23:24-04:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Bruno Alla,2020-06-29 13:44:24-07:00,2020-06-29 22:46:16+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,enchance,pyup-bot,2020-07-24 00:53:56+08:00,2020-07-24 09:10:59-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Bruno Alla,2020-07-24 09:10:59-07:00,2020-07-24 17:38:29+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Bruno Alla,2020-09-06 19:12:31-07:00,2020-09-07 14:23:02+02:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Bruno Alla,2020-10-01 08:58:53-07:00,2020-10-01 17:07:17+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,umgelurgel,pyup-bot,2020-11-12 18:53:29+01:00,2020-11-12 13:10:45-08:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Dalton Rardin,2021-10-11 15:49:24-07:00,2021-10-11 20:41:32-05:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,Bruno Alla,2022-02-07 14:53:48+00:00,2022-02-07 15:40:53+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Bruno Alla,pyup.io bot,2022-02-07 15:40:53+00:00,2022-02-07 17:19:52+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2022-05-24 04:47:13-07:00,2022-05-24 22:32:56+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,monosans,2022-07-26 23:52:21+01:00,2022-07-27 00:12:18+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,monosans,pyup-bot,2022-07-27 00:12:18+01:00,2022-07-26 16:55:58-07:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2022-07-26 16:55:58-07:00,2022-07-27 21:05:17+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2023-01-02 16:43:37-08:00,2023-01-03 15:31:12-03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2023-06-07 09:55:19+01:00,2023-06-07 10:17:09+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Andrew Chen Wang,monosans,2023-06-27 16:40:43-04:00,2023-06-27 22:52:36+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,monosans,pyup.io bot,2023-06-27 22:52:36+01:00,2023-06-27 22:52:58+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,Bruno Alla,2023-08-14 10:53:37+01:00,2023-08-14 11:59:28+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Bruno Alla,pyup.io bot,2023-08-14 11:59:28+01:00,2023-08-14 12:00:40+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2023-09-06 20:13:07+01:00,2023-09-06 20:30:00+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2023-09-06 20:30:00+01:00,2023-09-06 22:18:05+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2023-10-04 09:40:42+01:00,2023-10-04 23:50:21+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2023-10-17 22:28:27+01:00,2023-10-18 08:43:05+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2023-11-08 13:31:26+00:00,2023-11-09 08:55:09+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-01-27 10:17:24+00:00,2024-01-28 02:11:53+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,Jelmer Draaijer,2024-02-13 10:25:10+00:00,2024-02-13 11:59:54+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-02-24 13:50:30+01:00,2024-02-25 02:12:07+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2024-04-24 15:35:31+01:00,2024-04-25 10:08:26+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-07-15 10:54:04+01:00,2024-07-15 09:26:43-03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2024-07-15 09:26:43-03:00,2024-07-16 10:14:56+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-07-16 10:14:56+01:00,2024-07-16 21:57:28-03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Bruno Alla,pyup.io bot,2024-07-31 15:02:59+01:00,2024-07-31 15:14:24+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-08-28 18:26:55+01:00,2024-08-29 11:51:28-03:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2024-08-29 11:51:28-03:00,2024-08-29 20:23:17+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Will,2024-09-02 15:44:22-03:00,2024-09-03 08:54:26+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,Will,pyup.io bot,2024-09-03 08:54:26+01:00,2024-09-03 11:40:37+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-09-23 15:13:20+02:00,2024-09-23 20:40:11+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-10-24 19:48:35+01:00,2024-10-25 03:25:21+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,Bruno Alla,2024-10-25 03:25:21+01:00,2024-10-25 09:01:28+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2024-10-26 12:57:56+01:00,2024-10-26 20:41:35+01:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2024-11-28 10:27:33-03:00,2024-11-29 08:51:35+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2025-01-10 14:17:10+00:00,2025-01-11 12:00:31+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup-bot,pyup.io bot,2025-01-11 12:00:31+00:00,2025-01-11 12:08:23+00:00
+{{cookiecutter.project_slug}}/requirements/local.txt,pyup.io bot,pyup-bot,2025-03-15 10:23:52+00:00,2025-03-15 08:43:43-03:00
+{{cookiecutter.project_slug}}/requirements/production.txt,Daniel Roy Greenfeld,requires.io,2016-06-05 10:47:07-07:00,2016-06-05 16:30:20-07:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup-bot,pyup.io bot,2016-06-28 02:09:40+08:00,2016-06-28 12:22:48+08:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup.io bot,pyup-bot,2016-11-02 10:11:38+01:00,2016-11-02 12:20:40-07:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup-bot,pyup.io bot,2017-05-25 15:02:53-07:00,2017-05-26 23:22:55+03:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup-bot,pyup.io bot,2018-02-05 18:26:06-08:00,2018-02-07 02:52:44+03:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup.io bot,pyup-bot,2018-02-08 23:46:03+03:00,2018-02-08 15:26:11-08:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup-bot,Bruno Alla,2018-02-08 15:26:11-08:00,2018-02-09 13:00:20+00:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup.io bot,Nikita Shupeyko,2018-03-09 10:54:56+03:00,2018-03-09 12:57:32+03:00
+{{cookiecutter.project_slug}}/requirements/production.txt,Bruno Alla,pyup.io bot,2018-03-16 16:32:43-05:00,2018-03-17 22:29:44+08:00
+{{cookiecutter.project_slug}}/requirements/production.txt,Bruno Alla,anuj,2019-04-04 15:04:57+02:00,2019-04-05 12:42:39+05:30
+{{cookiecutter.project_slug}}/requirements/production.txt,Bruno Alla,pyup-bot,2020-07-24 17:38:29+01:00,2020-07-24 09:58:27-07:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup-bot,pyup.io bot,2023-10-31 13:22:58+00:00,2023-10-31 18:22:04+00:00
+{{cookiecutter.project_slug}}/requirements/production.txt,pyup.io bot,Bruno Alla,2024-07-09 08:45:08+01:00,2024-07-09 09:11:15+01:00
+{{cookiecutter.project_slug}}/requirements/test.txt,pyup.io bot,pyup-bot,2016-11-21 16:07:41+01:00,2016-11-21 14:49:40-08:00
+{{cookiecutter.project_slug}}/requirements/test.txt,pyup.io bot,pyup-bot,2017-10-24 21:13:10+03:00,2017-10-24 13:13:12-07:00
+{{cookiecutter.project_slug}}/setup.cfg,Jelmer,Bruno Alla,2023-04-15 11:42:33+01:00,2023-04-15 15:43:04+01:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/templates/account/email.html,Daniel Roy Greenfeld,Michael Luk,2016-08-24 19:31:13-07:00,2016-08-25 13:27:25+05:30
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/templates/bootstrap4/field.html,Daniel Roy Greenfeld,Philip Deuchler,2016-08-26 10:40:18-07:00,2016-08-26 12:35:48-07:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/templates/bootstrap4/layout/field_errors_block.html,Daniel Roy Greenfeld,Philip Deuchler,2016-08-26 10:40:18-07:00,2016-08-26 12:35:48-07:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/admin.py,Andrew Chen Wang,Bruno Alla,2021-01-25 11:20:34-05:00,2021-01-25 21:08:33+00:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/api/serializers.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 15:43:04+01:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/apps.py,Daniel Roy Greenfeld,Nikita P. Shupeyko,2018-03-06 10:52:45-05:00,2018-03-06 19:54:20+03:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/tests/test_drf_urls.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 15:43:04+01:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/tests/test_drf_views.py,Pilhwan Kim,Bruno Alla,2020-04-28 12:41:51+09:00,2020-04-28 23:18:52+01:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/tests/test_drf_views.py,Bruno Alla,Leon Kim,2020-04-28 23:18:52+01:00,2020-04-29 08:41:33+09:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/tests/test_drf_views.py,Leon Kim,Pilhwan Kim,2020-04-29 08:41:33+09:00,2020-04-29 08:54:32+09:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/tests/test_drf_views.py,Pilhwan Kim,Bruno Alla,2020-04-29 08:54:32+09:00,2020-04-29 09:23:27+01:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/tests/test_urls.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 15:43:04+01:00
+{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/users/views.py,Andrew Chen Wang,Bruno Alla,2023-04-15 11:53:15+01:00,2023-04-15 15:43:04+01:00
+{{cookiecutter.repo_name}}/.gitignore,Audrey Roy Greenfeld,Tom Atkins,2015-11-17 21:05:28-08:00,2015-11-18 11:16:44+00:00
+{{cookiecutter.repo_name}}/Dockerfile,Audrey Roy Greenfeld,Jay,2015-10-03 20:06:33-07:00,2015-10-04 12:13:42+02:00
+{{cookiecutter.repo_name}}/Dockerfile,Jannis Gebauer,Burhan Khalid,2016-01-08 10:15:37+01:00,2016-01-08 13:21:45+03:00
+{{cookiecutter.repo_name}}/Dockerfile-dev,Audrey Roy Greenfeld,Jay,2015-10-03 20:06:33-07:00,2015-10-04 12:13:42+02:00
+{{cookiecutter.repo_name}}/README.rst,Daniel Greenfeld,Lukas Klein,2013-08-19 22:19:36+02:00,2013-08-20 16:03:33+02:00
+{{cookiecutter.repo_name}}/README.rst,jmunro,Daniel Greenfeld,2013-09-21 21:59:53-06:00,2013-09-22 14:42:56+02:00
+{{cookiecutter.repo_name}}/README.rst,Daniel Greenfeld,Fábio C. Barrioneuvo da Luz,2014-05-02 09:04:00-07:00,2014-05-02 16:49:26-03:00
+{{cookiecutter.repo_name}}/README.rst,Jay,Chris Franklin,2014-10-12 10:32:17+02:00,2014-10-12 15:59:17+01:00
+{{cookiecutter.repo_name}}/README.rst,Jay,jayfk,2015-07-21 10:42:31+02:00,2015-07-21 11:27:50+02:00
+{{cookiecutter.repo_name}}/README.rst,Audrey Roy,Colm O'Connor,2015-08-03 22:31:39-07:00,2015-08-04 23:47:37+08:00
+{{cookiecutter.repo_name}}/README.rst,Daniel Roy Greenfeld,Adam Bogdał,2015-08-31 21:25:23-07:00,2015-09-01 20:35:43+02:00
+{{cookiecutter.repo_name}}/app.json,Daniel Roy Greenfeld,Amjith Ramanujam,2015-10-03 15:01:35-07:00,2015-10-04 05:06:20-07:00
+{{cookiecutter.repo_name}}/config/settings/common.py,Ger Schinkel,Fabio C. Barrionuevo da Luz,2015-05-07 22:46:58+02:00,2015-05-07 23:13:49-03:00
+{{cookiecutter.repo_name}}/config/settings/common.py,Audrey Roy Greenfeld,Daniel Roy Greenfeld,2015-10-25 17:30:36-05:00,2015-10-25 17:37:34-07:00
+{{cookiecutter.repo_name}}/config/settings/production.py,Daniel Roy Greenfeld,Amjith Ramanujam,2015-10-03 17:08:11-07:00,2015-10-04 05:06:20-07:00
+{{cookiecutter.repo_name}}/config/urls.py,Daniel Roy Greenfeld,Fábio C. Barrionuevo da Luz,2015-10-03 14:54:29-07:00,2015-10-03 19:35:27-03:00
+{{cookiecutter.repo_name}}/dev.yml,Audrey Roy Greenfeld,Jay,2015-10-03 20:06:33-07:00,2015-10-04 12:13:42+02:00
+{{cookiecutter.repo_name}}/docker-compose.yml,Jannis Gebauer,Krzysztof Szumny,2016-04-12 15:36:13+02:00,2016-04-13 01:16:50+02:00
+{{cookiecutter.repo_name}}/env.example,Daniel Roy Greenfeld,Audrey Roy Greenfeld,2015-10-15 09:29:43-07:00,2015-10-15 14:40:12-07:00
+{{cookiecutter.repo_name}}/env.example,Chris Pappalardo,Jay,2015-11-06 10:23:44-08:00,2015-11-07 19:04:19+01:00
+{{cookiecutter.repo_name}}/requirements/base.txt,Daniel Greenfeld,Alberto Sanchez,2014-09-03 10:05:57-07:00,2014-09-03 12:49:34-04:30
+{{cookiecutter.repo_name}}/requirements/local.txt,Martin Blech,Saurabh Kumar,2014-12-18 18:29:02-03:00,2014-12-19 14:41:23+05:30
+{{cookiecutter.repo_name}}/requirements/local.txt,Fábio C. Barrionuevo da Luz,Fabio Caritas Barrionuevo da Luz,2015-03-09 11:58:59-03:00,2015-03-10 11:39:58-03:00
+{{cookiecutter.repo_name}}/requirements/local.txt,Burhan Khalid,Daniel Greenfeld,2015-07-16 07:44:49+03:00,2015-07-16 15:35:16-07:00
+{{cookiecutter.repo_name}}/requirements/local.txt,Fabio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz,2015-11-04 23:24:49-03:00,2015-11-05 10:02:05-03:00
+{{cookiecutter.repo_name}}/requirements/production.txt,Fabio C. Barrioneuvo da Luz,Saurabh Kumar,2014-12-18 12:19:56-03:00,2014-12-19 14:41:23+05:30
+{{cookiecutter.repo_name}}/requirements/production.txt,Jon Miller,Jannis Gebauer,2015-11-22 15:42:35-06:00,2015-11-22 23:24:25+01:00
+{{cookiecutter.repo_name}}/runtime.txt,yunti,stepmr,2015-12-11 14:43:30+00:00,2015-12-11 17:42:30-08:00
+{{cookiecutter.repo_name}}/tests/hitchreqs.txt,Fabio C. Barrioneuvo da Luz,Fábio C. Barrionuevo da Luz,2015-11-24 20:14:01-03:00,2015-11-25 09:35:17-03:00
+{{cookiecutter.repo_name}}/tests/hitchreqs.txt,Colm O'Connor,Fabio C. Barrioneuvo da Luz,2016-02-06 16:29:10+00:00,2016-02-07 02:44:19-03:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/common.py,Bernd Meyer,Eyad Sibai,2014-10-03 12:12:59-07:00,2014-10-04 13:58:31+05:30
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/common.py,Martin Blech,Chris Franklin,2014-12-02 17:30:46-03:00,2014-12-03 15:07:22+00:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/common.py,Adam Dobrawy,Saurabh Kumar,2015-04-25 00:02:18+02:00,2015-04-25 18:59:33+05:30
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/production.py,Saurabh Kumar,Kaveh,2015-04-20 18:03:58+05:30,2015-04-20 13:05:01-05:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/production.py,Lin Xianyi,Kaveh,2015-04-24 11:37:50+08:00,2015-04-24 13:32:37-05:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/production.py,Kaveh,Saurabh Kumar,2015-04-24 13:32:37-05:00,2015-04-25 18:59:33+05:30
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/settings.py,Daniel Greenfeld,Albrecht Mühlenschulte,2013-08-16 21:23:16+02:00,2013-08-17 19:24:26+02:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/settings.py,Albrecht Mühlenschulte,Daniel Greenfeld,2013-08-17 19:24:26+02:00,2013-08-18 09:44:26+02:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/config/settings.py,Daniel Greenfeld,jmunro,2013-09-22 14:42:56+02:00,2013-09-22 22:15:37-06:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/taskapp/celery.py,Daniel Greenfeld,Fabio C. Barrionuevo da Luz,2015-09-13 14:01:51-07:00,2015-09-13 19:09:23-03:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/templates/base.html,Audrey Roy,Daniel Greenfeld,2015-07-13 19:28:42-07:00,2015-07-14 13:23:26-07:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/templates/base.html,Audrey Roy Greenfeld,Fabio C. Barrionuevo da Luz,2015-08-30 15:41:46-07:00,2015-08-30 23:29:57-03:00
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/templates/users/user_list.html,Daniel Greenfeld,Fábio C. Barrionuevo da Luz,2015-07-15 12:00:20-07:00,2015-07-15 16:53:44-03:00

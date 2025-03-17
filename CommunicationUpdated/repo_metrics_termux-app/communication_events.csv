@@ -1,0 +1,59 @@
+file,author1,author2,time1,time2
+.github/workflows/debug_build.yml,Sushrut1101,daywalk3r666,2022-10-13 10:56:35+03:00,2022-10-14 10:02:36+03:00
+README.md,Nicola Spanti (RyDroid),Fredrik Fornwall,2015-11-07 19:39:13+01:00,2015-11-07 23:09:52+01:00
+README.md,Kevin Williams,maheshnikam,2023-05-02 07:20:35+08:00,2023-05-02 07:20:35+08:00
+app/build.gradle,Fredrik Fornwall,Leonid Plyushch,2019-10-20 20:16:48+02:00,2019-10-20 22:06:18+03:00
+app/build.gradle,Leonid Plyushch,Fredrik Fornwall,2020-02-09 12:34:11+02:00,2020-02-09 22:59:33+01:00
+app/build.gradle,Fredrik Fornwall,Leonid Pliushch,2020-05-24 01:27:01+02:00,2020-05-24 02:44:06+03:00
+app/build.gradle,Emil Velikov,Leonid Pliushch,2021-02-03 17:29:13+02:00,2021-02-03 23:15:26+02:00
+app/build.gradle,agnostic-apollo,Leonid Pliushch,2021-04-12 20:20:26+05:00,2021-04-13 13:34:11+03:00
+app/build.gradle,Leonid Pliushch,agnostic-apollo,2021-04-13 13:34:11+03:00,2021-04-13 16:09:31+05:00
+app/build.gradle,Leonid Pliushch,agnostic-apollo,2021-05-16 19:40:25+03:00,2021-05-16 23:44:43+05:00
+app/build.gradle,agnostic-apollo,Leonid Pliushch,2021-06-30 06:17:26+05:00,2021-06-30 12:20:57+03:00
+app/build.gradle,Leonid Pliushch,agnostic-apollo,2021-06-30 12:20:57+03:00,2021-07-01 05:15:34+05:00
+app/build.gradle,Leonid Pliushch,Henrik Grimler,2022-01-23 01:36:41+05:00,2022-01-23 01:36:41+05:00
+app/build.gradle,Henrik Grimler,agnostic-apollo,2022-01-23 01:36:41+05:00,2022-01-23 01:36:41+05:00
+app/build.gradle,Henrik Grimler,tareksander,2022-04-21 21:55:09+02:00,2022-04-23 00:36:12+05:00
+app/build.gradle,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:39:00+05:00
+app/build.gradle,agnostic-apollo,Henrik Grimler,2022-05-24 01:19:45+05:00,2022-05-24 01:19:45+05:00
+app/src/main/AndroidManifest.xml,Josh Home,Leonid Pliushch,2020-06-09 12:31:59+03:00,2020-06-09 15:36:08+03:00
+app/src/main/java/com/termux/app/BackgroundJob.java,Leonid Plyushch,Archenoth,2020-01-05 00:38:49+01:00,2020-01-05 01:07:11+01:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,david,xqdoo00o,2018-06-22 00:29:51+02:00,2018-06-22 00:29:51+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,xqdoo00o,david,2018-06-22 00:29:51+02:00,2018-06-22 00:29:51+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,david,xqdoo00o,2018-06-22 00:29:51+02:00,2018-06-22 00:29:51+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,xqdoo00o,David xu,2018-06-22 00:29:51+02:00,2018-06-22 00:29:51+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,neverwin,Henrik Grimler,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,Henrik Grimler,Robert Vanden Eynde,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,Robert Vanden Eynde,Henrik Grimler,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,Henrik Grimler,Robert Vanden Eynde,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,Robert Vanden Eynde,Henrik Grimler,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,Henrik Grimler,Robert Vanden Eynde,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/ExtraKeysView.java,Trygve Aaberge,Leonid Pliushch,2020-06-09 12:17:07+03:00,2020-06-09 22:54:57+03:00
+app/src/main/java/com/termux/app/TermuxActivity.java,neverwin,Robert Vanden Eynde,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/TermuxActivity.java,Robert Vanden Eynde,Leonid Plyushch,2018-08-28 02:34:36+02:00,2018-08-28 02:37:03+02:00
+app/src/main/java/com/termux/app/TermuxActivity.java,Leonid Plyushch,Fredrik Fornwall,2018-08-28 02:37:03+02:00,2018-08-28 02:51:11+02:00
+app/src/main/java/com/termux/app/TermuxActivity.java,Fredrik Fornwall,Leonid Plyushch,2019-01-21 00:12:07+01:00,2019-01-21 00:24:49+01:00
+app/src/main/java/com/termux/app/TermuxActivity.java,Leonid Plyushch,Fredrik Fornwall,2019-01-21 00:24:49+01:00,2019-01-21 00:33:03+01:00
+app/src/main/java/com/termux/app/TermuxApplication.java,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:36:12+05:00
+app/src/main/java/com/termux/app/TermuxInstaller.java,agnostic-apollo,Leonid Pliushch,2021-07-10 16:00:28+05:00,2021-07-10 18:25:50+03:00
+app/src/main/java/com/termux/app/TermuxPreferences.java,neverwin,Henrik Grimler,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/TermuxPreferences.java,Henrik Grimler,Robert Vanden Eynde,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/TermuxPreferences.java,Robert Vanden Eynde,Henrik Grimler,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/TermuxPreferences.java,Henrik Grimler,Robert Vanden Eynde,2018-08-28 02:34:36+02:00,2018-08-28 02:34:36+02:00
+app/src/main/java/com/termux/app/TermuxPreferences.java,Fredrik Fornwall,Leonid Plyushch,2019-01-20 23:50:49+01:00,2019-01-21 00:24:49+01:00
+app/src/main/java/com/termux/app/TermuxPreferences.java,Leonid Plyushch,Fredrik Fornwall,2019-01-21 00:24:49+01:00,2019-01-21 00:33:03+01:00
+app/src/main/java/com/termux/app/TermuxService.java,Leonid Plyushch,Fredrik Fornwall,2019-06-09 14:31:09+03:00,2019-06-09 20:00:17+02:00
+app/src/main/res/layout/drawer_layout.xml,Trygve Aaberge,Fredrik Fornwall,2019-01-11 00:32:22+01:00,2019-01-11 21:19:06+01:00
+build.gradle,Fredrik Fornwall,Jonas L,2018-06-11 12:23:52+02:00,2018-06-11 12:26:35+02:00
+build.gradle,Jonas L,l-jonas,2018-06-11 12:26:35+02:00,2018-06-11 12:26:35+02:00
+terminal-emulator/src/main/java/com/termux/terminal/TerminalSession.java,Krunal Patel,Fredrik Fornwall,2024-09-26 15:09:09+02:00,2024-09-26 21:53:52+02:00
+terminal-view/src/main/java/com/termux/view/TerminalView.java,david,David xu,2018-06-22 00:29:51+02:00,2018-06-22 00:29:51+02:00
+terminal-view/src/main/java/com/termux/view/TerminalView.java,mao,Leonid Plyushch,2019-12-18 14:00:58+02:00,2019-12-18 14:06:06+02:00
+terminal-view/src/main/java/com/termux/view/TerminalView.java,Leonid Plyushch,mao,2019-12-18 14:06:06+02:00,2019-12-18 23:50:23+08:00
+terminal-view/src/main/java/com/termux/view/TerminalView.java,rakslice,Leonid Pliushch,2021-01-16 19:54:11-08:00,2021-01-17 19:40:29+02:00
+terminal-view/src/main/java/com/termux/view/TerminalView.java,Krunal Patel,Artem Chepurnyi,2024-09-26 15:09:09+02:00,2024-09-26 20:34:18+05:00
+termux-shared/build.gradle,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:39:00+05:00
+termux-shared/src/main/cpp/Android.mk,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:36:12+05:00
+termux-shared/src/main/cpp/local-filesystem-socket.cpp,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:36:12+05:00
+termux-shared/src/main/java/com/termux/shared/shell/LocalFilesystemSocket.java,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:36:12+05:00
+termux-shared/src/main/java/com/termux/shared/shell/LocalSocketListener.java,tareksander,agnostic-apollo,2022-04-23 00:36:12+05:00,2022-04-23 00:36:12+05:00

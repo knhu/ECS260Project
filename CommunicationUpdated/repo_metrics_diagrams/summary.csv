@@ -1,0 +1,127 @@
+Field,Value
+Commits Overview,
+Total Commits,617
+Total Unique Authors,168
+,
+Top 10 Contributors,
+Author,Commits
+MinJae Kwon,1852
+mingrammer,1155
+gabriel-tessier,751
+Lucian Fratila,232
+Tetsuya Shinone,225
+MalarvizhiK,199
+David Dansby,184
+Alexandre Gacon,174
+Prodesire,111
+Nicolas Lamirault,90
+,
+Communication Events,Total: 100
+"Author1,Author2",Events
+"mingrammer,MinJae Kwon",7
+"McSly,mingrammer",4
+"Taylor Reece,mingrammer",4
+"dependabot[bot],mingrammer",4
+"Dov Benyomin Sohacheski,MinJae Kwon",3
+"MinJae Kwon,mingrammer",3
+"mingrammer,Brian Glogower",3
+"Filipe Oliveira,Phước Trần",2
+"Garrett Hyde,Leandro Damascena",2
+"Andrew Selivanov,mingrammer",2
+"gabriel-tessier,Patryk Orwat",2
+"Dov Benyomin Sohacheski,Shiplu Mokaddim",1
+"Dov Benyomin Sohacheski,Eric Winnington",1
+"Dov Benyomin Sohacheski,Adrian Zuber",1
+"David Garvey,Mathias Frey",1
+"Daniel Ferrari,mingrammer",1
+"Daniel Lemm,Slach",1
+"Austen,gabriel-tessier",1
+"Android Dev Notes,David Russell",1
+"Adrian Zuber,Gabriel Fernandes",1
+"Garrett Hyde,Aymon Delbridge",1
+"Kenny Ho,Taro Kawazoe",1
+"Gauthier Leonard,hard_coder",1
+"Fellipe Wurthmann,mingrammer",1
+"Gabriel Fernandes,Matthew Fine",1
+"Gabriel Machado,mingrammer",1
+"Felipe Chagas,Garrett Hyde",1
+"Matthew Fine,Ruslan Samoylov",1
+"Michael Savin,Valentin Panovskiy",1
+"MinJae Kwon,Gabriel Fernandes",1
+"Nathan Zender,Pei-Ming Wu",1
+"Nicolas Lamirault,Fellipe Wurthmann",1
+"Nicolas Lamirault,Leandro Damascena",1
+"Nicolas Lamirault,mingrammer",1
+"Patryk Orwat,mingrammer",1
+"Pei-Ming Wu,Jared Curtis",1
+"Phuoc Tran,Tobias Bruckert",1
+"Phuoc Tran,dependabot[bot]",1
+"Jared Curtis,Ioannis Cherouvim",1
+"Kevin Reynolds,Victor Lantier",1
+"Leandro Damascena,Nicolas Lamirault",1
+"Mathias Frey,Ryan Cheley",1
+"Eric Winnington,MinJae Kwon",1
+"Shiplu Mokaddim,MinJae Kwon",1
+"Ryan Cheley,Olaf Schusler",1
+"Rob Lazzurs,MinJae Kwon",1
+"Pierre-Yves Aillet,Viicos",1
+"Phuoc Tran,gabriel-tessier",1
+"Yazdan,Lukas Grossar",1
+"Viktor Orda,Bobby DeSimone",1
+"Slach,tessier",1
+"dave_r,Dov Benyomin Sohacheski",1
+"Yu ISHIKAWA,tessier",1
+"dependabot[bot],MinJae Kwon",1
+"davidferdinand,Alex Hofmann",1
+"gabriel-tessier,Blake Mealey",1
+"gabriel-tessier,lrjball",1
+"Stedders,mingrammer",1
+"Tobias Bruckert,mingrammer",1
+"hard_coder,dan-ash",1
+"gabriel-tessier,mingrammer",1
+"lrjball,Dov Benyomin Sohacheski",1
+"lrjball,James Garside",1
+"lrjball,dave_r",1
+"lrjball,MinJae Kwon",1
+"mingrammer,Yu ISHIKAWA",1
+"mingrammer,deadmeu",1
+"mingrammer,dependabot[bot]",1
+"outscale-mgo,Florian Dambrine",1
+"pbeaudequin,Yazdan",1
+"pd,Ermias",1
+"rajat404,mingrammer",1
+"vanife,Austen",1
+"y-tomida,Chris Skaaning",1
+"安丹梅,hard_coder",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,7
++01:00,11
++02:00,1
++03:00,2
++05:00,4
++05:30,4
++07:00,31
++08:00,1
++09:00,544
++10:00,1
++11:00,1
+-03:00,1
+-04:00,3
+-05:00,3
+-07:00,2
+-08:00,1
+,
+Contributors Experience,Average across 317 files: 83.71%
+File,Top Contributor Share (%)
+diagrams/azure/iot.py,100.00
+diagrams/azure/web.py,100.00
+diagrams/base/__init__.py,100.00
+diagrams/gcp/analytics.py,100.00
+diagrams/gcp/compute.py,100.00
+diagrams/gcp/database.py,100.00
+diagrams/gcp/devtools.py,100.00
+diagrams/gcp/iot.py,100.00
+diagrams/gcp/migration.py,100.00
+diagrams/gcp/ml.py,100.00

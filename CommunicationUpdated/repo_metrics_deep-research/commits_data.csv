@@ -1,0 +1,107 @@
+author,timestamp,file
+David Zhang,2025-02-03 17:27:56-08:00,LICENSE
+David Zhang,2025-02-03 17:33:37-08:00,.gitignore
+David Zhang,2025-02-03 17:33:37-08:00,.prettierignore
+David Zhang,2025-02-03 17:33:37-08:00,README.md
+David Zhang,2025-02-03 17:33:37-08:00,package-lock.json
+David Zhang,2025-02-03 17:33:37-08:00,package.json
+David Zhang,2025-02-03 17:33:37-08:00,prettier.config.mjs
+David Zhang,2025-02-03 17:33:37-08:00,src/ai/providers.ts
+David Zhang,2025-02-03 17:33:37-08:00,src/ai/text-splitter.test.ts
+David Zhang,2025-02-03 17:33:37-08:00,src/ai/text-splitter.ts
+David Zhang,2025-02-03 17:33:37-08:00,src/deep-research.ts
+David Zhang,2025-02-03 17:33:37-08:00,src/feedback.ts
+David Zhang,2025-02-03 17:33:37-08:00,src/prompt.ts
+David Zhang,2025-02-03 17:33:37-08:00,src/run.ts
+David Zhang,2025-02-03 17:33:37-08:00,tsconfig.json
+David Zhang,2025-02-03 17:36:12-08:00,README.md
+David Zhang,2025-02-03 17:46:28-08:00,src/run.ts
+David Zhang,2025-02-03 18:03:50-08:00,src/deep-research.ts
+David Zhang,2025-02-03 18:04:55-08:00,src/deep-research.ts
+David Zhang,2025-02-03 18:06:57-08:00,report.md
+David Zhang,2025-02-03 18:12:04-08:00,src/deep-research.ts
+David Zhang,2025-02-03 18:15:34-08:00,report.md
+alexboone,2025-02-03 20:05:48-08:00,.gitignore
+alexboone,2025-02-03 20:05:48-08:00,README.md
+alexboone,2025-02-03 20:05:48-08:00,src/deep-research.ts
+alexboone,2025-02-03 20:12:45-08:00,.gitignore
+alexboone,2025-02-03 20:41:00-08:00,README.md
+alexboone,2025-02-03 20:41:00-08:00,src/deep-research.ts
+David Zhang,2025-02-04 07:23:40-08:00,src/deep-research.ts
+David Zhang,2025-02-04 07:31:45-08:00,src/deep-research.ts
+David Zhang,2025-02-04 07:47:10-08:00,src/deep-research.ts
+David Zhang,2025-02-04 07:47:59-08:00,src/deep-research.ts
+David Zhang,2025-02-04 07:51:51-08:00,report.md
+David Zhang,2025-02-05 09:08:48-08:00,.gitignore
+David Zhang,2025-02-05 09:08:48-08:00,README.md
+David Zhang,2025-02-05 09:08:48-08:00,src/run.ts
+David Zhang,2025-02-05 11:04:42-08:00,README.md
+David Zhang,2025-02-06 09:41:51-08:00,README.md
+David Zhang,2025-02-06 11:13:41-08:00,README.md
+David Zhang,2025-02-06 11:14:23-08:00,README.md
+Ben Nasedkin,2025-02-07 01:35:20+02:00,.gitignore
+Ben Nasedkin,2025-02-07 01:35:20+02:00,src/ai/providers.ts
+Ben Nasedkin,2025-02-07 01:46:28+02:00,src/ai/providers.ts
+Ben Nasedkin,2025-02-07 01:49:32+02:00,src/deep-research.ts
+Samuel Jędrzejewski,2025-02-07 02:47:00+01:00,.env.example
+Samuel Jędrzejewski,2025-02-07 02:47:00+01:00,Dockerfile
+Samuel Jędrzejewski,2025-02-07 02:47:00+01:00,docker-compose.yml
+Samuel Jędrzejewski,2025-02-07 02:47:00+01:00,package.json.docker
+Samuel Jędrzejewski,2025-02-07 02:49:19+01:00,Dockerfile
+Samuel Jędrzejewski,2025-02-07 02:54:57+01:00,README.md
+Samuel Jędrzejewski,2025-02-07 02:58:16+01:00,.env.example
+David Zhang,2025-02-07 08:43:31-08:00,README.md
+David Zhang,2025-02-07 08:43:31-08:00,src/ai/providers.ts
+Samuel Jędrzejewski,2025-02-07 18:32:13+01:00,Dockerfile
+Samuel Jędrzejewski,2025-02-07 18:32:13+01:00,package.json
+Samuel Jędrzejewski,2025-02-07 18:32:13+01:00,package.json.docker
+Samuel Jędrzejewski,2025-02-07 18:48:30+01:00,.env.example
+Samuel Jędrzejewski,2025-02-07 18:53:09+01:00,src/ai/providers.ts
+Samuel Jędrzejewski,2025-02-07 18:53:09+01:00,src/run.ts
+Ikko Eltociear Ashimine,2025-02-09 04:28:06+09:00,src/deep-research.ts
+Wow Rakibul,2025-02-09 02:28:23+06:00,src/ai/text-splitter.test.ts
+vekoada,2025-02-08 16:39:30-07:00,README.md
+David Zhang,2025-02-08 19:38:21-08:00,src/ai/providers.ts
+Umut CAN,2025-02-09 23:06:44+03:00,src/deep-research.ts
+Umut CAN,2025-02-09 23:06:44+03:00,src/output-manager.ts
+Umut CAN,2025-02-09 23:06:44+03:00,src/progress-manager.ts
+Umut CAN,2025-02-09 23:06:44+03:00,src/run.ts
+Michael Matloka,2025-02-09 22:55:51+00:00,README.md
+David Zhang,2025-02-09 21:41:28-08:00,src/deep-research.ts
+CharlesCNorton,2025-02-11 09:45:56-05:00,README.md
+rowellz,2025-02-11 12:23:06-05:00,README.md
+rowellz,2025-02-11 12:23:06-05:00,docker-compose.yml
+rowellz,2025-02-11 12:23:06-05:00,src/ai/providers.ts
+David Zhang,2025-02-11 11:33:52-08:00,src/ai/providers.ts
+guzus,2025-02-12 23:41:15+09:00,.nvmrc
+David Zhang,2025-02-16 17:27:59-08:00,.nvmrc
+Aakash Adesara,2025-03-06 12:08:59-08:00,package-lock.json
+Aakash Adesara,2025-03-06 12:08:59-08:00,package.json
+Aakash Adesara,2025-03-06 12:08:59-08:00,src/api.ts
+Aakash Adesara,2025-03-06 12:08:59-08:00,src/deep-research.ts
+Aakash Adesara,2025-03-06 12:08:59-08:00,src/run.ts
+David Zhang,2025-03-07 13:52:35-08:00,.env.example
+David Zhang,2025-03-07 13:52:35-08:00,.gitignore
+David Zhang,2025-03-07 13:52:35-08:00,package-lock.json
+David Zhang,2025-03-07 13:52:35-08:00,package.json
+David Zhang,2025-03-07 13:52:35-08:00,src/ai/providers.ts
+David Zhang,2025-03-07 13:52:35-08:00,src/api.ts
+David Zhang,2025-03-07 13:52:35-08:00,src/deep-research.ts
+David Zhang,2025-03-07 13:52:35-08:00,src/feedback.ts
+David Zhang,2025-03-07 13:52:35-08:00,src/output-manager.ts
+David Zhang,2025-03-07 13:52:35-08:00,src/progress-manager.ts
+David Zhang,2025-03-07 13:52:35-08:00,src/run.ts
+David Zhang,2025-03-07 14:03:52-08:00,src/api.ts
+David Zhang,2025-03-07 14:03:52-08:00,src/deep-research.ts
+David Zhang,2025-03-07 14:03:52-08:00,src/output-manager.ts
+David Zhang,2025-03-07 14:03:52-08:00,src/run.ts
+David Zhang,2025-03-07 14:23:20-08:00,src/ai/providers.ts
+David Zhang,2025-03-07 14:23:20-08:00,src/run.ts
+David Zhang,2025-03-07 14:36:47-08:00,src/run.ts
+David Zhang,2025-03-07 23:23:13-08:00,README.md
+David Zhang,2025-03-07 23:31:50-08:00,.env.example
+doraeb,2025-03-10 23:52:57+08:00,src/run.ts
+David Zhang,2025-03-13 01:34:34-07:00,src/deep-research.ts
+David Zhang,2025-03-13 01:34:34-07:00,src/run.ts
+David Zhang,2025-03-13 01:49:24-07:00,src/ai/providers.ts
+David Zhang,2025-03-13 21:28:40-07:00,src/run.ts

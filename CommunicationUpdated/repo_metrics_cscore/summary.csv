@@ -1,0 +1,54 @@
+Field,Value
+Commits Overview,
+Total Commits,2580
+Total Unique Authors,17
+,
+Top 10 Contributors,
+Author,Commits
+S,10038
+Nico Walheim,157
+Henrik Brändle,135
+Nick,119
+Jeroen Haack,107
+David Brenn,102
+nino_mzl,42
+Radu-Mihai Castravet,42
+CsUtil.com,31
+ForTheeAreMaidenless,16
+,
+Communication Events,Total: 133
+"Author1,Author2",Events
+"David Brenn,Henrik Brändle",78
+"Nick,Radu-Mihai Castravet",16
+"Radu-Mihai Castravet,Nick",12
+"Nico Walheim,Jeroen Haack",11
+"Jeroen Haack,Nico Walheim",8
+"S,Nick",3
+"CsUtil.com,S",1
+"Pavlo Datsiuk,S",1
+"Ole Schönburg,S",1
+"Radu-Mihai Castravet,Leander Besting",1
+"S,CsUtil.com",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++00:00,1
++01:00,1348
++02:00,1203
++03:00,2
+-03:00,4
+-05:00,11
+-07:00,11
+,
+Contributors Experience,Average across 3243 files: 99.16%
+File,Top Contributor Share (%)
+.gitignore,100.00
+LICENSE,100.00
+CsCore/.vscode/launch.json,100.00
+CsCore/.vscode/settings.json,100.00
+CsCore/.vscode/solution-explorer/class.cs-template,100.00
+CsCore/.vscode/solution-explorer/enum.cs-template,100.00
+CsCore/.vscode/solution-explorer/interface.cs-template,100.00
+CsCore/.vscode/solution-explorer/template-list.json,100.00
+CsCore/.vscode/solution-explorer/template-parameters.js,100.00
+CsCore/.vscode/tasks.json,100.00

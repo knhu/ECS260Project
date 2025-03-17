@@ -1,0 +1,623 @@
+file,author1,author2,time1,time2
+.circleci/continue_config.yml,Jacob Nguyen,Jared Van Bortel,2024-03-19 12:20:53-04:00,2024-03-19 12:28:43-04:00
+.circleci/continue_config.yml,Jared Van Bortel,Jacob Nguyen,2024-03-19 12:28:43-04:00,2024-03-19 17:28:14-04:00
+.circleci/continue_config.yml,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+.circleci/continue_config.yml,Jared Van Bortel,John W. Parent,2024-06-25 17:22:51-04:00,2024-06-25 20:31:51-04:00
+.circleci/continue_config.yml,mcembalest,John W. Parent,2024-07-01 13:34:23-04:00,2024-07-01 17:40:02-04:00
+.codespellrc,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+.codespellrc,Adam Treat,Jacob Nguyen,2023-06-12 06:39:55-07:00,2023-06-12 15:00:20-04:00
+.codespellrc,Jacob Nguyen,Felix Zaslavskiy,2023-06-12 15:00:20-04:00,2023-06-13 00:53:27-07:00
+.gitignore,Zach Nussbaum,Adam Treat,2023-04-08 20:33:02+00:00,2023-04-08 23:28:39-04:00
+.gitmodules,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+.gitmodules,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+.gitmodules,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+CMakeLists.txt,Adam Treat,TheBloke,2023-04-14 09:05:51-04:00,2023-04-14 17:19:03+01:00
+CMakeLists.txt,Aaron Miller,Adam Treat,2023-04-16 11:16:30-04:00,2023-04-16 19:20:43-04:00
+CMakeLists.txt,Adam Treat,eachadea,2023-04-20 06:19:09-04:00,2023-04-20 06:37:54-04:00
+CMakeLists.txt,eachadea,Adam Treat,2023-04-20 06:37:54-04:00,2023-04-20 19:34:56-04:00
+CMakeLists.txt,Adam Treat,eachadea,2023-04-20 19:34:56-04:00,2023-04-21 11:25:03-04:00
+CMakeLists.txt,eachadea,Adam Treat,2023-04-21 11:25:03-04:00,2023-04-21 13:46:50-04:00
+CMakeLists.txt,Adam Treat,Aaron Miller,2023-04-24 17:44:57-04:00,2023-04-25 16:24:55-04:00
+CMakeLists.txt,Aaron Miller,Adam Treat,2023-04-25 16:24:55-04:00,2023-04-26 08:22:38-04:00
+CMakeLists.txt,Adam Treat,Aaron Miller,2023-04-28 11:03:16-04:00,2023-04-28 20:45:02-04:00
+CMakeLists.txt,Aaron Miller,Adam Treat,2023-04-28 20:45:02-04:00,2023-04-28 21:19:12-04:00
+MAINTAINERS.md,AT,Jared Van Bortel,2024-07-16 12:40:59-04:00,2024-07-16 13:59:16-04:00
+MAINTAINERS.md,Thiago Ramos,AT,2024-07-25 09:18:44-04:00,2024-07-25 15:47:20-04:00
+MAINTAINERS.md,AT,Tim453,2024-07-25 15:47:20-04:00,2024-07-25 16:05:17-04:00
+README.md,Ubuntu,Zach Nussbaum,2023-03-25 16:05:45+00:00,2023-03-25 16:43:27+00:00
+README.md,Andriy Mulyar,Zach Nussbaum,2023-03-28 16:11:43-04:00,2023-03-28 13:12:07-07:00
+README.md,Zach Nussbaum,Andriy Mulyar,2023-03-28 13:12:30-07:00,2023-03-28 16:21:09-04:00
+README.md,Andriy Mulyar,Brandon Duderstadt,2023-03-28 17:06:53-04:00,2023-03-28 17:22:11-04:00
+README.md,Brandon Duderstadt,Andriy Mulyar,2023-03-28 17:22:11-04:00,2023-03-28 17:24:46-04:00
+README.md,Andriy Mulyar,Zach Nussbaum,2023-03-28 17:25:06-04:00,2023-03-28 14:31:35-07:00
+README.md,Zach Nussbaum,Brandon Duderstadt,2023-03-28 14:31:35-07:00,2023-03-28 20:11:08-04:00
+README.md,Brandon Duderstadt,Nick Lothian,2023-03-28 20:11:08-04:00,2023-03-29 10:42:49+10:30
+README.md,Nick Lothian,Daryl,2023-03-29 10:42:49+10:30,2023-03-29 02:40:34+02:00
+README.md,Daryl,Brandon Duderstadt,2023-03-29 02:40:34+02:00,2023-03-28 21:07:04-04:00
+README.md,Brandon Duderstadt,mazzzystar,2023-03-28 21:07:04-04:00,2023-03-29 10:29:19+08:00
+README.md,mazzzystar,David Ernst,2023-03-29 10:29:19+08:00,2023-03-29 03:18:23-05:00
+README.md,David Ernst,EliasVincent,2023-03-29 03:18:23-05:00,2023-03-29 12:48:13+02:00
+README.md,EliasVincent,Hello1024,2023-03-29 12:48:13+02:00,2023-03-29 13:49:32+01:00
+README.md,Hello1024,Andriy Mulyar,2023-03-29 13:49:32+01:00,2023-03-29 09:55:18-04:00
+README.md,Andriy Mulyar,Alex Nguyen,2023-03-29 09:55:18-04:00,2023-03-29 20:59:13+07:00
+README.md,Alex Nguyen,Andriy Mulyar,2023-03-29 20:59:13+07:00,2023-03-29 10:47:19-04:00
+README.md,Andriy Mulyar,Brandon Duderstadt,2023-03-29 17:22:05-04:00,2023-03-29 22:36:43-04:00
+README.md,Brandon Duderstadt,Feldwor,2023-03-29 22:36:43-04:00,2023-03-30 16:56:12+03:00
+README.md,Feldwor,Andriy Mulyar,2023-03-30 16:56:12+03:00,2023-03-30 10:30:50-04:00
+README.md,Andriy Mulyar,Feldwor,2023-03-30 10:30:50-04:00,2023-03-30 17:32:17+03:00
+README.md,Feldwor,Andriy Mulyar,2023-03-30 17:32:17+03:00,2023-03-30 10:32:52-04:00
+README.md,Andriy Mulyar,Feldwor,2023-03-30 10:32:52-04:00,2023-03-30 17:40:43+03:00
+README.md,Feldwor,bstadt,2023-03-30 17:40:43+03:00,2023-03-30 11:10:07-04:00
+README.md,bstadt,Andriy Mulyar,2023-03-30 12:32:14-04:00,2023-03-30 12:54:28-04:00
+README.md,Andriy Mulyar,Benjamin Schmidt,2023-03-30 12:54:28-04:00,2023-03-30 13:46:03-04:00
+README.md,Benjamin Schmidt,Ettore Di Giacinto,2023-03-30 13:47:04-04:00,2023-03-30 21:51:40+02:00
+README.md,Ettore Di Giacinto,Yuvanesh-ux,2023-03-30 21:51:40+02:00,2023-03-30 17:53:24-04:00
+README.md,Yuvanesh-ux,Sajjad,2023-03-30 17:53:24-04:00,2023-03-31 02:48:14-05:00
+README.md,Sajjad,Andriy Mulyar,2023-03-31 02:50:02-05:00,2023-03-31 12:29:38-04:00
+README.md,Andriy Mulyar,HiraduNakamura,2023-03-31 12:29:38-04:00,2023-03-31 20:26:09-04:00
+README.md,Chris Messina,Jo Liss,2023-04-01 21:24:19-07:00,2023-04-02 19:19:02+03:00
+README.md,Jo Liss,Andriy Mulyar,2023-04-02 19:19:02+03:00,2023-04-03 01:50:43-04:00
+README.md,Andriy Mulyar,Malik M Alnakhaleh,2023-04-03 01:50:43-04:00,2023-04-03 20:09:51-04:00
+README.md,Dillon Erb,Andriy Mulyar,2023-04-06 18:11:05-04:00,2023-04-07 10:47:15-04:00
+README.md,Adam Treat,adtreat,2023-04-08 23:28:39-04:00,2023-04-08 23:41:49-04:00
+README.md,adtreat,Adam Treat,2023-04-08 23:41:49-04:00,2023-04-08 23:46:23-04:00
+README.md,Adam Treat,adtreat,2023-04-09 00:03:15-04:00,2023-04-09 01:35:19-04:00
+README.md,adtreat,Adam Treat,2023-04-12 08:59:50-04:00,2023-04-13 07:13:04-04:00
+README.md,Adam Treat,Zach Nussbaum,2023-04-13 07:14:23-04:00,2023-04-13 15:16:31+00:00
+README.md,Zach Nussbaum,Andriy Mulyar,2023-04-13 15:16:31+00:00,2023-04-13 12:17:58-04:00
+README.md,Andriy Mulyar,Zach Nussbaum,2023-04-13 12:57:12-04:00,2023-04-13 17:41:07+00:00
+README.md,Zach Nussbaum,Andriy Mulyar,2023-04-13 17:59:19+00:00,2023-04-13 14:33:52-04:00
+README.md,Andriy Mulyar,Yuvanesh-ux,2023-04-13 14:33:52-04:00,2023-04-13 15:48:52-04:00
+README.md,Yuvanesh-ux,Andriy Mulyar,2023-04-13 15:48:52-04:00,2023-04-13 16:05:43-04:00
+README.md,Andriy Mulyar,Zach Nussbaum,2023-04-13 16:34:14-04:00,2023-04-13 20:55:49+00:00
+README.md,Zach Nussbaum,AT,2023-04-13 14:20:19-07:00,2023-04-13 17:37:18-04:00
+README.md,AT,Benjamin Schmidt,2023-04-13 17:37:18-04:00,2023-04-13 17:42:01-04:00
+README.md,Benjamin Schmidt,Zach Nussbaum,2023-04-13 17:42:01-04:00,2023-04-13 14:56:24-07:00
+README.md,Zach Nussbaum,Andriy Mulyar,2023-04-13 15:22:03-07:00,2023-04-13 18:22:53-04:00
+README.md,Andriy Mulyar,AT,2023-04-13 18:22:53-04:00,2023-04-13 18:57:33-04:00
+README.md,AT,Zach Nussbaum,2023-04-13 20:15:15-04:00,2023-04-13 19:04:42-07:00
+README.md,AT,TheBloke,2023-04-16 11:53:02-04:00,2023-04-16 12:52:23-04:00
+README.md,TheBloke,AT,2023-04-16 12:52:23-04:00,2023-04-17 09:02:26-04:00
+README.md,AT,Pavol Rusnak,2023-04-17 09:02:26-04:00,2023-04-17 16:45:29-04:00
+README.md,Pavol Rusnak,AT,2023-04-17 16:45:29-04:00,2023-04-17 18:14:42-04:00
+README.md,Zach Nussbaum,Tom Jobbins,2023-04-19 11:35:08-07:00,2023-04-20 14:15:07-04:00
+README.md,Tom Jobbins,AT,2023-04-20 14:15:07-04:00,2023-04-20 18:56:38-04:00
+README.md,Matthieu Talbot,AT,2023-04-24 19:00:15-04:00,2023-04-25 09:01:31-04:00
+README.md,AT,Berkant,2023-04-29 17:49:18-04:00,2023-04-30 01:07:14+03:00
+README.md,Berkant,AT,2023-04-30 01:07:14+03:00,2023-04-30 07:02:01-04:00
+README.md,AT,Andriy Mulyar,2023-05-10 09:09:29-04:00,2023-05-10 12:05:42-04:00
+README.md,Andriy Mulyar,AT,2023-05-10 12:05:42-04:00,2023-05-10 12:17:57-04:00
+README.md,AT,Andriy Mulyar,2023-05-14 07:59:50-04:00,2023-05-14 13:57:00-04:00
+README.md,Andriy Mulyar,AT,2023-05-14 13:57:00-04:00,2023-05-14 15:48:17-04:00
+README.md,AT,Andriy Mulyar,2023-05-14 15:48:17-04:00,2023-05-14 17:26:28-04:00
+README.md,Andriy Mulyar,Yuvanesh-ux,2023-05-22 13:08:03-07:00,2023-05-22 17:14:52-07:00
+README.md,Andriy Mulyar,cebtenzzre,2023-10-24 12:05:46-04:00,2023-10-24 12:14:29-04:00
+README.md,cebtenzzre,Andriy Mulyar,2023-10-24 12:14:29-04:00,2023-10-24 22:03:21-04:00
+build_map.py,Zach Nussbaum,Zach,2023-04-08 19:30:53+00:00,2023-04-09 15:12:49+00:00
+chatllm.cpp,Adam Treat,Zach Nussbaum,2023-05-08 12:21:30-04:00,2023-05-08 12:21:30-04:00
+chatllm.cpp,Zach Nussbaum,Adam Treat,2023-05-08 12:21:30-04:00,2023-05-08 17:23:02-04:00
+configs/deepspeed/ds_config_gptj.json,Zach Nussbaum,Zach,2023-04-05 02:52:44+00:00,2023-04-05 20:42:35+00:00
+configs/eval/generate_baseline.yaml,bstadt,Zach Nussbaum,2023-03-28 18:47:38+00:00,2023-03-28 21:00:57-07:00
+configs/eval/generate_full.yaml,bstadt,Zach Nussbaum,2023-03-28 18:47:38+00:00,2023-03-28 21:02:32-07:00
+configs/eval/generate_large_2.yaml,bstadt,Zach Nussbaum,2023-03-28 18:47:38+00:00,2023-03-28 21:03:10-07:00
+configs/eval/generate_large_3.yaml,bstadt,Zach Nussbaum,2023-03-28 18:47:38+00:00,2023-03-28 21:02:58-07:00
+configs/generate/generate.yaml,Zach Nussbaum,bstadt,2023-03-27 17:39:29+00:00,2023-03-27 21:50:08+00:00
+configs/generate/generate.yaml,bstadt,Zach Nussbaum,2023-03-27 21:50:08+00:00,2023-03-28 13:08:29-07:00
+configs/generate/generate_llama.yaml,bstadt,Zach Nussbaum,2023-03-28 00:09:47+00:00,2023-03-28 13:08:56-07:00
+configs/train/finetune_gptj.yaml,Zach Nussbaum,Zach,2023-04-05 02:52:44+00:00,2023-04-05 20:42:35+00:00
+configs/train/finetune_gptj_lora.yaml,zanussbaum,Zach Nussbaum,2023-04-07 17:53:07-04:00,2023-04-08 20:33:02+00:00
+data.py,Zach Nussbaum,Zach,2023-04-04 20:53:23+00:00,2023-04-04 22:01:55+00:00
+data.py,Zach,MalikMAlna,2023-04-06 03:03:34+00:00,2023-04-06 19:56:49-04:00
+data.py,MalikMAlna,Zach,2023-04-06 20:20:18-04:00,2023-04-07 01:45:07+00:00
+dev_setup.md,Adam Treat,AT,2023-05-09 21:38:24-04:00,2023-05-09 21:59:11-04:00
+download.cpp,Adam Treat,Aaron Miller,2023-04-24 17:52:19-04:00,2023-04-25 16:24:55-04:00
+download.cpp,Aaron Miller,Adam Treat,2023-04-25 16:24:55-04:00,2023-04-25 16:31:26-04:00
+download.cpp,Aaron Miller,Adam Treat,2023-04-26 22:14:21-04:00,2023-04-27 13:52:29-04:00
+download.cpp,Adam Treat,Aaron Miller,2023-05-02 20:31:17-04:00,2023-05-02 20:36:25-04:00
+download.h,Adam Treat,Aaron Miller,2023-04-24 17:52:19-04:00,2023-04-25 16:24:55-04:00
+download.h,Adam Treat,Aaron Miller,2023-05-02 20:31:17-04:00,2023-05-02 20:36:25-04:00
+generate.py,Zach Nussbaum,bstadt,2023-03-27 17:39:20+00:00,2023-03-28 00:09:47+00:00
+gpt4all-api/docker-compose.yaml,dsalvat1,dsalvatierra,2023-11-21 10:46:51-05:00,2023-11-21 10:46:51-05:00
+gpt4all-api/gpt4all_api/app/api_v1/routes/chat.py,Johannes Plötner,johannesploetner,2024-03-11 09:58:47-05:00,2024-03-11 09:58:47-05:00
+gpt4all-api/gpt4all_api/app/api_v1/routes/completions.py,Andriy Mulyar,Zach Nussbaum,2023-07-24 12:01:37-04:00,2023-07-24 15:28:12-04:00
+gpt4all-api/gpt4all_api/models/README.md,dsalvat1,dsalvatierra,2023-11-21 10:46:51-05:00,2023-11-21 10:46:51-05:00
+gpt4all-backend/CMakeLists.txt,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/CMakeLists.txt,Richard Guo,Adam Treat,2023-06-06 17:09:00-04:00,2023-06-07 12:58:51-04:00
+gpt4all-backend/CMakeLists.txt,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+gpt4all-backend/CMakeLists.txt,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+gpt4all-backend/CMakeLists.txt,Tim Miller,Aaron Miller,2023-06-13 14:05:34+02:00,2023-06-13 07:29:14-07:00
+gpt4all-backend/CMakeLists.txt,aaron miller,Aaron Miller,2023-08-31 15:29:54-04:00,2023-08-31 15:29:54-04:00
+gpt4all-backend/CMakeLists.txt,Aaron Miller,Adam Treat,2023-08-31 15:29:54-04:00,2023-08-31 15:29:54-04:00
+gpt4all-backend/CMakeLists.txt,Cebtenzzre,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:18:07-04:00
+gpt4all-backend/CMakeLists.txt,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-backend/bert.cpp,Adam Treat,Aaron Miller,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-backend/bert.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/dlhandle.cpp,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gpt4all-backend/dlhandle.h,AT,niansa,2023-05-31 17:04:01-04:00,2023-06-01 07:44:15-04:00
+gpt4all-backend/dlhandle.h,niansa,Tim Miller,2023-06-01 07:44:15-04:00,2023-06-01 14:24:23-04:00
+gpt4all-backend/falcon.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/gptj.cpp,Aaron Miller,kuvaus,2023-05-16 10:30:19-04:00,2023-05-16 11:35:33-04:00
+gpt4all-backend/gptj.cpp,kuvaus,aaron miller,2023-05-16 11:35:33-04:00,2023-05-17 07:54:10-04:00
+gpt4all-backend/gptj.cpp,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/gptj.cpp,AT,niansa,2023-05-31 17:04:01-04:00,2023-06-01 07:44:15-04:00
+gpt4all-backend/gptj.cpp,niansa,Adam Treat,2023-06-01 07:44:15-04:00,2023-06-02 07:20:59-04:00
+gpt4all-backend/gptj.cpp,Adam Treat,niansa/tuxifan,2023-06-02 07:20:59-04:00,2023-06-02 15:46:33-04:00
+gpt4all-backend/gptj.cpp,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/gptj.h,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/gptj_impl.h,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/llama.cpp-mainline,niansa/tuxifan,Adam Treat,2023-06-07 09:18:22-07:00,2023-06-08 07:23:41-04:00
+gpt4all-backend/llama.cpp-mainline,Adam Treat,niansa,2023-06-08 07:23:41-04:00,2023-06-08 18:21:32-04:00
+gpt4all-backend/llama.cpp-mainline,niansa,Aaron Miller,2023-06-08 18:21:32-04:00,2023-06-09 14:58:12-04:00
+gpt4all-backend/llama.cpp-mainline,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+gpt4all-backend/llama.cpp-mainline,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+gpt4all-backend/llama.cpp-mainline,Aaron Miller,Adam Treat,2023-08-31 15:29:54-04:00,2023-08-31 15:29:54-04:00
+gpt4all-backend/llama.cpp-mainline,Adam Treat,Aaron Miller,2023-09-12 14:26:56-04:00,2023-09-12 14:16:02-07:00
+gpt4all-backend/llama.cpp-mainline,Aaron Miller,Adam Treat,2023-09-12 14:16:02-07:00,2023-09-13 11:26:10-04:00
+gpt4all-backend/llama.cpp-mainline,Adam Treat,Aaron Miller,2023-09-13 11:26:10-04:00,2023-09-13 12:49:53-07:00
+gpt4all-backend/llama.cpp-mainline,Aaron Miller,Adam Treat,2023-09-13 12:49:53-07:00,2023-09-13 17:05:46-04:00
+gpt4all-backend/llama.cpp-mainline,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llama.cpp-mainline,Aaron Miller,cebtenzzre,2023-10-16 13:45:51-04:00,2023-10-16 16:58:17-04:00
+gpt4all-backend/llama.cpp-mainline,Adam Treat,cebtenzzre,2023-10-27 12:08:35-04:00,2023-10-27 17:07:23-04:00
+gpt4all-backend/llama.cpp-mainline,cebtenzzre,Adam Treat,2023-10-27 19:29:36-04:00,2023-10-28 17:47:55-04:00
+gpt4all-backend/llama.cpp.cmake,niansa/tuxifan,Adam Treat,2023-06-07 09:18:22-07:00,2023-06-08 07:23:41-04:00
+gpt4all-backend/llama.cpp.cmake,Adam Treat,niansa,2023-06-08 07:23:41-04:00,2023-06-08 18:21:32-04:00
+gpt4all-backend/llama.cpp.cmake,niansa,Aaron Miller,2023-06-08 18:21:32-04:00,2023-06-09 14:58:12-04:00
+gpt4all-backend/llama.cpp.cmake,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+gpt4all-backend/llama.cpp.cmake,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+gpt4all-backend/llama.cpp.cmake,Cosmic Snow,Adam Treat,2023-06-12 08:55:55-07:00,2023-06-12 17:08:55-04:00
+gpt4all-backend/llama.cpp.cmake,Adam Treat,Aaron Miller,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llama.cpp.cmake,Aaron Miller,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llama.cpp.cmake,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llama.cpp.cmake,Aaron Miller,cebtenzzre,2023-10-16 13:45:51-04:00,2023-10-16 16:58:17-04:00
+gpt4all-backend/llamamodel.cpp,kuvaus,aaron miller,2023-05-16 11:35:33-04:00,2023-05-17 07:54:10-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,Juuso Alasuutari,2023-05-21 10:27:04-04:00,2023-05-22 08:54:46-04:00
+gpt4all-backend/llamamodel.cpp,AT,niansa,2023-05-31 17:04:01-04:00,2023-06-01 07:44:15-04:00
+gpt4all-backend/llamamodel.cpp,niansa,Adam Treat,2023-06-01 07:44:15-04:00,2023-06-02 07:20:59-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,niansa/tuxifan,2023-06-02 07:20:59-04:00,2023-06-02 15:46:41-04:00
+gpt4all-backend/llamamodel.cpp,niansa/tuxifan,Peter Gagarinov,2023-06-02 15:46:41-04:00,2023-06-03 07:51:18-04:00
+gpt4all-backend/llamamodel.cpp,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/llamamodel.cpp,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,Aaron Miller,2023-06-12 08:43:20-07:00,2023-06-13 07:14:02-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llamamodel.cpp,Cebtenzzre,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llamamodel.cpp,Adam Treat,Jared Van Bortel,2024-02-21 10:15:20-06:00,2024-02-21 13:36:31-06:00
+gpt4all-backend/llamamodel.cpp,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gpt4all-backend/llamamodel_impl.h,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/llmodel.cpp,AT,niansa/tuxifan,2023-05-31 17:04:01-04:00,2023-05-31 21:26:18-04:00
+gpt4all-backend/llmodel.cpp,niansa/tuxifan,niansa,2023-05-31 21:26:18-04:00,2023-06-01 07:44:15-04:00
+gpt4all-backend/llmodel.cpp,niansa,Adam Treat,2023-06-01 07:44:15-04:00,2023-06-01 07:57:10-04:00
+gpt4all-backend/llmodel.cpp,Adam Treat,niansa/tuxifan,2023-06-01 07:57:10-04:00,2023-06-01 16:51:46+02:00
+gpt4all-backend/llmodel.cpp,niansa/tuxifan,niansa,2023-06-01 16:51:46+02:00,2023-06-01 11:19:08-04:00
+gpt4all-backend/llmodel.cpp,niansa,niansa/tuxifan,2023-06-01 11:19:08-04:00,2023-06-01 17:41:04+02:00
+gpt4all-backend/llmodel.cpp,niansa/tuxifan,Adam Treat,2023-06-01 17:41:04+02:00,2023-06-02 07:20:59-04:00
+gpt4all-backend/llmodel.cpp,Adam Treat,Richard Guo,2023-06-02 10:47:12-04:00,2023-06-02 12:32:26-04:00
+gpt4all-backend/llmodel.cpp,AT,Adam Treat,2023-06-04 15:28:58-04:00,2023-06-05 09:23:17-04:00
+gpt4all-backend/llmodel.cpp,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+gpt4all-backend/llmodel.cpp,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+gpt4all-backend/llmodel.cpp,Adam Treat,cosmic-snow,2023-07-13 14:21:46-04:00,2023-07-13 14:44:17-04:00
+gpt4all-backend/llmodel.cpp,Adam Treat,Aaron Miller,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llmodel.h,AT,niansa,2023-05-31 17:04:01-04:00,2023-06-01 07:44:15-04:00
+gpt4all-backend/llmodel.h,niansa,Adam Treat,2023-06-01 07:44:15-04:00,2023-06-01 07:57:10-04:00
+gpt4all-backend/llmodel.h,Adam Treat,niansa/tuxifan,2023-06-01 07:57:10-04:00,2023-06-01 16:51:46+02:00
+gpt4all-backend/llmodel.h,niansa/tuxifan,niansa,2023-06-01 16:51:46+02:00,2023-06-01 11:19:08-04:00
+gpt4all-backend/llmodel.h,niansa,Adam Treat,2023-06-01 11:19:08-04:00,2023-06-02 07:20:59-04:00
+gpt4all-backend/llmodel.h,Adam Treat,Richard Guo,2023-06-02 07:20:59-04:00,2023-06-02 12:32:26-04:00
+gpt4all-backend/llmodel.h,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/llmodel.h,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/llmodel.h,Adam Treat,Jared Van Bortel,2024-02-21 10:15:20-06:00,2024-02-21 15:45:32-05:00
+gpt4all-backend/llmodel_shared.cpp,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/llmodel_shared.h,Aaron Miller,Adam Treat,2023-08-31 15:29:54-04:00,2023-08-31 15:29:54-04:00
+gpt4all-backend/mpt.cpp,Aaron Miller,kuvaus,2023-05-16 10:30:19-04:00,2023-05-16 11:35:33-04:00
+gpt4all-backend/mpt.cpp,kuvaus,aaron miller,2023-05-16 11:35:33-04:00,2023-05-17 07:54:10-04:00
+gpt4all-backend/mpt.cpp,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/mpt.cpp,AT,niansa,2023-05-31 17:04:01-04:00,2023-06-01 07:44:15-04:00
+gpt4all-backend/mpt.cpp,niansa,Adam Treat,2023-06-01 07:44:15-04:00,2023-06-02 07:20:59-04:00
+gpt4all-backend/mpt.cpp,Adam Treat,niansa/tuxifan,2023-06-02 07:20:59-04:00,2023-06-02 15:46:41-04:00
+gpt4all-backend/mpt.cpp,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/mpt.cpp,Cebtenzzre,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:37:33-04:00
+gpt4all-backend/mpt.h,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/mpt_impl.h,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-backend/replit.cpp,Aaron Miller,niansa,2023-06-26 14:40:52-03:00,2023-06-26 14:49:58-03:00
+gpt4all-backend/replit.cpp,niansa,niansa/tuxifan,2023-06-26 14:49:58-03:00,2023-06-26 14:49:58-03:00
+gpt4all-backend/replit.cpp,niansa/tuxifan,Aaron Miller,2023-06-26 14:49:58-03:00,2023-06-26 18:27:58-03:00
+gpt4all-backend/replit.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/scripts/convert_mpt_hf_to_ggml.py,Adam Treat,Zach Nussbaum,2023-05-10 11:46:40-04:00,2023-05-11 11:20:43-04:00
+gpt4all-backend/scripts/gen_tokenizer_include.py,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/src/llmodel_shared.cpp,Jared Van Bortel,AT,2024-09-27 12:05:59-04:00,2024-09-27 12:29:22-04:00
+gpt4all-backend/starcoder.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-backend/tokenizer/README.md,aaron miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:58:18-04:00
+gpt4all-backend/tokenizer/bpe.cpp,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/tokenizer/bpe.h,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:58:53-04:00
+gpt4all-backend/tokenizer/gptj_tokenizer_config.h,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/tokenizer/mpt_tokenizer_config.h,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/toolchains/linux-arm64-toolchain.cmake,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-backend/utils.cpp,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-backend/utils.h,Aaron Miller,Adam Treat,2023-05-30 12:05:57-04:00,2023-05-30 12:59:00-04:00
+gpt4all-bindings/csharp/build_linux.sh,mvenditto,redthing1,2023-05-22 12:56:49-07:00,2023-05-22 18:10:30-04:00
+gpt4all-bindings/golang/README.md,Ettore Di Giacinto,AT,2023-05-15 12:45:56-04:00,2023-05-15 19:00:11-04:00
+gpt4all-bindings/golang/gpt4all.go,mudler,Ettore Di Giacinto,2023-06-01 10:36:22-04:00,2023-06-01 19:50:08+02:00
+gpt4all-bindings/python/CHANGELOG.md,Jared Van Bortel,AT,2024-09-27 12:05:59-04:00,2024-09-27 12:29:22-04:00
+gpt4all-bindings/python/README.md,Richard Guo,AT,2023-05-13 14:43:46-04:00,2023-05-14 07:41:45-04:00
+gpt4all-bindings/python/docs/gpt4all_desktop/cookbook/use-local-ai-models-to-privately-chat-with-google-drive.md,akgom,Andriy Mulyar,2024-07-09 22:47:23-04:00,2024-07-09 22:54:43-04:00
+gpt4all-bindings/python/docs/gpt4all_desktop/cookbook/use-local-ai-models-to-privately-chat-with-google-drive.md,Andriy Mulyar,mcembalest,2024-07-09 22:54:43-04:00,2024-07-10 09:55:53-04:00
+gpt4all-bindings/python/docs/gpt4all_python_embedding.md,Adam Treat,Andriy Mulyar,2023-07-14 14:14:22-04:00,2023-07-14 14:30:14-04:00
+gpt4all-bindings/python/gpt4all/__init__.py,Adam Treat,Aaron Miller,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Yaroslav Halchenko,Richard Guo,2023-05-16 11:33:59-04:00,2023-05-16 15:29:27-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Konstantin Gukov,Richard Guo,2023-05-26 09:24:03-04:00,2023-05-26 12:49:32-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Andriy Mulyar,Aaron Miller,2023-06-30 16:02:02-04:00,2023-06-30 17:00:42-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Aaron Miller,Andriy Mulyar,2023-06-30 17:00:42-04:00,2023-06-30 20:50:38-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Andriy Mulyar,Aaron Miller,2023-07-03 12:59:39-04:00,2023-07-03 21:30:24-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Adam Treat,Aaron Miller,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Aaron Miller,Adam Treat,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,AMOGUS,385olt,2023-07-19 10:36:23-04:00,2023-07-19 18:36:49-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Cebtenzzre,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Adam Treat,Aaron Miller,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,cebtenzzre,Aaron Miller,2023-10-11 14:12:40-04:00,2023-10-11 14:14:36-07:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,Aaron Miller,cebtenzzre,2023-10-11 14:14:36-07:00,2023-10-11 18:11:28-04:00
+gpt4all-bindings/python/gpt4all/gpt4all.py,cebtenzzre,Aaron Miller,2023-10-11 18:11:28-04:00,2023-10-12 07:52:56-04:00
+gpt4all-bindings/python/gpt4all/pyllmodel.py,Adam Treat,Aaron Miller,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-bindings/python/gpt4all/pyllmodel.py,385olt,Cosmic Snow,2023-07-30 11:29:51-07:00,2023-07-31 01:34:06+02:00
+gpt4all-bindings/python/gpt4all/tests/test_gpt4all.py,Andriy Mulyar,Aaron Miller,2023-06-30 16:02:02-04:00,2023-06-30 21:07:21-03:00
+gpt4all-bindings/python/gpt4all/tests/test_gpt4all.py,Adam Treat,Aaron Miller,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-bindings/python/gpt4all/tests/test_gpt4all.py,Aaron Miller,Adam Treat,2023-07-14 09:48:57-04:00,2023-07-14 09:48:57-04:00
+gpt4all-bindings/python/makefile,Andriy Mulyar,Aaron Miller,2023-06-30 16:02:02-04:00,2023-06-30 21:07:21-03:00
+gpt4all-bindings/python/mkdocs.yml,Andriy Mulyar,Richard Guo,2023-05-16 12:46:31-04:00,2023-05-16 15:29:27-04:00
+gpt4all-bindings/python/mkdocs.yml,akgom,Andriy Mulyar,2024-07-09 22:47:23-04:00,2024-07-10 18:50:16-04:00
+gpt4all-bindings/python/mkdocs.yml,Andriy Mulyar,akgom,2024-07-10 18:50:16-04:00,2024-07-11 11:03:05-04:00
+gpt4all-bindings/python/setup.py,Richard Guo,Aaron Miller,2023-06-09 10:17:44-04:00,2023-06-09 16:48:46-04:00
+gpt4all-bindings/python/setup.py,cebtenzzre,Andriy Mulyar,2023-10-19 13:46:33-04:00,2023-10-19 19:11:03-04:00
+gpt4all-bindings/python/setup.py,Jared Van Bortel,Simon Willison,2024-08-14 13:30:14-04:00,2024-08-14 16:28:04-04:00
+gpt4all-bindings/typescript/.gitignore,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/.npmignore,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/README.md,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/binding.ci.gyp,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/binding.gyp,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/index.cc,TareHimself,chrisbarrera,2024-02-24 17:50:14-05:00,2024-02-24 17:51:34-05:00
+gpt4all-bindings/typescript/index.cc,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/index.h,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/package.json,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/prompt.cc,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/scripts/assert-backend-sources.js,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/scripts/build_unix.sh,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/scripts/prebuild.js,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/spec/chat-minimal.mjs,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/spec/concurrency.mjs,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/spec/llmodel.mjs,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/spec/token-streaming-emoji.mjs,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/src/chat-session.js,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/src/gpt4all.d.ts,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/src/gpt4all.js,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/src/models.js,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/test/bindings.test.js,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-bindings/typescript/yarn.lock,Jacob Nguyen,dependabot[bot],2024-03-28 12:08:23-04:00,2024-03-28 12:58:03-04:00
+gpt4all-bindings/typescript/yarn.lock,Andreas Obersteiner,Jared Van Bortel,2024-06-03 11:12:55-05:00,2024-06-03 17:26:19-04:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-08-12 11:00:49-04:00,2024-08-12 17:12:14-04:00
+gpt4all-chat/CHANGELOG.md,Riccardo Giovanetti,不知火 Shiranui,2024-08-16 12:31:09-04:00,2024-08-16 13:00:26-04:00
+gpt4all-chat/CHANGELOG.md,不知火 Shiranui,Jared Van Bortel,2024-08-16 13:00:26-04:00,2024-08-16 15:01:19-04:00
+gpt4all-chat/CHANGELOG.md,Victor,cosmic-snow,2024-08-19 11:34:10-04:00,2024-08-19 12:01:18-04:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,3Simplex,2024-08-26 16:27:41-04:00,2024-08-26 18:41:15-04:00
+gpt4all-chat/CHANGELOG.md,Riccardo Giovanetti,Jared Van Bortel,2024-08-27 20:13:34-04:00,2024-08-28 12:49:43-04:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-08-29 12:10:12-04:00,2024-08-29 12:59:13-04:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-08-30 12:11:32-04:00,2024-08-30 12:30:24-04:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-09-26 11:58:48-04:00,2024-09-26 17:07:01-04:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-09-27 12:05:59-04:00,2024-09-27 12:29:22-04:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-10-01 11:25:04-04:00,2024-10-01 13:57:19-04:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-10-07 12:53:27-04:00,2024-10-08 11:56:37-04:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-10-08 11:56:37-04:00,2024-10-08 12:18:17-04:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-10-08 12:18:17-04:00,2024-10-09 09:11:18-04:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-10-15 15:28:13-04:00,2024-10-16 13:13:22-04:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,Riccardo Giovanetti,2024-12-09 11:20:21-05:00,2024-12-09 11:51:05-05:00
+gpt4all-chat/CHANGELOG.md,Riccardo Giovanetti,Jared Van Bortel,2024-12-09 11:51:05-05:00,2024-12-09 14:30:07-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,Victor,2024-12-09 14:30:07-05:00,2024-12-09 14:32:03-05:00
+gpt4all-chat/CHANGELOG.md,Victor,Jared Van Bortel,2024-12-09 14:32:03-05:00,2024-12-09 14:41:23-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-12-09 18:14:01-05:00,2024-12-09 18:27:53-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-12-09 18:27:53-05:00,2024-12-10 12:06:26-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-12-10 12:28:11-05:00,2024-12-10 12:32:20-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-12-13 17:33:05-05:00,2024-12-13 17:50:57-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-12-16 11:25:19-05:00,2024-12-16 11:38:06-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-12-19 16:27:10-05:00,2024-12-19 16:31:37-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:35:37-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2024-12-19 16:35:37-05:00,2024-12-19 16:48:38-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2025-01-07 14:02:18-05:00,2025-01-07 17:58:04-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2025-01-21 17:23:54-05:00,2025-01-22 10:29:50-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2025-01-22 10:29:50-05:00,2025-01-22 11:38:26-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2025-01-24 10:29:28-05:00,2025-01-24 10:29:59-05:00
+gpt4all-chat/CHANGELOG.md,ThiloteE,Jared Van Bortel,2025-01-28 16:54:15-05:00,2025-01-29 09:51:50-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2025-01-29 09:51:50-05:00,2025-01-29 18:33:08-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2025-01-29 18:33:08-05:00,2025-01-30 16:01:49-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2025-01-30 16:01:49-05:00,2025-01-30 16:11:05-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2025-01-30 16:11:05-05:00,2025-01-30 16:23:41-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,ThiloteE,2025-02-04 17:30:04-05:00,2025-02-04 18:00:07-05:00
+gpt4all-chat/CHANGELOG.md,ThiloteE,Jared Van Bortel,2025-02-04 18:00:07-05:00,2025-02-04 18:08:06-05:00
+gpt4all-chat/CHANGELOG.md,Jared Van Bortel,AT,2025-02-06 11:22:52-05:00,2025-02-06 12:04:32-05:00
+gpt4all-chat/CHANGELOG.md,Riccardo Giovanetti,Jared Van Bortel,2025-02-18 11:47:39-05:00,2025-02-18 12:02:14-05:00
+gpt4all-chat/CHANGELOG.md,AT,Jared Van Bortel,2025-02-24 14:59:53-05:00,2025-02-24 17:15:34-05:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Justin Wang,2023-05-22 14:25:43-04:00,2023-05-22 18:03:13-04:00
+gpt4all-chat/CMakeLists.txt,AT,Adam Treat,2023-05-31 17:04:01-04:00,2023-05-31 19:28:09-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,niansa/tuxifan,2023-05-31 21:07:14-04:00,2023-06-01 16:50:42+02:00
+gpt4all-chat/CMakeLists.txt,niansa/tuxifan,Adam Treat,2023-06-01 16:50:42+02:00,2023-06-02 08:19:18-04:00
+gpt4all-chat/CMakeLists.txt,AT,Adam Treat,2023-06-04 15:28:58-04:00,2023-06-05 09:57:00-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Aaron Miller,2023-06-09 08:45:31-04:00,2023-06-09 14:58:12-04:00
+gpt4all-chat/CMakeLists.txt,Aaron Miller,Adam Treat,2023-06-09 14:58:12-04:00,2023-06-09 15:08:46-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Aaron Miller,2023-06-09 15:08:46-04:00,2023-06-09 16:48:46-04:00
+gpt4all-chat/CMakeLists.txt,Aaron Miller,AT,2023-06-09 16:48:46-04:00,2023-06-10 10:15:38-04:00
+gpt4all-chat/CMakeLists.txt,Akarshan Biswas,Adam Treat,2023-06-26 14:58:23-03:00,2023-06-26 14:10:27-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Aaron Miller,2023-06-26 14:14:49-04:00,2023-06-27 14:06:39-03:00
+gpt4all-chat/CMakeLists.txt,Aaron Miller,Adam Treat,2023-06-27 14:06:39-03:00,2023-06-27 14:23:56-03:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Akarshan Biswas,2023-07-06 12:25:25-04:00,2023-07-06 12:50:05-04:00
+gpt4all-chat/CMakeLists.txt,Aaron Miller,Adam Treat,2023-07-12 10:49:24-04:00,2023-07-12 14:58:45-04:00
+gpt4all-chat/CMakeLists.txt,Cebtenzzre,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-chat/CMakeLists.txt,cebtenzzre,Adam Treat,2023-10-19 15:25:17-04:00,2023-10-19 16:25:55-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Xu Zhen,2024-03-11 14:44:14-04:00,2024-03-12 07:42:22-05:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Jared Van Bortel,2024-03-13 14:23:04-05:00,2024-03-13 18:09:24-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,Olyxz16,2024-03-13 18:09:24-04:00,2024-03-13 18:23:57-04:00
+gpt4all-chat/CMakeLists.txt,Olyxz16,Adam Treat,2024-03-13 18:23:57-04:00,2024-03-14 09:42:23-05:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gpt4all-chat/CMakeLists.txt,AT,Adam Treat,2024-06-26 22:00:48-04:00,2024-06-27 11:00:00-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Jared Van Bortel,2024-06-28 11:49:12-04:00,2024-06-28 12:57:57-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,John W. Parent,2024-06-28 12:57:57-04:00,2024-06-28 14:21:18-04:00
+gpt4all-chat/CMakeLists.txt,John W. Parent,Jared Van Bortel,2024-06-28 14:21:18-04:00,2024-06-28 17:11:12-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,Adam Treat,2024-06-28 17:11:12-04:00,2024-06-28 20:34:17-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,AT,2024-06-28 20:34:17-04:00,2024-06-29 18:00:52-04:00
+gpt4all-chat/CMakeLists.txt,AT,Adam Treat,2024-06-29 18:00:52-04:00,2024-06-29 18:02:45-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,AT,2024-06-29 18:02:45-04:00,2024-06-30 15:10:19-04:00
+gpt4all-chat/CMakeLists.txt,AT,Adam Treat,2024-06-30 15:10:19-04:00,2024-06-30 23:47:34-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,Jared Van Bortel,2024-07-01 08:01:57-04:00,2024-07-01 16:46:03-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,Adam Treat,2024-07-01 16:46:03-04:00,2024-07-01 16:50:28-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,John W. Parent,2024-07-01 16:50:28-04:00,2024-07-01 17:40:02-04:00
+gpt4all-chat/CMakeLists.txt,John W. Parent,Jared Van Bortel,2024-07-01 17:40:02-04:00,2024-07-01 18:24:04-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,AT,2024-07-01 18:24:04-04:00,2024-07-02 10:01:57-04:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-07-02 10:01:57-04:00,2024-07-02 11:09:26-04:00
+gpt4all-chat/CMakeLists.txt,Adam Treat,AT,2024-07-24 09:19:13-04:00,2024-07-24 12:03:10-04:00
+gpt4all-chat/CMakeLists.txt,AT,不知火 Shiranui,2024-07-24 12:03:10-04:00,2024-07-25 10:02:52-04:00
+gpt4all-chat/CMakeLists.txt,不知火 Shiranui,AT,2024-07-25 10:02:52-04:00,2024-07-25 15:47:20-04:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-08-12 11:00:49-04:00,2024-08-12 17:12:14-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,AT,2024-08-12 17:12:14-04:00,2024-08-13 14:59:32-04:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-10-08 17:09:13-04:00,2024-10-09 09:11:50-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,John W. Parent,2024-10-09 09:11:50-04:00,2024-10-09 09:52:54-04:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-10-15 15:28:13-04:00,2024-10-16 13:13:22-04:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,AT,2024-12-09 14:41:23-05:00,2024-12-09 16:55:46-05:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-12-13 17:33:05-05:00,2024-12-13 17:50:57-05:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,AT,2024-12-16 11:25:19-05:00,2024-12-16 11:38:06-05:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-12-16 11:38:06-05:00,2024-12-16 16:32:27-05:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:35:37-05:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,AT,2024-12-19 16:35:37-05:00,2024-12-19 16:48:38-05:00
+gpt4all-chat/CMakeLists.txt,Jared Van Bortel,AT,2025-01-21 11:36:27-05:00,2025-01-22 10:29:50-05:00
+gpt4all-chat/CMakeLists.txt,AT,Jared Van Bortel,2025-02-24 14:59:53-05:00,2025-02-24 17:15:34-05:00
+gpt4all-chat/README.md,Adam Treat,AT,2023-05-10 10:26:55-04:00,2023-05-10 12:10:33-04:00
+gpt4all-chat/README.md,AT,Adam Treat,2023-05-11 15:31:01-04:00,2023-05-11 16:48:20-04:00
+gpt4all-chat/README.md,Yaroslav Halchenko,Shukri,2023-05-16 11:33:59-04:00,2023-05-17 09:56:20-04:00
+gpt4all-chat/chat.cpp,Adam Treat,niansa/tuxifan,2023-06-01 17:23:57-04:00,2023-06-02 15:46:41-04:00
+gpt4all-chat/chat.cpp,AT,Adam Treat,2023-06-16 11:09:33-04:00,2023-06-16 14:43:14-04:00
+gpt4all-chat/chat.cpp,AT,Adam Treat,2023-06-19 14:34:53-04:00,2023-06-19 15:38:01-07:00
+gpt4all-chat/chat.cpp,Jared Van Bortel,Adam Treat,2024-03-06 17:14:54-05:00,2024-03-06 16:52:17-06:00
+gpt4all-chat/chat.h,AT,Adam Treat,2023-06-19 14:34:53-04:00,2023-06-19 15:38:01-07:00
+gpt4all-chat/chat.h,Jared Van Bortel,Adam Treat,2024-03-06 17:14:54-05:00,2024-03-06 16:52:17-06:00
+gpt4all-chat/chatgpt.cpp,Adam Treat,Aaron Miller,2023-07-12 10:34:10-04:00,2023-07-12 10:53:25-04:00
+gpt4all-chat/chatgpt.h,AT,Adam Treat,2023-06-04 08:59:24-04:00,2023-06-04 19:31:20-04:00
+gpt4all-chat/chatlistmodel.h,Jared Van Bortel,Adam Treat,2024-03-06 16:42:59-05:00,2024-03-06 16:52:17-06:00
+gpt4all-chat/chatllm.cpp,Adam Treat,AT,2023-05-30 18:17:59-04:00,2023-05-31 17:04:01-04:00
+gpt4all-chat/chatllm.cpp,AT,niansa,2023-05-31 17:04:01-04:00,2023-06-01 07:44:15-04:00
+gpt4all-chat/chatllm.cpp,niansa,Adam Treat,2023-06-01 07:44:15-04:00,2023-06-01 10:58:31-04:00
+gpt4all-chat/chatllm.cpp,Adam Treat,niansa/tuxifan,2023-06-01 17:34:13-04:00,2023-06-02 15:46:41-04:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Andriy Mulyar,2023-06-04 14:55:05-04:00,2023-06-05 14:25:37-04:00
+gpt4all-chat/chatllm.cpp,AT,Adam Treat,2023-06-19 14:34:53-04:00,2023-06-19 15:38:01-07:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Aaron Miller,2023-06-26 14:14:46-04:00,2023-06-27 14:06:39-03:00
+gpt4all-chat/chatllm.cpp,Aaron Miller,Adam Treat,2023-06-27 14:06:39-03:00,2023-06-27 14:23:56-03:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Aaron Miller,2023-09-13 11:59:36-04:00,2023-09-13 12:49:53-07:00
+gpt4all-chat/chatllm.cpp,Aaron Miller,Adam Treat,2023-09-13 12:49:53-07:00,2023-09-13 19:30:27-04:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-chat/chatllm.cpp,Cebtenzzre,Adam Treat,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-chat/chatllm.cpp,Cebtenzzre,Adam Treat,2023-10-06 11:35:14-04:00,2023-10-06 12:44:53-04:00
+gpt4all-chat/chatllm.cpp,Adam Treat,cebtenzzre,2023-10-11 09:16:02-04:00,2023-10-11 11:31:34-04:00
+gpt4all-chat/chatllm.cpp,Jared Van Bortel,Adam Treat,2024-01-31 14:17:44-05:00,2024-01-31 22:22:08-05:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Jared Van Bortel,2024-01-31 22:22:08-05:00,2024-02-01 15:45:45-05:00
+gpt4all-chat/chatllm.cpp,Adam Treat,Jared Van Bortel,2024-02-21 10:15:20-06:00,2024-02-21 15:45:32-05:00
+gpt4all-chat/chatllm.cpp,Jared Van Bortel,Adam Treat,2024-02-21 15:45:32-05:00,2024-02-21 16:05:49-05:00
+gpt4all-chat/chatllm.cpp,Jared Van Bortel,Adam Treat,2024-03-06 17:14:54-05:00,2024-03-06 16:52:17-06:00
+gpt4all-chat/chatllm.cpp,Jared Van Bortel,Olyxz16,2024-03-13 18:09:24-04:00,2024-03-13 18:23:57-04:00
+gpt4all-chat/chatllm.h,AT,Adam Treat,2023-06-19 14:34:53-04:00,2023-06-19 15:38:01-07:00
+gpt4all-chat/chatllm.h,Adam Treat,Aaron Miller,2023-06-26 14:14:46-04:00,2023-06-27 14:06:39-03:00
+gpt4all-chat/chatllm.h,Aaron Miller,Adam Treat,2023-06-27 14:06:39-03:00,2023-06-27 14:23:56-03:00
+gpt4all-chat/chatllm.h,Jared Van Bortel,Adam Treat,2024-03-06 17:14:54-05:00,2024-03-06 16:52:17-06:00
+gpt4all-chat/chatllm.h,Jared Van Bortel,Olyxz16,2024-03-13 18:09:24-04:00,2024-03-13 18:23:57-04:00
+gpt4all-chat/chatviewtextprocessor.cpp,Adam Treat,Jared Van Bortel,2024-06-28 11:49:12-04:00,2024-06-28 11:49:12-04:00
+gpt4all-chat/cmake/deploy-qt-mac.cmake.in,John W. Parent,Jared Van Bortel,2024-06-28 14:21:18-04:00,2024-06-28 17:11:12-04:00
+gpt4all-chat/database.cpp,Adam Treat,niansa/tuxifan,2023-06-01 17:14:17-04:00,2023-06-02 15:46:41-04:00
+gpt4all-chat/database.cpp,niansa/tuxifan,Adam Treat,2023-06-02 15:46:41-04:00,2023-06-03 10:09:17-04:00
+gpt4all-chat/download.cpp,Adam Treat,AT,2024-03-08 09:44:20-06:00,2024-03-08 09:44:20-06:00
+gpt4all-chat/download.cpp,AT,Adam Treat,2024-03-08 09:44:20-06:00,2024-03-08 09:44:20-06:00
+gpt4all-chat/embeddings.cpp,Adam Treat,AT,2023-11-17 11:59:31-05:00,2023-11-17 11:59:31-05:00
+gpt4all-chat/embllm.cpp,Adam Treat,AT,2023-11-17 11:59:31-05:00,2023-11-17 11:59:31-05:00
+gpt4all-chat/embllm.cpp,Jared Van Bortel,Adam Treat,2024-01-31 14:17:44-05:00,2024-01-31 22:22:08-05:00
+gpt4all-chat/embllm.cpp,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 11:04:01-04:00
+gpt4all-chat/icons/gpt4all_transparent.svg,Adam Treat,Jared Van Bortel,2024-06-30 23:47:34-04:00,2024-07-01 16:46:03-04:00
+gpt4all-chat/llm.cpp,AT,Adam Treat,2023-06-04 15:28:58-04:00,2023-06-05 09:23:17-04:00
+gpt4all-chat/llm.cpp,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gpt4all-chat/logger.cpp,niansa/tuxifan,Adam Treat,2023-06-01 16:50:42+02:00,2023-06-01 14:15:11-04:00
+gpt4all-chat/main.cpp,Jared Van Bortel,AT,2024-07-16 14:02:12-04:00,2024-07-16 16:12:44-04:00
+gpt4all-chat/main.qml,Adam Treat,Justin Wang,2023-05-22 14:25:43-04:00,2023-05-23 12:15:54-04:00
+gpt4all-chat/main.qml,Justin Wang,Adam Treat,2023-05-23 12:15:54-04:00,2023-05-23 18:20:17-04:00
+gpt4all-chat/main.qml,Adam Treat,AT,2023-06-04 14:55:05-04:00,2023-06-04 15:28:58-04:00
+gpt4all-chat/main.qml,Adam Treat,Cebtenzzre,2023-10-05 18:16:19-04:00,2023-10-05 18:16:19-04:00
+gpt4all-chat/main.qml,Victor Tsaran,cebtenzzre,2023-10-21 10:38:46-04:00,2023-10-21 21:22:37-07:00
+gpt4all-chat/main.qml,Kryotek,Adam Treat,2024-03-11 19:36:18-05:00,2024-03-11 20:39:34-04:00
+gpt4all-chat/metadata/latestnews.md,AT,Jared Van Bortel,2024-08-12 18:15:58-04:00,2024-08-12 19:01:21-04:00
+gpt4all-chat/metadata/latestnews.md,Jared Van Bortel,AT,2024-10-08 15:10:47-04:00,2024-10-08 16:06:50-04:00
+gpt4all-chat/metadata/latestnews.md,Jared Van Bortel,AT,2024-12-10 11:11:01-05:00,2024-12-10 15:05:22-05:00
+gpt4all-chat/metadata/models.json,Adam Treat,niansa/tuxifan,2023-06-02 11:10:00-04:00,2023-06-02 12:31:09-04:00
+gpt4all-chat/metadata/models.json,Adam Treat,AT,2023-06-04 18:39:36-04:00,2023-06-04 20:26:43-04:00
+gpt4all-chat/metadata/models.json,AT,Andriy Mulyar,2023-06-04 20:26:43-04:00,2023-06-04 20:36:12-04:00
+gpt4all-chat/metadata/models.json,Adam Treat,Aaron Miller,2023-07-27 11:48:16-04:00,2023-07-27 09:14:33-07:00
+gpt4all-chat/metadata/models2.json,Adam Treat,Aaron Miller,2023-10-05 18:16:19-04:00,2023-10-05 18:32:23-04:00
+gpt4all-chat/metadata/models3.json,Jared Van Bortel,ThiloteE,2024-02-26 13:11:15-05:00,2024-02-27 08:28:43-06:00
+gpt4all-chat/metadata/models3.json,ThiloteE,Adam Treat,2024-02-27 08:28:43-06:00,2024-02-27 09:34:50-05:00
+gpt4all-chat/metadata/models3.json,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:35:37-05:00
+gpt4all-chat/metadata/models3.json,Jared Van Bortel,AT,2024-12-19 16:35:37-05:00,2024-12-19 16:48:38-05:00
+gpt4all-chat/metadata/release.json,AT,Adam Treat,2023-06-05 12:10:17-04:00,2023-06-05 14:55:59-04:00
+gpt4all-chat/metadata/release.json,AT,Jared Van Bortel,2024-07-02 10:01:57-04:00,2024-07-02 12:08:23-04:00
+gpt4all-chat/metadata/release.json,Jared Van Bortel,AT,2024-10-08 15:10:47-04:00,2024-10-08 16:06:50-04:00
+gpt4all-chat/metadata/release.json,Jared Van Bortel,AT,2024-12-10 11:11:01-05:00,2024-12-10 15:05:22-05:00
+gpt4all-chat/modellist.cpp,Adam Treat,Aaron Miller,2023-07-12 12:49:06-04:00,2023-07-12 12:49:06-04:00
+gpt4all-chat/modellist.cpp,Aaron Miller,Adam Treat,2023-07-12 12:49:06-04:00,2023-07-12 12:50:18-04:00
+gpt4all-chat/modellist.cpp,Adam Treat,Aaron Miller,2023-07-12 12:50:18-04:00,2023-07-12 14:18:40-04:00
+gpt4all-chat/modellist.cpp,Jared Van Bortel,Adam Treat,2024-01-31 14:17:44-05:00,2024-01-31 22:22:08-05:00
+gpt4all-chat/modellist.cpp,Adam Treat,AT,2024-02-26 12:04:16-06:00,2024-02-26 12:04:16-06:00
+gpt4all-chat/modellist.cpp,AT,Jared Van Bortel,2024-02-26 12:04:16-06:00,2024-02-26 13:09:29-05:00
+gpt4all-chat/modellist.cpp,Adam Treat,Xu Zhen,2024-03-11 14:08:40-04:00,2024-03-12 07:42:22-05:00
+gpt4all-chat/modellist.cpp,Jared Van Bortel,Olyxz16,2024-03-13 18:09:24-04:00,2024-03-13 18:23:57-04:00
+gpt4all-chat/modellist.cpp,Olyxz16,Adam Treat,2024-03-13 18:23:57-04:00,2024-03-13 17:37:18-05:00
+gpt4all-chat/modellist.h,Jared Van Bortel,Adam Treat,2024-01-31 14:17:44-05:00,2024-01-31 22:22:08-05:00
+gpt4all-chat/mysettings.cpp,Daniel Alencar,Adam Treat,2024-03-09 09:26:40-06:00,2024-03-09 10:32:53-05:00
+gpt4all-chat/mysettings.cpp,AT,Adam Treat,2024-07-12 16:14:58-04:00,2024-07-12 17:18:01-04:00
+gpt4all-chat/oscompat.cpp,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gpt4all-chat/oscompat.h,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gpt4all-chat/qml/ApplicationSettings.qml,Daniel Alencar,Adam Treat,2024-03-09 09:26:40-06:00,2024-03-09 10:32:53-05:00
+gpt4all-chat/qml/ApplicationSettings.qml,Adam Treat,Jared Van Bortel,2024-06-27 07:25:39-04:00,2024-06-27 11:08:32-04:00
+gpt4all-chat/qml/ChatCollapsibleItem.qml,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:39:56-05:00
+gpt4all-chat/qml/ChatItemView.qml,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 17:22:00-05:00
+gpt4all-chat/qml/ChatTextItem.qml,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:39:56-05:00
+gpt4all-chat/qml/ChatView.qml,Adam Treat,AT,2024-06-26 14:39:39-04:00,2024-06-26 14:48:02-04:00
+gpt4all-chat/qml/ChatView.qml,AT,Adam Treat,2024-06-26 14:48:02-04:00,2024-06-26 15:20:09-04:00
+gpt4all-chat/qml/ChatView.qml,Adam Treat,Jared Van Bortel,2024-06-26 15:20:09-04:00,2024-06-26 15:26:27-04:00
+gpt4all-chat/qml/ChatView.qml,Jared Van Bortel,Adam Treat,2024-06-26 15:26:27-04:00,2024-06-26 16:37:01-04:00
+gpt4all-chat/qml/ChatView.qml,Adam Treat,AT,2024-06-26 16:43:22-04:00,2024-06-26 22:00:48-04:00
+gpt4all-chat/qml/ChatView.qml,AT,Adam Treat,2024-06-26 22:00:48-04:00,2024-06-27 07:25:39-04:00
+gpt4all-chat/qml/ChatView.qml,Adam Treat,AT,2024-06-28 11:49:12-04:00,2024-06-28 12:54:12-04:00
+gpt4all-chat/qml/ChatView.qml,AT,Jared Van Bortel,2024-06-28 12:54:12-04:00,2024-06-28 12:57:57-04:00
+gpt4all-chat/qml/ChatView.qml,Jared Van Bortel,AT,2024-06-28 12:57:57-04:00,2024-06-28 13:34:26-04:00
+gpt4all-chat/qml/ChatView.qml,AT,Adam Treat,2024-06-28 13:34:26-04:00,2024-06-28 14:52:44-04:00
+gpt4all-chat/qml/ChatView.qml,Adam Treat,Jared Van Bortel,2024-06-28 14:52:44-04:00,2024-06-28 17:11:12-04:00
+gpt4all-chat/qml/ChatView.qml,Jared Van Bortel,AT,2024-06-28 20:34:03-04:00,2024-06-29 18:00:52-04:00
+gpt4all-chat/qml/ChatView.qml,AT,Jared Van Bortel,2024-06-30 23:27:30-04:00,2024-07-01 16:46:03-04:00
+gpt4all-chat/qml/ChatView.qml,AT,Jared Van Bortel,2024-07-08 12:26:44-04:00,2024-07-08 17:01:30-04:00
+gpt4all-chat/qml/ChatView.qml,Jared Van Bortel,AT,2024-07-08 17:01:30-04:00,2024-07-08 17:04:35-04:00
+gpt4all-chat/qml/ChatView.qml,AT,3Simplex,2024-07-09 12:13:51-04:00,2024-07-10 10:36:20-04:00
+gpt4all-chat/qml/ChatView.qml,3Simplex,AT,2024-07-10 10:36:20-04:00,2024-07-10 15:23:35-04:00
+gpt4all-chat/qml/HomeView.qml,cosmic-snow,Adam Treat,2024-06-30 19:35:31-04:00,2024-06-30 23:47:34-04:00
+gpt4all-chat/qml/HomeView.qml,Adam Treat,Jared Van Bortel,2024-06-30 23:47:34-04:00,2024-07-01 16:46:03-04:00
+gpt4all-chat/qml/LocalDocsSettings.qml,Adam Treat,Jared Van Bortel,2024-06-27 07:25:39-04:00,2024-06-27 11:08:32-04:00
+gpt4all-chat/qml/ModelDownloaderDialog.qml,Adam Treat,Justin Wang,2023-05-22 22:20:16-04:00,2023-05-23 11:03:32-04:00
+gpt4all-chat/qml/ModelDownloaderDialog.qml,Adam Treat,Aaron Miller,2023-07-12 12:49:06-04:00,2023-07-12 12:49:06-04:00
+gpt4all-chat/qml/ModelDownloaderDialog.qml,Adam Treat,AT,2023-11-17 11:59:31-05:00,2023-11-17 11:59:31-05:00
+gpt4all-chat/qml/ModelDownloaderDialog.qml,AT,Adam Treat,2023-11-17 11:59:31-05:00,2023-11-17 11:59:31-05:00
+gpt4all-chat/qml/ModelSettings.qml,3Simplex,AT,2024-07-10 10:36:20-04:00,2024-07-10 15:45:20-04:00
+gpt4all-chat/qml/MyButton.qml,Adam Treat,Justin Wang,2023-05-22 22:20:16-04:00,2023-05-23 12:15:54-04:00
+gpt4all-chat/qml/SettingsDialog.qml,Adam Treat,Justin Wang,2023-05-22 14:25:43-04:00,2023-05-22 18:03:13-04:00
+gpt4all-chat/qml/SettingsDialog.qml,Justin Wang,Adam Treat,2023-05-22 18:03:13-04:00,2023-05-22 22:20:16-04:00
+gpt4all-chat/qml/SettingsDialog.qml,Adam Treat,Justin Wang,2023-05-22 22:20:16-04:00,2023-05-23 12:15:54-04:00
+gpt4all-chat/qml/SettingsDialog.qml,Justin Wang,Adam Treat,2023-05-23 12:15:54-04:00,2023-05-23 14:53:01-04:00
+gpt4all-chat/qml/Theme.qml,AT,Jared Van Bortel,2024-06-30 19:15:01-04:00,2024-07-01 18:24:04-04:00
+gpt4all-chat/qml/Theme.qml,3Simplex,AT,2024-07-10 10:36:20-04:00,2024-07-10 15:23:35-04:00
+gpt4all-chat/responsetext.cpp,AT,Adam Treat,2023-06-19 16:12:37-04:00,2023-06-19 17:52:14-04:00
+gpt4all-chat/responsetext.cpp,matthew-gill,Lakshay Kansal,2023-07-05 09:44:25-04:00,2023-07-05 11:04:13-04:00
+gpt4all-chat/responsetext.cpp,Lakshay Kansal,Adam Treat,2023-07-05 11:04:13-04:00,2023-07-05 15:51:42-04:00
+gpt4all-chat/server.cpp,FoivosC,Adam Treat,2023-05-30 16:34:23-04:00,2023-05-30 18:17:59-04:00
+gpt4all-chat/server.cpp,Adam Treat,AT,2023-05-30 18:17:59-04:00,2023-05-31 17:04:01-04:00
+gpt4all-chat/server.cpp,Adam Treat,niansa/tuxifan,2023-06-01 17:14:17-04:00,2023-06-02 15:46:41-04:00
+gpt4all-chat/src/chat.cpp,Jared Van Bortel,AT,2024-09-30 19:42:10-04:00,2024-10-01 13:57:19-04:00
+gpt4all-chat/src/chat.cpp,AT,Jared Van Bortel,2025-01-30 16:11:05-05:00,2025-01-30 18:15:37-05:00
+gpt4all-chat/src/chatllm.cpp,AT,Jared Van Bortel,2024-08-29 12:59:13-04:00,2024-08-30 12:30:24-04:00
+gpt4all-chat/src/chatllm.cpp,Jared Van Bortel,AT,2024-09-27 12:05:59-04:00,2024-09-27 12:29:22-04:00
+gpt4all-chat/src/chatllm.cpp,Jared Van Bortel,AT,2024-10-01 11:25:04-04:00,2024-10-01 18:15:02-04:00
+gpt4all-chat/src/chatllm.cpp,Jared Van Bortel,AT,2025-01-30 16:01:49-05:00,2025-01-30 16:11:05-05:00
+gpt4all-chat/src/chatllm.cpp,AT,Jared Van Bortel,2025-01-30 16:11:05-05:00,2025-01-30 18:15:37-05:00
+gpt4all-chat/src/chatmodel.cpp,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:39:56-05:00
+gpt4all-chat/src/chatmodel.h,Jared Van Bortel,AT,2024-12-19 16:27:10-05:00,2024-12-19 16:31:37-05:00
+gpt4all-chat/src/chatmodel.h,AT,Jared Van Bortel,2025-01-30 16:11:05-05:00,2025-01-30 18:15:37-05:00
+gpt4all-chat/src/codeinterpreter.cpp,AT,Jared Van Bortel,2025-01-07 14:02:18-05:00,2025-01-07 17:58:04-05:00
+gpt4all-chat/src/database.cpp,AT,Jared Van Bortel,2024-10-15 15:28:13-04:00,2024-10-16 13:13:22-04:00
+gpt4all-chat/src/database.h,AT,Jared Van Bortel,2024-10-15 15:28:13-04:00,2024-10-16 13:13:22-04:00
+gpt4all-chat/src/jinja_replacements.cpp,ThiloteE,Jared Van Bortel,2025-01-28 16:54:15-05:00,2025-01-29 09:51:50-05:00
+gpt4all-chat/src/modellist.cpp,Jared Van Bortel,AT,2024-12-13 12:22:32-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/src/modellist.cpp,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:35:37-05:00
+gpt4all-chat/src/server.cpp,AT,Jared Van Bortel,2024-08-29 12:59:13-04:00,2024-08-30 12:30:24-04:00
+gpt4all-chat/src/tool.h,AT,Jared Van Bortel,2025-01-29 18:33:08-05:00,2025-01-30 16:01:49-05:00
+gpt4all-chat/src/tool.h,Jared Van Bortel,AT,2025-01-30 16:01:49-05:00,2025-01-30 16:11:05-05:00
+gpt4all-chat/src/toolcallparser.cpp,AT,Jared Van Bortel,2025-01-30 16:11:05-05:00,2025-01-30 18:15:37-05:00
+gpt4all-chat/src/toolcallparser.h,AT,Jared Van Bortel,2025-01-30 16:11:05-05:00,2025-01-30 18:15:37-05:00
+gpt4all-chat/src/toolmodel.cpp,AT,Jared Van Bortel,2024-12-19 16:31:37-05:00,2024-12-19 16:39:56-05:00
+gpt4all-chat/translations/gpt4all_en_US.ts,Jared Van Bortel,Adam Treat,2024-08-08 13:41:47-04:00,2024-08-08 17:03:07-04:00
+gpt4all-chat/translations/gpt4all_en_US.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_en_US.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/translations/gpt4all_es_MX.ts,Jay,AT,2024-07-11 19:55:07-04:00,2024-07-12 16:14:58-04:00
+gpt4all-chat/translations/gpt4all_es_MX.ts,Adam Treat,Jay,2024-08-08 17:03:07-04:00,2024-08-09 15:18:27-04:00
+gpt4all-chat/translations/gpt4all_es_MX.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_es_MX.ts,Jared Van Bortel,Jay,2024-09-19 14:35:53-04:00,2024-09-19 17:25:55-04:00
+gpt4all-chat/translations/gpt4all_es_MX.ts,Jared Van Bortel,AT,2024-10-07 18:29:26-04:00,2024-10-08 11:15:50-04:00
+gpt4all-chat/translations/gpt4all_es_MX.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/translations/gpt4all_it_IT.ts,Adam Treat,Riccardo Giovanetti,2024-08-08 17:03:07-04:00,2024-08-08 18:45:41-04:00
+gpt4all-chat/translations/gpt4all_it_IT.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_it_IT.ts,Jared Van Bortel,AT,2024-10-07 18:29:26-04:00,2024-10-08 11:15:50-04:00
+gpt4all-chat/translations/gpt4all_it_IT.ts,AT,Riccardo Giovanetti,2024-10-08 11:15:50-04:00,2024-10-09 09:04:37-04:00
+gpt4all-chat/translations/gpt4all_it_IT.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/translations/gpt4all_pt_BR.ts,Thiago Ramos,AT,2024-07-25 09:18:44-04:00,2024-07-25 15:47:20-04:00
+gpt4all-chat/translations/gpt4all_pt_BR.ts,Adam Treat,Thiago Ramos,2024-08-08 17:03:07-04:00,2024-08-09 11:50:45-04:00
+gpt4all-chat/translations/gpt4all_pt_BR.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_pt_BR.ts,Jared Van Bortel,AT,2024-10-07 18:29:26-04:00,2024-10-08 11:15:50-04:00
+gpt4all-chat/translations/gpt4all_pt_BR.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Adam Treat,Victor,2024-08-08 17:03:07-04:00,2024-08-09 13:38:33-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Victor,Adam Treat,2024-08-09 13:38:33-04:00,2024-08-09 13:40:53-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Adam Treat,Victor,2024-08-09 13:40:53-04:00,2024-08-09 14:47:05-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Victor,cosmic-snow,2024-08-19 11:34:10-04:00,2024-08-19 12:01:18-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Jared Van Bortel,Victor,2024-09-18 14:18:36-04:00,2024-09-18 16:10:26-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Victor,Jared Van Bortel,2024-09-18 16:10:26-04:00,2024-09-19 14:35:53-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Jared Van Bortel,Victor,2024-10-07 18:29:26-04:00,2024-10-08 09:58:11-04:00
+gpt4all-chat/translations/gpt4all_ro_RO.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/translations/gpt4all_zh_CN.ts,wuhanodoo,AT,2024-07-25 09:19:17-04:00,2024-07-25 15:47:20-04:00
+gpt4all-chat/translations/gpt4all_zh_CN.ts,AT,wuhanodoo,2024-07-25 15:47:20-04:00,2024-07-26 13:21:46-04:00
+gpt4all-chat/translations/gpt4all_zh_CN.ts,Adam Treat,wuhanodoo,2024-08-08 17:03:07-04:00,2024-08-09 11:00:06-04:00
+gpt4all-chat/translations/gpt4all_zh_CN.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_zh_CN.ts,Jared Van Bortel,AT,2024-10-07 18:29:26-04:00,2024-10-08 11:15:50-04:00
+gpt4all-chat/translations/gpt4all_zh_CN.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/translations/gpt4all_zh_TW.ts,Adam Treat,不知火 Shiranui,2024-08-08 17:03:07-04:00,2024-08-09 11:01:07-04:00
+gpt4all-chat/translations/gpt4all_zh_TW.ts,Jared Van Bortel,AT,2024-08-30 12:44:10-04:00,2024-08-30 13:00:33-04:00
+gpt4all-chat/translations/gpt4all_zh_TW.ts,Jared Van Bortel,不知火 Shiranui,2024-10-07 18:29:26-04:00,2024-10-08 09:48:31-04:00
+gpt4all-chat/translations/gpt4all_zh_TW.ts,Jared Van Bortel,AT,2024-12-13 15:19:40-05:00,2024-12-13 17:33:05-05:00
+gpt4all-chat/usearch,AT,Jared Van Bortel,2024-06-24 18:49:23-04:00,2024-06-25 17:22:51-04:00
+gptj.cpp,Aaron Miller,Adam Treat,2023-04-19 08:33:13-04:00,2023-04-20 06:19:09-04:00
+gptj.h,Aaron Miller,Adam Treat,2023-04-19 08:33:13-04:00,2023-04-20 06:19:09-04:00
+inference.py,Zach,Zach Nussbaum,2023-04-07 12:09:31+00:00,2023-04-07 16:23:34+00:00
+inference.py,Zach Nussbaum,Zach,2023-04-07 19:04:19+00:00,2023-04-08 17:05:40+00:00
+llm.cpp,Adam Treat,Aaron Miller,2023-04-15 09:19:54-04:00,2023-04-15 13:29:51-04:00
+llm.cpp,Aaron Miller,Adam Treat,2023-04-15 13:29:51-04:00,2023-04-15 16:33:37-04:00
+llm.cpp,Adam Treat,Aaron Miller,2023-04-15 16:33:37-04:00,2023-04-16 11:16:30-04:00
+llm.cpp,Aaron Miller,Adam Treat,2023-04-16 11:16:30-04:00,2023-04-16 13:56:56-04:00
+llm.cpp,Adam Treat,Aaron Miller,2023-04-18 21:10:06-04:00,2023-04-19 08:33:13-04:00
+llm.cpp,Aaron Miller,Adam Treat,2023-04-19 08:33:13-04:00,2023-04-20 06:19:09-04:00
+llm.cpp,Adam Treat,Aaron Miller,2023-04-24 14:03:04-04:00,2023-04-24 18:05:08-04:00
+llm.cpp,Aaron Miller,Adam Treat,2023-04-24 18:05:08-04:00,2023-04-24 21:07:16-04:00
+llm.cpp,Adam Treat,Aaron Miller,2023-04-25 11:20:51-04:00,2023-04-25 16:24:55-04:00
+llm.h,Adam Treat,Aaron Miller,2023-04-18 11:42:38-04:00,2023-04-19 08:33:13-04:00
+llm.h,Aaron Miller,Adam Treat,2023-04-19 08:33:13-04:00,2023-04-20 06:19:09-04:00
+llm.h,Adam Treat,Aaron Miller,2023-04-24 07:59:42-04:00,2023-04-24 18:05:08-04:00
+llm.h,Aaron Miller,Adam Treat,2023-04-24 18:05:08-04:00,2023-04-25 08:38:29-04:00
+llm.h,Adam Treat,Aaron Miller,2023-04-25 11:20:51-04:00,2023-04-25 16:24:55-04:00
+llm.h,Aaron Miller,Adam Treat,2023-04-25 16:24:55-04:00,2023-04-26 08:22:38-04:00
+llmodel.h,Aaron Miller,Adam Treat,2023-04-19 08:33:13-04:00,2023-04-20 06:19:09-04:00
+llmodel/llmodel.h,Adam Treat,Aaron Miller,2023-05-04 15:31:41-04:00,2023-05-04 20:36:19-04:00
+llmodel/mpt.cpp,Adam Treat,Zach Nussbaum,2023-05-08 12:21:30-04:00,2023-05-08 12:21:30-04:00
+llmodel/mpt.cpp,Zach Nussbaum,Adam Treat,2023-05-08 12:21:30-04:00,2023-05-08 12:21:30-04:00
+llmodel/mpt.cpp,Adam Treat,Aaron Miller,2023-05-08 12:21:30-04:00,2023-05-08 18:23:36-04:00
+llmodel/mpt.cpp,Aaron Miller,Adam Treat,2023-05-08 18:23:36-04:00,2023-05-08 18:57:40-04:00
+main.qml,Aaron Miller,Adam Treat,2023-04-16 11:16:30-04:00,2023-04-16 11:25:48-04:00
+main.qml,Adam Treat,Aaron Miller,2023-04-18 08:45:21-04:00,2023-04-18 08:47:37-04:00
+main.qml,Aaron Miller,Adam Treat,2023-04-18 08:47:37-04:00,2023-04-18 11:42:38-04:00
+main.qml,Adam Treat,Aaron Miller,2023-04-18 21:10:06-04:00,2023-04-19 08:33:13-04:00
+main.qml,Aaron Miller,Adam Treat,2023-04-19 08:33:13-04:00,2023-04-20 06:19:09-04:00
+main.qml,Adam Treat,Aaron Miller,2023-04-25 12:13:17-04:00,2023-04-25 16:24:55-04:00
+main.qml,Aaron Miller,Adam Treat,2023-04-25 16:24:55-04:00,2023-04-25 21:20:56-04:00
+qml/SettingsDialog.qml,Adam Treat,Aaron Miller,2023-04-23 23:56:33-04:00,2023-04-24 18:05:08-04:00
+qml/SettingsDialog.qml,Aaron Miller,Adam Treat,2023-04-24 18:05:08-04:00,2023-04-25 12:37:14-04:00
+qml/SettingsDialog.qml,Adam Treat,Aaron Miller,2023-04-25 12:37:14-04:00,2023-04-25 16:24:55-04:00
+qml/SettingsDialog.qml,Aaron Miller,Adam Treat,2023-04-25 16:24:55-04:00,2023-04-25 16:33:01-04:00
+qml/SettingsDialog.qml,Adam Treat,Aaron Miller,2023-04-27 16:27:53-04:00,2023-04-27 17:41:38-04:00
+qml/SettingsDialog.qml,Aaron Miller,Adam Treat,2023-04-27 17:41:38-04:00,2023-04-28 11:03:16-04:00
+qml/SettingsDialog.qml,Adam Treat,Aaron Miller,2023-04-28 11:03:16-04:00,2023-04-28 20:45:40-04:00
+qml/SettingsDialog.qml,Aaron Miller,Adam Treat,2023-04-28 20:45:40-04:00,2023-04-28 22:07:37-04:00
+train.py,Zach Nussbaum,Zach,2023-04-05 02:36:22+00:00,2023-04-05 20:42:22+00:00

@@ -1,0 +1,27 @@
+file,author1,author2,time1,time2
+README.md,Georg,Georg Kucsko,2023-04-11 10:48:30-05:00,2023-04-11 11:50:32-04:00
+README.md,Georg Kucsko,Keenan Freyberg,2023-04-11 11:50:32-04:00,2023-04-11 18:17:12-07:00
+README.md,Georg Kucsko,Keenan Freyberg,2023-04-18 12:45:46-04:00,2023-04-18 21:02:14-07:00
+README.md,Georg Kucsko,Martin Camacho,2023-04-20 15:35:45-04:00,2023-04-20 14:41:21-07:00
+README.md,Martin Camacho,Keenan Freyberg,2023-04-20 14:41:21-07:00,2023-04-21 07:13:43-07:00
+README.md,Keenan Freyberg,Martin Camacho,2023-04-21 07:13:43-07:00,2023-04-21 09:00:11-07:00
+README.md,Martin Camacho,Georg Kucsko,2023-04-21 10:49:01-07:00,2023-04-21 15:13:18-04:00
+README.md,Keenan Freyberg,Georg Kucsko,2023-04-28 17:28:57-04:00,2023-04-28 17:38:54-04:00
+README.md,Keenan Freyberg,Georg Kucsko,2023-09-15 13:11:48-07:00,2023-09-15 16:20:28-04:00
+README.md,Georg Kucsko,Keenan Freyberg,2023-09-15 16:20:28-04:00,2023-09-15 13:54:51-07:00
+bark/__pycache__/__init__.cpython-38.pyc,Georg Kucsko,Mikey Shulman,2023-04-09 13:21:02-04:00,2023-04-10 13:11:22-04:00
+bark/__pycache__/api.cpython-38.pyc,Georg Kucsko,Mikey Shulman,2023-04-09 13:21:02-04:00,2023-04-10 13:11:22-04:00
+bark/__pycache__/generation.cpython-38.pyc,Georg Kucsko,Mikey Shulman,2023-04-09 13:21:02-04:00,2023-04-10 13:11:22-04:00
+bark/__pycache__/model.cpython-38.pyc,Georg Kucsko,Mikey Shulman,2023-04-09 13:21:02-04:00,2023-04-10 13:11:22-04:00
+bark/__pycache__/model_fine.cpython-38.pyc,Georg Kucsko,Mikey Shulman,2023-04-09 13:21:02-04:00,2023-04-10 13:11:22-04:00
+bark/api.py,Georg Kucsko,Zygimantas Straznickas,2023-04-21 16:14:10-04:00,2023-04-22 12:00:23-07:00
+bark/api.py,Zygimantas Straznickas,Georg Kucsko,2023-04-22 12:00:23-07:00,2023-04-22 15:42:30-04:00
+bark/generation.py,Georg Kucsko,Georg,2023-04-10 13:00:33-04:00,2023-04-11 10:48:30-05:00
+bark/generation.py,Georg Kucsko,Martin Camacho,2023-04-13 14:27:35-04:00,2023-04-14 10:36:45-07:00
+bark/generation.py,Georg Kucsko,Zygimantas Straznickas,2023-04-21 16:14:10-04:00,2023-04-22 12:00:23-07:00
+bark/generation.py,Zygimantas Straznickas,Georg Kucsko,2023-04-22 12:23:55-07:00,2023-04-22 17:09:20-04:00
+bark/generation.py,Georg Kucsko,Jairo Correa,2023-04-25 17:49:35-04:00,2023-04-25 21:21:52-03:00
+bark/generation.py,vaibhavs10,Vaibhav Srivastav,2023-04-27 16:19:58+02:00,2023-04-27 17:35:28+02:00
+bark/generation.py,Jairo Correa,Georg Kucsko,2023-05-03 16:21:35-04:00,2023-05-03 21:58:24-04:00
+model-card.md,Keenan Freyberg,Georg Kucsko,2023-04-11 18:18:23-07:00,2023-04-12 14:31:05-04:00
+notebooks/memory_profiling_bark.ipynb,Georg Kucsko,Mikey Shulman,2023-05-01 14:44:50-04:00,2023-05-02 10:32:52-04:00

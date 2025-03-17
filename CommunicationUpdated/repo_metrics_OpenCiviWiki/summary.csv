@@ -1,0 +1,159 @@
+Field,Value
+Commits Overview,
+Total Commits,2415
+Total Unique Authors,121
+,
+Top 10 Contributors,
+Author,Commits
+jl24,1174
+Brylie Christopher Oxley,997
+Daniel Borstelmann,804
+grkm,416
+JooHee Lee,269
+Darius Calliet,247
+Abhijith Ganesh,211
+max1204,210
+allcontributors[bot],184
+Tomasz Kołek,182
+,
+Communication Events,Total: 324
+"Author1,Author2",Events
+"Unit One,Petar Petrov",43
+"Борис Женихов,Aditya Mittal",34
+"JooHee Lee,Tomasz Kołek",14
+"Abhijith Ganesh,grkm",11
+"Darius Calliet,Daniel Borstelmann",10
+"grkm,Abhijith Ganesh",7
+"Brylie Christopher Oxley,JooHee Lee",7
+"allcontributors[bot],Brylie Christopher Oxley",7
+"Brylie Christopher Oxley,allcontributors[bot]",6
+"Brylie Christopher Oxley,grkm",6
+"Daniel Borstelmann,Darius Calliet",6
+"ANURAG VERMA,Brylie Christopher Oxley",6
+"Maryam Yusuf,Brylie Christopher Oxley",6
+"Daniel Borstelmann,jl24",6
+"Abhijith Ganesh,Brylie Christopher Oxley",5
+"jl24,Daniel Borstelmann",5
+"grkm,Görkem Arslan",4
+"Brylie Christopher Oxley,Abhijith Ganesh",4
+"Daniel Borstelmann,Dan Borstelmann",4
+"shubhushan,grkm",4
+"ANURAG VERMA,Abhijith Ganesh",4
+"Brylie Christopher Oxley,Tomasz Kołek",3
+"Brylie Christopher Oxley,loukikstudent",3
+"Brylie Christopher Oxley,Jacob North",3
+"Robert Xu,Shannon Lau",3
+"JooHee Lee,delta-plus",3
+"Unit One,Tomasz Kołek",3
+"Ahmed Nassar,Jacob North",3
+"pyup-bot,Brylie Christopher Oxley",3
+"loukikstudent,Brylie Christopher Oxley",3
+"Tomasz Kołek,Brylie Christopher Oxley",3
+"Tomasz Kołek,pyup-bot",3
+"Trac Taylor,Matt Gercz",3
+"Борис Женихов,Abhijith Ganesh",3
+"Brylie Christopher Oxley,Борис Женихов",2
+"Görkem Arslan,grkm",2
+"JooHee Lee,GokuMizuno",2
+"Shannon Lau,Robert Xu",2
+"delta-plus,Tomasz Kołek",2
+"daaavo,Brylie Christopher Oxley",2
+"Trac Taylor,Paul Scheid",2
+"daaavo,SethAngell",2
+"Ahmed Nassar,max1204",2
+"Steven Hitchcock,JooHee Lee",2
+"pyup-bot,Tomasz Kołek",2
+"Tomasz Kołek,Daniel Grijalva",2
+"Hush,allcontributors[bot]",1
+"EP,prelude",1
+"Daniel Larner,pyup-bot",1
+"Darius Calliet,jl24",1
+"Brylie Christopher Oxley,vishalda",1
+"Brylie Christopher Oxley,silvarthur",1
+"Brylie Christopher Oxley,JDRanpariya",1
+"Haseeb Majid,Brylie Christopher Oxley",1
+"Gustavo,Shaunak Gupta",1
+"Brylie Christopher Oxley,Mazen Ramadan",1
+"Brylie Christopher Oxley,Rodolfo Nei",1
+"Brylie Christopher Oxley,Paul Scheid",1
+"Brylie Christopher Oxley,SethAngell",1
+"Brylie Christopher Oxley,gorkemarslan",1
+"Apoorva Kashyap,daaavo",1
+"Bill Collins,Matt Gercz",1
+"Bill Collins,Tomasz Kołek",1
+"ANURAG VERMA,wassaf",1
+"Abhijith Ganesh,Simon Damberg",1
+"Abhijith Ganesh,Samriddhi B",1
+"Abhijith Ganesh,Görkem Arslan",1
+"Ahmed Nassar,Shashank KS",1
+"Abhijith Ganesh,Aditya Mittal",1
+"Brylie Christopher Oxley,Haseeb Majid",1
+"Brylie Christopher Oxley,Apoorva Kashyap",1
+"JooHee Lee,Terrence Tuy",1
+"JooHee Lee,Daniel Larner",1
+"JDRanpariya,allcontributors[bot]",1
+"JooHee Lee,Brylie Christopher Oxley",1
+"JooHee Lee,Matt Gercz",1
+"Tianyi Chen,rbatchu2",1
+"Swanand01,Paul Scheid",1
+"TJH,Tomasz Kołek",1
+"Terrence Tuy,Tomasz Kołek",1
+"Ria Jotsinghani,audreyelim",1
+"Petar Petrov,pyup-bot",1
+"Shivoy Dixit,Shivaay",1
+"Shourya Shikhar,allcontributors[bot]",1
+"Petar Petrov,Tomasz Kołek",1
+"Paul Scheid,JooHee Lee",1
+"JooHee Lee,Jon Ander Oribe",1
+"Making GitHub Delicious,mdwest",1
+"Matt Gercz,Gustavo",1
+"Matt Gercz,Tomasz Kołek",1
+"Mikulas Zupcan,Bruno Rodrigues",1
+"Ni3dzwi3dz,Brylie Christopher Oxley",1
+"Jon Ander Oribe,Tomasz Kołek",1
+"harsha vardhan,Brylie Christopher Oxley",1
+"delta-plus,TJH",1
+"grkm,ANURAG VERMA",1
+"Unit One,Gustavo",1
+"grkm,gorkemarslan",1
+"mdwest,Making GitHub Delicious",1
+"max1204,Ahmed Nassar",1
+"prelude,Abhijith Ganesh",1
+"pyup-bot,Ahmed Nassar",1
+"mdwest,Brylie Christopher Oxley",1
+"pyup-bot,dependabot[bot]",1
+"ryan-barrett,Bill Collins",1
+"rbatchu2,Frederic Khayat",1
+"zafar-hussain,allcontributors[bot]",1
+"wassaf,ANURAG VERMA",1
+,
+Committer Timezone Distribution,Unique Timezones: 15
+Timezone,Commits
++00:00,165
++01:00,60
++02:00,100
++03:00,1153
++05:00,18
++05:30,180
++06:00,8
++09:00,1
+-03:00,13
+-04:00,36
+-05:00,425
+-06:00,94
+-07:00,125
+-08:00,35
+-10:00,2
+,
+Contributors Experience,Average across 848 files: 89.22%
+File,Top Contributor Share (%)
+civiwiki/api/admin.py,100.00
+civiwiki/api/models/__init__.py,100.00
+civiwiki/api/models/attachment.py,100.00
+civiwiki/api/models/category.py,100.00
+civiwiki/api/models/comment.py,100.00
+civiwiki/api/models/group.py,100.00
+civiwiki/api/models/hashtag.py,100.00
+civiwiki/api/models/topic.py,100.00
+civiwiki/api/tests.py,100.00
+civiwiki/civiwiki/settings/__init__.py,100.00

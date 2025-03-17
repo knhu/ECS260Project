@@ -1,0 +1,66 @@
+Field,Value
+Commits Overview,
+Total Commits,148
+Total Unique Authors,48
+,
+Top 10 Contributors,
+Author,Commits
+Ubuntu,27
+Joseph Spisak,18
+Timothee Lacroix,17
+sekyondaMeta,11
+rajveer43,5
+Suraj Subramanian,4
+Suliman Sagindykov,3
+tomorrmato,3
+huy-ha,2
+flu0r1ne,2
+,
+Communication Events,Total: 18
+"Author1,Author2",Events
+"Ubuntu,tomorrmato",3
+"sekyondaMeta,Joseph Spisak",2
+"Alex,flu0r1ne",1
+"Jared,Jared Levi De La Fuente Rodriguez",1
+"Joseph Spisak,JacobHelwig",1
+"Daniel Lo Nigro,Ikko Eltociear Ashimine",1
+"Daryl,Chris Marra",1
+"Ubuntu,Daryl",1
+"Suliman Sagindykov,Daniel Lo Nigro",1
+"Ubuntu,Sergii Dymchenko",1
+"Ubuntu,Jan Van de Poel",1
+"Ubuntu,tianwei",1
+"godpeny,Daniel Engbert",1
+"tianwei,Ubuntu",1
+"timlacroix,Guillaume Lample",1
+,
+Committer Timezone Distribution,Unique Timezones: 15
+Timezone,Commits
++00:00,9
++01:00,8
++02:00,6
++03:00,1
++05:00,3
++05:30,5
++08:00,6
++09:00,3
++10:00,1
++11:00,1
+-04:00,30
+-05:00,10
+-06:00,7
+-07:00,48
+-08:00,10
+,
+Contributors Experience,Average across 20 files: 73.70%
+File,Top Contributor Share (%)
+.gitignore,100.00
+CODE_OF_CONDUCT.md,100.00
+example.py,100.00
+USE_POLICY.md,100.00
+.github/ISSUE_TEMPLATE/bug_report.md,100.00
+UPDATES.md,86.36
+LICENSE,84.36
+example_chat_completion.py,83.33
+requirements.txt,80.00
+CONTRIBUTING.md,77.50

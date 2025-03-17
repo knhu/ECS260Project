@@ -1,0 +1,1734 @@
+author,timestamp,file
+Dan Eden,2011-10-12 11:08:15+01:00,README
+Dan Eden,2011-10-12 11:08:15+01:00,animate.css
+Dan Eden,2011-10-12 12:11:48+02:00,README
+Dan Eden,2011-10-12 13:28:23+02:00,animate.css
+Dan Eden,2011-10-12 17:48:32+02:00,animate.css
+Dan Eden,2011-10-12 17:51:34+02:00,animate.css
+Dan Eden,2011-10-13 12:18:26+02:00,animate.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounce.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceIn.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceInDown.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceInLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceInRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceInUp.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceOut.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceOutLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceOutRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceOutUp.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/bounceOutdown.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeIn.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInDown.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInDownBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInLeftBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInRightBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInUp.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeInUpBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOut.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutDown.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutDownBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutLeftBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutRightBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutUp.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/fadeOutUpBig.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/flash.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateIn.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateInDownLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateInDownRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateInUpLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateInUpRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateOut.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateOutDownLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateOutDownRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateOutUpLeft.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/rotateOutUpRight.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/shake.css
+Dan Eden,2011-10-14 13:39:11+01:00,source/tada.css
+Anthony Calzadilla,2011-10-14 11:20:24-04:00,animate.css
+Anthony Calzadilla,2011-10-14 11:20:24-04:00,source/flash.css
+Anthony Calzadilla,2011-10-14 11:29:24-04:00,animate.css
+Anthony Calzadilla,2011-10-14 11:29:24-04:00,source/bounce.css
+Anthony Calzadilla,2011-10-14 11:54:30-04:00,animate.css
+Anthony Calzadilla,2011-10-14 11:54:30-04:00,source/shake.css
+Anthony Calzadilla,2011-10-14 11:54:30-04:00,source/tada.css
+Dom Wood,2011-10-17 18:37:31+02:00,README
+Dan Eden,2011-10-19 10:58:30+01:00,animate.css
+Dan Eden,2011-10-19 10:58:30+01:00,source/hinge.css
+Dan Eden,2011-10-19 10:58:30+01:00,source/pulse.css
+Dan Eden,2011-10-19 10:58:30+01:00,source/rollIn.css
+Dan Eden,2011-10-19 10:58:30+01:00,source/rollOut.css
+Dan Eden,2011-10-19 10:58:30+01:00,source/swing.css
+Dan Eden,2011-10-19 10:58:30+01:00,source/wobble.css
+Jean Carlo Nascimento,2011-10-20 16:01:26-02:00,source/bounce.css
+Jean Carlo Nascimento,2011-10-20 16:03:51-02:00,source/bounceIn.css
+Jean Carlo Nascimento,2011-10-20 16:04:30-02:00,source/bounceInDown.css
+Jean Carlo Nascimento,2011-10-20 16:05:07-02:00,source/bounceInLeft.css
+Jean Carlo Nascimento,2011-10-20 16:07:24-02:00,source/bounceInRight.css
+Jean Carlo Nascimento,2011-10-20 16:18:51-02:00,source/bounceInUp.css
+Jean Carlo Nascimento,2011-10-20 16:20:41-02:00,source/bounceOut.css
+Jean Carlo Nascimento,2011-10-20 16:21:28-02:00,source/bounceOut.css
+Jean Carlo Nascimento,2011-10-20 16:22:03-02:00,source/bounceOutLeft.css
+Jean Carlo Nascimento,2011-10-20 16:22:46-02:00,source/bounceOutRight.css
+Jean Carlo Nascimento,2011-10-20 16:26:48-02:00,source/bounceOutUp.css
+Jean Carlo Nascimento,2011-10-20 16:27:24-02:00,source/bounceOutRight.css
+Jean Carlo Nascimento,2011-10-20 16:37:03-02:00,source/bounceOutLeft.css
+Jean Carlo Nascimento,2011-10-20 16:38:54-02:00,source/bounceOut.css
+Jean Carlo Nascimento,2011-10-20 16:39:31-02:00,source/bounceInUp.css
+Jean Carlo Nascimento,2011-10-20 16:40:27-02:00,source/bounceInRight.css
+Jean Carlo Nascimento,2011-10-20 16:53:42-02:00,source/bounceInLeft.css
+Jean Carlo Nascimento,2011-10-20 16:57:58-02:00,source/bounceInDown.css
+Jean Carlo Nascimento,2011-10-20 16:58:23-02:00,source/bounceIn.css
+Jean Carlo Nascimento,2011-10-20 16:58:52-02:00,source/bounce.css
+Jean Carlo Nascimento,2011-10-20 16:59:39-02:00,source/bounceOutdown.css
+Jean Carlo Nascimento,2011-10-20 17:02:36-02:00,source/fadeIn.css
+Jean Carlo Nascimento,2011-10-20 17:03:39-02:00,source/fadeInDown.css
+Jean Carlo Nascimento,2011-10-20 17:04:11-02:00,source/fadeInDownBig.css
+Jean Carlo Nascimento,2011-10-20 17:04:59-02:00,source/fadeInLeft.css
+Jean Carlo Nascimento,2011-10-20 17:05:49-02:00,source/fadeInLeftBig.css
+Jean Carlo Nascimento,2011-10-20 17:09:56-02:00,source/fadeInRight.css
+Jean Carlo Nascimento,2011-10-20 17:10:31-02:00,source/fadeInRightBig.css
+Jean Carlo Nascimento,2011-10-20 17:11:02-02:00,source/fadeInUp.css
+Jean Carlo Nascimento,2011-10-20 17:12:25-02:00,source/fadeInRightBig.css
+Jean Carlo Nascimento,2011-10-20 17:13:03-02:00,source/fadeInUpBig.css
+Jean Carlo Nascimento,2011-10-20 17:14:38-02:00,source/fadeOut.css
+Jean Carlo Nascimento,2011-10-20 17:15:08-02:00,source/fadeOutDown.css
+Jean Carlo Nascimento,2011-10-20 17:16:20-02:00,source/fadeOutDownBig.css
+Jean Carlo Nascimento,2011-10-20 17:16:58-02:00,source/fadeOutLeft.css
+Jean Carlo Nascimento,2011-10-20 17:18:51-02:00,source/fadeOutLeftBig.css
+Jean Carlo Nascimento,2011-10-20 17:19:54-02:00,source/fadeOutRight.css
+Jean Carlo Nascimento,2011-10-20 17:20:30-02:00,source/fadeOutRight.css
+Jean Carlo Nascimento,2011-10-20 17:21:16-02:00,source/fadeOutRightBig.css
+Jean Carlo Nascimento,2011-10-20 17:22:30-02:00,source/fadeOutUp.css
+Jean Carlo Nascimento,2011-10-20 17:23:17-02:00,source/fadeOutUpBig.css
+Jean Carlo Nascimento,2011-10-20 17:24:54-02:00,source/flash.css
+Dan Eden,2011-10-21 09:34:54+02:00,source/hinge.css
+Dan Eden,2011-10-21 09:35:15+02:00,source/hinge.css
+Dan Eden,2011-10-21 09:35:42+02:00,source/pulse.css
+Dan Eden,2011-10-21 09:36:03+02:00,source/rollIn.css
+Dan Eden,2011-10-21 09:36:21+02:00,source/rollIn.css
+Dan Eden,2011-10-21 09:37:01+02:00,source/rollOut.css
+Dan Eden,2011-10-21 09:37:31+02:00,source/rotateIn.css
+Dan Eden,2011-10-21 09:38:05+02:00,source/rotateInDownLeft.css
+Dan Eden,2011-10-21 09:38:38+02:00,source/rotateInDownRight.css
+Dan Eden,2011-10-21 09:39:12+02:00,source/rotateInUpLeft.css
+Dan Eden,2011-10-21 09:39:41+02:00,source/rotateInUpRight.css
+Dan Eden,2011-10-21 09:40:11+02:00,source/rotateOut.css
+Dan Eden,2011-10-21 09:40:39+02:00,source/rotateOutDownLeft.css
+Dan Eden,2011-10-21 09:41:10+02:00,source/rotateOutDownRight.css
+Dan Eden,2011-10-21 09:41:43+02:00,source/rotateOutUpLeft.css
+Dan Eden,2011-10-21 09:42:12+02:00,source/rotateOutUpRight.css
+Dan Eden,2011-10-21 09:42:39+02:00,source/shake.css
+Dan Eden,2011-10-21 09:43:42+02:00,source/swing.css
+Dan Eden,2011-10-21 09:44:15+02:00,source/tada.css
+Dan Eden,2011-10-21 09:44:59+02:00,source/wobble.css
+Dan Eden,2011-10-21 09:48:48+02:00,animate.css
+Dan Eden,2011-10-21 12:41:44+02:00,source/hinge.css
+Dan Eden,2011-10-21 12:46:27+02:00,source/swing.css
+Dan Eden,2011-10-21 12:47:42+02:00,animate.css
+Dan Eden,2011-10-31 16:18:35+00:00,animate.css
+Dan Eden,2011-11-01 12:39:27+00:00,source/flip.css
+Dan Eden,2011-11-01 12:39:27+00:00,source/flipInX.css
+Dan Eden,2011-11-01 12:39:27+00:00,source/flipInY.css
+Dan Eden,2011-11-01 12:39:27+00:00,source/flipOutX.css
+Dan Eden,2011-11-01 12:39:27+00:00,source/flipOutY.css
+Dan Eden,2011-11-01 12:39:53+00:00,animate.css
+Dan Eden,2011-12-08 14:50:20+00:00,animate.css
+Dan Eden,2011-12-08 14:50:20+00:00,source/flip.css
+Dan Eden,2011-12-14 10:14:22+00:00,README
+Dan Eden,2011-12-14 10:14:22+00:00,README.md
+Dan Eden,2011-12-15 23:13:59+00:00,LICENSE.txt
+Dan Eden,2011-12-21 08:41:10+00:00,README.md
+Dan Eden,2012-02-29 12:16:07+00:00,animate.css
+Dan Eden,2012-03-24 17:59:47+00:00,LICENSE.txt
+Dan Eden,2012-03-24 17:59:47+00:00,README.md
+Dan Eden,2012-04-19 07:35:31+02:00,animate.css
+Dan Eden,2012-05-02 07:35:44+02:00,animate.css
+Dan Eden,2012-05-02 07:36:56+02:00,animate.css
+angelorohit,2012-05-10 22:00:56+08:00,animate.css
+angelorohit,2012-05-10 22:00:56+08:00,source/lightSpeedIn.css
+angelorohit,2012-05-10 22:00:56+08:00,source/lightSpeedOut.css
+angelorohit,2012-05-10 23:14:08+08:00,animate.css
+angelorohit,2012-05-10 23:14:08+08:00,source/vibrate.css
+angelorohit,2012-05-12 17:25:49+08:00,animate.css
+angelorohit,2012-05-12 17:25:49+08:00,source/wiggle.css
+Gavin Elster,2012-05-18 15:43:58-07:00,animate.css
+Dan Eden,2012-06-11 14:49:35+01:00,animate.min.css
+Dan Eden,2012-07-09 12:01:50+01:00,animate.css
+Dan Eden,2012-07-09 12:01:50+01:00,animate.min.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounce.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceIn.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceInDown.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceInLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceInRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceInUp.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceOut.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceOutLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceOutRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceOutUp.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/bounceOutdown.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeIn.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInDown.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInDownBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInLeftBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInRightBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInUp.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeInUpBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOut.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutDown.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutDownBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutLeftBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutRightBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutUp.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/fadeOutUpBig.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/flash.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/flip.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/flipInX.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/flipInY.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/flipOutX.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/flipOutY.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/hinge.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/lightSpeedIn.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/lightSpeedOut.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/pulse.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rollIn.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rollOut.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateIn.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateInDownLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateInDownRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateInUpLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateInUpRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateOut.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateOutDownLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateOutDownRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateOutUpLeft.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/rotateOutUpRight.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/shake.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/swing.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/tada.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/wiggle.css
+Dan Eden,2012-07-09 12:01:50+01:00,source/wobble.css
+Dan Eden,2012-07-09 12:02:13+01:00,source/bounceOutDown.css
+Dan Eden,2012-07-09 12:21:34+01:00,animate.css
+Jeremy Ricketts,2012-07-19 23:57:12-07:00,README.md
+Jeremy Ricketts,2012-07-21 10:01:08-07:00,animate.css
+Dan Eden,2012-09-13 17:43:41+02:00,README.md
+Allen Bargi,2012-09-13 21:23:26+03:00,README.md
+Dan Rodney,2012-09-14 14:18:10-04:00,README.md
+Dan Rodney,2012-09-14 14:22:11-04:00,README.md
+Dan Eden,2012-10-02 18:43:43+01:00,animate.min.css
+Thomas ZILLIOX,2012-10-21 22:02:00+03:00,animate.css
+Thomas ZILLIOX,2012-10-21 22:08:38+03:00,animate.min.css
+Dan Eden,2013-01-07 16:45:57+00:00,README.md
+Daniel Eden,2013-03-06 17:34:20+00:00,README.md
+Daniel Eden,2013-03-06 17:39:30+00:00,animate.css
+Daniel Eden,2013-03-06 17:40:20+00:00,animate.css
+Dan Eden,2013-03-12 13:00:35+00:00,README.md
+Dan Eden,2013-03-12 13:00:35+00:00,animate.css
+Dan Eden,2013-04-09 11:46:55+01:00,source/fadeInDown.css
+ankurx,2013-07-19 14:51:11-04:00,bower.json
+mintbird,2013-07-20 18:01:43+07:00,animate.css
+mintbird,2013-07-20 18:01:43+07:00,animate.min.css
+Daniel Eden,2013-08-12 14:41:26+01:00,animate.min.css
+George Petrov,2013-08-15 13:15:32+02:00,animate.css
+Daniel Eden,2013-08-15 22:28:32+01:00,animate.min.css
+Daniel Eden,2013-08-15 22:29:40+01:00,source/flip.css
+Daniel Eden,2013-08-15 22:37:36+01:00,animate.css
+Daniel Eden,2013-08-15 22:37:56+01:00,animate.min.css
+Daniel Eden,2013-08-15 22:38:14+01:00,source/wiggle.css
+Daniel Eden,2013-08-16 15:39:22+01:00,bower.json
+Daniel Eden,2013-08-22 21:52:45+01:00,README.md
+Logan Fisher,2013-09-11 13:13:15-05:00,.idea/animate.css.iml
+Logan Fisher,2013-09-11 13:13:15-05:00,.idea/encodings.xml
+Logan Fisher,2013-09-11 13:13:15-05:00,.idea/misc.xml
+Logan Fisher,2013-09-11 13:13:15-05:00,.idea/modules.xml
+Logan Fisher,2013-09-11 13:13:15-05:00,.idea/scopes/scope_settings.xml
+Logan Fisher,2013-09-11 13:13:15-05:00,.idea/vcs.xml
+Logan Fisher,2013-09-11 13:13:15-05:00,source/slideInDown.css
+Logan Fisher,2013-09-11 13:13:15-05:00,source/slideInLeft.css
+Logan Fisher,2013-09-11 13:13:15-05:00,source/slideInRight.css
+Logan Fisher,2013-09-11 13:13:15-05:00,source/slideOutLeft.css
+Logan Fisher,2013-09-11 13:13:15-05:00,source/slideOutRight.css
+Logan Fisher,2013-09-11 13:13:15-05:00,source/slideOutUp.css
+Logan Fisher,2013-09-11 13:19:14-05:00,.idea/animate.css.iml
+Logan Fisher,2013-09-11 13:19:14-05:00,.idea/encodings.xml
+Logan Fisher,2013-09-11 13:19:14-05:00,.idea/misc.xml
+Logan Fisher,2013-09-11 13:19:14-05:00,.idea/modules.xml
+Logan Fisher,2013-09-11 13:19:14-05:00,.idea/scopes/scope_settings.xml
+Logan Fisher,2013-09-11 13:19:14-05:00,.idea/vcs.xml
+Daniel Eden,2013-09-11 20:57:16+01:00,README.md
+Daniel Eden,2013-09-11 23:03:32+01:00,animate.css
+Daniel Eden,2013-09-11 23:03:32+01:00,animate.min.css
+Daniel Eden,2013-09-11 23:03:32+01:00,bower.json
+Daniel Eden,2013-11-08 17:00:43-08:00,bower.json
+Daniel Eden,2013-11-11 15:32:40-08:00,.gitignore
+Daniel Eden,2013-11-11 15:32:40-08:00,Gruntfile.js
+Daniel Eden,2013-11-11 15:32:40-08:00,README.md
+Daniel Eden,2013-11-11 15:32:40-08:00,animate.css
+Daniel Eden,2013-11-11 15:32:40-08:00,animate.min.css
+Daniel Eden,2013-11-11 15:32:40-08:00,bower.json
+Daniel Eden,2013-11-11 15:32:40-08:00,package.json
+Daniel Eden,2013-11-11 15:32:40-08:00,source/_base.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/bounce.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/flash.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/pulse.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/shake.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/swing.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/tada.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/attention_seekers/wobble.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounce.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceInDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceInLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceInRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceInUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceOutDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceOutLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceOutRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bounceOutUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_entrances/bounceIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_entrances/bounceInDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_entrances/bounceInLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_entrances/bounceInRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_entrances/bounceInUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_exits/bounceOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_exits/bounceOutDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_exits/bounceOutLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_exits/bounceOutRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/bouncing_exits/bounceOutUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInDownBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInLeftBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInRightBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeInUpBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutDownBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutLeftBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutRightBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fadeOutUpBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInDownBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInLeftBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInRightBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_entrances/fadeInUpBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutDownBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutLeftBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutRightBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/fading_exits/fadeOutUpBig.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flash.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flip.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flipInX.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flipInY.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flipOutX.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flipOutY.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flippers/flip.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flippers/flipInX.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flippers/flipInY.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flippers/flipOutX.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/flippers/flipOutY.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/hinge.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/lightSpeedIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/lightSpeedOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/lightspeed/lightSpeedIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/lightspeed/lightSpeedOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/pulse.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rollIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rollOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateInDownLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateInDownRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateInUpLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateInUpRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateOutDownLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateOutDownRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateOutUpLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotateOutUpRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_entrances/rotateIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_entrances/rotateInDownLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_entrances/rotateInDownRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_entrances/rotateInUpLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_entrances/rotateInUpRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_exits/rotateOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_exits/rotateOutDownLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_exits/rotateOutDownRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_exits/rotateOutUpLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/rotating_exits/rotateOutUpRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/shake.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/slideInDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/slideInLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/slideInRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/slideOutLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/slideOutRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/slideOutUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/sliders/slideInDown.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/sliders/slideInLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/sliders/slideInRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/sliders/slideOutLeft.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/sliders/slideOutRight.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/sliders/slideOutUp.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/specials/hinge.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/specials/rollIn.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/specials/rollOut.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/swing.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/tada.css
+Daniel Eden,2013-11-11 15:32:40-08:00,source/wobble.css
+Daniel Eden,2013-11-23 13:24:22-08:00,.animate-config
+Daniel Eden,2013-11-23 13:24:22-08:00,Gruntfile.js
+Daniel Eden,2013-11-23 13:24:22-08:00,animate.css
+Daniel Eden,2013-11-23 13:24:22-08:00,animate.min.css
+Daniel Eden,2013-11-23 13:24:22-08:00,source/_base.css
+Daniel Eden,2013-11-23 13:24:22-08:00,source/flippers/flip.css
+Daniel Eden,2013-11-23 13:47:23-08:00,README.md
+tomByrer,2013-11-24 21:02:24-07:00,source/rotating_exits/rotateOutUpLeft.css
+Jeff Martin,2013-11-28 17:35:01-05:00,animate.css
+Jeff Martin,2013-11-28 17:35:01-05:00,animate.min.css
+Sacha Schmid,2013-12-05 09:29:14+01:00,.animate-config
+Heinrich Fenkart,2013-12-25 17:51:08+01:00,.animate-config.json
+Heinrich Fenkart,2013-12-25 17:51:08+01:00,Gruntfile.js
+Heinrich Fenkart,2013-12-25 17:51:08+01:00,README.md
+Daniel Eden,2014-01-31 13:45:11+00:00,README.md
+Ionică Bizău,2014-02-04 09:51:08+02:00,README.md
+Nick Sahler,2014-02-08 09:08:18-05:00,source/bouncing_entrances/bounceIn.css
+Matt Willis,2014-02-13 18:47:02-05:00,.animate-config.json
+Matt Willis,2014-02-13 18:47:02-05:00,source/attention_seekers/rubberBand.css
+Daniel Eden,2014-02-23 11:11:43-08:00,Gruntfile.js
+Daniel Eden,2014-02-23 11:11:43-08:00,README.md
+Daniel Eden,2014-02-23 11:11:43-08:00,animate-config.json
+Daniel Eden,2014-02-23 11:11:43-08:00,bower.json
+Daniel Eden,2014-02-23 11:11:43-08:00,package.json
+Sarbbottam Bandyopadhyay,2014-02-24 00:53:52+05:30,Gruntfile.js
+Sarbbottam Bandyopadhyay,2014-02-24 00:53:52+05:30,animate.css
+Sarbbottam Bandyopadhyay,2014-02-24 00:53:52+05:30,animate.min.css
+Sarbbottam Bandyopadhyay,2014-02-24 00:53:52+05:30,package.json
+Sarbbottam Bandyopadhyay,2014-02-24 00:57:23+05:30,package.json
+Sarbbottam Bandyopadhyay,2014-02-24 00:59:40+05:30,.editorconfig
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,.gitignore
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,animate-config.json
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/_base.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/bounce.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/flash.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/pulse.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/rubberBand.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/shake.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/swing.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/tada.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/attention_seekers/wobble.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_entrances/bounceInDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_entrances/bounceInLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_entrances/bounceInRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_entrances/bounceInUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_exits/bounceOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_exits/bounceOutDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_exits/bounceOutLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_exits/bounceOutRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/bouncing_exits/bounceOutUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInDownBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInLeftBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInRightBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_entrances/fadeInUpBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutDownBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutLeftBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutRightBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/fading_exits/fadeOutUpBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/flippers/flip.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/flippers/flipInX.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/flippers/flipInY.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/flippers/flipOutX.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/flippers/flipOutY.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/lightspeed/lightSpeedIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/lightspeed/lightSpeedOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_entrances/rotateIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_entrances/rotateInDownLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_entrances/rotateInDownRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_entrances/rotateInUpLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_entrances/rotateInUpRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_exits/rotateOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_exits/rotateOutDownLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_exits/rotateOutDownRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/rotating_exits/rotateOutUpRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/sliders/slideInDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/sliders/slideInLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/sliders/slideInRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/sliders/slideOutLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/sliders/slideOutRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/sliders/slideOutUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/specials/hinge.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/specials/rollIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 02:09:02+05:30,source/specials/rollOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,README.md
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,animate.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,animate.min.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/_base.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/bounce.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/flash.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/pulse.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/rubberBand.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/shake.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/swing.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/tada.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/attention_seekers/wobble.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_entrances/bounceIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_entrances/bounceInDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_entrances/bounceInLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_entrances/bounceInRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_entrances/bounceInUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_exits/bounceOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_exits/bounceOutDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_exits/bounceOutLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_exits/bounceOutRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/bouncing_exits/bounceOutUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInDownBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInLeftBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInRightBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_entrances/fadeInUpBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutDownBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutLeftBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutRightBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/fading_exits/fadeOutUpBig.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/flippers/flip.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/flippers/flipInX.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/flippers/flipInY.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/flippers/flipOutX.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/flippers/flipOutY.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/lightspeed/lightSpeedIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/lightspeed/lightSpeedOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_entrances/rotateIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_entrances/rotateInDownLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_entrances/rotateInDownRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_entrances/rotateInUpLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_entrances/rotateInUpRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_exits/rotateOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_exits/rotateOutDownLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_exits/rotateOutDownRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_exits/rotateOutUpLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/rotating_exits/rotateOutUpRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/sliders/slideInDown.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/sliders/slideInLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/sliders/slideInRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/sliders/slideOutLeft.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/sliders/slideOutRight.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/sliders/slideOutUp.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/specials/hinge.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/specials/rollIn.css
+Sarbbottam Bandyopadhyay,2014-02-24 03:26:08+05:30,source/specials/rollOut.css
+Sarbbottam Bandyopadhyay,2014-02-24 04:25:37+05:30,Gruntfile.js
+Daniel Eden,2014-02-25 07:48:53-08:00,README.md
+Sarbbottam Bandyopadhyay,2014-03-07 23:10:08+05:30,README.md
+Contra,2014-03-17 14:37:40-06:00,source/_base.css
+Steadman,2014-03-21 14:13:07+00:00,animate-config.json
+Steadman,2014-03-21 14:13:07+00:00,animate.css
+Steadman,2014-03-21 14:13:07+00:00,animate.min.css
+Steadman,2014-03-21 14:13:07+00:00,source/sliders/slideOutDown.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,animate-config.json
+Jare Fagbemi,2014-03-25 16:49:51-05:00,animate.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,animate.min.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_entrances/zoomIn.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_entrances/zoomInDown.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_entrances/zoomInLeft.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_entrances/zoomInRight.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_entrances/zoomInUp.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_exits/zoomOut.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_exits/zoomOutDown.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_exits/zoomOutLeft.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_exits/zoomOutRight.css
+Jare Fagbemi,2014-03-25 16:49:51-05:00,source/zooming_exits/zoomOutUp.css
+Constantin,2014-03-29 14:02:48+01:00,animate-config.json
+Constantin,2014-03-29 14:02:48+01:00,animate.css
+Constantin,2014-03-29 14:02:48+01:00,animate.min.css
+Constantin,2014-03-29 14:02:48+01:00,source/sliders/slideInUp.css
+Constantin Saguin,2014-03-30 22:59:53+02:00,animate.css
+Constantin Saguin,2014-03-30 22:59:53+02:00,animate.min.css
+Constantin Saguin,2014-03-30 22:59:53+02:00,source/sliders/slideInUp.css
+Taylor Lapeyre,2014-04-06 14:35:05-05:00,README.md
+Daniel Eden,2014-04-18 11:34:09-07:00,package.json
+Daniel Eden,2014-04-22 07:39:59-07:00,bower.json
+Daniel Eden,2014-04-22 07:39:59-07:00,package.json
+Jare Fagbemi,2014-04-22 09:32:47-07:00,animate-config.json
+Jare Fagbemi,2014-04-22 09:32:47-07:00,animate.css
+Jare Fagbemi,2014-04-22 09:32:47-07:00,animate.min.css
+Jare Fagbemi,2014-04-22 09:32:47-07:00,source/zooming_entrances/zoomInDown.css
+Jare Fagbemi,2014-04-22 09:32:47-07:00,source/zooming_entrances/zoomInUp.css
+Jare Fagbemi,2014-04-22 09:32:47-07:00,source/zooming_exits/zoomOutDown.css
+Jare Fagbemi,2014-04-22 09:32:47-07:00,source/zooming_exits/zoomOutUp.css
+Jare Fagbemi,2014-04-22 09:38:20-07:00,animate.css
+Jare Fagbemi,2014-04-22 09:38:20-07:00,animate.min.css
+Jare Fagbemi,2014-04-22 09:38:20-07:00,source/zooming_entrances/zoomInLeft.css
+Jare Fagbemi,2014-04-22 09:38:20-07:00,source/zooming_entrances/zoomInRight.css
+Jare Fagbemi,2014-04-22 09:38:20-07:00,source/zooming_exits/zoomOutLeft.css
+Jare Fagbemi,2014-04-22 09:38:20-07:00,source/zooming_exits/zoomOutRight.css
+Jare Fagbemi,2014-04-25 14:36:18-07:00,animate-config.json
+Jare Fagbemi,2014-04-25 14:36:18-07:00,animate.css
+Jare Fagbemi,2014-04-25 14:36:18-07:00,animate.min.css
+Jare Fagbemi,2014-04-25 14:36:18-07:00,source/zooming_entrances/zoomInDown.css
+Jare Fagbemi,2014-04-25 14:36:18-07:00,source/zooming_entrances/zoomInUp.css
+Jare Fagbemi,2014-04-25 14:36:18-07:00,source/zooming_exits/zoomOutDown.css
+Jare Fagbemi,2014-04-25 14:36:18-07:00,source/zooming_exits/zoomOutUp.css
+Daniel Eden,2014-04-25 18:20:45-07:00,animate.css
+Daniel Eden,2014-04-25 18:20:45-07:00,animate.min.css
+Daniel Eden,2014-04-25 18:20:45-07:00,source/sliders/slideInUp.css
+Jory Graham,2014-05-15 18:45:32-04:00,animate.css
+Jory Graham,2014-05-15 18:45:32-04:00,animate.min.css
+Jory Graham,2014-05-15 18:45:32-04:00,source/flippers/flip.css
+chencheng,2014-05-19 13:26:49+08:00,package.json
+Daniel Eden,2014-06-12 14:23:40-07:00,animate.css
+Daniel Eden,2014-06-12 14:23:40-07:00,animate.min.css
+Daniel Eden,2014-06-12 14:23:40-07:00,source/_base.css
+Daniel Eden,2014-07-05 10:37:35-07:00,.gitignore
+Daniel Eden,2014-07-05 10:37:35-07:00,animate.css
+Daniel Eden,2014-07-05 10:37:35-07:00,animate.min.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_entrances/bounceIn.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_entrances/bounceInDown.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_entrances/bounceInLeft.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_entrances/bounceInRight.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_entrances/bounceInUp.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_exits/bounceOut.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_exits/bounceOutDown.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_exits/bounceOutLeft.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_exits/bounceOutRight.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/bouncing_exits/bounceOutUp.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/flippers/flipInX.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/flippers/flipInY.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/flippers/flipOutX.css
+Daniel Eden,2014-07-05 10:37:35-07:00,source/flippers/flipOutY.css
+Daniel Eden,2014-07-06 13:32:34-07:00,animate-config.json
+Daniel Eden,2014-07-06 13:32:34-07:00,animate.css
+Daniel Eden,2014-07-06 13:32:34-07:00,animate.min.css
+Daniel Eden,2014-07-06 13:32:34-07:00,package.json
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/bounce.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/pulse.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/rubberBand.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/shake.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/swing.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/tada.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/attention_seekers/wobble.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_entrances/bounceIn.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_entrances/bounceInDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_entrances/bounceInLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_entrances/bounceInRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_entrances/bounceInUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_exits/bounceOut.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_exits/bounceOutDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_exits/bounceOutLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_exits/bounceOutRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/bouncing_exits/bounceOutUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInDownBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInLeftBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInRightBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_entrances/fadeInUpBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutDownBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutLeftBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutRightBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/fading_exits/fadeOutUpBig.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/flippers/flip.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/flippers/flipInX.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/flippers/flipInY.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/flippers/flipOutX.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/flippers/flipOutY.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/lightspeed/lightSpeedIn.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/lightspeed/lightSpeedOut.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_entrances/rotateIn.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_entrances/rotateInDownLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_entrances/rotateInDownRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_entrances/rotateInUpLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_entrances/rotateInUpRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_exits/rotateOut.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_exits/rotateOutDownLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_exits/rotateOutDownRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_exits/rotateOutUpLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/rotating_exits/rotateOutUpRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideInDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideInLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideInRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideInUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideOutDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideOutLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideOutRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/sliders/slideOutUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/specials/hinge.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/specials/rollIn.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/specials/rollOut.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_entrances/zoomIn.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_entrances/zoomInDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_entrances/zoomInLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_entrances/zoomInRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_entrances/zoomInUp.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_exits/zoomOut.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_exits/zoomOutDown.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_exits/zoomOutLeft.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_exits/zoomOutRight.css
+Daniel Eden,2014-07-06 13:32:34-07:00,source/zooming_exits/zoomOutUp.css
+Daniel Eden,2014-07-06 13:39:04-07:00,animate.css
+Daniel Eden,2014-07-06 13:39:04-07:00,animate.min.css
+Daniel Eden,2014-07-06 13:39:04-07:00,source/_base.css
+Kelly Miyashiro,2014-07-08 11:20:24-07:00,bower.json
+Kelly Miyashiro,2014-07-08 11:20:24-07:00,package.json
+yangshun,2014-07-23 01:25:20+08:00,animate.css
+yangshun,2014-07-23 01:25:20+08:00,animate.min.css
+yangshun,2014-07-23 01:25:20+08:00,source/rotating_exits/rotateOutDownLeft.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,animate-config.json
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,animate.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,animate.min.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_entrances/slideInDown.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_entrances/slideInLeft.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_entrances/slideInRight.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_entrances/slideInUp.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_exits/slideOutDown.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_exits/slideOutLeft.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_exits/slideOutRight.css
+Jonathan Argentiero,2014-08-11 15:59:15+02:00,source/sliding_exits/slideOutUp.css
+Collin Donahue-Oponski,2014-08-19 11:08:20-06:00,animate-config.json
+Francis Suarez,2014-08-20 16:36:09-04:00,bower.json
+Sleepwalker,2014-09-03 16:46:18+03:00,README.md
+Antonella Clavero,2014-09-08 12:16:31-03:00,README.md
+Derek Nutile,2014-09-26 08:26:12-07:00,bower.json
+Wes Bos,2014-11-11 16:18:24-05:00,README.md
+Kent C. Dodds,2015-01-19 13:16:46-07:00,package.json
+宋仁伟,2015-01-22 20:04:44+08:00,bower.json
+RCooLeR,2015-01-24 13:38:37+02:00,bower.json
+Daniel Eden,2015-02-20 15:51:36-08:00,bower.json
+eternal student,2015-02-21 17:52:26+02:00,README.md
+Daniel Eden,2015-03-04 15:14:30-08:00,animate.css
+Daniel Eden,2015-03-04 15:14:30-08:00,animate.min.css
+Daniel Eden,2015-03-04 15:15:40-08:00,bower.json
+Daniel Eden,2015-03-04 15:15:40-08:00,package.json
+Daniel Eden,2015-03-04 15:15:40-08:00,source/_base.css
+Daniel Eden,2015-03-04 15:15:58-08:00,animate.css
+Daniel Eden,2015-03-04 15:15:58-08:00,animate.min.css
+jongleberry,2015-03-04 15:26:25-08:00,bower.json
+Daniel Eden,2015-03-04 15:37:58-08:00,bower.json
+Daniel Eden,2015-03-04 15:37:58-08:00,package.json
+Fraser Nevett,2015-03-12 18:24:18+00:00,source/_base.css
+Fraser Nevett,2015-03-12 18:24:18+00:00,source/bouncing_entrances/bounceIn.css
+Fraser Nevett,2015-03-12 18:24:18+00:00,source/bouncing_exits/bounceOut.css
+Fraser Nevett,2015-03-12 18:24:18+00:00,source/flippers/flipOutX.css
+Fraser Nevett,2015-03-12 18:24:18+00:00,source/flippers/flipOutY.css
+Daniel Eden,2015-03-18 09:31:23-07:00,animate.css
+Daniel Eden,2015-03-18 09:31:23-07:00,animate.min.css
+Daniel Eden,2015-03-18 09:31:23-07:00,bower.json
+Daniel Eden,2015-03-18 09:31:23-07:00,package.json
+Elton Mesquita,2015-03-18 18:01:20-03:00,Gruntfile.js
+Daniel Eden,2015-03-18 17:08:46-07:00,Gruntfile.js
+Daniel Eden,2015-03-18 17:08:46-07:00,animate.css
+Daniel Eden,2015-03-18 17:08:46-07:00,animate.min.css
+Daniel Eden,2015-03-18 17:08:46-07:00,bower.json
+Daniel Eden,2015-03-18 17:08:46-07:00,package.json
+Andres Buritica,2015-03-20 17:38:01-07:00,animate.css
+Andres Buritica,2015-03-20 17:38:01-07:00,animate.min.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_entrances/slideInDown.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_entrances/slideInLeft.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_entrances/slideInRight.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_entrances/slideInUp.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_exits/slideOutDown.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_exits/slideOutLeft.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_exits/slideOutRight.css
+Andres Buritica,2015-03-20 17:38:01-07:00,source/sliding_exits/slideOutUp.css
+Hansol Kim,2015-04-29 15:37:43+09:00,source/attention_seekers/bounce.css
+Hansol Kim,2015-04-29 15:37:43+09:00,source/flippers/flipInX.css
+Hansol Kim,2015-04-29 15:37:43+09:00,source/flippers/flipInY.css
+Hansol Kim,2015-04-29 15:43:28+09:00,source/bouncing_entrances/bounceIn.css
+Hansol Kim,2015-04-29 15:43:28+09:00,source/bouncing_entrances/bounceInDown.css
+Hansol Kim,2015-04-29 15:43:28+09:00,source/bouncing_entrances/bounceInLeft.css
+Hansol Kim,2015-04-29 15:43:28+09:00,source/bouncing_entrances/bounceInRight.css
+Hansol Kim,2015-04-29 15:43:28+09:00,source/bouncing_entrances/bounceInUp.css
+Hansol Kim,2015-05-11 11:01:09+09:00,animate.css
+Hansol Kim,2015-05-11 11:01:09+09:00,animate.min.css
+Koding,2015-05-12 01:13:40+00:00,README.md
+Koding,2015-05-12 01:13:40+00:00,animate-config.json
+Koding,2015-05-12 01:13:40+00:00,source/attention_seekers/jello.css
+Koding,2015-05-12 01:24:49+00:00,animate.css
+Koding,2015-05-12 01:24:49+00:00,animate.min.css
+Koding,2015-05-12 01:24:49+00:00,source/attention_seekers/jello.css
+Indy Prieto,2015-05-12 01:30:12+00:00,animate.css
+Indy Prieto,2015-05-12 01:33:19+00:00,animate.min.css
+Indy Prieto,2015-05-12 01:40:15+00:00,animate.css
+Indy Prieto,2015-05-12 01:40:15+00:00,animate.min.css
+Thederpy,2015-05-12 01:40:15+00:00,source/attention_seekers/jello.css
+Indy Prieto,2015-05-11 20:51:56-05:00,animate.min.css
+Daniel Eden,2015-05-16 19:43:35-07:00,bower.json
+Daniel Eden,2015-05-16 19:43:35-07:00,package.json
+Kevin Kirsche,2015-06-10 18:21:04-04:00,bower.json
+pedwards,2015-07-06 10:34:17-04:00,package.json
+Ivo van de Grift,2015-08-01 12:23:18+02:00,README.md
+Daniel Eden,2015-08-02 13:03:22-07:00,animate.css
+Daniel Eden,2015-08-02 13:03:22-07:00,animate.min.css
+Daniel Eden,2015-08-02 13:03:22-07:00,source/attention_seekers/jello.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/bounce.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/flash.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/jello.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/pulse.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/rubberBand.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/shake.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/tada.css
+mesge,2015-08-06 14:22:40+10:00,source/attention_seekers/wobble.css
+mesge,2015-08-06 14:22:40+10:00,source/bouncing_entrances/bounceIn.css
+mesge,2015-08-06 14:22:40+10:00,source/bouncing_entrances/bounceInDown.css
+mesge,2015-08-06 14:22:40+10:00,source/bouncing_entrances/bounceInLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/bouncing_entrances/bounceInRight.css
+mesge,2015-08-06 14:22:40+10:00,source/bouncing_entrances/bounceInUp.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeIn.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInDown.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInDownBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInLeftBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInRight.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInRightBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInUp.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_entrances/fadeInUpBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOut.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutDown.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutDownBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutLeftBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutRight.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutRightBig.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutUp.css
+mesge,2015-08-06 14:22:40+10:00,source/fading_exits/fadeOutUpBig.css
+mesge,2015-08-06 14:22:40+10:00,source/flippers/flip.css
+mesge,2015-08-06 14:22:40+10:00,source/flippers/flipInX.css
+mesge,2015-08-06 14:22:40+10:00,source/flippers/flipInY.css
+mesge,2015-08-06 14:22:40+10:00,source/flippers/flipOutX.css
+mesge,2015-08-06 14:22:40+10:00,source/flippers/flipOutY.css
+mesge,2015-08-06 14:22:40+10:00,source/lightspeed/lightSpeedIn.css
+mesge,2015-08-06 14:22:40+10:00,source/lightspeed/lightSpeedOut.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_entrances/rotateIn.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_entrances/rotateInDownLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_entrances/rotateInDownRight.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_entrances/rotateInUpLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_entrances/rotateInUpRight.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_exits/rotateOut.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_exits/rotateOutDownLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_exits/rotateOutDownRight.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_exits/rotateOutUpLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/rotating_exits/rotateOutUpRight.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_entrances/slideInDown.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_entrances/slideInLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_entrances/slideInRight.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_entrances/slideInUp.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_exits/slideOutDown.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_exits/slideOutLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_exits/slideOutRight.css
+mesge,2015-08-06 14:22:40+10:00,source/sliding_exits/slideOutUp.css
+mesge,2015-08-06 14:22:40+10:00,source/specials/rollIn.css
+mesge,2015-08-06 14:22:40+10:00,source/specials/rollOut.css
+mesge,2015-08-06 14:22:40+10:00,source/zooming_entrances/zoomIn.css
+mesge,2015-08-06 14:22:40+10:00,source/zooming_entrances/zoomInDown.css
+mesge,2015-08-06 14:22:40+10:00,source/zooming_entrances/zoomInLeft.css
+mesge,2015-08-06 14:22:40+10:00,source/zooming_entrances/zoomInRight.css
+mesge,2015-08-06 14:22:40+10:00,source/zooming_entrances/zoomInUp.css
+mesge,2015-08-06 14:22:40+10:00,source/zooming_exits/zoomOut.css
+mesge,2015-08-06 16:37:19+10:00,animate.css
+mesge,2015-08-06 16:37:19+10:00,animate.min.css
+Daniel Eden,2015-08-05 23:45:04-07:00,package.json
+Andrzej Kłapeć,2015-08-09 13:23:24+02:00,package.json
+Indy Prieto,2015-08-09 14:32:51-05:00,source/_base.css
+mesge,2015-08-21 12:26:35+10:00,animate.css
+mesge,2015-08-21 12:26:35+10:00,animate.min.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/bounce.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/flash.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/jello.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/pulse.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/rubberBand.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/shake.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/swing.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/tada.css
+mesge,2015-08-21 12:26:35+10:00,source/attention_seekers/wobble.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_entrances/bounceIn.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_entrances/bounceInDown.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_entrances/bounceInLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_entrances/bounceInRight.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_entrances/bounceInUp.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_exits/bounceOut.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_exits/bounceOutDown.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_exits/bounceOutLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_exits/bounceOutRight.css
+mesge,2015-08-21 12:26:35+10:00,source/bouncing_exits/bounceOutUp.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeIn.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInDown.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInDownBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInLeftBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInRight.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInRightBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInUp.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_entrances/fadeInUpBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOut.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutDown.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutDownBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutLeftBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutRight.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutRightBig.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutUp.css
+mesge,2015-08-21 12:26:35+10:00,source/fading_exits/fadeOutUpBig.css
+mesge,2015-08-21 12:26:35+10:00,source/flippers/flip.css
+mesge,2015-08-21 12:26:35+10:00,source/flippers/flipInX.css
+mesge,2015-08-21 12:26:35+10:00,source/flippers/flipInY.css
+mesge,2015-08-21 12:26:35+10:00,source/flippers/flipOutX.css
+mesge,2015-08-21 12:26:35+10:00,source/flippers/flipOutY.css
+mesge,2015-08-21 12:26:35+10:00,source/lightspeed/lightSpeedIn.css
+mesge,2015-08-21 12:26:35+10:00,source/lightspeed/lightSpeedOut.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_entrances/rotateIn.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_entrances/rotateInDownLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_entrances/rotateInDownRight.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_entrances/rotateInUpLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_entrances/rotateInUpRight.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_exits/rotateOut.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_exits/rotateOutDownLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_exits/rotateOutDownRight.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_exits/rotateOutUpLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/rotating_exits/rotateOutUpRight.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_entrances/slideInDown.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_entrances/slideInLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_entrances/slideInRight.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_entrances/slideInUp.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_exits/slideOutDown.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_exits/slideOutLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_exits/slideOutRight.css
+mesge,2015-08-21 12:26:35+10:00,source/sliding_exits/slideOutUp.css
+mesge,2015-08-21 12:26:35+10:00,source/specials/hinge.css
+mesge,2015-08-21 12:26:35+10:00,source/specials/rollIn.css
+mesge,2015-08-21 12:26:35+10:00,source/specials/rollOut.css
+mesge,2015-08-21 12:26:35+10:00,source/zooming_exits/zoomOut.css
+mesge,2015-08-21 12:26:35+10:00,source/zooming_exits/zoomOutDown.css
+mesge,2015-08-21 12:26:35+10:00,source/zooming_exits/zoomOutLeft.css
+mesge,2015-08-21 12:26:35+10:00,source/zooming_exits/zoomOutRight.css
+mesge,2015-08-21 12:26:35+10:00,source/zooming_exits/zoomOutUp.css
+anshulguleria,2015-08-27 11:47:47+05:30,bower.json
+Felipe Martinin,2015-09-21 17:15:35-03:00,README.md
+Felipe Martinin,2015-09-21 17:15:35-03:00,animate-config.json
+Felipe Martinin,2015-09-21 17:15:35-03:00,animate.css
+Felipe Martinin,2015-09-21 17:15:35-03:00,animate.min.css
+Felipe Martinin,2015-09-21 17:15:35-03:00,source/attention_seekers/headShake.css
+Felipe Martinin,2015-09-24 10:17:12-03:00,animate.css
+Felipe Martinin,2015-09-24 10:17:12-03:00,animate.min.css
+Felipe Martinin,2015-09-24 10:17:12-03:00,source/attention_seekers/headShake.css
+AJ Webb,2015-09-29 11:47:46-06:00,package.json
+mattconvente,2015-10-12 11:13:05-04:00,animate.css
+mattconvente,2015-10-12 11:13:05-04:00,animate.min.css
+mattconvente,2015-10-12 11:13:05-04:00,source/_base.css
+1UP,2015-11-09 01:45:08+09:00,package.json
+1UP,2015-11-09 01:45:58+09:00,package.json
+1UP,2015-11-09 01:46:17+09:00,package.json
+1UP,2015-11-09 01:49:46+09:00,Gruntfile.js
+1UP,2015-11-09 01:49:46+09:00,animate.css
+1UP,2015-11-09 01:49:46+09:00,animate.min.css
+1UP,2015-11-09 01:49:46+09:00,source/_base.css
+Sam Lau,2015-11-16 01:51:02-08:00,package.json
+1UP,2015-12-09 02:58:41+09:00,Gruntfile.js
+1UP,2015-12-09 02:58:41+09:00,source/attention_seekers/headShake.css
+1UP,2015-12-09 02:58:41+09:00,source/attention_seekers/jello.css
+1UP,2015-12-09 03:20:28+09:00,Gruntfile.js
+1UP,2015-12-09 03:20:28+09:00,source/attention_seekers/headShake.css
+1UP,2015-12-09 03:20:28+09:00,source/attention_seekers/jello.css
+1UP,2015-12-09 03:20:28+09:00,source/fading_entrances/fadeIn.css
+1UP,2015-12-09 03:20:28+09:00,source/fading_exits/fadeOut.css
+Oren Mazor,2015-12-08 13:22:35-05:00,animate.css
+Daniel Eden,2015-12-14 11:03:02-08:00,gulpfile.js
+Daniel Eden,2015-12-14 11:03:02-08:00,package.json
+Daniel Eden,2015-12-14 11:41:16-08:00,animate.css
+Daniel Eden,2015-12-14 11:41:16-08:00,animate.min.css
+Daniel Eden,2015-12-14 11:41:16-08:00,gulpfile.js
+Daniel Eden,2015-12-14 11:41:16-08:00,package.json
+Daniel Eden,2015-12-14 11:41:16-08:00,source/_base.css
+Daniel Eden,2015-12-14 11:41:16-08:00,source/attention_seekers/headShake.css
+Daniel Eden,2015-12-14 11:41:16-08:00,source/attention_seekers/jello.css
+Daniel Eden,2015-12-14 11:41:34-08:00,Gruntfile.js
+Daniel Eden,2015-12-14 11:43:29-08:00,package.json
+Daniel Eden,2015-12-14 11:46:26-08:00,animate.css
+Daniel Eden,2015-12-14 11:46:26-08:00,animate.min.css
+Lubomir Georgiev (Любомир Георгиев),2015-12-19 13:59:57+02:00,README.md
+1UP,2015-12-19 22:34:07+09:00,gulpfile.js
+1UP,2015-12-26 21:47:25+09:00,package.json
+1UP,2015-12-26 22:27:24+09:00,animate.min.css
+1UP,2015-12-26 22:27:24+09:00,gulpfile.js
+1UP,2015-12-27 01:36:37+09:00,gulpfile.js
+Daniel Eden,2016-01-02 09:57:22-08:00,animate-config.json
+Daniel Eden,2016-01-02 09:57:22-08:00,animate.css
+Daniel Eden,2016-01-02 09:57:22-08:00,animate.min.css
+Daniel Eden,2016-01-02 09:57:22-08:00,gulpfile.js
+Daniel Eden,2016-01-02 09:57:22-08:00,package.json
+Alessandro Bellini,2016-01-22 12:33:21+01:00,LICENSE
+Daniel Eden,2016-02-02 16:17:55-08:00,package.json
+Benjamin Morel,2016-02-03 18:16:51+01:00,README.md
+Marco Biedermann,2016-02-11 19:04:29+01:00,animate.css
+Marco Biedermann,2016-02-11 19:04:29+01:00,animate.min.css
+Marco Biedermann,2016-02-11 19:15:33+01:00,gulpfile.js
+Marco Biedermann,2016-02-11 19:15:33+01:00,package.json
+tahashahid,2016-03-12 14:22:48+05:00,README.md
+Andrea Maiolo,2016-03-13 16:14:37+01:00,bower.json
+Ben Sampson,2016-03-22 13:27:37+00:00,README.md
+Sarbbottam Bandyopadhyay,2016-04-16 21:55:19-07:00,gulpfile.js
+QuentinVaut,2016-04-25 17:15:17+02:00,README.md
+Hackzzila,2016-04-29 20:52:10-05:00,README.md
+Hackzzila,2016-04-29 20:54:02-05:00,README.md
+Hackzzila,2016-04-30 13:20:41-05:00,README.md
+Hackzzila,2016-04-30 13:56:24-05:00,README.md
+zhouxinyong,2016-06-08 17:00:41+08:00,README.md
+Jabran Rafique,2016-07-04 14:22:42+01:00,README.md
+Jabran Rafique,2016-07-04 14:27:39+01:00,README.md
+Elvin,2016-08-26 13:30:02-04:00,README.md
+Anthony Delgado,2016-08-28 22:01:48-04:00,README.md
+Anthony Delgado,2016-08-28 22:17:30-04:00,README.md
+Daniel Eden,2016-09-02 08:33:43-07:00,README.md
+Daniel Eden,2016-09-02 11:56:00-04:00,package.json
+Waren Gonzaga,2016-09-22 23:34:09+08:00,.travis.yml
+Waren Gonzaga,2016-09-22 23:38:50+08:00,README.md
+Waren Gonzaga,2016-09-22 23:41:19+08:00,README.md
+Waren Gonzaga,2016-09-23 12:32:51+00:00,README.md
+Waren Gonzaga,2016-09-23 12:54:37+00:00,README.md
+Waren Gonzaga,2016-09-23 13:09:27+00:00,README.md
+Waren Gonzaga,2016-09-23 21:12:28+08:00,README.md
+Waren Gonzaga,2016-09-23 21:13:45+08:00,README.md
+Waren Gonzaga,2016-09-26 06:54:03+00:00,README.md
+Waren Gonzaga,2016-09-26 08:44:37+00:00,README.md
+Waren Gonzaga,2016-09-27 09:07:03+00:00,README.md
+Waren Gonzaga,2016-09-27 09:12:08+00:00,README.md
+Robert Pemberton,2017-04-27 09:23:25-03:00,README.md
+Robert Pemberton,2017-04-27 09:23:25-03:00,animate-config.json
+Robert Pemberton,2017-04-27 09:23:25-03:00,animate.css
+Robert Pemberton,2017-04-27 09:23:25-03:00,animate.min.css
+Robert Pemberton,2017-04-27 09:23:25-03:00,source/specials/jackInTheBox.css
+Alex Kyriakidis,2017-07-09 13:28:40-03:00,README.md
+Santiago Castro,2017-07-09 13:29:16-03:00,README.md
+木头,2017-07-09 13:57:11-03:00,README.md
+Erick Delfin,2017-07-09 13:57:57-03:00,README.md
+Mithgol,2017-07-10 17:11:44-03:00,README.md
+Josh Johnson,2017-07-29 18:28:17-03:00,source/attention_seekers/bounce.css
+Lukas Drgon,2017-11-09 21:21:35-03:00,README.md
+BK,2017-11-09 21:26:01-03:00,README.md
+Lukáš Matta,2017-11-09 21:26:40-03:00,gulpfile.js
+vrescobar,2017-11-09 21:33:55-03:00,animate-config.json
+vrescobar,2017-11-09 21:33:55-03:00,gulpfile.js
+Alexsander,2017-11-09 21:39:04-03:00,README.md
+Panayiotis Lipiridis,2017-11-16 01:02:40+02:00,package.json
+Panayiotis Lipiridis,2017-11-16 01:05:00+02:00,package.json
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,.prettierignore
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,README.md
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,animate-config.json
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,animate.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,bower.json
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,gulpfile.js
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,package.json
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/_base.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/attention_seekers/bounce.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/attention_seekers/flash.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/attention_seekers/jello.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/attention_seekers/rubberBand.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/attention_seekers/shake.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/attention_seekers/tada.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_entrances/bounceIn.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_entrances/bounceInDown.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_entrances/bounceInLeft.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_entrances/bounceInRight.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_entrances/bounceInUp.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_exits/bounceOut.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_exits/bounceOutDown.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/bouncing_exits/bounceOutUp.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/flippers/flip.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/specials/hinge.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_entrances/zoomIn.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_entrances/zoomInDown.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_entrances/zoomInLeft.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_entrances/zoomInRight.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_entrances/zoomInUp.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_exits/zoomOut.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_exits/zoomOutDown.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_exits/zoomOutLeft.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_exits/zoomOutRight.css
+Panayiotis Lipiridis,2017-11-16 01:20:46+02:00,source/zooming_exits/zoomOutUp.css
+Panayiotis Lipiridis,2017-11-16 01:23:57+02:00,package.json
+Lipis,2017-11-16 01:25:53+02:00,.prettierignore
+Waren Gonzaga,2017-12-10 00:18:47-03:00,.gitignore
+Waren Gonzaga,2017-12-10 00:18:47-03:00,.travis.yml
+Waren Gonzaga,2017-12-10 00:18:47-03:00,gulpfile.js
+Waren Gonzaga,2017-12-10 00:18:47-03:00,package.json
+Peter Dave Hello,2017-12-10 01:30:57-03:00,README.md
+Panayiotis Lipiridis,2017-12-10 15:18:20+02:00,README.md
+Panayiotis Lipiridis,2017-12-10 15:18:20+02:00,package.json
+Panayiotis Lipiridis,2017-12-10 15:22:56+02:00,package.json
+Panayiotis Lipiridis,2017-12-10 15:25:46+02:00,.editorconfig
+Panayiotis Lipiridis,2017-12-10 15:25:46+02:00,README.md
+Panayiotis Lipiridis,2017-12-10 15:25:46+02:00,package.json
+Andrea Maiolo,2017-12-15 00:13:14-02:00,source/_base.css
+Andrea Maiolo,2017-12-15 00:13:14-02:00,source/bouncing_entrances/bounceIn.css
+Andrea Maiolo,2017-12-15 00:13:14-02:00,source/bouncing_exits/bounceOut.css
+Andrea Maiolo,2017-12-15 00:13:14-02:00,source/flippers/flipOutX.css
+Andrea Maiolo,2017-12-15 00:13:14-02:00,source/flippers/flipOutY.css
+Andrea Maiolo,2017-12-15 00:13:14-02:00,source/specials/hinge.css
+珠峰培训,2017-12-24 13:11:03-02:00,.gitignore
+Miguel Piedrafita,2018-01-01 10:59:12-02:00,LICENSE
+Elton Mesquita,2018-01-25 13:51:29-03:00,package.json
+Elton Mesquita,2018-01-25 14:03:02-03:00,animate.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,animate.min.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/attention_seekers/jello.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/attention_seekers/wobble.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/bouncing_entrances/bounceIn.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/bouncing_entrances/bounceInDown.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/bouncing_entrances/bounceInLeft.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/bouncing_entrances/bounceInRight.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/bouncing_exits/bounceOut.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInDown.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInDownBig.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInLeft.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInLeftBig.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInRight.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInRightBig.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInUp.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/fading_entrances/fadeInUpBig.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/flippers/flipOutX.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/flippers/flipOutY.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/lightspeed/lightSpeedIn.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/rotating_entrances/rotateIn.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/rotating_entrances/rotateInDownLeft.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/rotating_entrances/rotateInDownRight.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/rotating_entrances/rotateInUpLeft.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/rotating_entrances/rotateInUpRight.css
+Elton Mesquita,2018-01-25 14:03:02-03:00,source/specials/rollIn.css
+Elton Mesquita,2018-01-29 13:53:49-03:00,README.md
+Elton Mesquita,2018-02-07 13:33:03-03:00,.gitignore
+Elton Mesquita,2018-02-07 13:42:11-03:00,package.json
+Elton Mesquita,2018-02-07 13:45:26-03:00,animate.css
+Elton Mesquita,2018-02-07 13:45:26-03:00,animate.min.css
+Elton Mesquita,2018-02-07 13:47:28-03:00,package.json
+James George,2018-07-14 12:07:20+05:30,animate-config.json
+James George,2018-07-14 12:07:20+05:30,animate.css
+James George,2018-07-14 12:07:20+05:30,source/attention_seekers/heartBeat.css
+James George,2018-07-14 12:24:00+05:30,README.md
+Waren Gonzaga,2018-07-18 22:24:17-03:00,.gitignore
+Waren Gonzaga,2018-07-18 22:24:17-03:00,README.md
+Waren Gonzaga,2018-07-18 22:24:17-03:00,animate.css
+Waren Gonzaga,2018-07-18 22:24:17-03:00,animate.min.css
+Waren Gonzaga,2018-07-18 22:24:17-03:00,gulpfile.js
+Waren Gonzaga,2018-07-18 22:24:17-03:00,package.json
+Waren Gonzaga,2018-07-18 22:24:17-03:00,source/_base.css
+Caler Loo,2018-07-18 22:47:00-03:00,source/lightspeed/lightSpeedIn.css
+James George,2018-07-21 10:22:04+05:30,source/attention_seekers/heartBeat.css
+James George,2018-07-21 10:24:46+05:30,source/attention_seekers/heartBeat.css
+James George,2018-07-21 10:26:54+05:30,animate.css
+James George,2018-07-21 19:38:58+05:30,animate-config.json
+Gian Johansen,2018-07-21 07:18:34-07:00,animate.css
+Gian Johansen,2018-07-21 07:18:34-07:00,animate.min.css
+Gian Johansen,2018-07-21 07:18:34-07:00,source/flippers/flip.css
+Daniel Eden,2018-07-21 07:25:45-07:00,animate.css
+Daniel Eden,2018-07-21 07:25:45-07:00,animate.min.css
+jamesgeorge007,2018-07-21 20:22:03+05:30,animate.css
+jamesgeorge007,2018-07-21 20:22:03+05:30,animate.min.css
+jamesgeorge007,2018-07-21 20:22:03+05:30,package-lock.json
+jamesgeorge007,2018-07-21 20:22:03+05:30,package.json
+jamesgeorge007,2018-07-21 20:46:23+05:30,animate.min.css
+Daniel Eden,2018-07-23 08:52:29-07:00,README.md
+Waren Gonzaga,2018-07-23 15:25:37-07:00,.travis.yml
+Waren Gonzaga,2018-07-23 15:25:37-07:00,README.md
+Waren Gonzaga,2018-07-23 15:25:37-07:00,animate.css
+Waren Gonzaga,2018-07-23 15:25:37-07:00,animate.min.css
+Waren Gonzaga,2018-07-23 15:25:37-07:00,gulpfile.js
+Waren Gonzaga,2018-07-23 15:25:37-07:00,package-lock.json
+Waren Gonzaga,2018-07-23 15:25:37-07:00,package.json
+Waren Gonzaga,2018-07-23 15:25:37-07:00,source/_base.css
+Waren Gonzaga,2018-07-23 15:25:37-07:00,source/attention_seekers/heartBeat.css
+Marcy Sutton,2018-07-23 15:44:09-07:00,README.md
+Marcy Sutton,2018-07-23 15:44:09-07:00,animate.css
+Marcy Sutton,2018-07-23 15:44:09-07:00,animate.min.css
+Marcy Sutton,2018-07-23 15:44:09-07:00,gulpfile.js
+Marcy Sutton,2018-07-23 15:44:09-07:00,package-lock.json
+Marcy Sutton,2018-07-23 15:44:09-07:00,source/_base.css
+Paul Gascou-Vaillancourt,2018-08-27 17:56:26-05:00,package.json
+Elton Mesquita,2018-09-24 11:51:18-03:00,README.md
+Ahmet Ozan Tekin,2018-10-13 12:04:06-03:00,README.md
+mattstrick,2018-10-13 12:04:46-03:00,README.md
+Elton Mesquita,2018-10-17 13:01:51-07:00,README.md
+Waren Gonzaga,2018-11-29 11:01:31-08:00,npm-shrinkwrap.json
+Waren Gonzaga,2018-11-29 11:01:31-08:00,package.json
+Vyshak Padinjarote,2019-01-13 12:25:44-08:00,animate.css
+Vyshak Padinjarote,2019-01-13 12:25:44-08:00,animate.min.css
+Vyshak Padinjarote,2019-01-13 12:25:44-08:00,source/_base.css
+Elton Mesquita,2019-01-16 10:51:43-08:00,README.md
+Elton Mesquita,2019-02-09 14:13:43-03:00,LICENSE
+Elton Mesquita,2019-02-09 14:18:54-03:00,CODE_OF_CONDUCT.md
+Elton Mesquita,2019-02-09 14:25:10-03:00,README.md
+Elton Mesquita,2019-02-19 07:01:31-03:00,README.md
+KonScyence,2019-02-24 11:54:13-03:00,README.md
+tk,2019-05-08 12:06:56+03:00,source/_base.css
+tk,2019-05-08 12:29:07+03:00,source/_base.css
+tk,2019-05-13 10:05:03+03:00,source/_base.css
+tk,2019-05-17 07:20:50+03:00,source/_base.css
+Elton Mesquita,2019-05-28 21:49:52-03:00,animate.css
+Elton Mesquita,2019-05-28 21:49:52-03:00,animate.min.css
+Elton Mesquita,2019-05-28 22:54:10-03:00,npm-shrinkwrap.json
+Elton Mesquita,2019-05-28 22:54:10-03:00,package.json
+Elton Mesquita,2019-05-28 23:01:33-03:00,animate.css
+Elton Mesquita,2019-05-28 23:01:33-03:00,animate.min.css
+Trevor Fitzgerald,2019-05-30 13:12:48-04:00,.gitignore
+Trevor Fitzgerald,2019-05-30 13:12:48-04:00,npm-shrinkwrap.json
+Trevor Fitzgerald,2019-06-04 09:29:30-04:00,.gitignore
+Elton Mesquita,2019-06-04 19:37:14-03:00,animate.css
+Elton Mesquita,2019-06-04 19:37:14-03:00,animate.min.css
+Elton Mesquita,2019-06-04 19:37:14-03:00,package.json
+Christian Oliff,2019-06-05 10:39:56-03:00,gulpfile.js
+Elton Mesquita,2019-06-12 21:23:22-03:00,README.md
+Elton Mesquita,2019-06-29 21:04:05-03:00,README.md
+Elton Mesquita,2019-06-29 21:05:29-03:00,README.md
+Alex Gyoshev,2019-07-03 11:24:33-03:00,README.md
+Elton Mesquita,2019-09-28 08:22:17-03:00,README.md
+Melek REBAI,2019-12-07 11:42:07-03:00,README.md
+Christian Oliff,2019-12-07 11:53:21-03:00,README.md
+Daniel Eden,2020-04-10 15:20:59+01:00,CONTRIBUTING.md
+Elton Mesquita,2020-04-20 11:41:10+01:00,.github/ISSUE_TEMPLATE/bug_report.md
+Elton Mesquita,2020-04-20 11:41:10+01:00,.github/ISSUE_TEMPLATE/feature_request.md
+Elton Mesquita,2020-04-22 10:52:13+01:00,README.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,.github/ISSUE_TEMPLATE/bug_report.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,.github/ISSUE_TEMPLATE/feature_request.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,.prettierignore
+Elton Mesquita,2020-05-07 16:42:33+01:00,.prettierrc
+Elton Mesquita,2020-05-07 16:42:33+01:00,.travis.yml
+Elton Mesquita,2020-05-07 16:42:33+01:00,CODE_OF_CONDUCT.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,CONTRIBUTING.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,README.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,animate-config.json
+Elton Mesquita,2020-05-07 16:42:33+01:00,animate.compat.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,animate.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,animate.min.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,bower.json
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/animate.min.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/index.html
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/main.mjs
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/modules/buildDocsIndex.mjs
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/modules/playground.mjs
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/modules/slowDownAnimations.mjs
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/modules/startAnimations.mjs
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/modules/toggle.mjs
+Elton Mesquita,2020-05-07 16:42:33+01:00,docs/style.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/compileAnimationList.js
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/compileMD.js
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/index.js
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/00-intro.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/01-usage.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/02-utilities.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/03-best-practices.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/04-javascript.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/06-migration.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/07-custom-builds.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/08-contributing.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/sections/09-contributors.md
+Elton Mesquita,2020-05-07 16:42:33+01:00,docsSource/template.html
+Elton Mesquita,2020-05-07 16:42:33+01:00,gulpfile.js
+Elton Mesquita,2020-05-07 16:42:33+01:00,package.json
+Elton Mesquita,2020-05-07 16:42:33+01:00,postcss.config.js
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/_base.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/_vars.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/animate.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/attention_seekers/bounce.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/attention_seekers/heartBeat.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/attention_seekers/pulse.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/attention_seekers/shakeX.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/attention_seekers/shakeY.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_entrances/backInDown.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_entrances/backInLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_entrances/backInRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_entrances/backInUp.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_exits/backOutDown.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_exits/backOutLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_exits/backOutRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/back_exits/backOutUp.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_entrances/bounceIn.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_entrances/bounceInDown.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_entrances/bounceInLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_entrances/bounceInRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_entrances/bounceInUp.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_exits/bounceOut.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_exits/bounceOutDown.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_exits/bounceOutLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_exits/bounceOutRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/bouncing_exits/bounceOutUp.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_entrances/fadeInBottomLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_entrances/fadeInBottomRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_entrances/fadeInTopLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_entrances/fadeInTopRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_exits/fadeOutBottomLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_exits/fadeOutBottomRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_exits/fadeOutTopLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/fading_exits/fadeOutTopRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/flippers/flipOutX.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/flippers/flipOutY.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/lightspeed/lightSpeedInLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/lightspeed/lightSpeedInRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/lightspeed/lightSpeedOutLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/lightspeed/lightSpeedOutRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_entrances/rotateIn.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_entrances/rotateInDownLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_entrances/rotateInDownRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_entrances/rotateInUpLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_entrances/rotateInUpRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_exits/rotateOut.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_exits/rotateOutDownLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_exits/rotateOutDownRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_exits/rotateOutUpLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/rotating_exits/rotateOutUpRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/specials/hinge.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/zooming_exits/zoomOutDown.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/zooming_exits/zoomOutLeft.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/zooming_exits/zoomOutRight.css
+Elton Mesquita,2020-05-07 16:42:33+01:00,source/zooming_exits/zoomOutUp.css
+Daniel Eden,2020-05-07 16:46:47+01:00,docs/CNAME
+Daniel Eden,2020-05-07 16:56:09+01:00,package.json
+Elton Mesquita,2020-05-07 17:06:40+01:00,README.md
+Elton Mesquita,2020-05-07 17:17:48+01:00,animate.compat.css
+Elton Mesquita,2020-05-07 17:17:48+01:00,animate.css
+Elton Mesquita,2020-05-07 17:17:48+01:00,animate.min.css
+Elton Mesquita,2020-05-07 17:17:48+01:00,package.json
+Elton Mesquita,2020-05-07 17:18:52+01:00,animate.compat.css
+Elton Mesquita,2020-05-07 17:18:52+01:00,animate.css
+Elton Mesquita,2020-05-07 17:18:52+01:00,animate.min.css
+Elton Mesquita,2020-05-07 17:18:52+01:00,docs/animate.min.css
+Elton Mesquita,2020-05-07 17:18:52+01:00,docs/index.html
+Elton Mesquita,2020-05-07 17:18:52+01:00,package.json
+Juan Salcedo,2020-05-07 12:00:37-05:00,docsSource/sections/01-usage.md
+Jad Limcaco,2020-05-07 19:19:42+01:00,docs/index.html
+Jad Limcaco,2020-05-07 19:19:42+01:00,docsSource/compileMD.js
+Jad Limcaco,2020-05-07 19:19:42+01:00,docsSource/sections/03-best-practices.md
+Elton Mesquita,2020-05-07 19:28:59+01:00,docs/index.html
+Nono Martínez Alonso,2020-05-08 09:24:09+01:00,animate.css
+Nono Martínez Alonso,2020-05-08 09:24:09+01:00,docs/index.html
+Nono Martínez Alonso,2020-05-08 09:24:09+01:00,source/animate.css
+Elton Mesquita,2020-05-09 13:53:26+01:00,LICENSE
+Elton Mesquita,2020-05-11 13:06:23+01:00,package.json
+Elton Mesquita,2020-05-11 13:08:24+01:00,animate.compat.css
+Elton Mesquita,2020-05-11 13:08:24+01:00,animate.css
+Elton Mesquita,2020-05-11 13:08:24+01:00,animate.min.css
+Elton Mesquita,2020-05-11 13:08:24+01:00,docs/animate.min.css
+Elton Mesquita,2020-05-11 13:08:24+01:00,docs/index.html
+Elton Mesquita,2020-05-11 13:08:24+01:00,package.json
+Sebastián Weidmann,2020-05-22 17:06:41-04:00,docsSource/sections/02-utilities.md
+Elton Mesquita,2020-05-29 12:43:08+01:00,docs/index.html
+Elton Mesquita,2020-05-29 12:50:17+01:00,docs/index.html
+Elton Mesquita,2020-05-29 12:50:17+01:00,docsSource/sections/01-usage.md
+Elton Mesquita,2020-05-29 13:08:01+01:00,README.md
+Elton Mesquita,2020-06-09 15:40:29+01:00,docs/index.html
+Elton Mesquita,2020-06-09 15:40:29+01:00,docsSource/compileMD.js
+Elton Mesquita,2020-06-09 15:40:29+01:00,docsSource/sections/08-accessibility.md
+Elton Mesquita,2020-06-09 15:40:29+01:00,docsSource/sections/08-contributing.md
+Elton Mesquita,2020-06-09 15:40:29+01:00,docsSource/sections/09-license-contributing.md
+Elton Mesquita,2020-06-09 15:40:29+01:00,docsSource/template.html
+dependabot-preview[bot],2020-06-15 12:25:47+01:00,package.json
+dependabot-preview[bot],2020-06-15 12:33:10+01:00,package.json
+dependabot-preview[bot],2020-06-15 16:21:39+01:00,.github/dependabot.yml
+Elton Mesquita,2020-06-19 16:11:26+01:00,docs/index.html
+Elton Mesquita,2020-06-19 16:11:26+01:00,docsSource/sections/04-javascript.md
+William Entriken,2020-07-09 12:19:26-04:00,docsSource/compileMD.js
+Elton Mesquita,2020-07-13 09:43:19+01:00,docs/index.html
+Elton Mesquita,2020-07-13 09:43:19+01:00,docsSource/compileMD.js
+Elton Mesquita,2020-07-13 09:43:19+01:00,docsSource/sections/02-utilities.md
+Anthony Veaudry,2020-08-07 09:36:42+03:00,CONTRIBUTING.md
+Daniel Eden,2020-08-12 09:25:18+01:00,yarn.lock
+Daniel Eden,2020-08-12 09:27:09+01:00,docs/index.html
+Daniel Eden,2020-08-12 09:27:09+01:00,docsSource/compileMD.js
+Daniel Eden,2020-08-12 09:27:09+01:00,docsSource/sections/09-license-contributing.md
+Daniel Eden,2020-08-12 09:27:09+01:00,docsSource/template.html
+Anthony Veaudry,2020-08-12 14:23:57+03:00,CONTRIBUTING.md
+Anthony Veaudry,2020-08-12 14:24:20+03:00,CONTRIBUTING.md
+Anthony Veaudry,2020-08-13 09:59:06+03:00,CONTRIBUTING.md
+dependabot[bot],2020-08-17 11:01:36+01:00,package.json
+dependabot[bot],2020-08-17 11:01:36+01:00,yarn.lock
+dependabot[bot],2020-08-25 05:29:58+00:00,package.json
+dependabot[bot],2020-08-25 05:29:58+00:00,yarn.lock
+dependabot[bot],2020-08-26 09:01:49+01:00,package.json
+dependabot[bot],2020-08-26 09:01:49+01:00,yarn.lock
+dependabot[bot],2020-08-26 09:02:13+01:00,package.json
+dependabot[bot],2020-08-26 09:02:13+01:00,yarn.lock
+Thomas Reese,2020-08-27 18:39:34-07:00,docsSource/sections/04-javascript.md
+dependabot[bot],2020-09-01 13:18:43+01:00,package.json
+dependabot[bot],2020-09-01 13:18:43+01:00,yarn.lock
+dependabot[bot],2020-09-01 13:19:31+01:00,package.json
+dependabot[bot],2020-09-01 13:19:31+01:00,yarn.lock
+dependabot[bot],2020-09-02 11:05:09+01:00,package.json
+dependabot[bot],2020-09-02 11:05:09+01:00,yarn.lock
+dependabot[bot],2020-09-04 10:28:34+01:00,package.json
+dependabot[bot],2020-09-04 10:28:34+01:00,yarn.lock
+Rizwan Hasan,2020-09-07 09:46:54+01:00,docs/index.html
+Rizwan Hasan,2020-09-07 09:46:54+01:00,docsSource/sections/01-usage.md
+Waren Gonzaga,2020-09-07 12:12:06+01:00,animate.compat.css
+Waren Gonzaga,2020-09-07 12:12:06+01:00,animate.css
+Waren Gonzaga,2020-09-07 12:12:06+01:00,animate.min.css
+Waren Gonzaga,2020-09-07 12:12:06+01:00,docs/img/animatecss-opengraph.jpg
+Waren Gonzaga,2020-09-07 12:12:06+01:00,docs/img/favicon.ico
+Waren Gonzaga,2020-09-07 12:12:06+01:00,docs/index.html
+Waren Gonzaga,2020-09-07 12:12:06+01:00,docsSource/template.html
+Waren Gonzaga,2020-09-07 12:12:06+01:00,postcss.config.js
+Elton Mesquita,2020-09-07 12:20:12+01:00,animate.compat.css
+Elton Mesquita,2020-09-07 12:20:12+01:00,animate.css
+Elton Mesquita,2020-09-07 12:20:12+01:00,animate.min.css
+Elton Mesquita,2020-09-07 12:20:12+01:00,docs/animate.min.css
+Elton Mesquita,2020-09-07 12:20:12+01:00,docs/index.html
+Elton Mesquita,2020-09-07 12:20:12+01:00,package.json
+Waren Gonzaga,2020-09-07 17:27:36+01:00,.gitignore
+Waren Gonzaga,2020-09-07 17:27:36+01:00,docs/index.html
+Waren Gonzaga,2020-09-07 17:27:36+01:00,docsSource/template.html
+dependabot[bot],2020-09-08 07:28:46+01:00,package.json
+dependabot[bot],2020-09-08 07:28:46+01:00,yarn.lock
+Elton Mesquita,2020-09-08 09:23:35+01:00,docs/index.html
+Elton Mesquita,2020-09-08 09:23:35+01:00,docsSource/sections/01-usage.md
+dependabot[bot],2020-09-14 10:43:41+01:00,package.json
+dependabot[bot],2020-09-14 10:43:41+01:00,yarn.lock
+dependabot[bot],2020-09-15 10:28:27+01:00,package.json
+dependabot[bot],2020-09-15 10:28:27+01:00,yarn.lock
+dependabot[bot],2020-09-16 19:50:14+01:00,package.json
+dependabot[bot],2020-09-16 19:50:14+01:00,yarn.lock
+dependabot[bot],2020-09-17 12:12:36+01:00,package.json
+dependabot[bot],2020-09-17 12:12:36+01:00,yarn.lock
+dependabot[bot],2020-09-17 12:13:31+01:00,package.json
+dependabot[bot],2020-09-17 12:13:31+01:00,yarn.lock
+Elton Mesquita,2020-09-17 19:03:02+01:00,docs/index.html
+Elton Mesquita,2020-09-17 19:03:02+01:00,docsSource/sections/04-javascript.md
+Waren Gonzaga,2020-09-21 09:28:51+01:00,README.md
+Tim Gates,2020-09-23 14:17:02+01:00,docs/index.html
+Tim Gates,2020-09-23 14:17:02+01:00,docsSource/sections/01-usage.md
+Tim Gates,2020-09-23 14:17:02+01:00,docsSource/sections/02-utilities.md
+dependabot[bot],2020-09-28 14:42:05+01:00,package.json
+dependabot[bot],2020-09-28 14:42:05+01:00,yarn.lock
+Christian Oliff,2020-10-01 11:18:35+01:00,postcss.config.js
+dependabot[bot],2020-10-01 11:19:25+01:00,package.json
+dependabot[bot],2020-10-01 11:19:25+01:00,yarn.lock
+dependabot[bot],2020-10-12 10:31:15+01:00,package.json
+dependabot[bot],2020-10-12 10:31:15+01:00,yarn.lock
+dependabot[bot],2020-10-19 06:49:21+01:00,package.json
+dependabot[bot],2020-10-19 06:49:21+01:00,yarn.lock
+dependabot[bot],2020-10-26 14:09:17+00:00,package.json
+dependabot[bot],2020-10-26 14:09:17+00:00,yarn.lock
+dependabot[bot],2020-10-27 10:30:26+00:00,package.json
+dependabot[bot],2020-10-27 10:30:26+00:00,yarn.lock
+dependabot[bot],2020-10-27 11:34:15+00:00,package.json
+dependabot[bot],2020-10-27 11:34:15+00:00,yarn.lock
+dependabot[bot],2020-11-02 09:36:51+00:00,package.json
+dependabot[bot],2020-11-02 09:36:51+00:00,yarn.lock
+dependabot[bot],2020-11-10 12:28:01+00:00,package.json
+dependabot[bot],2020-11-10 12:28:01+00:00,yarn.lock
+dependabot[bot],2020-11-23 10:51:19+00:00,package.json
+dependabot[bot],2020-11-23 10:51:19+00:00,yarn.lock
+dependabot[bot],2020-11-23 10:51:57+00:00,package.json
+dependabot[bot],2020-11-23 10:51:57+00:00,yarn.lock
+dependabot[bot],2020-11-24 10:43:44+00:00,package.json
+dependabot[bot],2020-11-24 10:43:44+00:00,yarn.lock
+dependabot[bot],2020-11-25 17:38:14+00:00,package.json
+dependabot[bot],2020-11-25 17:38:14+00:00,yarn.lock
+dependabot[bot],2020-11-26 10:38:14+00:00,package.json
+dependabot[bot],2020-11-26 10:38:14+00:00,yarn.lock
+dependabot[bot],2020-11-30 16:44:02+00:00,package.json
+dependabot[bot],2020-11-30 16:44:02+00:00,yarn.lock
+dependabot[bot],2020-12-04 15:02:14+00:00,package.json
+dependabot[bot],2020-12-04 15:02:14+00:00,yarn.lock
+dependabot[bot],2020-12-07 08:14:49+00:00,package.json
+dependabot[bot],2020-12-07 08:14:49+00:00,yarn.lock
+dependabot[bot],2020-12-07 08:15:19+00:00,package.json
+dependabot[bot],2020-12-07 08:15:19+00:00,yarn.lock
+dependabot[bot],2020-12-08 10:41:16+00:00,package.json
+dependabot[bot],2020-12-08 10:41:16+00:00,yarn.lock
+dependabot[bot],2020-12-08 10:51:09+00:00,package.json
+dependabot[bot],2020-12-08 10:51:09+00:00,yarn.lock
+Ed Bond,2020-12-08 14:10:22+00:00,docs/animate.min.css
+Ed Bond,2020-12-08 14:10:22+00:00,docs/index.html
+Ed Bond,2020-12-08 14:10:22+00:00,docsSource/sections/04-javascript.md
+Ed Bond,2020-12-08 14:10:22+00:00,docsSource/template.html
+dependabot[bot],2020-12-14 09:29:13+00:00,package.json
+dependabot[bot],2020-12-14 09:29:13+00:00,yarn.lock
+dependabot[bot],2020-12-14 18:02:00+00:00,package.json
+dependabot[bot],2020-12-14 18:02:00+00:00,yarn.lock
+dependabot[bot],2020-12-14 18:06:48+00:00,package.json
+dependabot[bot],2020-12-14 18:06:48+00:00,yarn.lock
+dependabot[bot],2020-12-16 09:27:12+00:00,package.json
+dependabot[bot],2020-12-16 09:27:12+00:00,yarn.lock
+dependabot[bot],2020-12-21 11:42:50+00:00,package.json
+dependabot[bot],2020-12-21 11:42:50+00:00,yarn.lock
+dependabot[bot],2020-12-21 12:38:28+00:00,package.json
+dependabot[bot],2020-12-21 12:38:28+00:00,yarn.lock
+Mark Khromov,2020-12-29 10:29:01+00:00,docs/index.html
+Mark Khromov,2020-12-29 10:29:01+00:00,docsSource/sections/04-javascript.md
+dependabot[bot],2020-12-30 09:33:24+00:00,package.json
+dependabot[bot],2020-12-30 09:33:24+00:00,yarn.lock
+dependabot[bot],2021-01-04 09:55:49+00:00,package.json
+dependabot[bot],2021-01-04 09:55:49+00:00,yarn.lock
+Waren Gonzaga,2021-01-04 09:56:34+00:00,animate.compat.css
+Waren Gonzaga,2021-01-04 09:56:34+00:00,animate.css
+Waren Gonzaga,2021-01-04 09:56:34+00:00,animate.min.css
+Waren Gonzaga,2021-01-04 09:56:34+00:00,docs/animate.min.css
+Waren Gonzaga,2021-01-04 09:56:34+00:00,docs/index.html
+Waren Gonzaga,2021-01-04 09:56:34+00:00,docsSource/sections/09-contributors.md
+Waren Gonzaga,2021-01-04 09:56:34+00:00,docsSource/template.html
+dependabot[bot],2021-01-06 09:58:00+00:00,package.json
+dependabot[bot],2021-01-06 09:58:00+00:00,yarn.lock
+dependabot[bot],2021-01-07 10:29:21+00:00,package.json
+dependabot[bot],2021-01-07 10:29:21+00:00,yarn.lock
+dependabot[bot],2021-01-08 11:08:08+00:00,package.json
+dependabot[bot],2021-01-08 11:08:08+00:00,yarn.lock
+dependabot[bot],2021-01-08 11:18:03+00:00,package.json
+dependabot[bot],2021-01-08 11:18:03+00:00,yarn.lock
+Mehmet Sağır,2021-01-08 12:59:10+00:00,docs/main.mjs
+Mehmet Sağır,2021-01-08 12:59:10+00:00,docs/style.css
+dependabot[bot],2021-01-11 14:42:37+00:00,package.json
+dependabot[bot],2021-01-11 14:42:37+00:00,yarn.lock
+dependabot[bot],2021-01-18 09:40:32+00:00,package.json
+dependabot[bot],2021-01-18 09:40:32+00:00,yarn.lock
+dependabot[bot],2021-01-18 09:55:37+00:00,package.json
+dependabot[bot],2021-01-18 09:55:37+00:00,yarn.lock
+dependabot[bot],2021-01-20 10:19:11+00:00,package.json
+dependabot[bot],2021-01-20 10:19:11+00:00,yarn.lock
+coldhead,2021-01-22 09:27:59+00:00,docs/index.html
+coldhead,2021-01-22 09:27:59+00:00,docsSource/sections/04-javascript.md
+dependabot[bot],2021-02-01 11:56:18+00:00,package.json
+dependabot[bot],2021-02-01 11:56:18+00:00,yarn.lock
+dependabot[bot],2021-02-01 11:56:55+00:00,package.json
+dependabot[bot],2021-02-01 11:56:55+00:00,yarn.lock
+Waren Gonzaga,2021-02-06 11:59:08+00:00,docs/index.html
+Waren Gonzaga,2021-02-06 11:59:08+00:00,docsSource/template.html
+dependabot[bot],2021-02-08 09:34:15+00:00,package.json
+dependabot[bot],2021-02-08 09:34:15+00:00,yarn.lock
+dependabot[bot],2021-02-08 09:40:51+00:00,package.json
+dependabot[bot],2021-02-08 09:40:51+00:00,yarn.lock
+dependabot[bot],2021-02-11 09:20:01+00:00,package.json
+dependabot[bot],2021-02-11 09:20:01+00:00,yarn.lock
+dependabot[bot],2021-02-15 09:39:12+00:00,package.json
+dependabot[bot],2021-02-15 09:39:12+00:00,yarn.lock
+Claudio Alcantara,2021-02-22 09:50:37+00:00,package.json
+dependabot[bot],2021-03-01 15:16:43+00:00,package.json
+dependabot[bot],2021-03-01 15:16:43+00:00,yarn.lock
+dependabot[bot],2021-03-08 09:29:21+00:00,package.json
+dependabot[bot],2021-03-08 09:29:21+00:00,yarn.lock
+dependabot[bot],2021-03-08 09:32:36+00:00,package.json
+dependabot[bot],2021-03-08 09:32:36+00:00,yarn.lock
+dependabot[bot],2021-03-15 08:13:08+00:00,package.json
+dependabot[bot],2021-03-15 08:13:08+00:00,yarn.lock
+dependabot[bot],2021-03-15 08:14:02+00:00,package.json
+dependabot[bot],2021-03-15 08:14:02+00:00,yarn.lock
+Waren Gonzaga,2021-03-15 08:14:56+00:00,docsSource/template.html
+dependabot[bot],2021-04-01 12:07:26+01:00,package.json
+dependabot[bot],2021-04-01 12:07:26+01:00,yarn.lock
+dependabot[bot],2021-04-20 17:45:50+01:00,package.json
+dependabot[bot],2021-04-20 17:45:50+01:00,yarn.lock
+dependabot[bot],2021-04-20 16:53:56+00:00,package.json
+dependabot[bot],2021-04-20 16:53:56+00:00,yarn.lock
+dependabot[bot],2021-04-26 10:18:12+01:00,package.json
+dependabot[bot],2021-04-26 10:18:12+01:00,yarn.lock
+Larry Olguin,2021-05-20 09:11:48+01:00,CONTRIBUTING.md
+dependabot[bot],2021-05-24 11:42:36+01:00,package.json
+dependabot[bot],2021-05-24 11:42:36+01:00,yarn.lock
+dependabot[bot],2021-05-24 11:52:39+01:00,package.json
+dependabot[bot],2021-05-24 11:52:39+01:00,yarn.lock
+dependabot[bot],2021-05-25 12:16:51+01:00,yarn.lock
+dependabot[bot],2021-05-31 10:18:15+01:00,package.json
+dependabot[bot],2021-05-31 10:18:15+01:00,yarn.lock
+dependabot[bot],2021-05-31 10:20:29+01:00,package.json
+dependabot[bot],2021-05-31 10:20:29+01:00,yarn.lock
+dependabot[bot],2021-06-19 21:37:02+01:00,package.json
+dependabot[bot],2021-06-19 21:37:02+01:00,yarn.lock
+dependabot[bot],2021-06-19 20:37:38+00:00,yarn.lock
+dependabot[bot],2021-06-19 21:37:54+01:00,package.json
+dependabot[bot],2021-06-19 21:37:54+01:00,yarn.lock
+Umutambyi Gad,2021-06-19 21:39:33+01:00,docsSource/sections/01-usage.md
+vlad doster,2021-06-19 21:53:22+01:00,docsSource/sections/02-utilities.md
+vlad doster,2021-06-19 21:54:02+01:00,docsSource/sections/03-best-practices.md
+vlad doster,2021-06-19 21:55:15+01:00,docsSource/sections/06-migration.md
+vlad doster,2021-06-19 21:56:04+01:00,docsSource/sections/08-accessibility.md
+vlad doster,2021-06-19 21:57:53+01:00,docsSource/sections/09-license-contributing.md
+dependabot[bot],2021-06-19 21:58:22+01:00,package.json
+dependabot[bot],2021-06-19 21:58:22+01:00,yarn.lock
+dependabot[bot],2021-07-06 10:54:21+01:00,package.json
+dependabot[bot],2021-07-06 10:54:21+01:00,yarn.lock
+dependabot[bot],2021-07-06 11:03:39+01:00,yarn.lock
+dependabot[bot],2021-07-06 11:04:22+01:00,package.json
+dependabot[bot],2021-07-06 11:04:22+01:00,yarn.lock
+dependabot[bot],2021-07-06 11:04:46+01:00,package.json
+dependabot[bot],2021-07-06 11:04:46+01:00,yarn.lock
+vlad doster,2021-07-06 11:08:44+01:00,docsSource/sections/01-usage.md
+Mehmet Sağır,2021-07-06 11:12:49+01:00,docs/index.html
+Mehmet Sağır,2021-07-06 11:12:49+01:00,docs/main.mjs
+Mehmet Sağır,2021-07-06 11:12:49+01:00,docs/modules/darkMode.mjs
+Mehmet Sağır,2021-07-06 11:12:49+01:00,docs/style.css
+Mehmet Sağır,2021-07-06 11:12:49+01:00,docsSource/index.js
+Mehmet Sağır,2021-07-06 11:12:49+01:00,docsSource/template.html
+Waren Gonzaga,2021-07-06 11:26:57+01:00,package.json
+Waren Gonzaga,2021-07-06 11:26:57+01:00,security.md
+dependabot[bot],2021-07-15 16:50:35+01:00,package.json
+dependabot[bot],2021-07-15 16:50:35+01:00,yarn.lock
+dependabot[bot],2021-07-15 15:54:28+00:00,package.json
+dependabot[bot],2021-07-15 15:54:28+00:00,yarn.lock
+dependabot[bot],2021-07-27 12:58:00+01:00,package.json
+dependabot[bot],2021-07-27 12:58:00+01:00,yarn.lock
+dependabot[bot],2021-07-27 12:58:27+01:00,package.json
+dependabot[bot],2021-07-27 12:58:27+01:00,yarn.lock
+dependabot[bot],2021-07-27 12:02:04+00:00,package.json
+dependabot[bot],2021-07-27 12:02:04+00:00,yarn.lock
+dependabot[bot],2021-07-29 19:16:05+01:00,package.json
+dependabot[bot],2021-07-29 19:16:05+01:00,yarn.lock
+Elton Mesquita,2021-07-29 20:10:28+01:00,.husky/.gitignore
+Elton Mesquita,2021-07-29 20:10:28+01:00,.husky/pre-commit
+Elton Mesquita,2021-07-29 20:10:28+01:00,docs/animate.min.css
+Elton Mesquita,2021-07-29 20:10:28+01:00,docs/index.html
+Elton Mesquita,2021-07-29 20:10:28+01:00,package.json
+dependabot[bot],2021-08-03 10:57:30+01:00,package.json
+dependabot[bot],2021-08-03 10:57:30+01:00,yarn.lock
+dependabot[bot],2021-08-03 10:00:43+00:00,package.json
+dependabot[bot],2021-08-03 10:00:43+00:00,yarn.lock
+Elton Mesquita,2021-08-03 12:47:52+01:00,CODE_OF_CONDUCT.md
+Elton Mesquita,2021-08-03 12:47:52+01:00,README.md
+Elton Mesquita,2021-08-03 12:47:52+01:00,docs/index.html
+Elton Mesquita,2021-08-03 12:47:52+01:00,docsSource/sections/09-license-contributing.md
+Elton Mesquita,2021-08-03 12:47:52+01:00,security.md
+dependabot[bot],2021-08-09 10:03:12+01:00,package.json
+dependabot[bot],2021-08-09 10:03:12+01:00,yarn.lock
+dependabot[bot],2021-08-13 16:50:55+01:00,yarn.lock
+Harry Dehal,2021-08-13 16:54:26+01:00,docs/index.html
+Harry Dehal,2021-08-13 16:54:26+01:00,docsSource/sections/01-usage.md
+dependabot[bot],2021-08-18 22:59:47+01:00,package.json
+dependabot[bot],2021-08-18 22:59:47+01:00,yarn.lock
+dependabot[bot],2021-08-26 12:00:07+01:00,package.json
+dependabot[bot],2021-08-26 12:00:07+01:00,yarn.lock
+dependabot[bot],2021-08-26 12:00:28+01:00,package.json
+dependabot[bot],2021-08-26 12:00:28+01:00,yarn.lock
+dependabot[bot],2021-08-29 12:21:53+01:00,package.json
+dependabot[bot],2021-08-29 12:21:53+01:00,yarn.lock
+Elton Mesquita,2021-08-29 12:24:54+01:00,.github/workflows/codeql-analysis.yml
+Daniel Eden,2021-09-13 10:57:02+01:00,LICENSE
+Daniel Eden,2021-09-15 09:18:42+01:00,README.md
+dependabot[bot],2021-09-17 10:28:56+01:00,package.json
+dependabot[bot],2021-09-17 10:28:56+01:00,yarn.lock
+dependabot[bot],2021-09-20 14:46:32+01:00,package.json
+dependabot[bot],2021-09-20 14:46:32+01:00,yarn.lock
+dependabot[bot],2021-09-27 10:32:58+01:00,package.json
+dependabot[bot],2021-09-27 10:32:58+01:00,yarn.lock
+dependabot[bot],2021-09-29 09:10:38+01:00,package.json
+dependabot[bot],2021-09-29 09:10:38+01:00,yarn.lock
+dependabot[bot],2021-09-29 09:11:46+01:00,yarn.lock
+Waren Gonzaga,2021-10-08 11:58:59+01:00,README.md
+Waren Gonzaga,2021-10-08 11:58:59+01:00,SECURITY.md
+Waren Gonzaga,2021-10-08 11:58:59+01:00,animate.compat.css
+Waren Gonzaga,2021-10-08 11:58:59+01:00,animate.css
+Waren Gonzaga,2021-10-08 11:58:59+01:00,animate.min.css
+Waren Gonzaga,2021-10-08 11:58:59+01:00,docs/animate.min.css
+Waren Gonzaga,2021-10-08 11:58:59+01:00,docs/index.html
+Waren Gonzaga,2021-10-08 11:58:59+01:00,docsSource/sections/09-license-contributing.md
+Waren Gonzaga,2021-10-08 11:58:59+01:00,package.json
+Waren Gonzaga,2021-10-08 11:58:59+01:00,postcss.config.js
+dependabot[bot],2021-10-11 19:18:14+01:00,package.json
+dependabot[bot],2021-10-11 19:18:14+01:00,yarn.lock
+dependabot[bot],2021-10-11 19:19:04+01:00,package.json
+dependabot[bot],2021-10-11 19:19:04+01:00,yarn.lock
+dependabot[bot],2021-10-12 11:39:31+01:00,package.json
+dependabot[bot],2021-10-12 11:39:31+01:00,yarn.lock
+Igor,2021-10-18 14:00:13+01:00,package.json
+dependabot[bot],2021-10-21 09:54:01+01:00,package.json
+dependabot[bot],2021-10-21 09:54:01+01:00,yarn.lock
+dependabot[bot],2021-11-03 09:41:45+00:00,package.json
+dependabot[bot],2021-11-03 09:41:45+00:00,yarn.lock
+dependabot[bot],2021-11-03 09:45:40+00:00,package.json
+dependabot[bot],2021-11-03 09:45:40+00:00,yarn.lock
+dependabot[bot],2021-11-03 09:46:00+00:00,package.json
+dependabot[bot],2021-11-03 09:46:00+00:00,yarn.lock
+dependabot[bot],2021-11-03 09:49:24+00:00,package.json
+dependabot[bot],2021-11-03 09:49:24+00:00,yarn.lock
+dependabot[bot],2021-11-04 12:12:10+00:00,package.json
+dependabot[bot],2021-11-04 12:12:10+00:00,yarn.lock
+dependabot[bot],2021-12-01 17:28:24+00:00,package.json
+dependabot[bot],2021-12-01 17:28:24+00:00,yarn.lock
+dependabot[bot],2021-12-01 17:28:58+00:00,package.json
+dependabot[bot],2021-12-01 17:28:58+00:00,yarn.lock
+dependabot[bot],2021-12-13 11:04:14+00:00,package.json
+dependabot[bot],2021-12-13 11:04:14+00:00,yarn.lock
+dependabot[bot],2021-12-13 14:21:56+00:00,package.json
+dependabot[bot],2021-12-13 14:21:56+00:00,yarn.lock
+dependabot[bot],2021-12-13 14:27:06+00:00,package.json
+dependabot[bot],2021-12-13 14:27:06+00:00,yarn.lock
+dependabot[bot],2021-12-16 10:54:17+00:00,package.json
+dependabot[bot],2021-12-16 10:54:17+00:00,yarn.lock
+dependabot[bot],2021-12-28 12:41:02+00:00,package.json
+dependabot[bot],2021-12-28 12:41:02+00:00,yarn.lock
+dependabot[bot],2022-01-12 09:27:04+00:00,package.json
+dependabot[bot],2022-01-12 09:27:04+00:00,yarn.lock
+dependabot[bot],2022-01-12 09:28:21+00:00,package.json
+dependabot[bot],2022-01-12 09:28:21+00:00,yarn.lock
+dependabot[bot],2022-01-12 09:31:42+00:00,package.json
+dependabot[bot],2022-01-12 09:31:42+00:00,yarn.lock
+Elton Mesquita,2022-01-12 11:01:57+00:00,animate.compat.css
+Elton Mesquita,2022-01-12 11:01:57+00:00,animate.css
+Elton Mesquita,2022-01-12 11:01:57+00:00,animate.min.css
+Elton Mesquita,2022-01-12 11:01:57+00:00,docs/animate.min.css
+Elton Mesquita,2022-01-12 11:01:57+00:00,docs/index.html
+Elton Mesquita,2022-01-12 11:01:57+00:00,docs/style.css
+Elton Mesquita,2022-01-12 11:01:57+00:00,docsSource/sections/07-custom-builds.md
+Waren Gonzaga,2022-02-01 10:41:11+00:00,package.json
+dependabot[bot],2022-02-15 10:26:47+00:00,package.json
+dependabot[bot],2022-02-15 10:26:47+00:00,yarn.lock
+Waren Gonzaga,2022-03-01 14:28:05+00:00,docs/index.html
+Waren Gonzaga,2022-03-01 14:28:05+00:00,docsSource/sections/01-usage.md
+Waren Gonzaga,2022-03-01 14:28:05+00:00,docsSource/sections/02-utilities.md
+Waren Gonzaga,2022-03-01 14:28:05+00:00,docsSource/sections/03-best-practices.md
+Waren Gonzaga,2022-03-01 14:28:05+00:00,docsSource/sections/06-migration.md
+Waren Gonzaga,2022-03-01 14:28:05+00:00,docsSource/sections/09-contributors.md
+Waren Gonzaga,2022-03-01 14:28:40+00:00,docs/index.html
+Waren Gonzaga,2022-03-01 14:28:40+00:00,docsSource/template.html
+Waren Gonzaga,2022-04-19 12:17:09+01:00,.github/ISSUE_TEMPLATE/bug_report.md
+Waren Gonzaga,2022-04-19 12:17:09+01:00,.github/ISSUE_TEMPLATE/bugs.yml
+Waren Gonzaga,2022-04-19 12:17:09+01:00,.github/ISSUE_TEMPLATE/feature_request.md
+Waren Gonzaga,2022-04-19 12:17:09+01:00,.github/ISSUE_TEMPLATE/features.yml
+dependabot[bot],2022-07-29 09:33:29+01:00,yarn.lock
+dependabot[bot],2022-07-29 15:39:12+01:00,yarn.lock
+dependabot[bot],2022-07-29 15:39:54+01:00,package.json
+dependabot[bot],2022-07-29 15:39:54+01:00,yarn.lock
+dependabot[bot],2022-07-29 15:40:51+01:00,package.json
+dependabot[bot],2022-07-29 15:40:51+01:00,yarn.lock
+dependabot[bot],2022-07-29 15:42:47+01:00,package.json
+dependabot[bot],2022-07-29 15:42:47+01:00,yarn.lock
+gfggithubleet,2024-03-02 10:53:02+00:00,README.md
+Abhinav Mishra,2024-03-02 10:57:25+00:00,docsSource/sections/07-custom-builds.md

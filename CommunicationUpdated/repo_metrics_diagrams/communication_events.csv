@@ -1,0 +1,101 @@
+file,author1,author2,time1,time2
+.github/workflows/codeql-analysis.yml,Phuoc Tran,Tobias Bruckert,2024-11-06 10:43:31+07:00,2024-11-07 09:04:15+09:00
+.github/workflows/test.yml,Stedders,mingrammer,2023-05-23 08:34:51+09:00,2023-05-23 08:41:22+09:00
+.github/workflows/test.yml,Dov Benyomin Sohacheski,Shiplu Mokaddim,2023-10-30 23:07:32+09:00,2023-10-30 23:08:33+09:00
+.github/workflows/test.yml,Shiplu Mokaddim,MinJae Kwon,2023-10-30 23:08:33+09:00,2023-10-30 23:13:06+09:00
+.github/workflows/test.yml,Tobias Bruckert,mingrammer,2024-11-07 09:04:15+09:00,2024-11-07 11:08:44+09:00
+CHANGELOG.md,gabriel-tessier,mingrammer,2020-07-13 11:44:17+09:00,2020-07-13 23:53:11+09:00
+CHANGELOG.md,mingrammer,MinJae Kwon,2020-08-27 09:55:49+09:00,2020-08-27 09:58:15+09:00
+README.md,mingrammer,MinJae Kwon,2020-02-03 00:42:36+09:00,2020-02-03 00:46:55+09:00
+README.md,MinJae Kwon,mingrammer,2020-02-03 03:07:42+09:00,2020-02-03 11:41:02+09:00
+README.md,mingrammer,MinJae Kwon,2020-02-03 11:41:02+09:00,2020-02-03 12:01:25+09:00
+README.md,mingrammer,MinJae Kwon,2020-02-15 00:13:21+09:00,2020-02-15 10:31:51+09:00
+README.md,MinJae Kwon,mingrammer,2020-02-23 02:20:11+09:00,2020-02-23 02:55:11+09:00
+README.md,mingrammer,MinJae Kwon,2020-04-26 00:51:54+09:00,2020-04-26 01:00:12+09:00
+README.md,mingrammer,MinJae Kwon,2020-08-26 21:51:18+09:00,2020-08-26 21:54:03+09:00
+README.md,Android Dev Notes,David Russell,2020-10-05 23:00:44+09:00,2020-10-05 23:06:58+09:00
+README.md,gabriel-tessier,Blake Mealey,2021-05-03 23:56:01+09:00,2021-05-04 00:08:15+09:00
+README.md,Gabriel Machado,mingrammer,2022-01-21 23:41:11+09:00,2022-01-22 13:48:47+09:00
+README.md,mingrammer,MinJae Kwon,2022-01-22 13:48:47+09:00,2022-01-22 13:51:38+09:00
+README.md,MinJae Kwon,mingrammer,2022-01-22 13:51:38+09:00,2022-01-22 13:54:38+09:00
+README.md,Dov Benyomin Sohacheski,MinJae Kwon,2023-10-30 23:07:32+09:00,2023-10-30 23:18:42+09:00
+autogen.sh,lrjball,MinJae Kwon,2022-11-08 20:19:10+09:00,2022-11-08 20:57:01+09:00
+config.py,mingrammer,Brian Glogower,2020-03-06 23:38:04+09:00,2020-03-06 12:44:50-05:00
+config.py,Taylor Reece,mingrammer,2020-05-17 17:14:06+09:00,2020-05-17 23:12:14+09:00
+config.py,Garrett Hyde,Leandro Damascena,2020-05-20 22:52:21+09:00,2020-05-21 19:51:12+09:00
+config.py,Kenny Ho,Taro Kawazoe,2020-05-25 11:02:30+09:00,2020-05-25 13:45:00+09:00
+config.py,gabriel-tessier,Patryk Orwat,2020-05-31 12:39:16+09:00,2020-05-31 22:39:05+09:00
+config.py,outscale-mgo,Florian Dambrine,2020-08-21 20:36:08+09:00,2020-08-22 00:03:41+09:00
+config.py,Gauthier Leonard,hard_coder,2021-01-27 21:28:55+09:00,2021-01-28 20:07:24+09:00
+config.py,hard_coder,dan-ash,2021-01-28 20:07:24+09:00,2021-01-28 20:18:15+09:00
+config.py,MinJae Kwon,Gabriel Fernandes,2022-11-09 04:08:35+09:00,2022-11-09 04:13:22+09:00
+config.py,Rob Lazzurs,MinJae Kwon,2023-01-08 17:11:54+09:00,2023-01-08 17:37:46+09:00
+diagrams/__init__.py,mingrammer,deadmeu,2020-02-12 01:48:28+09:00,2020-02-13 00:26:01+10:00
+diagrams/__init__.py,Andrew Selivanov,mingrammer,2020-03-09 22:14:43+09:00,2020-03-09 22:17:57+09:00
+diagrams/__init__.py,vanife,Austen,2022-11-04 18:34:28+09:00,2022-11-04 18:47:50+09:00
+diagrams/__init__.py,Austen,gabriel-tessier,2022-11-04 18:47:50+09:00,2022-11-04 19:57:08+09:00
+diagrams/oci/__init__.py,McSly,mingrammer,2020-02-18 11:36:52+09:00,2020-02-18 11:39:06+09:00
+diagrams/onprem/database.py,Daniel Lemm,Slach,2020-03-28 09:51:22+01:00,2020-03-28 20:11:12+05:00
+diagrams/onprem/network.py,mingrammer,Brian Glogower,2020-03-06 23:56:08+09:00,2020-03-06 12:44:50-05:00
+diagrams/onprem/registry.py,Dov Benyomin Sohacheski,MinJae Kwon,2023-01-08 16:46:24+09:00,2023-01-08 17:37:46+09:00
+diagrams/programming/framework.py,Taylor Reece,mingrammer,2020-05-17 17:14:06+09:00,2020-05-17 23:14:16+09:00
+diagrams/programming/framework.py,Phuoc Tran,gabriel-tessier,2024-11-25 19:38:47+07:00,2024-11-25 22:40:16+09:00
+diagrams/programming/language.py,Taylor Reece,mingrammer,2020-05-17 17:14:06+09:00,2020-05-17 23:14:16+09:00
+docker/dev/Dockerfile,Phuoc Tran,dependabot[bot],2024-11-25 19:38:47+07:00,2024-11-25 20:18:44+07:00
+docs/nodes/aws.md,Garrett Hyde,Leandro Damascena,2020-05-20 22:52:21+09:00,2020-05-21 19:51:12+09:00
+docs/nodes/aws.md,Nicolas Lamirault,Leandro Damascena,2020-06-04 20:06:35+09:00,2020-06-04 22:53:43+09:00
+docs/nodes/aws.md,Leandro Damascena,Nicolas Lamirault,2020-06-04 22:53:43+09:00,2020-06-04 23:58:23+09:00
+docs/nodes/aws.md,y-tomida,Chris Skaaning,2022-01-22 00:10:35+09:00,2022-01-22 13:48:09+09:00
+docs/nodes/azure.md,Felipe Chagas,Garrett Hyde,2020-05-20 22:38:23+09:00,2020-05-20 22:52:21+09:00
+docs/nodes/azure.md,Garrett Hyde,Aymon Delbridge,2020-05-20 22:52:21+09:00,2020-05-21 11:39:58+09:00
+docs/nodes/azure.md,pd,Ermias,2023-10-30 22:47:14+09:00,2023-10-30 23:04:07+09:00
+docs/nodes/elastic.md,lrjball,James Garside,2022-11-08 20:19:10+09:00,2022-11-09 10:00:00+09:00
+docs/nodes/gcp.md,Pierre-Yves Aillet,Viicos,2023-10-30 22:54:21+09:00,2023-10-30 23:05:48+09:00
+docs/nodes/generic.md,gabriel-tessier,lrjball,2022-11-07 22:20:10+09:00,2022-11-08 20:19:10+09:00
+docs/nodes/generic.md,lrjball,Dov Benyomin Sohacheski,2022-11-08 20:19:10+09:00,2022-11-09 02:56:54+09:00
+docs/nodes/oci.md,Filipe Oliveira,Phước Trần,2024-09-30 21:50:46+01:00,2024-10-02 00:07:33+07:00
+docs/nodes/onprem.md,mingrammer,Brian Glogower,2020-03-06 23:57:25+09:00,2020-03-06 12:44:50-05:00
+docs/nodes/onprem.md,mingrammer,Yu ISHIKAWA,2020-03-19 01:43:13+09:00,2020-03-19 14:45:15+09:00
+docs/nodes/onprem.md,Yu ISHIKAWA,tessier,2020-03-24 16:20:45+09:00,2020-03-24 18:44:52+09:00
+docs/nodes/onprem.md,Slach,tessier,2020-03-31 11:00:33+05:00,2020-03-31 18:23:25+09:00
+docs/nodes/onprem.md,Viktor Orda,Bobby DeSimone,2020-04-16 21:14:58+03:00,2020-04-16 13:33:11-07:00
+docs/nodes/onprem.md,Kevin Reynolds,Victor Lantier,2020-04-20 20:31:10+09:00,2020-04-21 14:28:40+09:00
+docs/nodes/onprem.md,Nicolas Lamirault,Fellipe Wurthmann,2020-05-16 23:14:59+09:00,2020-05-17 19:31:02+09:00
+docs/nodes/onprem.md,Fellipe Wurthmann,mingrammer,2020-05-17 19:31:02+09:00,2020-05-17 23:12:29+09:00
+docs/nodes/onprem.md,pbeaudequin,Yazdan,2020-05-23 19:24:36+09:00,2020-05-23 19:26:36+09:00
+docs/nodes/onprem.md,Yazdan,Lukas Grossar,2020-05-23 19:26:36+09:00,2020-05-23 22:16:13+09:00
+docs/nodes/onprem.md,David Garvey,Mathias Frey,2021-08-21 11:52:11+09:00,2021-08-21 12:08:57+09:00
+docs/nodes/onprem.md,Mathias Frey,Ryan Cheley,2021-08-21 12:08:57+09:00,2021-08-21 12:10:05+09:00
+docs/nodes/onprem.md,Ryan Cheley,Olaf Schusler,2021-08-21 12:10:05+09:00,2021-08-21 12:48:30+09:00
+docs/nodes/onprem.md,Michael Savin,Valentin Panovskiy,2022-01-22 00:14:00+09:00,2022-01-22 13:48:00+09:00
+docs/nodes/onprem.md,lrjball,dave_r,2022-11-08 20:19:10+09:00,2022-11-09 02:23:46+09:00
+docs/nodes/onprem.md,dave_r,Dov Benyomin Sohacheski,2022-11-09 02:23:46+09:00,2022-11-09 02:56:54+09:00
+docs/nodes/onprem.md,Dov Benyomin Sohacheski,Adrian Zuber,2022-11-09 02:56:54+09:00,2022-11-09 03:00:11+09:00
+docs/nodes/onprem.md,Adrian Zuber,Gabriel Fernandes,2022-11-09 03:00:11+09:00,2022-11-09 04:13:22+09:00
+docs/nodes/onprem.md,Gabriel Fernandes,Matthew Fine,2022-11-09 04:13:22+09:00,2022-11-09 10:31:50+09:00
+docs/nodes/onprem.md,Dov Benyomin Sohacheski,Eric Winnington,2023-01-08 16:46:24+09:00,2023-01-08 16:53:52+09:00
+docs/nodes/onprem.md,Eric Winnington,MinJae Kwon,2023-01-08 16:53:52+09:00,2023-01-08 17:38:09+09:00
+docs/nodes/onprem.md,Matthew Fine,Ruslan Samoylov,2023-05-23 08:32:15+09:00,2023-05-23 08:51:10+09:00
+docs/nodes/programming.md,Taylor Reece,mingrammer,2020-05-17 17:14:06+09:00,2020-05-17 23:12:29+09:00
+docs/nodes/programming.md,安丹梅,hard_coder,2021-01-27 22:38:17+09:00,2021-01-28 20:07:24+09:00
+docs/nodes/saas.md,Nathan Zender,Pei-Ming Wu,2022-11-04 18:06:16+09:00,2022-11-04 18:27:44+09:00
+docs/nodes/saas.md,Pei-Ming Wu,Jared Curtis,2022-11-04 18:27:44+09:00,2022-11-04 22:52:35+09:00
+docs/nodes/saas.md,Jared Curtis,Ioannis Cherouvim,2022-11-04 22:52:35+09:00,2022-11-04 23:05:39+09:00
+docs/nodes/saas.md,davidferdinand,Alex Hofmann,2023-05-23 08:36:19+09:00,2023-05-23 08:49:09+09:00
+poetry.lock,Filipe Oliveira,Phước Trần,2024-09-30 21:55:45+01:00,2024-10-02 00:11:47+07:00
+poetry.lock,dependabot[bot],mingrammer,2024-11-07 09:35:53+09:00,2024-11-07 11:10:42+09:00
+pyproject.toml,rajat404,mingrammer,2020-02-13 11:22:09+05:30,2020-02-14 00:29:00+09:00
+pyproject.toml,mingrammer,dependabot[bot],2021-02-23 02:33:06+09:00,2021-02-23 02:42:55+09:00
+pyproject.toml,dependabot[bot],mingrammer,2022-01-21 23:59:36+09:00,2022-01-22 13:54:57+09:00
+pyproject.toml,dependabot[bot],MinJae Kwon,2023-01-08 16:52:11+09:00,2023-01-08 17:20:50+09:00
+pyproject.toml,Dov Benyomin Sohacheski,MinJae Kwon,2023-10-30 23:07:32+09:00,2023-10-30 23:09:41+09:00
+resources/elastic/elasticsearch/beats.png,Nicolas Lamirault,mingrammer,2020-06-04 23:58:23+09:00,2020-06-05 00:02:32+09:00
+scripts/generate.py,McSly,mingrammer,2020-02-18 11:36:52+09:00,2020-02-18 21:41:33+09:00
+scripts/resource.py,gabriel-tessier,Patryk Orwat,2020-05-31 12:39:16+09:00,2020-05-31 22:39:05+09:00
+tests/test_diagram.py,Andrew Selivanov,mingrammer,2020-03-09 22:14:43+09:00,2020-03-09 22:22:14+09:00
+website/i18n/en.json,McSly,mingrammer,2020-02-18 11:36:52+09:00,2020-02-18 21:30:42+09:00
+website/i18n/en.json,Patryk Orwat,mingrammer,2020-05-31 22:39:05+09:00,2020-05-31 22:51:33+09:00
+website/package-lock.json,dependabot[bot],mingrammer,2022-01-22 00:14:30+09:00,2022-01-22 14:15:32+09:00
+website/pages/en/index.js,McSly,mingrammer,2020-02-18 11:36:52+09:00,2020-02-18 21:42:57+09:00
+website/static/img/rabbitmq_consumers_diagram.png,Daniel Ferrari,mingrammer,2020-02-19 22:05:21+09:00,2020-02-19 22:25:07+09:00
+website/yarn.lock,dependabot[bot],mingrammer,2022-01-22 00:14:30+09:00,2022-01-22 14:15:32+09:00

@@ -1,0 +1,60 @@
+Field,Value
+Commits Overview,
+Total Commits,78
+Total Unique Authors,15
+,
+Top 10 Contributors,
+Author,Commits
+Muennighoff,4718
+swj0419,333
+Niklas Muennighoff,32
+invictus717,10
+ZitongYang,5
+Yiyuan Zhang,5
+tpoisonooo,2
+Nitin Bansal,1
+Ikko Eltociear Ashimine,1
+Mattias Rost,1
+,
+Communication Events,Total: 24
+"Author1,Author2",Events
+"Muennighoff,Niklas Muennighoff",4
+"invictus717,Yiyuan Zhang",3
+"Niklas Muennighoff,Muennighoff",2
+"Yiyuan Zhang,invictus717",2
+"BigsnarfDude,Niklas Muennighoff",1
+"Muennighoff,swj0419",1
+"Henry,Niklas Muennighoff",1
+"Ikko Eltociear Ashimine,Nitin Bansal",1
+"Mattias Rost,Muennighoff",1
+"Niklas Muennighoff,Ikko Eltociear Ashimine",1
+"Niklas Muennighoff,Henry",1
+"Niklas Muennighoff,Daqi Pei",1
+"Niklas Muennighoff,invictus717",1
+"ZitongYang,Niklas Muennighoff",1
+"invictus717,Niklas Muennighoff",1
+"swj0419,Mattias Rost",1
+"swj0419,Niklas Muennighoff",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++00:00,2
++01:00,1
++05:30,1
++08:00,13
++09:00,3
+-07:00,2
+-08:00,56
+,
+Contributors Experience,Average across 4914 files: 99.97%
+File,Top Contributor Share (%)
+data/decontaminate_util.py,100.00
+eval/compute_sample_stats.py,100.00
+eval/lm-evaluation-harness/.coveragerc,100.00
+eval/lm-evaluation-harness/.flake8,100.00
+eval/lm-evaluation-harness/.github/workflows/new_tasks.yml,100.00
+eval/lm-evaluation-harness/.github/workflows/publish.yml,100.00
+eval/lm-evaluation-harness/.github/workflows/unit_tests.yml,100.00
+eval/lm-evaluation-harness/.gitignore,100.00
+eval/lm-evaluation-harness/.pre-commit-config.yaml,100.00
+eval/lm-evaluation-harness/CITATION.bib,100.00

@@ -1,0 +1,900 @@
+author,timestamp,file
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController.xcodeproj/project.pbxproj
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/BAPhotosViewController.xcscheme
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/xcschememanagement.plist
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController/AppDelegate.swift
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController/Assets.xcassets/AppIcon.appiconset/Contents.json
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController/Base.lproj/LaunchScreen.storyboard
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController/Base.lproj/Main.storyboard
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController/Info.plist
+Alex Hill,2017-05-07 10:27:45-07:00,BAPhotosViewController/ViewController.swift
+Alex Hill,2017-05-07 20:26:43-07:00,.gitignore
+Alex Hill,2017-05-07 20:26:43-07:00,BAPPhotosViewController.podspec
+Alex Hill,2017-05-07 20:26:43-07:00,BAPhotosViewController.xcodeproj/project.pbxproj
+Alex Hill,2017-05-07 20:26:43-07:00,BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/BAPhotosViewController.xcscheme
+Alex Hill,2017-05-07 20:26:43-07:00,BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/xcschememanagement.plist
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample.xcworkspace/contents.xcworkspacedata
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample/AppDelegate.swift
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample/Assets.xcassets/AppIcon.appiconset/Contents.json
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample/Base.lproj/LaunchScreen.storyboard
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample/Base.lproj/Main.storyboard
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample/Info.plist
+Alex Hill,2017-05-07 20:26:43-07:00,Example/BAPPhotosViewControllerExample/ViewController.swift
+Alex Hill,2017-05-07 20:26:43-07:00,Example/Podfile
+Alex Hill,2017-05-07 20:26:43-07:00,Example/Podfile.lock
+Alex Hill,2017-05-07 20:26:43-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-07 20:26:43-07:00,Source/Classes/Photo.swift
+Alex Hill,2017-05-07 20:26:43-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-07 20:26:43-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-07 20:31:58-07:00,LICENSE.md
+Alex Hill,2017-05-07 20:33:12-07:00,README.md
+Alex Hill,2017-05-20 20:04:33-07:00,BAPPhotosViewController.podspec
+Alex Hill,2017-05-20 20:04:33-07:00,Example/Podfile
+Alex Hill,2017-05-20 20:04:33-07:00,Example/Podfile.lock
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Classes/Photo.swift
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-05-20 20:04:33-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-20 20:10:16-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-20 21:54:37-07:00,BAPPhotosViewController.podspec
+Alex Hill,2017-05-20 21:54:37-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-20 21:54:37-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-05-20 21:54:37-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-21 00:20:55-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-21 00:20:55-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-21 00:20:55-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-05-21 00:20:55-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-05-21 00:31:40-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-21 17:53:51-07:00,BAPPhotosViewController.podspec
+Alex Hill,2017-05-21 17:53:51-07:00,Example/BAPPhotosViewControllerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-05-21 17:53:51-07:00,Example/BAPPhotosViewControllerExample/AppDelegate.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Example/BAPPhotosViewControllerExample/Base.lproj/Main.storyboard
+Alex Hill,2017-05-21 17:53:51-07:00,Example/BAPPhotosViewControllerExample/Info.plist
+Alex Hill,2017-05-21 17:53:51-07:00,Example/BAPPhotosViewControllerExample/Model/ExamplePhoto.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Example/BAPPhotosViewControllerExample/ViewController.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Classes/Photo.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Extensions/UIImage+GIF.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-05-21 17:53:51-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-21 18:58:54-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-21 18:58:54-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-21 18:58:54-07:00,Source/Classes/ZoomingScrollView.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Classes/Recyclable.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Classes/ZoomingScrollView.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-05-23 22:47:17-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-26 21:31:33-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-26 21:31:33-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-26 21:31:33-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-26 21:31:33-07:00,Source/Classes/Recyclable.swift
+Alex Hill,2017-05-26 21:31:33-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-05-26 21:31:33-07:00,Source/Classes/ZoomingScrollView.swift
+Alex Hill,2017-05-27 11:18:16-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-27 11:18:16-07:00,Source/Classes/PhotoInternal.swift
+Alex Hill,2017-05-27 11:18:16-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-27 11:18:16-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-27 11:18:16-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-05-27 11:18:16-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Example/BAPPhotosViewControllerExample/AppDelegate.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Example/BAPPhotosViewControllerExample/Model/ExamplePhoto.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/PhotoProtocol+Internal.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Extensions/UIImage+GIF.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Protocols/LoadingViewProtocol.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Protocols/PhotoProtocol.swift
+Alex Hill,2017-05-28 20:14:31-07:00,Source/Protocols/Recyclable.swift
+Alex Hill,2017-05-28 21:38:58-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-05-28 21:38:58-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-05-28 21:38:58-07:00,Source/Classes/PhotoProtocol+Internal.swift
+Alex Hill,2017-05-29 21:58:12-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-05-29 21:58:12-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-05-29 21:58:12-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-30 23:53:31-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-05-30 23:53:31-07:00,Source/Extensions/Array+Sorted.swift
+Alex Hill,2017-06-01 11:30:04-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-01 11:30:04-07:00,BAPPhotosViewController.podspec
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample.xcworkspace/contents.xcworkspacedata
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample/Assets.xcassets/AppIcon.appiconset/Contents.json
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample/Base.lproj/LaunchScreen.storyboard
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample/Info.plist
+Alex Hill,2017-06-01 11:30:04-07:00,Example/AXPhotoViewerExample/Model/ExamplePhoto.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Example/Podfile
+Alex Hill,2017-06-01 11:30:04-07:00,Example/Podfile.lock
+Alex Hill,2017-06-01 11:30:04-07:00,README.md
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Protocols/LoadingViewProtocol.swift
+Alex Hill,2017-06-01 11:30:04-07:00,Source/Protocols/PhotoProtocol.swift
+Alex Hill,2017-06-01 11:37:26-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/PagingConfig.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Extensions/UIImage+GIF.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Protocols/LoadingViewProtocol.swift
+Alex Hill,2017-06-01 17:15:18-07:00,Source/Protocols/OverlayTitleViewProtocol.swift
+Alex Hill,2017-06-01 19:26:23-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-06-01 20:03:29-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-01 20:03:29-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-06-01 20:03:29-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-01 20:03:29-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-01 20:03:29-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-02 09:56:17-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-02 09:56:17-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-02 09:56:17-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-02 09:56:17-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-06-02 09:56:17-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-02 09:56:17-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2017-06-02 09:57:26-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-06-03 10:21:43-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-03 10:21:43-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-03 10:21:43-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-06-03 12:49:47-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-03 12:49:47-07:00,Example/AXPhotoViewerExample/Info.plist
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Extensions/UIImage+GIF.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Integrations/NetworkIntegration.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-06-03 12:49:47-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-06-03 17:53:16-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Example/AXPhotoViewerExample/Info.plist
+Alex Hill,2017-06-03 17:53:16-07:00,Example/AXPhotoViewerExample/Model/ExamplePhoto.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Example/Podfile
+Alex Hill,2017-06-03 17:53:16-07:00,Example/Podfile.lock
+Alex Hill,2017-06-03 17:53:16-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Source/Classes/Photo.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-03 17:53:16-07:00,Source/Protocols/PhotoProtocol.swift
+Alex Hill,2017-06-03 18:53:17-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-03 18:53:17-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-03 18:56:35-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-03 19:33:56-07:00,Example/AXPhotoViewerExample/Info.plist
+Alex Hill,2017-06-03 19:33:56-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-06-04 20:30:37-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Example/AXPhotoViewerExample/ViewController.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Source/Protocols/PageableViewControllerProtocol.swift
+Alex Hill,2017-06-04 20:30:37-07:00,Source/Protocols/Recyclable.swift
+Alex Hill,2017-06-11 21:10:56-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-11 21:10:56-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Example/AXPhotoViewerExample/ViewController.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Example/Podfile
+Alex Hill,2017-06-11 21:10:56-07:00,Example/Podfile.lock
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Classes/PhotosViewControllerTransitionAnimator.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.h
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Extensions/UIImageView+NSCopying.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Extensions/UIView+Animations.swift
+Alex Hill,2017-06-11 21:10:56-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-06-13 22:46:35-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-13 22:46:35-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-06-13 22:46:35-07:00,Example/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Example/Podfile
+Alex Hill,2017-06-13 22:46:35-07:00,Example/Podfile.lock
+Alex Hill,2017-06-13 22:46:35-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Source/Classes/PhotosViewControllerTransitionAnimator.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Source/Extensions/Data+GIF.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Source/Extensions/UIView+Animations.swift
+Alex Hill,2017-06-13 22:46:35-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2017-06-13 23:01:58-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-06-17 13:11:39-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-17 13:11:39-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-17 13:11:39-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-17 13:11:39-07:00,Source/Classes/PhotosViewControllerTransitionAnimator.swift
+Alex Hill,2017-06-17 13:19:18-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/PhotosViewControllerTransitionAnimator.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/PhotosViewControllerTransitionController.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.h
+Alex Hill,2017-06-20 21:47:59-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2017-06-21 09:21:38-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-21 09:21:38-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-21 09:21:38-07:00,Source/Classes/PhotosViewControllerTransitionController.swift
+Alex Hill,2017-06-21 09:21:38-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-21 10:01:29-07:00,README.md
+Alex Hill,2017-06-21 12:09:35-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-21 12:09:35-07:00,Example/Podfile.lock
+Alex Hill,2017-06-21 12:09:35-07:00,README.md
+Alex Hill,2017-06-21 12:09:35-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/PagingConfig.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/PhotosViewControllerTransitionController.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-27 18:53:39-07:00,Source/Extensions/UIInterfaceOrientation+Transform.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-28 09:55:51-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-06-28 10:34:58-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-28 12:35:20-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-06-28 12:35:20-07:00,Source/Classes/PagingConfig.swift
+Alex Hill,2017-06-28 12:35:20-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-28 13:24:58-07:00,README.md
+Alex Hill,2017-06-28 13:26:40-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-28 13:26:40-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-28 13:55:28-07:00,README.md
+Alex Hill,2017-06-28 13:57:59-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-28 15:32:45-07:00,.travis.yml
+Alex Hill,2017-06-28 15:34:17-07:00,README.md
+Alex Hill,2017-06-28 16:23:10-07:00,Example/AXPhotoViewerExample.xcworkspace/xcshareddata/xcschemes/AXPhotoViewerExample.xcscheme
+Alex Hill,2017-06-28 17:05:24-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-28 17:05:24-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-06-28 17:05:24-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-06-28 17:05:24-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-06-29 23:21:35-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-06-29 23:21:35-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-29 23:28:17-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-30 14:00:33-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-30 14:00:33-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-06-30 14:00:33-07:00,Source/Extensions/UIInterfaceOrientation+Transform.swift
+Alex Hill,2017-06-30 15:07:27-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-06-30 15:07:27-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-30 15:08:17-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-30 16:01:57-07:00,README.md
+Alex Hill,2017-06-30 22:27:48-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-06-30 22:27:48-07:00,Source/Classes/PagingConfig.swift
+Alex Hill,2017-06-30 22:27:48-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-06-30 22:27:48-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-06-30 22:27:48-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-06-30 22:27:48-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-06-30 22:29:41-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-06-30 22:50:43-07:00,README.md
+Alex Hill,2017-06-30 23:06:55-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-01 13:21:12-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-01 13:21:12-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-07-01 13:21:12-07:00,Example/AXPhotoViewerExample/CustomLoadingView.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Example/Podfile
+Alex Hill,2017-07-01 13:21:12-07:00,Example/Podfile.lock
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/PagingConfig.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/Photo.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/Array+Sorted.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/Data+GIF.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.h
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/UIImageView+NSCopying.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Extensions/UIView+Animations.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Protocols/LoadingViewProtocol.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Protocols/NetworkIntegrationProtocol.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Protocols/OverlayTitleViewProtocol.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Protocols/PageableViewControllerProtocol.swift
+Alex Hill,2017-07-01 13:21:12-07:00,Source/Protocols/PhotoProtocol.swift
+Alex Hill,2017-07-01 13:25:08-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-07-01 13:25:47-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-01 13:35:55-07:00,Example/Podfile.lock
+Alex Hill,2017-07-01 13:35:55-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-01 13:53:10-07:00,.travis.yml
+Alex Hill,2017-07-01 14:05:53-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-04 16:08:42-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-07-04 16:08:42-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-07-04 16:08:42-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-04 16:08:42-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-04 16:09:30-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-04 16:21:15-07:00,CHANGELOG.md
+Alex Hill,2017-07-05 11:01:51-07:00,Source/Classes/PhotosDataSource.swift
+Alex Hill,2017-07-05 11:01:51-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-05 11:08:53-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-05 11:08:53-07:00,CHANGELOG.md
+Alex Hill,2017-07-06 13:03:06-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-06 13:03:06-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-07-06 13:14:55-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-06 13:14:55-07:00,CHANGELOG.md
+Alex Hill,2017-07-10 21:55:21-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-07-10 21:55:21-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-07-10 21:55:21-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-10 21:57:53-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-10 21:57:53-07:00,Source/Extensions/UIInterfaceOrientation+Transform.swift
+Alex Hill,2017-07-12 10:56:21-07:00,Source/Classes/PhotoViewController.swift
+Alex Hill,2017-07-12 10:56:21-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-12 10:56:21-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-12 10:56:21-07:00,Source/Classes/ZoomingImageView.swift
+Alex Hill,2017-07-12 11:00:03-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-12 11:09:35-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-12 11:09:35-07:00,CHANGELOG.md
+Alex Hill,2017-07-13 23:38:20-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-07-13 23:38:20-07:00,Source/Classes/CaptionView.swift
+Alex Hill,2017-07-13 23:38:20-07:00,Source/Classes/LoadingView.swift
+Alex Hill,2017-07-13 23:38:20-07:00,Source/Classes/OverlayView.swift
+Alex Hill,2017-07-13 23:38:20-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-13 23:38:20-07:00,Source/Classes/TransitionInfo.swift
+Alex Hill,2017-07-13 23:59:49-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-13 23:59:49-07:00,CHANGELOG.md
+Alex Hill,2017-07-13 23:59:49-07:00,Example/Podfile.lock
+Alex Hill,2017-07-15 12:51:10-07:00,Source/Classes/PhotosTransitionController.swift
+Alex Hill,2017-07-15 12:51:10-07:00,Source/Classes/PhotosViewController.swift
+Alex Hill,2017-07-15 12:56:15-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-07-15 12:56:15-07:00,CHANGELOG.md
+Alex Hill,2017-08-05 13:04:20-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2017-08-05 13:11:07-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-05 13:11:07-07:00,CHANGELOG.md
+Alex Hill,2017-08-07 20:55:52-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-07 20:55:52-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Example/Podfile.lock
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/Models/PagingConfig.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/Models/Photo.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/Models/PhotosDataSource.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/Models/TransitionInfo.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/View Controllers/PhotoViewController.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/View Controllers/PhotosPreviewingViewController.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Classes/Views/ZoomingImageView.swift
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.h
+Alex Hill,2017-08-07 20:55:52-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2017-08-07 21:00:46-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-08-07 21:00:46-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-07 21:00:46-07:00,Source/Constants.swift
+Alex Hill,2017-08-07 21:01:34-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2017-08-07 21:02:22-07:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2017-08-07 23:07:42-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-09 09:14:34-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-08-09 09:14:34-07:00,Example/Podfile.lock
+Alex Hill,2017-08-09 09:14:34-07:00,Source/Classes/View Controllers/PreviewingPhotosViewController.swift
+Alex Hill,2017-08-09 09:39:36-07:00,README.md
+Alex Hill,2017-08-09 09:47:55-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-09 09:47:55-07:00,CHANGELOG.md
+Alex Hill,2017-08-09 09:47:55-07:00,README.md
+Alex Hill,2017-08-09 10:06:07-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-09 10:06:07-07:00,CHANGELOG.md
+Alex Hill,2017-08-09 10:06:07-07:00,Example/Podfile.lock
+Alex Hill,2017-08-09 10:06:07-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-09 10:30:41-07:00,Source/Classes/View Controllers/PhotoViewController.swift
+Alex Hill,2017-08-09 10:30:41-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-09 10:30:41-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-08-09 10:30:41-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-09 10:30:41-07:00,Source/Classes/Views/ZoomingImageView.swift
+Alex Hill,2017-08-09 10:32:37-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-09 10:32:37-07:00,CHANGELOG.md
+Alex Hill,2017-08-13 12:04:06-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-08-13 12:04:06-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-13 12:04:06-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-08-13 12:04:06-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-08-13 12:04:06-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-16 19:46:11-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-08-16 19:46:11-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-16 19:46:11-07:00,Source/Classes/View Controllers/PreviewingPhotosViewController.swift
+Alex Hill,2017-08-16 19:46:11-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-16 19:48:03-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-16 19:48:03-07:00,CHANGELOG.md
+Alex Hill,2017-08-16 19:48:03-07:00,README.md
+Alex Hill,2017-08-16 22:13:02-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-08-16 22:13:02-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-16 22:13:02-07:00,Source/Constants.swift
+Alex Hill,2017-08-16 22:13:02-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-08-16 22:13:02-07:00,Source/Protocols/NetworkIntegrationProtocol.swift
+Alex Hill,2017-08-16 22:21:05-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-16 22:21:05-07:00,CHANGELOG.md
+Matt Lamont,2017-08-18 14:42:47+12:00,AXPhotoViewer.podspec
+Matt Lamont,2017-08-18 14:42:47+12:00,Source/Classes/View Controllers/PhotosViewController.swift
+Matt Lamont,2017-08-18 14:42:47+12:00,Source/Classes/View Controllers/PreviewingPhotosViewController.swift
+Matt Lamont,2017-08-18 14:42:47+12:00,Source/Integrations/KingfisherIntegration.swift
+Justin Hill,2017-08-24 12:14:26-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Justin Hill,2017-08-24 12:38:20-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Justin Hill,2017-08-24 12:55:34-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-24 13:06:22-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-24 13:06:22-07:00,CHANGELOG.md
+Alex Hill,2017-08-24 13:15:53-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-24 13:15:53-07:00,CHANGELOG.md
+Alex Hill,2017-08-24 13:15:53-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Justin Hill,2017-08-25 09:30:18-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Justin Hill,2017-08-25 09:40:34-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-08-25 09:44:33-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-08-25 09:44:33-07:00,CHANGELOG.md
+Alex Hill,2017-08-26 15:00:58-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-26 15:08:46-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-08-26 15:08:46-07:00,Example/AXPhotoViewerExample.xcworkspace/xcshareddata/xcschemes/AXPhotoViewerExample.xcscheme
+Alex Hill,2017-08-26 15:08:46-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-08-27 14:24:03-07:00,.travis.yml
+Alex Hill,2017-09-03 15:56:16-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2017-09-03 19:35:43-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-03 19:35:43-07:00,Assets/AXPhotoViewer.xcassets/Contents.json
+Alex Hill,2017-09-03 19:35:43-07:00,Assets/AXPhotoViewer.xcassets/error.imageset/Contents.json
+Alex Hill,2017-09-03 19:35:43-07:00,Assets/AXPhotoViewer.xcassets/error.imageset/axphotoviewer-error.pdf
+Alex Hill,2017-09-03 19:35:43-07:00,Source/Classes/Models/TransitionInfo.swift
+Alex Hill,2017-09-03 19:35:43-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-09-03 20:11:39-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-03 20:11:39-07:00,CHANGELOG.md
+Alex Hill,2017-09-03 20:24:50-07:00,.swift-version
+Alex Hill,2017-09-03 20:24:50-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-03 20:24:50-07:00,CHANGELOG.md
+Alex Hill,2017-09-03 21:00:20-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-10 13:41:23-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-09-11 10:01:15-07:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2017-09-11 10:01:15-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-09-11 11:46:44-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-09-11 11:46:44-07:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2017-09-11 11:46:44-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-09-11 11:54:18-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-11 11:54:18-07:00,CHANGELOG.md
+Alex Hill,2017-09-23 08:59:36-07:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2017-09-23 08:59:36-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-09-25 21:44:55-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-25 21:44:55-07:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2017-09-25 21:44:55-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-09-25 21:44:55-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-09-25 21:44:55-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-09-25 21:44:55-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Example/Podfile.lock
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Classes/Views/StackableViewContainer.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Constants.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-09-25 21:45:58-07:00,Source/Protocols/OverlayTitleViewProtocol.swift
+Alex Hill,2017-09-25 22:08:08-07:00,README.md
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Models/PagingConfig.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Models/Photo.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Models/PhotosDataSource.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Models/TransitionInfo.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/View Controllers/PhotoViewController.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/View Controllers/PreviewingPhotosViewController.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Views/StackableViewContainer.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Classes/Views/ZoomingImageView.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Constants.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.h
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Protocols/CaptionViewProtocol.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Protocols/LoadingViewProtocol.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Protocols/NetworkIntegrationProtocol.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Protocols/OverlayTitleViewProtocol.swift
+Alex Hill,2017-09-25 22:57:58-07:00,Source/Protocols/PhotoProtocol.swift
+Alex Hill,2017-09-25 23:07:25-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-25 23:07:25-07:00,CHANGELOG.md
+Alex Hill,2017-09-25 23:20:31-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-28 19:02:47-07:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2017-09-28 19:02:47-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-09-28 19:02:47-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-09-28 19:02:47-07:00,Source/Classes/Views/StackableViewContainer.swift
+Alex Hill,2017-09-28 19:02:47-07:00,Source/Constants.swift
+Alex Hill,2017-09-28 19:14:07-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-28 19:14:07-07:00,CHANGELOG.md
+Alex Hill,2017-09-30 11:13:28-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-09-30 11:13:28-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-09-30 11:13:28-07:00,Source/Classes/Views/StackableViewContainer.swift
+Alex Hill,2017-09-30 11:17:32-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-09-30 11:17:32-07:00,CHANGELOG.md
+Alex Hill,2017-09-30 12:56:55-07:00,Source/Classes/Views/StackableViewContainer.swift
+Alex Hill,2017-10-17 16:44:54-07:00,Source/Classes/Views/LoadingView.swift
+Alex Hill,2017-10-17 16:46:53-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-10-17 16:46:53-07:00,CHANGELOG.md
+Alex Hill,2017-10-18 10:35:12-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-10-18 10:35:12-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-10-18 10:38:16-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-10-18 10:38:16-07:00,CHANGELOG.md
+Alex Hill,2017-10-28 13:24:42-07:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2017-10-31 12:38:06-07:00,Source/Classes/View Controllers/PhotoViewController.swift
+Alex Hill,2017-10-31 12:38:06-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-10-31 12:38:06-07:00,Source/Classes/View Controllers/PreviewingPhotosViewController.swift
+Alex Hill,2017-10-31 12:38:06-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-10-31 13:05:43-07:00,Source/Classes/View Controllers/PhotoViewController.swift
+Alex Hill,2017-10-31 13:05:43-07:00,Source/Extensions/PhotoProtocol+Internal.swift
+Alex Hill,2017-10-31 13:05:58-07:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2017-10-31 13:12:12-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-10-31 13:12:12-07:00,CHANGELOG.md
+Alex Hill,2017-10-31 14:33:31-07:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2017-10-31 14:35:17-07:00,AXPhotoViewer.podspec
+Alex Hill,2017-10-31 14:35:17-07:00,CHANGELOG.md
+Alex Hill,2018-02-04 12:35:55-08:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Classes/Models/TransitionInfo.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Classes/Transition Controllers/PhotosTransitionController.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Classes/View Controllers/PhotoViewController.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Classes/View Controllers/PhotosViewController.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Classes/Views/CaptionView.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Classes/Views/OverlayView.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-02-04 12:35:55-08:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Assets/AXPhotoViewer.xcassets/axphotoviewer-error.imageset/Contents.json
+Alex Hill,2018-03-10 14:29:25-08:00,Assets/AXPhotoViewer.xcassets/axphotoviewer-error.imageset/axphotoviewer-error.pdf
+Alex Hill,2018-03-10 14:29:25-08:00,Example/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-03-10 14:29:25-08:00,Example/AXPhotoViewerExample/CustomLoadingView.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Example/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Example/Podfile.lock
+Alex Hill,2018-03-10 14:29:25-08:00,README.md
+Alex Hill,2018-03-10 14:29:25-08:00,Source/AXBundle.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/AXConstants.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Models/AXPagingConfig.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Models/AXPhoto.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Models/AXPhotosDataSource.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Models/AXTransitionInfo.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Transition Controllers/AXPhotosTransitionController.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/View Controllers/AXPhotoViewController.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Views/AXLoadingView.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Views/AXOverlayView.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Views/AXStackableViewContainer.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Classes/Views/AXZoomingImageView.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Extensions/AXPhotoProtocol+Internal.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Extensions/UIImageView+NSCopying.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Protocols/AXCaptionViewProtocol.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Protocols/AXLoadingViewProtocol.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Protocols/AXNetworkIntegrationProtocol.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Protocols/AXOverlayTitleViewProtocol.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Protocols/AXPageableViewControllerProtocol.swift
+Alex Hill,2018-03-10 14:29:25-08:00,Source/Protocols/AXPhotoProtocol.swift
+Alex Hill,2018-03-10 15:09:00-08:00,Source/Classes/Transition Controllers/AXPhotosTransitionController.swift
+Alex Hill,2018-03-10 15:09:00-08:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2018-03-10 15:09:00-08:00,Source/Extensions/UIImageView+AXExtensions.h
+Alex Hill,2018-03-10 15:09:00-08:00,Source/Extensions/UIImageView+AXExtensions.m
+Alex Hill,2018-03-10 15:09:00-08:00,Source/Extensions/UIImageView+NSCopying.swift
+Alex Hill,2018-03-11 19:32:15-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample.xcworkspace/contents.xcworkspacedata
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample.xcworkspace/xcshareddata/xcschemes/AXPhotoViewerExample.xcscheme
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample/Assets.xcassets/AppIcon.appiconset/Contents.json
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample/Base.lproj/LaunchScreen.storyboard
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample/CustomLoadingView.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample/Info.plist
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/Podfile
+Alex Hill,2018-03-11 19:32:15-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-03-11 19:32:15-07:00,Source/Protocols/AXNetworkIntegrationProtocol.swift
+Alex Hill,2018-03-15 19:50:34-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-15 19:50:34-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Controls/AXButton.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Models/AXTransitionInfo.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Transition Controllers/AXPhotosTransitionController.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/View Controllers/AXPhotoViewController.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Views/AXLoadingView.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Views/AXOverlayView.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Views/AXStackableViewContainer.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Classes/Views/AXZoomingImageView.swift
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.h
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Extensions/FLAnimatedImageView+AXExtensions.m
+Alex Hill,2018-03-15 19:50:34-07:00,Source/Extensions/UIInterfaceOrientation+Transform.swift
+Alex Hill,2018-03-15 19:50:52-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample.xcworkspace/contents.xcworkspacedata
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image.imageset/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/LaunchImage.launchimage/Contents.json
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/Info.plist
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/Podfile
+Alex Hill,2018-03-15 19:51:30-07:00,Example/tvOS/Podfile.lock
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Classes/Transition Controllers/AXPhotosTransitionController.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2018-03-15 21:34:52-07:00,Source/Protocols/AXOverlayTitleViewProtocol.swift
+Alex Hill,2018-03-15 21:39:42-07:00,Example/iOS/AXPhotoViewerExample/Assets.xcassets/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/iOS/AXPhotoViewerExample/Assets.xcassets/niagara-falls.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/iOS/AXPhotoViewerExample/Assets.xcassets/niagara-falls.imageset/niagara-falls.jpg
+Alex Hill,2018-03-15 21:39:42-07:00,Example/iOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/LaunchImage.launchimage/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/niagara-falls.imageset/Contents.json
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/Assets.xcassets/niagara-falls.imageset/niagara-falls.jpg
+Alex Hill,2018-03-15 21:39:42-07:00,Example/tvOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-03-15 21:42:12-07:00,.travis.yml
+Alex Hill,2018-03-15 21:42:42-07:00,.swift-version
+Alex Hill,2018-03-15 21:44:25-07:00,README.md
+Alex Hill,2018-03-15 21:58:07-07:00,CHANGELOG.md
+Alex Hill,2018-03-15 22:03:11-07:00,.travis.yml
+Alex Hill,2018-03-15 22:09:53-07:00,.travis.yml
+Alex Hill,2018-03-15 22:10:48-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-15 22:25:49-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-16 00:20:30-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-16 11:21:45-07:00,Example/tvOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-03-16 11:21:45-07:00,Source/Classes/Models/AXTransitionInfo.swift
+Alex Hill,2018-03-16 11:21:45-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-03-16 11:21:45-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2018-03-16 11:29:23-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-16 11:29:23-07:00,CHANGELOG.md
+Alex Hill,2018-03-16 13:42:25-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-16 13:42:25-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-03-16 13:42:25-07:00,Example/iOS/Podfile
+Alex Hill,2018-03-16 13:42:25-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-03-16 13:42:25-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-03-16 13:42:25-07:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alex Hill,2018-03-16 13:42:25-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-03-16 13:42:25-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-03-16 13:42:25-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-03-16 13:42:25-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-03-16 13:43:21-07:00,.swift-version
+Alex Hill,2018-03-16 13:43:21-07:00,.travis.yml
+Alex Hill,2018-03-16 13:44:11-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-03-16 13:44:11-07:00,CHANGELOG.md
+Alex Hill,2018-05-14 11:13:49-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-05-14 11:16:52-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-05-14 11:16:52-07:00,CHANGELOG.md
+Alex Hill,2018-05-14 12:04:27-07:00,.travis.yml
+Alessandro Nakamuta,2018-05-15 18:20:13-04:00,AXPhotoViewer.podspec
+Alessandro Nakamuta,2018-05-15 18:20:13-04:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alessandro Nakamuta,2018-05-15 18:20:13-04:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alessandro Nakamuta,2018-05-15 18:20:13-04:00,Source/Integrations/NukeIntegration.swift
+Alex Hill,2018-05-15 16:21:54-07:00,.travis.yml
+Alessandro Nakamuta,2018-05-16 11:01:51-04:00,AXPhotoViewer.podspec
+Alessandro Nakamuta,2018-05-16 17:33:14-04:00,README.md
+Alessandro Nakamuta,2018-05-16 17:33:14-04:00,Source/Integrations/NukeIntegration.swift
+Alex Hill,2018-05-16 15:34:37-07:00,README.md
+Alex Hill,2018-05-16 15:35:20-07:00,README.md
+Alex Hill,2018-06-16 14:47:42-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/AXPhotoViewerExample/Assets.xcassets/burj-khalifa.imageset/Burj_Khalifa.jpg
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/AXPhotoViewerExample/Assets.xcassets/burj-khalifa.imageset/Contents.json
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/Podfile
+Alex Hill,2018-06-16 14:47:42-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Transition Controller + Animators/AXPhotosPresentationAnimator.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionAnimator.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionController.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Views/AXImageViewTransitionContainer.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Views/AXStackableViewContainer.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Classes/Views/AXZoomingImageView.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Extensions/UIImageView+AXExtensions.h
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Extensions/UIImageView+AXExtensions.m
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Integrations/NukeIntegration.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Protocols/AXNetworkIntegrationProtocol.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Protocols/AXPageableViewControllerProtocol.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Utilities/AXDispatchUtils.swift
+Alex Hill,2018-06-16 14:47:42-07:00,Source/Utilities/AXTransitionUtils.swift
+Alex Hill,2018-06-16 15:04:16-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2018-06-16 15:07:34-07:00,README.md
+Alex Hill,2018-06-16 15:10:43-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-06-16 15:10:43-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-06-16 15:29:32-07:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionController.swift
+Alex Hill,2018-06-16 17:18:50-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Integrations/NukeIntegration.swift
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2018-06-16 17:18:50-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2018-06-16 20:06:51-07:00,Source/Classes/Models/AXTransitionInfo.swift
+Alex Hill,2018-06-16 20:06:51-07:00,Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift
+Alex Hill,2018-06-16 20:06:51-07:00,Source/Classes/Transition Controller + Animators/AXPhotosPresentationAnimator.swift
+Alex Hill,2018-06-16 20:06:51-07:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionAnimator.swift
+Alex Hill,2018-06-16 20:06:51-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-06-16 20:06:51-07:00,Source/Extensions/AXPhotoProtocol+Internal.swift
+Alex Hill,2018-06-16 20:49:27-07:00,.swift-version
+Alex Hill,2018-06-16 20:49:27-07:00,.travis.yml
+Alex Hill,2018-06-17 11:59:06-07:00,Source/Classes/Models/AXTransitionInfo.swift
+Alex Hill,2018-06-17 11:59:06-07:00,Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift
+Alex Hill,2018-06-17 11:59:06-07:00,Source/Classes/Transition Controller + Animators/AXPhotosPresentationAnimator.swift
+Alex Hill,2018-06-17 11:59:06-07:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionAnimator.swift
+Alex Hill,2018-06-17 11:59:06-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-06-17 13:51:33-07:00,.travis.yml
+Alex Hill,2018-06-17 14:06:17-07:00,Example/iOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-06-17 14:06:17-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-06-17 14:06:17-07:00,Example/tvOS/Podfile.lock
+Alex Hill,2018-06-17 14:06:17-07:00,Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift
+Alex Hill,2018-06-17 14:06:17-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-06-17 14:06:17-07:00,Source/Extensions/AXPhotoProtocol+Internal.swift
+Alex Hill,2018-06-17 14:33:59-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-06-17 14:33:59-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-06-17 14:52:14-07:00,Source/Classes/View Controllers/AXPhotoViewController.swift
+Alex Hill,2018-06-17 14:52:14-07:00,Source/Classes/Views/AXZoomingImageView.swift
+Alex Hill,2018-06-17 15:21:28-07:00,Source/Classes/View Controllers/AXPhotoViewController.swift
+Alex Hill,2018-06-17 15:21:28-07:00,Source/Classes/Views/AXZoomingImageView.swift
+Alex Hill,2018-06-17 15:21:49-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-06-17 15:31:08-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-06-17 15:31:08-07:00,CHANGELOG.md
+Alex Hill,2018-06-17 16:17:21-07:00,Source/Extensions/AXPhotoProtocol+Internal.swift
+Alex Hill,2018-08-27 22:29:11-07:00,Source/Classes/Views/AXStackableViewContainer.swift
+Alex Hill,2018-08-28 00:59:46-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2018-08-28 01:01:43-07:00,Source/Classes/Views/AXCaptionView.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Controls/AXButton.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Models/AXPagingConfig.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionController.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Views/AXCaptionView.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Views/AXImageViewTransitionContainer.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Views/AXLoadingView.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Views/AXOverlayView.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Classes/Views/AXZoomingImageView.swift
+BiNo,2018-09-19 15:27:38+02:00,Source/Extensions/UIView+Animations.swift
+BiNo,2018-09-19 15:37:11+02:00,.swift-version
+Alex Hill,2018-09-22 15:58:03-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2018-09-22 15:58:30-07:00,.travis.yml
+Alex Hill,2018-09-22 17:57:24-07:00,.travis.yml
+Alex Hill,2018-09-22 22:16:21-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-09-22 22:16:21-07:00,Example/iOS/AXPhotoViewerExample.xcworkspace/xcshareddata/xcschemes/AXPhotoViewerExample.xcscheme
+Alex Hill,2018-09-22 22:16:21-07:00,Example/iOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2018-09-22 22:16:21-07:00,Example/iOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2018-09-22 22:16:21-07:00,Example/iOS/Podfile.lock
+Alex Hill,2018-09-22 22:16:21-07:00,Example/tvOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2018-09-22 22:16:21-07:00,Example/tvOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2018-09-22 22:16:21-07:00,Example/tvOS/Podfile.lock
+Alex Hill,2018-09-22 22:16:21-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-09-22 22:43:26-07:00,.travis.yml
+Alex Hill,2018-09-22 22:46:31-07:00,.travis.yml
+Alex Hill,2018-09-22 22:57:20-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2018-09-22 23:20:27-07:00,CHANGELOG.md
+Alex Hill,2018-09-22 23:23:32-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-09-23 10:51:45-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2018-09-23 10:53:43-07:00,AXPhotoViewer.podspec
+Alex Hill,2018-09-23 10:53:43-07:00,CHANGELOG.md
+Michał Czwarnowski,2018-11-26 15:57:03+01:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-03-30 21:54:28-07:00,.swift-version
+Alex Hill,2019-03-30 21:54:28-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2019-03-30 21:54:28-07:00,Example/iOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2019-03-30 21:54:28-07:00,Example/tvOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2019-03-30 21:54:28-07:00,Example/tvOS/AXPhotoViewerExample/AppDelegate.swift
+Alex Hill,2019-03-30 21:54:28-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-03-30 21:54:28-07:00,Source/Classes/Views/AXOverlayView.swift
+Alex Hill,2019-03-30 21:54:52-07:00,AXPhotoViewer.podspec
+Alex Hill,2019-03-30 22:10:27-07:00,Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj
+Alex Hill,2019-03-30 22:10:27-07:00,Example/iOS/Podfile.lock
+Alex Hill,2019-03-30 22:10:27-07:00,Source/Classes/Views/AXImageViewTransitionContainer.swift
+Alex Hill,2019-03-30 22:10:52-07:00,.travis.yml
+Alex Hill,2019-03-30 22:19:07-07:00,CHANGELOG.md
+Alex Hill,2019-03-30 22:21:08-07:00,CHANGELOG.md
+Guillaume B,2019-04-04 11:46:05+02:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2019-04-07 19:30:24-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Example/iOS/AXPhotoViewerExample/TableViewController.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Models/AXTransitionInfo.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Transition Controller + Animators/AXPhotosPresentationAnimator.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Transition Controller + Animators/AXPhotosTransitionController.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/View Controllers/AXPhotoViewController.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Views/AXImageViewTransitionContainer.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Views/AXLoadingView.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Classes/Views/AXOverlayView.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Integrations/PINRemoteImageIntegration.swift
+Alex Hill,2019-04-07 19:58:25-07:00,Source/Integrations/SimpleNetworkIntegration.swift
+Alex Hill,2019-04-07 19:58:42-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-04-07 19:59:26-07:00,Source/Classes/Views/AXCaptionView.swift
+Alex Hill,2019-04-07 20:07:43-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2019-04-07 20:24:02-07:00,Source/Integrations/KingfisherIntegration.swift
+Alex Hill,2019-04-07 20:27:49-07:00,Source/Integrations/NukeIntegration.swift
+Alex Hill,2019-04-07 20:35:01-07:00,Source/Integrations/SDWebImageIntegration.swift
+Alex Hill,2019-04-07 20:43:02-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-04-07 20:46:38-07:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-04-07 20:50:07-07:00,Source/Integrations/AFNetworkingIntegration.swift
+Alex Hill,2019-04-07 21:10:23-07:00,AXPhotoViewer.podspec
+Alex Hill,2019-04-07 21:10:23-07:00,CHANGELOG.md
+Manuel Maly,2019-05-15 15:55:01+02:00,Source/Classes/View Controllers/AXPhotosViewController.swift
+Alex Hill,2019-12-11 18:08:55-08:00,README.md

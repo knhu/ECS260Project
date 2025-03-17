@@ -1,0 +1,747 @@
+Field,Value
+Commits Overview,
+Total Commits,24881
+Total Unique Authors,140
+,
+Top 10 Contributors,
+Author,Commits
+James Allen,12155
+Jakob Ackermann,10923
+Alasdair Smith,8364
+Alf Eaton,8348
+Henry Oswald,6245
+Brian Gough,5747
+Eric Mc Sween,5329
+Shane Kilkelly,3411
+Winston Li,2831
+Jessica Lawshe,2493
+,
+Communication Events,Total: 3494
+"Author1,Author2",Events
+"James Allen,Henry Oswald",95
+"Henry Oswald,James Allen",90
+"James Allen,Paulo Reis",84
+"Paulo Reis,James Allen",79
+"Brian Gough,Jakob Ackermann",64
+"M Fahru,CloudBuild",46
+"Alf Eaton,ilkin-overleaf",44
+"Eric Mc Sween,Jakob Ackermann",40
+"Alf Eaton,Jakob Ackermann",40
+"Alf Eaton,Alasdair Smith",38
+"Alf Eaton,Timothée Alby",34
+"Tim Down,Jakob Ackermann",32
+"Alf Eaton,Mathias Jakobsen",29
+"Jakob Ackermann,Eric Mc Sween",29
+"Alf Eaton,Eric Mc Sween",28
+"Jakob Ackermann,Tim Down",26
+"Eric Mc Sween,Chrystal Maria Griffiths",22
+"Timothée Alby,Alf Eaton",21
+"Domagoj Kriskovic,Alf Eaton",21
+"Alf Eaton,Thomas",21
+"Mathias Jakobsen,Alf Eaton",21
+"Alf Eaton,Miguel Serrano",20
+"Eric Mc Sween,ilkin-overleaf",20
+"Jakob Ackermann,Alf Eaton",20
+"Jakob Ackermann,Brian Gough",20
+"Davinder Singh,M Fahru",20
+"Henry Oswald,Brian Gough",19
+"Antoine Clausse,Eric Mc Sween",19
+"Miguel Serrano,Alf Eaton",18
+"Timothée Alby,Miguel Serrano",18
+"Alf Eaton,Domagoj Kriskovic",18
+"ilkin-overleaf,M Fahru",18
+"Eric Mc Sween,Alf Eaton",18
+"M Fahru,Jessica Lawshe",18
+"James Allen,Shane Kilkelly",17
+"Timothée Alby,Tim Alby",16
+"Eric Mc Sween,Miguel Serrano",16
+"David,CloudBuild",16
+"ilkin-overleaf,Tim Down",16
+"dependabot[bot],Jakob Ackermann",16
+"ilkin-overleaf,Alexandre Bourdin",16
+"Jessica Lawshe,M Fahru",16
+"Jakob Ackermann,Jessica Lawshe",16
+"Jakob Ackermann,Miguel Serrano",15
+"June Kelly,Tim Down",15
+"Tim Down,ilkin-overleaf",15
+"ilkin-overleaf,Rebeka Dekany",15
+"Alexandre Bourdin,M Fahru",15
+"Alf Eaton,M Fahru",14
+"Jakob Ackermann,CloudBuild",14
+"ilkin-overleaf,Alf Eaton",14
+"ilkin-overleaf,CloudBuild",13
+"Jakob Ackermann,Thomas",13
+"ilkin-overleaf,Eric Mc Sween",13
+"ilkin-overleaf,Liangjun Song",13
+"M Fahru,Davinder Singh",12
+"Alexandre Bourdin,Jessica Lawshe",12
+"June Kelly,Henry Oswald",12
+"David,Domagoj Kriskovic",12
+"CloudBuild,M Fahru",12
+"Jakob Ackermann,Timothée Alby",12
+"Miguel Serrano,Timothée Alby",12
+"June Kelly,Jakob Ackermann",11
+"Brian Gough,Henry Oswald",11
+"James Allen,Douglas Lovell",11
+"ilkin-overleaf,Davinder Singh",11
+"Alf Eaton,Jimmy Domagala-Tang",11
+"M Fahru,Alf Eaton",11
+"Alf Eaton,Alexandre Bourdin",11
+"Mathias Jakobsen,Eric Mc Sween",11
+"Antoine Clausse,CloudBuild",10
+"Tim Down,Alf Eaton",10
+"Miguel Serrano,Eric Mc Sween",10
+"Jessica Lawshe,Alexandre Bourdin",10
+"Simon Detheridge,Shane Kilkelly",10
+"Alf Eaton,Jessica Lawshe",10
+"Jimmy Domagala-Tang,Alf Eaton",10
+"Christopher Hoskin,Henry Oswald",10
+"Brian Gough,James Allen",10
+"Hugh O'Brien,Alasdair Smith",10
+"Hendrik Bonthuys,Christopher Hoskin",10
+"Timothée Alby,Eric Mc Sween",10
+"Eric Mc Sween,Alasdair Smith",10
+"Mathias Jakobsen,M Fahru",9
+"Davinder Singh,Jessica Lawshe",9
+"Alf Eaton,Tim Down",9
+"Shane Kilkelly,Brian Gough",9
+"Timothée Alby,Jakob Ackermann",9
+"Alf Eaton,David",9
+"M Fahru,ilkin-overleaf",9
+"Alexandre Bourdin,Alf Eaton",9
+"Eric Mc Sween,Brian Gough",9
+"ilkin-overleaf,Antoine Clausse",9
+"James Allen,Alasdair Smith",9
+"Shane Kilkelly,James Allen",9
+"M Fahru,Tim Down",9
+"Domagoj Kriskovic,Mathias Jakobsen",9
+"Henry Oswald,Jakob Ackermann",9
+"Henry Oswald,Paulo Reis",9
+"Shane Kilkelly,Alasdair Smith",8
+"Davinder Singh,ilkin-overleaf",8
+"Ersun Warncke,Simon Detheridge",8
+"Brian Gough,Simon Detheridge",8
+"M Fahru,Domagoj Kriskovic",8
+"decaffeinate,Jakob Ackermann",8
+"Shane Kilkelly,Timothée Alby",8
+"Domagoj Kriskovic,David",8
+"Davinder Singh,Eric Mc Sween",8
+"Davinder Singh,June Kelly",8
+"Mathias Jakobsen,June Kelly",8
+"June Kelly,Thomas",8
+"Simon Detheridge,Alasdair Smith",8
+"Henry Oswald,Shane Kilkelly",8
+"James Allen,Brian Gough",8
+"andrew rumble,Andrew Rumble",8
+"Timothée Alby,Jessica Lawshe",8
+"Jakob Ackermann,M Fahru",8
+"Alf Eaton,Davinder Singh",7
+"Miguel Serrano,Brian Gough",7
+"Davinder Singh,Alf Eaton",7
+"Alasdair Smith,Shane Kilkelly",7
+"Alasdair Smith,Ersun Warncke",7
+"David,Mathias Jakobsen",7
+"Alexandre Bourdin,Jakob Ackermann",7
+"Alf Eaton,Brian Gough",7
+"Henry Oswald,Henrique Dias",7
+"Eric Mc Sween,Simon Detheridge",7
+"Eric Mc Sween,Mathias Jakobsen",7
+"Tyna William,M Fahru",7
+"Jakob Ackermann,Alexandre Bourdin",7
+"David,Jessica Lawshe",7
+"Davinder Singh,Alexandre Bourdin",7
+"Alasdair Smith,James Allen",6
+"Alf Eaton,Rebeka Dekany",6
+"M Fahru,Jimmy Domagala-Tang",6
+"M Fahru,David",6
+"M Fahru,Eric Mc Sween",6
+"Alexandre Bourdin,Thomas",6
+"Miguel Serrano,M Fahru",6
+"Miguel Serrano,Thomas",6
+"M Fahru,Miguel Serrano",6
+"Brian Gough,Alasdair Smith",6
+"Jakob Ackermann,dependabot[bot]",6
+"Jakob Ackermann,mserranom",6
+"Jakob Ackermann,ilkin-overleaf",6
+"Brian Gough,Brian",6
+"Antoine Clausse,Alf Eaton",6
+"Antoine Clausse,Rebeka Dekany",6
+"Alf Eaton,andrew rumble",6
+"Thomas,Brian Gough",6
+"Simon Detheridge,Timothée Alby",6
+"Brian Gough,Paulo Reis",6
+"Henry Oswald,Oliver Matthews",6
+"Eric Mc Sween,Jessica Lawshe",6
+"Davinder Singh,Thomas",6
+"Davinder Singh,CloudBuild",6
+"Alasdair Smith,Alf Eaton",6
+"Mathias Jakobsen,Miguel Serrano",5
+"Alasdair Smith,Brian Gough",5
+"Alexandre Bourdin,Mathias Jakobsen",5
+"Mathias Jakobsen,Domagoj Kriskovic",5
+"Alf Eaton,Christopher Hoskin",5
+"Alasdair Smith,Jessica Lawshe",5
+"Alf Eaton,Paulo Reis",5
+"Alf Eaton,Tyna William",5
+"June Kelly,Alexandre Bourdin",5
+"June Kelly,Alf Eaton",5
+"Domagoj Kriskovic,Jimmy Domagala-Tang",5
+"David,Alf Eaton",5
+"Domagoj Kriskovic,Davinder Singh",5
+"Miguel Serrano,Jakob Ackermann",5
+"M Fahru,Mathias Jakobsen",5
+"Paulo Reis,Jessica Lawshe",5
+"Tim Down,Antoine Clausse",5
+"Henry Oswald,Simon Detheridge",5
+"Brian Gough,Ersun Warncke",5
+"Jessica Lawshe,Alf Eaton",5
+"andrew rumble,Mathias Jakobsen",5
+"Jessica Lawshe,Davinder Singh",5
+"Brian Gough,John Lees-Miller",5
+"Mathias Jakobsen,Rebeka Dekany",5
+"Mathias Jakobsen,Thomas",5
+"Mathias Jakobsen,Tim Down",5
+"Mathias Jakobsen,Alexandre Bourdin",5
+"ilkin-overleaf,Jakob Ackermann",5
+"Henry Oswald,Christopher Hoskin",5
+"Simon Detheridge,dependabot[bot]",5
+"Brian Gough,Alf Eaton",5
+"Timothée Alby,Simon Detheridge",5
+"Hayden Faulds,James Allen",5
+"Jessica Lawshe,Alasdair Smith",5
+"Eric Mc Sween,Alexandre Bourdin",5
+"Timothée Alby,Alexandre Bourdin",5
+"Christopher Hoskin,Brian Gough",5
+"Jessica Lawshe,Jakob Ackermann",5
+"Eric Mc Sween,M Fahru",5
+"Rebeka Dekany,Mathias Jakobsen",5
+"Rebeka Dekany,Tim Down",5
+"Jimmy Domagala-Tang,Mathias Jakobsen",5
+"Davinder Singh,roo hutton",4
+"M Fahru,Jakob Ackermann",4
+"Alasdair Smith,Chrystal Griffiths",4
+"Alasdair Smith,Eric Mc Sween",4
+"Davinder Singh,Brian Gough",4
+"Paulo Reis,Shane Kilkelly",4
+"Davinder Singh,Jakob Ackermann",4
+"Thomas,ilkin-overleaf",4
+"Eric Mc Sween,David",4
+"Paulo Reis,Brian Gough",4
+"Paulo Reis,Henry Oswald",4
+"Paulo Jorge Reis,Timothée Alby",4
+"Paulo Reis,Alasdair Smith",4
+"Jimmy Domagala-Tang,roo hutton",4
+"Alf Eaton,roo hutton",4
+"Antoine Clausse,David",4
+"Domagoj Kriskovic,M Fahru",4
+"Domagoj Kriskovic,roo hutton",4
+"Kristina,M Fahru",4
+"Liangjun Song,Alf Eaton",4
+"Oliver Matthews,Henry Oswald",4
+"Miguel Serrano,Jessica Lawshe",4
+"Miguel Serrano,Christopher Hoskin",4
+"Miguel Serrano,Mathias Jakobsen",4
+"CloudBuild,Jakob Ackermann",4
+"Liangjun Song,Thomas",4
+"ilkin-overleaf,Domagoj Kriskovic",4
+"Alasdair Smith,Paulo Reis",4
+"Alf Eaton,Antoine Clausse",4
+"Mathias Jakobsen,David",4
+"Jessica Lawshe,Thomas",4
+"Eric Mc Sween,Andrew Rumble",4
+"Eric Mc Sween,Tim Down",4
+"Jessica Lawshe,Timothée Alby",4
+"Jimmy Domagala-Tang,M Fahru",4
+"Jimmy Domagala-Tang,Jessica Lawshe",4
+"Jimmy Domagala-Tang,Alasdair Smith",4
+"Tim Down,June Kelly",4
+"Eric Mc Sween,Jimmy Domagala-Tang",4
+"Thomas,Rebeka",4
+"Thomas,M Fahru",4
+"Henrique Dias,Henry Oswald",4
+"Thomas,Jakob Ackermann",4
+"Jessica Lawshe,Douglas Lovell",4
+"Brian Gough,Christopher Hoskin",4
+"Jessica Lawshe,Miguel Serrano",4
+"Jessica Lawshe,Eric Mc Sween",4
+"Jimmy Domagala-Tang,Miguel Serrano",4
+"Eric Mc Sween,Thomas",4
+"James Allen,Alberto Fernández Capel",4
+"James Allen,Hayden Faulds",4
+"Shane Kilkelly,Eric Mc Sween",4
+"Shane Kilkelly,Henry Oswald",4
+"Brian,Brian Gough",4
+"Tyna William,Alf Eaton",4
+"Timothée Alby,ilkin-overleaf",4
+"Brian Gough,Shane Kilkelly",4
+"Shane Kilkelly,Jakob Ackermann",4
+"Shane Kilkelly,Simon Detheridge",4
+"Jakob Ackermann,Davinder Singh",4
+"Timothée Alby,Paulo Jorge Reis",4
+"Christopher Hoskin,Nate Stemen",4
+"Simon Detheridge,nate stemen",4
+"Simon Detheridge,Brian Gough",4
+"Simon Detheridge,Jakob Ackermann",4
+"Hugh O'Brien,Eric Mc Sween",4
+"Alasdair Smith,Timothée Alby",4
+"roo hutton,Alf Eaton",4
+"ilkin-overleaf,Mathias Jakobsen",4
+"ilkin-overleaf,Miguel Serrano",3
+"Alasdair Smith,Henry Oswald",3
+"Alexandre Bourdin,Chrystal Maria Griffiths",3
+"Alasdair Smith,Simon Detheridge",3
+"Alexandre Bourdin,CloudBuild",3
+"Alexandre Bourdin,Davinder Singh",3
+"Brian Gough,Mathias Jakobsen",3
+"Brian Gough,June Kelly",3
+"Christopher Hoskin,Alf Eaton",3
+"Jakob Ackermann,Domagoj Kriskovic",3
+"M Fahru,Timothée Alby",3
+"Michael Mazour,Henry Oswald",3
+"Chrystal Maria Griffiths,Eric Mc Sween",3
+"ilkin-overleaf,Timothée Alby",3
+"Simon Detheridge,Ersun Warncke",3
+"Henry Oswald,Ersun Warncke",3
+"Hugh O'Brien,Timothée Alby",3
+"ShareLaTeX,Henry Oswald",3
+"Brian Gough,Andrew Rumble",3
+"Jakob Ackermann,Simon Detheridge",3
+"Jakob Ackermann,Tim Alby",3
+"Henry Oswald,henry oswald",3
+"Henry Oswald,ShareLaTeX",3
+"Brian Gough,Timothée Alby",3
+"Brian Gough,Tim Down",3
+"Hayden Faulds,Brian Gough",3
+"Shane Kilkelly,Paulo Jorge Reis",3
+"Shane Kilkelly,Paulo Reis",3
+"Thomas,John Lees-Miller",3
+"James Allen,Ersun Warncke",3
+"David,roo hutton",3
+"Alf Eaton,Andrew Rumble",3
+"David,ilkin-overleaf",3
+"Davinder Singh,Kristina",3
+"roo hutton,Thomas",3
+"Alexandre Bourdin,June Kelly",3
+"Mathias Jakobsen,Jimmy Domagala-Tang",3
+"Miguel Serrano,Tim Down",3
+"Kristina,roo hutton",3
+"Davinder Singh,Jimmy Domagala-Tang",3
+"Liangjun Song,CloudBuild",3
+"David,Antoine Clausse",3
+"David,Jimmy Domagala-Tang",3
+"David,M Fahru",3
+"Domagoj Kriskovic,Miguel Serrano",3
+"Domagoj Kriskovic,ilkin-overleaf",3
+"CloudBuild,Tyna William",3
+"David,Davinder Singh",3
+"M Fahru,Alexandre Bourdin",3
+"Liangjun Song,M Fahru",3
+"hugh-obrien,Tim Alby",3
+"Alf Eaton,Hugh O'Brien",3
+"M Fahru,Thomas",3
+"Antoine Clausse,Tim Down",3
+"Tim Down,Rebeka Dekany",3
+"Jessica Lawshe,Shane Kilkelly",3
+"Tim Down,Alexandre Bourdin",3
+"Thomas Mees,M Fahru",3
+"Eric Mc Sween,Ersun Warncke",3
+"Eric Mc Sween,Timothée Alby",3
+"Jessica Lawshe,Tim Down",3
+"Rebeka Dekany,Andrew Rumble",3
+"Rebeka Dekany,Jimmy Domagala-Tang",3
+"Rebeka Dekany,Davinder Singh",3
+"Brian Gough,Brian - Work",3
+"Brian Gough,Eric Mc Sween",3
+"andrew rumble,Alf Eaton",3
+"Rebeka Dekany,ilkin-overleaf",3
+"Andrew Rumble,Miguel Serrano",3
+"Jakob Ackermann,roo hutton",3
+"Alexandre Bourdin,ilkin-overleaf",3
+"Domagoj Kriskovic,Alexandre Bourdin",3
+"Davinder Singh,Mathias Jakobsen",3
+"Davinder Singh,Tim Down",3
+"Shane Kilkelly,Chrystal Maria Griffiths",2
+"Tim Down,Jessica Lawshe",2
+"Brian Gough,dependabot[bot]",2
+"Jakob Ackermann,Hugh O'Brien",2
+"Thomas,June Kelly",2
+"Thomas,Liangjun Song",2
+"Eric Mc Sween,Kristina",2
+"Tim Down,Eric Mc Sween",2
+"Henry Oswald,Nate Stemen",2
+"Ersun Warncke,Brian Gough",2
+"Henry Oswald,Hugh O'Brien",2
+"Brian Gough,Miguel Serrano",2
+"Mathias Jakobsen,ilkin-overleaf",2
+"Michael Walker,Winston Li",2
+"Miguel Serrano,Andrew Rumble",2
+"Mathias Jakobsen,Antoine Clausse",2
+"Alf Eaton,CloudBuild",2
+"roo hutton,Antoine Clausse",2
+"Chrystal Maria Griffiths,Simon Detheridge",2
+"Mathias Jakobsen,Thomas Mees",2
+"Simon Detheridge,Miguel Serrano",2
+"Chrystal Griffiths,Alasdair Smith",2
+"Brian Gough,Jimmy Domagala-Tang",2
+"Simon Detheridge,Hugh O'Brien",2
+"Simon Detheridge,Eric Mc Sween",2
+"Jakob Ackermann,Christopher Hoskin",2
+"Ilkin Ismailov,M Fahru",2
+"Hugh O'Brien,Miguel Serrano",2
+"roo hutton,M Fahru",2
+"polato-green,Jakob Ackermann",2
+"roo hutton,David",2
+"Alberto Fernández Capel,Timothée Alby",2
+"ilkin-overleaf,June Kelly",2
+"ilkin-overleaf,Jimmy Domagala-Tang",2
+"ilkin-overleaf,Jessica Lawshe",2
+"Mathias Jakobsen,Liangjun Song",2
+"Ersun Warncke,Timothée Alby",2
+"Timothée Alby,Thomas",2
+"Jakob Ackermann,Mathias Jakobsen",2
+"Ersun Warncke,Henry Oswald",2
+"Eric Mc Sween,Paulo Jorge Reis",2
+"Christopher Hoskin,Eric Mc Sween",2
+"Christopher Hoskin,Jakob Ackermann",2
+"Christopher Hoskin,June Kelly",2
+"Tim Down,Thomas",2
+"Tyna William,ilkin-overleaf",2
+"James Allen,Timothée Alby",2
+"Brian Gough,Henrique Dias",2
+"Thomas,Alf Eaton",2
+"Rebeka Dekany,Jessica Lawshe",2
+"Rebeka Dekany,Alf Eaton",2
+"Rebeka Dekany,Miguel Serrano",2
+"Jessica Lawshe,ilkin-overleaf",2
+"Ersun Warncke,Alasdair Smith",2
+"Tyna William,Mathias Jakobsen",2
+"Jessica Lawshe,Domagoj Kriskovic",2
+"decaffeinate,Alf Eaton",2
+"Andrew Rumble,Mathias Jakobsen",2
+"Thomas,David",2
+"Thomas,Davinder Singh",2
+"Oliver Matthews,James Allen",2
+"John Lees-Miller,Alasdair Smith",2
+"John Lees-Miller,Jakob Ackermann",2
+"John Lees-Miller,Thomas",2
+"Antoine Clausse,Brian Gough",2
+"Andrew Rumble,Alf Eaton",2
+"Andrew Rumble,M Fahru",2
+"June Kelly,Brian Gough",2
+"Eric Mc Sween,Christopher Hoskin",2
+"June Kelly,Domagoj Kriskovic",2
+"June Kelly,Eric Mc Sween",2
+"Eric Mc Sween,Antoine Clausse",2
+"Thomas,roo hutton",2
+"Tim Alby,Shane Kilkelly",2
+"Tim Alby,Jakob Ackermann",2
+"Tim Alby,Alberto Fernández Capel",2
+"Jessica Lawshe,Paulo Reis",2
+"Rebeka,M Fahru",2
+"Jimmy Domagala-Tang,Davinder Singh",2
+"Domagoj Kriskovic,Brian Gough",2
+"CloudBuild,David",2
+"Davinder Singh,Domagoj Kriskovic",2
+"Paulo Reis,Nate Stemen",2
+"Rebeka,CloudBuild",2
+"Tim Down,M Fahru",2
+"Jimmy Domagala-Tang,Eric Mc Sween",2
+"Eric Mc Sween,Shane Kilkelly",2
+"MoxAmber,Mathias Jakobsen",2
+"Domagoj Kriskovic,Eric Mc Sween",2
+"MoxAmber,Davinder Singh",2
+"Kristina,Jimmy Domagala-Tang",2
+"Miguel Serrano,ilkin-overleaf",2
+"dependabot[bot],Shane Kilkelly",2
+"hugh-obrien,Brian Gough",2
+"Liangjun Song,Davinder Singh",2
+"Alf Eaton,Liangjun Song",2
+"Liangjun Song,Eric Mc Sween",2
+"Liangjun Song,Jimmy Domagala-Tang",2
+"Liangjun Song,MoxAmber",2
+"Liangjun Song,Mathias Jakobsen",2
+"June Kelly,Rebeka",2
+"CloudBuild,Miguel Serrano",2
+"June Kelly,Mathias Jakobsen",2
+"M Fahru,Brian Gough",2
+"Nate Stemen,Paulo Reis",2
+"Alf Eaton,Chrystal Maria Griffiths",2
+"Miguel Serrano,CloudBuild",2
+"Miguel Serrano,June Kelly",2
+"Davinder Singh,Timothée Alby",2
+"David,Tim Down",2
+"Davinder Singh,David",2
+"Davinder Singh,Antoine Clausse",2
+"Alasdair Smith,John Lees-Miller",2
+"Miguel Serrano,Domagoj Kriskovic",2
+"M Fahru,Liangjun Song",2
+"Davinder Singh,Rebeka Dekany",2
+"Alf Eaton,Paulo Jorge Reis",2
+"Alf Eaton,Sam Stagg",2
+"Alexandre Bourdin,Tim Down",2
+"M Fahru,Ilkin Ismailov",2
+"Mathias Jakobsen,Jakob Ackermann",2
+"M Fahru,Christopher Hoskin",2
+"Alexandre Bourdin,Miguel Serrano",2
+"Mathias Jakobsen,Davinder Singh",2
+"Alasdair Smith,Hugh O'Brien",1
+"Alasdair Smith,Jakob Ackermann",1
+"Alasdair Smith,Jimmy Domagala-Tang",1
+"Alasdair Smith,June Kelly",1
+"Alasdair Smith,Paulo Jorge Reis",1
+"Alasdair Smith,Thomas",1
+"Alasdair Smith,nate stemen",1
+"Alberto Fernández Capel,Tim Alby",1
+"mserranom,Miguel Serrano",1
+"nate stemen,Eric Mc Sween",1
+"nate stemen,Jessica Lawshe",1
+"nate stemen,Timothée Alby",1
+"roo hutton,Brian Gough",1
+"roo hutton,Domagoj Kriskovic",1
+"roo hutton,Jakob Ackermann",1
+"roo hutton,Jimmy Domagala-Tang",1
+"roo hutton,Kristina",1
+"roo hutton,Miguel Serrano",1
+"Mathias Jakobsen,Tyna William",1
+"Mathias Jakobsen,andrew rumble",1
+"M Fahru,dependabot[bot]",1
+"MCribbin,Brian Gough",1
+"Mathias Jakobsen,Brian Gough",1
+"Mathias Jakobsen,CloudBuild",1
+"Mathias Jakobsen,John Lees-Miller",1
+"M Fahru,MoxAmber",1
+"Miguel Serrano,Hendrik Bonthuys",1
+"Miguel Serrano,Henry Oswald",1
+"Miguel Serrano,Jimmy Domagala-Tang",1
+"Miguel Serrano,John Lees-Miller",1
+"Miguel Serrano,Shane Kilkelly",1
+"Liangjun Song,David",1
+"Liangjun Song,ilkin-overleaf",1
+"Lucie Germain,Alf Eaton",1
+"Lucie Germain,CloudBuild",1
+"M Fahru,Andrew Rumble",1
+"M Fahru,Antoine Clausse",1
+"June Kelly,John Lees-Miller",1
+"June Kelly,M Fahru",1
+"June Kelly,Tyna William",1
+"June Kelly,ilkin-overleaf",1
+"Kristina,ilkin-overleaf",1
+"Miguel Serrano,Tyna William",1
+"MoxAmber,Antoine Clausse",1
+"Nate Stemen,Alasdair Smith",1
+"Nate Stemen,Brian Gough",1
+"Nate Stemen,Jessica Lawshe",1
+"Paulo Jorge Reis,Alf Eaton",1
+"Paulo Jorge Reis,Jakob Ackermann",1
+"Paulo Jorge Reis,Jessica Lawshe",1
+"Paulo Jorge Reis,Paulo Reis",1
+"John Lees-Miller,Alexandre Bourdin",1
+"John Lees-Miller,Allemand",1
+"John Lees-Miller,Miguel Serrano",1
+"John Lees-Miller,Winston Li",1
+"John Lees-Miller,lyh16",1
+"Josh Soref,Miguel Serrano",1
+"June Kelly,Davinder Singh",1
+"Paulo Reis,MCribbin",1
+"Paulo Reis,Paulo Jorge Reis",1
+"Paulo Reis,Tim Alby",1
+"Rebeka,Alf Eaton",1
+"Rebeka,Jimmy Domagala-Tang",1
+"Rebeka,Thomas",1
+"Jessica Lawshe,lawshe",1
+"Jimmy Domagala-Tang,Alexandre Bourdin",1
+"Jimmy Domagala-Tang,Antoine Clausse",1
+"Jimmy Domagala-Tang,Brian Gough",1
+"Jimmy Domagala-Tang,Domagoj Kriskovic",1
+"Jimmy Domagala-Tang,Jakob Ackermann",1
+"Jimmy Domagala-Tang,Rebeka Dekany",1
+"Jimmy Domagala-Tang,ilkin-overleaf",1
+"Jessica Lawshe,Henry Oswald",1
+"Jessica Lawshe,Hugh O'Brien",1
+"Jessica Lawshe,Jimmy Domagala-Tang",1
+"Jessica Lawshe,Mathias Jakobsen",1
+"Jessica Lawshe,Rebeka Dekany",1
+"Jessica Lawshe,Simon Detheridge",1
+"Rebeka,Tyna William",1
+"Rebeka,ilkin-overleaf",1
+"Rebeka Dekany,Alexandre Bourdin",1
+"Rebeka Dekany,Brian Gough",1
+"Rebeka Dekany,M Fahru",1
+"Sam Stagg,Christopher Hoskin",1
+"James Allen,Paulo Jorge Reis",1
+"James Allen,Simon Detheridge",1
+"James Allen,Swapnil Agarwal",1
+"James Allen,hugh-obrien",1
+"James Allen,kbasten",1
+"Jessica Lawshe,CloudBuild",1
+"Jessica Lawshe,David",1
+"James Allen,Ciro Santillli",1
+"James Allen,Emery Coxe",1
+"James Allen,Fayimora Femi-Balogun",1
+"Shane Kilkelly,Alberto Fernández Capel",1
+"Shane Kilkelly,Hayden Faulds",1
+"Shane Kilkelly,Henrique Santos",1
+"Shane Kilkelly,Michael Walker",1
+"Shane Kilkelly,Miguel Serrano",1
+"Shane Kilkelly,Tim Alby",1
+"Jakob Ackermann,Henry Oswald",1
+"Jakob Ackermann,Jimmy Domagala-Tang",1
+"Jakob Ackermann,John Lees-Miller",1
+"Jakob Ackermann,June Kelly",1
+"Jakob Ackermann,Shane Kilkelly",1
+"Henry Oswald,Timothée Alby",1
+"Hugh O'Brien,Ersun Warncke",1
+"Hugh O'Brien,Henry Oswald",1
+"Hugh O'Brien,Simon Detheridge",1
+"Jakob Ackermann,David",1
+"Simon Detheridge,Alf Eaton",1
+"Simon Detheridge,Douglas Lovell",1
+"Simon Detheridge,Jessica Lawshe",1
+"Simon Detheridge,Tim Down",1
+"Henry Oswald,Douglas Lovell",1
+"Henry Oswald,M Fahru",1
+"Henry Oswald,Siebrand Mazeland",1
+"Henry Oswald,Tim Alby",1
+"Ersun Warncke,Jessica Lawshe",1
+"Fayimora Femi-Balogun,James Allen",1
+"Gernot Schulz,Eric Mc Sween",1
+"Gernot Schulz,Jakob Ackermann",1
+"Henrique Santos,Shane Kilkelly",1
+"Henry Oswald,Alasdair Smith",1
+"Henry Oswald,Alf Eaton",1
+"Swapnil Agarwal,James Allen",1
+"Thomas,Alexandre Bourdin",1
+"Thomas,Chrystal Maria Griffiths",1
+"Thomas,CloudBuild",1
+"Thomas,Miguel Serrano",1
+"Thomas,Timothée Alby",1
+"Eric Mc Sween,John Lees-Miller",1
+"Eric Mc Sween,Tyna William",1
+"Eric Mc Sween,roo hutton",1
+"Dr. Sasha Göbbels,M Fahru",1
+"Emery Coxe,James Allen",1
+"Eric Mc Sween,Davinder Singh",1
+"Eric Mc Sween,Domagoj Kriskovic",1
+"Thomas,Tyna William",1
+"Tim Alby,Douglas Lovell",1
+"Tim Alby,James Allen",1
+"Tim Alby,John Lees-Miller",1
+"Tim Alby,Paulo Reis",1
+"Tim Alby,hugh-obrien",1
+"Tim Down,Christopher Hoskin",1
+"Domagoj Kriskovic,Jessica Lawshe",1
+"Domagoj Kriskovic,Rebeka",1
+"Domagoj Kriskovic,Rebeka Dekany",1
+"Douglas Lovell,Jessica Lawshe",1
+"Douglas Lovell,Simon Detheridge",1
+"Dr. Sasha Göbbels,Jessica Lawshe",1
+"Davinder Singh,Miguel Serrano",1
+"Dennis Chen,James Allen",1
+"David,Thomas",1
+"David Renshaw,James Allen",1
+"Davinder Singh,Andrew Rumble",1
+"CloudBuild,Davinder Singh",1
+"CloudBuild,Mathias Jakobsen",1
+"Daniel Felder,James Allen",1
+"Tim Down,David",1
+"Tim Down,Jimmy Domagala-Tang",1
+"Timothée Alby,Alasdair Smith",1
+"Timothée Alby,Alberto Fernández Capel",1
+"Timothée Alby,Brian Gough",1
+"Christopher Hoskin,Miguel Serrano",1
+"Christopher Hoskin,dependabot-preview[bot]",1
+"Chrystal Griffiths,Jessica Lawshe",1
+"Chrystal Maria Griffiths,Chrystal Griffiths",1
+"Chrystal Maria Griffiths,Paulo Reis",1
+"Chrystal Maria Griffiths,Tim Alby",1
+"Ciro Santillli,Henry Oswald",1
+"Brian Gough,Rebeka Dekany",1
+"Christopher Hoskin,Andrew Rumble",1
+"Timothée Alby,Henry Oswald",1
+"Timothée Alby,Hugh O'Brien",1
+"Timothée Alby,Shane Kilkelly",1
+"Timothée Alby,dependabot[bot]",1
+"Tyna William,Alexandre Bourdin",1
+"Tyna William,Davinder Singh",1
+"Antoine Clausse,andrew rumble",1
+"Brian - Work,Brian Gough",1
+"Brian Gough,Alexandre Bourdin",1
+"Brian Gough,Davinder Singh",1
+"Brian Gough,Hayden Faulds",1
+"Tyna William,Thomas",1
+"andrew rumble,Antoine Clausse",1
+"andrew rumble,Brian Gough",1
+"andrew rumble,Eric Mc Sween",1
+"andrew rumble,Liangjun Song",1
+"andrew rumble,Rebeka Dekany",1
+"decaffeinate,mserranom",1
+"dependabot[bot],Alf Eaton",1
+"dependabot[bot],Eric Mc Sween",1
+"Andrew Rumble,Thomas",1
+"Andrew Rumble,roo hutton",1
+"Antoine Clausse,Andrew Rumble",1
+"Antoine Clausse,Jakob Ackermann",1
+"Antoine Clausse,Jessica Lawshe",1
+"Antoine Clausse,M Fahru",1
+"Antoine Clausse,Mathias Jakobsen",1
+"Alf Eaton,Simon Detheridge",1
+"Alf Eaton,Tim Alby",1
+"Andrew Rumble,Antoine Clausse",1
+"Andrew Rumble,Brian Gough",1
+"Andrew Rumble,David",1
+"Andrew Rumble,Eric Mc Sween",1
+"Andrew Rumble,Jakob Ackermann",1
+"dependabot[bot],Simon Detheridge",1
+"goodbest,James Allen",1
+"hugh-obrien,Alasdair Smith",1
+"hugh-obrien,James Allen",1
+"ilkin-overleaf,David",1
+"Alf Eaton,John Lees-Miller",1
+"Alf Eaton,June Kelly",1
+"Alf Eaton,Lucie Germain",1
+"Alf Eaton,Shane Kilkelly",1
+"Alexandre Bourdin,Tyna William",1
+"Alf Eaton,Gernot Schulz",1
+"Alexandre Bourdin,Alex Bourdin",1
+"Alexandre Bourdin,Eric Mc Sween",1
+"Alexandre Bourdin,Henry Oswald",1
+"Alexandre Bourdin,Lucie Germain",1
+"Alexandre Bourdin,Rebeka",1
+"ilkin-overleaf,Thomas",1
+"ilkin-overleaf,andrew rumble",1
+"ilkin-overleaf,dependabot[bot]",1
+"kbasten,Henry Oswald",1
+"mserranom,Jakob Ackermann",1
+"tomcoombs87,Tom",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,15338
++01:00,8186
++02:00,617
++03:00,1
++04:00,1
++05:30,1
++08:00,8
++09:00,5
++11:00,2
+-02:00,11
+-03:00,85
+-04:00,313
+-05:00,301
+-06:00,4
+-07:00,3
+-08:00,5
+,
+Contributors Experience,Average across 15931 files: 88.39%
+File,Top Contributor Share (%)
+services/track-changes/app/coffee/ConcatManager.coffee,100.00
+services/track-changes/compressHistory.coffee,100.00
+services/track-changes/config/settings.testing.coffee,100.00
+services/track-changes/rakefile.rb,100.00
+services/track-changes/test/unit/coffee/ConcatManager/ConcatManagerTests.coffee,100.00
+services/track-changes/app/coffee/ConversionManager.coffee,100.00
+services/track-changes/app/coffee/HistoryBuilder.coffee,100.00
+services/track-changes/test/unit/coffee/ConversionManager/ConversionManagerTests.coffee,100.00
+services/track-changes/test/unit/coffee/HistoryBuilder/HistoryBuilderTests.coffee,100.00
+services/track-changes/app/coffee/HistoryManager.coffee,100.00

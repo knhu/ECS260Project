@@ -1,0 +1,325 @@
+file,author1,author2,time1,time2
+.all-contributorsrc,Brylie Christopher Oxley,allcontributors[bot],2019-05-18 11:41:40+03:00,2019-05-19 10:15:46+03:00
+.all-contributorsrc,allcontributors[bot],Brylie Christopher Oxley,2021-09-04 08:52:32+00:00,2021-09-04 12:17:38+03:00
+.all-contributorsrc,Brylie Christopher Oxley,allcontributors[bot],2021-09-04 12:17:38+03:00,2021-09-04 09:19:10+00:00
+.env_sample,Brylie Christopher Oxley,Paul Scheid,2021-06-18 17:10:55+03:00,2021-06-18 10:56:11-04:00
+.github/ISSUE_TEMPLATE/FORM.yml,Abhijith Ganesh,Brylie Christopher Oxley,2021-09-07 23:21:16+05:30,2021-09-08 09:07:36+03:00
+.github/ISSUE_TEMPLATE/Feature.yml,Abhijith Ganesh,Brylie Christopher Oxley,2021-09-09 16:08:27+05:30,2021-09-10 10:35:48+03:00
+.gitignore,Petar Petrov,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+.pep8speaks.yml,Tomasz Kołek,Brylie Christopher Oxley,2019-05-06 11:39:51+03:00,2019-05-06 12:05:05+03:00
+.pre-commit-config.yaml,Ni3dzwi3dz,Brylie Christopher Oxley,2022-10-04 19:39:40+02:00,2022-10-04 21:30:24+03:00
+CONTRIBUTING.md,Abhijith Ganesh,Görkem Arslan,2021-10-16 16:53:26+05:30,2021-10-16 14:32:14+03:00
+CONTRIBUTING.md,Shivoy Dixit,Shivaay,2021-10-29 14:58:17+05:30,2021-10-29 15:03:34+05:30
+CONTRIBUTING.md,Brylie Christopher Oxley,Haseeb Majid,2022-10-04 10:48:16+03:00,2022-10-04 19:32:13+01:00
+CONTRIBUTING.md,Haseeb Majid,Brylie Christopher Oxley,2022-10-04 19:32:24+01:00,2022-10-04 21:32:49+03:00
+CONTRIBUTING.md,Brylie Christopher Oxley,Mazen Ramadan,2022-10-04 21:38:41+03:00,2022-10-05 16:34:21+02:00
+Procfile,Daniel Borstelmann,Darius Calliet,2016-07-12 23:28:47-05:00,2016-07-12 23:37:38-05:00
+README.md,mdwest,Making GitHub Delicious,2017-08-28 10:07:58-07:00,2017-08-28 11:13:36-06:00
+README.md,Making GitHub Delicious,mdwest,2017-08-28 11:13:36-06:00,2017-08-28 10:34:23-07:00
+README.md,mdwest,Brylie Christopher Oxley,2017-08-28 10:34:23-07:00,2017-08-28 20:39:37+03:00
+README.md,Brylie Christopher Oxley,Tomasz Kołek,2019-05-06 11:36:40+03:00,2019-05-06 11:39:51+03:00
+README.md,Brylie Christopher Oxley,allcontributors[bot],2019-05-18 11:41:40+03:00,2019-05-19 10:15:46+03:00
+README.md,Hush,allcontributors[bot],2019-10-16 18:52:02+03:00,2019-10-16 18:55:27+03:00
+README.md,JDRanpariya,allcontributors[bot],2020-04-28 19:10:20+03:00,2020-04-28 19:11:39+03:00
+README.md,allcontributors[bot],Brylie Christopher Oxley,2020-04-28 19:11:39+03:00,2020-04-28 19:12:39+03:00
+README.md,Brylie Christopher Oxley,JDRanpariya,2020-04-28 19:12:39+03:00,2020-04-29 12:41:53+03:00
+README.md,Brylie Christopher Oxley,allcontributors[bot],2021-05-26 06:18:41+03:00,2021-05-26 11:21:53+00:00
+README.md,allcontributors[bot],Brylie Christopher Oxley,2021-06-06 11:02:19+00:00,2021-06-07 10:49:41+03:00
+README.md,Shourya Shikhar,allcontributors[bot],2021-06-14 01:20:30+05:30,2021-06-14 08:52:26+00:00
+README.md,allcontributors[bot],Brylie Christopher Oxley,2021-09-04 09:25:53+00:00,2021-09-04 12:28:08+03:00
+README.md,Brylie Christopher Oxley,allcontributors[bot],2021-09-04 12:28:08+03:00,2021-09-04 09:30:18+00:00
+README.md,allcontributors[bot],Brylie Christopher Oxley,2021-09-13 08:55:45+00:00,2021-09-13 18:46:49+03:00
+README.md,allcontributors[bot],Brylie Christopher Oxley,2022-10-04 06:30:46+00:00,2022-10-04 09:43:03+03:00
+README.md,Brylie Christopher Oxley,allcontributors[bot],2022-10-04 09:43:03+03:00,2022-10-04 18:23:16+00:00
+README.md,zafar-hussain,allcontributors[bot],2022-10-21 22:16:13+05:00,2022-10-21 17:32:40+00:00
+README.md,allcontributors[bot],Brylie Christopher Oxley,2022-10-21 17:32:40+00:00,2022-10-21 20:38:20+03:00
+api/models/__init__.py,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:42-05:00,2016-10-02 12:47:43-05:00
+api/models/civi.py,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:42-05:00,2016-10-02 12:47:43-05:00
+api/models/thread.py,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:42-05:00,2016-10-02 12:47:43-05:00
+api/read.py,Daniel Borstelmann,jl24,2016-08-28 16:17:28-05:00,2016-08-29 12:37:49-05:00
+api/read.py,Daniel Borstelmann,jl24,2016-12-04 13:04:12-06:00,2016-12-04 15:28:48-06:00
+api/write.py,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:43-05:00
+civiwiki/api/write.py,Daniel Borstelmann,Dan Borstelmann,2016-07-04 18:02:43-05:00,2016-07-04 18:10:45-05:00
+civiwiki/authentication/authentication.py,Daniel Borstelmann,Darius Calliet,2016-06-19 14:24:21-05:00,2016-06-19 14:41:30-05:00
+civiwiki/frontend_views/views.py,jl24,Daniel Borstelmann,2016-06-27 16:53:21-05:00,2016-06-28 00:20:25-05:00
+civiwiki/settings.py,Daniel Borstelmann,Darius Calliet,2016-07-12 23:44:55-05:00,2016-07-12 23:49:51-05:00
+civiwiki/settings.py,Darius Calliet,Daniel Borstelmann,2016-07-12 23:49:51-05:00,2016-07-13 00:05:02-05:00
+civiwiki/settings.py,Daniel Borstelmann,Darius Calliet,2016-10-02 12:47:40-05:00,2016-10-02 12:47:40-05:00
+civiwiki/settings.py,Darius Calliet,jl24,2016-10-02 12:47:40-05:00,2016-10-02 12:47:41-05:00
+civiwiki/settings.py,jl24,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:43-05:00
+civiwiki/webapp/static/dependencies/materialize.min.js,Daniel Borstelmann,jl24,2016-07-10 19:20:09-05:00,2016-07-10 20:01:06-05:00
+civiwiki/webapp/static/js/account.js,Daniel Borstelmann,Dan Borstelmann,2016-07-04 18:02:43-05:00,2016-07-04 18:10:45-05:00
+civiwiki/webapp/static/js/base.js,Daniel Borstelmann,Dan Borstelmann,2016-07-04 18:02:43-05:00,2016-07-04 18:10:45-05:00
+civiwiki/webapp/templates/account.html,Daniel Borstelmann,Dan Borstelmann,2016-07-04 17:47:38-05:00,2016-07-04 18:10:45-05:00
+civiwiki/wsgi.py,Daniel Borstelmann,Darius Calliet,2016-07-12 23:28:47-05:00,2016-07-12 23:41:19-05:00
+civiwiki/wsgi.py,Darius Calliet,Daniel Borstelmann,2016-07-12 23:41:19-05:00,2016-07-13 01:45:52-05:00
+civiwiki/wsgi.py,Daniel Borstelmann,jl24,2016-10-02 12:47:40-05:00,2016-10-02 12:47:41-05:00
+frontend_views/urls.py,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:41-05:00
+frontend_views/views.py,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:41-05:00
+frontend_views/views.py,Daniel Borstelmann,jl24,2016-12-04 13:04:12-06:00,2016-12-04 13:07:17-06:00
+poetry.lock,daaavo,SethAngell,2022-10-04 10:59:40-05:00,2022-10-04 20:48:05-04:00
+project/accounts/api.py,Abhijith Ganesh,Brylie Christopher Oxley,2021-09-03 15:23:27+05:30,2021-09-04 11:35:06+03:00
+project/accounts/api.py,Brylie Christopher Oxley,grkm,2021-09-27 12:25:44+03:00,2021-09-27 19:29:49+03:00
+project/accounts/api.py,grkm,Abhijith Ganesh,2021-09-27 19:29:49+03:00,2021-09-28 17:10:09+05:30
+project/accounts/api.py,Shannon Lau,Robert Xu,2022-04-14 04:55:13-04:00,2022-04-14 18:28:01-04:00
+project/accounts/api.py,Robert Xu,Shannon Lau,2022-04-14 18:28:01-04:00,2022-04-14 19:39:32-04:00
+project/accounts/api.py,Robert Xu,Shannon Lau,2022-04-16 02:40:26-04:00,2022-04-16 15:21:23-04:00
+project/accounts/api.py,Shannon Lau,Robert Xu,2022-04-16 19:36:08-04:00,2022-04-16 21:49:19-04:00
+project/accounts/apps.py,Abhijith Ganesh,Brylie Christopher Oxley,2021-09-03 15:23:27+05:30,2021-09-04 11:35:17+03:00
+project/accounts/authentication.py,Brylie Christopher Oxley,Jacob North,2021-05-26 06:59:05+03:00,2021-05-26 07:01:30-04:00
+project/accounts/authentication.py,shubhushan,grkm,2021-09-14 10:48:00+03:00,2021-09-14 19:43:37+03:00
+project/accounts/forms.py,Brylie Christopher Oxley,Jacob North,2021-05-26 06:59:05+03:00,2021-05-26 07:01:30-04:00
+project/accounts/forms.py,shubhushan,grkm,2021-09-14 10:48:00+03:00,2021-09-14 21:05:51+03:00
+project/accounts/forms.py,grkm,Görkem Arslan,2021-09-16 17:14:44+03:00,2021-09-17 11:01:04+03:00
+project/accounts/forms.py,Görkem Arslan,grkm,2021-09-17 11:01:04+03:00,2021-09-17 12:25:49+03:00
+project/accounts/models.py,wassaf,ANURAG VERMA,2021-09-26 18:25:00+05:00,2021-09-27 07:37:27+05:30
+project/accounts/models.py,ANURAG VERMA,wassaf,2021-09-27 07:37:27+05:30,2021-09-27 23:17:33+05:00
+project/accounts/templates/accounts/account.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/account_base.html,Maryam Yusuf,Brylie Christopher Oxley,2021-09-03 15:58:00+01:00,2021-09-04 12:23:18+03:00
+project/accounts/templates/accounts/account_sidebar.html,Maryam Yusuf,Brylie Christopher Oxley,2021-09-03 16:02:31+01:00,2021-09-04 12:24:28+03:00
+project/accounts/templates/accounts/base/less_headers/account_less.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/base/less_headers/login_less.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/base/links.html,Abhijith Ganesh,Samriddhi B,2021-10-12 13:35:28+05:30,2021-10-12 22:14:06+05:30
+project/accounts/templates/accounts/feed.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/account_base.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/account_settings.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/account_sidebar.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/login.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/tabs/followers.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/tabs/following.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/tabs/my_civis.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/tabs/my_issues.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/utils/account_bill.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/utils/account_civi.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/utils/account_issue.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/utils/representative_card.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/utils/user_card.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/account/utils/user_chip.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/feed/categories.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/feed/feed_base.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/feed/feed_list.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/feed/new_thread.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/feed/thread_card.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/login/entry_base.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/login/login_base.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/login/register_base.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/user-setup/step0.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/user-setup/step1.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/user-setup/step2.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/partials/user-setup/user-setup-base.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/password_reset.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/register/header.html,Maryam Yusuf,Brylie Christopher Oxley,2021-09-03 16:04:48+01:00,2021-09-04 12:24:28+03:00
+project/accounts/templates/accounts/reset_by_email.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/settings.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/user-setup.html,Борис Женихов,Aditya Mittal,2021-09-29 13:36:32+06:00,2021-09-29 16:58:22+05:30
+project/accounts/templates/accounts/user_civis.html,Ria Jotsinghani,audreyelim,2022-12-04 21:46:49-05:00,2022-12-05 21:05:13-05:00
+project/accounts/urls/urls.py,Abhijith Ganesh,grkm,2021-10-12 11:06:42+05:30,2021-10-12 19:40:29+03:00
+project/accounts/views.py,shubhushan,grkm,2021-09-14 10:48:00+03:00,2021-09-14 19:43:37+03:00
+project/accounts/views.py,Abhijith Ganesh,Aditya Mittal,2021-09-29 09:41:02+05:30,2021-09-29 16:58:22+05:30
+project/accounts/views.py,Abhijith Ganesh,grkm,2021-10-07 21:17:40+05:30,2021-10-07 21:18:58+03:00
+project/accounts/views.py,Robert Xu,Shannon Lau,2022-04-16 02:40:26-04:00,2022-04-16 19:36:08-04:00
+project/accounts/views.py,Mikulas Zupcan,Bruno Rodrigues,2022-11-09 16:30:43+01:00,2022-11-10 10:11:37-03:00
+project/accounts/views.py,Tianyi Chen,rbatchu2,2022-12-03 20:51:50-05:00,2022-12-04 20:17:17-05:00
+project/accounts/views.py,rbatchu2,Frederic Khayat,2022-12-04 20:17:17-05:00,2022-12-04 21:07:35-05:00
+project/api/consumers.py,Brylie Christopher Oxley,Jacob North,2021-05-26 07:33:37+03:00,2021-05-26 04:39:03-04:00
+project/api/migrations/0042_auto_20210928_1413.py,ANURAG VERMA,Brylie Christopher Oxley,2021-09-28 13:08:39+03:00,2021-09-28 13:18:46+03:00
+project/api/models/__init__.py,loukikstudent,Brylie Christopher Oxley,2021-05-26 20:22:44+05:30,2021-05-27 12:56:02+03:00
+project/api/models/__init__.py,ANURAG VERMA,Abhijith Ganesh,2021-09-28 13:08:39+03:00,2021-09-28 17:15:14+05:30
+project/api/models/account.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:07:59+03:00,2019-05-06 11:29:40+03:00
+project/api/models/account.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/models/account.py,Brylie Christopher Oxley,loukikstudent,2021-05-26 07:21:16+03:00,2021-05-26 18:36:53+05:30
+project/api/models/account.py,loukikstudent,Brylie Christopher Oxley,2021-05-26 20:22:44+05:30,2021-05-27 12:55:13+03:00
+project/api/models/activity.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:07:59+03:00,2019-05-06 11:22:32+03:00
+project/api/models/activity.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:22:32+03:00,2019-05-06 11:39:51+03:00
+project/api/models/bill.py,Swanand01,Paul Scheid,2021-05-16 12:12:22+05:30,2021-05-16 10:54:48-04:00
+project/api/models/category.py,JooHee Lee,Brylie Christopher Oxley,2019-05-06 11:29:40+03:00,2019-05-06 12:11:28+03:00
+project/api/models/category.py,grkm,Abhijith Ganesh,2021-09-27 19:22:06+03:00,2021-09-28 17:15:14+05:30
+project/api/models/civi.py,Trac Taylor,Paul Scheid,2017-09-11 20:35:22-07:00,2017-09-11 23:24:53-05:00
+project/api/models/civi.py,Trac Taylor,Matt Gercz,2017-09-28 19:29:32-07:00,2017-09-29 15:45:36+03:00
+project/api/models/civi.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:12:14+03:00,2019-05-06 11:17:22+03:00
+project/api/models/civi.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/models/civi.py,loukikstudent,Brylie Christopher Oxley,2021-05-26 18:36:53+05:30,2021-05-27 13:01:50+03:00
+project/api/models/invitation.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:12:14+03:00,2019-05-06 11:17:22+03:00
+project/api/models/notification.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:12:14+03:00,2019-05-06 11:22:32+03:00
+project/api/models/notification.py,ANURAG VERMA,Abhijith Ganesh,2021-09-28 13:08:39+03:00,2021-09-28 17:15:14+05:30
+project/api/models/notification.py,Abhijith Ganesh,Brylie Christopher Oxley,2021-09-28 17:15:14+05:30,2021-09-28 18:34:54+03:00
+project/api/models/representative.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:14:23+03:00,2019-05-06 11:22:32+03:00
+project/api/models/representative.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:22:32+03:00,2019-05-06 11:39:51+03:00
+project/api/models/thread.py,Brylie Christopher Oxley,JooHee Lee,2019-05-06 11:15:15+03:00,2019-05-06 11:17:22+03:00
+project/api/models/thread.py,JooHee Lee,Terrence Tuy,2019-05-06 11:36:40+03:00,2019-05-06 11:39:51+03:00
+project/api/models/thread.py,Terrence Tuy,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/models/thread.py,Tomasz Kołek,Brylie Christopher Oxley,2019-05-06 11:39:51+03:00,2019-05-06 12:11:28+03:00
+project/api/models/vote.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:22:32+03:00,2019-05-06 11:39:52+03:00
+project/api/read.py,Trac Taylor,Matt Gercz,2017-09-28 19:29:32-07:00,2017-09-29 15:45:36+03:00
+project/api/read.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/api/serializers.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/serializers.py,Brylie Christopher Oxley,grkm,2021-09-27 12:25:44+03:00,2021-09-27 19:24:12+03:00
+project/api/serializers.py,grkm,ANURAG VERMA,2021-09-27 19:24:12+03:00,2021-09-28 13:08:39+03:00
+project/api/serializers.py,ANURAG VERMA,Brylie Christopher Oxley,2021-09-28 13:08:39+03:00,2021-09-28 13:20:56+03:00
+project/api/serializers.py,Brylie Christopher Oxley,Abhijith Ganesh,2021-09-28 13:20:56+03:00,2021-09-28 17:15:14+05:30
+project/api/tasks.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:17:22+03:00,2019-05-06 11:39:52+03:00
+project/api/urls.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/urls.py,grkm,Abhijith Ganesh,2021-09-27 18:58:57+03:00,2021-09-28 17:15:14+05:30
+project/api/views.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/views/__init__.py,grkm,Abhijith Ganesh,2021-09-27 18:55:24+03:00,2021-09-28 17:15:14+05:30
+project/api/views/category.py,Brylie Christopher Oxley,grkm,2021-09-27 12:25:44+03:00,2021-09-27 18:55:24+03:00
+project/api/views/category.py,grkm,Abhijith Ganesh,2021-09-27 18:55:24+03:00,2021-09-28 17:15:14+05:30
+project/api/write.py,Trac Taylor,Paul Scheid,2017-09-11 20:06:15-07:00,2017-09-11 23:24:53-05:00
+project/api/write.py,Paul Scheid,JooHee Lee,2017-09-11 23:24:53-05:00,2017-09-12 08:05:20-05:00
+project/api/write.py,Trac Taylor,Matt Gercz,2017-09-28 19:29:32-07:00,2017-09-29 15:45:36+03:00
+project/api/write.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/api/write.py,Tomasz Kołek,Brylie Christopher Oxley,2019-05-06 11:39:51+03:00,2019-05-06 12:11:28+03:00
+project/api/write.py,Ahmed Nassar,max1204,2021-06-05 21:57:57+02:00,2021-06-06 20:43:57+05:30
+project/api/write.py,ANURAG VERMA,Brylie Christopher Oxley,2021-09-28 13:08:39+03:00,2021-09-28 13:20:56+03:00
+project/api/write.py,Brylie Christopher Oxley,Abhijith Ganesh,2021-09-28 13:20:56+03:00,2021-09-28 17:15:14+05:30
+project/authentication/authentication.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:32:15+03:00,2019-05-06 11:39:51+03:00
+project/authentication/forms.py,JooHee Lee,GokuMizuno,2019-05-06 11:29:40+03:00,2019-05-06 11:39:51+03:00
+project/categories/models.py,ANURAG VERMA,Brylie Christopher Oxley,2021-09-26 16:43:54+05:30,2021-09-27 12:19:24+03:00
+project/categories/models.py,Brylie Christopher Oxley,grkm,2021-09-27 12:19:24+03:00,2021-09-27 19:22:06+03:00
+project/categories/models.py,Abhijith Ganesh,grkm,2021-10-05 22:59:46+05:30,2021-10-05 21:54:06+03:00
+project/categories/serializers.py,Brylie Christopher Oxley,grkm,2021-09-27 12:19:24+03:00,2021-09-27 19:24:12+03:00
+project/civiwiki/settings.py,JooHee Lee,delta-plus,2019-05-06 11:29:40+03:00,2019-05-06 11:30:47+03:00
+project/civiwiki/settings.py,delta-plus,Tomasz Kołek,2019-05-06 11:30:47+03:00,2019-05-06 11:39:51+03:00
+project/civiwiki/settings.py,harsha vardhan,Brylie Christopher Oxley,2021-04-25 17:01:35+03:00,2021-04-26 10:27:11+03:00
+project/core/custom_decorators.py,Ahmed Nassar,Jacob North,2021-06-06 22:45:33+02:00,2021-06-07 16:40:09-04:00
+project/core/settings.py,Brylie Christopher Oxley,loukikstudent,2021-05-26 07:33:37+03:00,2021-05-26 18:36:53+05:30
+project/core/settings.py,Ahmed Nassar,max1204,2021-06-06 02:33:06+02:00,2021-06-06 12:28:06+05:30
+project/core/settings.py,max1204,Ahmed Nassar,2021-06-06 12:28:06+05:30,2021-06-06 22:45:33+02:00
+project/core/settings.py,Ahmed Nassar,Jacob North,2021-06-06 22:45:33+02:00,2021-06-07 16:13:38-04:00
+project/core/settings.py,Ahmed Nassar,Shashank KS,2021-06-14 23:43:26+02:00,2021-06-15 21:50:23+05:30
+project/core/settings.py,Brylie Christopher Oxley,vishalda,2021-08-31 13:18:21+03:00,2021-09-01 10:07:13+05:30
+project/core/settings.py,ANURAG VERMA,Abhijith Ganesh,2021-09-28 13:08:39+03:00,2021-09-28 17:14:10+05:30
+project/core/settings.py,Abhijith Ganesh,grkm,2021-10-07 22:54:40+05:30,2021-10-07 21:18:09+03:00
+project/core/settings.py,Brylie Christopher Oxley,Apoorva Kashyap,2022-10-04 10:37:25+03:00,2022-10-04 19:12:54+05:30
+project/core/settings.py,Apoorva Kashyap,daaavo,2022-10-04 19:12:54+05:30,2022-10-04 11:00:01-05:00
+project/core/settings.py,daaavo,Brylie Christopher Oxley,2022-10-04 11:00:01-05:00,2022-10-04 21:04:30+03:00
+project/core/settings.py,Brylie Christopher Oxley,SethAngell,2022-10-04 21:19:39+03:00,2022-10-04 20:48:05-04:00
+project/core/templates/base.html,EP,prelude,2021-10-05 18:37:31-07:00,2021-10-05 18:41:31-07:00
+project/core/templates/base.html,prelude,Abhijith Ganesh,2021-10-06 15:02:38-07:00,2021-10-07 22:27:18+05:30
+project/core/templates/base.html,Brylie Christopher Oxley,grkm,2021-10-20 18:17:19+03:00,2021-10-20 20:11:26+03:00
+project/core/templates/global_nav.html,Brylie Christopher Oxley,Rodolfo Nei,2021-10-20 16:36:10+03:00,2021-10-21 01:51:23-03:00
+project/core/urls.py,grkm,Abhijith Ganesh,2021-09-27 18:28:03+03:00,2021-09-28 17:07:09+05:30
+project/core/urls.py,Abhijith Ganesh,grkm,2021-10-12 11:01:34+05:30,2021-10-12 19:40:29+03:00
+project/core/urls.py,daaavo,Brylie Christopher Oxley,2022-10-04 11:00:01-05:00,2022-10-04 21:19:39+03:00
+project/frontend_views/urls.py,JooHee Lee,delta-plus,2019-05-06 11:28:37+03:00,2019-05-06 11:30:47+03:00
+project/frontend_views/urls.py,grkm,Görkem Arslan,2021-10-02 22:51:42+03:00,2021-10-02 23:51:25+03:00
+project/frontend_views/urls.py,Abhijith Ganesh,Simon Damberg,2021-10-07 21:49:06+05:30,2021-10-08 10:45:54+02:00
+project/frontend_views/views.py,JooHee Lee,delta-plus,2019-05-06 11:28:37+03:00,2019-05-06 11:30:47+03:00
+project/frontend_views/views.py,delta-plus,Tomasz Kołek,2019-05-06 11:30:47+03:00,2019-05-06 11:39:51+03:00
+project/frontend_views/views.py,Tomasz Kołek,Daniel Grijalva,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/frontend_views/views.py,shubhushan,grkm,2021-09-14 11:27:40+03:00,2021-09-14 19:40:54+03:00
+project/frontend_views/views.py,ANURAG VERMA,Brylie Christopher Oxley,2021-09-28 13:08:39+03:00,2021-09-28 13:10:37+03:00
+project/frontend_views/views.py,Brylie Christopher Oxley,Abhijith Ganesh,2021-09-28 13:10:37+03:00,2021-09-28 17:11:43+05:30
+project/frontend_views/views.py,grkm,Abhijith Ganesh,2021-10-06 22:56:44+03:00,2021-10-07 21:13:00+05:30
+project/frontend_views/views.py,Abhijith Ganesh,grkm,2021-10-07 21:49:06+05:30,2021-10-07 23:07:34+03:00
+project/legislation/sunlightapi.py,JooHee Lee,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/notification/migrations/0001_initial.py,ANURAG VERMA,Brylie Christopher Oxley,2021-09-28 13:08:39+03:00,2021-09-28 13:18:46+03:00
+project/notification/migrations/0001_initial.py,Brylie Christopher Oxley,Abhijith Ganesh,2021-09-28 13:18:46+03:00,2021-09-29 09:05:23+05:30
+project/notification/migrations/__init__.py,ANURAG VERMA,Abhijith Ganesh,2021-09-28 13:08:39+03:00,2021-09-29 09:21:28+05:30
+project/test_framework/.idea/CiviWikiTest.iml,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/.idea/misc.xml,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/.idea/modules.xml,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/.idea/workspace.xml,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/app/selectors.py,Unit One,Gustavo,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/app/selectors.py,Gustavo,Shaunak Gupta,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/conf/chromedriver.exe,Unit One,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/debug.log,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/features/step_defs/settings_setpdefs.py,Unit One,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/features/step_defs/thread_stepdefs.py,Unit One,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/requirements.txt,Petar Petrov,pyup-bot,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/requirements.txt,pyup-bot,Brylie Christopher Oxley,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/requirements.txt,Brylie Christopher Oxley,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/test_framework/venv/Lib/tcl8.6/init.tcl,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/Activate.ps1,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_asyncio.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_bz2.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_ctypes.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_ctypes_test.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_decimal.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_elementtree.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_hashlib.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_lzma.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_msi.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_multiprocessing.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_overlapped.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_socket.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_sqlite3.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_ssl.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_testbuffer.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_testcapi.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_testconsole.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_testimportmultiple.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_testmultiphase.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/_tkinter.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/activate,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/activate.bat,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/deactivate.bat,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/pyexpat.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/python.exe,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/python3.dll,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/python36.dll,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/pythonw.exe,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/select.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/sqlite3.dll,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/tcl86t.dll,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/tk86t.dll,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/unicodedata.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/vcruntime140.dll,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/Scripts/winsound.pyd,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/test_framework/venv/pyvenv.cfg,Unit One,Petar Petrov,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/threads/api.py,Brylie Christopher Oxley,silvarthur,2022-10-18 21:15:13+03:00,2022-10-18 19:42:53-03:00
+project/threads/models.py,Abhijith Ganesh,grkm,2021-10-05 22:58:19+05:30,2021-10-05 21:54:06+03:00
+project/threads/models.py,Brylie Christopher Oxley,gorkemarslan,2022-10-12 10:49:06+03:00,2022-10-13 08:07:18+03:00
+project/threads/templates/static/dependencies/materialize.min.css,Brylie Christopher Oxley,Борис Женихов,2021-10-01 09:47:59+03:00,2021-10-01 16:03:11+06:00
+project/threads/templates/static/dependencies/materialize.min.css,Борис Женихов,Abhijith Ganesh,2021-10-01 16:03:11+06:00,2021-10-01 22:59:40+05:30
+project/threads/templates/static/dependencies/materialize.min.js,Brylie Christopher Oxley,Борис Женихов,2021-10-01 09:48:22+03:00,2021-10-01 16:03:11+06:00
+project/threads/templates/static/dependencies/materialize.min.js,Борис Женихов,Abhijith Ganesh,2021-10-01 16:03:11+06:00,2021-10-01 23:00:03+05:30
+project/threads/templates/threads/base/links.html,Борис Женихов,Abhijith Ganesh,2021-10-01 16:03:11+06:00,2021-10-01 19:32:32+05:30
+project/threads/templates/threads/partials/account/tabs/my_civis.html,Maryam Yusuf,Brylie Christopher Oxley,2021-09-03 17:47:01+01:00,2021-09-04 12:24:28+03:00
+project/threads/templates/threads/static_templates/landing.html,Maryam Yusuf,Brylie Christopher Oxley,2021-08-30 19:54:23+01:00,2021-08-31 13:18:46+03:00
+project/threads/templates/threads/static_templates/static_nav.html,Maryam Yusuf,Brylie Christopher Oxley,2021-08-30 19:55:25+01:00,2021-08-31 13:19:58+03:00
+project/threads/urls/api.py,Abhijith Ganesh,grkm,2021-10-12 00:32:38+05:30,2021-10-12 19:40:29+03:00
+project/threads/urls/urls.py,Abhijith Ganesh,grkm,2021-10-12 00:28:31+05:30,2021-10-12 19:40:29+03:00
+project/threads/views.py,Abhijith Ganesh,grkm,2021-10-07 21:27:43+05:30,2021-10-07 19:15:06+03:00
+project/threads/views/views.py,Abhijith Ganesh,grkm,2021-10-12 16:01:59+05:30,2021-10-12 19:40:29+03:00
+project/webapp/static/js/thread.js,TJH,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/webapp/static/js/utils/locate.js,JooHee Lee,Jon Ander Oribe,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/webapp/static/js/utils/locate.js,Jon Ander Oribe,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/base/links.html,JooHee Lee,GokuMizuno,2019-05-06 11:36:40+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/partials/account/account_base.html,Matt Gercz,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/partials/account/account_base.html,Tomasz Kołek,Daniel Grijalva,2019-05-06 11:39:51+03:00,2019-05-06 22:07:27+03:00
+project/webapp/templates/partials/feed/feed_base.html,Matt Gercz,Gustavo,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/partials/feed/new_thread.html,JooHee Lee,Matt Gercz,2019-05-06 11:21:43+03:00,2019-05-06 11:28:37+03:00
+project/webapp/templates/partials/thread/new_civi.html,Bill Collins,Tomasz Kołek,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/partials/thread/thread_body.html,delta-plus,TJH,2019-05-06 11:30:47+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/partials/utils/civi.html,JooHee Lee,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/partials/utils/global_nav.html,ryan-barrett,Bill Collins,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/webapp/templates/partials/utils/global_nav.html,Bill Collins,Matt Gercz,2019-05-06 11:28:37+03:00,2019-05-06 11:28:37+03:00
+project/webapp/templates/static_templates/about.html,Steven Hitchcock,JooHee Lee,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+project/webapp/templates/static_templates/static_footer.html,Steven Hitchcock,JooHee Lee,2019-05-06 11:28:37+03:00,2019-05-06 11:39:51+03:00
+pyproject.toml,grkm,Görkem Arslan,2021-10-17 13:01:48+03:00,2021-10-17 14:11:53+03:00
+pyproject.toml,Görkem Arslan,grkm,2021-10-17 14:11:53+03:00,2021-10-17 15:49:25+03:00
+pyproject.toml,daaavo,SethAngell,2022-10-04 10:59:40-05:00,2022-10-04 20:48:05-04:00
+requirements.txt,Daniel Borstelmann,Darius Calliet,2016-10-02 12:47:40-05:00,2016-10-02 12:47:40-05:00
+requirements.txt,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:40-05:00,2016-10-02 12:47:43-05:00
+requirements.txt,JooHee Lee,Daniel Larner,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,Daniel Larner,pyup-bot,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,pyup-bot,Brylie Christopher Oxley,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,Brylie Christopher Oxley,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,Tomasz Kołek,pyup-bot,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,pyup-bot,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,Tomasz Kołek,pyup-bot,2019-05-06 11:39:51+03:00,2019-05-06 11:39:51+03:00
+requirements.txt,pyup-bot,Tomasz Kołek,2019-05-06 11:39:51+03:00,2019-05-06 11:39:52+03:00
+requirements.txt,Tomasz Kołek,pyup-bot,2019-05-06 11:39:52+03:00,2019-05-06 23:19:49+03:00
+requirements.txt,Brylie Christopher Oxley,loukikstudent,2021-05-26 07:33:37+03:00,2021-05-26 18:36:53+05:30
+requirements.txt,Ahmed Nassar,Jacob North,2021-06-06 22:45:33+02:00,2021-06-07 16:13:38-04:00
+requirements.txt,pyup-bot,Ahmed Nassar,2021-06-17 16:11:08-07:00,2021-06-19 01:07:00+02:00
+requirements/base.txt,pyup-bot,dependabot[bot],2021-12-13 07:33:57-08:00,2021-12-13 15:55:27+00:00
+requirements/base.txt,pyup-bot,Brylie Christopher Oxley,2022-11-01 02:57:05-07:00,2022-11-01 20:28:32+02:00
+requirements/dev.txt,grkm,gorkemarslan,2021-09-08 21:30:16+03:00,2021-09-09 13:55:23+03:00
+setup.cfg,grkm,Görkem Arslan,2021-10-17 13:01:27+03:00,2021-10-17 14:12:08+03:00
+webapp/static/less/static_common.less,jl24,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:41-05:00
+webapp/static/less/supportus.less,jl24,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:41-05:00
+webapp/templates/beta_blocker.html,Daniel Borstelmann,jl24,2016-10-02 12:47:40-05:00,2016-10-02 12:47:41-05:00
+webapp/templates/beta_blocker.html,jl24,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:41-05:00
+webapp/templates/partials/utils/account_nav_button.html,Darius Calliet,Daniel Borstelmann,2016-10-02 12:47:41-05:00,2016-10-02 12:47:41-05:00

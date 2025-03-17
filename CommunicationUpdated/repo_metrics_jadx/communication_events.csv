@@ -1,0 +1,264 @@
+file,author1,author2,time1,time2
+.github/workflows/gradle-wrapper-validation.yml,Jonathan Leitschuh,Skylot,2020-01-16 10:19:39+03:00,2020-01-16 10:47:31+03:00
+README.md,dgorshkov,sergey-wowwow,2018-01-14 17:35:26+01:00,2018-01-14 21:08:49+03:00
+README.md,sergey-wowwow,Skylot,2018-01-16 21:05:59+03:00,2018-01-17 11:02:31+03:00
+README.md,skylot,Skylot,2022-02-18 20:26:39+00:00,2022-02-19 21:20:11+03:00
+README.md,nitram84,Skylot,2023-11-05 20:21:41+00:00,2023-11-05 20:22:15+00:00
+build.gradle,skylot,Skylot,2019-03-26 14:21:47+03:00,2019-03-27 13:30:01+03:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,YASME-Tim,Skylot,2014-12-22 22:11:04+01:00,2014-12-23 23:27:50+03:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,Sergey Toshin,sergey-wowwow,2018-01-14 21:04:28+03:00,2018-01-14 21:47:37+03:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,sergey-wowwow,unknown,2018-01-14 21:47:37+03:00,2018-01-15 19:35:30+03:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,Jan S,Skylot,2019-05-10 21:06:54+03:00,2019-05-10 21:10:04+03:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,Jacob Davis-Hansson,Skylot,2023-02-27 19:08:07+00:00,2023-02-27 19:35:49+00:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-cli/src/main/java/jadx/cli/JadxCLIArgs.java,nitram84,Skylot,2023-11-05 20:21:41+00:00,2023-11-05 20:22:15+00:00
+jadx-core/build.gradle,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 22:08:33+04:00
+jadx-core/build.gradle,Ahmed Ashour,skylot,2019-04-29 16:07:31+03:00,2019-04-30 00:04:16+03:00
+jadx-core/build.gradle,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/api/ICodeCache.java,S-trace,Skylot,2020-01-03 06:09:08+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/api/IJadxArgs.java,Sergey Toshin,unknown,2018-01-14 21:04:28+03:00,2018-01-15 19:35:30+03:00
+jadx-core/src/main/java/jadx/api/JadxArgs.java,Sergey Toshin,sergey-wowwow,2018-01-14 21:04:28+03:00,2018-01-14 21:34:17+03:00
+jadx-core/src/main/java/jadx/api/JadxArgs.java,sergey-wowwow,unknown,2018-01-14 21:34:17+03:00,2018-01-15 19:35:30+03:00
+jadx-core/src/main/java/jadx/api/JadxArgs.java,skylot,Skylot,2019-03-26 14:21:47+03:00,2019-03-26 23:12:17+03:00
+jadx-core/src/main/java/jadx/api/JadxArgs.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/api/JadxArgs.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/api/JadxArgs.java,nitram84,Skylot,2023-11-05 20:21:41+00:00,2023-11-05 20:22:15+00:00
+jadx-core/src/main/java/jadx/api/JadxDecompiler.java,YASME-Tim,Skylot,2014-12-22 22:11:04+01:00,2014-12-23 23:27:50+03:00
+jadx-core/src/main/java/jadx/api/JadxDecompiler.java,Skylot,sergey-wowwow,2018-09-08 10:22:06+03:00,2018-09-08 14:32:59+03:00
+jadx-core/src/main/java/jadx/api/JadxDecompiler.java,Ahmed Ashour,skylot,2019-04-29 16:07:31+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/main/java/jadx/api/JadxDecompiler.java,Fi5t,LBJ-the-GOAT,2021-01-26 21:31:12+03:00,2021-01-27 14:58:57+03:00
+jadx-core/src/main/java/jadx/api/JadxDecompiler.java,Skylot,Julian Burner,2023-04-20 19:01:38+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/api/JadxDecompiler.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/api/JavaClass.java,S-trace,Skylot,2020-01-03 06:09:08+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/api/ResourceFile.java,Skylot,Sergey Toshin,2018-01-02 21:26:43+03:00,2018-01-03 18:20:21+01:00
+jadx-core/src/main/java/jadx/api/ResourcesLoader.java,Skylot,Sergey Toshin,2018-01-02 21:26:43+03:00,2018-01-03 18:20:21+01:00
+jadx-core/src/main/java/jadx/api/args/GeneratedRenamesMappingFileMode.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/api/impl/InMemoryCodeCache.java,S-trace,Skylot,2020-01-03 06:09:08+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/api/impl/NoOpCodeCache.java,S-trace,Skylot,2020-01-03 06:09:08+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/Jadx.java,Skylot,skylot,2019-02-11 14:50:16+03:00,2019-02-11 14:56:03+03:00
+jadx-core/src/main/java/jadx/core/Jadx.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/core/Jadx.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/core/codegen/AnnotationGen.java,Ahmed Ashour,Skylot,2019-03-24 10:05:26+03:00,2019-03-24 16:59:55+03:00
+jadx-core/src/main/java/jadx/core/codegen/ClassGen.java,Ahmed Ashour,Skylot,2019-03-24 10:05:26+03:00,2019-03-24 16:59:55+03:00
+jadx-core/src/main/java/jadx/core/codegen/InsnGen.java,Skylot,Anton Dyachenko,2014-09-01 23:09:04+04:00,2014-09-02 20:05:15+04:00
+jadx-core/src/main/java/jadx/core/codegen/InsnGen.java,Ahmed Ashour,Skylot,2019-03-26 15:29:39+03:00,2019-03-27 13:30:01+03:00
+jadx-core/src/main/java/jadx/core/codegen/InsnGen.java,Ahmed Ashour,Skylot,2019-04-14 14:29:38+03:00,2019-04-14 19:02:42+03:00
+jadx-core/src/main/java/jadx/core/codegen/InsnGen.java,Skylot,Ahmed Ashour,2019-04-14 19:02:42+03:00,2019-04-14 22:01:08+03:00
+jadx-core/src/main/java/jadx/core/codegen/InsnGen.java,Skylot,Ahmed Ashour,2019-04-25 12:37:52+03:00,2019-04-25 20:24:37+03:00
+jadx-core/src/main/java/jadx/core/deobf/DeobfPresets.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/core/deobf/DeobfWhitelist.java,nitram84,Skylot,2023-11-05 20:21:41+00:00,2023-11-05 20:22:15+00:00
+jadx-core/src/main/java/jadx/core/deobf/Deobfuscator.java,Skylot,Jan S,2022-02-05 21:49:36+00:00,2022-02-06 12:56:59+00:00
+jadx-core/src/main/java/jadx/core/deobf/DeobfuscatorVisitor.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/core/deobf/DeobfuscatorVisitor.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:41+03:00
+jadx-core/src/main/java/jadx/core/deobf/DeobfuscatorVisitor.java,nitram84,Skylot,2023-11-05 20:21:41+00:00,2023-11-05 20:22:15+00:00
+jadx-core/src/main/java/jadx/core/deobf/NameMapper.java,Jan Peter Stotz,Skylot,2021-10-21 15:51:22+03:00,2021-10-21 18:24:57+01:00
+jadx-core/src/main/java/jadx/core/deobf/SaveDeobfMapping.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/core/deobf/SaveDeobfMapping.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:41+03:00
+jadx-core/src/main/java/jadx/core/dex/attributes/AType.java,S-trace,Skylot,2020-01-03 06:09:21+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/attributes/nodes/RenameReasonAttr.java,S-trace,Skylot,2020-01-03 06:09:23+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/info/ClassInfo.java,Ahmed Ashour,Skylot,2019-03-24 10:05:26+03:00,2019-03-24 16:59:55+03:00
+jadx-core/src/main/java/jadx/core/dex/info/ConstStorage.java,S-trace,Skylot,2020-01-03 06:09:19+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/info/ConstStorage.java,Skylot,S-trace,2020-01-16 12:16:32+03:00,2020-01-17 10:38:15+03:00
+jadx-core/src/main/java/jadx/core/dex/instructions/InsnDecoder.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 22:08:32+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/ClassNode.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 22:08:33+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/ClassNode.java,Ahmed Ashour,Skylot,2019-04-24 19:42:13+03:00,2019-04-25 12:37:52+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/ClassNode.java,Ahmed Ashour,skylot,2019-04-29 16:07:31+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/ClassNode.java,S-trace,Skylot,2020-01-03 06:09:19+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/ClassNode.java,Jan S,Skylot,2020-01-05 12:46:07+03:00,2020-01-05 22:12:13+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/DexNode.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 21:59:37+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/IMappingsUpdateListener.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/MethodNode.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 21:59:37+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/MethodNode.java,S-trace,Skylot,2020-01-03 06:09:25+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/MethodNode.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/MethodNode.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/RootNode.java,Skylot,sergey-wowwow,2018-09-08 10:12:40+03:00,2018-09-08 14:32:59+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/RootNode.java,sergey-wowwow,Skylot,2018-09-08 14:32:59+03:00,2018-09-08 14:33:33+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/RootNode.java,sergey-wowwow,Skylot,2020-10-25 22:18:41+03:00,2020-10-26 12:28:41+00:00
+jadx-core/src/main/java/jadx/core/dex/nodes/RootNode.java,Skylot,Julian Burner,2023-04-20 19:01:38+03:00,2023-04-20 19:01:38+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/RootNode.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/core/dex/nodes/parser/AnnotationsParser.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 21:59:37+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/parser/DebugInfoParser.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 21:59:37+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/parser/DebugInfoParser.java,Anton Dyachenko,Skylot,2014-09-12 19:24:44+04:00,2014-09-13 18:55:17+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/parser/EncValueParser.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 21:59:37+04:00
+jadx-core/src/main/java/jadx/core/dex/nodes/parser/StaticValuesParser.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 21:59:37+04:00
+jadx-core/src/main/java/jadx/core/dex/visitors/ClassModifier.java,S-trace,Skylot,2020-01-03 06:09:20+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/EnumVisitor.java,S-trace,Skylot,2020-01-03 06:09:22+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/ModVisitor.java,Ahmed Ashour,Skylot,2019-03-24 10:05:26+03:00,2019-03-24 16:59:55+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/RenameVisitor.java,Ahmed Ashour,Skylot,2019-03-22 10:55:44+03:00,2019-03-22 19:54:45+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/RenameVisitor.java,Skylot,Ahmed Ashour,2019-03-26 23:12:17+03:00,2019-03-27 20:40:13+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/SimplifyVisitor.java,Skylot,NeoSpb,2015-01-12 23:34:03+03:00,2015-01-13 19:42:57+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/SimplifyVisitor.java,Ahmed Ashour,Skylot,2019-03-26 15:29:39+03:00,2019-03-27 14:07:16+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/blocks/BlockExceptionHandler.java,DanielFi,nitram84,2024-02-14 18:31:38+00:00,2024-02-15 17:57:30+00:00
+jadx-core/src/main/java/jadx/core/dex/visitors/blocks/BlockProcessor.java,Ahmet Bilal Can,Skylot,2024-11-02 21:38:57+00:00,2024-11-02 22:08:26+00:00
+jadx-core/src/main/java/jadx/core/dex/visitors/debuginfo/DebugInfoParseVisitor.java,S-trace,Skylot,2020-01-03 06:09:25+03:00,2020-01-03 20:46:47+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/regions/RegionMaker.java,Skylot,Ahmed Ashour,2019-03-23 23:58:05+03:00,2019-03-24 10:05:26+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/regions/RegionMaker.java,Jonas Konrad,Skylot,2020-12-03 17:15:49+03:00,2020-12-03 21:45:21+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/regions/SwitchOverStringVisitor.java,pubiqq,Skylot,2024-10-31 21:24:19+00:00,2024-11-01 16:33:28+00:00
+jadx-core/src/main/java/jadx/core/dex/visitors/rename/MappingsVisitor.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/typeinference/TypeBoundConst.java,Ahmed Ashour,skylot,2019-04-29 16:08:28+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/main/java/jadx/core/dex/visitors/typeinference/TypeInferenceVisitor.java,Ahmed Ashour,skylot,2019-04-29 16:08:28+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/main/java/jadx/core/utils/android/AndroidResourcesUtils.java,sergey-wowwow,Skylot,2018-09-08 14:32:59+03:00,2018-09-08 14:33:33+03:00
+jadx-core/src/main/java/jadx/core/utils/files/InputFile.java,Bjoern Kerler,Skylot,2014-05-12 09:12:34+02:00,2014-05-12 22:08:33+04:00
+jadx-core/src/main/java/jadx/core/utils/files/InputFile.java,YASME-Tim,Skylot,2014-12-22 22:11:04+01:00,2014-12-23 23:27:50+03:00
+jadx-core/src/main/java/jadx/core/utils/files/InputFile.java,Ahmed Ashour,skylot,2019-04-29 16:07:31+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/main/java/jadx/core/utils/files/JavaToDex.java,Ahmed Ashour,skylot,2019-04-29 16:07:31+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/main/java/jadx/core/utils/files/ZipFile.java,qfalconer,Skylot,2024-10-10 17:53:26+01:00,2024-10-10 22:57:40+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/BinaryXMLParser.java,YASME-Tim,Skylot,2014-12-22 22:11:04+01:00,2014-12-23 23:27:50+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResContainer.java,sergey-wowwow,Skylot,2018-10-24 20:58:49+03:00,2018-10-24 21:30:36+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResTableBinaryParser.java,Skylot,pubiqq,2024-09-04 21:31:37+01:00,2024-09-05 19:13:26+01:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResTableBinaryParser.java,pubiqq,Skylot,2024-09-06 23:21:21+01:00,2024-09-07 01:21:42+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResTableBinaryParser.java,pubiqq,Skylot,2024-10-10 20:01:57+01:00,2024-10-10 22:57:40+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResTableBinaryParser.java,Skylot,Jan S.,2025-03-13 20:22:26+00:00,2025-03-14 18:48:37+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResTableParser.java,Skylot,Ahmed Ashour,2019-03-23 13:25:06+03:00,2019-03-24 10:05:26+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResTableParser.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResXmlGen.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResourcesSaver.java,sergey-wowwow,Sergey Toshin,2018-10-24 20:58:49+03:00,2018-10-24 21:21:17+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/ResourcesSaver.java,Sergey Toshin,Skylot,2018-10-24 21:21:17+03:00,2018-10-24 21:30:36+03:00
+jadx-core/src/main/java/jadx/core/xmlgen/entry/ResourceEntry.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-core/src/test/java/jadx/tests/api/IntegrationTest.java,Skylot,Ahmed Ashour,2019-03-22 19:51:29+03:00,2019-03-22 20:37:20+03:00
+jadx-core/src/test/java/jadx/tests/api/SmaliTest.java,Skylot,Ahmed Ashour,2019-03-22 19:51:29+03:00,2019-03-22 20:37:20+03:00
+jadx-core/src/test/java/jadx/tests/api/compiler/StaticCompiler.java,Ahmed Ashour,Skylot,2019-03-29 11:27:11+03:00,2019-03-29 16:25:52+03:00
+jadx-core/src/test/java/jadx/tests/integration/arrays/TestArrayFill3.java,Ahmed Ashour,Skylot,2019-03-29 16:10:33+03:00,2019-03-29 16:25:52+03:00
+jadx-core/src/test/java/jadx/tests/integration/conditions/TestBooleanToInt.java,Ahmed Ashour,skylot,2019-04-29 16:08:28+03:00,2019-04-30 00:04:16+03:00
+jadx-core/src/test/java/jadx/tests/integration/inner/TestSyntheticMthRename.java,Ahmed Ashour,Skylot,2019-03-22 17:36:13+03:00,2019-03-22 19:51:29+03:00
+jadx-core/src/test/java/jadx/tests/integration/inner/TestSyntheticMthRename.java,Skylot,Ahmed Ashour,2019-03-22 19:51:29+03:00,2019-03-22 20:37:20+03:00
+jadx-core/src/test/java/jadx/tests/integration/invoke/TestCastInOverloadedInvoke.java,Skylot,Ahmed Ashour,2019-03-22 21:00:34+03:00,2019-03-23 10:26:44+03:00
+jadx-core/src/test/java/jadx/tests/integration/loops/TestIndexedLoop.java,Skylot,Ahmed Ashour,2019-03-22 19:30:20+03:00,2019-03-22 20:37:20+03:00
+jadx-core/src/test/java/jadx/tests/integration/loops/TestSynchronizedInEndlessLoop.java,Skylot,Ahmed Ashour,2019-03-22 21:00:34+03:00,2019-03-23 10:26:44+03:00
+jadx-core/src/test/java/jadx/tests/integration/others/TestBadMethodAccessModifiers.java,Ahmed Ashour,Skylot,2019-03-22 17:36:13+03:00,2019-03-22 19:51:29+03:00
+jadx-core/src/test/java/jadx/tests/integration/others/TestBadMethodAccessModifiers.java,Skylot,Ahmed Ashour,2019-03-22 19:51:29+03:00,2019-03-22 20:37:20+03:00
+jadx-gui/build.gradle,Jan S,Skylot,2019-01-18 12:26:22+03:00,2019-01-19 09:49:20+03:00
+jadx-gui/build.gradle,skylot,Jan S,2019-01-23 11:00:24+03:00,2019-01-23 17:34:03+03:00
+jadx-gui/build.gradle,Skylot,Jan S,2020-06-11 14:26:23+01:00,2020-06-11 17:06:43+03:00
+jadx-gui/build.gradle,Skylot,Julian Burner,2023-04-20 19:01:35+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/build.gradle,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/build.gradle.kts,Andrei Kudryavtsev,Skylot,2024-04-26 21:54:54+01:00,2024-04-27 21:48:42+01:00
+jadx-gui/build.gradle.kts,nitram84,Skylot,2024-10-22 17:24:57+01:00,2024-10-22 21:32:14+01:00
+jadx-gui/build.gradle.kts,Yaroslav,Skylot,2024-12-18 19:28:44+00:00,2024-12-18 21:41:26+00:00
+jadx-gui/src/main/java/jadx/gui/JadxWrapper.java,Skylot,Julian Burner,2023-04-20 19:01:38+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/java/jadx/gui/JadxWrapper.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/java/jadx/gui/device/debugger/DebugController.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/device/debugger/SmaliDebugger.java,Skylot,Jan S,2022-03-19 18:43:34+00:00,2022-03-20 17:01:01+00:00
+jadx-gui/src/main/java/jadx/gui/device/debugger/smali/Smali.java,jmlitfi,Skylot,2022-12-13 17:39:20+00:00,2022-12-13 17:40:00+00:00
+jadx-gui/src/main/java/jadx/gui/plugins/quark/QuarkReportNode.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/plugins/quark/QuarkReportPanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxProject.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettings.java,Donlon,Skylot,2018-08-19 10:21:30+03:00,2018-08-19 12:19:11+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettings.java,Skylot,Ahmed Ashour,2019-04-23 21:30:03+03:00,2019-04-24 19:42:13+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettings.java,Ahmed Ashour,Skylot,2019-04-24 19:42:13+03:00,2019-04-25 12:37:52+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettings.java,Skylot,Jan S,2019-05-05 22:34:34+03:00,2019-05-06 20:54:52+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettings.java,Jan S,Skylot,2019-05-10 21:06:54+03:00,2019-05-10 21:10:04+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettings.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Donlon,Skylot,2018-08-19 10:21:30+03:00,2018-08-19 12:19:11+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Ahmed Ashour,Skylot,2019-04-12 18:10:16+03:00,2019-04-12 18:23:41+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Skylot,Ahmed Ashour,2019-04-23 21:30:03+03:00,2019-04-24 19:42:13+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Ahmed Ashour,Skylot,2019-04-24 19:42:13+03:00,2019-04-25 12:37:52+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Jan S,Skylot,2022-03-23 15:13:53+00:00,2022-03-23 18:16:54+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Skylot,Julian Burner,2023-04-20 19:01:37+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/java/jadx/gui/settings/JadxSettingsWindow.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:40+03:00
+jadx-gui/src/main/java/jadx/gui/settings/data/ProjectData.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 17:22:15+01:00
+jadx-gui/src/main/java/jadx/gui/settings/ui/JadxSettingsWindow.java,nitram84,Skylot,2023-11-05 20:21:41+00:00,2023-11-05 20:22:15+00:00
+jadx-gui/src/main/java/jadx/gui/treemodel/ApkSignature.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JClass.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JMethod.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JNode.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JPackage.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JResource.java,Skylot,Sergey Toshin,2018-01-02 21:26:43+03:00,2018-01-03 18:20:21+01:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JResource.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/treemodel/JSources.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/HeapUsageBar.java,Jan S,Skylot,2019-01-21 09:52:00+03:00,2019-01-21 13:47:05+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Skylot,skylot,2019-01-23 09:39:57+03:00,2019-01-23 11:00:24+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Ahmed Ashour,sergey-wowwow,2019-04-20 20:02:00+03:00,2019-04-21 16:18:49+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Skylot,Ahmed Ashour,2019-04-23 21:30:03+03:00,2019-04-24 19:42:13+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Ahmed Ashour,skylot,2019-04-29 15:53:00+03:00,2019-04-30 00:04:16+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Jan S,Skylot,2021-12-20 13:52:51+00:00,2021-12-20 16:48:50+00:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Jan S,Skylot,2022-05-08 12:53:48+01:00,2022-05-08 14:55:25+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,xiaojye,Skylot,2024-10-10 17:11:08+01:00,2024-10-10 22:57:40+03:00
+jadx-gui/src/main/java/jadx/gui/ui/MainWindow.java,Skylot,Hidoni,2025-02-01 19:33:39+00:00,2025-02-01 23:03:42+00:00
+jadx-gui/src/main/java/jadx/gui/ui/QuarkDialog.java,Shaun Dang,Skylot,2021-03-12 16:44:42+03:00,2021-03-12 14:54:15+00:00
+jadx-gui/src/main/java/jadx/gui/ui/RenameDialog.java,Skylot,S-trace,2020-01-20 10:13:20+03:00,2020-01-20 10:13:20+03:00
+jadx-gui/src/main/java/jadx/gui/ui/RenameDialog.java,Jan S,Skylot,2020-12-21 16:23:37+03:00,2020-12-21 14:47:57+00:00
+jadx-gui/src/main/java/jadx/gui/ui/TabComponent.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/TabComponent.java,bytemarx,Skylot,2023-07-05 22:54:19+01:00,2023-07-06 17:14:31+01:00
+jadx-gui/src/main/java/jadx/gui/ui/TabbedPane.java,Jan S,Skylot,2019-05-15 16:23:35+03:00,2019-05-15 17:01:52+03:00
+jadx-gui/src/main/java/jadx/gui/ui/TabbedPane.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/AbstractCodeArea.java,Skylot,LBJ-the-GOAT,2021-01-24 16:10:37+00:00,2021-01-25 14:49:21+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/AbstractCodeArea.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/AbstractCodeArea.java,Mino,Skylot,2024-08-01 19:33:37+01:00,2024-08-02 17:13:16+01:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/AbstractCodeContentPanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/CodeArea.java,LBJ-the-GOAT,Choiman1559,2021-01-23 14:20:08+03:00,2021-01-23 20:24:09+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/CodeArea.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/CodeArea.java,Mino,Skylot,2024-08-30 20:33:05+01:00,2024-08-30 22:39:43+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/CodePanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/CommentAction.java,Yaroslav,Skylot,2024-12-20 20:21:57+00:00,2024-12-20 20:51:21+00:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/FindUsageAction.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/FridaAction.java,Ori Perry,Jan S,2022-02-07 21:50:01+00:00,2022-02-08 12:47:49+00:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/FridaAction.java,YenKoc,Skylot,2022-02-18 12:54:41+00:00,2022-02-18 19:10:34+00:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/FridaAction.java,Mathis Hesse,Skylot,2022-11-07 19:11:22+00:00,2022-11-07 19:13:11+00:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/LineNumbers.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/RenameAction.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/SearchBar.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/SmaliArea.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/codearea/XposedAction.java,YenKoc,Skylot,2022-02-18 12:54:41+00:00,2022-02-18 19:10:34+00:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/ADBDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/ADBDialog.java,omerfarukkykc,Skylot,2024-04-19 19:02:12+01:00,2024-04-19 20:14:25+01:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/AboutDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/CommonSearchDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/ExcludePkgDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/LogViewerDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/RenameDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/RenameDialog.java,Skylot,Julian Burner,2023-04-20 19:01:38+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/RenameDialog.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/SearchDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/SetValueDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/dialog/UsageDialog.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/panel/ContentPanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/panel/HtmlPanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/panel/IDebugController.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/panel/ImagePanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/panel/JDebuggerPanel.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/popupmenu/JPackagePopupMenu.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/popupmenu/VarTreePopupMenu.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/ui/tab/ITabStatesListener.java,Mino,Skylot,2024-08-06 23:47:25+01:00,2024-08-07 00:28:39+01:00
+jadx-gui/src/main/java/jadx/gui/ui/tab/QuickTabsTree.java,Mino,Skylot,2024-08-06 23:47:25+01:00,2024-08-07 00:28:39+01:00
+jadx-gui/src/main/java/jadx/gui/ui/tab/TabComponent.java,yyyair,Skylot,2025-02-22 18:46:00+00:00,2025-02-22 20:47:11+00:00
+jadx-gui/src/main/java/jadx/gui/ui/tab/TabbedPane.java,Mino,Skylot,2024-08-06 23:47:25+01:00,2024-08-07 00:28:39+01:00
+jadx-gui/src/main/java/jadx/gui/ui/tab/TabsController.java,Mino,Skylot,2024-08-06 23:47:25+01:00,2024-08-07 00:28:39+01:00
+jadx-gui/src/main/java/jadx/gui/utils/LafManager.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/utils/UiUtils.java,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 20:41:17+03:00
+jadx-gui/src/main/java/jadx/gui/utils/Utils.java,Jan S,Skylot,2019-01-21 09:52:00+03:00,2019-01-21 13:47:05+03:00
+jadx-gui/src/main/java/jadx/gui/utils/Utils.java,Skylot,skylot,2019-01-22 18:51:09+03:00,2019-01-23 11:00:24+03:00
+jadx-gui/src/main/java/jadx/gui/utils/Utils.java,sergey-wowwow,Skylot,2019-04-21 16:18:49+03:00,2019-04-21 16:23:34+03:00
+jadx-gui/src/main/java/jadx/gui/utils/Utils.java,Skylot,Ahmed Ashour,2019-04-23 21:30:03+03:00,2019-04-24 19:42:13+03:00
+jadx-gui/src/main/java/jadx/gui/utils/codecache/disk/DiskCodeCache.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_de_DE.properties,Skylot,Julian Burner,2022-07-25 19:53:03+01:00,2022-07-26 10:16:34+01:00
+jadx-gui/src/main/resources/i18n/Messages_de_DE.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_de_DE.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_en_US.properties,Skylot,Julian Burner,2022-07-25 19:53:03+01:00,2022-07-26 10:16:34+01:00
+jadx-gui/src/main/resources/i18n/Messages_en_US.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_en_US.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_en_US.properties,Skylot,cskwrd,2023-06-06 22:29:31+01:00,2023-06-07 16:47:39+01:00
+jadx-gui/src/main/resources/i18n/Messages_es_ES.properties,Skylot,Julian Burner,2022-07-25 19:53:03+01:00,2022-07-26 10:16:34+01:00
+jadx-gui/src/main/resources/i18n/Messages_es_ES.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_es_ES.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_ko_KR.properties,Choiman1559,Skylot,2021-01-01 18:00:10+03:00,2021-01-01 18:04:42+03:00
+jadx-gui/src/main/resources/i18n/Messages_ko_KR.properties,LBJ-the-GOAT,Choiman1559,2021-01-23 14:20:08+03:00,2021-01-23 20:24:09+03:00
+jadx-gui/src/main/resources/i18n/Messages_ko_KR.properties,Skylot,Julian Burner,2022-07-25 19:53:03+01:00,2022-07-26 10:16:34+01:00
+jadx-gui/src/main/resources/i18n/Messages_ko_KR.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_ko_KR.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_pt_BR.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_pt_BR.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_zh_CN.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_zh_CN.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/i18n/Messages_zh_CN.properties,Skylot,JustFor,2023-04-20 17:22:14+01:00,2023-04-21 14:42:02+01:00
+jadx-gui/src/main/resources/i18n/Messages_zh_CN.properties,Skylot,JustFor,2023-07-17 00:49:40+03:00,2023-07-17 18:45:47+01:00
+jadx-gui/src/main/resources/i18n/Messages_zh_CN.properties,JustFor,Skylot,2024-10-24 18:31:14+01:00,2024-10-24 20:33:52+03:00
+jadx-gui/src/main/resources/i18n/Messages_zh_TW.properties,Skylot,Julian Burner,2023-04-20 19:01:34+03:00,2023-04-20 19:01:38+03:00
+jadx-gui/src/main/resources/i18n/Messages_zh_TW.properties,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-gui/src/main/resources/icons/ui/analyze.svg,Yaroslav,Skylot,2021-08-04 20:40:49+03:00,2021-08-04 19:18:03+01:00
+jadx-gui/src/test/java/jadx/gui/utils/codecache/DiskCodeCacheTest.java,Julian Burner,Skylot,2023-04-20 19:01:38+03:00,2023-04-20 19:01:39+03:00
+jadx-plugins/jadx-plugins-api/src/main/java/jadx/api/plugins/utils/CommonFileUtils.java,Skylot,Jan S,2022-02-25 11:38:44+00:00,2022-02-26 09:20:58+00:00
+settings.gradle.kts,Andrei Kudryavtsev,Skylot,2024-04-26 21:54:54+01:00,2024-04-27 21:48:42+01:00

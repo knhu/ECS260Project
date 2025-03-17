@@ -1,0 +1,25 @@
+File,Top Contributor Share (%)
+README.md,87.03
+data/openwebtext/prepare.py,57.06
+data/openwebtext/readme.md,100.00
+model.py,97.46
+sample.py,94.12
+train.py,91.16
+config/eval_gpt2.py,100.00
+config/eval_gpt2_large.py,100.00
+config/eval_gpt2_medium.py,100.00
+config/eval_gpt2_xl.py,100.00
+bench.py,98.85
+LICENSE,100.00
+config/finetune_shakespeare.py,100.00
+data/shakespeare/prepare.py,80.95
+data/shakespeare/readme.md,100.00
+scaling_laws.ipynb,99.91
+configurator.py,100.00
+config/train_shakespeare_char.py,97.73
+data/shakespeare_char/prepare.py,83.75
+data/shakespeare_char/readme.md,100.00
+.gitattributes,100.00
+config/train_gpt2.py,96.15
+transformer_sizing.ipynb,100.00
+.gitignore,50.00

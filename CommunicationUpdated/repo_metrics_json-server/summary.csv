@@ -1,0 +1,85 @@
+Field,Value
+Commits Overview,
+Total Commits,975
+Total Unique Authors,92
+,
+Top 10 Contributors,
+Author,Commits
+typicode,1036
+Typicode,504
+Gleb Bahmutov,12
+Ryan Crosser,8
+Rui Fortes,8
+Béla Varga,7
+Emmanuel Quentin,6
+dependabot[bot],6
+Benjamin Bruneau,5
+Eric Adams,5
+,
+Communication Events,Total: 68
+"Author1,Author2",Events
+"Typicode,typicode",16
+"typicode,Typicode",8
+"Attila Egyed,typicode",2
+"Benjamin Bruneau,typicode",2
+"typicode,Rui Fortes",2
+"typicode,dependabot[bot]",2
+"Joe Spandrusyszyn,typicode",2
+"Dirk Stolle,typicode",2
+"Typicode,Eric Adams",2
+"Peter Kurlak,typicode",2
+"Jonathan Sanford,typicode",2
+"Jonathan Gautheron,typicode",2
+"Béla Varga,typicode",1
+"Ahmed Ayoub,typicode",1
+"Gleb Bahmutov,typicode",1
+"Federico Panico,typicode",1
+"Patrick Heneise,Typicode",1
+"Jan Trienes,typicode",1
+"Eric Adams,typicode",1
+"Daniel Ruf,typicode",1
+"Rui Fortes,ruifortes",1
+"Jonathan Sharpe,typicode",1
+"Justin Vencel,typicode",1
+"Vighnesh K S P,typicode",1
+"typicode,Fady Makram",1
+"dependabot[bot],typicode",1
+"typicode,Cory House",1
+"typicode,Enric Pallerols",1
+"typicode,Jonathan Gautheron",1
+"typicode,Hassan Cissey",1
+"typicode,Filippo Conti",1
+"typicode,Justin Vencel",1
+"typicode,Touhid Arastu",1
+"typicode,Kostas Kapetanakis",1
+"typicode,mareck",1
+"typicode,zhangbiaoguang",1
+,
+Committer Timezone Distribution,Unique Timezones: 13
+Timezone,Commits
++00:00,3
++01:00,372
++02:00,551
++03:00,1
++04:30,1
++06:00,1
++08:00,4
++09:00,13
+-02:00,3
+-04:00,11
+-05:00,8
+-07:00,2
+-08:00,5
+,
+Contributors Experience,Average across 137 files: 89.37%
+File,Top Contributor Share (%)
+public/index.html,100.00
+public/stylesheets/style.css,100.00
+routes/read-only.js,100.00
+test/fixture.js,100.00
+test/read-only.js,100.00
+test/read-write.js,100.00
+test/static.js,100.00
+utils/db-mixins.js,100.00
+utils/logger.js,100.00
+utils/utils.js,100.00

@@ -1,0 +1,49 @@
+Field,Value
+Commits Overview,
+Total Commits,108
+Total Unique Authors,13
+,
+Top 10 Contributors,
+Author,Commits
+Wynn Netherland,1824
+Lorna Jane Mitchell,7
+Mai X,4
+mattjmcnaughton,2
+efuller,2
+Rafal Chmiel,1
+Mathias Lafeldt,1
+Odin Dutton,1
+Thomas de Zeeuw,1
+Matthias Miehl,1
+,
+Communication Events,Total: 3
+"Author1,Author2",Events
+"Odin Dutton,Wynn Netherland",1
+"Wynn Netherland,Odin Dutton",1
+"efuller,Mai X",1
+,
+Committer Timezone Distribution,Unique Timezones: 10
+Timezone,Commits
++00:00,1
++01:00,5
++02:00,1
++10:00,1
+-03:00,1
+-04:00,2
+-05:00,16
+-06:00,76
+-07:00,3
+-08:00,2
+,
+Contributors Experience,Average across 1706 files: 99.92%
+File,Top Contributor Share (%)
+flint,100.00
+LICENSE.md,100.00
+CONTRIBUTING.md,100.00
+script/bootstrap,100.00
+script/test,100.00
+test/fixtures/ghost/script/test,100.00
+test/flint-test.sh,100.00
+test/roundup.sh,100.00
+.travis.yml,100.00
+flint_test.go,100.00

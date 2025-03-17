@@ -1,0 +1,104 @@
+Field,Value
+Commits Overview,
+Total Commits,855
+Total Unique Authors,90
+,
+Top 10 Contributors,
+Author,Commits
+Jesse Duffield,5522
+Dawid Dziurla,881
+Sebastiaan van Stijn,799
+Tony Soloveyv,177
+Rajiv Kushwaha,147
+mjarkk,57
+Quentin McGaw,39
+Gustavo Andrioli,35
+glendsoza,28
+lazydocker bot,24
+,
+Communication Events,Total: 100
+"Author1,Author2",Events
+"Jesse Duffield,mjarkk",8
+"Dawid Dziurla,Jesse Duffield",7
+"Jesse Duffield,glendsoza",5
+"Gustavo Andrioli,Jesse Duffield",5
+"Jesse Duffield,Luka Markušić",4
+"Jesse Duffield,Gustavo Andrioli",4
+"Jesse Duffield,README-bot",3
+"README-bot,Jesse Duffield",3
+"mjarkk,Jesse Duffield",3
+"Jesse Duffield,lazydocker bot",3
+"lazydocker bot,mjarkk",3
+"Jesse Duffield,Callum McIntyre",2
+"Martin Cross,tiagovla",2
+"Jesse Duffield,Charlie Moog",2
+"Charlie Moog,Jesse Duffield",2
+"Paul Reichelt,Dawid Dziurla",2
+"mjarkk,Dowideit, Sven (O&A, St. Lucia)",2
+"mjarkk,Dawid Dziurla",2
+"Rdkang,Martin Cross",2
+"Quentin McGaw,Jesse Duffield",2
+"Jesse Duffield,Quentin McGaw",2
+"Oguzcan Demircan,Oğuzcan Demircan",2
+"Jesse Duffield,Immánuel!",1
+"Jan Krüger,Jesse Duffield",1
+"Devin,Quentin McGaw",1
+"Jesse Duffield,Dawid Dziurla",1
+"Jan Krüger,Mark Kopenga",1
+"Immánuel!,immanuelfodor",1
+"Dawid Dziurla,mjarkk",1
+"Derk Vedelaar,Jesse Duffield",1
+"Dawid Dziurla,Quentin McGaw",1
+"Dawid Dziurla,Pieter van de Bruggen",1
+"Camron Flanders,Conor",1
+"Immánuel!,Mikhail Swift",1
+"Immánuel!,Quentin McGaw",1
+"Jesse Duffield,Martin Cross",1
+"Oğuzcan Demircan,Jesse Duffield",1
+"Oğuzcan Demircan,Dawid Dziurla",1
+"Mikhail Swift,Devin",1
+"Jonas Helgemo,README-bot",1
+"John Chavez,Rdkang",1
+"Jesse Duffield,Pieter van de Bruggen",1
+"Jesse Duffield,Stefan Wendhausen",1
+"Jesse Duffield,haoyun",1
+"Rajiv Kushwaha,Jesse Duffield",1
+"README-bot,guangwu",1
+"Quentin McGaw,Dawid Dziurla",1
+"Quentin McGaw,Immánuel!",1
+"immanuelfodor,Immánuel!",1
+"github-actions[bot],Jesse Duffield",1
+"dhax,Jesse Duffield",1
+"mjarkk,Mark Kopenga",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,42
++01:00,40
++02:00,174
++03:00,13
++05:30,9
++08:00,14
++09:00,3
++10:00,363
++11:00,114
++12:00,2
++13:00,1
+-03:00,12
+-04:00,2
+-05:00,2
+-06:00,10
+-07:00,54
+,
+Contributors Experience,Average across 2622 files: 95.22%
+File,Top Contributor Share (%)
+CODE-OF-CONDUCT.md,100.00
+CONTRIBUTING.md,100.00
+Gopkg.toml,100.00
+LICENSE,100.00
+pkg/commands/errors.go,100.00
+pkg/commands/exec_live_default.go,100.00
+pkg/commands/exec_live_win.go,100.00
+pkg/config/config_linux.go,100.00
+pkg/config/config_windows.go,100.00
+pkg/gui/app_status_manager.go,100.00

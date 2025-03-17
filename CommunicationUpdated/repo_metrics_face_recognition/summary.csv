@@ -1,0 +1,56 @@
+Field,Value
+Commits Overview,
+Total Commits,238
+Total Unique Authors,54
+,
+Top 10 Contributors,
+Author,Commits
+Adam Geitgey,282
+itamar8910,16
+Enric Moreu,12
+Santiago Castro,12
+Anand Baburajan,11
+Marcus Medley,7
+Corban Villa,7
+Tommy in Tongji,6
+YumiLee,4
+Abdolkarim Saeedi,4
+,
+Communication Events,Total: 8
+"Author1,Author2",Events
+"Emanuel Haupt,Miki",1
+"Enric Moreu,enric",1
+"Guillaume 'Vermeille' Sanchez,Adam Geitgey",1
+"Jakub Jurových,Adam Geitgey",1
+"Miki,Adam Geitgey",1
+"Santiago Castro,Adam Geitgey",1
+"Tommy in Tongji,Adam Geitgey",1
+"enric,Enric Moreu",1
+,
+Committer Timezone Distribution,Unique Timezones: 12
+Timezone,Commits
++00:00,28
++01:00,62
++02:00,7
++03:00,1
++05:30,3
++08:00,1
++10:00,1
+-03:00,1
+-05:00,2
+-06:00,3
+-07:00,101
+-08:00,28
+,
+Contributors Experience,Average across 77 files: 95.00%
+File,Top Contributor Share (%)
+.editorconfig,100.00
+.gitignore,100.00
+AUTHORS.rst,100.00
+HISTORY.rst,100.00
+MANIFEST.in,100.00
+Makefile,100.00
+README.rst,100.00
+docs/Makefile,100.00
+docs/authors.rst,100.00
+docs/conf.py,100.00

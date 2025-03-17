@@ -1,0 +1,854 @@
+file,author1,author2,time1,time2
+.github/workflows/ci.yml,Certseeds,dependabot[bot],2022-05-09 07:20:44-07:00,2022-05-09 08:17:14-07:00
+.github/workflows/ci.yml,Varun Sharma,dependabot[bot],2022-07-13 09:26:29-07:00,2022-07-13 10:07:50-07:00
+.github/workflows/ci.yml,dependabot[bot],Sam Gammon,2024-03-12 09:30:49-07:00,2024-03-12 13:26:18-07:00
+.github/workflows/ci.yml,Sam Gammon,dependabot[bot],2024-03-12 13:26:18-07:00,2024-03-13 09:48:43-07:00
+.github/workflows/ci.yml,dependabot[bot],cpovirk,2024-03-13 09:48:43-07:00,2024-03-13 13:54:35-07:00
+.github/workflows/ci.yml,cpovirk,dependabot[bot],2024-03-13 13:54:35-07:00,2024-03-14 09:33:10-07:00
+.github/workflows/scorecard.yml,cpovirk,Éamonn McManus,2023-03-27 11:08:55-07:00,2023-03-28 10:57:39-07:00
+.gitignore,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 04:30:35+00:00,2011-07-14 17:59:02+00:00
+.travis.yml,Jochen Schalanda,cgdecker,2014-11-05 15:56:37-05:00,2014-11-06 13:50:40-05:00
+.travis.yml,cgdecker,Liam Miller-Cushon,2016-11-03 13:43:06-07:00,2016-11-04 07:01:08-07:00
+README.md,cgdecker,Joshua O'Madadhain,2016-10-28 17:36:15-04:00,2016-10-28 18:39:59-07:00
+README.md,Joshua O'Madadhain,cgdecker,2016-10-28 18:39:59-07:00,2016-10-29 07:25:34-07:00
+README.md,cgdecker,cpovirk,2017-12-21 10:35:22-08:00,2017-12-21 14:24:27-08:00
+README.md,Jendrik Johannes,cpovirk,2019-10-28 10:49:42-04:00,2019-10-28 10:49:42-04:00
+README.md,Michael Vorburger,Chaoren Lin,2025-01-06 09:04:31-08:00,2025-01-06 14:34:25-08:00
+android/guava-testlib/src/com/google/common/collect/testing/AbstractContainerTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/AbstractIteratorTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/AbstractMapTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/DerivedCollectionGenerators.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/OneSizeGenerator.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/google/MultisetIteratorTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/CollectionAddAllTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/CollectionAddTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/ListAddAtIndexTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/ListAddTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/ListSubListTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/MapPutAllTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/collect/testing/testers/MapPutTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+android/guava-testlib/src/com/google/common/testing/FreshValueGenerator.java,jijiang,cpovirk,2017-08-17 11:34:19-07:00,2017-08-18 06:18:14-07:00
+android/guava-testlib/src/com/google/common/testing/NullPointerTester.java,cpovirk,Éamonn McManus,2021-04-05 13:54:57-07:00,2021-04-06 11:50:39-07:00
+android/guava-testlib/src/com/google/common/testing/TestLogHandler.java,Stefan Haustein,cpovirk,2024-06-21 03:19:29-07:00,2024-06-21 13:53:25-07:00
+android/guava-testlib/src/com/google/common/util/concurrent/testing/AbstractListenableFutureTest.java,cpovirk,Éamonn McManus,2023-09-06 09:36:03-07:00,2023-09-06 11:30:30-07:00
+android/guava-testlib/src/com/google/common/util/concurrent/testing/TestingExecutors.java,Google Java Core Libraries,cpovirk,2022-11-15 08:26:34-08:00,2022-11-15 13:38:09-08:00
+android/guava-testlib/test/com/google/common/collect/testing/MapTestSuiteBuilderTests.java,Éamonn McManus,cpovirk,2021-08-18 15:49:45-07:00,2021-08-19 09:44:03-07:00
+android/guava-tests/benchmark/com/google/common/primitives/UnsignedBytesBenchmark.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/benchmark/com/google/common/primitives/UnsignedLongsBenchmark.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/base/FinalizableReferenceQueueTest.java,Éamonn McManus,cpovirk,2024-12-12 07:03:48-08:00,2024-12-12 08:28:39-08:00
+android/guava-tests/test/com/google/common/base/SuppliersTest.java,Google Java Core Libraries,cpovirk,2022-04-27 07:41:44-07:00,2022-04-27 08:41:25-07:00
+android/guava-tests/test/com/google/common/base/SuppliersTest.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+android/guava-tests/test/com/google/common/collect/AbstractImmutableSetTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/AbstractImmutableSetTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/ComparatorsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/HashBiMapTest.java,lowasser,cpovirk,2017-12-04 08:21:11-08:00,2017-12-04 09:37:03-08:00
+android/guava-tests/test/com/google/common/collect/ImmutableBiMapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 08:07:46-08:00
+android/guava-tests/test/com/google/common/collect/ImmutableBiMapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 08:07:46-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/ImmutableMultimapTest.java,Google Java Core Libraries,lowasser,2024-08-06 04:11:28-07:00,2024-08-06 10:52:51-07:00
+android/guava-tests/test/com/google/common/collect/ImmutableSetTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/ImmutableSortedMapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/ImmutableSortedMapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/ImmutableSortedSetTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/IterablesTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/IterablesTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/IterablesTest.java,Martin Kretzschmar,cpovirk,2024-02-28 07:21:25-08:00,2024-02-28 08:34:49-08:00
+android/guava-tests/test/com/google/common/collect/IteratorsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/IteratorsTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/LinkedHashMultimapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/LinkedHashMultimapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/LinkedListMultimapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/LinkedListMultimapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/ListsImplTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/ListsImplTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/ListsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/MapsTest.java,XenoAmess,cpovirk,2022-03-22 07:14:01-07:00,2022-03-22 11:45:45-07:00
+android/guava-tests/test/com/google/common/collect/MapsTest.java,cpovirk,Google Java Core Libraries,2022-03-22 11:45:45-07:00,2022-03-23 06:58:34-07:00
+android/guava-tests/test/com/google/common/collect/MultimapsTest.java,cpovirk,jijiang,2017-08-18 07:42:49-07:00,2017-08-18 09:21:44-07:00
+android/guava-tests/test/com/google/common/collect/MultimapsTest.java,Martin Kretzschmar,cpovirk,2024-02-28 08:06:05-08:00,2024-02-28 08:34:49-08:00
+android/guava-tests/test/com/google/common/collect/OrderingTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/OrderingTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+android/guava-tests/test/com/google/common/collect/SetsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+android/guava-tests/test/com/google/common/collect/SynchronizedSetTest.java,Stefan Haustein,cpovirk,2024-06-21 03:19:29-07:00,2024-06-21 13:53:25-07:00
+android/guava-tests/test/com/google/common/collect/TableCollectionTest.java,cpovirk,jijiang,2017-08-18 07:42:49-07:00,2017-08-18 09:21:44-07:00
+android/guava-tests/test/com/google/common/hash/AbstractNonStreamingHashFunctionTest.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava-tests/test/com/google/common/hash/AbstractStreamingHasherTest.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava-tests/test/com/google/common/hash/Crc32cHashFunctionTest.java,kak,lowasser,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+android/guava-tests/test/com/google/common/hash/Crc32cHashFunctionTest.java,lowasser,kak,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+android/guava-tests/test/com/google/common/hash/HashTestUtils.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava-tests/test/com/google/common/io/ByteStreamsTest.java,cpovirk,cgdecker,2018-03-22 11:40:30-04:00,2018-03-22 17:49:16-04:00
+android/guava-tests/test/com/google/common/math/QuantilesTest.java,Nhat Dinh,Hari Menon,2019-10-02 12:48:49-04:00,2019-10-02 13:48:44-04:00
+android/guava-tests/test/com/google/common/net/HttpHeadersTest.java,zhenghua,clawr,2017-04-20 19:27:51-07:00,2017-04-21 10:06:14-07:00
+android/guava-tests/test/com/google/common/net/InetAddressesTest.java,kak,dpb,2019-11-13 11:02:18-05:00,2019-11-13 13:47:32-05:00
+android/guava-tests/test/com/google/common/net/InetAddressesTest.java,dpb,moodysalem,2019-11-13 13:47:32-05:00,2019-11-14 13:08:22-05:00
+android/guava-tests/test/com/google/common/net/InetAddressesTest.java,moodysalem,kak,2019-11-14 13:08:22-05:00,2019-11-14 13:08:22-05:00
+android/guava-tests/test/com/google/common/primitives/AndroidIncompatible.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/BooleansTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/ByteArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/BytesTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/CharArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/CharsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/DoubleArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/DoublesTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/FloatArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/FloatsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/ImmutableIntArrayTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/ImmutableIntArrayTest.java,ronshapiro,kevinb,2017-04-24 08:56:09-07:00,2017-04-24 10:00:49-07:00
+android/guava-tests/test/com/google/common/primitives/IntArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/IntsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/LongArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/LongsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/LongsTest.java,Google Java Core Libraries,cpovirk,2024-12-27 07:34:19-08:00,2024-12-27 08:19:35-08:00
+android/guava-tests/test/com/google/common/primitives/PackageSanityTests.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/PrimitivesTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/ShortArrayAsListTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/ShortsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/SignedBytesTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/UnsignedBytesTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/UnsignedIntegerTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/UnsignedIntsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/UnsignedLongTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/primitives/UnsignedLongsTest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava-tests/test/com/google/common/reflect/MutableTypeToInstanceMapTest.java,Kurt Alfred Kluever,cpovirk,2024-02-21 10:32:41-08:00,2024-02-22 09:15:24-08:00
+android/guava-tests/test/com/google/common/util/concurrent/AbstractFutureTest.java,cpovirk,jijiang,2017-08-18 06:32:19-07:00,2017-08-18 09:17:46-07:00
+android/guava-tests/test/com/google/common/util/concurrent/AbstractFutureTest.java,lukes,cpovirk,2018-09-12 16:07:09-04:00,2018-09-12 17:42:09-04:00
+android/guava-tests/test/com/google/common/util/concurrent/ExecutionSequencerTest.java,clm,binxu,2018-07-31 09:38:10-04:00,2018-07-31 09:38:10-04:00
+android/guava-tests/test/com/google/common/util/concurrent/ExecutionSequencerTest.java,clm,cpovirk,2020-06-17 11:32:18-04:00,2020-06-18 10:23:03-04:00
+android/guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,dlorant,cpovirk,2017-12-04 06:01:56-08:00,2017-12-04 09:37:03-08:00
+android/guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,clm,cpovirk,2019-05-28 10:48:46-04:00,2019-05-28 10:48:46-04:00
+android/guava-tests/test/com/google/common/util/concurrent/JSR166TestCase.java,Kurt Alfred Kluever,cpovirk,2024-02-21 10:32:41-08:00,2024-02-22 09:15:24-08:00
+android/guava-tests/test/com/google/common/util/concurrent/SequentialExecutorTest.java,yorick,cpovirk,2017-11-01 13:43:54-07:00,2017-11-02 12:13:37-07:00
+android/guava-tests/test/com/google/common/util/concurrent/SequentialExecutorTest.java,ghm,cpovirk,2020-03-16 12:26:01-04:00,2020-03-16 13:51:57-04:00
+android/guava-tests/test/com/google/common/util/concurrent/SupplementalMonitorTest.java,cpovirk,jijiang,2017-08-18 07:42:49-07:00,2017-08-18 09:17:46-07:00
+android/guava/src/com/google/common/base/CharMatcher.java,mscherer,cgdecker,2017-10-11 09:45:24-07:00,2017-10-11 14:11:02-07:00
+android/guava/src/com/google/common/base/CharMatcher.java,cgdecker,mscherer,2017-10-11 14:11:02-07:00,2017-10-12 08:47:18-07:00
+android/guava/src/com/google/common/base/Converter.java,Éamonn McManus,Google Java Core Libraries,2022-02-26 11:06:46-08:00,2022-02-26 12:21:52-08:00
+android/guava/src/com/google/common/base/IgnoreJRERequirement.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+android/guava/src/com/google/common/base/Internal.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+android/guava/src/com/google/common/base/MoreObjects.java,Kurt Alfred Kluever,cpovirk,2024-10-09 14:19:18-07:00,2024-10-10 08:41:27-07:00
+android/guava/src/com/google/common/base/Preconditions.java,cpovirk,Google Java Core Libraries,2024-04-10 19:12:32-07:00,2024-04-10 21:58:32-07:00
+android/guava/src/com/google/common/base/Predicates.java,cgdecker,kak,2018-01-22 17:34:57-05:00,2018-01-23 13:41:18-05:00
+android/guava/src/com/google/common/base/Splitter.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/base/Strings.java,diamondm,cgdecker,2018-05-23 13:29:36-04:00,2018-05-23 13:31:51-04:00
+android/guava/src/com/google/common/base/Suppliers.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+android/guava/src/com/google/common/cache/CacheBuilder.java,cpovirk,Kurt Alfred Kluever,2021-04-19 09:18:02-07:00,2021-04-19 10:58:39-07:00
+android/guava/src/com/google/common/cache/CacheBuilder.java,Kurt Alfred Kluever,cpovirk,2021-04-19 13:23:02-07:00,2021-04-19 14:26:47-07:00
+android/guava/src/com/google/common/cache/CacheBuilder.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+android/guava/src/com/google/common/cache/CacheLoader.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+android/guava/src/com/google/common/cache/CacheStats.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+android/guava/src/com/google/common/cache/LocalCache.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+android/guava/src/com/google/common/collect/AbstractMapBasedMultimap.java,Oleksii Bondar,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/collect/AbstractMapBasedMultiset.java,cnsun,lowasser,2018-01-03 07:05:39-08:00,2018-01-03 13:32:36-08:00
+android/guava/src/com/google/common/collect/AbstractMapBasedMultiset.java,lowasser,cnsun,2018-01-03 13:32:36-08:00,2018-01-03 14:09:28-08:00
+android/guava/src/com/google/common/collect/AbstractMultiset.java,lowasser,cnsun,2018-01-02 13:54:00-08:00,2018-01-03 13:52:13-08:00
+android/guava/src/com/google/common/collect/CompactHashMap.java,lowasser,cpovirk,2019-12-23 11:59:39-05:00,2019-12-23 11:59:39-05:00
+android/guava/src/com/google/common/collect/EmptyContiguousSet.java,Oleksii Bondar,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/collect/EnumMultiset.java,lowasser,cushon,2017-09-11 10:51:42-07:00,2017-09-11 17:27:11-07:00
+android/guava/src/com/google/common/collect/EnumMultiset.java,cushon,lowasser,2017-09-11 17:27:11-07:00,2017-09-11 17:30:11-07:00
+android/guava/src/com/google/common/collect/HashBiMap.java,lowasser,cpovirk,2017-12-04 08:21:11-08:00,2017-12-04 09:48:33-08:00
+android/guava/src/com/google/common/collect/ImmutableMultiset.java,cpovirk,lowasser,2018-02-08 15:06:25-05:00,2018-02-09 13:20:30-05:00
+android/guava/src/com/google/common/collect/ImmutableSet.java,cpovirk,lowasser,2018-02-08 15:06:25-05:00,2018-02-09 13:20:30-05:00
+android/guava/src/com/google/common/collect/Maps.java,cpovirk,Stephan Schroevers,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/collect/Maps.java,XenoAmess,Google Java Core Libraries,2022-03-22 07:14:01-07:00,2022-03-23 06:58:34-07:00
+android/guava/src/com/google/common/collect/Maps.java,Éamonn McManus,cpovirk,2023-01-19 12:46:37-08:00,2023-01-19 13:29:44-08:00
+android/guava/src/com/google/common/collect/Maps.java,cpovirk,Google Java Core Libraries,2024-06-25 13:01:05-07:00,2024-06-25 14:08:09-07:00
+android/guava/src/com/google/common/collect/MultimapBuilder.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/collect/Multimaps.java,lowasser,cnsun,2017-12-27 13:30:03-08:00,2017-12-27 19:07:28-08:00
+android/guava/src/com/google/common/collect/Sets.java,Tiramisu Mokka,cpovirk,2023-06-26 07:51:21-07:00,2023-06-26 14:02:13-07:00
+android/guava/src/com/google/common/collect/Synchronized.java,cpovirk,Éamonn McManus,2021-08-04 17:40:25-07:00,2021-08-04 19:32:36-07:00
+android/guava/src/com/google/common/eventbus/EventBus.java,cpovirk,Colin Decker,2021-04-19 12:44:33-07:00,2021-04-19 13:44:40-07:00
+android/guava/src/com/google/common/graph/Graphs.java,cgdecker,kak,2018-01-22 17:34:57-05:00,2018-01-23 07:31:13-05:00
+android/guava/src/com/google/common/graph/Traverser.java,jrtom,jnyman,2017-09-22 06:53:41-07:00,2017-09-22 10:34:31-07:00
+android/guava/src/com/google/common/hash/AbstractByteHasher.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/AbstractCompositeHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/AbstractHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/AbstractNonStreamingHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/AbstractStreamingHasher.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/BloomFilter.java,karthik.bhat,David P. Baker,2022-01-11 11:36:22-08:00,2022-01-12 08:20:35-08:00
+android/guava/src/com/google/common/hash/Crc32cHashFunction.java,lowasser,kak,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+android/guava/src/com/google/common/hash/HashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/Hasher.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/MacHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/MessageDigestHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/hash/PrimitiveSink.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+android/guava/src/com/google/common/io/ByteSink.java,cpovirk,Google Java Core Libraries,2024-10-21 09:03:37-07:00,2024-10-21 10:44:34-07:00
+android/guava/src/com/google/common/io/ByteSource.java,Colin Decker,Andrey Turbanov,2021-04-19 10:28:08-07:00,2021-04-19 13:08:17-07:00
+android/guava/src/com/google/common/io/ByteStreams.java,cpovirk,cgdecker,2018-03-22 11:40:30-04:00,2018-03-22 17:49:16-04:00
+android/guava/src/com/google/common/io/ByteStreams.java,Oleksii Bondar,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/io/ByteStreams.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/io/ByteStreams.java,Stefan Haustein,cpovirk,2025-02-26 13:10:23-08:00,2025-02-26 14:25:02-08:00
+android/guava/src/com/google/common/io/CharSink.java,cpovirk,Google Java Core Libraries,2024-10-21 09:03:37-07:00,2024-10-21 10:44:34-07:00
+android/guava/src/com/google/common/io/Files.java,cgdecker,jnyman,2017-11-13 14:25:32-08:00,2017-11-14 10:51:25-08:00
+android/guava/src/com/google/common/math/LongMath.java,irogers,cpovirk,2020-10-16 10:00:24-04:00,2020-10-16 15:26:19-04:00
+android/guava/src/com/google/common/math/Quantiles.java,Nhat Dinh,Hari Menon,2019-10-02 12:48:49-04:00,2019-10-02 13:48:44-04:00
+android/guava/src/com/google/common/net/HttpHeaders.java,zhenghua,clawr,2017-04-20 19:27:51-07:00,2017-04-21 10:06:14-07:00
+android/guava/src/com/google/common/net/HttpHeaders.java,xingx,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/net/HttpHeaders.java,cushon,lukes,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/net/HttpHeaders.java,mkbehr,kak,2019-04-29 11:41:55-04:00,2019-04-29 11:41:55-04:00
+android/guava/src/com/google/common/net/HttpHeaders.java,cgdecker,ralucaradu,2019-10-02 11:59:44-04:00,2019-10-02 11:59:44-04:00
+android/guava/src/com/google/common/net/HttpHeaders.java,clap,Tiago Grosso,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+android/guava/src/com/google/common/net/HttpHeaders.java,cpovirk,Google Java Core Libraries,2022-02-28 13:00:54-08:00,2022-03-01 08:45:35-08:00
+android/guava/src/com/google/common/net/InetAddresses.java,moodysalem,kak,2019-11-14 13:08:22-05:00,2019-11-14 13:08:22-05:00
+android/guava/src/com/google/common/net/InetAddresses.java,kak,cpovirk,2019-11-14 13:08:22-05:00,2019-11-14 13:08:22-05:00
+android/guava/src/com/google/common/net/MediaType.java,edric,cpovirk,2018-02-13 12:36:18-05:00,2018-02-13 13:28:51-05:00
+android/guava/src/com/google/common/net/MediaType.java,cpovirk,chriscallahan,2019-10-10 09:48:24-04:00,2019-10-10 09:48:24-04:00
+android/guava/src/com/google/common/primitives/Booleans.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Bytes.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Chars.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Doubles.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Floats.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/ImmutableDoubleArray.java,cushon,kevinb,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/primitives/ImmutableIntArray.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/ImmutableIntArray.java,cpovirk,kevinb,2017-04-24 08:28:47-07:00,2017-04-24 10:00:49-07:00
+android/guava/src/com/google/common/primitives/ImmutableIntArray.java,cushon,kevinb,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/primitives/ImmutableLongArray.java,cushon,kevinb,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+android/guava/src/com/google/common/primitives/Ints.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Ints.java,Google Java Core Libraries,cpovirk,2022-04-22 10:51:56-07:00,2022-04-22 11:48:23-07:00
+android/guava/src/com/google/common/primitives/Longs.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/ParseRequest.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Primitives.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Shorts.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/Shorts.java,cnsun,cpovirk,2017-12-13 10:46:40-08:00,2017-12-13 15:19:46-08:00
+android/guava/src/com/google/common/primitives/SignedBytes.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/UnsignedBytes.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/UnsignedInteger.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/UnsignedInts.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/UnsignedLong.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/UnsignedLongs.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/primitives/package-info.java,zhenghua,ronshapiro,2017-04-20 19:27:51-07:00,2017-04-21 12:03:30-07:00
+android/guava/src/com/google/common/reflect/ClassPath.java,benyu,glorioso,2020-10-26 08:59:40-05:00,2020-10-26 13:12:30-05:00
+android/guava/src/com/google/common/reflect/Invokable.java,Kurt Alfred Kluever,cpovirk,2023-04-10 14:00:23-07:00,2023-04-10 14:29:51-07:00
+android/guava/src/com/google/common/reflect/Types.java,jijiang,cpovirk,2017-08-17 11:34:19-07:00,2017-08-18 06:18:14-07:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,clm,cpovirk,2017-07-06 05:44:26-07:00,2017-07-06 08:52:31-07:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,diamondm,2017-07-06 08:52:31-07:00,2017-07-07 08:27:52-07:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,lukes,2017-07-20 14:08:47-07:00,2017-07-21 12:02:16-07:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,lukes,sumir,2018-08-06 22:17:49-04:00,2018-08-06 22:17:49-04:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,sumir,sergeyv,2018-08-06 22:17:49-04:00,2018-08-06 22:17:49-04:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,clm,cpovirk,2018-08-16 18:28:58-04:00,2018-08-16 18:28:58-04:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,sergeyv,2018-08-16 18:28:58-04:00,2018-08-16 18:28:58-04:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,lukes,cpovirk,2018-09-12 16:07:09-04:00,2018-09-12 17:42:09-04:00
+android/guava/src/com/google/common/util/concurrent/AbstractFuture.java,Google Java Core Libraries,cpovirk,2024-10-08 11:20:53-07:00,2024-10-08 12:36:35-07:00
+android/guava/src/com/google/common/util/concurrent/AggregateFuture.java,cpovirk,Google Java Core Libraries,2024-06-24 08:32:36-07:00,2024-06-24 16:58:34-07:00
+android/guava/src/com/google/common/util/concurrent/ClosingFuture.java,dpb,glorioso,2020-09-15 11:52:12-05:00,2020-09-15 11:52:12-05:00
+android/guava/src/com/google/common/util/concurrent/ClosingFuture.java,wanyingd,cpovirk,2020-10-16 10:00:24-04:00,2020-10-16 15:26:19-04:00
+android/guava/src/com/google/common/util/concurrent/ExecutionSequencer.java,clm,binxu,2018-07-31 09:38:10-04:00,2018-07-31 09:38:10-04:00
+android/guava/src/com/google/common/util/concurrent/ExecutionSequencer.java,clm,cgdecker,2018-08-01 16:02:38-04:00,2018-08-01 17:27:35-04:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,Jonathan Bluett-Duncan,2017-08-10 11:44:26-07:00,2017-08-11 09:34:33-07:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,chrisn,cpovirk,2017-09-19 12:58:56-07:00,2017-09-19 12:59:05-07:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,cgdecker,cpovirk,2017-09-27 10:54:54-07:00,2017-09-27 13:42:02-07:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,dlorant,cpovirk,2017-12-04 06:01:56-08:00,2017-12-04 09:37:03-08:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,kak,cgdecker,2018-10-18 13:35:23-04:00,2018-10-18 13:41:09-04:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,jonathansun,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,jonathansun,cpovirk,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+android/guava/src/com/google/common/util/concurrent/Futures.java,Google Java Core Libraries,Andrey Turbanov,2021-04-19 08:39:06-07:00,2021-04-19 13:08:17-07:00
+android/guava/src/com/google/common/util/concurrent/ImmediateFuture.java,cpovirk,jonathansun,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+android/guava/src/com/google/common/util/concurrent/ImmediateFuture.java,jonathansun,cpovirk,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+android/guava/src/com/google/common/util/concurrent/LazyLogger.java,Stefan Haustein,cpovirk,2024-06-21 03:19:29-07:00,2024-06-21 13:53:25-07:00
+android/guava/src/com/google/common/util/concurrent/MoreExecutors.java,cpovirk,yorick,2017-08-18 06:18:14-07:00,2017-08-18 14:04:28-07:00
+android/guava/src/com/google/common/util/concurrent/MoreExecutors.java,cpovirk,Stefan Haustein,2025-02-11 13:04:02-08:00,2025-02-12 09:47:46-08:00
+android/guava/src/com/google/common/util/concurrent/SimpleTimeLimiter.java,jnyman,madrake,2017-12-01 06:56:54-08:00,2017-12-01 11:08:48-08:00
+android/guava/src/com/google/common/util/concurrent/TimeoutFuture.java,clm,sergeyv,2018-08-16 18:28:58-04:00,2018-08-16 18:28:58-04:00
+android/pom.xml,cpovirk,dpb,2017-11-30 14:32:43-08:00,2017-12-01 08:53:39-08:00
+android/pom.xml,dpb,cgdecker,2017-12-01 08:53:39-08:00,2017-12-01 14:20:55-08:00
+android/pom.xml,William Collishaw,cgdecker,2019-05-08 10:35:07-04:00,2019-05-08 10:35:07-04:00
+android/pom.xml,William Collishaw,Vincent Privat,2019-05-28 10:48:46-04:00,2019-05-28 10:48:46-04:00
+android/pom.xml,Vincent Privat,https://github.com/WilliamCollishaw,2019-05-28 10:48:46-04:00,2019-05-28 10:48:46-04:00
+android/pom.xml,cgdecker,William Collishaw,2019-06-30 10:58:49-04:00,2019-06-30 10:58:49-04:00
+android/pom.xml,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+android/pom.xml,Liam Miller-Cushon,Sam Gammon,2024-03-12 12:45:26-07:00,2024-03-12 13:26:18-07:00
+android/pom.xml,cpovirk,Chaoren Lin,2025-01-15 13:11:57-08:00,2025-01-15 15:07:00-08:00
+guava-gwt/pom.xml,haustein,dshaffer,2019-08-30 11:51:44-04:00,2019-08-30 11:51:44-04:00
+guava-gwt/pom.xml,haustein,cpovirk,2019-09-23 13:19:50-07:00,2019-09-23 13:19:50-07:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/DescendingMultiset.java,Julien Dramaix,cpovirk,2024-01-23 10:43:40-08:00,2024-01-24 08:03:45-08:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/FluentIterable.java,kevinb,cpovirk,2015-06-01 13:33:57-04:00,2015-06-02 13:05:52-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ForwardingImmutableMap.java,Julien Dramaix,cpovirk,2024-01-23 10:43:40-08:00,2024-01-24 08:03:45-08:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableCollection.java,lowasser,cpovirk,2017-12-04 08:21:11-08:00,2017-12-04 09:37:03-08:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableMultimap.java,lowasser,cpovirk,2015-08-13 03:54:06-07:00,2015-08-13 10:21:10-07:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableMultiset.java,kevinb,lowasser,2015-03-23 13:58:01-04:00,2015-03-23 14:20:32-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableMultiset.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:28:53-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableMultiset.java,lowasser,kevinb,2015-04-14 16:28:53-04:00,2015-04-14 16:29:11-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableSetMultimap.java,lowasser,cpovirk,2015-08-13 03:54:06-07:00,2015-08-13 10:21:10-07:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableSortedMap.java,Julien Dramaix,cpovirk,2024-01-23 10:43:40-08:00,2024-01-24 08:03:45-08:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/ImmutableSortedSet.java,Julien Dramaix,cpovirk,2024-01-23 10:43:40-08:00,2024-01-24 08:03:45-08:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Iterables.java,lowasser,kevinb,2015-04-14 16:28:40-04:00,2015-04-14 16:29:11-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Iterators.java,lowasser,kevinb,2015-04-14 16:28:40-04:00,2015-04-14 16:29:11-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Lists.java,lowasser,kevinb,2015-04-14 16:28:27-04:00,2015-04-14 16:29:11-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Maps.java,kak,kevinb,2015-04-14 16:25:01-04:00,2015-04-14 16:29:11-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Multimaps.java,kak,kevinb,2015-04-14 16:25:01-04:00,2015-04-14 16:29:11-04:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Platform.java,kak,cpovirk,2015-08-07 08:53:56-07:00,2015-08-07 12:43:00-07:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Platform.java,cpovirk,michaelthomas,2015-12-07 12:39:39-05:00,2015-12-07 16:12:20-05:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Platform.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/TreeTraverser.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,gridman,2015-01-29 16:16:36-05:00,2015-01-29 16:16:36-05:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,cpovirk,lukes,2015-01-29 14:22:46-05:00,2015-01-29 14:27:32-05:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,lukes,gridman,2015-01-29 14:45:00-05:00,2015-01-29 16:16:35-05:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,gridman,cpovirk,2015-01-29 16:16:35-05:00,2015-01-29 16:16:36-05:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,cpovirk,gridman,2015-01-29 16:16:36-05:00,2015-01-29 16:16:36-05:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,lukes,cpovirk,2015-02-19 11:23:18-05:00,2015-02-19 11:23:54-05:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,kak,svas,2015-04-14 16:25:11-04:00,2015-04-14 16:25:35-04:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,cpovirk,cgdecker,2015-06-08 15:00:38-04:00,2015-06-08 15:01:34-04:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/Futures.java,nharmata,cpovirk,2015-09-28 11:20:56-04:00,2015-09-28 11:24:11-04:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/ListenableFuture.java,haustein,dshaffer,2019-08-30 11:51:44-04:00,2019-08-30 11:51:44-04:00
+guava-gwt/src-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/ListenableFuture.java,haustein,cpovirk,2019-09-23 13:19:50-07:00,2019-09-23 13:19:50-07:00
+guava-gwt/src-super/java/lang/super/java/lang/InterruptedException.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/CancellationException.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/ConcurrentHashMap.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/Delayed.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/ExecutionException.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/Executor.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/Executors.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/Future.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/RejectedExecutionException.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/RunnableFuture.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/ScheduledFuture.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/TimeUnit.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/TimeoutException.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/atomic/AtomicBoolean.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/atomic/AtomicInteger.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src-super/java/util/super/java/util/concurrent/atomic/AtomicLong.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/annotations/Annotations.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/base/Base.gwt.xml,goktug,tap-prod,2019-02-14 09:36:42-05:00,2019-02-14 09:37:49-05:00
+guava-gwt/src/com/google/common/base/Base.gwt.xml,xingx,tomxlee,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/base/Base.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/cache/Cache.gwt.xml,goktug,tap-prod,2019-02-14 09:36:42-05:00,2019-02-14 09:37:49-05:00
+guava-gwt/src/com/google/common/cache/Cache.gwt.xml,xingx,tomxlee,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/cache/Cache.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/collect/Collect.gwt.xml,goktug,tap-prod,2019-02-14 09:36:42-05:00,2019-02-14 09:37:49-05:00
+guava-gwt/src/com/google/common/collect/Collect.gwt.xml,tap-prod,goktug,2019-02-14 09:37:49-05:00,2019-02-14 12:16:18-05:00
+guava-gwt/src/com/google/common/collect/Collect.gwt.xml,xingx,tomxlee,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/collect/Collect.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/collect/Collect.gwt.xml,Google Java Core Libraries,cpovirk,2021-03-22 09:33:03-07:00,2021-03-23 09:13:52-07:00
+guava-gwt/src/com/google/common/escape/Escape.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/html/Html.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/io/Io.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/math/Math.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/net/Net.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/primitives/Primitives.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/util/concurrent/Concurrent.gwt.xml,goktug,tap-prod,2019-02-14 09:36:42-05:00,2019-02-14 09:37:49-05:00
+guava-gwt/src/com/google/common/util/concurrent/Concurrent.gwt.xml,tap-prod,goktug,2019-02-14 09:37:49-05:00,2019-02-14 12:16:18-05:00
+guava-gwt/src/com/google/common/util/concurrent/Concurrent.gwt.xml,xingx,tomxlee,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/util/concurrent/Concurrent.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/common/util/concurrent/Concurrent.gwt.xml,haustein,dshaffer,2019-08-30 11:51:44-04:00,2019-08-30 11:51:44-04:00
+guava-gwt/src/com/google/common/util/concurrent/Concurrent.gwt.xml,haustein,cpovirk,2019-09-23 13:19:50-07:00,2019-09-23 13:19:50-07:00
+guava-gwt/src/com/google/common/xml/Xml.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/thirdparty/publicsuffix/PublicSuffixPatterns.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/src/com/google/thirdparty/publicsuffix/PublicSuffixType.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/test-super/com/google/common/collect/super/com/google/common/collect/AbstractListMultimapTest.java,Louis Wasserman,Chris Povirk,2013-05-21 15:48:13-07:00,2013-05-22 09:13:01-04:00
+guava-gwt/test-super/com/google/common/collect/super/com/google/common/collect/AbstractMultimapTest.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test-super/com/google/common/collect/super/com/google/common/collect/AbstractMultimapTest.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test-super/com/google/common/util/concurrent/super/com/google/common/util/concurrent/FuturesTest.java,kak,cpovirk,2015-02-11 17:02:03-05:00,2015-02-11 17:28:57-05:00
+guava-gwt/test/com/google/common/base/SplitterTest_gwt.java,glorioso,diamondm,2019-09-23 13:19:50-07:00,2019-09-23 13:19:50-07:00
+guava-gwt/test/com/google/common/collect/ArrayListMultimapTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:48:13-07:00
+guava-gwt/test/com/google/common/collect/ArrayListMultimapTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:13:01-04:00
+guava-gwt/test/com/google/common/collect/ConstrainedSetMultimapTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test/com/google/common/collect/ConstrainedSetMultimapTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test/com/google/common/collect/HashMultimapTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test/com/google/common/collect/HashMultimapTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test/com/google/common/collect/LinkedHashMultimapTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test/com/google/common/collect/LinkedHashMultimapTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test/com/google/common/collect/LinkedListMultimapTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:48:13-07:00
+guava-gwt/test/com/google/common/collect/LinkedListMultimapTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:13:01-04:00
+guava-gwt/test/com/google/common/collect/MinMaxPriorityQueueTest_gwt.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava-gwt/test/com/google/common/collect/MultimapsTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test/com/google/common/collect/MultimapsTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test/com/google/common/collect/TreeMultimapExplicitTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test/com/google/common/collect/TreeMultimapExplicitTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test/com/google/common/collect/TreeMultimapNaturalTest_gwt.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-gwt/test/com/google/common/collect/TreeMultimapNaturalTest_gwt.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-gwt/test/com/google/common/collect/testing/Testing.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/test/com/google/common/collect/testing/google/Google.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/test/com/google/common/escape/testing/Testing.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/test/com/google/common/html/testModule.gwt.xml,cgdecker,cpovirk,2018-04-25 18:10:09-04:00,2018-04-25 18:10:30-04:00
+guava-gwt/test/com/google/common/html/testModule.gwt.xml,xingx,magdaz,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/test/com/google/common/testing/Testing.gwt.xml,goktug,tap-prod,2019-02-14 09:36:42-05:00,2019-02-14 09:37:49-05:00
+guava-gwt/test/com/google/common/testing/Testing.gwt.xml,xingx,tomxlee,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-gwt/test/com/google/common/testing/Testing.gwt.xml,tomxlee,zlt,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava-testlib/README.md,Elliotte Rusty Harold,cpovirk,2019-10-02 13:48:44-04:00,2019-10-02 17:34:35-04:00
+guava-testlib/src/com/google/common/collect/testing/AbstractContainerTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/AbstractIteratorTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/AbstractMapTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/DerivedCollectionGenerators.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/Helpers.java,bhagwani,lowasser,2016-08-23 07:33:57-07:00,2016-08-24 06:11:12-07:00
+guava-testlib/src/com/google/common/collect/testing/OneSizeGenerator.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/google/AbstractMultimapTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-30 09:39:57-04:00
+guava-testlib/src/com/google/common/collect/testing/google/ListMultimapRemoveTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapAsMapGetTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapAsMapTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapEntriesTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapGetTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapKeysTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapPutAllMultimapTester.java,kak,cpovirk,2014-10-29 13:56:14-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapPutIterableTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapPutIterableTester.java,kak,cgdecker,2015-06-22 12:48:46-04:00,2015-06-23 00:28:13-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapPutTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapRemoveAllTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapRemoveEntryTester.java,Chris Povirk,Louis Wasserman,2013-05-21 16:16:37-04:00,2013-05-21 15:49:47-07:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapRemoveEntryTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultimapReplaceValuesTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/google/MultisetIteratorTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/CollectionAddAllTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/CollectionAddTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/ListAddAtIndexTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/ListAddTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/ListRetainAllTester.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-testlib/src/com/google/common/collect/testing/testers/ListSubListTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/MapPutAllTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/collect/testing/testers/MapPutTester.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 08:49:06-08:00
+guava-testlib/src/com/google/common/testing/FreshValueGenerator.java,jijiang,cpovirk,2017-08-17 11:34:19-07:00,2017-08-18 06:18:14-07:00
+guava-testlib/src/com/google/common/testing/GcFinalization.java,jijiang,cpovirk,2017-08-17 11:34:19-07:00,2017-08-17 12:07:53-07:00
+guava-testlib/src/com/google/common/testing/NullPointerTester.java,cpovirk,Éamonn McManus,2021-04-05 13:54:57-07:00,2021-04-06 11:50:39-07:00
+guava-testlib/src/com/google/common/testing/TestLogHandler.java,Stefan Haustein,cpovirk,2024-06-21 03:19:29-07:00,2024-06-21 13:53:25-07:00
+guava-testlib/src/com/google/common/util/concurrent/testing/AbstractListenableFutureTest.java,cpovirk,Éamonn McManus,2023-09-06 09:36:03-07:00,2023-09-06 11:30:30-07:00
+guava-testlib/src/com/google/common/util/concurrent/testing/TestingExecutors.java,Google Java Core Libraries,cpovirk,2022-11-15 08:26:34-08:00,2022-11-15 13:38:09-08:00
+guava-testlib/test/com/google/common/collect/testing/MapTestSuiteBuilderTests.java,Éamonn McManus,cpovirk,2021-08-18 15:49:45-07:00,2021-08-19 09:44:03-07:00
+guava-tests/benchmark/com/google/common/collect/MapBenchmark.java,lukes,cgdecker,2016-09-14 10:21:36-07:00,2016-09-15 06:47:32-07:00
+guava-tests/pom.xml,cgdecker,cpovirk,2015-01-22 15:42:49-05:00,2015-01-22 17:08:50-05:00
+guava-tests/pom.xml,cpovirk,cgdecker,2015-01-22 17:08:50-05:00,2015-01-22 17:08:57-05:00
+guava-tests/test/com/google/common/base/AsciiTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/AsciiTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/CaseFormatTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/CaseFormatTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/CharMatcherTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/CharMatcherTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/CharsetsTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/CharsetsTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/EquivalencesTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/EquivalencesTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/FinalizableReferenceQueueTest.java,Éamonn McManus,cpovirk,2024-12-12 07:03:48-08:00,2024-12-12 08:28:39-08:00
+guava-tests/test/com/google/common/base/FunctionsTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/FunctionsTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/JoinerTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/JoinerTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/JoinerTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/base/ObjectsTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/ObjectsTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/ObjectsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/base/OptionalTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/base/PreconditionsTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/PreconditionsTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/PredicatesTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/PredicatesTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/SplitterTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/SplitterTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/SplitterTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/base/SplitterTest.java,glorioso,diamondm,2019-09-23 13:19:50-07:00,2019-09-23 13:19:50-07:00
+guava-tests/test/com/google/common/base/StringsTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/StringsTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/StringsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/base/SuppliersTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/SuppliersTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/SuppliersTest.java,Google Java Core Libraries,cpovirk,2022-04-27 07:41:44-07:00,2022-04-27 08:41:25-07:00
+guava-tests/test/com/google/common/base/SuppliersTest.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+guava-tests/test/com/google/common/base/ThrowablesTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/ThrowablesTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/ToStringHelperTest.java,guava.mirrorbot@gmail.com,cgruberatgoog,2011-07-13 22:10:18+00:00,2011-07-14 12:27:56+00:00
+guava-tests/test/com/google/common/base/ToStringHelperTest.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava-tests/test/com/google/common/base/Utf8Test.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/cache/LocalCacheTest.java,cgdecker,cpovirk,2015-10-26 12:25:49-04:00,2015-10-27 11:01:28-04:00
+guava-tests/test/com/google/common/cache/LocalLoadingCacheTest.java,Chris Povirk,Kurt Kluever,2012-04-05 18:14:41-04:00,2012-04-06 11:51:13-04:00
+guava-tests/test/com/google/common/collect/AbstractHashFloodingTest.java,lowasser,cpovirk,2019-12-23 11:59:39-05:00,2019-12-23 11:59:39-05:00
+guava-tests/test/com/google/common/collect/AbstractImmutableSetTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/AbstractImmutableSetTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/AbstractListMultimapTest.java,Louis Wasserman,Chris Povirk,2013-05-21 15:48:13-07:00,2013-05-22 09:13:01-04:00
+guava-tests/test/com/google/common/collect/AbstractMultimapTest.java,Chris Povirk,Louis Wasserman,2013-05-21 18:27:06-04:00,2013-05-21 15:49:47-07:00
+guava-tests/test/com/google/common/collect/AbstractMultimapTest.java,Louis Wasserman,Chris Povirk,2013-05-21 15:49:47-07:00,2013-05-22 09:17:39-04:00
+guava-tests/test/com/google/common/collect/ComparatorsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/ConstrainedMultimapAsMapImplementsMapTest.java,cgdecker,kak,2016-09-15 06:47:32-07:00,2016-09-15 08:57:12-07:00
+guava-tests/test/com/google/common/collect/FluentIterableTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/collect/ForwardingDequeTest.java,eaftan,cpovirk,2015-11-03 19:09:53-08:00,2015-11-03 19:09:58-08:00
+guava-tests/test/com/google/common/collect/ForwardingQueueTest.java,eaftan,cpovirk,2015-11-03 19:09:53-08:00,2015-11-03 19:09:58-08:00
+guava-tests/test/com/google/common/collect/HashBiMapTest.java,lowasser,cpovirk,2017-12-04 08:21:11-08:00,2017-12-04 09:37:03-08:00
+guava-tests/test/com/google/common/collect/ImmutableBiMapTest.java,lowasser,cpovirk,2019-12-23 11:59:39-05:00,2019-12-23 11:59:39-05:00
+guava-tests/test/com/google/common/collect/ImmutableBiMapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 08:07:46-08:00
+guava-tests/test/com/google/common/collect/ImmutableBiMapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 08:07:46-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/ImmutableMultimapTest.java,Google Java Core Libraries,lowasser,2024-08-06 04:11:28-07:00,2024-08-06 10:52:51-07:00
+guava-tests/test/com/google/common/collect/ImmutableSetTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/ImmutableSortedMapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/ImmutableSortedMapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/ImmutableSortedSetTest.java,lowasser,cpovirk,2017-03-28 12:10:43-07:00,2017-03-28 13:34:44-07:00
+guava-tests/test/com/google/common/collect/ImmutableSortedSetTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/IterablesTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/IterablesTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/IterablesTest.java,Martin Kretzschmar,cpovirk,2024-02-28 07:21:25-08:00,2024-02-28 08:34:49-08:00
+guava-tests/test/com/google/common/collect/IteratorsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/IteratorsTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/LinkedHashMultimapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/LinkedHashMultimapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/LinkedListMultimapTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/LinkedListMultimapTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/ListsImplTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/ListsImplTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/ListsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/MapsTest.java,eaftan,cpovirk,2015-11-03 19:09:53-08:00,2015-11-03 19:09:58-08:00
+guava-tests/test/com/google/common/collect/MapsTest.java,XenoAmess,cpovirk,2022-03-22 07:14:01-07:00,2022-03-22 11:45:45-07:00
+guava-tests/test/com/google/common/collect/MapsTest.java,cpovirk,Google Java Core Libraries,2022-03-22 11:45:45-07:00,2022-03-23 06:58:34-07:00
+guava-tests/test/com/google/common/collect/MinMaxPriorityQueueTest.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava-tests/test/com/google/common/collect/MultimapsTest.java,cpovirk,jijiang,2017-08-18 07:42:49-07:00,2017-08-18 09:21:44-07:00
+guava-tests/test/com/google/common/collect/MultimapsTest.java,Martin Kretzschmar,cpovirk,2024-02-28 08:06:05-08:00,2024-02-28 08:34:49-08:00
+guava-tests/test/com/google/common/collect/OrderingTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/OrderingTest.java,cpovirk,Martin Kretzschmar,2024-02-20 09:00:05-08:00,2024-02-21 02:16:44-08:00
+guava-tests/test/com/google/common/collect/SetsTest.java,Charles Fry,Kurt Kluever,2012-02-23 16:57:02-05:00,2012-02-24 12:39:31-05:00
+guava-tests/test/com/google/common/collect/SetsTest.java,kak,cpovirk,2014-10-29 14:07:51-04:00,2014-10-29 14:07:52-04:00
+guava-tests/test/com/google/common/collect/SetsTest.java,Martin Kretzschmar,cpovirk,2024-02-19 12:34:55-08:00,2024-02-20 09:00:05-08:00
+guava-tests/test/com/google/common/collect/SynchronizedSetTest.java,Stefan Haustein,cpovirk,2024-06-21 03:19:29-07:00,2024-06-21 13:53:25-07:00
+guava-tests/test/com/google/common/collect/TableCollectionTest.java,cpovirk,jijiang,2017-08-18 07:42:49-07:00,2017-08-18 09:21:44-07:00
+guava-tests/test/com/google/common/escape/GoogleInternalEscapersTest.java,paulduffin,cpovirk,2015-02-09 12:46:15-05:00,2015-02-09 13:31:41-05:00
+guava-tests/test/com/google/common/graph/AbstractDirectedGraphTest.java,kak,jasexton,2016-02-02 17:23:42-05:00,2016-02-03 12:09:15-05:00
+guava-tests/test/com/google/common/graph/AbstractGraphTest.java,kak,jasexton,2016-02-02 17:23:42-05:00,2016-02-03 12:09:15-05:00
+guava-tests/test/com/google/common/graph/AbstractGraphTest.java,jrtom,jasexton,2016-08-08 15:46:46-07:00,2016-08-08 16:08:35-07:00
+guava-tests/test/com/google/common/graph/ConfigurableDirectedGraphTest.java,jrtom,jasexton,2016-04-11 08:05:46-07:00,2016-04-11 08:05:53-07:00
+guava-tests/test/com/google/common/graph/ConfigurableDirectedNetworkTest.java,jrtom,kak,2016-04-11 08:05:46-07:00,2016-04-11 08:05:53-07:00
+guava-tests/test/com/google/common/graph/ConfigurableUndirectedGraphTest.java,jrtom,kak,2016-04-11 08:05:46-07:00,2016-04-11 08:05:53-07:00
+guava-tests/test/com/google/common/graph/ConfigurableUndirectedNetworkTest.java,jrtom,kak,2016-04-11 08:05:46-07:00,2016-04-11 08:05:53-07:00
+guava-tests/test/com/google/common/graph/GraphsTest.java,jasexton,kak,2016-02-02 08:59:30-05:00,2016-02-02 17:23:42-05:00
+guava-tests/test/com/google/common/graph/GraphsTest.java,cpovirk,jasexton,2016-02-10 13:59:31-05:00,2016-02-10 14:33:32-05:00
+guava-tests/test/com/google/common/graph/ImmutableDirectedGraphTest.java,jasexton,jrtom,2016-02-01 13:48:20-05:00,2016-02-01 14:40:05-05:00
+guava-tests/test/com/google/common/graph/ImmutableUndirectedGraphTest.java,jasexton,jrtom,2016-02-01 13:48:20-05:00,2016-02-01 14:40:05-05:00
+guava-tests/test/com/google/common/graph/PackageSanityTests.java,jrtom,kak,2016-04-11 08:05:46-07:00,2016-04-11 08:05:53-07:00
+guava-tests/test/com/google/common/hash/AbstractNonStreamingHashFunctionTest.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava-tests/test/com/google/common/hash/AbstractStreamingHasherTest.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava-tests/test/com/google/common/hash/Crc32cHashFunctionTest.java,kak,lowasser,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+guava-tests/test/com/google/common/hash/Crc32cHashFunctionTest.java,lowasser,kak,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+guava-tests/test/com/google/common/hash/HashTestUtils.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava-tests/test/com/google/common/hash/HashingTest.java,Colin Decker,Christian Edward Gruber,2012-12-19 12:53:22-05:00,2012-12-19 23:50:37-05:00
+guava-tests/test/com/google/common/html/HtmlEscapersTest.java,Charles Fry,Kurt Kluever,2012-02-23 16:57:02-05:00,2012-02-24 12:38:41-05:00
+guava-tests/test/com/google/common/io/BaseEncodingTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/io/ByteStreamsTest.java,cpovirk,cgdecker,2018-03-22 11:40:30-04:00,2018-03-22 17:49:16-04:00
+guava-tests/test/com/google/common/math/QuantilesTest.java,peteg,cpovirk,2017-02-22 10:44:05-08:00,2017-02-23 09:39:44-08:00
+guava-tests/test/com/google/common/math/QuantilesTest.java,Nhat Dinh,Hari Menon,2019-10-02 12:48:49-04:00,2019-10-02 13:48:44-04:00
+guava-tests/test/com/google/common/net/InetAddressesTest.java,kak,dpb,2019-11-13 11:02:18-05:00,2019-11-13 13:47:32-05:00
+guava-tests/test/com/google/common/net/InetAddressesTest.java,dpb,moodysalem,2019-11-13 13:47:32-05:00,2019-11-14 13:08:22-05:00
+guava-tests/test/com/google/common/net/InetAddressesTest.java,moodysalem,kak,2019-11-14 13:08:22-05:00,2019-11-14 13:08:22-05:00
+guava-tests/test/com/google/common/net/MediaTypeTest.java,gak,kak,2016-07-19 07:00:30-07:00,2016-07-19 11:37:54-07:00
+guava-tests/test/com/google/common/primitives/BooleansTest.java,eaftan,ronshapiro,2015-11-03 19:09:58-08:00,2015-11-03 19:10:03-08:00
+guava-tests/test/com/google/common/primitives/BooleansTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/BytesTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/CharsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/DoublesTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/FloatsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/IntsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/LongsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/LongsTest.java,Google Java Core Libraries,cpovirk,2024-12-27 07:34:19-08:00,2024-12-27 08:19:35-08:00
+guava-tests/test/com/google/common/primitives/ShortsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/SignedBytesTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/UnsignedIntegerTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/UnsignedIntsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/UnsignedLongTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/primitives/UnsignedLongsTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/reflect/ClassPathTest.java,lukes,cpovirk,2015-02-23 09:50:27-05:00,2015-02-23 14:20:36-05:00
+guava-tests/test/com/google/common/reflect/MutableTypeToInstanceMapTest.java,eaftan,cpovirk,2015-10-30 10:02:21-04:00,2015-10-30 14:03:40-04:00
+guava-tests/test/com/google/common/reflect/MutableTypeToInstanceMapTest.java,Kurt Alfred Kluever,cpovirk,2024-02-21 10:32:41-08:00,2024-02-22 09:15:24-08:00
+guava-tests/test/com/google/common/reflect/TypeResolverTest.java,cpovirk,benyu,2015-10-26 16:35:26-04:00,2015-10-27 15:37:02-04:00
+guava-tests/test/com/google/common/reflect/TypeTokenTest.java,cpovirk,benyu,2015-10-26 16:35:26-04:00,2015-10-27 15:37:02-04:00
+guava-tests/test/com/google/common/util/concurrent/AbstractFutureTest.java,lukes,aravinds,2014-12-17 12:08:10-05:00,2014-12-17 12:09:20-05:00
+guava-tests/test/com/google/common/util/concurrent/AbstractFutureTest.java,aravinds,lukes,2014-12-17 12:09:20-05:00,2014-12-17 12:09:38-05:00
+guava-tests/test/com/google/common/util/concurrent/AbstractFutureTest.java,cpovirk,jijiang,2017-08-18 06:32:19-07:00,2017-08-18 09:17:46-07:00
+guava-tests/test/com/google/common/util/concurrent/AbstractFutureTest.java,lukes,cpovirk,2018-09-12 16:07:09-04:00,2018-09-12 17:42:09-04:00
+guava-tests/test/com/google/common/util/concurrent/ExecutionSequencerTest.java,clm,binxu,2018-07-31 09:38:10-04:00,2018-07-31 09:38:10-04:00
+guava-tests/test/com/google/common/util/concurrent/ExecutionSequencerTest.java,clm,cpovirk,2020-06-17 11:32:18-04:00,2020-06-18 10:23:03-04:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,cpovirk,lukes,2015-01-29 14:22:46-05:00,2015-01-29 14:27:32-05:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,lukes,cpovirk,2015-01-29 14:27:32-05:00,2015-01-29 16:16:36-05:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,kak,cpovirk,2015-02-11 17:02:03-05:00,2015-02-11 17:28:57-05:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,mboyington,cpovirk,2015-03-20 17:30:48-04:00,2015-03-20 17:32:06-04:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,cpovirk,kak,2015-04-14 16:24:23-04:00,2015-04-14 16:25:11-04:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,kak,svas,2015-04-14 16:25:11-04:00,2015-04-14 16:25:35-04:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,svas,cpovirk,2015-04-14 16:25:35-04:00,2015-04-14 16:27:54-04:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,kak,cpovirk,2015-12-17 17:00:01-05:00,2015-12-18 10:46:30-05:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,dlorant,cpovirk,2017-12-04 06:01:56-08:00,2017-12-04 09:37:03-08:00
+guava-tests/test/com/google/common/util/concurrent/FuturesTest.java,clm,cpovirk,2019-05-28 10:48:46-04:00,2019-05-28 10:48:46-04:00
+guava-tests/test/com/google/common/util/concurrent/JSR166TestCase.java,Kurt Alfred Kluever,cpovirk,2024-02-21 10:32:41-08:00,2024-02-22 09:15:24-08:00
+guava-tests/test/com/google/common/util/concurrent/SequentialExecutorTest.java,yorick,cpovirk,2017-11-01 13:43:54-07:00,2017-11-02 12:13:37-07:00
+guava-tests/test/com/google/common/util/concurrent/SequentialExecutorTest.java,ghm,cpovirk,2020-03-16 12:26:01-04:00,2020-03-16 13:51:57-04:00
+guava-tests/test/com/google/common/util/concurrent/SerializingExecutorTest.java,tobe,cpovirk,2015-01-29 15:13:22-05:00,2015-01-29 16:16:21-05:00
+guava-tests/test/com/google/common/util/concurrent/SerializingExecutorTest.java,cpovirk,tobe,2015-01-29 16:16:21-05:00,2015-01-30 10:01:47-05:00
+guava-tests/test/com/google/common/util/concurrent/SupplementalMonitorTest.java,cpovirk,jijiang,2017-08-18 07:42:49-07:00,2017-08-18 09:17:46-07:00
+guava-tests/test/com/google/common/util/concurrent/TestPlatform.java,cpovirk,gridman,2015-01-29 16:16:36-05:00,2015-01-29 16:16:36-05:00
+guava-tests/test/com/google/common/xml/GoogleInternalXmlEscapersTest.java,paulduffin,cpovirk,2015-02-09 12:46:15-05:00,2015-02-09 13:31:41-05:00
+guava-tests/test/com/google/common/xml/XmlEscapersTest.java,Charles Fry,Kurt Kluever,2012-02-23 16:57:02-05:00,2012-02-24 12:38:41-05:00
+guava/pom.xml,cgdecker,Arend v. Reinersdorff,2016-11-03 15:39:41-04:00,2016-11-04 06:55:11-07:00
+guava/pom.xml,glorioso,cushon,2018-05-08 14:50:30-04:00,2018-05-09 11:17:25-04:00
+guava/src/com/google/common/base/CaseFormat.java,Jonathan Bluett-Duncan,cpovirk,2016-09-29 11:56:21-07:00,2016-09-29 12:59:28-07:00
+guava/src/com/google/common/base/CaseFormat.java,cpovirk,kevinb,2016-09-30 09:54:03-07:00,2016-09-30 13:26:13-07:00
+guava/src/com/google/common/base/CharMatcher.java,cpovirk,kevinb,2016-09-30 06:24:27-07:00,2016-09-30 13:26:13-07:00
+guava/src/com/google/common/base/CharMatcher.java,mscherer,cgdecker,2017-10-11 09:45:24-07:00,2017-10-11 14:11:02-07:00
+guava/src/com/google/common/base/CharMatcher.java,cgdecker,mscherer,2017-10-11 14:11:02-07:00,2017-10-12 08:47:18-07:00
+guava/src/com/google/common/base/Converter.java,cgdecker,kevinb,2016-09-15 06:47:32-07:00,2016-09-15 10:11:02-07:00
+guava/src/com/google/common/base/Converter.java,Éamonn McManus,Google Java Core Libraries,2022-02-26 11:06:46-08:00,2022-02-26 12:21:52-08:00
+guava/src/com/google/common/base/IgnoreJRERequirement.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+guava/src/com/google/common/base/Internal.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+guava/src/com/google/common/base/MoreObjects.java,Kurt Alfred Kluever,cpovirk,2024-10-09 14:19:18-07:00,2024-10-10 08:41:27-07:00
+guava/src/com/google/common/base/Preconditions.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/base/Preconditions.java,cpovirk,Google Java Core Libraries,2024-04-10 19:12:32-07:00,2024-04-10 21:58:32-07:00
+guava/src/com/google/common/base/Predicates.java,cgdecker,kak,2018-01-22 17:34:57-05:00,2018-01-23 13:41:18-05:00
+guava/src/com/google/common/base/Stopwatch.java,kevinb,kak,2015-06-01 13:33:52-04:00,2015-06-01 13:33:57-04:00
+guava/src/com/google/common/base/Strings.java,Michael Ernst,diamondm,2018-05-14 19:30:15-04:00,2018-05-15 16:25:06-04:00
+guava/src/com/google/common/base/Strings.java,diamondm,cgdecker,2018-05-23 13:29:36-04:00,2018-05-23 13:31:51-04:00
+guava/src/com/google/common/base/Suppliers.java,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+guava/src/com/google/common/base/Utf8.java,martinrb,kak,2015-06-22 12:48:30-04:00,2015-06-23 00:27:32-04:00
+guava/src/com/google/common/cache/CacheBuilder.java,Chris Povirk,Kurt Kluever,2012-04-05 18:14:41-04:00,2012-04-06 11:51:13-04:00
+guava/src/com/google/common/cache/CacheBuilder.java,kak,glorioso,2019-10-11 09:53:34-04:00,2019-10-11 09:53:34-04:00
+guava/src/com/google/common/cache/CacheBuilder.java,cpovirk,Kurt Alfred Kluever,2021-04-19 09:18:02-07:00,2021-04-19 10:58:39-07:00
+guava/src/com/google/common/cache/CacheBuilder.java,Kurt Alfred Kluever,cpovirk,2021-04-19 13:23:02-07:00,2021-04-19 14:26:47-07:00
+guava/src/com/google/common/cache/CacheBuilder.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+guava/src/com/google/common/cache/CacheLoader.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+guava/src/com/google/common/cache/CacheStats.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+guava/src/com/google/common/cache/LocalCache.java,lowasser,cpovirk,2015-08-03 15:34:18-07:00,2015-08-03 15:34:19-07:00
+guava/src/com/google/common/cache/LocalCache.java,Milan Mimica,cushon,2018-05-23 13:07:50-04:00,2018-05-23 13:10:53-04:00
+guava/src/com/google/common/cache/LocalCache.java,cedric.ai,cpovirk,2022-04-11 12:52:32-07:00,2022-04-11 14:24:00-07:00
+guava/src/com/google/common/collect/AbstractMapBasedMultimap.java,Oleksii Bondar,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/AbstractMultiset.java,lowasser,cnsun,2018-01-02 13:54:00-08:00,2018-01-03 13:52:13-08:00
+guava/src/com/google/common/collect/BinaryTreeTraverser.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/BstMutationResult.java,fry@google.com,cgruberatgoog,2011-08-15 21:23:49+00:00,2011-08-16 17:09:34+00:00
+guava/src/com/google/common/collect/BstMutationResult.java,cgruberatgoog,Charles Fry,2011-08-16 17:09:34+00:00,2011-08-17 11:14:44-04:00
+guava/src/com/google/common/collect/Collections2.java,cgruberatgoog,guava.mirrorbot@gmail.com,2011-07-14 12:27:56+00:00,2011-07-14 17:59:02+00:00
+guava/src/com/google/common/collect/Collections2.java,fry@google.com,cgruberatgoog,2011-08-15 21:23:49+00:00,2011-08-16 17:09:34+00:00
+guava/src/com/google/common/collect/Collections2.java,cgruberatgoog,Charles Fry,2011-08-16 17:09:34+00:00,2011-08-17 11:14:44-04:00
+guava/src/com/google/common/collect/Collections2.java,kak,kevinb,2015-04-14 16:25:01-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/CompactHashMap.java,lowasser,cpovirk,2019-12-23 11:59:39-05:00,2019-12-23 11:59:39-05:00
+guava/src/com/google/common/collect/ComparisonChain.java,kevinb,kak,2015-06-01 13:33:57-04:00,2015-06-02 13:08:45-04:00
+guava/src/com/google/common/collect/ComputingConcurrentHashMap.java,cpovirk,kak,2016-03-02 17:02:25-05:00,2016-03-03 15:13:04-05:00
+guava/src/com/google/common/collect/ConsumingQueueIterator.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/EmptyContiguousSet.java,Oleksii Bondar,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/EnumMultiset.java,lowasser,cushon,2017-09-11 10:51:42-07:00,2017-09-11 17:27:11-07:00
+guava/src/com/google/common/collect/EnumMultiset.java,cushon,lowasser,2017-09-11 17:27:11-07:00,2017-09-11 17:30:11-07:00
+guava/src/com/google/common/collect/EvictingQueue.java,kak,cpovirk,2015-08-07 08:53:56-07:00,2015-08-07 09:13:45-07:00
+guava/src/com/google/common/collect/EvictingQueue.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/FilteredMultimapValues.java,Chris Povirk,Louis Wasserman,2013-05-21 17:35:16-04:00,2013-05-21 15:50:54-07:00
+guava/src/com/google/common/collect/FluentIterable.java,kevinb,cpovirk,2015-06-01 13:33:57-04:00,2015-06-02 13:05:52-04:00
+guava/src/com/google/common/collect/FluentIterable.java,kevinb,cgdecker,2016-09-14 12:32:30-07:00,2016-09-15 06:47:32-07:00
+guava/src/com/google/common/collect/HashBiMap.java,lowasser,kevinb,2015-04-14 16:28:21-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/HashBiMap.java,lowasser,cpovirk,2017-12-04 08:21:11-08:00,2017-12-04 09:37:03-08:00
+guava/src/com/google/common/collect/HashBiMap.java,cushon,Michael Ernst,2018-05-23 13:10:53-04:00,2018-05-23 13:24:26-04:00
+guava/src/com/google/common/collect/ImmutableBiMap.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:25:55-04:00
+guava/src/com/google/common/collect/ImmutableBiMap.java,lowasser,kevinb,2015-04-14 16:28:14-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableList.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:27:12-04:00
+guava/src/com/google/common/collect/ImmutableList.java,lowasser,kevinb,2015-04-14 16:28:10-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableList.java,lukes,cpovirk,2017-03-31 13:40:09-07:00,2017-03-31 14:15:28-07:00
+guava/src/com/google/common/collect/ImmutableList.java,cpovirk,lowasser,2018-02-08 15:06:25-05:00,2018-02-09 13:20:30-05:00
+guava/src/com/google/common/collect/ImmutableList.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/ImmutableMap.java,kevinb,lowasser,2015-03-23 13:58:01-04:00,2015-03-23 16:12:10-04:00
+guava/src/com/google/common/collect/ImmutableMap.java,lowasser,kevinb,2015-04-14 16:28:14-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableMap.java,cpovirk,lowasser,2015-06-22 12:46:55-04:00,2015-06-22 12:48:32-04:00
+guava/src/com/google/common/collect/ImmutableMap.java,lukes,cgdecker,2016-09-14 10:21:36-07:00,2016-09-15 06:47:32-07:00
+guava/src/com/google/common/collect/ImmutableMap.java,cpovirk,kstanger,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/ImmutableMapEntrySet.java,lukes,cgdecker,2016-09-14 10:21:36-07:00,2016-09-15 06:47:32-07:00
+guava/src/com/google/common/collect/ImmutableMultimap.java,lowasser,cpovirk,2015-08-13 03:54:06-07:00,2015-08-13 10:21:10-07:00
+guava/src/com/google/common/collect/ImmutableMultiset.java,kevinb,lowasser,2015-03-23 13:58:01-04:00,2015-03-23 14:20:32-04:00
+guava/src/com/google/common/collect/ImmutableMultiset.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:28:53-04:00
+guava/src/com/google/common/collect/ImmutableMultiset.java,lowasser,kevinb,2015-04-14 16:28:53-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableMultiset.java,cpovirk,lowasser,2018-02-08 15:06:25-05:00,2018-02-09 13:20:30-05:00
+guava/src/com/google/common/collect/ImmutableRangeMap.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:28:08-04:00
+guava/src/com/google/common/collect/ImmutableRangeMap.java,cpovirk,lowasser,2015-12-21 10:08:51-05:00,2015-12-21 16:32:12-05:00
+guava/src/com/google/common/collect/ImmutableRangeSet.java,cpovirk,lowasser,2015-12-21 10:08:56-05:00,2015-12-21 16:32:12-05:00
+guava/src/com/google/common/collect/ImmutableSet.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:25:44-04:00
+guava/src/com/google/common/collect/ImmutableSet.java,lowasser,kevinb,2015-04-14 16:28:53-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableSet.java,cpovirk,lowasser,2018-02-08 15:06:25-05:00,2018-02-09 13:20:30-05:00
+guava/src/com/google/common/collect/ImmutableSet.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/ImmutableSet.java,lowasser,Google Java Core Libraries,2024-08-06 11:36:15-07:00,2024-08-06 14:03:22-07:00
+guava/src/com/google/common/collect/ImmutableSetMultimap.java,lowasser,cpovirk,2015-08-13 03:54:06-07:00,2015-08-13 10:21:10-07:00
+guava/src/com/google/common/collect/ImmutableSetMultimap.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/ImmutableSortedMap.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:27:58-04:00
+guava/src/com/google/common/collect/ImmutableSortedMap.java,lowasser,kevinb,2015-04-14 16:28:08-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableSortedMultiset.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:26:24-04:00
+guava/src/com/google/common/collect/ImmutableSortedMultiset.java,lowasser,cgdecker,2015-08-03 15:34:17-07:00,2015-08-03 15:34:18-07:00
+guava/src/com/google/common/collect/ImmutableSortedSet.java,kevinb,lowasser,2015-04-14 16:24:40-04:00,2015-04-14 16:27:12-04:00
+guava/src/com/google/common/collect/ImmutableSortedSet.java,lowasser,kevinb,2015-04-14 16:27:58-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/ImmutableSortedSet.java,lowasser,cpovirk,2017-03-28 12:10:43-07:00,2017-03-28 13:34:44-07:00
+guava/src/com/google/common/collect/ImmutableSortedSet.java,kak,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/ImmutableSortedSet.java,lowasser,Google Java Core Libraries,2024-08-06 11:36:15-07:00,2024-08-06 14:03:22-07:00
+guava/src/com/google/common/collect/ImmutableTable.java,cgdecker,lowasser,2016-11-03 15:39:41-04:00,2016-11-04 06:41:25-07:00
+guava/src/com/google/common/collect/Interners.java,nharmata,cpovirk,2016-11-01 10:18:54-07:00,2016-11-01 11:08:49-07:00
+guava/src/com/google/common/collect/Iterables.java,kak,lowasser,2015-04-14 16:25:01-04:00,2015-04-14 16:28:40-04:00
+guava/src/com/google/common/collect/Iterables.java,lowasser,kevinb,2015-04-14 16:28:40-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/Iterables.java,jasexton,dpb,2016-01-21 14:42:38-05:00,2016-01-22 11:00:06-05:00
+guava/src/com/google/common/collect/Iterators.java,lowasser,kevinb,2015-04-14 16:28:40-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/Lists.java,lowasser,kevinb,2015-04-14 16:28:27-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/MapMakerInternalMap.java,kevinb,cpovirk,2015-08-06 08:21:48-07:00,2015-08-06 11:28:51-07:00
+guava/src/com/google/common/collect/Maps.java,kak,kevinb,2015-04-14 16:25:01-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/Maps.java,lowasser,Jonathan Bluett-Duncan,2016-12-28 11:51:19-08:00,2016-12-29 09:20:54-08:00
+guava/src/com/google/common/collect/Maps.java,cpovirk,Stephan Schroevers,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/Maps.java,XenoAmess,Google Java Core Libraries,2022-03-22 07:14:01-07:00,2022-03-23 06:58:34-07:00
+guava/src/com/google/common/collect/Maps.java,Éamonn McManus,cpovirk,2023-01-19 12:46:37-08:00,2023-01-19 13:29:44-08:00
+guava/src/com/google/common/collect/Maps.java,cpovirk,Google Java Core Libraries,2024-06-25 13:01:05-07:00,2024-06-25 14:08:09-07:00
+guava/src/com/google/common/collect/MinMaxPriorityQueue.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/MultimapBuilder.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/collect/Multimaps.java,kak,kevinb,2015-04-14 16:25:01-04:00,2015-04-14 16:29:11-04:00
+guava/src/com/google/common/collect/Multimaps.java,cgdecker,lowasser,2016-11-03 15:39:41-04:00,2016-11-04 06:41:21-07:00
+guava/src/com/google/common/collect/Multimaps.java,lowasser,cnsun,2017-12-27 13:30:03-08:00,2017-12-27 19:07:28-08:00
+guava/src/com/google/common/collect/MutableClassToInstanceMap.java,Tanghd,cgdecker,2016-11-02 12:43:15-07:00,2016-11-03 15:39:41-04:00
+guava/src/com/google/common/collect/Platform.java,kak,cpovirk,2015-08-07 08:53:56-07:00,2015-08-07 12:43:00-07:00
+guava/src/com/google/common/collect/Platform.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/Queues.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/RegularImmutableAsList.java,kstanger,cgdecker,2016-11-03 09:12:45-07:00,2016-11-03 15:39:41-04:00
+guava/src/com/google/common/collect/RegularImmutableSet.java,lowasser,cgdecker,2016-09-14 10:21:12-07:00,2016-09-15 06:47:32-07:00
+guava/src/com/google/common/collect/RegularImmutableSortedSet.java,lowasser,cpovirk,2017-03-28 12:10:43-07:00,2017-03-28 13:34:44-07:00
+guava/src/com/google/common/collect/RegularImmutableTable.java,cgdecker,lowasser,2016-11-03 15:39:41-04:00,2016-11-04 06:41:25-07:00
+guava/src/com/google/common/collect/Sets.java,Tiramisu Mokka,cpovirk,2023-06-26 07:51:21-07:00,2023-06-26 14:02:13-07:00
+guava/src/com/google/common/collect/Synchronized.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/Synchronized.java,cpovirk,Éamonn McManus,2021-08-04 17:40:25-07:00,2021-08-04 19:32:36-07:00
+guava/src/com/google/common/collect/TreeMultiset.java,cpovirk,lowasser,2018-01-18 10:10:26-05:00,2018-01-18 20:14:49-05:00
+guava/src/com/google/common/collect/TreeTraverser.java,Andrei Korzhevskii,moz,2016-08-24 12:03:49-07:00,2016-08-25 07:10:48-07:00
+guava/src/com/google/common/collect/TreeTraverser.java,cgdecker,kevinb,2016-09-15 06:47:32-07:00,2016-09-15 10:11:02-07:00
+guava/src/com/google/common/escape/CharEscaperBuilder.java,cpovirk,cgruber,2016-02-17 09:46:06-05:00,2016-02-17 20:46:06-05:00
+guava/src/com/google/common/escape/Escapers.java,cpovirk,cgruber,2016-02-17 09:46:06-05:00,2016-02-17 20:46:06-05:00
+guava/src/com/google/common/escape/package-info.java,Charles Fry,Kurt Kluever,2012-02-23 16:57:02-05:00,2012-02-24 12:38:41-05:00
+guava/src/com/google/common/escape/package-info.java,cpovirk,cgruber,2016-02-17 09:46:06-05:00,2016-02-17 20:46:06-05:00
+guava/src/com/google/common/eventbus/EventBus.java,cpovirk,Colin Decker,2021-04-19 12:44:33-07:00,2021-04-19 13:44:40-07:00
+guava/src/com/google/common/graph/AbstractGraph.java,jasexton,jrtom,2016-02-17 18:31:22-05:00,2016-02-17 20:42:33-05:00
+guava/src/com/google/common/graph/BaseGraph.java,jnyman,jrtom,2017-02-21 07:14:31-08:00,2017-02-21 07:43:55-08:00
+guava/src/com/google/common/graph/Endpoints.java,jasexton,jrtom,2016-08-10 08:22:23-07:00,2016-08-11 06:39:25-07:00
+guava/src/com/google/common/graph/Graph.java,jrtom,jasexton,2016-02-03 12:07:05-05:00,2016-02-04 10:42:24-05:00
+guava/src/com/google/common/graph/Graph.java,jasexton,jrtom,2016-02-17 18:31:22-05:00,2016-02-17 20:42:33-05:00
+guava/src/com/google/common/graph/Graph.java,jasexton,jrtom,2016-06-08 15:38:18-07:00,2016-06-08 16:48:43-07:00
+guava/src/com/google/common/graph/Graph.java,moffitt,jasexton,2016-06-16 07:39:09-07:00,2016-06-16 09:04:16-07:00
+guava/src/com/google/common/graph/Graphs.java,jasexton,ronshapiro,2016-08-22 13:02:45-07:00,2016-08-22 13:23:12-07:00
+guava/src/com/google/common/graph/Graphs.java,cgdecker,kak,2018-01-22 17:34:57-05:00,2018-01-23 07:31:13-05:00
+guava/src/com/google/common/graph/Network.java,jasexton,jrtom,2016-06-08 15:38:18-07:00,2016-06-08 16:48:43-07:00
+guava/src/com/google/common/graph/Network.java,jnyman,jrtom,2017-02-21 07:14:31-08:00,2017-02-21 07:43:55-08:00
+guava/src/com/google/common/graph/PredecessorGraph.java,jnyman,jrtom,2017-02-21 07:14:31-08:00,2017-02-21 08:31:52-08:00
+guava/src/com/google/common/graph/SuccessorGraph.java,jnyman,jrtom,2017-02-21 07:14:31-08:00,2017-02-21 08:31:52-08:00
+guava/src/com/google/common/graph/Traverser.java,jrtom,jnyman,2017-09-22 06:53:41-07:00,2017-09-22 10:34:31-07:00
+guava/src/com/google/common/graph/ValueGraph.java,jasexton,jrtom,2016-09-01 10:46:22-07:00,2016-09-01 14:12:56-07:00
+guava/src/com/google/common/graph/ValueGraph.java,jrtom,jasexton,2016-09-01 14:12:56-07:00,2016-09-01 14:18:46-07:00
+guava/src/com/google/common/hash/AbstractByteHasher.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/AbstractCompositeHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/AbstractHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/AbstractNonStreamingHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/AbstractStreamingHasher.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/BloomFilter.java,Thomas Beutler,cpovirk,2017-03-27 10:03:01-07:00,2017-03-27 13:43:08-07:00
+guava/src/com/google/common/hash/BloomFilter.java,karthik.bhat,David P. Baker,2022-01-11 11:36:22-08:00,2022-01-12 08:20:35-08:00
+guava/src/com/google/common/hash/Crc32cHashFunction.java,lowasser,kak,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+guava/src/com/google/common/hash/HashCode.java,lowasser,kevinb,2015-05-11 16:44:19-04:00,2015-05-12 12:04:31-04:00
+guava/src/com/google/common/hash/HashCode.java,kevinb,kak,2015-05-12 12:04:31-04:00,2015-05-12 12:04:31-04:00
+guava/src/com/google/common/hash/HashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/Hasher.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/MacHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/MessageDigestHashFunction.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/hash/PrimitiveSink.java,chrisn,poddark,2017-06-06 12:23:09-07:00,2017-06-07 07:53:59-07:00
+guava/src/com/google/common/html/package-info.java,cgruber,cpovirk,2016-02-17 20:46:06-05:00,2016-02-18 13:29:18-05:00
+guava/src/com/google/common/io/BaseEncoding.java,kak,lowasser,2015-12-15 18:06:36-05:00,2015-12-16 12:45:40-05:00
+guava/src/com/google/common/io/BaseEncoding.java,cgdecker,cpovirk,2016-03-08 09:40:33-05:00,2016-03-08 11:15:52-05:00
+guava/src/com/google/common/io/ByteSink.java,cpovirk,Google Java Core Libraries,2024-10-21 09:03:37-07:00,2024-10-21 10:44:34-07:00
+guava/src/com/google/common/io/ByteSource.java,Colin Decker,Andrey Turbanov,2021-04-19 10:28:08-07:00,2021-04-19 13:08:17-07:00
+guava/src/com/google/common/io/ByteStreams.java,cpovirk,cgdecker,2018-03-22 11:40:30-04:00,2018-03-22 17:49:16-04:00
+guava/src/com/google/common/io/ByteStreams.java,Oleksii Bondar,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/io/ByteStreams.java,cushon,cpovirk,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/io/ByteStreams.java,Stefan Haustein,cpovirk,2025-02-26 13:10:23-08:00,2025-02-26 14:25:02-08:00
+guava/src/com/google/common/io/CharSink.java,cpovirk,Google Java Core Libraries,2024-10-21 09:03:37-07:00,2024-10-21 10:44:34-07:00
+guava/src/com/google/common/io/CountingInputStream.java,cgdecker,Chris Povirk,2014-10-29 13:56:24-04:00,2014-10-29 13:56:27-04:00
+guava/src/com/google/common/io/CountingOutputStream.java,cgdecker,Chris Povirk,2014-10-29 13:56:24-04:00,2014-10-29 13:56:27-04:00
+guava/src/com/google/common/io/Files.java,cgdecker,jnyman,2017-11-13 14:25:32-08:00,2017-11-14 10:51:25-08:00
+guava/src/com/google/common/math/IntMath.java,lowasser,kevinb,2016-05-11 07:05:57-07:00,2016-05-11 07:09:30-07:00
+guava/src/com/google/common/math/LongMath.java,emcmanus,cpovirk,2016-01-04 12:04:09-05:00,2016-01-04 12:19:17-05:00
+guava/src/com/google/common/math/LongMath.java,lowasser,kevinb,2016-05-11 07:05:57-07:00,2016-05-11 07:09:30-07:00
+guava/src/com/google/common/math/LongMath.java,irogers,cpovirk,2020-10-16 10:00:24-04:00,2020-10-16 15:26:19-04:00
+guava/src/com/google/common/math/Quantiles.java,Nhat Dinh,Hari Menon,2019-10-02 12:48:49-04:00,2019-10-02 13:48:44-04:00
+guava/src/com/google/common/math/Stats.java,kevinb,cpovirk,2016-03-08 06:03:06-05:00,2016-03-08 11:15:52-05:00
+guava/src/com/google/common/net/HttpHeaders.java,xingx,cushon,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/net/HttpHeaders.java,cushon,lukes,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/net/HttpHeaders.java,mkbehr,kak,2019-04-29 11:41:55-04:00,2019-04-29 11:41:55-04:00
+guava/src/com/google/common/net/HttpHeaders.java,cgdecker,ralucaradu,2019-10-02 11:59:44-04:00,2019-10-02 11:59:44-04:00
+guava/src/com/google/common/net/HttpHeaders.java,clap,Tiago Grosso,2020-11-10 11:47:39-05:00,2020-11-10 11:47:39-05:00
+guava/src/com/google/common/net/HttpHeaders.java,cpovirk,Google Java Core Libraries,2022-02-28 13:00:54-08:00,2022-03-01 08:45:35-08:00
+guava/src/com/google/common/net/InetAddresses.java,moodysalem,kak,2019-11-14 13:08:22-05:00,2019-11-14 13:08:22-05:00
+guava/src/com/google/common/net/InetAddresses.java,kak,cpovirk,2019-11-14 13:08:22-05:00,2019-11-14 13:08:22-05:00
+guava/src/com/google/common/net/InternetDomainName.java,cberry,jart,2016-01-13 18:11:41-05:00,2016-01-14 13:43:09-05:00
+guava/src/com/google/common/net/InternetDomainName.java,jart,cberry,2016-01-14 13:43:09-05:00,2016-01-14 15:08:09-05:00
+guava/src/com/google/common/net/MediaType.java,Charles Fry,Kurt Kluever,2012-02-23 16:56:48-05:00,2012-02-24 11:56:22-05:00
+guava/src/com/google/common/net/MediaType.java,edric,cpovirk,2018-02-13 12:36:18-05:00,2018-02-13 13:28:51-05:00
+guava/src/com/google/common/net/MediaType.java,cpovirk,chriscallahan,2019-10-10 09:48:24-04:00,2019-10-10 09:48:24-04:00
+guava/src/com/google/common/primitives/Booleans.java,Chris Povirk,cpovirk,2014-10-29 13:55:47-04:00,2014-10-29 13:55:51-04:00
+guava/src/com/google/common/primitives/ImmutableDoubleArray.java,cushon,kevinb,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/primitives/ImmutableIntArray.java,cushon,kevinb,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/primitives/ImmutableLongArray.java,cushon,kevinb,2019-02-26 14:18:53-05:00,2019-02-26 14:18:53-05:00
+guava/src/com/google/common/primitives/Ints.java,Google Java Core Libraries,cpovirk,2022-04-22 10:51:56-07:00,2022-04-22 11:48:23-07:00
+guava/src/com/google/common/primitives/Shorts.java,cnsun,cpovirk,2017-12-13 10:46:40-08:00,2017-12-13 15:19:46-08:00
+guava/src/com/google/common/reflect/ClassPath.java,lukes,benyu,2015-04-16 16:30:03-04:00,2015-04-16 17:21:03-04:00
+guava/src/com/google/common/reflect/ClassPath.java,benyu,glorioso,2020-10-26 08:59:40-05:00,2020-10-26 13:12:30-05:00
+guava/src/com/google/common/reflect/TypeResolver.java,Chris Povirk,Colin Decker,2014-02-03 12:42:58-05:00,2014-02-03 16:13:19-05:00
+guava/src/com/google/common/reflect/Types.java,Chris Povirk,Colin Decker,2014-02-03 12:42:58-05:00,2014-02-03 16:13:19-05:00
+guava/src/com/google/common/reflect/Types.java,jijiang,cpovirk,2017-08-17 11:34:19-07:00,2017-08-18 06:18:14-07:00
+guava/src/com/google/common/util/concurrent/AbstractCatchingFuture.java,mboyington,cpovirk,2015-12-14 12:13:54-05:00,2015-12-15 10:22:59-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,lukes,aravinds,2014-12-17 12:08:10-05:00,2014-12-17 12:09:20-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,aravinds,lukes,2014-12-17 12:09:20-05:00,2014-12-17 12:09:38-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,gridman,2015-01-15 14:43:02-05:00,2015-01-15 19:08:11-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,lukes,aravinds,2015-02-11 17:02:11-05:00,2015-02-11 17:02:26-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,aravinds,lukes,2015-02-11 17:02:26-05:00,2015-02-12 16:20:41-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,mboyington,cpovirk,2015-12-14 12:13:54-05:00,2015-12-15 10:22:59-05:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,clm,cpovirk,2017-07-06 05:44:26-07:00,2017-07-06 08:52:31-07:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,diamondm,2017-07-06 08:52:31-07:00,2017-07-07 08:27:52-07:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,lukes,2017-07-20 14:08:47-07:00,2017-07-21 12:02:16-07:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,lukes,sumir,2018-08-06 22:17:49-04:00,2018-08-06 22:17:49-04:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,sumir,sergeyv,2018-08-06 22:17:49-04:00,2018-08-06 22:17:49-04:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,clm,cpovirk,2018-08-16 18:28:58-04:00,2018-08-16 18:28:58-04:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,cpovirk,sergeyv,2018-08-16 18:28:58-04:00,2018-08-16 18:28:58-04:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,lukes,cpovirk,2018-09-12 16:07:09-04:00,2018-09-12 17:42:09-04:00
+guava/src/com/google/common/util/concurrent/AbstractFuture.java,Google Java Core Libraries,cpovirk,2024-10-08 11:20:53-07:00,2024-10-08 12:36:35-07:00
+guava/src/com/google/common/util/concurrent/AbstractScheduledService.java,gridman,lukes,2015-03-02 17:33:09-05:00,2015-03-03 11:10:17-05:00
+guava/src/com/google/common/util/concurrent/AbstractService.java,Colin Decker,Christian Edward Gruber,2013-08-23 14:02:16-04:00,2013-08-23 17:49:32-07:00
+guava/src/com/google/common/util/concurrent/AbstractTransformFuture.java,mboyington,cpovirk,2015-12-14 12:13:54-05:00,2015-12-15 10:22:59-05:00
+guava/src/com/google/common/util/concurrent/AggregateFuture.java,mboyington,cpovirk,2015-12-14 12:13:54-05:00,2015-12-15 10:22:59-05:00
+guava/src/com/google/common/util/concurrent/AggregateFuture.java,mboyington,cpovirk,2015-12-17 15:10:21-05:00,2015-12-18 10:46:30-05:00
+guava/src/com/google/common/util/concurrent/AggregateFuture.java,cpovirk,Google Java Core Libraries,2024-06-24 08:32:36-07:00,2024-06-24 16:58:34-07:00
+guava/src/com/google/common/util/concurrent/ClosingFuture.java,dpb,glorioso,2020-09-15 11:52:12-05:00,2020-09-15 11:52:12-05:00
+guava/src/com/google/common/util/concurrent/ClosingFuture.java,wanyingd,cpovirk,2020-10-16 10:00:24-04:00,2020-10-16 15:26:19-04:00
+guava/src/com/google/common/util/concurrent/ExecutionSequencer.java,clm,binxu,2018-07-31 09:38:10-04:00,2018-07-31 09:38:10-04:00
+guava/src/com/google/common/util/concurrent/ExecutionSequencer.java,clm,cgdecker,2018-08-01 16:02:38-04:00,2018-08-01 17:27:35-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,gridman,2015-01-15 14:43:02-05:00,2015-01-15 16:12:46-05:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,lukes,2015-01-29 14:22:46-05:00,2015-01-29 14:27:32-05:00
+guava/src/com/google/common/util/concurrent/Futures.java,lukes,gridman,2015-01-29 15:26:08-05:00,2015-01-29 16:16:35-05:00
+guava/src/com/google/common/util/concurrent/Futures.java,gridman,cpovirk,2015-01-29 16:16:35-05:00,2015-01-29 16:16:36-05:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,gridman,2015-01-29 16:16:36-05:00,2015-01-29 16:16:36-05:00
+guava/src/com/google/common/util/concurrent/Futures.java,lukes,cpovirk,2015-02-19 11:23:18-05:00,2015-02-19 11:23:54-05:00
+guava/src/com/google/common/util/concurrent/Futures.java,mboyington,cpovirk,2015-03-20 17:38:43-04:00,2015-03-20 17:38:56-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,kak,2015-04-14 16:24:51-04:00,2015-04-14 16:25:11-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,kak,cpovirk,2015-04-14 16:25:11-04:00,2015-04-14 16:25:15-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,svas,2015-04-14 16:25:15-04:00,2015-04-14 16:25:35-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,cgdecker,2015-06-08 15:00:38-04:00,2015-06-08 15:01:34-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,nharmata,cpovirk,2015-09-28 11:20:56-04:00,2015-09-28 11:24:11-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,sunxin,cpovirk,2017-03-06 10:36:21-08:00,2017-03-07 07:26:14-08:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,Jonathan Bluett-Duncan,2017-08-10 11:44:26-07:00,2017-08-11 09:34:33-07:00
+guava/src/com/google/common/util/concurrent/Futures.java,chrisn,cpovirk,2017-09-19 12:58:56-07:00,2017-09-19 12:59:05-07:00
+guava/src/com/google/common/util/concurrent/Futures.java,cgdecker,cpovirk,2017-09-27 10:54:54-07:00,2017-09-27 13:42:02-07:00
+guava/src/com/google/common/util/concurrent/Futures.java,dlorant,cpovirk,2017-12-04 06:01:56-08:00,2017-12-04 09:37:03-08:00
+guava/src/com/google/common/util/concurrent/Futures.java,kak,cgdecker,2018-10-18 13:35:23-04:00,2018-10-18 13:41:09-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,cpovirk,jonathansun,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,jonathansun,cpovirk,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+guava/src/com/google/common/util/concurrent/Futures.java,Google Java Core Libraries,Andrey Turbanov,2021-04-19 08:39:06-07:00,2021-04-19 13:08:17-07:00
+guava/src/com/google/common/util/concurrent/ImmediateFuture.java,cpovirk,jonathansun,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+guava/src/com/google/common/util/concurrent/ImmediateFuture.java,jonathansun,cpovirk,2019-09-13 13:34:28-04:00,2019-09-13 13:34:28-04:00
+guava/src/com/google/common/util/concurrent/LazyLogger.java,Stefan Haustein,cpovirk,2024-06-21 03:19:29-07:00,2024-06-21 13:53:25-07:00
+guava/src/com/google/common/util/concurrent/MoreExecutors.java,cpovirk,gridman,2015-01-15 14:43:02-05:00,2015-01-15 19:08:11-05:00
+guava/src/com/google/common/util/concurrent/MoreExecutors.java,cpovirk,yorick,2017-08-18 06:18:14-07:00,2017-08-18 14:04:28-07:00
+guava/src/com/google/common/util/concurrent/MoreExecutors.java,cpovirk,Stefan Haustein,2025-02-11 13:04:02-08:00,2025-02-12 09:47:46-08:00
+guava/src/com/google/common/util/concurrent/SerializingExecutor.java,tobe,cpovirk,2015-01-29 15:13:22-05:00,2015-01-29 16:16:21-05:00
+guava/src/com/google/common/util/concurrent/SerializingExecutor.java,cpovirk,tobe,2015-01-29 16:16:21-05:00,2015-01-30 10:01:47-05:00
+guava/src/com/google/common/util/concurrent/ServiceManager.java,diamondm,cpovirk,2017-07-25 11:21:25-07:00,2017-07-26 07:45:36-07:00
+guava/src/com/google/common/util/concurrent/SimpleTimeLimiter.java,jnyman,madrake,2017-12-01 06:56:54-08:00,2017-12-01 11:08:48-08:00
+guava/src/com/google/common/util/concurrent/TimeoutFuture.java,mboyington,cpovirk,2015-12-14 12:13:54-05:00,2015-12-15 10:22:59-05:00
+guava/src/com/google/common/util/concurrent/TimeoutFuture.java,mboyington,cpovirk,2015-12-17 15:10:21-05:00,2015-12-18 10:45:51-05:00
+guava/src/com/google/common/util/concurrent/TimeoutFuture.java,clm,sergeyv,2018-08-16 18:28:58-04:00,2018-08-16 18:28:58-04:00
+guava/src/com/google/common/util/concurrent/TrustedListenableFutureTask.java,mboyington,cpovirk,2015-12-14 12:13:54-05:00,2015-12-15 10:22:59-05:00
+guava/src/com/google/common/util/concurrent/TrustedListenableFutureTask.java,mboyington,cpovirk,2015-12-17 15:10:21-05:00,2015-12-18 10:46:30-05:00
+guava/src/com/google/common/xml/package-info.java,cgruber,cpovirk,2016-02-17 20:46:06-05:00,2016-02-18 12:48:03-05:00
+guava/src/com/google/thirdparty/publicsuffix/PublicSuffixPatterns.java,components-release,components-build,2016-01-13 11:57:42-05:00,2016-01-14 11:39:07-05:00
+gwt-super/com/google/common/collect/super/com/google/common/collect/Iterables.java,kevinb@google.com,guava.mirrorbot@gmail.com,2010-08-31 23:46:58+00:00,2010-09-01 22:33:45+00:00
+pom.xml,peteg,cgdecker,2015-12-11 11:20:22-05:00,2015-12-11 14:05:09-05:00
+pom.xml,Grzegorz Rożniecki,turbanoff,2016-10-04 12:58:29-07:00,2016-10-05 10:28:50-07:00
+pom.xml,cpovirk,dpb,2017-11-30 14:32:43-08:00,2017-12-01 08:53:39-08:00
+pom.xml,dpb,cgdecker,2017-12-01 08:53:39-08:00,2017-12-01 14:20:55-08:00
+pom.xml,William Collishaw,cgdecker,2019-05-08 10:35:07-04:00,2019-05-08 10:35:07-04:00
+pom.xml,William Collishaw,Vincent Privat,2019-05-28 10:48:46-04:00,2019-05-28 10:48:46-04:00
+pom.xml,Vincent Privat,https://github.com/WilliamCollishaw,2019-05-28 10:48:46-04:00,2019-05-28 10:48:46-04:00
+pom.xml,cgdecker,William Collishaw,2019-06-30 10:58:49-04:00,2019-06-30 10:58:49-04:00
+pom.xml,Sean C. Sullivan,elharo,2019-11-18 11:13:56-05:00,2019-11-19 11:07:46-05:00
+pom.xml,mfboulos,cpovirk,2024-01-10 09:59:42-08:00,2024-01-10 11:11:15-08:00
+pom.xml,Liam Miller-Cushon,Sam Gammon,2024-03-12 12:45:26-07:00,2024-03-12 13:26:18-07:00
+pom.xml,cpovirk,Chaoren Lin,2025-01-15 13:11:57-08:00,2025-01-15 15:07:00-08:00
+src/com/google/common/collect/ComputingConcurrentHashMap.java,fry@google.com,guava.mirrorbot@gmail.com,2011-02-08 16:20:05+00:00,2011-02-09 14:48:45+00:00
+src/com/google/common/collect/CustomConcurrentHashMap.java,fry@google.com,guava.mirrorbot@gmail.com,2011-02-08 16:20:05+00:00,2011-02-09 14:48:45+00:00
+src/com/google/common/collect/EmptyImmutableList.java,kevinb@google.com,guava.mirrorbot@gmail.com,2010-08-31 23:46:58+00:00,2010-09-01 20:27:03+00:00
+src/com/google/common/collect/ForwardingSortedSet.java,guava.mirrorbot@gmail.com,kevinb@google.com,2010-09-22 16:40:23+00:00,2010-09-22 19:12:43+00:00
+src/com/google/common/collect/ImmutableList.java,kevinb@google.com,guava.mirrorbot@gmail.com,2010-08-31 23:46:58+00:00,2010-09-01 20:27:03+00:00
+src/com/google/common/collect/ImmutableSet.java,kevinb@google.com,guava.mirrorbot@gmail.com,2010-08-31 23:46:58+00:00,2010-09-01 20:03:47+00:00
+src/com/google/common/collect/ImmutableSortedSet.java,kevinb@google.com,guava.mirrorbot@gmail.com,2010-08-31 23:46:58+00:00,2010-09-01 20:03:47+00:00
+src/com/google/common/collect/Iterables.java,kevinb@google.com,guava.mirrorbot@gmail.com,2010-08-31 23:46:58+00:00,2010-09-01 22:33:45+00:00

@@ -1,0 +1,50 @@
+Field,Value
+Commits Overview,
+Total Commits,207
+Total Unique Authors,8
+,
+Top 10 Contributors,
+Author,Commits
+Renovate Bot,254
+kmkzt,138
+renovate[bot],32
+亀井和登,4
+dependabot[bot],4
+kamei,2
+Frédéric Llorca,2
+Kevin Simper,1
+,
+Communication Events,Total: 29
+"Author1,Author2",Events
+"Renovate Bot,renovate[bot]",5
+"kmkzt,Renovate Bot",5
+"Renovate Bot,kmkzt",4
+"renovate[bot],Renovate Bot",3
+"Renovate Bot,dependabot[bot]",3
+"renovate[bot],亀井和登",2
+"Kevin Simper,kmkzt",1
+"dependabot[bot],Renovate Bot",1
+"kamei,亀井和登",1
+"kmkzt,renovate[bot]",1
+"kmkzt,Kevin Simper",1
+"renovate[bot],kamei",1
+"亀井和登,Renovate Bot",1
+,
+Committer Timezone Distribution,Unique Timezones: 3
+Timezone,Commits
++00:00,141
++02:00,1
++09:00,65
+,
+Contributors Experience,Average across 42 files: 97.80%
+File,Top Contributor Share (%)
+.editorconfig,100.00
+.eslintrc.js,100.00
+.gitattributes,100.00
+.gitignore,100.00
+.npmignore,100.00
+.release-it.json,100.00
+.travis.yml,100.00
+babel.config.js,100.00
+docs/index.html,100.00
+docs/main.bundle.js,100.00

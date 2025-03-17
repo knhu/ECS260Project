@@ -1,0 +1,56 @@
+Field,Value
+Commits Overview,
+Total Commits,83
+Total Unique Authors,19
+,
+Top 10 Contributors,
+Author,Commits
+Georg Kucsko,344
+Georg,18
+Keenan Freyberg,14
+Zygimantas Straznickas,8
+Mikey Shulman,7
+Martin Camacho,7
+Vaibhav Srivastav,6
+Tony(Baojia) Tong,5
+Jairo Correa,3
+Michael Wei,2
+,
+Communication Events,Total: 26
+"Author1,Author2",Events
+"Georg Kucsko,Mikey Shulman",6
+"Georg Kucsko,Keenan Freyberg",3
+"Keenan Freyberg,Georg Kucsko",3
+"Georg Kucsko,Martin Camacho",2
+"Georg Kucsko,Zygimantas Straznickas",2
+"Zygimantas Straznickas,Georg Kucsko",2
+"Georg Kucsko,Jairo Correa",1
+"Georg Kucsko,Georg",1
+"Georg,Georg Kucsko",1
+"Jairo Correa,Georg Kucsko",1
+"Keenan Freyberg,Martin Camacho",1
+"Martin Camacho,Georg Kucsko",1
+"Martin Camacho,Keenan Freyberg",1
+"vaibhavs10,Vaibhav Srivastav",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++02:00,8
++03:00,1
+-03:00,2
+-04:00,46
+-05:00,2
+-07:00,24
+,
+Contributors Experience,Average across 18 files: 89.35%
+File,Top Contributor Share (%)
+LICENSE,100.00
+bark/__init__.py,100.00
+setup.py,100.00
+notebooks/long_form_generation.ipynb,100.00
+notebooks/use_small_models_on_cpu.ipynb,100.00
+bark/__main__.py,100.00
+bark/notebooks/fake_classifier.ipynb,99.12
+bark/model_fine.py,98.68
+model-card.md,97.67
+bark/cli.py,95.95

@@ -1,0 +1,134 @@
+file,author1,author2,time1,time2
+CsCore/CsCoreUnityWebGL/Plugins/CsCoreUnityWebGL/com/csutil/webgl/alert/AlertManager.cs,David Brenn,Henrik Brändle,2023-02-27 10:50:11+01:00,2023-02-27 13:42:53+01:00
+CsCore/CsCoreUnityWebGL/Plugins/CsCoreUnityWebGL/com/csutil/webgl/alert/AlertManager.jslib,David Brenn,Henrik Brändle,2023-02-27 10:50:11+01:00,2023-02-27 13:42:53+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/.gitignore,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/.idea/.idea.UnityTests/.idea/.gitignore,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/.idea/.idea.UnityTests/.idea/encodings.xml,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/.idea/.idea.UnityTests/.idea/indexLayout.xml,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/.idea/.idea.UnityTests/.idea/vcs.xml,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/.vsconfig,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/.gitignore,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/CsCoreUnityWebGLDemoScenes.asmdef,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/CsCoreUnityWebGLDemoScenes.asmdef.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/README.md,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/README.md.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/Ui1_WebGlAlertManager.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/Ui1_WebGlAlertManager/TriggerAlert.cs.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/package.json,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/CsCoreUnityWebGLDemoScenes/package.json.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/Third-Party Notices.txt,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/Plugins/Third-Party Notices.txt.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV2.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV2/index.html,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV2/index.html.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/LICENSE.md,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/LICENSE.md.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/README.md,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/README.md.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData/favicon.ico,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData/favicon.ico.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData/fullscreen-button.png,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData/fullscreen-button.png.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData/style.css,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/TemplateData/style.css.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/index.html,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/index.html.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/logo.png,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/logo.png.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/readme.txt,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/readme.txt.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/thumbnail.png,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Assets/WebGLTemplates/DefaultV3/thumbnail.png.meta,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Packages/manifest.json,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/Packages/packages-lock.json,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/AudioManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/ClusterInputManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/DeviceSimulatorSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/DynamicsManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/EditorBuildSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/EditorSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/GraphicsSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/InputManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/MemorySettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/NavMeshAreas.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/NetworkManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/PackageManagerSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/Physics2DSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/PresetManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/ProjectSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/ProjectVersion.txt,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/QualitySettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/RiderScriptEditorPersistedState.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/SceneTemplateSettings.json,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/TagManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/TimeManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/TimelineSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/UnityConnectSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/VFXManager.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/VersionControlSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/ProjectSettings/XRSettings.asset,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/TestApplicationData/.gitignore,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/TestApplicationData/RegressionTesting/PersistedRegressionTests_ExampleUsage1_1,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/TestApplicationData/RegressionTesting/PersistedRegressionTests_ExampleUsage2_1,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/TestApplicationData/testImage.png,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/CsCoreUnityWebGL/WebGL Test/UnityWebGL.sln.DotSettings,David Brenn,Henrik Brändle,2023-02-27 13:35:06+01:00,2023-02-27 14:12:20+01:00
+CsCore/PlainNetClassLib/PlainNetClassLib.csproj,Pavlo Datsiuk,S,2020-06-25 15:27:08+03:00,2020-06-26 08:48:30+02:00
+CsCore/PlainNetClassLib/cscore-DevEnvSecrets.txt,Nick,Radu-Mihai Castravet,2024-02-11 18:02:15+01:00,2024-02-11 18:24:32+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/FastBlur.cs,Jeroen Haack,Nico Walheim,2024-01-17 16:38:38+01:00,2024-01-17 17:28:18+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/Filter.cs,Nico Walheim,Jeroen Haack,2024-01-20 13:41:57+01:00,2024-01-20 17:39:40+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/FloodFill.cs,Nico Walheim,Jeroen Haack,2024-01-18 00:18:39+01:00,2024-01-18 18:47:50+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/GuidedFilter.cs,Nico Walheim,Jeroen Haack,2024-01-14 13:51:52+01:00,2024-01-14 19:52:40+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/GuidedFilter.cs,Jeroen Haack,Nico Walheim,2024-01-15 00:33:41+01:00,2024-01-15 01:35:04+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/GuidedFilter.cs,Nico Walheim,Jeroen Haack,2024-01-15 01:58:01+01:00,2024-01-15 05:14:34+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/GuidedFilter.cs,Jeroen Haack,Nico Walheim,2024-01-15 05:14:34+01:00,2024-01-15 12:40:31+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/ImageBlur.cs,Nico Walheim,Jeroen Haack,2024-01-05 13:38:03+01:00,2024-01-06 02:46:49+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/ImageBlur.cs,Jeroen Haack,Nico Walheim,2024-01-15 05:14:34+01:00,2024-01-15 12:02:41+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/ImageBlur.cs,Nico Walheim,Jeroen Haack,2024-01-17 16:10:35+01:00,2024-01-17 16:38:38+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/algorithms/images/ImageBlur.cs,Jeroen Haack,Nico Walheim,2024-01-17 16:38:38+01:00,2024-01-17 21:00:14+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/DateTimeV2.cs,Ole Schönburg,S,2021-03-02 18:39:33+01:00,2021-03-03 07:58:49+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Nick,Radu-Mihai Castravet,2023-11-28 15:27:03+01:00,2023-11-28 16:27:59+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Nick,Radu-Mihai Castravet,2023-12-12 15:31:07+01:00,2023-12-12 15:47:52+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Radu-Mihai Castravet,Nick,2023-12-12 15:49:46+01:00,2023-12-12 15:53:07+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Nick,Radu-Mihai Castravet,2023-12-12 15:53:07+01:00,2023-12-12 18:05:43+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Radu-Mihai Castravet,Nick,2023-12-18 15:56:31+01:00,2023-12-18 17:09:38+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Nick,Radu-Mihai Castravet,2023-12-18 17:09:38+01:00,2023-12-19 15:50:23+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Radu-Mihai Castravet,Nick,2023-12-19 15:50:23+01:00,2023-12-19 16:18:41+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Radu-Mihai Castravet,Nick,2024-01-17 19:19:24+01:00,2024-01-17 19:29:51+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Nick,Radu-Mihai Castravet,2024-01-17 19:29:51+01:00,2024-01-17 19:50:31+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Radu-Mihai Castravet,Nick,2024-01-17 19:50:31+01:00,2024-01-17 20:09:01+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Nick,Radu-Mihai Castravet,2024-02-11 18:11:09+01:00,2024-02-11 18:20:21+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/http/apis/OpenAi.cs,Radu-Mihai Castravet,Leander Besting,2024-03-06 14:41:39+01:00,2024-03-06 17:59:40+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/model/ecs/IEntity.cs,S,Nick,2023-11-28 06:15:14+01:00,2023-11-28 15:27:03+01:00
+CsCore/PlainNetClassLib/src/Plugins/CsCore/com/csutil/model/ecs/IEntityExtensions.cs,S,Nick,2023-11-28 06:15:14+01:00,2023-11-28 15:27:03+01:00
+CsCore/xUnitTests/cscore-DevEnvSecrets.txt,Nick,Radu-Mihai Castravet,2024-02-11 18:02:15+01:00,2024-02-11 18:24:32+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/FastBlurTest.cs,Jeroen Haack,Nico Walheim,2024-01-17 04:25:37+01:00,2024-01-17 21:00:14+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/GuidedFilterTest.cs,Nico Walheim,Jeroen Haack,2024-01-14 13:51:52+01:00,2024-01-14 19:52:40+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/GuidedFilterTest.cs,Jeroen Haack,Nico Walheim,2024-01-14 19:52:40+01:00,2024-01-15 01:35:04+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/GuidedFilterTest.cs,Nico Walheim,Jeroen Haack,2024-01-15 01:35:04+01:00,2024-01-15 05:14:34+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/GuidedFilterTest.cs,Jeroen Haack,Nico Walheim,2024-01-15 05:14:34+01:00,2024-01-15 12:02:41+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/ImageBlurTest.cs,Nico Walheim,Jeroen Haack,2024-01-05 13:38:03+01:00,2024-01-06 02:46:49+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/ImageBlurTest.cs,Nico Walheim,Jeroen Haack,2024-01-07 19:19:29+01:00,2024-01-08 01:03:24+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/AlgorithmTests/ImageBlurTest.cs,Nico Walheim,Jeroen Haack,2024-01-17 16:10:35+01:00,2024-01-17 16:38:38+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Radu-Mihai Castravet,Nick,2023-12-05 17:48:21+01:00,2023-12-06 09:09:26+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Nick,Radu-Mihai Castravet,2023-12-12 15:53:07+01:00,2023-12-12 18:05:43+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Radu-Mihai Castravet,Nick,2023-12-18 15:30:28+01:00,2023-12-18 17:09:38+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Nick,Radu-Mihai Castravet,2023-12-18 17:09:38+01:00,2023-12-19 15:50:23+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Radu-Mihai Castravet,Nick,2023-12-19 15:50:23+01:00,2023-12-19 16:18:41+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Radu-Mihai Castravet,Nick,2024-01-17 19:19:24+01:00,2024-01-17 20:40:03+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Nick,Radu-Mihai Castravet,2024-02-11 17:08:11+01:00,2024-02-11 17:53:18+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Radu-Mihai Castravet,Nick,2024-02-11 17:53:18+01:00,2024-02-11 17:55:40+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/http/apis/OpenAiTests.cs,Nick,Radu-Mihai Castravet,2024-02-11 18:02:15+01:00,2024-02-11 18:29:09+01:00
+CsCore/xUnitTests/src/Plugins/CsCoreXUnitTests/com/csutil/tests/model/esc/EntityComponentSystemTests.cs,S,Nick,2023-11-28 06:15:14+01:00,2023-11-28 15:27:03+01:00
+CsCore/xUnitTests/xUnitTests.sln,Radu-Mihai Castravet,Nick,2024-02-11 17:19:58+01:00,2024-02-11 18:02:15+01:00
+CsCore/xUnitTests/xUnitTests.sln,Nick,Radu-Mihai Castravet,2024-02-11 18:02:15+01:00,2024-02-11 18:24:32+01:00
+README.md,S,CsUtil.com,2019-01-27 08:36:49+01:00,2019-01-27 11:57:58+01:00
+README.md,CsUtil.com,S,2019-01-27 17:01:19+01:00,2019-01-27 22:11:23+01:00
+TestProject1/.gitignore,Nick,Radu-Mihai Castravet,2023-11-28 15:31:57+01:00,2023-11-28 16:27:59+01:00
+TestProject1/UnitTest1.cs,Nick,Radu-Mihai Castravet,2023-11-28 15:31:57+01:00,2023-11-28 16:27:59+01:00
+TestProject1/UnitTest1.cs,Radu-Mihai Castravet,Nick,2023-11-28 16:27:59+01:00,2023-11-28 17:02:26+01:00
+TestProject1/UnitTest1.cs,Nick,Radu-Mihai Castravet,2023-11-28 17:02:26+01:00,2023-11-28 17:41:01+01:00

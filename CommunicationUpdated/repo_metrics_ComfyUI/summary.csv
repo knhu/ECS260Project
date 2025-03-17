@@ -1,0 +1,230 @@
+Field,Value
+Commits Overview,
+Total Commits,3273
+Total Unique Authors,213
+,
+Top 10 Contributors,
+Author,Commits
+comfyanonymous,3904
+Chenlei Hu,1054
+pythongosssss,438
+Comfy Org PR Bot,176
+Dr.Lt.Data,66
+"Alex ""mcmonkey"" Goodwin",55
+Robin Huang,53
+Joey Ballentine,53
+space-nuko,49
+EllangoK,42
+,
+Communication Events,Total: 390
+"Author1,Author2",Events
+"pythongosssss,comfyanonymous",28
+"comfyanonymous,pythongosssss",20
+"Dr.Lt.Data,comfyanonymous",18
+"Chenlei Hu,comfyanonymous",12
+"BlenderNeko,comfyanonymous",11
+"space-nuko,comfyanonymous",10
+"comfyanonymous,Dr.Lt.Data",9
+"comfyanonymous,Chenlei Hu",9
+"comfyanonymous,BlenderNeko",9
+"EllangoK,comfyanonymous",7
+"comfyanonymous,m957ymj75urz",7
+"Raphael Walker,comfyanonymous",6
+"m957ymj75urz,comfyanonymous",6
+"guill,Chenlei Hu",6
+"City,comfyanonymous",5
+"guill,comfyanonymous",5
+"comfyanonymous,EllangoK",5
+"ltdrdata,comfyanonymous",4
+"comfyanonymous,Simon Lui",4
+"FizzleDorf,comfyanonymous",4
+"pythongosssss,m957ymj75urz",4
+"Jacob Segal,comfyanonymous",3
+"City,Chenlei Hu",3
+"comfyanonymous,space-nuko",3
+"Jairo Correa,pythongosssss",3
+"来新璐,comfyanonymous",3
+"m957ymj75urz,pythongosssss",3
+"Simon Lui,comfyanonymous",3
+"Joey Ballentine,comfyanonymous",3
+"MoonRide303,comfyanonymous",3
+"Shiimizu,comfyanonymous",2
+"Jairo Correa,Farid Safi",2
+"Jairo Correa,comfyanonymous",2
+"Jedrzej Kosinski,blepping",2
+"Michael Kupchick,comfyanonymous",2
+"Jedrzej Kosinski,comfyanonymous",2
+"Jake D,comfyanonymous",2
+"comfyanonymous,City",2
+"comfyanonymous,BazettFraga",2
+"Chris,Michael Abrahams",2
+"Chris,comfyanonymous",2
+"BiologicalExplosion,comfyanonymous",2
+"Ashen,comfyanonymous",2
+"Chenlei Hu,Thomas Ward",2
+"Hacker 17082006,comfyanonymous",2
+"comfyanonymous,Zoltán Dócs",2
+"comfyanonymous,Hacker 17082006",2
+"sALTaccount,comfyanonymous",2
+"pythongosssss,missionfloyd",2
+"ltdrdata,Jairo Correa",2
+"Rafie Walker,comfyanonymous",2
+"bymyself,comfyanonymous",2
+"comfyanonymous,Alex ""mcmonkey"" Goodwin",2
+"missionfloyd,comfyanonymous",2
+"space-nuko,Dr.Lt.Data",2
+"missionfloyd,pythongosssss",2
+"pythongosssss,Chenlei Hu",2
+"藍+85CD,comfyanonymous",2
+"shawnington,comfyanonymous",2
+"HishamC,zhoufan2956",1
+"HishamC,comfyanonymous",1
+"Dmytro Mishkin,comfyanonymous",1
+"Dr.Lt.Data,space-nuko",1
+"City,pythongosssss",1
+"City,missionfloyd",1
+"Dango233,comfyanonymous",1
+"David,comfyanonymous",1
+"Chenlei Hu,ruucm",1
+"Chenlei Hu,huchenlei",1
+"Alex ""mcmonkey"" Goodwin,Huang-Huang Bao",1
+"AYF,comfyanonymous",1
+"BazettFraga,comfyanonymous",1
+"BVH,comfyanonymous",1
+"BlenderNeko,Gavroche CryptoRUSH",1
+"BlenderNeko,ltdrdata",1
+"Chenlei Hu,Christian Byrne",1
+"Chenlei Hu,Dr.Lt.Data",1
+"Chenlei Hu,JettHu",1
+"Chenlei Hu,Robin Huang",1
+"Andrew Kvochko,comfyanonymous",1
+"Alex ""mcmonkey"" Goodwin,comfyanonymous",1
+"Hayden Reeve,Bob Du",1
+"Hayden,Chenlei Hu",1
+"Hari,comfyanonymous",1
+"Guo Y.K,pythongosssss",1
+"Guo Y.K,comfyanonymous",1
+"Guo Y.K,Jairo Correa",1
+"EllangoK,藍+85CD",1
+"Guillaume Faguet,comfyanonymous",1
+"Gavroche CryptoRUSH,comfyanonymous",1
+"Farid Safi,Jairo Correa",1
+"EllangoK,missionfloyd",1
+"Enrico Fasoli,comfyanonymous",1
+"Kristjan Pärt,pythongosssss",1
+"MoonRide303,Chris",1
+"Robin Huang,Alex ""mcmonkey"" Goodwin",1
+"Qiacheng Li,comfyanonymous",1
+"Nick Teeple,comfyanonymous",1
+"Peter Crabtree,comfyanonymous",1
+"Muhammed Yusuf,comfyanonymous",1
+"Karun,comfyanonymous",1
+"Huang-Huang Bao,comfyanonymous",1
+"Karun,Tomoaki Hayasaka",1
+"Joe Colburn,comfyanonymous",1
+"Jianqi Pan,comfyanonymous",1
+"Jake D,jwd-dev",1
+"Jaret Burkett,comfyanonymous",1
+"Jairo Correa,mezzo-anon",1
+"Jairo Correa,Silversith",1
+"Jairo Correa,Guo Y.K",1
+"Huazhong Ji,comfyanonymous",1
+"comfyanonymous,Garrett Sutula",1
+"comfyanonymous,FizzleDorf",1
+"comfyanonymous,FeepingCreature",1
+"comfyanonymous,David",1
+"comfyanonymous,Corey",1
+"comfyanonymous,Dango233",1
+"comfyanonymous,Andrew Kvochko",1
+"comfyanonymous,Alexander Brown",1
+"Svein Ove Aas,comfyanonymous",1
+"TTPlanetPig,comfyanonymous",1
+"Vladislav,comfyanonymous",1
+"Xrvk,comfyanonymous",1
+"YAN Wenkun,comfyanonymous",1
+"Yukimasa Funaoka,comfyanonymous",1
+"Yurii Mazurevich,comfyanonymous",1
+"Zoltán Dócs,comfyanonymous",1
+"Silversith,ltdrdata",1
+"Shiimizu,Dmytro Mishkin",1
+"Robin Huang,filtered",1
+"Robin Huang,pythongosssss",1
+"Robin Huang,comfyanonymous",1
+"Robin Huang,Chenlei Hu",1
+"Jukka Seppänen,maedtb",1
+"Jorge Campo,comfyanonymous",1
+"comfyanonymous,Jonathan Avila",1
+"comfyanonymous,Michael Poutre",1
+"comfyanonymous,HishamC",1
+"comfyanonymous,Guo Y.K",1
+"comfyanonymous,Jairo Correa",1
+"comfyanonymous,Jake D",1
+"comfyanonymous,Jedrzej Kosinski",1
+"comfyanonymous,Jacob Segal",1
+"ljleb,comfyanonymous",1
+"flyingshutter,mligaintart",1
+"enzymezoo-code,comfyanonymous",1
+"filtered,comfyanonymous",1
+"comfyanonymous,藍+85CD",1
+"comfyanonymous,喵哩个咪",1
+"comfyanonymous,kk-89",1
+"comfyanonymous,sALTaccount",1
+"comfyanonymous,logtd",1
+"comfyanonymous,ltdrdata",1
+"comfyanonymous,Pam",1
+"comfyanonymous,MoonRide303",1
+"comfyanonymous,Robin Huang",1
+"comfyanonymous,Silversith",1
+"comfyanonymous,Svein Ove Aas",1
+"comfyanonymous,TTPlanetPig",1
+"pythongosssss,Karun",1
+"pythongosssss,FizzleDorf",1
+"omar92,mligaintart",1
+"mligaintart,sALTaccount",1
+"missionfloyd,EllangoK",1
+"masterpiecebestquality,comfyanonymous",1
+"mezzo-anon,Jairo Correa",1
+"missionfloyd,BlenderNeko",1
+"mara,comfyanonymous",1
+"sALTaccount,flyingshutter",1
+"pythongosssss,xss",1
+"reaper47,comfyanonymous",1
+"zhangp365,comfyanonymous",1
+"yoinked,comfyanonymous",1
+"zhoufan2956,comfyanonymous",1
+"藍+85CD,EllangoK",1
+,
+Committer Timezone Distribution,Unique Timezones: 19
+Timezone,Commits
++00:00,118
++01:00,115
++02:00,66
++03:00,5
++04:00,1
++05:00,1
++05:30,3
++06:00,1
++07:00,12
++08:00,19
++09:00,23
++10:00,9
++11:00,2
+-03:00,26
+-04:00,1779
+-05:00,1030
+-06:00,18
+-07:00,32
+-08:00,13
+,
+Contributors Experience,Average across 1119 files: 96.78%
+File,Top Contributor Share (%)
+LICENSE,100.00
+comfy/k_diffusion/augmentation.py,100.00
+comfy/k_diffusion/config.py,100.00
+comfy/k_diffusion/evaluation.py,100.00
+comfy/k_diffusion/external.py,100.00
+comfy/k_diffusion/gns.py,100.00
+comfy/k_diffusion/layers.py,100.00
+comfy/k_diffusion/models/__init__.py,100.00
+comfy/k_diffusion/models/image_v1.py,100.00
+comfy/k_diffusion/utils.py,100.00

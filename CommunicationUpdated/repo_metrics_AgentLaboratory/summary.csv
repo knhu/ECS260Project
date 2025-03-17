@@ -1,0 +1,43 @@
+Field,Value
+Commits Overview,
+Total Commits,25
+Total Unique Authors,8
+,
+Top 10 Contributors,
+Author,Commits
+SamuelSchmidgall,40
+Samuel Schmidgall,3
+Nino Risteski,2
+onezibo,1
+Kseniia Murasheva,1
+CharlesCNorton,1
+Marek Miltner,1
+Krishna Kumar,1
+,
+Communication Events,Total: 5
+"Author1,Author2",Events
+"SamuelSchmidgall,Samuel Schmidgall",2
+"Samuel Schmidgall,SamuelSchmidgall",1
+"SamuelSchmidgall,Marek Miltner",1
+"SamuelSchmidgall,Nino Risteski",1
+,
+Committer Timezone Distribution,Unique Timezones: 5
+Timezone,Commits
++00:00,3
++01:00,3
++08:00,1
+-05:00,17
+-08:00,1
+,
+Contributors Experience,Average across 29 files: 99.25%
+File,Top Contributor Share (%)
+LICENSE,100.00
+ai_lab_repo.py,100.00
+common_imports.py,100.00
+inference.py,100.00
+mlesolver.py,100.00
+readme/README-arabic.md,100.00
+readme/README-bengali.md,100.00
+readme/README-chinese.md,100.00
+readme/README-farsi.md,100.00
+readme/README-filipino.md,100.00

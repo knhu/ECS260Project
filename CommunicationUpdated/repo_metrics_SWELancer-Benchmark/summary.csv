@@ -1,0 +1,59 @@
+Field,Value
+Commits Overview,
+Total Commits,45
+Total Unique Authors,11
+,
+Top 10 Contributors,
+Author,Commits
+samuelgm-openai,7064
+Samuel Miserendino,2267
+r-openai,214
+Kevin Liu,30
+Tensor Templar,6
+Tejal Patwardhan,2
+Marc MacIntyre,1
+Ikko Eltociear Ashimine,1
+Kaan,1
+michele-openai,1
+,
+Communication Events,Total: 187
+"Author1,Author2",Events
+"Samuel Miserendino,samuelgm-openai",159
+"samuelgm-openai,Samuel Miserendino",8
+"Samuel Miserendino,Tensor Templar",3
+"Tensor Templar,Samuel Miserendino",2
+"Kevin Liu,samuelgm-openai",2
+"Samuel Miserendino,Kevin Liu",2
+"Ikko Eltociear Ashimine,Samuel Miserendino",1
+"Kevin Liu,Tejal Patwardhan",1
+"Kaan,Tensor Templar",1
+"Samuel Miserendino,Tejal Patwardhan",1
+"Samuel Miserendino,Marc MacIntyre",1
+"Samuel Miserendino,Kaan",1
+"Samuel Miserendino,Ikko Eltociear Ashimine",1
+"Tensor Templar,Kevin Liu",1
+"Tejal Patwardhan,Tensor Templar",1
+"Tensor Templar,samuelgm-openai",1
+"samuelgm-openai,michele-openai",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++00:00,12
++01:00,1
++02:00,3
++09:00,1
++11:00,1
+-08:00,27
+,
+Contributors Experience,Average across 3224 files: 94.42%
+File,Top Contributor Share (%)
+.gitignore,100.00
+LICENSE.md,100.00
+issues/12155_1/bug_reintroduce.patch,100.00
+issues/12155_1/commit_id.txt,100.00
+issues/12155_1/issue_data.json,100.00
+issues/12155_1/test.py,100.00
+issues/12155_1/user_tool.py,100.00
+issues/13006/bug_reintroduce.patch,100.00
+issues/13006/commit_id.txt,100.00
+issues/13006/issue_data.json,100.00

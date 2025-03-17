@@ -1,0 +1,304 @@
+file,author1,author2,time1,time2
+.azure-pipelines/azure-pipelines-docs.yml,Oriol Abril,Oriol (Prodesk),2020-03-14 16:00:01+01:00,2020-03-14 18:27:50+01:00
+.azure-pipelines/azure-pipelines-docs.yml,Oriol Abril-Pla,Colin,2021-01-20 16:22:26+01:00,2021-01-20 17:00:29+01:00
+.azure-pipelines/azure-pipelines-external.yml,Ari Hartikainen,Camille Bruckmann,2022-11-29 23:53:01+02:00,2022-11-30 15:07:53+01:00
+.coveragerc,Ravin Kumar,Ari Hartikainen,2018-12-30 02:42:36-08:00,2018-12-31 02:16:06+02:00
+.travis.yml,Colin Carroll,Colin,2018-05-24 10:36:22-04:00,2018-05-24 10:46:10-04:00
+.travis.yml,Colin,Colin Carroll,2018-05-24 10:46:10-04:00,2018-05-24 22:32:05-04:00
+.travis.yml,Ravin Kumar,Ari Hartikainen,2018-12-30 02:42:36-08:00,2018-12-30 16:14:46+02:00
+.travis.yml,Ari Hartikainen,Ravin Kumar,2019-01-15 00:27:09+02:00,2019-01-15 07:29:30-08:00
+.travis.yml,Ravin Kumar,Ari Hartikainen,2019-01-15 07:29:30-08:00,2019-01-15 08:58:03-08:00
+.travis.yml,Ari Hartikainen,Ravin Kumar,2019-01-16 14:56:09+02:00,2019-01-16 16:39:34-08:00
+CHANGELOG.md,rpgoldman,Osvaldo Martin,2020-01-19 23:47:42+01:00,2020-01-20 09:50:48-03:00
+CHANGELOG.md,Osvaldo Martin,Oriol Abril,2020-01-20 09:50:48-03:00,2020-01-20 23:04:37+01:00
+CHANGELOG.md,Piyush Gautam,Osvaldo Martin,2020-01-22 09:14:15-03:00,2020-01-22 10:28:08-03:00
+CHANGELOG.md,Oriol Abril,Ari Hartikainen,2020-01-28 09:19:22+02:00,2020-01-29 07:46:11+02:00
+CHANGELOG.md,amukh18,Vincent Bouttier,2020-02-06 21:01:44+01:00,2020-02-06 21:02:29+01:00
+CHANGELOG.md,Vincent Bouttier,Agustina Arroyuelo,2020-02-06 21:02:29+01:00,2020-02-06 21:30:52+01:00
+CHANGELOG.md,Oriol Abril,Piyush Gautam,2020-02-11 23:34:15+01:00,2020-02-11 23:42:31+01:00
+CHANGELOG.md,Piyush Gautam,Ari Hartikainen,2020-02-11 23:42:31+01:00,2020-02-12 17:13:28+02:00
+CHANGELOG.md,Ari Hartikainen,Piyush Gautam,2020-02-12 17:13:28+02:00,2020-02-13 14:03:00+02:00
+CHANGELOG.md,Piyush Gautam,Ari Hartikainen,2020-02-13 14:03:00+02:00,2020-02-13 16:25:09+02:00
+CHANGELOG.md,Ari Hartikainen,Piyush Gautam,2020-02-13 16:25:09+02:00,2020-02-13 16:31:49+02:00
+CHANGELOG.md,Piyush Gautam,Oriol Abril,2020-02-13 16:31:49+02:00,2020-02-14 15:03:48+01:00
+CHANGELOG.md,Oriol Abril,amukh18,2020-03-01 19:50:36+01:00,2020-03-01 23:22:33+02:00
+CHANGELOG.md,amukh18,Piyush Gautam,2020-03-01 23:22:33+02:00,2020-03-02 20:22:38+01:00
+CHANGELOG.md,Piyush Gautam,Oriol Abril,2020-03-02 20:22:38+01:00,2020-03-02 23:04:25+01:00
+CHANGELOG.md,Agustina Arroyuelo,Alexandre ANDORRA,2020-03-19 08:06:29-03:00,2020-03-19 11:41:40-03:00
+CHANGELOG.md,Hector,Piyush Gautam,2020-04-02 10:34:21-03:00,2020-04-02 14:14:43-03:00
+CHANGELOG.md,Ari Hartikainen,Osvaldo Martin,2020-04-06 09:55:04+03:00,2020-04-06 17:07:23+03:00
+CHANGELOG.md,Smit Sanghavi,Ari Hartikainen,2020-04-08 09:59:08-03:00,2020-04-09 09:58:33+03:00
+CHANGELOG.md,Nitish Pasricha,Osvaldo Martin,2020-04-12 23:03:46+03:00,2020-04-13 09:29:34-03:00
+CHANGELOG.md,Osvaldo Martin,Agustina Arroyuelo,2020-04-13 09:29:34-03:00,2020-04-13 09:30:15-03:00
+CHANGELOG.md,Nitish Pasricha,Alexandre ANDORRA,2020-04-16 02:12:28+02:00,2020-04-16 12:36:57+02:00
+CHANGELOG.md,Ravin Kumar,Oriol Abril,2020-05-15 15:38:30-07:00,2020-05-16 15:21:55-07:00
+CHANGELOG.md,Oriol Abril,Osvaldo Martin,2020-05-17 19:52:23-07:00,2020-05-18 07:48:13-07:00
+CHANGELOG.md,Osvaldo Martin,Ari Hartikainen,2020-05-18 07:48:13-07:00,2020-05-18 19:59:36+03:00
+CHANGELOG.md,Dominik Stańczak,Osvaldo Martin,2020-06-01 18:49:14+02:00,2020-06-01 18:49:32+02:00
+CHANGELOG.md,Michael Nowotny,Piyush Gautam,2020-06-09 19:20:28+02:00,2020-06-09 21:20:53+02:00
+CHANGELOG.md,Piyush Gautam,Oriol Abril,2020-06-09 21:20:53+02:00,2020-06-10 08:10:57-07:00
+CHANGELOG.md,Chris Fonnesbeck,Oriol Abril-Pla,2020-06-17 07:19:04-07:00,2020-06-17 16:32:52+02:00
+CHANGELOG.md,Oriol Abril-Pla,Du Phan,2020-06-17 16:32:52+02:00,2020-06-18 10:07:21+02:00
+CHANGELOG.md,Michael Nowotny,Oriol Abril-Pla,2020-06-22 19:48:54+03:00,2020-06-22 20:01:04+03:00
+CHANGELOG.md,Oriol Abril-Pla,Alexandre ANDORRA,2020-06-22 20:07:50+03:00,2020-06-23 15:18:11+02:00
+CHANGELOG.md,Samasth N A,Agustina Arroyuelo,2020-07-24 09:04:43-03:00,2020-07-24 10:18:25-03:00
+CHANGELOG.md,Agustina Arroyuelo,Samasth N A,2020-08-14 10:33:06-03:00,2020-08-14 10:34:40-03:00
+CHANGELOG.md,Ari Hartikainen,Osvaldo Martin,2020-08-17 01:15:53+03:00,2020-08-17 16:11:07-03:00
+CHANGELOG.md,Ari Hartikainen,Agustina Arroyuelo,2020-09-02 11:54:24+03:00,2020-09-02 08:25:01-03:00
+CHANGELOG.md,Ari Hartikainen,Osvaldo Martin,2020-09-21 22:52:51+02:00,2020-09-22 00:54:29+02:00
+CHANGELOG.md,Osvaldo Martin,Oriol Abril-Pla,2020-09-22 00:54:29+02:00,2020-09-22 21:39:02+03:00
+CHANGELOG.md,Oriol Abril-Pla,Ari Hartikainen,2020-09-22 21:39:02+03:00,2020-09-23 16:15:29+03:00
+CHANGELOG.md,Ari Hartikainen,Piyush Gautam,2020-09-23 16:15:29+03:00,2020-09-23 18:38:35+03:00
+CHANGELOG.md,Piyush Gautam,Osvaldo Martin,2020-09-23 18:38:35+03:00,2020-09-23 18:19:31-03:00
+CHANGELOG.md,Osvaldo Martin,Oriol Abril-Pla,2020-09-23 18:19:31-03:00,2020-09-24 00:57:47+02:00
+CHANGELOG.md,Seth Axen,Ari Hartikainen,2020-10-05 07:50:02-04:00,2020-10-05 17:56:33+03:00
+CHANGELOG.md,Ari Hartikainen,Oriol Abril-Pla,2020-10-05 17:56:33+03:00,2020-10-05 20:39:48+02:00
+CHANGELOG.md,Oriol Abril-Pla,Ari Hartikainen,2020-10-05 20:39:48+02:00,2020-10-05 22:10:22+03:00
+CHANGELOG.md,Ari Hartikainen,Abhisht Singh,2020-10-05 22:10:22+03:00,2020-10-05 23:16:35+03:00
+CHANGELOG.md,Ari Hartikainen,Oriol Abril-Pla,2020-10-14 22:13:05+03:00,2020-10-15 16:30:49+02:00
+CHANGELOG.md,Osvaldo Martin,Agustina Arroyuelo,2020-10-23 11:34:18-03:00,2020-10-23 11:35:35-03:00
+CHANGELOG.md,Piyush Gautam,Nitish Pasricha,2021-01-16 02:28:58+01:00,2021-01-16 02:36:56+01:00
+CHANGELOG.md,Nitish Pasricha,rpgoldman,2021-01-16 02:36:56+01:00,2021-01-16 03:22:55+01:00
+CHANGELOG.md,Oriol Abril-Pla,semohr,2021-02-06 17:32:41+01:00,2021-02-06 17:36:06+01:00
+CHANGELOG.md,semohr,Osvaldo Martin,2021-02-06 17:36:06+01:00,2021-02-07 15:17:24+01:00
+CHANGELOG.md,Utkarsh Mahweshwari,Osvaldo Martin,2021-02-09 19:01:55+01:00,2021-02-10 18:05:49+01:00
+CHANGELOG.md,Osvaldo Martin,Madhu Charan,2021-02-14 06:27:05+01:00,2021-02-14 06:28:47+01:00
+CHANGELOG.md,Madhu Charan,Marco Gorelli,2021-02-14 06:28:47+01:00,2021-02-14 19:32:59+01:00
+CHANGELOG.md,Marco Gorelli,Rishabh Sanjay,2021-02-14 19:32:59+01:00,2021-02-14 19:50:25+01:00
+CHANGELOG.md,Rishabh Sanjay,Utkarsh Mahweshwari,2021-02-15 23:23:05+01:00,2021-02-15 23:27:37+01:00
+CHANGELOG.md,Mragank Shekhar,Ari Hartikainen,2021-02-18 12:44:09+01:00,2021-02-18 14:38:54+02:00
+CHANGELOG.md,Teddy Groves,Oriol Abril-Pla,2021-02-24 23:12:56+01:00,2021-02-24 23:53:03+01:00
+CHANGELOG.md,Eelke Spaak,Mragank Shekhar,2021-03-03 12:07:53+02:00,2021-03-04 00:02:07+01:00
+CHANGELOG.md,Mragank Shekhar,Rishabh Sanjay,2021-03-04 00:02:07+01:00,2021-03-04 18:57:04+01:00
+CHANGELOG.md,Rishabh Sanjay,Madhu Charan,2021-03-04 18:57:04+01:00,2021-03-05 01:03:36+02:00
+CHANGELOG.md,Madhu Charan,Agustina Arroyuelo,2021-03-05 01:03:36+02:00,2021-03-05 15:28:48+01:00
+CHANGELOG.md,Agustina Arroyuelo,Ari Hartikainen,2021-03-05 15:29:32+01:00,2021-03-05 15:30:54+01:00
+CHANGELOG.md,Rishabh Sanjay,Madhu Charan,2021-03-10 09:11:42+01:00,2021-03-10 09:12:03+01:00
+CHANGELOG.md,Madhu Charan,Oriol Abril-Pla,2021-03-10 09:12:03+01:00,2021-03-10 09:12:20+01:00
+CHANGELOG.md,Kim,Rishabh Sanjay,2021-03-19 16:53:10+02:00,2021-03-19 21:48:07+01:00
+CHANGELOG.md,Mragank Shekhar,Oriol Abril-Pla,2021-03-26 01:59:19+01:00,2021-03-26 14:08:41+01:00
+CHANGELOG.md,Oriol Abril-Pla,Agustina Arroyuelo,2021-03-26 14:08:41+01:00,2021-03-26 16:27:50+02:00
+CHANGELOG.md,Agustina Arroyuelo,Oriol Abril-Pla,2021-03-26 16:27:50+02:00,2021-03-26 22:09:01+01:00
+CHANGELOG.md,Rishabh Sanjay,rpgoldman,2021-03-30 16:39:19+02:00,2021-03-30 16:39:43+02:00
+CHANGELOG.md,Vikram Nag Ashoka,Ari Hartikainen,2021-06-14 15:04:23+03:00,2021-06-14 15:29:50+03:00
+CHANGELOG.md,Ari Hartikainen,Peter Roelants,2021-10-01 20:52:41+03:00,2021-10-02 14:57:40+03:00
+CHANGELOG.md,Peter Roelants,Ari Hartikainen,2021-10-02 14:57:40+03:00,2021-10-03 13:43:26+03:00
+CHANGELOG.md,Hector,Jamie Morton,2021-11-13 19:09:53+02:00,2021-11-14 18:31:20+02:00
+CHANGELOG.md,Jamie Morton,Ari Hartikainen,2021-11-14 18:31:20+02:00,2021-11-14 18:33:26+02:00
+CHANGELOG.md,Utkarsh Mahweshwari,George Alkis Alexopoulos,2022-03-23 12:55:21+02:00,2022-03-23 13:39:35+02:00
+CHANGELOG.md,George Alkis Alexopoulos,Rishabh Sanjay,2022-03-23 13:39:35+02:00,2022-03-23 14:03:14+02:00
+CHANGELOG.md,Rishabh Sanjay,Oriol Abril-Pla,2022-03-23 14:03:14+02:00,2022-03-23 14:08:23+02:00
+CHANGELOG.md,Oriol Abril-Pla,Ari Hartikainen,2022-03-23 14:08:23+02:00,2022-03-23 20:17:16+02:00
+CHANGELOG.md,Jacki Buros Novik,Oriol Abril-Pla,2022-05-13 01:05:37+03:00,2022-05-13 01:52:07+03:00
+CHANGELOG.md,Oriol Abril-Pla,Rob Zinkov,2022-05-13 01:52:07+03:00,2022-05-13 19:00:56+03:00
+CHANGELOG.md,Ari Hartikainen,Seth Axen,2022-09-08 19:01:21+03:00,2022-09-08 19:03:21+03:00
+CHANGELOG.md,Ari Hartikainen,Agustina Arroyuelo,2022-10-06 09:54:08+03:00,2022-10-06 09:56:31+03:00
+CHANGELOG.md,Agustina Arroyuelo,Rob Zinkov,2022-10-06 09:56:31+03:00,2022-10-06 14:51:06+03:00
+CHANGELOG.md,Agustina Arroyuelo,Ari Hartikainen,2022-10-22 17:12:49+02:00,2022-10-22 19:03:26+03:00
+CHANGELOG.md,Osvaldo A Martin,tspeng,2022-11-14 11:27:24-03:00,2022-11-15 09:21:50+02:00
+CHANGELOG.md,tspeng,Rob Zinkov,2022-11-15 09:21:50+02:00,2022-11-15 21:41:15-03:00
+CHANGELOG.md,Rob Zinkov,Oriol Abril-Pla,2022-12-06 14:20:43+01:00,2022-12-06 14:32:35+01:00
+CHANGELOG.md,Ravin Kumar,Antoine Petit,2023-02-21 18:48:40+01:00,2023-02-21 19:24:32+01:00
+CHANGELOG.md,Oriol Abril-Pla,Ari Hartikainen,2023-06-10 10:23:05+02:00,2023-06-10 10:54:33+02:00
+CHANGELOG.md,Ari Hartikainen,Varchas Gopalaswamy,2023-06-10 10:54:33+02:00,2023-06-10 11:42:11+02:00
+CHANGELOG.md,Oriol Abril-Pla,Colin Carroll,2024-03-13 18:42:30+01:00,2024-03-14 01:06:59+01:00
+CHANGELOG.md,Colin Carroll,Oriol Abril-Pla,2024-03-14 01:06:59+01:00,2024-03-14 17:16:41+01:00
+CHANGELOG.md,Luciano Paz,Oriol Abril-Pla,2024-04-04 19:49:01+02:00,2024-04-04 22:59:47+02:00
+CHANGELOG.md,Oriol Abril-Pla,Osvaldo A Martin,2024-07-19 20:01:10+02:00,2024-07-19 16:00:30-03:00
+CHANGELOG.md,Varun Totakura,Seth Axen,2024-08-28 17:50:29+02:00,2024-08-28 22:17:07+02:00
+README.md,Jon Malmaud,Ravin Kumar,2018-12-31 20:40:49-08:00,2018-12-31 20:51:25-08:00
+README.md,Ari Hartikainen,Osvaldo Martin,2019-01-15 21:15:58-03:00,2019-01-16 10:59:31-03:00
+README.md,Ari Hartikainen,Oriol Abril,2020-02-21 23:50:11+01:00,2020-02-22 09:49:23+02:00
+README.md,Ravin Kumar,Colin,2021-02-07 19:46:42-05:00,2021-02-08 02:24:08+01:00
+arviz/__init__.py,Oriol Abril,Michael Osthege,2020-05-24 19:17:00+02:00,2020-05-25 16:41:22+02:00
+arviz/__init__.py,Ari Hartikainen,Oriol Abril-Pla,2022-03-23 20:21:06+02:00,2022-03-23 21:01:24+02:00
+arviz/__init__.py,Oriol Abril-Pla,Rob Zinkov,2022-11-15 15:51:54+01:00,2022-11-15 21:41:15-03:00
+arviz/__init__.py,Oriol Abril-Pla,Osvaldo A Martin,2024-07-19 20:01:10+02:00,2024-07-19 16:00:30-03:00
+arviz/data/__init__.py,Colin,Ari Hartikainen,2018-09-29 21:40:17-04:00,2018-09-30 14:02:30-04:00
+arviz/data/base.py,Oriol Abril-Pla,Ari Hartikainen,2020-09-22 21:39:02+03:00,2020-09-23 16:15:29+03:00
+arviz/data/base.py,Oriol Abril-Pla,Predrag Gruevski,2021-02-21 23:59:37+01:00,2021-02-22 12:40:28+01:00
+arviz/data/base.py,Predrag Gruevski,Peter Steyer,2021-02-22 12:40:28+01:00,2021-02-23 00:19:05+01:00
+arviz/data/convert/__init__.py,Ari Hartikainen,Ravin Kumar,2018-09-18 22:26:55-07:00,2018-09-19 19:17:12-07:00
+arviz/data/inference_data.py,Oriol Abril-Pla,Ari Hartikainen,2020-09-22 21:39:02+03:00,2020-09-23 16:15:29+03:00
+arviz/data/inference_data.py,Ari Hartikainen,Piyush Gautam,2020-09-23 16:15:29+03:00,2020-09-23 18:38:35+03:00
+arviz/data/inference_data.py,Oriol Abril-Pla,Predrag Gruevski,2021-01-10 00:42:15+01:00,2021-01-10 02:05:28+01:00
+arviz/data/inference_data.py,Piyush Gautam,Predrag Gruevski,2021-01-16 02:28:58+01:00,2021-01-16 03:23:51+01:00
+arviz/data/inference_data.py,Predrag Gruevski,rpgoldman,2021-01-16 03:23:51+01:00,2021-01-16 13:08:16-03:00
+arviz/data/inference_data.py,Jamie Morton,Ari Hartikainen,2021-11-14 18:31:20+02:00,2021-11-14 18:33:26+02:00
+arviz/data/inference_data.py,Meenal Jhajharia,Piyush Gautam,2022-01-16 12:47:08+02:00,2022-01-16 18:37:36+02:00
+arviz/data/inference_data.py,Michael Osthege,Ari Hartikainen,2022-10-22 17:13:50+02:00,2022-10-22 19:03:26+03:00
+arviz/data/io_cmdstan.py,Osvaldo Martin,Ero Carrera,2021-08-25 11:16:40+03:00,2021-08-26 07:18:51+03:00
+arviz/data/io_cmdstanpy.py,Utkarsh Mahweshwari,Mitzi Morris,2021-02-15 23:27:37+01:00,2021-02-16 06:10:05+01:00
+arviz/data/io_dict.py,Oriol Abril-Pla,Ari Hartikainen,2020-09-22 21:39:02+03:00,2020-09-23 16:15:29+03:00
+arviz/data/io_pymc3.py,Ravin Kumar,Osvaldo Martin,2018-09-19 19:17:12-07:00,2018-09-20 14:33:56-04:00
+arviz/data/io_pymc3.py,Osvaldo Martin,Ravin Kumar,2018-09-20 14:33:56-04:00,2018-09-20 14:35:05-04:00
+arviz/data/io_pymc3.py,Brandon T. Willard,Madhu Charan,2021-02-14 06:27:54+01:00,2021-02-14 06:28:47+01:00
+arviz/data/io_pymc3.py,Eelke Spaak,Mragank Shekhar,2021-03-03 12:07:53+02:00,2021-03-04 00:02:07+01:00
+arviz/data/io_pymc3.py,Mragank Shekhar,Oriol Abril-Pla,2021-03-26 01:59:19+01:00,2021-03-26 22:09:01+01:00
+arviz/data/io_pystan.py,Ravin Kumar,Ari Hartikainen,2018-09-19 19:17:12-07:00,2018-09-20 07:31:08+03:00
+arviz/data/io_pystan.py,Ari Hartikainen,Ravin Kumar,2018-09-20 11:32:27-03:00,2018-09-20 14:35:05-04:00
+arviz/data/io_pystan.py,Madhu Charan,Ari Hartikainen,2021-03-05 01:03:36+02:00,2021-03-05 17:54:08+02:00
+arviz/plots/autocorrplot.py,Ravin Kumar,Colin Carroll,2018-09-02 13:31:17-07:00,2018-09-03 15:34:39-04:00
+arviz/plots/backends/matplotlib/ppcplot.py,Nitish Pasricha,Piyush Gautam,2020-01-17 12:54:52+01:00,2020-01-17 22:52:51+02:00
+arviz/plots/backends/matplotlib/traceplot.py,Nitish Pasricha,Osvaldo Martin,2020-04-12 23:03:46+03:00,2020-04-13 09:29:34-03:00
+arviz/plots/densityplot.py,Ravin Kumar,Colin Carroll,2018-09-02 13:31:17-07:00,2018-09-03 15:34:39-04:00
+arviz/plots/densityplot.py,Colin Carroll,Ravin Kumar,2018-09-03 15:34:39-04:00,2018-09-03 19:46:42-07:00
+arviz/plots/densityplot.py,Ravin Kumar,Colin Carroll,2018-09-03 19:46:42-07:00,2018-09-04 00:16:41-04:00
+arviz/plots/densityplot.py,Osvaldo Martin,rpgoldman,2018-11-15 20:56:32+02:00,2018-11-16 13:58:12-03:00
+arviz/plots/densityplot.py,Piyush Gautam,Andy Gimblett,2020-01-22 09:14:15-03:00,2020-01-22 10:26:32-03:00
+arviz/plots/densityplot.py,Prahas Ranjan,Eric Chen,2022-03-01 22:54:50+02:00,2022-03-02 07:21:35+02:00
+arviz/plots/distplot.py,Oriol Abril,Osvaldo Martin,2019-11-09 21:20:42-03:00,2019-11-09 20:35:58-08:00
+arviz/plots/elpdplot.py,Ari Hartikainen,Oriol Abril,2019-12-08 23:00:25+02:00,2019-12-09 20:05:42+02:00
+arviz/plots/essplot.py,Oriol Abril,Aniruddha Banerjea,2019-07-31 13:13:54-03:00,2019-07-31 21:20:52+02:00
+arviz/plots/forestplot.py,Colin Carroll,Ravin Kumar,2018-09-03 15:34:39-04:00,2018-09-03 19:46:42-07:00
+arviz/plots/forestplot.py,Osvaldo Martin,Colin,2018-10-09 13:31:14-03:00,2018-10-10 08:17:14-04:00
+arviz/plots/forestplot.py,Osvaldo Martin,Ari Hartikainen,2019-01-29 13:52:25+02:00,2019-01-29 13:52:45+02:00
+arviz/plots/forestplot.py,Oriol Abril,Osvaldo Martin,2019-11-09 21:20:42-03:00,2019-11-09 20:36:22-08:00
+arviz/plots/jointplot.py,Ravin Kumar,Colin Carroll,2018-09-02 13:31:17-07:00,2018-09-03 15:34:39-04:00
+arviz/plots/kdeplot.py,Osvaldo Martin,Ari Hartikainen,2019-01-14 21:24:56-08:00,2019-01-15 09:44:41+02:00
+arviz/plots/kdeplot.py,Oriol Abril,Osvaldo Martin,2019-04-16 16:31:12-03:00,2019-04-17 14:33:28-03:00
+arviz/plots/pairplot.py,Ari Hartikainen,Ravin Kumar,2018-09-19 17:41:50-04:00,2018-09-20 14:35:05-04:00
+arviz/plots/pairplot.py,Ravin Kumar,Colin,2018-09-25 00:43:53-04:00,2018-09-25 17:08:59-07:00
+arviz/plots/pairplot.py,Colin,Ravin Kumar,2018-09-29 21:40:17-04:00,2018-09-29 23:55:48-04:00
+arviz/plots/pairplot.py,Ravin Kumar,Agustina Arroyuelo,2019-03-03 18:24:11-03:00,2019-03-03 14:31:20-08:00
+arviz/plots/pairplot.py,Agustina Arroyuelo,rpgoldman,2020-03-05 22:52:28+01:00,2020-03-06 14:02:30+01:00
+arviz/plots/pairplot.py,Nitish Pasricha,Agustina Arroyuelo,2020-04-12 23:03:46+03:00,2020-04-13 09:30:15-03:00
+arviz/plots/pairplot.py,Agustina Arroyuelo,Oriol Abril,2020-05-05 00:58:52+02:00,2020-05-05 02:02:42+02:00
+arviz/plots/parallelplot.py,Colin Carroll,canyon,2018-09-03 15:34:39-04:00,2018-09-03 19:08:04-07:00
+arviz/plots/parallelplot.py,canyon,Ravin Kumar,2018-09-03 19:08:04-07:00,2018-09-03 19:46:24-07:00
+arviz/plots/parallelplot.py,Ari Hartikainen,Ravin Kumar,2018-09-19 17:41:50-04:00,2018-09-20 14:35:05-04:00
+arviz/plots/plot_utils.py,Colin Carroll,canyon,2018-09-03 15:34:39-04:00,2018-09-03 19:08:04-07:00
+arviz/plots/plot_utils.py,canyon,Ravin Kumar,2018-09-03 19:08:04-07:00,2018-09-03 19:46:24-07:00
+arviz/plots/plot_utils.py,Osvaldo Martin,Ravin Kumar,2018-10-10 11:58:08-03:00,2018-10-11 09:22:17-04:00
+arviz/plots/posteriorplot.py,Osvaldo Martin,aloctavodia,2018-05-20 08:27:03-03:00,2018-05-20 12:32:44-03:00
+arviz/plots/posteriorplot.py,Osvaldo Martin,aloctavodia,2018-08-10 16:36:54-03:00,2018-08-10 19:55:32-03:00
+arviz/plots/posteriorplot.py,Ravin Kumar,Colin Carroll,2018-09-02 13:31:17-07:00,2018-09-03 15:34:39-04:00
+arviz/plots/posteriorplot.py,Osvaldo Martin,Ravin Kumar,2018-10-10 11:58:08-03:00,2018-10-11 09:22:17-04:00
+arviz/plots/posteriorplot.py,rpgoldman,Colin,2019-06-22 15:49:51-04:00,2019-06-23 11:08:49-04:00
+arviz/plots/ppcplot.py,Ari Hartikainen,Ravin Kumar,2018-09-20 11:32:27-03:00,2018-09-20 14:34:39-04:00
+arviz/plots/ppcplot.py,Osvaldo A Martin,tspeng,2022-11-14 11:27:24-03:00,2022-11-15 09:21:50+02:00
+arviz/plots/rankplot.py,Osvaldo Martin,Oriol Abril,2019-11-14 15:52:44-03:00,2019-11-15 02:30:05+01:00
+arviz/plots/rankplot.py,Nitish Pasricha,Osvaldo Martin,2020-04-12 23:03:46+03:00,2020-04-13 09:29:34-03:00
+arviz/plots/traceplot.py,Ravin Kumar,Colin Carroll,2018-09-02 13:31:17-07:00,2018-09-03 15:34:39-04:00
+arviz/plots/traceplot.py,Predrag Gruevski,Ravin Kumar,2021-01-19 22:55:42-05:00,2021-01-19 23:00:12-05:00
+arviz/plots/violintraceplot.py,Ravin Kumar,Colin Carroll,2018-08-24 10:45:38-03:00,2018-08-24 12:05:12-04:00
+arviz/plots/violintraceplot.py,Ravin Kumar,Colin Carroll,2018-09-02 13:31:17-07:00,2018-09-03 15:34:39-04:00
+arviz/rcparams.py,Ravin Kumar,Oriol Abril,2020-05-15 15:38:30-07:00,2020-05-16 15:21:55-07:00
+arviz/stats/diagnostics.py,Colin,Agustina Arroyuelo,2018-05-15 08:50:00-03:00,2018-05-15 11:12:34-03:00
+arviz/stats/diagnostics.py,Ari Hartikainen,Osvaldo Martin,2018-10-09 07:28:25+03:00,2018-10-09 13:31:05-03:00
+arviz/stats/diagnostics.py,Osvaldo Martin,Ari Hartikainen,2019-01-29 13:52:25+02:00,2019-01-29 13:52:45+02:00
+arviz/stats/stats.py,Ari Hartikainen,Osvaldo Martin,2018-10-09 07:28:25+03:00,2018-10-09 13:31:05-03:00
+arviz/stats/stats.py,Ravin Kumar,Thummanoon Kunanuntakij,2018-10-13 10:23:57-04:00,2018-10-13 09:09:50-07:00
+arviz/stats/stats.py,Osvaldo Martin,Ari Hartikainen,2019-01-29 13:52:25+02:00,2019-01-29 13:52:45+02:00
+arviz/stats/stats.py,arabidopsis,Ari Hartikainen,2019-05-10 17:46:14-03:00,2019-05-11 09:46:37-03:00
+arviz/stats/stats.py,Ravin Kumar,Oriol Abril,2019-07-29 08:28:49-03:00,2019-07-29 14:51:11-03:00
+arviz/stats/stats.py,rpgoldman,Seth Axen,2019-11-14 20:29:37+02:00,2019-11-14 13:50:21-08:00
+arviz/stats/stats.py,Ravin Kumar,Oriol Abril,2020-05-15 15:38:30-07:00,2020-05-16 15:21:55-07:00
+arviz/stats/stats.py,Oriol Abril,Osvaldo Martin,2020-05-17 19:52:23-07:00,2020-05-18 07:48:13-07:00
+arviz/stats/stats.py,Osvaldo Martin,Oriol Abril,2020-05-18 07:48:13-07:00,2020-05-18 20:45:06+02:00
+arviz/stats/stats.py,Ari Hartikainen,Brandon T. Willard,2020-08-10 16:17:33+03:00,2020-08-10 22:53:38-07:00
+arviz/stats/stats.py,Oriol Abril-Pla,Ari Hartikainen,2020-10-05 20:39:48+02:00,2020-10-05 22:10:22+03:00
+arviz/stats/stats.py,Ari Hartikainen,Abhisht Singh,2020-10-05 22:10:22+03:00,2020-10-05 23:16:35+03:00
+arviz/stats/stats.py,Abhisht Singh,Nitish Pasricha,2020-10-05 23:16:35+03:00,2020-10-06 01:02:32+03:00
+arviz/stats/stats.py,Oriol Abril-Pla,Osvaldo A Martin,2024-06-05 10:15:15+02:00,2024-06-05 15:01:48-03:00
+arviz/stats/stats_utils.py,Ari Hartikainen,Oriol Abril,2020-02-13 16:25:09+02:00,2020-02-14 15:03:48+01:00
+arviz/tests/base_tests/test_data.py,Oriol Abril-Pla,Piyush Gautam,2020-09-22 21:39:02+03:00,2020-09-23 18:38:35+03:00
+arviz/tests/base_tests/test_data.py,Michael Osthege,Ari Hartikainen,2022-10-22 17:13:50+02:00,2022-10-22 19:03:26+03:00
+arviz/tests/base_tests/test_plots_bokeh.py,Utkarsh Mahweshwari,Rishabh Sanjay,2022-03-23 12:55:21+02:00,2022-03-23 14:03:14+02:00
+arviz/tests/base_tests/test_plots_bokeh.py,Rishabh Sanjay,Oriol Abril-Pla,2022-03-23 14:03:14+02:00,2022-03-23 14:08:23+02:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Oriol Abril,Osvaldo Martin,2020-04-06 09:42:02+03:00,2020-04-06 17:07:23+03:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Nitish Pasricha,Agustina Arroyuelo,2020-04-12 23:03:46+03:00,2020-04-13 09:30:15-03:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Agustina Arroyuelo,Samasth N A,2020-08-14 10:33:06-03:00,2020-08-14 10:34:40-03:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Osvaldo Martin,Ari Hartikainen,2020-08-17 16:11:07-03:00,2020-08-18 21:13:57+03:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Agustina Arroyuelo,Osvaldo Martin,2020-08-27 08:15:34-03:00,2020-08-27 17:46:47-03:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Osvaldo Martin,Agustina Arroyuelo,2020-10-23 11:34:18-03:00,2020-10-23 11:35:35-03:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Osvaldo Martin,Marco Gorelli,2021-02-14 06:27:05+01:00,2021-02-14 19:32:59+01:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Prahas Ranjan,William Martin,2022-03-01 22:54:50+02:00,2022-03-02 00:44:38+02:00
+arviz/tests/base_tests/test_plots_matplotlib.py,William Martin,Eric Chen,2022-03-02 00:44:38+02:00,2022-03-02 07:21:35+02:00
+arviz/tests/base_tests/test_plots_matplotlib.py,Utkarsh Mahweshwari,George Alkis Alexopoulos,2022-03-23 12:55:21+02:00,2022-03-23 13:39:35+02:00
+arviz/tests/base_tests/test_plots_matplotlib.py,George Alkis Alexopoulos,Rishabh Sanjay,2022-03-23 13:39:35+02:00,2022-03-23 14:03:14+02:00
+arviz/tests/base_tests/test_stats.py,Ravin Kumar,Oriol Abril,2020-05-15 15:38:30-07:00,2020-05-16 15:21:55-07:00
+arviz/tests/external_tests/test_data_pymc.py,Oriol Abril,Michael Osthege,2020-05-24 19:17:00+02:00,2020-05-25 16:41:22+02:00
+arviz/tests/external_tests/test_data_pymc.py,Mragank Shekhar,Oriol Abril-Pla,2021-03-26 01:59:19+01:00,2021-03-26 22:09:01+01:00
+arviz/tests/test_data.py,Colin,Ari Hartikainen,2018-09-18 21:07:53-04:00,2018-09-18 22:26:55-07:00
+arviz/tests/test_data.py,Colin,Ari Hartikainen,2018-09-29 21:40:17-04:00,2018-09-30 14:02:30-04:00
+arviz/tests/test_data_emcee.py,Ari Hartikainen,Oriol Abril,2019-10-29 09:54:59+01:00,2019-10-29 16:34:54+01:00
+arviz/tests/test_data_pymc.py,Ari Hartikainen,Ravin Kumar,2019-06-05 17:01:47+03:00,2019-06-06 08:12:37+03:00
+arviz/tests/test_plots.py,Agustina Arroyuelo,Osvaldo Martin,2018-04-27 16:29:20-03:00,2018-04-28 08:51:11-03:00
+arviz/tests/test_plots.py,Ravin Kumar,Colin Carroll,2018-08-24 10:45:38-03:00,2018-08-24 12:01:52-04:00
+arviz/tests/test_plots.py,Ravin Kumar,Colin Carroll,2018-09-05 21:14:12-07:00,2018-09-06 06:43:10-07:00
+arviz/tests/test_plots.py,Colin,Ari Hartikainen,2018-09-18 21:07:53-04:00,2018-09-18 22:26:55-07:00
+arviz/tests/test_plots.py,Colin,Ravin Kumar,2018-09-29 21:40:17-04:00,2018-09-29 23:55:48-04:00
+arviz/tests/test_plots.py,Ravin Kumar,Colin,2018-09-29 23:55:48-04:00,2018-09-30 10:05:51-07:00
+arviz/tests/test_plots.py,Osvaldo Martin,Ravin Kumar,2018-10-09 13:31:14-03:00,2018-10-09 13:59:03-04:00
+arviz/tests/test_plots.py,Kyle Beauchamp,Matt Boggess,2018-12-06 07:10:36-08:00,2018-12-06 21:08:10-05:00
+arviz/tests/test_plots.py,GWeindel,Ari Hartikainen,2019-01-14 22:42:33-08:00,2019-01-15 09:44:41+02:00
+arviz/tests/test_plots.py,Oriol Abril,Aniruddha Banerjea,2019-04-16 16:31:12-03:00,2019-04-16 16:34:48-03:00
+arviz/tests/test_plots.py,Aniruddha Banerjea,Oriol Abril,2019-07-03 21:27:11-04:00,2019-07-04 17:28:13-03:00
+arviz/tests/test_plots.py,Samesh Lakhotia,Oriol Abril,2019-08-09 07:37:52+02:00,2019-08-09 15:10:16+03:00
+arviz/tests/test_plots.py,Oriol Abril,Osvaldo Martin,2019-11-09 21:20:42-03:00,2019-11-09 20:35:58-08:00
+arviz/tests/test_stats.py,arabidopsis,Ari Hartikainen,2019-05-10 17:46:14-03:00,2019-05-11 09:46:37-03:00
+arviz/tests/test_stats.py,Oriol Abril,Ravin Kumar,2019-07-29 09:03:08-03:00,2019-07-29 09:07:40-03:00
+arviz/tests/test_stats.py,Samesh Lakhotia,Oriol Abril,2019-08-09 07:37:52+02:00,2019-08-09 15:10:16+03:00
+arviz/tests/test_utils.py,Osvaldo Martin,Ari Hartikainen,2019-01-14 21:24:56-08:00,2019-01-15 08:58:03-08:00
+arviz/tests/test_utils.py,Osvaldo Martin,Ari Hartikainen,2019-01-29 13:52:25+02:00,2019-01-29 18:02:14+02:00
+arviz/utils.py,rpgoldman,Colin,2019-06-22 15:49:51-04:00,2019-06-23 11:08:49-04:00
+arviz/utils.py,Colin,Oriol Abril,2019-07-12 00:34:42+03:00,2019-07-12 02:12:56+03:00
+arviz/utils.py,Ari Hartikainen,Ravin Kumar,2020-08-10 16:17:33+03:00,2020-08-11 13:58:21+03:00
+arviz/utils.py,Seth Axen,Nitish Pasricha,2020-10-05 07:50:02-04:00,2020-10-06 01:02:32+03:00
+arviz/utils.py,Ari Hartikainen,Oriol Abril-Pla,2023-11-14 19:23:29+02:00,2023-11-15 02:17:51+01:00
+arviz/utils/utils.py,Colin Carroll,Ravin Kumar,2018-09-02 15:11:42-04:00,2018-09-02 12:37:10-07:00
+arviz/utils/utils.py,Ravin Kumar,Colin Carroll,2018-09-02 12:37:10-07:00,2018-09-03 12:59:21-04:00
+arviz/utils/xarray_utils.py,Hartikainen Ari,Ari Hartikainen,2018-07-13 00:19:48+03:00,2018-07-13 07:53:08+03:00
+arviz/utils/xarray_utils.py,Ari Hartikainen,ahartikainen,2018-07-13 08:36:33+03:00,2018-07-13 09:11:04+03:00
+arviz/utils/xarray_utils.py,AustinRochford,Hartikainen Ari,2018-07-19 07:39:57-04:00,2018-07-20 01:07:32+03:00
+arviz/utils/xarray_utils.py,Hartikainen Ari,Ari Hartikainen,2018-07-20 01:07:32+03:00,2018-07-20 06:33:21+03:00
+arviz/utils/xarray_utils.py,Ari Hartikainen,Hartikainen Ari,2018-07-20 06:33:21+03:00,2018-07-20 08:40:49+03:00
+arviz/utils/xarray_utils.py,Hartikainen Ari,Ari Hartikainen,2018-07-20 08:40:49+03:00,2018-07-20 10:47:31+03:00
+arviz/utils/xarray_utils.py,Ari Hartikainen,MFreidank,2018-07-20 16:05:54+03:00,2018-07-21 13:27:57+02:00
+arviz/utils/xarray_utils.py,Colin Carroll,Ravin Kumar,2018-09-02 15:11:42-04:00,2018-09-02 12:51:05-07:00
+arviz/utils/xarray_utils.py,Ravin Kumar,Hartikainen Ari,2018-09-02 12:51:05-07:00,2018-09-03 09:21:37+03:00
+arviz/utils/xarray_utils.py,Hartikainen Ari,Colin Carroll,2018-09-03 09:21:37+03:00,2018-09-03 15:34:39-04:00
+arviz/utils/xarray_utils.py,Colin Carroll,canyon,2018-09-03 15:34:39-04:00,2018-09-03 19:46:42-07:00
+arviz/utils/xarray_utils.py,canyon,Ravin Kumar,2018-09-03 19:46:42-07:00,2018-09-03 19:50:59-07:00
+arviz/utils/xarray_utils.py,Colin,Ari Hartikainen,2018-09-09 13:21:37-04:00,2018-09-09 18:07:09-04:00
+arviz/utils/xarray_utils.py,Ari Hartikainen,Colin,2018-09-09 18:07:09-04:00,2018-09-10 07:39:48-04:00
+arviz/utils/xarray_utils.py,Colin,Ari Hartikainen,2018-09-13 08:14:25-04:00,2018-09-13 22:50:20-04:00
+arviz/wrappers/base.py,Animesh,Ari Hartikainen,2021-03-30 16:40:07+02:00,2021-03-30 19:12:19+03:00
+arvizrc.template,Ravin Kumar,Oriol Abril,2020-05-15 15:38:30-07:00,2020-05-16 15:21:55-07:00
+codecov.yml,Ari Hartikainen,Oriol Abril,2020-02-21 23:50:11+01:00,2020-02-22 09:49:23+02:00
+doc/api.rst,Oriol Abril,Aniruddha Banerjea,2019-07-03 07:07:05-07:00,2019-07-03 21:27:11-04:00
+doc/api.rst,Oriol Abril,Osvaldo Martin,2020-05-17 19:52:23-07:00,2020-05-18 07:48:13-07:00
+doc/api.rst,Osvaldo Martin,Oriol Abril,2020-05-18 07:48:13-07:00,2020-05-18 20:45:06+02:00
+doc/index.rst,Ari Hartikainen,Colin,2018-09-18 22:26:55-07:00,2018-09-19 10:15:59-04:00
+doc/index.rst,Colin,Aniruddha Banerjea,2019-04-03 08:17:59-03:00,2019-04-03 09:59:46-03:00
+doc/index.rst,Seth Axen,Oriol Abril,2019-11-18 13:26:48+02:00,2019-11-18 10:22:23-03:00
+doc/notebooks/InferenceDataCookbook.ipynb,Colin,Ravin Kumar,2018-10-03 17:42:37-04:00,2018-10-04 11:40:43-04:00
+doc/notebooks/InferenceDataCookbook.ipynb,Michael Nowotny,Piyush Gautam,2020-06-09 19:20:28+02:00,2020-06-09 21:20:53+02:00
+doc/schema/PyMC3_schema_example.ipynb,Oriol Abril,Ari Hartikainen,2020-01-28 09:19:22+02:00,2020-01-29 07:46:11+02:00
+doc/source/conf.py,Oriol Abril-Pla,Fábio Rosado,2021-04-17 06:57:01+02:00,2021-04-17 21:01:57+02:00
+doc/source/conf.py,Rosheen Naeem,Pallavi,2021-10-06 15:00:06+03:00,2021-10-06 15:29:53+03:00
+examples/compareplot.py,Ari Hartikainen,Colin,2018-09-18 22:26:55-07:00,2018-09-19 10:15:59-04:00
+examples/energyplot.py,Ari Hartikainen,Colin,2018-09-18 22:26:55-07:00,2018-09-19 10:15:59-04:00
+examples/pairplot.py,Ravin Kumar,Colin,2018-09-08 09:17:18-04:00,2018-09-08 10:33:44-07:00
+examples/pairplot.py,Colin,Ravin Kumar,2018-09-08 10:33:44-07:00,2018-09-08 11:00:33-07:00
+examples/parallelplot.py,Ari Hartikainen,Colin,2018-09-18 22:26:55-07:00,2018-09-19 10:15:59-04:00
+examples/plot_pair.py,Osvaldo Martin,Colin,2018-10-10 11:58:08-03:00,2018-10-10 12:31:12-04:00
+mcmcplotlib/plot_post.py,Ari Hartikainen,aloctavodia,2017-03-18 00:43:23+02:00,2017-03-18 11:06:22-03:00
+mcmcplotlib/plots.py,Thomas Wiecki,aloctavodia,2015-07-29 13:59:24+02:00,2015-07-29 09:59:15-03:00
+mcmcplotlib/plots.py,Ari Hartikainen,aloctavodia,2017-03-18 00:44:17+02:00,2017-03-18 11:06:22-03:00
+mcmcplotlib/plots/artists.py,aloctavodia,Osvaldo Martin,2018-03-07 10:57:32-03:00,2018-03-07 16:10:57-03:00
+mcmcplotlib/plots/traceplot.py,aloctavodia,Osvaldo Martin,2018-03-07 10:57:32-03:00,2018-03-07 16:10:57-03:00
+mcmcplotlib/tests/test_plots.py,aloctavodia,Osvaldo Martin,2018-03-07 14:16:25-03:00,2018-03-07 16:10:57-03:00
+mcmcplotlib/utils/utils.py,aloctavodia,Osvaldo Martin,2018-03-07 10:57:32-03:00,2018-03-07 16:10:57-03:00
+mypy.ini,Predrag Gruevski,Oriol Abril-Pla,2021-03-19 19:54:32+01:00,2021-03-19 21:47:44+01:00
+paper/paper.md,Ravin Kumar,Arfon Smith,2018-12-23 08:10:24-08:00,2018-12-24 12:30:19-03:00
+requirements-dev.txt,Ari Hartikainen,Colin Carroll,2018-09-03 13:16:09+03:00,2018-09-03 19:42:15-04:00
+requirements-docs.txt,Ari Hartikainen,Oriol Abril-Pla,2022-09-08 19:01:21+03:00,2022-09-08 19:49:10+03:00
+scripts/Dockerfile,Ravin Kumar,Ari Hartikainen,2018-12-30 02:42:36-08:00,2018-12-30 16:03:46-08:00
+scripts/Dockerfile,Ari Hartikainen,Ravin Kumar,2020-08-10 20:01:32-07:00,2020-08-11 13:58:21+03:00
+scripts/create_testenv.sh,Ravin Kumar,Ari Hartikainen,2018-12-30 02:42:36-08:00,2018-12-30 16:14:46+02:00
+scripts/create_testenv.sh,Ari Hartikainen,Ravin Kumar,2020-08-10 20:01:32-07:00,2020-08-11 13:58:21+03:00
+setup.py,Volodymyr Kazantsev,Volodymyr,2016-05-16 21:54:37+01:00,2016-05-17 16:58:29+01:00
+setup.py,Colin,Osvaldo Martin,2018-05-22 11:51:39-03:00,2018-05-22 12:13:42-03:00
+setupegg.py,Volodymyr Kazantsev,Volodymyrk,2016-05-16 22:18:50+01:00,2016-05-17 17:04:24+01:00

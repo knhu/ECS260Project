@@ -1,0 +1,564 @@
+file,author1,author2,time1,time2
+.github/ISSUE_TEMPLATE/bug_report.yaml,Stark,Tien Do Nam,2023-02-06 13:51:10+08:00,2023-02-06 21:15:05+01:00
+.github/ISSUE_TEMPLATE/feature_request.yaml,Stark,Tien Do Nam,2023-02-06 13:53:24+08:00,2023-02-06 21:15:05+01:00
+.github/workflows/release.yml,Tien Do Nam,dependabot[bot],2023-12-04 20:15:42+01:00,2023-12-05 02:54:42+01:00
+.github/workflows/release.yml,Tien Do Nam,dependabot[bot],2024-01-07 16:01:46+01:00,2024-01-07 16:04:08+01:00
+.gitignore,watchakorn-18k,Tien Do Nam,2023-11-22 21:49:57+01:00,2023-11-22 21:56:38+01:00
+CONTRIBUTING.md,Tien Do Nam,Gabriel Lima,2023-03-25 16:04:27+01:00,2023-03-26 00:51:07+01:00
+CONTRIBUTING.md,Tien Do Nam,Jesse205,2023-10-17 23:16:46+02:00,2023-10-18 15:00:15+02:00
+CONTRIBUTING.md,Francesco Marastoni,Andrew,2023-10-22 13:57:39+02:00,2023-10-23 13:25:32+02:00
+README.md,Fáng,Tien Do Nam,2023-03-06 23:35:27+08:00,2023-03-07 03:37:58+01:00
+README.md,Tien Do Nam,septs,2023-04-06 01:38:19+02:00,2023-04-06 11:38:12+02:00
+README.md,Tien Do Nam,Kushal Agrawal,2023-10-25 01:00:04+02:00,2023-10-25 13:54:11+02:00
+README.md,半颗白菜,Francesco Marastoni,2023-12-01 18:26:52+01:00,2023-12-02 12:05:32+01:00
+README.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+README.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+README.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+README.md,Manuel Santos Souza,ScupidC0des,2024-10-06 16:54:21+02:00,2024-10-07 16:47:09+02:00
+README.md,Chandara H. Wei,Vic,2024-10-27 22:51:21+01:00,2024-10-28 19:30:20+01:00
+README.md,Mohammad Jamalianpour,Tien Do Nam,2024-11-03 16:44:25+01:00,2024-11-04 14:45:32+01:00
+README.md,Tien Do Nam,Ali Mert,2024-11-04 15:28:33+01:00,2024-11-04 23:53:26+01:00
+README_ZH.md,linsui,形素叢集・ぐらふぃーむ,2024-02-28 12:50:16+01:00,2024-02-28 12:50:41+01:00
+android/app/src/main/res/drawable/banner.png,Tien Do Nam,Justin Bailey,2023-02-16 02:21:48+01:00,2023-02-16 11:00:46-05:00
+app/assets/CHANGELOG.md,Chandara H. Wei,Tien Do Nam,2023-12-07 13:36:57+01:00,2023-12-08 02:43:15+01:00
+app/assets/i18n/_missing_translations_ar.json,jermanuts,Tien Do Nam,2024-06-25 12:53:08+02:00,2024-06-25 13:07:48+02:00
+app/assets/i18n/_missing_translations_ar.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ar.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_ar.json,AmerDje,Tien Do Nam,2024-09-25 00:35:24+02:00,2024-09-25 00:40:10+02:00
+app/assets/i18n/_missing_translations_bn.json,RishiASheth,Tien Do Nam,2023-10-24 15:49:20+02:00,2023-10-24 15:58:57+02:00
+app/assets/i18n/_missing_translations_bn.json,Tien Do Nam,RishiASheth,2023-10-24 16:23:11+02:00,2023-10-25 15:30:30+02:00
+app/assets/i18n/_missing_translations_bn.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_bn.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_ca.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ca.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_cs.json,Tien Do Nam,Amerey,2023-10-24 16:23:11+02:00,2023-10-25 13:53:42+02:00
+app/assets/i18n/_missing_translations_cs.json,Amerey,Tien Do Nam,2023-10-25 13:53:42+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_cs.json,Tien Do Nam,Amerey,2023-11-30 02:51:40+01:00,2023-11-30 12:33:34+01:00
+app/assets/i18n/_missing_translations_cs.json,Amerey,Tien Do Nam,2023-11-30 12:33:34+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_cs.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_cs.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_cs.json,Amerey,Tien Do Nam,2024-10-28 22:13:53+01:00,2024-10-28 22:19:45+01:00
+app/assets/i18n/_missing_translations_da.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_da.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_da.json,Oliver Kirkegaard Svendsen,Tien Do Nam,2024-09-26 02:40:52+02:00,2024-09-26 02:43:10+02:00
+app/assets/i18n/_missing_translations_el.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_el.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_en_IN.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_en_IN.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_es_ES.json,Darío Hereñú,Tien Do Nam,2023-10-21 00:02:00+02:00,2023-10-21 00:03:20+02:00
+app/assets/i18n/_missing_translations_es_ES.json,Tien Do Nam,Esteban Daniel Saracho,2023-10-24 16:23:11+02:00,2023-10-25 13:53:19+02:00
+app/assets/i18n/_missing_translations_es_ES.json,Esteban Daniel Saracho,Tien Do Nam,2023-10-25 13:53:19+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_es_ES.json,Esteban Daniel Saracho,Tien Do Nam,2023-12-04 02:30:53+01:00,2023-12-04 03:29:25+01:00
+app/assets/i18n/_missing_translations_es_ES.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_es_ES.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_es_ES.json,Tien Do Nam,LoboGuardian 🐺,2024-10-27 02:37:15+01:00,2024-10-27 18:26:49+01:00
+app/assets/i18n/_missing_translations_es_ES.json,LoboGuardian 🐺,Tien Do Nam,2024-10-27 18:26:49+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_missing_translations_eu.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_eu.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2023-10-09 13:00:59+02:00,2023-10-09 13:02:32+02:00
+app/assets/i18n/_missing_translations_fa.json,Tien Do Nam,Farshad Gh,2023-11-18 17:28:10+01:00,2023-11-18 23:22:45+01:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2023-11-18 23:22:45+01:00,2023-11-19 01:04:36+01:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2023-11-22 21:49:28+01:00,2023-11-22 21:56:38+01:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2023-12-01 18:28:20+01:00,2023-12-02 16:20:11+01:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2024-05-22 17:20:07+02:00,2024-05-22 17:28:18+02:00
+app/assets/i18n/_missing_translations_fa.json,Tien Do Nam,Farshad Gh,2024-07-11 04:32:27+02:00,2024-07-11 12:39:51+02:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2024-07-11 12:39:51+02:00,2024-07-11 12:47:54+02:00
+app/assets/i18n/_missing_translations_fa.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_fa.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_fa.json,Tien Do Nam,Farshad Gh,2024-10-27 02:37:15+01:00,2024-10-27 22:51:36+01:00
+app/assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2024-10-27 22:51:36+01:00,2024-10-28 22:19:45+01:00
+app/assets/i18n/_missing_translations_fi.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_fi.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_fil_PH.json,Bryan James,Tien Do Nam,2023-11-27 13:31:54+01:00,2023-11-27 13:35:08+01:00
+app/assets/i18n/_missing_translations_fil_PH.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_fil_PH.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_fil_PH.json,Tien Do Nam,Bryan James,2024-10-27 02:37:15+01:00,2024-10-27 18:16:59+01:00
+app/assets/i18n/_missing_translations_fil_PH.json,Bryan James,Tien Do Nam,2024-10-27 18:16:59+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_missing_translations_fr.json,Nixuge,Tien Do Nam,2024-06-25 12:53:22+02:00,2024-06-25 13:07:48+02:00
+app/assets/i18n/_missing_translations_fr.json,Tien Do Nam,Nixuge,2024-07-11 04:32:27+02:00,2024-07-11 23:02:34+02:00
+app/assets/i18n/_missing_translations_fr.json,Nixuge,Tien Do Nam,2024-07-11 23:02:34+02:00,2024-07-12 00:43:07+02:00
+app/assets/i18n/_missing_translations_fr.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_fr.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_fr.json,Louis Painter,Tien Do Nam,2024-10-05 17:27:03+02:00,2024-10-05 17:29:42+02:00
+app/assets/i18n/_missing_translations_fr_FR.json,Tien Do Nam,Nixuge,2023-10-24 16:23:11+02:00,2023-10-25 13:54:30+02:00
+app/assets/i18n/_missing_translations_fr_FR.json,Nixuge,Tien Do Nam,2023-10-25 13:54:30+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_gu.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_gu.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_he.json,Tien Do Nam,Shlomo,2023-11-30 02:51:40+01:00,2023-11-30 12:32:05+01:00
+app/assets/i18n/_missing_translations_he.json,Shlomo,Tien Do Nam,2023-11-30 12:32:05+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_he.json,Tien Do Nam,Shlomo,2024-07-11 04:32:27+02:00,2024-07-11 12:41:09+02:00
+app/assets/i18n/_missing_translations_he.json,Shlomo,Tien Do Nam,2024-07-11 12:41:09+02:00,2024-07-11 12:47:54+02:00
+app/assets/i18n/_missing_translations_he.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_he.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_he.json,Tien Do Nam,Shlomo,2024-09-10 00:06:32+09:00,2024-09-10 01:09:54+09:00
+app/assets/i18n/_missing_translations_he.json,Erel,Tien Do Nam,2024-10-05 17:25:27+02:00,2024-10-05 17:29:42+02:00
+app/assets/i18n/_missing_translations_he.json,Tien Do Nam,Shlomo,2024-10-27 02:37:15+01:00,2024-10-27 03:15:37+01:00
+app/assets/i18n/_missing_translations_he.json,Shlomo,Tien Do Nam,2024-10-27 03:15:37+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_missing_translations_hi.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_hi.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_hu.json,Tien Do Nam,Zsolt Botykai,2023-10-18 21:34:13+02:00,2023-10-19 16:04:35+02:00
+app/assets/i18n/_missing_translations_hu.json,Tien Do Nam,gidano,2023-10-24 16:23:11+02:00,2023-10-25 13:56:50+02:00
+app/assets/i18n/_missing_translations_hu.json,gidano,Tien Do Nam,2023-10-25 13:56:50+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_hu.json,Tien Do Nam,gidano,2023-11-30 02:51:40+01:00,2023-11-30 15:35:54+01:00
+app/assets/i18n/_missing_translations_hu.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_hu.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_id.json,Muhammad Mauli Mubassari,Tien Do Nam,2024-07-10 12:23:21+02:00,2024-07-10 12:27:30+02:00
+app/assets/i18n/_missing_translations_id.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_id.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_it.json,albanobattistella,Tien Do Nam,2024-05-17 00:13:22+02:00,2024-05-17 01:21:50+02:00
+app/assets/i18n/_missing_translations_it.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_it.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_it.json,albanobattistella,Tien Do Nam,2024-09-25 00:35:34+02:00,2024-09-25 00:40:10+02:00
+app/assets/i18n/_missing_translations_ja.json,Taewan Kim,Tien Do Nam,2023-10-21 18:01:34+02:00,2023-10-21 18:04:40+02:00
+app/assets/i18n/_missing_translations_ja.json,Tien Do Nam,soya_daizu,2023-10-24 16:23:11+02:00,2023-10-25 02:15:27+02:00
+app/assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2023-10-25 02:15:27+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_ja.json,Tien Do Nam,soya_daizu,2023-11-30 02:51:40+01:00,2023-11-30 12:32:36+01:00
+app/assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2023-11-30 12:32:36+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2024-06-09 01:54:51+02:00,2024-06-09 02:20:11+02:00
+app/assets/i18n/_missing_translations_ja.json,Tien Do Nam,soya_daizu,2024-07-11 04:32:27+02:00,2024-07-11 12:40:02+02:00
+app/assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2024-07-11 12:40:02+02:00,2024-07-11 12:47:54+02:00
+app/assets/i18n/_missing_translations_ja.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ja.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_ja.json,Ryota,Tien Do Nam,2024-09-25 00:34:55+02:00,2024-09-25 00:40:10+02:00
+app/assets/i18n/_missing_translations_km.json,Chandara H. Wei,Tien Do Nam,2023-12-07 13:36:57+01:00,2023-12-08 02:25:24+01:00
+app/assets/i18n/_missing_translations_km.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_km.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_km.json,Tien Do Nam,Chandara H. Wei,2024-10-27 02:37:15+01:00,2024-10-27 22:51:21+01:00
+app/assets/i18n/_missing_translations_km.json,Chandara H. Wei,Tien Do Nam,2024-10-27 22:51:21+01:00,2024-10-28 22:19:45+01:00
+app/assets/i18n/_missing_translations_ko.json,Taewan Kim,Tien Do Nam,2023-10-21 18:01:34+02:00,2023-10-21 18:04:40+02:00
+app/assets/i18n/_missing_translations_ko.json,Evan Song,Tien Do Nam,2024-02-26 14:20:33+01:00,2024-02-26 14:23:23+01:00
+app/assets/i18n/_missing_translations_ko.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ko.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_ne.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ne.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_nl.json,Tien Do Nam,im-ichat,2023-10-24 16:23:11+02:00,2023-10-25 01:45:36+02:00
+app/assets/i18n/_missing_translations_nl.json,im-ichat,Tien Do Nam,2023-10-25 01:45:36+02:00,2023-10-25 01:47:19+02:00
+app/assets/i18n/_missing_translations_nl.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_nl.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_nl.json,Martijn van B.,Tien Do Nam,2024-11-03 00:12:07+01:00,2024-11-03 01:34:28+01:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,trag1c,2023-11-30 02:51:40+01:00,2023-11-30 13:58:56+01:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Matthaiks,2024-07-10 12:27:30+02:00,2024-07-10 16:04:39+02:00
+app/assets/i18n/_missing_translations_pl.json,Matthaiks,Tien Do Nam,2024-07-10 16:04:39+02:00,2024-07-11 04:32:27+02:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Matthaiks,2024-07-11 04:32:27+02:00,2024-07-11 15:18:10+02:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Matthaiks,2024-07-29 02:40:30+02:00,2024-07-29 15:54:36+02:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_pl.json,Sergiy Tkachuk,Matthaiks,2024-08-18 14:03:28+02:00,2024-08-18 14:05:22+02:00
+app/assets/i18n/_missing_translations_pl.json,Matthaiks,Tien Do Nam,2024-08-18 14:05:22+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Matthaiks,2024-08-18 17:00:04+02:00,2024-08-18 22:34:30+02:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Matthaiks,2024-09-10 00:06:32+09:00,2024-09-10 01:10:06+09:00
+app/assets/i18n/_missing_translations_pl.json,Tien Do Nam,Matthaiks,2024-10-27 02:37:15+01:00,2024-10-27 18:24:06+01:00
+app/assets/i18n/_missing_translations_pt_BR.json,Arthur Lobo,Tien Do Nam,2023-11-26 16:10:52+01:00,2023-11-27 13:35:08+01:00
+app/assets/i18n/_missing_translations_pt_BR.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_pt_BR.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_pt_BR.json,Tien Do Nam,Arthur Lobo,2024-10-27 02:37:15+01:00,2024-10-27 18:16:42+01:00
+app/assets/i18n/_missing_translations_pt_BR.json,Arthur Lobo,Tien Do Nam,2024-10-27 18:16:42+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_missing_translations_pt_PT.json,Hugo Carvalho,Tien Do Nam,2024-05-17 00:12:47+02:00,2024-05-17 01:21:50+02:00
+app/assets/i18n/_missing_translations_pt_PT.json,Hugo Carvalho,Tien Do Nam,2024-05-22 17:19:53+02:00,2024-05-22 17:28:18+02:00
+app/assets/i18n/_missing_translations_pt_PT.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_pt_PT.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_ro.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ro.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_ro.json,UnifeGi,Tien Do Nam,2024-11-01 13:00:50+01:00,2024-11-01 22:08:30+01:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy,Tien Do Nam,2023-10-07 23:36:26+02:00,2023-10-07 23:37:18+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy,2023-10-18 21:34:13+02:00,2023-10-19 00:54:57+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy,Tien Do Nam,2023-10-19 00:54:57+02:00,2023-10-19 00:55:56+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy,2023-10-24 16:23:11+02:00,2023-10-25 00:53:32+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy,Tien Do Nam,2023-10-25 00:53:32+02:00,2023-10-25 01:47:19+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy,2023-11-19 01:04:36+01:00,2023-11-19 13:43:56+01:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy,Tien Do Nam,2023-11-19 13:43:56+01:00,2023-11-19 14:00:13+01:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy Tkachuk,2023-11-30 02:51:40+01:00,2023-11-30 12:32:58+01:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2023-11-30 12:32:58+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy Tkachuk,2024-02-05 17:03:24+01:00,2024-02-05 20:55:14+01:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-05-17 00:12:09+02:00,2024-05-17 01:21:50+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy Tkachuk,2024-07-10 12:27:30+02:00,2024-07-11 02:27:26+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-07-11 02:27:26+02:00,2024-07-11 04:32:27+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-07-12 22:00:02+02:00,2024-07-12 22:15:30+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-07-29 02:36:49+02:00,2024-07-29 02:40:30+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 14:24:55+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 17:00:04+02:00,2024-08-19 02:41:42+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-08-19 02:41:42+02:00,2024-08-19 02:42:43+02:00
+app/assets/i18n/_missing_translations_ru.json,Tien Do Nam,Sergiy Tkachuk,2024-09-10 00:06:32+09:00,2024-09-10 12:17:07+09:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-10-05 17:26:49+02:00,2024-10-05 17:29:42+02:00
+app/assets/i18n/_missing_translations_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-10-28 22:14:10+01:00,2024-10-28 22:19:45+01:00
+app/assets/i18n/_missing_translations_sr.json,Nebojsa Tomic,Tien Do Nam,2024-05-22 16:49:15+02:00,2024-05-22 17:28:18+02:00
+app/assets/i18n/_missing_translations_sr.json,Tien Do Nam,Nebojsa Tomic,2024-07-11 04:32:27+02:00,2024-07-11 12:39:39+02:00
+app/assets/i18n/_missing_translations_sr.json,Nebojsa Tomic,Tien Do Nam,2024-07-11 12:39:39+02:00,2024-07-11 12:47:54+02:00
+app/assets/i18n/_missing_translations_sr.json,Nebojsa Tomic,Tien Do Nam,2024-07-28 23:10:13+02:00,2024-07-29 02:40:30+02:00
+app/assets/i18n/_missing_translations_sr.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_sr.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_sr.json,Tien Do Nam,Nebojsa Tomic,2024-08-18 17:00:04+02:00,2024-08-19 14:29:51+02:00
+app/assets/i18n/_missing_translations_sr.json,Nebojsa Tomic,Tien Do Nam,2024-08-19 14:29:51+02:00,2024-08-20 02:57:39+02:00
+app/assets/i18n/_missing_translations_sr.json,Tien Do Nam,Nebojsa Tomic,2024-10-27 02:37:15+01:00,2024-10-27 18:17:14+01:00
+app/assets/i18n/_missing_translations_sr.json,Nebojsa Tomic,Tien Do Nam,2024-10-27 18:17:14+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Nebojsa Tomic,Tien Do Nam,2024-05-22 16:49:15+02:00,2024-05-22 17:28:18+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Tien Do Nam,Nebojsa Tomic,2024-07-11 04:32:27+02:00,2024-07-11 12:39:39+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Nebojsa Tomic,Tien Do Nam,2024-07-11 12:39:39+02:00,2024-07-11 12:47:54+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Nebojsa Tomic,Tien Do Nam,2024-07-28 23:10:13+02:00,2024-07-29 02:40:30+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Tien Do Nam,Nebojsa Tomic,2024-08-18 17:00:04+02:00,2024-08-19 14:29:51+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Nebojsa Tomic,Tien Do Nam,2024-08-19 14:29:51+02:00,2024-08-20 02:57:39+02:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Tien Do Nam,Nebojsa Tomic,2024-10-27 02:37:15+01:00,2024-10-27 18:17:14+01:00
+app/assets/i18n/_missing_translations_sr_Cyrl.json,Nebojsa Tomic,Tien Do Nam,2024-10-27 18:17:14+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_missing_translations_sv.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_sv.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_th.json,Tien Do Nam,watchakorn-18k,2023-10-24 16:23:11+02:00,2023-10-25 14:00:54+02:00
+app/assets/i18n/_missing_translations_th.json,watchakorn-18k,Tien Do Nam,2023-10-25 14:00:54+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_th.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_th.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_tr.json,Tien Do Nam,Mert Şişmanoğlu,2023-11-19 01:04:36+01:00,2023-11-19 13:43:17+01:00
+app/assets/i18n/_missing_translations_tr.json,Tien Do Nam,Mert Şişmanoğlu,2024-07-10 12:27:30+02:00,2024-07-10 19:30:34+02:00
+app/assets/i18n/_missing_translations_tr.json,Mert Şişmanoğlu,Tien Do Nam,2024-07-10 19:30:34+02:00,2024-07-11 04:32:27+02:00
+app/assets/i18n/_missing_translations_tr.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_tr.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-10-07 23:36:26+02:00,2023-10-07 23:37:18+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy,2023-10-18 21:34:13+02:00,2023-10-19 00:54:57+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-10-19 00:54:57+02:00,2023-10-19 00:55:56+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy,2023-10-24 16:23:11+02:00,2023-10-25 00:53:32+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-10-25 00:53:32+02:00,2023-10-25 01:47:19+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy,2023-11-19 01:04:36+01:00,2023-11-19 13:43:56+01:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-11-19 13:43:56+01:00,2023-11-19 14:00:13+01:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy Tkachuk,2023-11-30 02:51:40+01:00,2023-11-30 12:32:58+01:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2023-11-30 12:32:58+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy Tkachuk,2024-02-05 17:03:24+01:00,2024-02-05 20:55:14+01:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-05-17 00:12:09+02:00,2024-05-17 01:21:50+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy Tkachuk,2024-07-10 12:27:30+02:00,2024-07-11 02:27:26+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-07-11 02:27:26+02:00,2024-07-11 04:32:27+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-07-12 22:00:02+02:00,2024-07-12 22:15:30+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-07-29 02:36:49+02:00,2024-07-29 02:40:30+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 14:24:55+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 17:00:04+02:00,2024-08-19 02:41:42+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-08-19 02:41:42+02:00,2024-08-19 02:42:43+02:00
+app/assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy Tkachuk,2024-09-10 00:06:32+09:00,2024-09-10 12:17:07+09:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-10-05 17:26:49+02:00,2024-10-05 17:29:42+02:00
+app/assets/i18n/_missing_translations_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-10-28 22:14:10+01:00,2024-10-28 22:19:45+01:00
+app/assets/i18n/_missing_translations_ur.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_ur.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_vi.json,Tien Do Nam,Andrew,2023-10-24 16:23:11+02:00,2023-10-25 15:28:41+02:00
+app/assets/i18n/_missing_translations_vi.json,Andrew,Tien Do Nam,2023-10-25 15:28:41+02:00,2023-10-25 15:29:52+02:00
+app/assets/i18n/_missing_translations_vi.json,Tien Do Nam,Andrew,2023-12-04 03:29:25+01:00,2023-12-04 13:49:28+01:00
+app/assets/i18n/_missing_translations_vi.json,Andrew,Tien Do Nam,2023-12-04 13:49:28+01:00,2023-12-04 16:09:55+01:00
+app/assets/i18n/_missing_translations_vi.json,Andrew,Tien Do Nam,2024-02-25 03:06:25+01:00,2024-02-25 14:39:00+01:00
+app/assets/i18n/_missing_translations_vi.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_vi.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_vi.json,Tien Do Nam,Andrew,2024-10-28 22:19:45+01:00,2024-10-29 16:18:17+01:00
+app/assets/i18n/_missing_translations_vi_VN.json,Andrew,Tien Do Nam,2023-10-22 14:02:45+02:00,2023-10-22 14:22:23+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,Tien Do Nam,nkh0472,2023-10-17 22:29:34+02:00,2023-10-18 15:01:19+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,Tien Do Nam,nkh0472,2023-10-24 16:23:11+02:00,2023-10-25 14:02:22+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,Tien Do Nam,nkh0472,2024-07-11 04:32:27+02:00,2024-07-11 12:40:51+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,Sergiy Tkachuk,nkh0472,2024-08-18 14:03:28+02:00,2024-08-18 14:04:51+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,nkh0472,Tien Do Nam,2024-08-18 14:04:51+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_zh_CN.json,Tien Do Nam,nkh0472,2024-08-18 17:00:04+02:00,2024-08-19 10:10:20+02:00
+app/assets/i18n/_missing_translations_zh_HK.json,形素叢集・ぐらふぃーむ,Tien Do Nam,2023-10-25 18:33:08+02:00,2023-10-25 18:35:16+02:00
+app/assets/i18n/_missing_translations_zh_HK.json,Tien Do Nam,形素叢集・ぐらふぃーむ,2023-11-30 02:51:40+01:00,2023-11-30 14:00:40+01:00
+app/assets/i18n/_missing_translations_zh_HK.json,形素叢集・ぐらふぃーむ,Tien Do Nam,2023-11-30 14:00:40+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_zh_HK.json,Tien Do Nam,graphemecluster,2024-07-11 04:32:27+02:00,2024-07-11 23:02:18+02:00
+app/assets/i18n/_missing_translations_zh_HK.json,graphemecluster,Tien Do Nam,2024-07-11 23:02:18+02:00,2024-07-12 00:43:07+02:00
+app/assets/i18n/_missing_translations_zh_HK.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_zh_HK.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_zh_HK.json,graphemecluster,Tien Do Nam,2024-10-31 01:34:39+01:00,2024-10-31 23:49:24+01:00
+app/assets/i18n/_missing_translations_zh_TW.json,Tien Do Nam,ИEØ_ΙΙØZ,2023-10-24 16:23:11+02:00,2023-10-25 14:03:04+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-10-25 14:03:04+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,Tien Do Nam,ИEØ_ΙΙØZ,2023-11-30 02:51:40+01:00,2023-11-30 14:01:08+01:00
+app/assets/i18n/_missing_translations_zh_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-11-30 14:01:08+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/_missing_translations_zh_TW.json,Tien Do Nam,graphemecluster,2024-07-11 04:32:27+02:00,2024-07-11 23:02:18+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,graphemecluster,Tien Do Nam,2024-07-11 23:02:18+02:00,2024-07-12 00:43:07+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2024-08-20 14:15:26+02:00,2024-08-20 14:29:37+02:00
+app/assets/i18n/_missing_translations_zh_TW.json,Tien Do Nam,ИEØ_ΙΙØZ,2024-10-27 02:37:15+01:00,2024-10-27 18:26:35+01:00
+app/assets/i18n/_missing_translations_zh_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2024-10-27 18:26:35+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/_unused_translations.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/_unused_translations.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 14:24:55+02:00
+app/assets/i18n/ar.json,Tien Do Nam,Hosted Weblate,2024-12-26 23:33:57+01:00,2024-12-26 23:45:52+01:00
+app/assets/i18n/ar.json,Hosted Weblate,Tien Do Nam,2024-12-26 23:45:52+01:00,2024-12-26 23:48:35+01:00
+app/assets/i18n/de.json,Tien Do Nam,Hosted Weblate,2024-12-26 23:33:57+01:00,2024-12-26 23:45:52+01:00
+app/assets/i18n/strings.i18n.json,Tien Do Nam,Sergiy,2023-10-17 22:29:34+02:00,2023-10-18 21:33:38+02:00
+app/assets/i18n/strings.i18n.json,Shaswat Pant,Tien Do Nam,2023-10-24 16:20:44+02:00,2023-10-25 15:27:51+02:00
+app/assets/i18n/strings.i18n.json,o2e,David Greengas,2024-05-02 17:24:46+02:00,2024-05-02 17:35:41+02:00
+app/assets/i18n/strings.i18n.json,Sergiy Tkachuk,Tien Do Nam,2024-07-12 22:00:02+02:00,2024-07-13 03:25:29+02:00
+app/assets/i18n/strings.i18n.json,Tien Do Nam,Sergiy Tkachuk,2024-07-13 03:25:29+02:00,2024-07-13 16:19:37+02:00
+app/assets/i18n/strings.json,Tien Do Nam,Sergiy Tkachuk,2024-07-14 18:42:57+02:00,2024-07-15 11:59:48+02:00
+app/assets/i18n/strings.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 01:57:31+02:00,2024-08-18 02:09:00+02:00
+app/assets/i18n/strings.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/strings.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 16:01:58+02:00,2024-08-18 17:00:04+02:00
+app/assets/i18n/strings_bn.i18n.json,RishiASheth,Tien Do Nam,2023-10-24 15:49:20+02:00,2023-10-24 15:58:57+02:00
+app/assets/i18n/strings_bn.i18n.json,Tien Do Nam,RishiASheth,2023-10-24 15:58:57+02:00,2023-10-25 15:30:30+02:00
+app/assets/i18n/strings_bn.i18n.json,Rishi A Sheth,Tien Do Nam,2023-12-02 16:08:14+01:00,2023-12-02 16:20:11+01:00
+app/assets/i18n/strings_de.json,Tien Do Nam,Sergiy Tkachuk,2024-07-14 18:42:57+02:00,2024-07-15 11:59:48+02:00
+app/assets/i18n/strings_de.json,Tien Do Nam,Sergiy Tkachuk,2024-08-18 02:09:00+02:00,2024-08-18 14:03:28+02:00
+app/assets/i18n/strings_de.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-19 03:21:54+02:00
+app/assets/i18n/strings_en_IN.i18n.json,Jowin John Chemban,Tien Do Nam,2024-07-12 22:06:06+02:00,2024-07-13 03:36:44+02:00
+app/assets/i18n/strings_es-ES.i18n.json,Darío Hereñú,Tien Do Nam,2023-10-21 00:00:37+02:00,2023-10-21 00:03:20+02:00
+app/assets/i18n/strings_fi.i18n.json,jooapa,Tien Do Nam,2024-06-25 12:52:51+02:00,2024-06-25 13:07:48+02:00
+app/assets/i18n/strings_fil-PH.i18n.json,Bryan James,Tien Do Nam,2023-11-30 14:02:29+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/strings_fr.i18n.json,Caesarovich,Tien Do Nam,2024-05-22 17:21:25+02:00,2024-05-23 03:13:35+02:00
+app/assets/i18n/strings_he.i18n.json,Tien Do Nam,Shlomo,2023-10-25 21:56:09+02:00,2023-10-26 01:30:50+02:00
+app/assets/i18n/strings_hu.i18n.json,gidano,Tien Do Nam,2024-05-22 17:20:48+02:00,2024-05-22 17:28:18+02:00
+app/assets/i18n/strings_hu.json,gidano,Tien Do Nam,2024-08-20 11:55:03+02:00,2024-08-20 14:29:37+02:00
+app/assets/i18n/strings_hu.json,gidano,Tien Do Nam,2024-10-27 18:24:25+01:00,2024-10-27 18:33:25+01:00
+app/assets/i18n/strings_id.i18n.json,Muhammad Mauli Mubassari,Tien Do Nam,2024-07-10 12:23:21+02:00,2024-07-10 12:27:30+02:00
+app/assets/i18n/strings_it.i18n.json,Francesco Marastoni,Tien Do Nam,2023-10-25 14:02:41+02:00,2023-10-25 14:11:07+02:00
+app/assets/i18n/strings_it.i18n.json,albanobattistella,Andrea Barbagallo,2024-05-17 00:13:10+02:00,2024-05-17 00:40:50+02:00
+app/assets/i18n/strings_it.i18n.json,Andrea Barbagallo,Tien Do Nam,2024-05-17 00:40:50+02:00,2024-05-17 01:21:50+02:00
+app/assets/i18n/strings_it.i18n.json,Francesco Marastoni,Tien Do Nam,2024-05-22 17:20:25+02:00,2024-05-23 03:13:35+02:00
+app/assets/i18n/strings_it.json,Tien Do Nam,LivioZ,2024-08-27 15:36:34+02:00,2024-08-27 18:03:14+02:00
+app/assets/i18n/strings_ja.i18n.json,soya_daizu,Tien Do Nam,2023-11-30 12:32:36+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/strings_ja.i18n.json,Tien Do Nam,soya_daizu,2024-02-25 14:39:00+01:00,2024-02-26 10:58:42+01:00
+app/assets/i18n/strings_km.json,Chandara H. Wei,Tien Do Nam,2024-10-27 22:51:21+01:00,2024-10-27 23:08:40+01:00
+app/assets/i18n/strings_pl.i18n.json,Rad,Sergiy Tkachuk,2023-12-10 22:13:27+01:00,2023-12-11 16:43:16+01:00
+app/assets/i18n/strings_pl.json,Matthaiks,Tien Do Nam,2024-10-26 13:26:29+02:00,2024-10-27 02:37:15+01:00
+app/assets/i18n/strings_pl.json,Tien Do Nam,Matthaiks,2024-10-27 02:37:15+01:00,2024-10-27 18:24:06+01:00
+app/assets/i18n/strings_ru.i18n.json,Sergiy,Tien Do Nam,2023-11-19 13:43:56+01:00,2023-11-19 14:00:13+01:00
+app/assets/i18n/strings_ru.i18n.json,Sergiy Tkachuk,Tien Do Nam,2024-07-12 22:00:02+02:00,2024-07-12 22:15:30+02:00
+app/assets/i18n/strings_ru.i18n.json,Tien Do Nam,Sergiy Tkachuk,2024-07-13 03:36:44+02:00,2024-07-13 16:19:37+02:00
+app/assets/i18n/strings_ru.json,Tien Do Nam,Sergiy Tkachuk,2024-07-14 18:42:57+02:00,2024-07-15 11:59:48+02:00
+app/assets/i18n/strings_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-07-29 02:36:49+02:00,2024-07-29 02:40:30+02:00
+app/assets/i18n/strings_ru.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 14:24:55+02:00
+app/assets/i18n/strings_sr.i18n.json,Nebojsa Tomic,Tien Do Nam,2024-05-22 16:49:15+02:00,2024-05-22 17:28:18+02:00
+app/assets/i18n/strings_th.i18n.json,Tien Do Nam,watchakorn-18k,2023-10-24 15:58:57+02:00,2023-10-25 14:00:54+02:00
+app/assets/i18n/strings_th.json,ToopKungZa,Tien Do Nam,2024-07-16 17:40:19+02:00,2024-07-16 21:18:58+02:00
+app/assets/i18n/strings_tr.i18n.json,Mert Şişmanoğlu,Tien Do Nam,2024-07-10 19:30:34+02:00,2024-07-11 04:32:27+02:00
+app/assets/i18n/strings_tr.i18n.json,Ramazan Sancar,Tien Do Nam,2024-07-13 03:25:54+02:00,2024-07-13 03:36:44+02:00
+app/assets/i18n/strings_uk.i18n.json,Sergiy,Tien Do Nam,2023-10-25 00:53:32+02:00,2023-10-25 01:47:19+02:00
+app/assets/i18n/strings_uk.i18n.json,Sergiy,Tien Do Nam,2023-11-19 13:43:56+01:00,2023-11-19 14:00:13+01:00
+app/assets/i18n/strings_uk.i18n.json,Tien Do Nam,Sergiy Tkachuk,2023-11-19 14:00:13+01:00,2023-11-20 13:09:09+01:00
+app/assets/i18n/strings_uk.i18n.json,Sergiy Tkachuk,Tien Do Nam,2024-05-17 00:12:09+02:00,2024-05-17 01:21:50+02:00
+app/assets/i18n/strings_uk.i18n.json,Sergiy Tkachuk,Tien Do Nam,2024-07-12 22:00:02+02:00,2024-07-12 22:15:30+02:00
+app/assets/i18n/strings_uk.i18n.json,Tien Do Nam,Sergiy Tkachuk,2024-07-13 03:36:44+02:00,2024-07-13 16:19:37+02:00
+app/assets/i18n/strings_uk.json,Tien Do Nam,Sergiy Tkachuk,2024-07-14 18:42:57+02:00,2024-07-15 11:59:48+02:00
+app/assets/i18n/strings_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-07-29 02:36:49+02:00,2024-07-29 02:40:30+02:00
+app/assets/i18n/strings_uk.json,Sergiy Tkachuk,Tien Do Nam,2024-08-18 14:03:28+02:00,2024-08-18 14:24:55+02:00
+app/assets/i18n/strings_ur.json,Mirza Jaun,Tien Do Nam,2024-08-27 18:04:05+02:00,2024-08-27 18:15:54+02:00
+app/assets/i18n/strings_vi.i18n.json,Andrew,Tien Do Nam,2023-10-25 13:55:00+02:00,2023-10-25 15:27:51+02:00
+app/assets/i18n/strings_zh-CN.i18n.json,EFL,Tien Do Nam,2024-06-09 02:16:37+02:00,2024-06-09 02:20:11+02:00
+app/assets/i18n/strings_zh-CN.i18n.json,nkh0472,graphemecluster,2024-07-11 12:40:51+02:00,2024-07-11 23:02:18+02:00
+app/assets/i18n/strings_zh-CN.json,nkh0472,Tien Do Nam,2024-08-18 14:04:51+02:00,2024-08-18 14:24:55+02:00
+app/assets/i18n/strings_zh-CN.json,Tien Do Nam,nkh0472,2024-08-18 14:24:55+02:00,2024-08-19 10:10:20+02:00
+app/assets/i18n/strings_zh-CN.json,nkh0472,Tien Do Nam,2024-10-28 19:24:04+01:00,2024-10-28 22:19:45+01:00
+app/assets/i18n/strings_zh-HK.i18n.json,形素叢集・ぐらふぃーむ,Tien Do Nam,2023-11-30 14:00:40+01:00,2023-11-30 14:08:21+01:00
+app/assets/i18n/strings_zh-HK.json,graphemecluster,Tien Do Nam,2024-10-31 01:34:39+01:00,2024-10-31 23:49:24+01:00
+app/assets/i18n/strings_zh-TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2024-08-20 14:15:26+02:00,2024-08-20 14:29:37+02:00
+app/assets/i18n/zh-TW.json,Tien Do Nam,飞机上的长电视,2025-02-28 14:08:23+01:00,2025-02-28 14:34:01+01:00
+app/lib/config/init.dart,Shlomo,Tien Do Nam,2024-09-09 22:45:07+09:00,2024-09-10 00:24:20+09:00
+app/lib/config/init.dart,Shlomo,Tien Do Nam,2024-10-31 16:11:24+01:00,2024-10-31 21:07:08+01:00
+app/lib/gen/strings.g.dart,Tien Do Nam,Gabriel Lima,2023-10-21 18:04:40+02:00,2023-10-22 00:19:55+02:00
+app/lib/gen/strings.g.dart,Gabriel Lima,Andrew,2023-10-22 00:19:55+02:00,2023-10-22 14:02:45+02:00
+app/lib/gen/strings.g.dart,Andrew,Tien Do Nam,2023-10-22 14:02:45+02:00,2023-10-22 14:22:23+02:00
+app/lib/gen/strings.g.dart,Tien Do Nam,Shaswat Pant,2023-10-24 15:58:57+02:00,2023-10-24 16:20:44+02:00
+app/lib/gen/strings.g.dart,Shaswat Pant,Tien Do Nam,2023-10-24 16:20:44+02:00,2023-10-25 01:47:19+02:00
+app/lib/gen/strings.g.dart,Caesarovich,Tien Do Nam,2024-05-16 14:54:30+02:00,2024-05-17 01:21:50+02:00
+app/lib/gen/strings.g.dart,Caesarovich,Tien Do Nam,2024-05-22 17:21:25+02:00,2024-05-22 17:28:18+02:00
+app/lib/gen/strings_en.g.dart,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:38+02:00
+app/lib/gen/strings_pt_BR.g.dart,Gabriel Lima,Tien Do Nam,2023-12-03 22:46:29+01:00,2023-12-04 03:29:25+01:00
+app/lib/gen/strings_tr.g.dart,Ramazan Sancar,Tien Do Nam,2024-07-13 03:25:54+02:00,2024-07-13 03:36:44+02:00
+app/lib/pages/about/translators.dart,Tien Do Nam,Mert Şişmanoğlu,2023-11-19 01:07:13+01:00,2023-11-19 13:43:17+01:00
+app/lib/pages/about/translators.dart,Mert Şişmanoğlu,Sergiy Tkachuk,2023-11-19 13:43:17+01:00,2023-11-19 15:29:29+01:00
+app/lib/pages/about/translators.dart,watchakorn-18k,Tien Do Nam,2023-11-22 21:49:57+01:00,2023-11-22 21:56:38+01:00
+app/lib/pages/about/translators.dart,Tien Do Nam,Rad,2023-11-22 21:56:38+01:00,2023-11-23 20:59:44+01:00
+app/lib/pages/about/translators.dart,Arthur Lobo,Tien Do Nam,2023-11-26 16:10:52+01:00,2023-11-27 13:38:39+01:00
+app/lib/pages/about/translators.dart,Tien Do Nam,Ali Mert,2025-01-03 00:03:27+01:00,2025-01-03 22:27:11+01:00
+app/lib/pages/apk_picker_page.dart,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:38+02:00
+app/lib/pages/home_page.dart,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:38+02:00
+app/lib/pages/progress_page.dart,Lightning-Lion,Tien Do Nam,2024-11-23 00:56:52+01:00,2024-11-23 01:42:59+01:00
+app/lib/pages/tabs/receive_tab.dart,CHUNG-HAO,Tien Do Nam,2024-06-27 19:05:20+02:00,2024-06-27 19:10:50+02:00
+app/lib/pages/tabs/send_tab.dart,Caesarovich,Tien Do Nam,2024-04-11 00:35:06+02:00,2024-04-11 00:55:08+02:00
+app/lib/pages/tabs/send_tab.dart,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:38+02:00
+app/lib/pages/tabs/settings_tab.dart,Dhruvan Bhalara,Tien Do Nam,2023-11-02 21:29:14+01:00,2023-11-03 03:16:22+01:00
+app/lib/provider/apk_provider.dart,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:38+02:00
+app/lib/provider/dio_provider.dart,o2e,Tien Do Nam,2024-05-02 17:24:46+02:00,2024-05-02 17:31:17+02:00
+app/lib/provider/network/server/controller/receive_controller.dart,Yevhenii Sirenko,Tien Do Nam,2025-02-20 12:35:38+01:00,2025-02-20 13:37:39+01:00
+app/lib/provider/network/server/controller/send_controller.dart,ray.zh,Tien Do Nam,2024-02-05 15:42:58+01:00,2024-02-05 16:54:54+01:00
+app/lib/provider/param/apk_provider_param.mapper.dart,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:38+02:00
+app/lib/util/native/file_picker.dart,Seidko,Tien Do Nam,2024-10-01 00:19:02+02:00,2024-10-01 00:30:13+02:00
+app/lib/util/native/file_picker.dart,Pitchaya Boonsarngsuk,Tien Do Nam,2024-11-28 14:03:25+01:00,2024-11-28 14:15:46+01:00
+app/lib/util/native/macos_channel.dart,Shlomo,Tien Do Nam,2024-09-09 22:48:27+09:00,2024-09-10 00:24:20+09:00
+app/lib/util/native/macos_channel.dart,Tien Do Nam,Shlomo,2024-09-11 00:10:21+09:00,2024-09-11 09:54:53+09:00
+app/lib/util/native/send_ignore.dart,Ethan Wang,Tien Do Nam,2025-01-08 16:59:04+01:00,2025-01-09 03:30:39+01:00
+app/lib/util/native/taskbar_helper.dart,Shlomo,Tien Do Nam,2024-09-17 00:44:32+09:00,2024-09-17 01:31:02+09:00
+app/lib/util/native/tray_helper.dart,Guilherme Silva,Tien Do Nam,2024-10-15 13:16:16+02:00,2024-10-15 16:34:45+02:00
+app/macos/Flutter/GeneratedPluginRegistrant.swift,Shlomo,Tien Do Nam,2024-09-04 01:57:50+02:00,2024-09-04 02:16:25+02:00
+app/macos/Podfile.lock,Shlomo,Tien Do Nam,2024-09-04 01:57:50+02:00,2024-09-04 02:16:25+02:00
+app/macos/Runner.xcodeproj/project.pbxproj,Shlomo,Tien Do Nam,2024-09-25 14:14:08+02:00,2024-09-26 02:39:22+02:00
+app/macos/Runner/AppDelegate.swift,Shlomo,Tien Do Nam,2024-09-04 01:57:50+02:00,2024-09-04 02:14:02+02:00
+app/macos/Runner/AppDelegate.swift,Tien Do Nam,Shlomo,2024-09-04 02:14:02+02:00,2024-09-05 01:10:22+02:00
+app/macos/Runner/AppDelegate.swift,Shlomo,Tien Do Nam,2024-09-10 12:16:20+09:00,2024-09-11 00:10:21+09:00
+app/macos/Runner/AppDelegate.swift,Tien Do Nam,Shlomo,2024-09-11 00:10:21+09:00,2024-09-11 09:54:53+09:00
+app/macos/Runner/AppDelegate.swift,Shlomo,Tien Do Nam,2024-09-17 00:44:32+09:00,2024-09-17 01:31:02+09:00
+app/macos/Runner/Info.plist,Shlomo,Tien Do Nam,2024-10-27 01:33:21+02:00,2024-10-27 02:45:17+02:00
+app/pubspec.lock,KISHORE KUMAR S,Tien Do Nam,2024-10-08 22:08:00+02:00,2024-10-08 22:11:21+02:00
+app/pubspec.lock,Ethan Wang,Tien Do Nam,2025-01-08 16:59:04+01:00,2025-01-09 03:30:39+01:00
+app/pubspec.yaml,Tien Do Nam,Shaswat Pant,2023-10-24 15:58:57+02:00,2023-10-24 16:20:44+02:00
+app/pubspec.yaml,Shaswat Pant,Tien Do Nam,2023-10-24 16:20:44+02:00,2023-10-25 15:12:07+02:00
+assets/i18n/_missing_translations.json,Tien Do Nam,Jalen,2023-01-29 01:08:42+01:00,2023-01-29 12:05:42+08:00
+assets/i18n/_missing_translations.json,Jalen,San Kang,2023-01-29 12:05:42+08:00,2023-01-29 21:58:23+09:00
+assets/i18n/_missing_translations.json,San Kang,Tien Do Nam,2023-01-29 21:58:23+09:00,2023-01-29 15:57:03+01:00
+assets/i18n/_missing_translations.json,Tien Do Nam,Florian LEFEBVRE,2023-01-29 15:57:03+01:00,2023-01-29 18:06:41+01:00
+assets/i18n/_missing_translations.json,Florian LEFEBVRE,Cesare Valitutto,2023-01-29 18:06:41+01:00,2023-01-29 19:57:16+01:00
+assets/i18n/_missing_translations.json,davidbergqvist,Jonathan Koziel,2023-01-31 01:43:23+01:00,2023-01-31 14:29:47+00:00
+assets/i18n/_missing_translations.json,Jonathan Koziel,Tien Do Nam,2023-01-31 14:29:47+00:00,2023-02-01 00:40:50+01:00
+assets/i18n/_missing_translations.json,Tien Do Nam,i1hwan,2023-02-01 00:40:50+01:00,2023-02-01 10:45:21+09:00
+assets/i18n/_missing_translations.json,i1hwan,sprupak07,2023-02-01 10:45:21+09:00,2023-02-01 13:57:51+05:45
+assets/i18n/_missing_translations.json,sprupak07,Thebigbot,2023-02-01 13:57:51+05:45,2023-02-01 09:14:30+01:00
+assets/i18n/_missing_translations.json,Thebigbot,SelaseKay,2023-02-01 09:14:30+01:00,2023-02-01 15:36:30+00:00
+assets/i18n/_missing_translations.json,SelaseKay,Tien Do Nam,2023-02-01 16:15:05+00:00,2023-02-02 01:20:30+01:00
+assets/i18n/_missing_translations.json,Tien Do Nam,gidano,2023-02-08 02:02:17+01:00,2023-02-08 12:55:26+01:00
+assets/i18n/_missing_translations.json,gidano,Momar Cisse,2023-02-08 12:55:26+01:00,2023-02-08 18:14:52+00:00
+assets/i18n/_missing_translations.json,Momar Cisse,Tien Do Nam,2023-02-08 18:14:52+00:00,2023-02-08 22:00:39+01:00
+assets/i18n/_missing_translations.json,Tien Do Nam,gidano,2023-02-10 16:27:35+01:00,2023-02-10 18:53:45+01:00
+assets/i18n/_missing_translations.json,gidano,Tien Do Nam,2023-02-10 18:53:45+01:00,2023-02-10 20:56:50+01:00
+assets/i18n/_missing_translations_es_ES.json,chino,Tien Do Nam,2023-03-11 20:48:50-03:00,2023-03-12 02:06:13+01:00
+assets/i18n/_missing_translations_es_ES.json,Esteban Daniel Saracho,Tien Do Nam,2023-04-19 07:52:35+02:00,2023-04-19 21:11:16+02:00
+assets/i18n/_missing_translations_fa.json,Farshad Gh,Tien Do Nam,2023-06-05 10:38:05+02:00,2023-06-05 10:49:27+02:00
+assets/i18n/_missing_translations_fr_FR.json,Justin Bailey,Nixuge,2023-02-16 11:02:37-05:00,2023-02-17 12:50:18+01:00
+assets/i18n/_missing_translations_fr_FR.json,Nixuge,Tien Do Nam,2023-02-17 12:50:18+01:00,2023-02-17 23:56:23+01:00
+assets/i18n/_missing_translations_fr_FR.json,Nixuge,Tien Do Nam,2023-02-27 11:03:53+01:00,2023-02-28 01:26:27+01:00
+assets/i18n/_missing_translations_fr_FR.json,Nixuge,Tien Do Nam,2023-03-13 23:28:41+01:00,2023-03-14 01:30:08+01:00
+assets/i18n/_missing_translations_fr_FR.json,Nixuge,Tien Do Nam,2023-04-19 21:09:15+02:00,2023-04-19 21:11:16+02:00
+assets/i18n/_missing_translations_hu.json,gidano,Tien Do Nam,2023-02-15 07:25:02+01:00,2023-02-15 21:37:37+01:00
+assets/i18n/_missing_translations_hu.json,Tien Do Nam,Justin Bailey,2023-02-15 21:37:37+01:00,2023-02-16 11:02:37-05:00
+assets/i18n/_missing_translations_hu.json,gidano,Tien Do Nam,2023-03-05 14:08:00+01:00,2023-03-05 23:29:22+01:00
+assets/i18n/_missing_translations_hu.json,Tien Do Nam,gidano,2023-04-16 23:04:21+02:00,2023-04-17 19:40:02+02:00
+assets/i18n/_missing_translations_hu.json,gidano,Tien Do Nam,2023-04-17 19:40:02+02:00,2023-04-17 19:45:00+02:00
+assets/i18n/_missing_translations_ja.json,Tien Do Nam,soya_daizu,2023-02-13 01:52:44+01:00,2023-02-13 18:45:33+09:00
+assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2023-02-13 18:45:33+09:00,2023-02-13 21:38:51+01:00
+assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2023-02-19 21:13:34+09:00,2023-02-19 16:02:24+01:00
+assets/i18n/_missing_translations_ja.json,Tien Do Nam,soya_daizu,2023-03-02 01:32:53+01:00,2023-03-02 23:57:07+09:00
+assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2023-03-02 23:57:07+09:00,2023-03-02 23:17:12+01:00
+assets/i18n/_missing_translations_ja.json,Tien Do Nam,soya_daizu,2023-04-16 23:04:21+02:00,2023-04-17 19:35:41+02:00
+assets/i18n/_missing_translations_ja.json,soya_daizu,Tien Do Nam,2023-04-17 19:35:41+02:00,2023-04-17 19:45:21+02:00
+assets/i18n/_missing_translations_ko.json,Evan Song,Tien Do Nam,2023-04-20 10:37:35+02:00,2023-04-21 03:56:11+02:00
+assets/i18n/_missing_translations_pt_BR.json,TheGB0077,Tien Do Nam,2023-03-07 20:41:45-03:00,2023-03-08 02:31:44+01:00
+assets/i18n/_missing_translations_pt_BR.json,Tien Do Nam,Gabriel Lima,2023-04-16 23:04:21+02:00,2023-04-17 10:33:18+02:00
+assets/i18n/_missing_translations_ru.json,Sergiy,Tien Do Nam,2023-03-24 18:34:36+01:00,2023-03-24 18:34:36+01:00
+assets/i18n/_missing_translations_ru.json,Sergiy,Tien Do Nam,2023-04-25 00:18:15+02:00,2023-04-25 00:20:22+02:00
+assets/i18n/_missing_translations_tr.json,Hasan Karlı,Tien Do Nam,2023-07-04 09:58:10+02:00,2023-07-04 09:59:00+02:00
+assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-03-23 21:10:45+01:00,2023-03-23 21:13:05+01:00
+assets/i18n/_missing_translations_uk.json,Tien Do Nam,Sergiy,2023-03-23 21:13:05+01:00,2023-03-24 18:34:36+01:00
+assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-03-24 18:34:36+01:00,2023-03-24 18:34:36+01:00
+assets/i18n/_missing_translations_uk.json,Gabriel Lima,Sergiy,2023-03-26 00:49:38+01:00,2023-03-26 16:35:56+02:00
+assets/i18n/_missing_translations_uk.json,Sergiy,Tien Do Nam,2023-04-25 00:18:15+02:00,2023-04-25 00:20:22+02:00
+assets/i18n/_missing_translations_zh_Hans.json,EFL,Tien Do Nam,2023-02-15 13:41:56+08:00,2023-02-15 21:37:37+01:00
+assets/i18n/_missing_translations_zh_Hans.json,Tien Do Nam,Justin Bailey,2023-02-15 21:37:37+01:00,2023-02-16 11:02:37-05:00
+assets/i18n/_missing_translations_zh_Hans.json,Tien Do Nam,RayGicEFL,2023-02-21 00:44:09+01:00,2023-02-21 12:46:27+08:00
+assets/i18n/_missing_translations_zh_Hans.json,Tien Do Nam,nkh0472,2023-02-28 01:34:30+01:00,2023-02-28 22:36:25+08:00
+assets/i18n/_missing_translations_zh_Hans.json,nkh0472,Tien Do Nam,2023-02-28 22:36:25+08:00,2023-02-28 23:11:06+01:00
+assets/i18n/_missing_translations_zh_Hans.json,Tien Do Nam,RayGicEFL,2023-03-02 01:32:53+01:00,2023-03-02 13:22:30+08:00
+assets/i18n/_missing_translations_zh_Hans.json,RayGicEFL,Tien Do Nam,2023-03-02 13:22:30+08:00,2023-03-02 23:17:12+01:00
+assets/i18n/_missing_translations_zh_Hans.json,Tien Do Nam,nkh0472,2023-04-16 02:22:16+02:00,2023-04-16 11:34:19+02:00
+assets/i18n/_missing_translations_zh_Hans.json,nkh0472,Tien Do Nam,2023-04-16 11:34:19+02:00,2023-04-16 18:01:54+02:00
+assets/i18n/_missing_translations_zh_Hans.json,Tien Do Nam,nkh0472,2023-04-16 23:04:21+02:00,2023-04-17 10:31:50+02:00
+assets/i18n/_missing_translations_zh_Hans.json,nkh0472,Tien Do Nam,2023-04-17 10:31:50+02:00,2023-04-17 19:45:21+02:00
+assets/i18n/_missing_translations_zh_Hant_HK.json,形素叢集・ぐらふぃーむ,Tien Do Nam,2023-05-11 01:23:28+02:00,2023-05-11 01:26:27+02:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,Tien Do Nam,ИEØ_ΙΙØZ,2023-02-13 01:52:44+01:00,2023-02-13 14:42:09+08:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-02-13 14:42:09+08:00,2023-02-13 21:38:51+01:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,jhih_yu,Tien Do Nam,2023-02-15 19:40:38+08:00,2023-02-15 21:37:37+01:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,Tien Do Nam,Justin Bailey,2023-02-15 21:37:37+01:00,2023-02-16 11:02:37-05:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-03-10 20:49:39+08:00,2023-03-10 17:26:31+01:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,Tien Do Nam,ИEØ_ΙΙØZ,2023-04-16 23:04:21+02:00,2023-04-17 19:40:38+02:00
+assets/i18n/_missing_translations_zh_Hant_TW.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-04-17 19:40:38+02:00,2023-04-17 19:45:21+02:00
+assets/i18n/strings.i18n.json,Tien Do Nam,Gabriel Lima,2023-04-16 02:22:16+02:00,2023-04-16 16:50:53+02:00
+assets/i18n/strings.i18n.json,Gabriel Lima,Tien Do Nam,2023-04-16 16:50:53+02:00,2023-04-16 17:20:22+02:00
+assets/i18n/strings_cs.i18n.json,Amerey,Tien Do Nam,2023-03-09 18:30:03+01:00,2023-03-09 23:52:43+01:00
+assets/i18n/strings_es-ES.i18n.json,Alejandro Mata,Tien Do Nam,2023-02-07 18:44:37+01:00,2023-02-07 23:58:47+01:00
+assets/i18n/strings_es-ES.i18n.json,Tien Do Nam,parra,2023-02-07 23:58:47+01:00,2023-02-08 14:09:55+01:00
+assets/i18n/strings_es-ES.i18n.json,parra,Tien Do Nam,2023-02-08 14:09:55+01:00,2023-02-08 22:00:39+01:00
+assets/i18n/strings_fr-FR.i18n.json,SelaseKay,Tien Do Nam,2023-02-01 15:36:30+00:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_hu.i18n.json,gidano,Tien Do Nam,2023-01-29 14:10:10+01:00,2023-01-29 15:57:03+01:00
+assets/i18n/strings_hu.i18n.json,SelaseKay,Tien Do Nam,2023-02-01 16:15:05+00:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_hu.i18n.json,Tien Do Nam,Justin Bailey,2023-02-15 21:37:37+01:00,2023-02-16 11:02:37-05:00
+assets/i18n/strings_hu.i18n.json,Tien Do Nam,gidano,2023-08-28 12:58:24+02:00,2023-08-28 19:56:00+02:00
+assets/i18n/strings_in.i18n.json,Fikri,Tien Do Nam,2023-02-01 10:19:07+07:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_it.i18n.json,Thebigbot,Tien Do Nam,2023-02-01 09:14:30+01:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_iw.i18n.json,Adam,Tien Do Nam,2023-02-01 14:19:49+02:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_ja.i18n.json,soya_daizu,Tien Do Nam,2023-02-02 08:16:48+09:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_ja.i18n.json,soya_daizu,Tien Do Nam,2023-03-02 23:57:07+09:00,2023-03-02 23:17:12+01:00
+assets/i18n/strings_ja.i18n.json,soya_daizu,Tien Do Nam,2023-04-17 19:35:41+02:00,2023-04-17 19:39:44+02:00
+assets/i18n/strings_ko.i18n.json,i1hwan,Tien Do Nam,2023-02-01 10:45:21+09:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_ne.i18n.json,sprupak07,Tien Do Nam,2023-02-01 13:57:51+05:45,2023-02-02 01:55:14+01:00
+assets/i18n/strings_pl.i18n.json,Jonathan Koziel,Tien Do Nam,2023-01-31 14:27:09+00:00,2023-02-01 00:40:50+01:00
+assets/i18n/strings_pl.i18n.json,Tien Do Nam,trag1c,2023-02-01 00:40:50+01:00,2023-02-01 10:20:49+01:00
+assets/i18n/strings_pl.i18n.json,trag1c,Tien Do Nam,2023-02-01 10:20:49+01:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_ru.i18n.json,Sergiy,Tien Do Nam,2023-03-24 18:34:36+01:00,2023-03-24 18:34:36+01:00
+assets/i18n/strings_ru.i18n.json,Gabriel Lima,Sergiy,2023-03-26 00:49:38+01:00,2023-03-26 00:54:50+01:00
+assets/i18n/strings_ru.i18n.json,Sergiy,Tien Do Nam,2023-04-25 00:18:15+02:00,2023-04-25 00:20:22+02:00
+assets/i18n/strings_ru.i18n.json,elfriob,Tien Do Nam,2023-05-07 23:43:50+02:00,2023-05-07 23:47:52+02:00
+assets/i18n/strings_tr.i18n.json,Mert Şişmanoğlu,Tien Do Nam,2023-02-01 20:56:05+03:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_uk.i18n.json,Tien Do Nam,Sergiy,2023-03-23 21:13:05+01:00,2023-03-24 18:34:36+01:00
+assets/i18n/strings_uk.i18n.json,Sergiy,Tien Do Nam,2023-04-25 00:18:15+02:00,2023-04-25 00:20:22+02:00
+assets/i18n/strings_zh-Hans.i18n.json,EFL,Tien Do Nam,2023-02-01 12:29:55+08:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_zh-Hans.i18n.json,EFL,Tien Do Nam,2023-02-12 13:49:09+08:00,2023-02-12 14:46:06+01:00
+assets/i18n/strings_zh-Hans.i18n.json,Tien Do Nam,RayGicEFL,2023-03-01 23:36:22+01:00,2023-03-02 13:22:30+08:00
+assets/i18n/strings_zh-Hans.i18n.json,nkh0472,Tien Do Nam,2023-04-17 10:31:50+02:00,2023-04-17 19:45:00+02:00
+assets/i18n/strings_zh-Hant_HK.i18n.json,graphemecluster,Tien Do Nam,2023-02-01 23:17:13+08:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_zh-Hant_HK.i18n.json,形素叢集・ぐらふぃーむ,Tien Do Nam,2023-05-11 01:23:28+02:00,2023-05-11 01:26:27+02:00
+assets/i18n/strings_zh-Hant_TW.i18n.json,graphemecluster,Tien Do Nam,2023-02-01 23:04:38+08:00,2023-02-02 01:55:14+01:00
+assets/i18n/strings_zh-Hant_TW.i18n.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-02-13 14:06:14+08:00,2023-02-13 21:38:51+01:00
+assets/i18n/strings_zh-Hant_TW.i18n.json,Tien Do Nam,ИEØ_ΙΙØZ,2023-02-13 21:38:51+01:00,2023-02-14 10:56:16+08:00
+assets/i18n/strings_zh-Hant_TW.i18n.json,ИEØ_ΙΙØZ,Tien Do Nam,2023-02-14 10:56:16+08:00,2023-02-15 00:18:51+01:00
+assets/i18n/strings_zh-Hant_TW.i18n.json,Tien Do Nam,Justin Bailey,2023-02-15 21:37:37+01:00,2023-02-16 11:02:37-05:00
+assets/i18n/strings_zh-Hant_TW.i18n.json,Tien Do Nam,Kung-chih,2023-04-17 19:42:17+02:00,2023-04-18 10:41:20+02:00
+assets/i18n/strings_zh_Hans.i18n.json,Lapis Apple,Tien Do Nam,2023-01-26 11:56:20+08:00,2023-01-26 11:31:01+01:00
+assets/web/index.html,Gabriel Lima,Tien Do Nam,2023-04-17 19:45:48+02:00,2023-04-18 01:37:35+02:00
+assets/web/main.js,Gabriel Lima,Tien Do Nam,2023-04-17 19:45:48+02:00,2023-04-18 01:37:35+02:00
+common/lib/src/constants.dart,o2e,Tien Do Nam,2024-05-02 17:24:46+02:00,2024-05-02 17:31:17+02:00
+flutter,watchakorn-18k,Tien Do Nam,2023-10-25 14:00:54+02:00,2023-10-25 14:01:53+02:00
+lib/init.dart,Gabriel Lima,Tien Do Nam,2023-03-26 22:48:31+02:00,2023-03-27 21:49:18+02:00
+lib/pages/about_page.dart,René Wang,Tien Do Nam,2023-06-22 19:00:19+02:00,2023-06-22 19:24:04+02:00
+lib/pages/changelog_page.dart,René Wang,Tien Do Nam,2023-06-22 19:00:19+02:00,2023-06-22 19:24:04+02:00
+lib/pages/progress_page.dart,Jude Selase Kwashie,Tien Do Nam,2023-05-19 22:57:27+02:00,2023-05-20 00:30:53+02:00
+lib/pages/receive_history_page.dart,TheGB0077,Tien Do Nam,2023-03-13 10:55:01-03:00,2023-03-13 22:38:32+01:00
+lib/pages/receive_options_page.dart,Gabriel Lima,Tien Do Nam,2023-04-18 20:16:41+02:00,2023-04-18 22:10:34+02:00
+lib/pages/tabs/send_tab.dart,Tien Do Nam,Gabriel Lima,2023-04-16 01:16:10+02:00,2023-04-16 16:50:53+02:00
+lib/pages/tabs/send_tab.dart,Gabriel Lima,Tien Do Nam,2023-04-16 16:50:53+02:00,2023-04-16 17:20:22+02:00
+lib/pages/tabs/settings_tab.dart,Serge Brainin,Tien Do Nam,2023-07-13 00:06:56+02:00,2023-07-13 00:11:50+02:00
+lib/provider/network/multicast_provider.dart,Tien Do Nam,Tien,2023-02-09 01:47:47+01:00,2023-02-09 23:42:54+01:00
+lib/provider/network/multicast_provider.dart,Tien,Tien Do Nam,2023-02-09 23:42:54+01:00,2023-02-10 02:57:06+01:00
+lib/provider/network/send_provider.dart,Jude Selase Kwashie,Tien Do Nam,2023-05-19 22:57:27+02:00,2023-05-20 00:30:53+02:00
+lib/provider/network/server/controller/receive_controller.dart,Jude Selase Kwashie,Tien Do Nam,2023-05-19 22:57:27+02:00,2023-05-20 00:30:53+02:00
+lib/provider/network/server/controller/send_controller.dart,Jude Selase Kwashie,Tien Do Nam,2023-05-19 22:57:27+02:00,2023-05-20 00:30:53+02:00
+lib/provider/persistence_provider.dart,Gabriel Lima,Tien Do Nam,2023-04-01 16:59:59+02:00,2023-04-01 17:05:17+02:00
+lib/provider/sender_session_id_provider.dart,Jude Selase Kwashie,Tien Do Nam,2023-05-19 22:57:27+02:00,2023-05-20 00:30:53+02:00
+lib/provider/window_dimensions_provider.dart,Gabriel Lima,Tien Do Nam,2023-03-26 22:48:31+02:00,2023-03-27 21:49:18+02:00
+lib/util/native/open_file.dart,TheGB0077,Tien Do Nam,2023-03-13 10:55:01-03:00,2023-03-13 22:38:32+01:00
+lib/util/shortcut_warpper.dart,René Wang,Tien Do Nam,2023-06-22 19:00:19+02:00,2023-06-22 19:24:04+02:00
+lib/widget/dialogs/cannot_open_file_dialog.dart,TheGB0077,Tien Do Nam,2023-03-13 12:26:06-03:00,2023-03-13 22:38:32+01:00
+pubspec.lock,Gabriel Lima,Tien Do Nam,2023-04-16 16:50:53+02:00,2023-04-16 17:20:22+02:00
+pubspec.lock,Tien Do Nam,Gabriel Lima,2023-04-20 00:51:53+02:00,2023-04-20 20:27:47+02:00
+pubspec.lock,Gabriel Lima,Tien Do Nam,2023-04-20 20:27:47+02:00,2023-04-20 22:39:46+02:00
+pubspec.lock,Midori,Tien Do Nam,2023-08-22 12:58:07+02:00,2023-08-22 13:07:05+02:00
+pubspec.yaml,Tien Do Nam,fanties,2023-03-26 23:55:17+02:00,2023-03-27 17:33:25+02:00
+pubspec.yaml,Tien Do Nam,Gabriel Lima,2023-04-16 01:16:10+02:00,2023-04-16 16:50:53+02:00
+pubspec.yaml,Gabriel Lima,Tien Do Nam,2023-04-16 16:50:53+02:00,2023-04-16 17:20:22+02:00
+pubspec.yaml,Tien Do Nam,Gabriel Lima,2023-04-20 00:51:53+02:00,2023-04-20 20:27:47+02:00
+pubspec.yaml,Gabriel Lima,Tien Do Nam,2023-04-20 20:27:47+02:00,2023-04-20 22:39:22+02:00
+pubspec.yaml,Tien Do Nam,Gabriel Lima,2023-05-26 02:09:06+02:00,2023-05-27 00:17:46+02:00
+pubspec.yaml,Midori,Tien Do Nam,2023-08-22 12:58:07+02:00,2023-08-22 13:07:05+02:00
+readme_i18n/README_ES.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_ES.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_ES.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_IT.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_IT.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_JA.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_JA.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_JA.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_PH.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_PH.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_PH.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_PL.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_PL.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_PL.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_PT_BR.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_PT_BR.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_TH.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_TH.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_TH.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_VI.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_VI.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_VI.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00
+readme_i18n/README_ZH.md,Gavin Dang,Manuel Santos Souza,2024-09-28 12:10:24+02:00,2024-09-28 22:56:48+02:00
+readme_i18n/README_ZH.md,Dario Landucci,Tien Do Nam,2024-10-05 17:26:33+02:00,2024-10-06 14:36:51+02:00
+readme_i18n/README_ZH.md,Tien Do Nam,Manuel Santos Souza,2024-10-06 14:36:51+02:00,2024-10-06 16:54:21+02:00

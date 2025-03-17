@@ -1,0 +1,91 @@
+Field,Value
+Commits Overview,
+Total Commits,1258
+Total Unique Authors,133
+,
+Top 10 Contributors,
+Author,Commits
+fatedier,10036
+Guy Lewin,218
+yuyulei,73
+Tank,56
+Tyler Compton,45
+Maodanping,40
+hubery,34
+Aarni Koskela,31
+Craig O'Donnell,28
+Hurricanezwf,27
+,
+Communication Events,Total: 105
+"Author1,Author2",Events
+"Aarni Koskela,fatedier",13
+"0x7fff,fatedier",10
+"fatedier,Hurricanezwf",5
+"yuyulei,fatedier",5
+"YK-Samgo,fatedier",4
+"Tank,fatedier",4
+"itcode,fatedier",4
+"XueBing,fatedier",4
+"蓝云Reyes,fatedier",3
+"vashstorm,fatedier",3
+"Blizard,fatedier",3
+"Aarni Koskela,0x7fff",2
+"Splash,fatedier",2
+"Kaive Young,fatedier",2
+"Hurricanezwf,fatedier",2
+"fatedier,0x7fff",2
+"im_zhou,fatedier",2
+"gopherfarm,fatedier",2
+"hubery,fatedier",2
+"fatedier,gopherfarm",2
+"Wang Xiang,fatedier",2
+"Maodanping,Gogs",2
+"Colin Adler,fatedier",1
+"Tank,Guy Lewin",1
+"Remember,im_zhou",1
+"Gogs,fatedier",1
+"Manfred Touron,fatedier",1
+"Asher Oto,Kevin Crawley",1
+"Apflkuacha,fatedier",1
+"Yurun,fatedier",1
+"Touch,fatedier",1
+"fatedier,yuyulei",1
+"fatedier,vashstorm",1
+"fatedier,bingtianbaihua",1
+"fatedier,XueBing",1
+"fatedier,Abirdcfly",1
+"fatedier,Tsao",1
+"Weltolk,fatedier",1
+"hanshuai,fatedier",1
+"im_zhou,Remember",1
+"fatedier,沈鸿飞",1
+"fatedier,荒野無燈",1
+"panhao,fatedier",1
+"vashstorm,Gogs",1
+"ubergeek77,fatedier",1
+"panhao,vashstorm",1
+"vesta,fatedier",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++02:00,13
++05:30,3
++08:00,1188
++13:00,1
+-04:00,2
+-05:00,23
+-06:00,18
+-07:00,10
+,
+Contributors Experience,Average across 3008 files: 98.19%
+File,Top Contributor Share (%)
+LICENSE,100.00
+Godeps/Godeps.json,100.00
+Godeps/Readme,100.00
+Godeps/_workspace/.gitignore,100.00
+Godeps/_workspace/src/github.com/astaxie/beego/LICENSE,100.00
+Godeps/_workspace/src/github.com/astaxie/beego/logs/README.md,100.00
+Godeps/_workspace/src/github.com/astaxie/beego/logs/conn.go,100.00
+Godeps/_workspace/src/github.com/astaxie/beego/logs/console.go,100.00
+Godeps/_workspace/src/github.com/astaxie/beego/logs/es/es.go,100.00
+Godeps/_workspace/src/github.com/astaxie/beego/logs/file.go,100.00

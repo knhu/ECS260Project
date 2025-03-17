@@ -1,0 +1,102 @@
+Field,Value
+Commits Overview,
+Total Commits,4264
+Total Unique Authors,95
+,
+Top 10 Contributors,
+Author,Commits
+Michael[tm] Smith,6770
+hsivonen@e7398766-c432-0410-9565-638d39ca0058,1293
+hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,1117
+sideshowbarker@e7398766-c432-0410-9565-638d39ca0058,284
+fantasai@e7398766-c432-0410-9565-638d39ca0058,278
+Ville Skyttä,237
+hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2,161
+Henri Sivonen,120
+hsivonen@cc716562-c432-0410-be78-79d2286756cb,80
+Bob Hogg,76
+,
+Communication Events,Total: 104
+"Author1,Author2",Events
+"Ville Skyttä,Michael[tm] Smith",18
+"hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058",7
+"Bob Hogg,Michael[tm] Smith",5
+"Michael[tm] Smith,Takeshi Kurosawa",4
+"Takeshi Kurosawa,Michael[tm] Smith",4
+"Michael[tm] Smith,XhmikosR",3
+"XhmikosR,Michael[tm] Smith",3
+"Chris Rebert,Michael[tm] Smith",2
+"Niedziolka Michal,Michał Niedziółka",2
+"hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2,hsivonen@9049286f-c432-0410-bfe8-c119560dd519",2
+"Jens Oliver Meiert,Steve Faulkner",2
+"Henri Sivonen,Michael[tm] Smith",2
+"inkedblade@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058",2
+"hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2",2
+"hsivonen@9049286f-c432-0410-bfe8-c119560dd519,hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1",2
+"dependabot[bot],Michael[tm] Smith",2
+"Michael[tm] Smith,Chris Rebert",2
+"Michael[tm] Smith,Bob Hogg",2
+"Andrew Pitt,Jim Sellers",1
+"Bob Hogg,Jacob",1
+"Geertjan Wielenga,Michael[tm] Smith",1
+"Fuqiao Xue,Michael[tm] Smith",1
+"(no author)@9049286f-c432-0410-bfe8-c119560dd519,(no author)@c6dcca6c-c432-0410-a79e-3fbb6554aff1",1
+"(no author)@c6dcca6c-c432-0410-a79e-3fbb6554aff1,(no author)@5bfc576b-c432-0410-be1c-015b6bc4b1a2",1
+"Michael[tm] Smith,Nick Schonning",1
+"Michael[tm] Smith,Maxime VALETTE",1
+"Michael[tm] Smith,MattGarrish",1
+"Michael[tm] Smith,Henri Sivonen",1
+"Maxime VALETTE,Michael[tm] Smith",1
+"Meisam,Michael[tm] Smith",1
+"Marcos Pereira,sideshowbarker",1
+"Mark Hansen,Michael[tm] Smith",1
+"Jacob,Michael[tm] Smith",1
+"Jacob,Chris Rebert",1
+"Malvoz,Michael[tm] Smith",1
+"Maarten Segers,Michael[tm] Smith",1
+"Michał Niedziółka,Michael[tm] Smith",1
+"Michał Niedziółka,Niedziolka Michal",1
+"Nick Schonning,XhmikosR",1
+"Michael[tm] Smith,dependabot[bot]",1
+"Shlomi Fish,Michael[tm] Smith",1
+"Shane McCarron,Michael[tm] Smith",1
+"Scott O'Hara,Michael[tm] Smith",1
+"Romain Deltour,Michael[tm] Smith",1
+"Philip Jägenstedt,Henri Sivonen",1
+"Robert Linder,Michael[tm] Smith",1
+"Niedziolka Michal,stevefaulkner",1
+"Nicolai Ehemann,Michael[tm] Smith",1
+"fantasai@e7398766-c432-0410-9565-638d39ca0058,inkedblade@e7398766-c432-0410-9565-638d39ca0058",1
+"dependabot[bot],XhmikosR",1
+"Vale de Lobo,Ville Skyttä",1
+"Xue Fuqiao,Michael[tm] Smith",1
+"hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,hsivonen@9049286f-c432-0410-bfe8-c119560dd519",1
+"mike@w3.org,sideshowbarker",1
+"sideshowbarker,Marcos Pereira",1
+"stevefaulkner,Niedziolka Michal",1
+,
+Committer Timezone Distribution,Unique Timezones: 10
+Timezone,Commits
++00:00,1191
++01:00,4
++02:00,39
++03:00,68
++09:00,2887
+-04:00,20
+-05:00,7
+-06:00,3
+-07:00,29
+-08:00,16
+,
+Contributors Experience,Average across 1774 files: 93.94%
+File,Top Contributor Share (%)
+relaxng/tests/driver.html5core,100.00
+relaxng/tests/html5core/README,100.00
+relaxng/tests/html5core/invalid/002.html,100.00
+relaxng/tests/html5core/invalid/002.xhtml,100.00
+relaxng/tests/html5core/invalid/003.xhtml,100.00
+.htaccess,100.00
+relaxng/.htaccess,100.00
+relaxng/tests/driver.xhtml5core,100.00
+relaxng/tests/html5core/invalid/004.xhtml,100.00
+relaxng/tests/html5core/invalid/005.html,100.00

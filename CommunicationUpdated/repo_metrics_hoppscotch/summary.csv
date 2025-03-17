@@ -1,0 +1,414 @@
+Field,Value
+Commits Overview,
+Total Commits,5610
+Total Unique Authors,280
+,
+Top 10 Contributors,
+Author,Commits
+liyasthomas,7384
+Liyas Thomas,5648
+Andrew Bastin,5031
+Anwarul Islam,1296
+Nivedin,1065
+Joel Jacob Stephen,837
+Akash K,793
+Shreyas,678
+James George,546
+Balu Babu,520
+,
+Communication Events,Total: 1987
+"Author1,Author2",Events
+"Andrew Bastin,liyasthomas",231
+"liyasthomas,Andrew Bastin",190
+"Andrew Bastin,Liyas Thomas",138
+"liyasthomas,Liyas Thomas",79
+"Liyas Thomas,liyasthomas",78
+"Liyas Thomas,Andrew Bastin",51
+"NBTX,Liyas Thomas",35
+"Anwarul Islam,Liyas Thomas",33
+"Nivedin,Liyas Thomas",31
+"Akash K,Andrew Bastin",26
+"Anwarul Islam,Akash K",26
+"Liyas Thomas,NBTX",26
+"NBTX,Nicholas La Roux",25
+"Andrew Bastin,Nivedin",25
+"Anwarul Islam,Andrew Bastin",23
+"Nicholas La Roux,Liyas Thomas",23
+"Nivedin,Anwarul Islam",21
+"Liyas Thomas,Nivedin",17
+"Balu Babu,Mir Arif Hasan",14
+"Akash K,Nivedin",14
+"Nivedin,Andrew Bastin",13
+"Jacob Anavisca,Liyas Thomas",13
+"Andrew Bastin,jamesgeorge007",12
+"Liyas Thomas,dependabot[bot]",12
+"Akash K,jamesgeorge007",12
+"Akash K,Anwarul Islam",11
+"Andrew Bastin,Anwarul Islam",11
+"Joel Jacob Stephen,liyasthomas",11
+"Khaleel Gibran,liyasthomas",11
+"Liyas Thomas,dependabot-preview[bot]",11
+"dependabot-preview[bot],Liyas Thomas",10
+"Andrew Bastin,James George",10
+"Liyas Thomas,Dmitry Yankowski",10
+"dependabot[bot],Liyas Thomas",10
+"Andrew Bastin,Akash K",10
+"James George,jamesgeorge007",9
+"Joel Camus Bueno,Liyas Thomas",9
+"Farhan Tariq,Liyas Thomas",9
+"Osheen Sachdev,Liyas Thomas",9
+"Liyas Thomas,Hossein Nedaee",8
+"Hossein Nedaee,Liyas Thomas",8
+"Alec Ananian,Liyas Thomas",8
+"Nivedin,Akash K",8
+"Liyas Thomas,Moulik Aggarwal",8
+"thehollidayinn,Liyas Thomas",8
+"liyasthomas,0xc0Der",8
+"Balu Babu,ankitsridhar16",8
+"vlad0337187,Liyas Thomas",7
+"ankitsridhar16,Balu Babu",7
+"jamesgeorge007,Liyas Thomas",7
+"Joel Jacob Stephen,Liyas Thomas",7
+"James George,Anwarul Islam",7
+"Dmitry Yankowski,NBTX",7
+"Liyas Thomas,Jacob Anavisca",7
+"Mir Arif Hasan,Balu Babu",7
+"Liyas Thomas,jamesgeorge007",7
+"kyteinsky,liyasthomas",6
+"Nicholas Palenchar,Liyas Thomas",6
+"NBTX,izerozlu",6
+"Anwarul Islam,jamesgeorge007",6
+"Nivedin,James George",6
+"Anwarul Islam,Joel Jacob Stephen",6
+"LaurentBrieu,Liyas Thomas",6
+"Balu Babu,Andrew Bastin",6
+"Jacob Anavisca,Dmitry Yankowski",6
+"0xc0Der,liyasthomas",6
+"James George,Andrew Bastin",5
+"James George,Akash K",5
+"ankitsridhar16,Mir Arif Hasan",5
+"Joel Jacob Stephen,Anwarul Islam",5
+"James George,Nivedin",5
+"Hari Narayanan,Liyas Thomas",5
+"Andrew Bastin,Dmitry Yankowski",5
+"Liyas Thomas,vlad0337187",5
+"Liyas Thomas,Francisco Emanuel de Sales Pereira",5
+"Liyas Thomas,izerozlu",5
+"Liyas Thomas,Anwarul Islam",5
+"Anwarul Islam,Nivedin",5
+"Mir Arif Hasan,ankitsridhar16",5
+"jamesgeorge007,James George",4
+"Rahul,Liyas Thomas",4
+"NBTX,Dmitry Yankowski",4
+"Nivedin,Muhammed Ajmal M",4
+"Nicholas La Roux,NBTX",4
+"Liyas Thomas,allcontributors[bot]",4
+"Dmitry Yankowski,Liyas Thomas",4
+"Dmitry Yankowski,Jacob Anavisca",4
+"Liyas Thomas,yubathom",4
+"Andrew Bastin,dependabot-preview[bot]",4
+"Shreyas,Andrew Bastin",4
+"Basil K,Liyas Thomas",4
+"izerozlu,NBTX",4
+"izerozlu,Liyas Thomas",4
+"James George,Joel Jacob Stephen",3
+"Liyas Thomas,pmankar",3
+"Anwarul Islam,liyasthomas",3
+"allcontributors[bot],Liyas Thomas",3
+"Hossein Nedaee,NBTX",3
+"Joel Jacob Stephen,Nivedin",3
+"franciscoemanuel,liyasthomas",3
+"athul,Athul Cyriac Ajay",3
+"liyasthomas,Francisco Emanuel de Sales Pereira",3
+"Moulik Aggarwal,Liyas Thomas",3
+"Kishan Jadav,Nivedin",3
+"Andrius Petrauskis,Andrew Bastin",3
+"Ankit Sridhar,Akash K",3
+"Ankit Sridhar,Mir Arif Hasan",3
+"Liyas Thomas,Levin Rickert",3
+"Akash K,James George",3
+"yubathom,Liyas Thomas",3
+"liyasthomas,Abraham Williams",3
+"Akash K,Liyas Thomas",3
+"Mir Arif Hasan,James George",3
+"Anwarul Islam,James George",3
+"Rishabh Agarwal,liyasthomas",2
+"Shalika Singhal,Kunal Kumar",2
+"allcontributors[bot],John Harker",2
+"dependabot-preview[bot],yubathom",2
+"dependabot-preview[bot],jamesgeorge007",2
+"dependabot-preview[bot],Rahul",2
+"dependabot-preview[bot],Konrad Kalemba",2
+"dependabot-preview[bot],NBTX",2
+"Jeff Groom,Liyas Thomas",2
+"jamesgeorge007,Andrew Bastin",2
+"Francisco Emanuel de Sales Pereira,Andrew Bastin",2
+"Edwin Fajardo,liyasthomas",2
+"Andrew Bastin,Alec Ananian",2
+"dependabot-preview[bot],Hossein Nedaee",2
+"leoGeorges,Liyas Thomas",2
+"moonrailgun,Liyas Thomas",2
+"nelsontky,liyasthomas",2
+"jamesgeorge007,Joel Jacob Stephen",2
+"Akash K,Shreyas",2
+"jamesgeorge007,Shreyas",2
+"Edik,Liyas Thomas",2
+"Ilya,s-r-x",2
+"Andrew Bastin,Mir Arif Hasan",2
+"Andrew Bastin,dependabot[bot]",2
+"Francisco Emanuel de Sales Pereira,Liyas Thomas",2
+"Francisco Emanuel de Sales Pereira,Nivedin",2
+"NicklasWallgren,Andrew Bastin",2
+"Rajdip Bhattacharya,Joel Jacob Stephen",2
+"allcontributors[bot],liyasthomas",2
+"RifqiAlAbqary,Liyas Thomas",2
+"Mir Arif Hasan,Andrew Bastin",2
+"Liyas Thomas,Nityananda Gohain",2
+"Liyas Thomas,NicklasWallgren",2
+"Konrad Kalemba,dependabot-preview[bot]",2
+"Liyas Thomas,Akash K",2
+"NBTX,Nicholas Palenchar",2
+"NBTX,liyasthomas",2
+"Anwarul Islam,Govind.S.B",2
+"Nivedin,liyasthomas",2
+"Pranay Pandey,Shreyas",2
+"Pratik,Liyas Thomas",2
+"John Harker,liyasthomas",2
+"John Harker,Liyas Thomas",2
+"Nivedin,Joel Jacob Stephen",2
+"Nityananda Gohain,Liyas Thomas",2
+"Liyas Thomas,rifqi",2
+"Dmitry Yankowski,dependabot-preview[bot]",2
+"Ankit Sridhar,Joel Jacob Stephen",2
+"Liyas Thomas,LaurentBrieu",2
+"Liyas Thomas,mateusppereira",2
+"Liyas Thomas,Hari Narayanan",2
+"Ben,Matthew Crumley",2
+"wahid,Liyas Thomas",2
+"Daniel Luna,Liyas Thomas",2
+"snyk-bot,dependabot-preview[bot]",2
+"shobanrajm,Anwarul Islam",2
+"s-r-x,liyasthomas",2
+"0xc0Der,Andrew Bastin",2
+"jamesgeorge007,athul",2
+"rifqi,Liyas Thomas",2
+"pmankar,NBTX",2
+"Andrew Bastin,Balu Babu",2
+"Abdul Rifqi Al Abqary,Liyas Thomas",1
+"Abdul Rifqi Al Abqary,Nicholas Palenchar",1
+"pushrbx,Andrew Bastin",1
+"pushrbx,Liyas Thomas",1
+"rifqi,Andrew Bastin",1
+"liyasthomas,Stephane",1
+"liyasthomas,Yasio",1
+"liyasthomas,breno-pereira",1
+"liyasthomas,s-r-x",1
+"luthrap,Raul Piraces Alastuey",1
+"luzpaz,Shreyas",1
+"mateusppereira,NBTX",1
+"med8bra,Anwarul Islam",1
+"jerbob92,Andrew Bastin",1
+"peterpeterparker,Ali Anıl Koçak",1
+"yubathom,Nityananda Gohain",1
+"Akash K,Ankit Sridhar",1
+"vlad0337187,breno-pereira",1
+"wahwahid,Liyas Thomas",1
+"yubathom,NBTX",1
+"Abraham Williams,liyasthomas",1
+"Brandon Hawi,Abraham Williams",1
+"Caneco,liyasthomas",1
+"Dave York,liyasthomas",1
+"Deepanshu Dhruw,Andrew Bastin",1
+"Dmitry Yankowski,ahpo",1
+"Ankit Sridhar,Balu Babu",1
+"Liyas Thomas,Léo Martin",1
+"Liyas Thomas,Rahul",1
+"Liyas Thomas,RifqiAlAbqary",1
+"Liyas Thomas,Thierry Meliot",1
+"Liyas Thomas,Thomas Bnt",1
+"Liyas Thomas,adevr",1
+"Liyas Thomas,adlpaf",1
+"Liyas Thomas,hms5232",1
+"Liyas Thomas,moonrailgun",1
+"Liyas Thomas,Jayce Dugan",1
+"Liyas Thomas,Leonardo Matos",1
+"Liyas Thomas,thehollidayinn",1
+"Liyas Thomas,wahid",1
+"Liyas Thomas,wahwahid",1
+"Léo Martin,Liyas Thomas",1
+"Michel Tomas,Anwarul Islam",1
+"Mir Arif Hasan,jamesgeorge007",1
+"Kishan Jadav,jamesgeorge007",1
+"Liyas Thomas,Nicholas La Roux",1
+"Liyas Thomas,Nicholas Palenchar",1
+"Liyas Thomas,Nicolas PENNEC",1
+"Liyas Thomas,Peter Frank",1
+"Liyas Thomas,Pratik",1
+"Leonardo Matos,Liyas Thomas",1
+"Leonardo Matos,Matt Gardner",1
+"Liyas Thomas,Abdul Rifqi Al Abqary",1
+"Liyas Thomas,Amit Dash",1
+"Liyas Thomas,Edik",1
+"Muhammed Ajmal M,Andrew Bastin",1
+"Muhammed Ajmal M,Liyas Thomas",1
+"Athul Cyriac Ajay,Liyas Thomas",1
+"Balu Babu,Akash K",1
+"Andrew Bastin,Hossein Nedaee",1
+"Andrew Bastin,Igor Stuzhuk (KoHcoJlb)",1
+"NBTX,Nilesh P",1
+"NBTX,dependabot-preview[bot]",1
+"NBTX,mateusppereira",1
+"NBTX,yubathom",1
+"Neil Arya,Liyas Thomas",1
+"Raul Piraces Alastuey,Yasio",1
+"Nicholas Palenchar,Jess",1
+"Nicholas Palenchar,Nick Palenchar",1
+"Nick Palenchar,Edison Augusthy",1
+"Nicolas PENNEC,Liyas Thomas",1
+"Nilesh P,NBTX",1
+"Nilesh Patel,Brandon Hawi",1
+"Nityananda Gohain,liyasthomas",1
+"Nivedin,Govind.S.B",1
+"N Jannasch,Abdul Rifqi Al Abqary",1
+"NBTX,Andrew Bastin",1
+"Hossein Nedaee,Nicholas Palenchar",1
+"Hossein Nedaee,Tetri Mesquita",1
+"Liyas Thomas,Hydrophobefireman",1
+"Liyas Thomas,Ilya",1
+"Liyas Thomas,Isha Gupta",1
+"Joel Jacob Stephen,Pranay Pandey",1
+"Joel Jacob Stephen,Shreyas",1
+"Joel Jacob Stephen,jamesgeorge007",1
+"John,liyasthomas",1
+"John Harker,allcontributors[bot]",1
+"John Hu,Liyas Thomas",1
+"Jorge Ferrer,liyasthomas",1
+"Kishan Jadav,Akash K",1
+"NBTX,John Harker",1
+"Stephane,liyasthomas",1
+"Stephanie Frankian,Pratik",1
+"Tabrez Khan,Liyas Thomas",1
+"Nivedin,Pranay Pandey",1
+"Nivedin,jamesgeorge007",1
+"Patrick Thoelken,Jean-Paul van Ravensberg",1
+"Peter Frank,Liyas Thomas",1
+"Pranay Pandey,Anwarul Islam",1
+"Rajdip Bhattacharya,Liyas Thomas",1
+"Raul Piraces Alastuey,Liyas Thomas",1
+"alyson t,Liyas Thomas",1
+"RifqiAlAbqary,Daniel Luna",1
+"Rishabh Agarwal,Andrew Bastin",1
+"Samir L. Boulema,Liyas Thomas",1
+"Scott Dutton,Liyas Thomas",1
+"Sebastian Luque,Khaleel Gibran",1
+"Sergio Guzmán Mayorga,Darío Hereñú",1
+"Shreyas,James George",1
+"Igor Guastalla de Lima,izerozlu",1
+"Igor Guastalla de Lima,liyasthomas",1
+"Kumar Shivendu,Andrew Bastin",1
+"James George,Dante Calderon",1
+"James George,Eduardo San Martin Morote",1
+"James George,Liyas Thomas",1
+"Jess,liyasthomas",1
+"Jitendra Nirnejak,Anwarul Islam",1
+"Joel Jacob Stephen,Akash K",1
+"Joel Jacob Stephen,Andrew Bastin",1
+"Shreyas,Nivedin",1
+"Shreyas,jamesgeorge007",1
+"Tetri Mesquita,Edik",1
+"Tetri Mesquita,Liyas Thomas",1
+"Thomas Bnt,Hossein Nedaee",1
+"Thomas Bnt,LaurentBrieu",1
+"Tony,liyasthomas",1
+"YE Qing,Qing Ye",1
+"YE Qing,Raul Piraces Alastuey",1
+"Yasio,Raul Piraces Alastuey",1
+"Yasio,YE Qing",1
+"Zayar Tun,Liyas Thomas",1
+"adevr,Liyas Thomas",1
+"adlpaf,Liyas Thomas",1
+"izerozlu,Nicholas Palenchar",1
+"jamesgeorge007,Akash K",1
+"jamesgeorge007,Anwarul Islam",1
+"ankitsridhar16,Andrew Bastin",1
+"athul,Liyas Thomas",1
+"athul,NBTX",1
+"breno-pereira,Liyas Thomas",1
+"breno-pereira,RifqiAlAbqary",1
+"chrispiccaro,rifqi",1
+"Andrew Bastin,Ankit Sridhar",1
+"Hossein Nedaee,jamesgeorge007",1
+"Gopishankar Haridas,John",1
+"Gopishankar Haridas,liyasthomas",1
+"Govind.S.B,Anwarul Islam",1
+"Govind.S.B,Joel Jacob Stephen",1
+"Govind.S.B,jamesgeorge007",1
+"Ben,Liyas Thomas",1
+"Hugh O'Brien,liyasthomas",1
+"kyteinsky,Nivedin",1
+"leoGeorges,Andrew Bastin",1
+"liyasthomas,Balázs Úr",1
+"devblin,Andrew Bastin",1
+"franciscoemanuel,Francisco Emanuel de Sales Pereira",1
+"hms5232,Liyas Thomas",1
+"islamzeki,Liyas Thomas",1
+"izerozlu,Ahmed Sayed",1
+"izerozlu,Edison Augusthy",1
+"izerozlu,Igor Guastalla de Lima",1
+"Abraham Williams,NBTX",1
+"Igor Stuzhuk (KoHcoJlb),Andrew Bastin",1
+"Ilya,Andrew Bastin",1
+"Jacob Anavisca,liyasthomas",1
+"Dmitry Yankowski,jamesgeorge007",1
+"Edison Augusthy,Gopishankar Haridas",1
+"Edison Augusthy,Liyas Thomas",1
+"Edison Augusthy,izerozlu",1
+"Amit Dash,Liyas Thomas",1
+"izerozlu,Jacob Anavisca",1
+"Abraham Williams,Andrew Bastin",1
+"Andrew Bastin,Nityananda Gohain",1
+"Andrew Bastin,ankitsridhar16",1
+"Andrew Bastin,chrispiccaro",1
+"Andrew Bastin Kalloor Biju,Andrew Bastin",1
+"Andrew Bastin Kalloor Biju,Liyas Thomas",1
+"liyasthomas,Iagor Moraes",1
+"liyasthomas,Ilya",1
+"liyasthomas,Nivedin",1
+"liyasthomas,RifqiAlAbqary",1
+"jamesgeorge007,Dmitry Yankowski",1
+"Ahmed Sayed,NBTX",1
+,
+Committer Timezone Distribution,Unique Timezones: 19
+Timezone,Commits
++00:00,394
++01:00,81
++02:00,44
++03:00,37
++03:30,13
++04:30,2
++05:00,6
++05:30,4243
++06:00,64
++06:30,1
++07:00,6
++08:00,20
++09:00,28
+-03:00,46
+-04:00,309
+-05:00,271
+-06:00,13
+-07:00,29
+-08:00,3
+,
+Contributors Experience,Average across 3798 files: 87.78%
+File,Top Contributor Share (%)
+icons/github.svg,100.00
+icons/pwalogo.svg,100.00
+travis.js,100.00
+.github/ISSUE_TEMPLATE/bug_report.md,100.00
+.github/ISSUE_TEMPLATE/custom.md,100.00
+.github/ISSUE_TEMPLATE/feature_request.md,100.00
+.directory,100.00
+.dependabot/config.yml,100.00
+.idea/.gitignore,100.00
+static/icons/github.svg,100.00

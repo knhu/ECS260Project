@@ -1,0 +1,152 @@
+Field,Value
+Commits Overview,
+Total Commits,861
+Total Unique Authors,54
+,
+Top 10 Contributors,
+Author,Commits
+Rodrigo Araújo,1644
+Halil Beglerović,1454
+Ahmed Sagdati,1305
+hal3e,1232
+Emir,567
+iqdecay,412
+Brandon Kite,319
+Ahmed Mujkic,316
+Green Baneling,308
+Victor Nepveu,249
+,
+Communication Events,Total: 546
+"Author1,Author2",Events
+"Ahmed Sagdati,Halil Beglerović",53
+"hal3e,Ahmed Sagdati",27
+"Victor Nepveu,Rodrigo Araújo",23
+"Rodrigo Araújo,Brandon Kite",20
+"MujkicA,hal3e",20
+"Ahmed Sagdati,Emir",19
+"Halil Beglerović,Emir",19
+"Brandon Kite,Rodrigo Araújo",16
+"Emir,Rodrigo Araújo",15
+"Halil Beglerović,Ahmed Mujkic",13
+"Emir,Halil Beglerović",13
+"Halil Beglerović,Rodrigo Araújo",11
+"Halil Beglerović,iqdecay",11
+"Rodrigo Araújo,John Adler",11
+"Ahmed Mujkic,Halil Beglerović",11
+"Ahmed Sagdati,Ahmed Mujkic",10
+"Victor Nepveu,John Adler",10
+"Halil Beglerović,Ahmed Sagdati",10
+"mitchmindtree,Halil Beglerović",9
+"Ahmed Mujkic,Emir",9
+"Ahmed Sagdati,Oleksii Filonenko",9
+"iqdecay,Ahmed Sagdati",9
+"Emir,Ahmed Mujkic",8
+"Emir,Victor Nepveu",8
+"Rodrigo Araújo,Victor Nepveu",8
+"Brandon Kite,Victor Nepveu",8
+"Rodrigo Araújo,Emir",7
+"iqdecay,Halil Beglerović",7
+"Ahmed Sagdati,Rodrigo Araújo",7
+"John Adler,Rodrigo Araújo",6
+"iqdecay,Ahmed Mujkic",6
+"Emir,Ahmed Sagdati",5
+"Green Baneling,Mohammad Fawaz",5
+"Ahmed Mujkic,Ahmed Sagdati",5
+"hal3e,Oleksii Filonenko",5
+"hal3e,Rodrigo Araújo",5
+"Ahmed Sagdati,vicnep",4
+"Ahmed Sagdati,hal3e",4
+"mitchmindtree,Rodrigo Araújo",4
+"Rodrigo Araújo,Halil Beglerović",4
+"Victor Nepveu,Brandon Kite",4
+"Ahmed Mujkic,Rodrigo Araújo",3
+"Green Baneling,hal3e",3
+"Oleksii Filonenko,Rodrigo Araújo",3
+"Oleksii Filonenko,hal3e",3
+"Oleksii Filonenko,MujkicA",3
+"iqdecay,MujkicA",2
+"tjsharp1,Rodrigo Araújo",2
+"Victor Nepveu,Thiago Araujo",2
+"Rodrigo Araújo,Ahmed Mujkic",2
+"Rodrigo Araújo,Ahmed Sagdati",2
+"Emir,iqdecay",2
+"Green Baneling,Rodrigo Araújo",2
+"Brandon Kite,Ahmed Sagdati",2
+"Brandon Kite,John Adler",2
+"Green Baneling,Ahmed Sagdati",2
+"Brandon Kite,Oleksii Filonenko",2
+"Rodrigo Araújo,hal3e",2
+"hal3e,MujkicA",2
+"Oleksii Filonenko,Emir",2
+"John Adler,Oleksii Filonenko",2
+"John Adler,Ahmed Mujkic",2
+"Oleksii Filonenko,Victor Nepveu",2
+"Ahmed Sagdati,Victor Nepveu",1
+"Ahmed Mujkic,mitchmindtree",1
+"Ahmed Mujkic,iqdecay",1
+"Ahmed Mujkic,Victor Nepveu",1
+"Ahmed Sagdati,Matt",1
+"Emir,Oleksii Filonenko",1
+"Braqzen,AyushiN",1
+"Emir,rashad",1
+"Emir,hal3e",1
+"Emir,Kaya Gökalp",1
+"Cameron Manavian,Ahmed Sagdati",1
+"Cameron Manavian,Ahmed Mujkic",1
+"Emir,JC",1
+"MujkicA,Rodrigo Araújo",1
+"Luiz Estácio,John Adler",1
+"John Adler,Victor Nepveu",1
+"Halil Beglerović,Brandon Kite",1
+"Halil Beglerović,Thiago Araujo",1
+"John Adler,Brandon Kite",1
+"Joshua Batty,Rodrigo Araújo",1
+"Mohammad Fawaz,Rodrigo Araújo",1
+"Kaya Gökalp,Rodrigo Araújo",1
+"Luiz Estácio,Brandon Kite",1
+"Rodrigo Araújo,Dyltom",1
+"Rodrigo Araújo,Daniel Bate",1
+"Mohammad Fawaz,Ahmed Mujkic",1
+"Teddy Byron,Victor Nepveu",1
+"Rodrigo Araújo,Green Baneling",1
+"Rodrigo Araújo,iqdecay",1
+"Rodrigo Araújo,mitchmindtree",1
+"Rodrigo Araújo,tjsharp1",1
+"Victor Nepveu,mitchmindtree",1
+"iqdecay,Hannes Karppila",1
+"hal3e,Sarah Schwartz",1
+"iqdecay,Emir",1
+"mitchmindtree,Brandon Kite",1
+"iqdecay,hal3e",1
+"mitchmindtree,Victor Nepveu",1
+"sarahschwartz,MujkicA",1
+,
+Committer Timezone Distribution,Unique Timezones: 14
+Timezone,Commits
++00:00,52
++01:00,188
++02:00,312
++03:00,27
++04:00,3
++08:00,1
++10:00,3
++11:00,1
+-03:00,5
+-04:00,32
+-05:00,19
+-06:00,3
+-07:00,136
+-08:00,79
+,
+Contributors Experience,Average across 1502 files: 85.11%
+File,Top Contributor Share (%)
+.github/workflows/cargo_test.yml,100.00
+fuels-abi-cli/examples/array.json,100.00
+fuels-abi-cli/examples/nested_struct.json,100.00
+fuels-abi-cli/examples/simple.json,100.00
+fuels-abigen-macro/tests/test_projects/library_test/src/main.sw,100.00
+fuels-abigen-macro/tests/test_projects/script_test/src/main.sw,100.00
+fuels-abigen-macro/tests/test_projects/stdlib/Forc.toml,100.00
+fuels-abigen-macro/tests/test_projects/stdlib/src/chain.sw,100.00
+fuels-abigen-macro/tests/test_projects/stdlib/src/constants.sw,100.00
+fuels-abigen-macro/tests/test_projects/stdlib/src/hash.sw,100.00

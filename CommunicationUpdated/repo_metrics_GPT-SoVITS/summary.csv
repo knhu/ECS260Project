@@ -1,0 +1,133 @@
+Field,Value
+Commits Overview,
+Total Commits,880
+Total Unique Authors,93
+,
+Top 10 Contributors,
+Author,Commits
+RVC-Boss,575
+XXXXRT666,173
+KamioRinn,116
+Blaise,71
+蓝梦实,55
+Kenn Zhang,38
+starylan,26
+ChasonJiang,24
+Wu Zichen,24
+Lion,23
+,
+Communication Events,Total: 239
+"Author1,Author2",Events
+"RVC-Boss,Blaise",53
+"XXXXRT666,RVC-Boss",15
+"RVC-Boss,XXXXRT666",13
+"KamioRinn,XXXXRT666",9
+"RVC-Boss,Wu Zichen",8
+"RVC-Boss,KamioRinn",7
+"RVC-Boss,Ftps",6
+"Ftps,RVC-Boss",5
+"RVC-Boss,DW",4
+"RVC-Boss,KakaruHayate",4
+"RVC-Boss,starylan",4
+"Lion-Wu,digger yu",4
+"SapphireLab,RVC-Boss",3
+"Kenn Zhang,RVC-Boss",3
+"Kenn Zhang,Wu Zichen",3
+"XXXXRT666,KamioRinn",3
+"Yuan-Man,Kenn Zhang",3
+"Blaise,spicysama",3
+"KamioRinn,RVC-Boss",3
+"Atopona,Kenn Zhang",3
+"RVC-Boss,AkitoLiu",2
+"ChasonJiang,RVC-Boss",2
+"DW,RVC-Boss",2
+"KakaruHayate,RVC-Boss",2
+"Rice Cake,RVC-Boss",2
+"RVC-Boss,Rice Cake",2
+"Wu Zichen,Pengoose",2
+"Wu Zichen,RVC-Boss",2
+"Rice Cake,Shouta Yoshikai",2
+"RVC-Boss,StaryLan",2
+"謬紗特,Miuzarte",2
+"刘悦,RVC-Boss",2
+"xmimu,RVC-Boss",2
+"RVC-Boss,Yuan-Man",2
+"KamioRinn,liufenghua",1
+"Alex Z,Rice Cake",1
+"Alex Z,Ilaria",1
+"Atopona,Pengoose",1
+"Atopona,Wu Zichen",1
+"Blaise,Alex Z",1
+"Blaise,Ftps",1
+"Abyss-Seeker,RVC-Boss",1
+"KamioRinn,DW",1
+"Ilaria,RVC-Boss",1
+"KakaruHayate,刘悦",1
+"Ikko Eltociear Ashimine,Miuzarte",1
+"DW,Yongzheng Lai",1
+"DW,岛石",1
+"Erythrocyte3803,Ke",1
+"ChanningWang2018,RVC-Boss",1
+"ChasonJiang,XXXXRT666",1
+"RVC-Boss,Erythrocyte3803",1
+"Kenn Zhang,Han Fangyuan",1
+"Ke,RVC-Boss",1
+"RVC-Boss,Abyss-Seeker",1
+"Lion-Wu,KamioRinn",1
+"Miuzarte,Wu Zichen",1
+"Rafael Godoy,DW",1
+"RVC-Boss,蓝梦实",1
+"RVC-Boss,游雁",1
+"RVC-Boss,刘悦",1
+"RVC-Boss,zxgov",1
+"RVC-Boss,xmimu",1
+"RVC-Boss,qieqieplus",1
+"RVC-Boss,ling",1
+"RVC-Boss,Miuzarte",1
+"RVC-Boss,YuChuXi",1
+"Lei Hao,KakaruHayate",1
+"XXXXRT666,Yuan-Man",1
+"Watchtower-Liu,RVC-Boss",1
+"StaryLan,KakaruHayate",1
+"Shouta Yoshikai,RVC-Boss",1
+"Rafael Godoy,RVC-Boss",1
+"Yuan-Man,Erythrocyte3803",1
+"YuChuXi,RVC-Boss",1
+"Yongzheng Lai,RVC-Boss",1
+"Xaiat,http-404-usernotfound",1
+"duliangang,RVC-Boss",1
+"Yuan-Man,RVC-Boss",1
+"Yuan-Man,游雁",1
+"bfloat16,RVC-Boss",1
+"qieqieplus,RVC-Boss",1
+"koji,Yuan-Man",1
+"http-404-usernotfound,Ikko Eltociear Ashimine",1
+"shadow01a,SetoKaiba",1
+"starylan,KamioRinn",1
+"spicysama,Alex Z",1
+"岛石,游雁",1
+"游雁,Yuan-Man",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++00:00,17
++01:00,9
++05:30,1
++08:00,814
++09:00,23
++11:00,12
+-03:00,3
+-05:00,1
+,
+Contributors Experience,Average across 316 files: 86.56%
+File,Top Contributor Share (%)
+LICENSE,100.00
+i18n/i18n.py,100.00
+i18n/locale_diff.py,100.00
+i18n/scan_i18n.py,100.00
+my_utils.py,100.00
+slice_audio.py,100.00
+slicer2.py,100.00
+subfix_webui.py,100.00
+tools/init,100.00
+tools/slicer2.py,100.00

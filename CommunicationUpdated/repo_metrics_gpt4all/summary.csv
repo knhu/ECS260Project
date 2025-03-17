@@ -1,0 +1,226 @@
+Field,Value
+Commits Overview,
+Total Commits,2288
+Total Unique Authors,138
+,
+Top 10 Contributors,
+Author,Commits
+Adam Treat,2039
+Jared Van Bortel,1722
+AT,631
+Aaron Miller,206
+Richard Guo,201
+Andriy Mulyar,189
+Zach Nussbaum,175
+Jacob Nguyen,157
+mvenditto,143
+cebtenzzre,91
+,
+Communication Events,Total: 622
+"Author1,Author2",Events
+"AT,Jared Van Bortel",58
+"Aaron Miller,Adam Treat",58
+"Jared Van Bortel,AT",56
+"Adam Treat,Aaron Miller",52
+"AT,Adam Treat",30
+"Andreas Obersteiner,Jared Van Bortel",25
+"Adam Treat,AT",17
+"Adam Treat,Jared Van Bortel",14
+"Jared Van Bortel,Adam Treat",14
+"Adam Treat,Cebtenzzre",12
+"Adam Treat,niansa/tuxifan",11
+"Cebtenzzre,Adam Treat",7
+"niansa,Adam Treat",7
+"Adam Treat,Justin Wang",6
+"bstadt,Zach Nussbaum",6
+"niansa/tuxifan,Adam Treat",6
+"AT,niansa",6
+"Zach Nussbaum,Zach",6
+"Andriy Mulyar,Zach Nussbaum",5
+"AT,Andriy Mulyar",4
+"Adam Treat,Zach Nussbaum",4
+"Zach Nussbaum,Andriy Mulyar",4
+"Andriy Mulyar,Aaron Miller",4
+"Jared Van Bortel,Olyxz16",4
+"Jared Van Bortel,John W. Parent",3
+"Andriy Mulyar,AT",3
+"Justin Wang,Adam Treat",3
+"Jared Van Bortel,Victor",3
+"kuvaus,aaron miller",3
+"John W. Parent,Jared Van Bortel",3
+"Riccardo Giovanetti,Jared Van Bortel",3
+"Zach Nussbaum,Adam Treat",3
+"ThiloteE,Jared Van Bortel",3
+"Aaron Miller,cebtenzzre",3
+"3Simplex,AT",3
+"niansa/tuxifan,niansa",3
+"Adam Treat,eachadea",2
+"Adam Treat,niansa",2
+"Adam Treat,Victor",2
+"Jared Van Bortel,ThiloteE",2
+"Feldwor,Andriy Mulyar",2
+"adtreat,Adam Treat",2
+"akgom,Andriy Mulyar",2
+"Adam Treat,Andriy Mulyar",2
+"Aaron Miller,kuvaus",2
+"Adam Treat,Richard Guo",2
+"Adam Treat,adtreat",2
+"Adam Treat,Xu Zhen",2
+"Adam Treat,cebtenzzre",2
+"Olyxz16,Adam Treat",2
+"Thiago Ramos,AT",2
+"cebtenzzre,Adam Treat",2
+"niansa,niansa/tuxifan",2
+"niansa,Aaron Miller",2
+"cebtenzzre,Andriy Mulyar",2
+"cebtenzzre,Aaron Miller",2
+"Zach Nussbaum,bstadt",2
+"eachadea,Adam Treat",2
+"dsalvat1,dsalvatierra",2
+"Victor,cosmic-snow",2
+"Victor,Jared Van Bortel",2
+"Daniel Alencar,Adam Treat",2
+"Andriy Mulyar,Feldwor",2
+"Andriy Mulyar,Brandon Duderstadt",2
+"Andriy Mulyar,Yuvanesh-ux",2
+"AT,Berkant",1
+"AT,Pavol Rusnak",1
+"AT,TheBloke",1
+"AT,Riccardo Giovanetti",1
+"385olt,Cosmic Snow",1
+"AT,3Simplex",1
+"AT,Benjamin Schmidt",1
+"AMOGUS,385olt",1
+"AT,Tim453",1
+"AT,Zach Nussbaum",1
+"Aaron Miller,AT",1
+"Aaron Miller,Andriy Mulyar",1
+"Adam Treat,Akarshan Biswas",1
+"Adam Treat,Jacob Nguyen",1
+"AT,niansa/tuxifan",1
+"AT,wuhanodoo",1
+"Adam Treat,wuhanodoo",1
+"Adam Treat,cosmic-snow",1
+"Adam Treat,Thiago Ramos",1
+"Adam Treat,TheBloke",1
+"Adam Treat,Riccardo Giovanetti",1
+"Adam Treat,Juuso Alasuutari",1
+"Adam Treat,Jay",1
+"Adam Treat,John W. Parent",1
+"Aaron Miller,niansa",1
+"AT,不知火 Shiranui",1
+"Daryl,Brandon Duderstadt",1
+"Cosmic Snow,Adam Treat",1
+"Brandon Duderstadt,mazzzystar",1
+"Chris Messina,Jo Liss",1
+"Brandon Duderstadt,Feldwor",1
+"Brandon Duderstadt,Nick Lothian",1
+"Dillon Erb,Andriy Mulyar",1
+"David Ernst,EliasVincent",1
+"Andriy Mulyar,cebtenzzre",1
+"Andriy Mulyar,Richard Guo",1
+"Berkant,AT",1
+"Brandon Duderstadt,Andriy Mulyar",1
+"Benjamin Schmidt,Ettore Di Giacinto",1
+"Andriy Mulyar,mcembalest",1
+"Andriy Mulyar,akgom",1
+"Andriy Mulyar,Alex Nguyen",1
+"Andriy Mulyar,Benjamin Schmidt",1
+"Alex Nguyen,Andriy Mulyar",1
+"Andriy Mulyar,Malik M Alnakhaleh",1
+"Andriy Mulyar,HiraduNakamura",1
+"Akarshan Biswas,Adam Treat",1
+"Adam Treat,不知火 Shiranui",1
+"Matthieu Talbot,AT",1
+"MalikMAlna,Zach",1
+"Lakshay Kansal,Adam Treat",1
+"Kryotek,Adam Treat",1
+"Konstantin Gukov,Richard Guo",1
+"Johannes Plötner,johannesploetner",1
+"Jay,AT",1
+"Jo Liss,Andriy Mulyar",1
+"Jared Van Bortel,Riccardo Giovanetti",1
+"Jared Van Bortel,Simon Willison",1
+"Jared Van Bortel,不知火 Shiranui",1
+"Jacob Nguyen,Jared Van Bortel",1
+"Jared Van Bortel,3Simplex",1
+"Jacob Nguyen,dependabot[bot]",1
+"Jared Van Bortel,Jacob Nguyen",1
+"Jared Van Bortel,Jay",1
+"Ettore Di Giacinto,Yuvanesh-ux",1
+"Ettore Di Giacinto,AT",1
+"EliasVincent,Hello1024",1
+"Feldwor,bstadt",1
+"Hello1024,Andriy Mulyar",1
+"FoivosC,Adam Treat",1
+"Jacob Nguyen,Felix Zaslavskiy",1
+"Benjamin Schmidt,Zach Nussbaum",1
+"Richard Guo,Adam Treat",1
+"Richard Guo,Aaron Miller",1
+"TareHimself,chrisbarrera",1
+"Sajjad,Andriy Mulyar",1
+"Riccardo Giovanetti,不知火 Shiranui",1
+"Richard Guo,AT",1
+"Nick Lothian,Daryl",1
+"Pavol Rusnak,AT",1
+"Zach Nussbaum,Tom Jobbins",1
+"Zach Nussbaum,Brandon Duderstadt",1
+"Zach,Zach Nussbaum",1
+"Zach Nussbaum,AT",1
+"Zach,MalikMAlna",1
+"Yuvanesh-ux,Sajjad",1
+"Yaroslav Halchenko,Shukri",1
+"Yuvanesh-ux,Andriy Mulyar",1
+"Ubuntu,Zach Nussbaum",1
+"Victor,Adam Treat",1
+"Yaroslav Halchenko,Richard Guo",1
+"Victor Tsaran,cebtenzzre",1
+"TheBloke,AT",1
+"ThiloteE,Adam Treat",1
+"Tim Miller,Aaron Miller",1
+"Tom Jobbins,AT",1
+"matthew-gill,Lakshay Kansal",1
+"cosmic-snow,Adam Treat",1
+"aaron miller,Adam Treat",1
+"bstadt,Andriy Mulyar",1
+"aaron miller,Aaron Miller",1
+"mudler,Ettore Di Giacinto",1
+"mvenditto,redthing1",1
+"mazzzystar,David Ernst",1
+"niansa,Tim Miller",1
+"mcembalest,John W. Parent",1
+"niansa/tuxifan,Aaron Miller",1
+"niansa/tuxifan,Peter Gagarinov",1
+"wuhanodoo,AT",1
+"zanussbaum,Zach Nussbaum",1
+"不知火 Shiranui,AT",1
+"不知火 Shiranui,Jared Van Bortel",1
+,
+Committer Timezone Distribution,Unique Timezones: 13
+Timezone,Commits
++00:00,94
++01:00,5
++02:00,26
++03:00,5
++07:00,1
++08:00,1
++09:00,1
++10:30,1
+-03:00,31
+-04:00,1686
+-05:00,308
+-06:00,48
+-07:00,81
+,
+Contributors Experience,Average across 720 files: 87.09%
+File,Top Contributor Share (%)
+transformers,100.00
+env.yaml,100.00
+clean.py,100.00
+configs/deepspeed/ds_config.json,100.00
+configs/train/finetune.yaml,100.00
+configs/train/finetune_lora.yaml,100.00
+read.py,100.00
+peft,100.00
+eval_data/user_oriented_instructions.jsonl,100.00
+configs/eval/generate_llama.yaml,100.00

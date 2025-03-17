@@ -1,0 +1,87 @@
+Field,Value
+Commits Overview,
+Total Commits,117
+Total Unique Authors,29
+,
+Top 10 Contributors,
+Author,Commits
+Zeqiang-Lai,162
+Xianghui Yang,68
+HuiwenShi,57
+Zeqiang Lai,12
+Mr. For Example,9
+Radek Szambelan,7
+AY1997,7
+“yunfeezhao”,4
+YAN Wenkun,4
+YifeiFeng,3
+,
+Communication Events,Total: 63
+"Author1,Author2",Events
+"Xianghui Yang,Zeqiang-Lai",7
+"Zeqiang-Lai,Zeqiang Lai",4
+"Xianghui Yang,Scott Mudge",3
+"Scott Mudge,Mr. For Example",3
+"Zeqiang-Lai,hjwdzh",2
+"Xianghui Yang,Mr. For Example",2
+"Radek Szambelan,Xianghui Yang",2
+"Radek Szambelan,AY1997",2
+"HaolinLiu97,Zeqiang-Lai",2
+"“Maikouuu”,“Zibo”",2
+"huiwenshi,HaolinLiu97",2
+"Maikouuu,“Maikouuu”",1
+"Maikouuu,huiwenshi",1
+"Ikko Eltociear Ashimine,Zeqiang-Lai",1
+"Ikko Eltociear Ashimine,WanglifuCV",1
+"Ikko Eltociear Ashimine,Radek Szambelan",1
+"HuiwenShi,Zeqiang-Lai",1
+"Alex Nolasco,Zeqiang-Lai",1
+"AY1997,Zeqiang-Lai",1
+"AY1997,Radek Szambelan",1
+"AY1997,Xianghui Yang",1
+"Theodore Rolle,Zeqiang-Lai",1
+"YAN Wenkun,Zeqiang-Lai",1
+"Xianghui Yang,HuiwenShi",1
+"WanglifuCV,yunfeezhao",1
+"Ramiro Mendez,Mr. For Example",1
+"Mr. For Example,Theodore Rolle",1
+"Zeqiang-Lai,Maikouuu",1
+"Zeqiang-Lai,HuiwenShi",1
+"Zeqiang-Lai,AY1997",1
+"Zeqiang Lai,Radek Szambelan",1
+"Zeqiang-Lai,Ramiro Mendez",1
+"Zeqiang-Lai,huiwenshi",1
+"Zeqiang-Lai,Radek Szambelan",1
+"Zeqiang-Lai,Mr. For Example",1
+"hjwdzh,Zibo",1
+"Zibo,Ikko Eltociear Ashimine",1
+"slowfat,Zeqiang-Lai",1
+"hjwdzh,“Maikouuu”",1
+"yunfeezhao,slowfat",1
+"yunfeezhao,“yunfeezhao”",1
+"“Zibo”,Ikko Eltociear Ashimine",1
+"“yunfeezhao”,yunfeezhao",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++00:00,4
++05:30,2
++08:00,102
++09:00,1
+-03:00,1
+-05:00,2
+-06:00,2
+-08:00,3
+,
+Contributors Experience,Average across 60 files: 94.12%
+File,Top Contributor Share (%)
+LICENSE,100.00
+NOTICE,100.00
+assets/example_prompts.txt,100.00
+hy3dgen/__init__.py,100.00
+hy3dgen/rembg.py,100.00
+hy3dgen/shapegen/__init__.py,100.00
+hy3dgen/shapegen/models/__init__.py,100.00
+hy3dgen/shapegen/models/conditioner.py,100.00
+hy3dgen/shapegen/models/vae.py,100.00
+hy3dgen/shapegen/preprocessors.py,100.00

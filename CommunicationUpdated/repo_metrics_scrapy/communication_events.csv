@@ -1,0 +1,703 @@
+file,author1,author2,time1,time2
+.bumpversion.cfg,Elias Dorneles,Daniel Graña,2016-02-03 21:54:39-02:00,2016-02-03 22:58:21-03:00
+.github/workflows/checks.yml,Andrey Rakhmatullin,Jalil SA,2023-01-27 23:29:23+04:00,2023-01-27 15:06:54-06:00
+.github/workflows/tests-macos.yml,Johanan Idicula,Andrey Rahmatullin,2022-10-26 21:44:47-04:00,2022-10-27 14:00:36+02:00
+.github/workflows/tests-macos.yml,Andrey Rakhmatullin,Klaus Rettinghaus,2023-10-02 21:35:45+04:00,2023-10-03 13:04:18+02:00
+.github/workflows/tests-macos.yml,Andrey Rakhmatullin,Laerte Pereira,2024-05-22 13:16:00+05:00,2024-05-22 22:26:31-03:00
+.github/workflows/tests-ubuntu.yml,Andrey Rakhmatullin,Klaus Rettinghaus,2023-10-02 21:35:45+04:00,2023-10-03 13:04:18+02:00
+.github/workflows/tests-ubuntu.yml,Adrián Chaves,Andrey Rakhmatullin,2025-03-11 14:12:11+01:00,2025-03-12 01:18:30+05:00
+.github/workflows/tests-windows.yml,Andrey Rakhmatullin,Klaus Rettinghaus,2023-10-02 21:35:45+04:00,2023-10-03 13:04:18+02:00
+.github/workflows/tests-windows.yml,Adrián Chaves,Andrey Rakhmatullin,2025-03-11 14:12:11+01:00,2025-03-12 01:18:30+05:00
+.pre-commit-config.yaml,pankaj1707k,Adrián Chaves,2023-02-01 16:30:57+05:30,2023-02-02 06:37:40+01:00
+.readthedocs.yml,vinayak,Adrián Chaves,2021-03-18 09:40:03-03:00,2021-03-19 11:13:05+01:00
+.travis.yml,Lucy Wang,Daniel Graña,2019-03-22 15:40:36+03:00,2019-03-22 15:40:36+03:00
+.travis.yml,Roy,Roy Healy,2019-10-21 18:34:15+01:00,2019-10-21 19:06:43+01:00
+.travis.yml,Roy Healy,Adrián Chaves,2019-10-21 19:06:43+01:00,2019-10-22 19:44:11+02:00
+.travis.yml,Roy Healy,Roy,2019-10-28 09:59:33+00:00,2019-10-28 11:24:52+00:00
+.travis.yml,Marc Hernández,Andrey Rahmatullin,2019-11-07 14:05:01+01:00,2019-11-07 18:02:17+01:00
+Makefile.buildbot,agusc,Daniel Graña,2015-06-15 17:02:09-03:00,2015-06-16 00:16:09+00:00
+README.rst,Pablo Hoffman,Kevin Yap,2015-03-18 00:24:16-03:00,2015-03-17 22:26:06-07:00
+README.rst,Derek,Abdul Rauf,2022-10-11 19:32:45+02:00,2022-10-11 19:34:18+02:00
+debian/control,agusc,Daniel Graña,2015-06-15 17:02:09-03:00,2015-06-16 00:16:09+00:00
+docs/_templates/layout.html,Ismael Carnales,Pablo Hoffman,2009-08-18 14:05:15-03:00,2009-08-18 14:36:18-03:00
+docs/experimental/djangoitems.rst,Ismael Carnales,Pablo Hoffman,2009-09-03 11:23:25-03:00,2009-09-03 14:31:00-03:00
+docs/experimental/exporters.rst,Pablo Hoffman,Ismael Carnales,2009-08-19 13:09:39-03:00,2009-08-19 19:05:33-03:00
+docs/experimental/exporters.rst,Ismael Carnales,Pablo Hoffman,2009-08-19 19:05:33-03:00,2009-08-19 21:39:58-03:00
+docs/experimental/images.rst,Pablo Hoffman,Ismael Carnales,2009-09-11 12:19:18-03:00,2009-09-11 15:30:46-03:00
+docs/experimental/images.rst,Ismael Carnales,Pablo Hoffman,2009-09-11 15:30:46-03:00,2009-09-11 16:53:36-03:00
+docs/experimental/index.rst,Pablo Hoffman,Ismael Carnales,2009-07-13 22:15:54-03:00,2009-07-14 15:55:52-03:00
+docs/experimental/loaders.rst,Pablo Hoffman,Ismael Carnales,2009-08-12 19:23:04-03:00,2009-08-13 13:30:50-03:00
+docs/experimental/loaders.rst,Ismael Carnales,Daniel Grana,2009-08-13 13:30:50-03:00,2009-08-13 23:23:08-03:00
+docs/experimental/loaders.rst,Daniel Grana,Pablo Hoffman,2009-08-13 23:23:08-03:00,2009-08-13 23:24:24-03:00
+docs/experimental/newitem-fields.rst,Pablo Hoffman,Ismael Carnales,2009-07-14 08:39:38-03:00,2009-07-14 15:55:52-03:00
+docs/experimental/newitem.rst,Pablo Hoffman,Ismael Carnales,2009-07-13 22:15:54-03:00,2009-07-14 15:55:52-03:00
+docs/experimental/newitem.rst,Ismael Carnales,Pablo Hoffman,2009-07-14 15:55:52-03:00,2009-07-15 01:40:44-03:00
+docs/experimental/scheduler-middleware.rst,Ismael Carnales,Pablo Hoffman,2009-09-11 11:58:53-03:00,2009-09-11 13:27:31-03:00
+docs/experimental/scripts.rst,Ismael Carnales,Pablo Hoffman,2009-08-24 12:02:44-03:00,2009-08-24 15:43:36-03:00
+docs/index.rst,Ismael Carnales,Pablo Hoffman,2009-09-11 11:58:53-03:00,2009-09-11 12:03:23-03:00
+docs/index.rst,Pablo Hoffman,Alex Cepoi,2012-09-20 18:52:57-03:00,2012-09-21 00:12:46+02:00
+docs/index.rst,Shadab Zafar,Mikhail Korobov,2015-03-18 19:41:26-03:00,2015-03-19 05:25:15+05:00
+docs/intro/install.rst,Ismael Carnales,Pablo Hoffman,2009-09-29 08:41:34-03:00,2009-09-29 09:44:02-03:00
+docs/intro/install.rst,Adrián Chaves,MaliCN,2020-02-28 18:50:45+01:00,2020-02-29 00:42:07+05:00
+docs/intro/overview.rst,Raphael Tomé Santana,raphaelts3,2021-10-15 20:38:53-03:00,2021-10-16 10:52:54-03:00
+docs/intro/tutorial.rst,Ismael Carnales,Pablo Hoffman,2009-07-23 09:05:14-03:00,2009-07-23 09:12:49-03:00
+docs/intro/tutorial.rst,Ismael Carnales,Pablo Hoffman,2009-08-21 14:16:27-03:00,2009-08-21 21:49:54-03:00
+docs/intro/tutorial.rst,Ismael Carnales,Pablo Hoffman,2009-08-24 14:34:17-03:00,2009-08-24 15:43:36-03:00
+docs/intro/tutorial.rst,bagratte,rajathkumarmp,2015-04-17 20:55:02+04:00,2015-04-18 13:00:34+05:30
+docs/intro/tutorial.rst,rajathkumarmp,bagratte,2015-04-18 13:00:34+05:30,2015-04-18 19:48:25+04:00
+docs/intro/tutorial.rst,Valdir Stumm Junior,Elias Dorneles,2016-09-14 12:39:29-03:00,2016-09-14 18:09:39-03:00
+docs/intro/tutorial.rst,Elias Dorneles,Valdir Stumm Junior,2016-09-15 18:05:09-03:00,2016-09-16 11:55:23-03:00
+docs/intro/tutorial.rst,Valdir Stumm Junior,Elias Dorneles,2016-09-16 15:21:49-03:00,2016-09-16 15:49:49-03:00
+docs/intro/tutorial.rst,Elias Dorneles,Valdir Stumm Junior,2016-09-16 17:13:24-03:00,2016-09-16 18:08:10-03:00
+docs/intro/tutorial.rst,Valdir Stumm Junior,Wayne Lovely,2016-09-16 18:08:10-03:00,2016-09-17 11:09:28+00:00
+docs/intro/tutorial.rst,Elias Dorneles,Valdir Stumm Junior,2016-09-19 17:13:04-03:00,2016-09-19 19:19:44-03:00
+docs/intro/tutorial.rst,Valdir Stumm Junior,Elias Dorneles,2016-09-19 19:19:44-03:00,2016-09-20 09:19:59-03:00
+docs/news.rst,Pablo Hoffman,Daniel Graña,2012-04-19 12:07:46-03:00,2012-04-19 23:25:15-03:00
+docs/news.rst,Daniel Graña,Pablo Hoffman,2012-04-19 23:25:15-03:00,2012-04-20 09:09:55-03:00
+docs/news.rst,Pablo Hoffman,Daniel Graña,2012-08-31 16:41:50-03:00,2012-08-31 17:38:40-03:00
+docs/news.rst,Daniel Graña,Pablo Hoffman,2012-08-31 17:38:40-03:00,2012-08-31 18:39:30-03:00
+docs/news.rst,Daniel Graña,Mikhail Korobov,2014-01-17 15:55:46-02:00,2014-01-18 01:50:19+06:00
+docs/news.rst,Mikhail Korobov,Daniel Graña,2014-01-18 01:50:19+06:00,2014-01-17 17:54:01-02:00
+docs/news.rst,Daniel Graña,Mikhail Korobov,2014-06-27 12:03:37-03:00,2014-06-28 13:28:57+06:00
+docs/news.rst,Shadab Zafar,Daniel Graña,2015-03-18 19:41:26-03:00,2015-03-18 20:46:28-03:00
+docs/news.rst,Julia Medina,Daniel Graña,2015-05-22 12:53:11-03:00,2015-05-22 20:00:58-03:00
+docs/news.rst,Paul Tremberth,Valdir Stumm Jr,2016-02-03 12:32:40+01:00,2016-02-03 11:54:46-02:00
+docs/news.rst,Valdir Stumm Jr,Paul Tremberth,2016-02-03 12:45:48-02:00,2016-02-03 17:27:43+01:00
+docs/news.rst,Paul Tremberth,Valdir Stumm Jr,2016-02-03 18:19:38+01:00,2016-02-03 16:21:32-02:00
+docs/news.rst,Valdir Stumm Jr,Paul Tremberth,2016-02-03 16:21:32-02:00,2016-02-03 21:07:21+01:00
+docs/news.rst,Paul Tremberth,Valdir Stumm Jr,2016-02-03 21:07:21+01:00,2016-02-03 19:23:02-02:00
+docs/news.rst,Valdir Stumm Jr,Paul Tremberth,2016-02-03 19:23:02-02:00,2016-02-03 22:58:49+01:00
+docs/news.rst,Paul Tremberth,Elias Dorneles,2016-02-03 22:58:49+01:00,2016-02-03 20:45:55-02:00
+docs/news.rst,Paul Tremberth,Mikhail Korobov,2017-05-18 22:37:15+02:00,2017-05-18 22:37:15+02:00
+docs/news.rst,Mikhail Korobov,Paul Tremberth,2017-05-18 22:37:15+02:00,2017-05-18 22:59:46+02:00
+docs/news.rst,Paul Tremberth,Mikhail Korobov,2017-12-28 05:50:18+05:00,2017-12-28 07:33:43+05:00
+docs/news.rst,Mikhail Korobov,Daniel Graña,2019-01-30 12:49:36-03:00,2019-01-31 01:16:45-03:00
+docs/news.rst,Adrián Chaves,Andrey Rakhmatullin,2022-10-17 18:04:29+05:00,2022-10-17 19:09:22+06:00
+docs/news.rst,pankaj1707k,Adrián Chaves,2023-02-01 20:37:39+05:30,2023-02-02 04:54:02+01:00
+docs/news.rst,Adrián Chaves,Andrey Rakhmatullin,2023-11-15 15:39:30+01:00,2023-11-15 19:51:04+04:00
+docs/news.rst,Andrey Rakhmatullin,Adrián Chaves,2024-02-14 17:08:40+01:00,2024-02-14 18:16:40+01:00
+docs/news.rst,Adrián Chaves,Andrey Rakhmatullin,2024-11-18 13:07:32+05:00,2024-11-18 15:44:52+05:00
+docs/proposed/newitem-fields.rst,Ismael Carnales,Pablo Hoffman,2009-07-09 11:29:04-03:00,2009-07-09 16:50:13-03:00
+docs/proposed/newitem-fields.rst,Ismael Carnales,Pablo Hoffman,2009-07-13 15:54:48-03:00,2009-07-13 22:05:48-03:00
+docs/proposed/newitem.rst,Ismael Carnales,Pablo Hoffman,2009-07-13 15:54:48-03:00,2009-07-13 22:05:18-03:00
+docs/ref/exceptions.rst,Daniel Grana,Pablo Hoffman,2009-05-06 15:55:17-03:00,2009-05-07 14:52:32-03:00
+docs/ref/extension-manager.rst,Pablo Hoffman,Ismael Carnales,2009-08-18 11:05:36-03:00,2009-08-18 14:05:15-03:00
+docs/ref/index.rst,Ismael Carnales,Pablo Hoffman,2009-07-21 16:52:27-03:00,2009-07-21 17:19:19-03:00
+docs/ref/scheduler-middleware.rst,Ismael Carnales,Pablo Hoffman,2009-07-21 16:52:27-03:00,2009-07-21 17:38:46-03:00
+docs/ref/settings.rst,Pablo Hoffman,Daniel Grana,2009-05-25 20:14:50-03:00,2009-05-26 15:48:34-03:00
+docs/ref/settings.rst,Daniel Grana,Pablo Hoffman,2009-05-27 16:51:36-03:00,2009-05-28 13:52:56-03:00
+docs/ref/settings.rst,Daniel Grana,Pablo Hoffman,2009-06-20 19:23:26-03:00,2009-06-20 20:29:07-03:00
+docs/ref/settings.rst,Pablo Hoffman,Ismael Carnales,2009-08-17 14:48:11-03:00,2009-08-18 09:35:32-03:00
+docs/ref/settings.rst,Ismael Carnales,Pablo Hoffman,2009-08-18 09:35:32-03:00,2009-08-18 11:05:36-03:00
+docs/ref/settings.rst,Pablo Hoffman,Ismael Carnales,2009-08-18 11:05:36-03:00,2009-08-18 14:05:15-03:00
+docs/ref/signals.rst,Pablo Hoffman,Daniel Grana,2009-07-09 12:57:10-03:00,2009-07-09 16:57:03-03:00
+docs/topics/api.rst,Wieland Hoffmann,Julia Medina,2015-04-29 22:31:48+02:00,2015-04-29 21:36:40-03:00
+docs/topics/architecture.rst,Mikhail Korobov,Faisal Anees,2015-03-19 05:16:14+05:00,2015-03-18 23:55:22-03:00
+docs/topics/asyncio.rst,bulat,Bulat Khabibullin,2023-05-10 15:35:48+05:00,2023-05-10 18:31:54+05:00
+docs/topics/asyncio.rst,Bulat Khabibullin,bulat,2023-05-11 12:53:43+05:00,2023-05-11 12:54:01+05:00
+docs/topics/broad-crawls.rst,Adrián Chaves,Vostretsov Nikita,2019-03-29 10:29:04+00:00,2019-03-29 10:38:13+00:00
+docs/topics/broad-crawls.rst,Robin,Adrián Chaves,2019-07-11 08:49:24+02:00,2019-07-11 11:14:22+02:00
+docs/topics/contracts.rst,Matthijs Vos,Adrián Chaves,2019-05-03 13:50:24+02:00,2019-05-03 14:42:12+02:00
+docs/topics/contracts.rst,Adrián Chaves,WinterComes,2019-10-21 19:00:03+02:00,2019-10-22 12:19:07+02:00
+docs/topics/debug.rst,pankaj1707k,Adrián Chaves,2023-02-01 16:30:57+05:30,2023-02-02 04:54:02+01:00
+docs/topics/developer-tools.rst,Raphael Wuillemier,testingcan,2018-08-22 14:15:53+02:00,2018-08-22 16:57:51+02:00
+docs/topics/developer-tools.rst,testingcan,Raphael Wuillemier,2018-08-22 16:57:51+02:00,2018-08-23 12:40:31+02:00
+docs/topics/developer-tools.rst,Raphael Wuillemier,testingcan,2018-08-23 12:40:31+02:00,2018-08-23 14:50:49+02:00
+docs/topics/downloader-middleware.rst,Ismael Carnales,Pablo Hoffman,2009-08-18 14:05:15-03:00,2009-08-18 14:36:18-03:00
+docs/topics/downloader-middleware.rst,Ismael Carnales,Pablo Hoffman,2009-09-04 12:39:02-03:00,2009-09-04 12:59:58-03:00
+docs/topics/downloader-middleware.rst,Shadab Zafar,Julia Medina,2015-03-18 19:41:26-03:00,2015-03-18 20:04:14-03:00
+docs/topics/downloader-middleware.rst,Julia Medina,Pablo Hoffman,2015-03-18 20:04:14-03:00,2015-03-19 17:42:48-03:00
+docs/topics/downloader-middleware.rst,Maram Sumanth,Anubhav Patel,2019-03-27 00:15:53+05:00,2019-03-27 18:29:48+05:30
+docs/topics/downloader-middleware.rst,P. Chen,Eugenio Lacuesta,2020-10-05 23:18:58+01:00,2020-10-06 10:50:17-03:00
+docs/topics/downloader-middleware.rst,databender,umair ansari,2021-08-16 17:21:47+05:30,2021-08-16 18:00:06+05:30
+docs/topics/downloader-middleware.rst,umair ansari,databender,2021-08-16 18:00:06+05:30,2021-08-16 18:08:26+05:30
+docs/topics/downloader-middleware.rst,Boris Zabolotskikh,Abhishek K M,2022-02-14 12:07:45+03:00,2022-02-14 19:16:53+01:00
+docs/topics/downloader-middleware.rst,aisha-partha,Adrián Chaves,2024-05-08 23:33:13+05:30,2024-05-08 20:41:20+02:00
+docs/topics/email.rst,Lucian Ursu,Daniel Grana,2010-04-18 23:39:54-03:00,2010-04-18 23:42:56-03:00
+docs/topics/email.rst,Ammar Najjar,Adrián Chaves,2019-10-21 15:42:24+02:00,2019-10-21 19:00:03+02:00
+docs/topics/exporters.rst,Mikhail Korobov,Shadab Zafar,2015-03-18 07:26:56+05:00,2015-03-18 19:41:26-03:00
+docs/topics/exporters.rst,Shadab Zafar,Mikhail Korobov,2015-03-18 19:41:26-03:00,2015-03-19 05:16:14+05:00
+docs/topics/exporters.rst,Ammar Najjar,Adrián Chaves,2019-10-21 15:42:24+02:00,2019-10-21 19:00:03+02:00
+docs/topics/exporters.rst,Adrián Chaves,Ammar Najjar,2019-10-21 19:00:03+02:00,2019-10-21 19:56:58+02:00
+docs/topics/exporters.rst,Ammar Najjar,maranqz,2020-08-26 07:11:05+02:00,2020-08-26 14:00:51+03:00
+docs/topics/extensions.rst,Pablo Hoffman,Ismael Carnales,2009-08-18 11:05:36-03:00,2009-08-18 14:05:15-03:00
+docs/topics/extensions.rst,Martin Santos,Pablo Hoffman,2010-09-28 16:29:37-03:00,2010-09-28 16:44:53-03:00
+docs/topics/extensions.rst,Chuan Jin,Paul Tremberth,2017-06-05 23:31:37+02:00,2017-06-06 10:47:43+02:00
+docs/topics/feed-exports.rst,Júlio César Batista,Victor Torres,2019-02-08 11:26:33-02:00,2019-02-08 15:51:23-02:00
+docs/topics/feed-exports.rst,D R Siddhartha,Türkalp Burak KAYRANCIOĞLU,2021-07-13 17:22:29+02:00,2021-07-14 10:00:43+02:00
+docs/topics/feed-exports.rst,Türkalp Burak KAYRANCIOĞLU,Marlena Chatzigrigoriou,2021-07-14 10:00:43+02:00,2021-07-14 10:34:28+02:00
+docs/topics/feed-exports.rst,pankaj1707k,Adrián Chaves,2023-02-01 16:30:57+05:30,2023-02-02 04:54:02+01:00
+docs/topics/feed-exports.rst,kenshi kikuchi,namelessGonbai,2023-03-16 17:17:20+09:00,2023-03-16 18:03:06+09:00
+docs/topics/feed-exports.rst,namelessGonbai,jazzthief,2023-03-16 18:03:06+09:00,2023-03-16 17:25:05+01:00
+docs/topics/images.rst,Shadab Zafar,Mikhail Korobov,2015-03-18 19:41:26-03:00,2015-03-19 05:16:14+05:00
+docs/topics/index.rst,Ismael Carnales,Pablo Hoffman,2009-08-18 14:05:15-03:00,2009-08-18 14:36:18-03:00
+docs/topics/item-pipeline.rst,Daniel Grana,Ismael Carnales,2009-09-16 00:17:50-03:00,2009-09-16 14:19:16-03:00
+docs/topics/item-pipeline.rst,Pawel Miech,pawelmhm,2016-09-23 10:36:03+02:00,2016-09-24 08:36:09+02:00
+docs/topics/items.rst,Shadab Zafar,Mikhail Korobov,2015-03-18 19:41:26-03:00,2015-03-19 05:16:14+05:00
+docs/topics/jobs.rst,Darshan Chaudhary,darshanime,2016-07-25 18:03:43+05:30,2016-07-25 18:05:51+05:30
+docs/topics/leaks.rst,elacuesta,sakshamb2113,2020-03-16 20:12:46+01:00,2020-03-17 10:12:49+01:00
+docs/topics/loaders.rst,Ammar Najjar,Adrián Chaves,2019-10-21 15:42:24+02:00,2019-10-21 19:00:03+02:00
+docs/topics/loaders.rst,Adrián Chaves,Ammar Najjar,2019-10-21 19:00:03+02:00,2019-10-21 19:56:58+02:00
+docs/topics/media-pipeline.rst,Bernardas,Paul Tremberth,2017-03-03 15:52:05+01:00,2017-03-03 15:52:05+01:00
+docs/topics/media-pipeline.rst,Adrián Chaves,Andrey Rakhmatullin,2025-03-11 11:56:44+01:00,2025-03-12 01:18:30+05:00
+docs/topics/practices.rst,irgmedeiros,Loren Davie,2013-09-27 18:22:33-03:00,2013-09-28 09:00:48-04:00
+docs/topics/request-response.rst,Daniel Grana,Pablo Hoffman,2009-10-20 15:51:41-02:00,2009-10-20 17:21:56-02:00
+docs/topics/request-response.rst,Ismael Carnales,Pablo Hoffman,2009-10-29 13:18:13-02:00,2009-10-29 13:47:10-02:00
+docs/topics/request-response.rst,scraperdragon,Dragon Dave,2013-10-15 11:50:43+01:00,2013-10-15 12:19:42+01:00
+docs/topics/request-response.rst,Shadab Zafar,Julia Medina,2015-03-18 19:41:26-03:00,2015-03-19 19:07:52-03:00
+docs/topics/request-response.rst,Capi Etheriel,Elias Dorneles,2016-01-21 01:05:20-02:00,2016-01-21 09:42:15-02:00
+docs/topics/request-response.rst,Bo Pace,bopace,2016-10-17 14:10:05-06:00,2016-10-18 09:37:45-06:00
+docs/topics/request-response.rst,Rolando Espinoza,Paul Tremberth,2017-03-01 11:43:53-03:00,2017-03-01 17:51:23+01:00
+docs/topics/request-response.rst,Maram Sumanth,Eugenio Lacuesta,2019-03-27 00:15:53+05:00,2019-03-27 14:42:26-03:00
+docs/topics/request-response.rst,Ammar Najjar,Adrián Chaves,2019-10-21 15:42:24+02:00,2019-10-21 19:00:03+02:00
+docs/topics/request-response.rst,Adrián Chaves,Ammar Najjar,2019-10-21 19:00:03+02:00,2019-10-21 19:56:58+02:00
+docs/topics/request-response.rst,Eugenio Lacuesta,Adrián Chaves,2020-02-10 12:29:39-03:00,2020-02-10 19:54:47+01:00
+docs/topics/request-response.rst,mattkohl-flex,Adrián Chaves,2022-10-17 11:15:17+01:00,2022-10-17 18:04:29+05:00
+docs/topics/request-response.rst,pankaj1707k,Adrián Chaves,2023-02-01 20:37:39+05:30,2023-02-02 04:54:02+01:00
+docs/topics/request-response.rst,Aryan,Adrián Chaves,2023-10-02 15:36:29+05:30,2023-10-02 14:43:30+02:00
+docs/topics/request-response.rst,Adrián Chaves,Jalil SA,2023-12-20 21:43:03+04:00,2023-12-21 10:36:21+01:00
+docs/topics/selectors.rst,Pablo Hoffman,Ismael Carnales,2009-07-23 01:56:56-03:00,2009-07-23 09:05:14-03:00
+docs/topics/selectors.rst,Capi Etheriel,Daniel Graña,2013-10-10 18:23:15-02:00,2013-10-10 18:24:00-02:00
+docs/topics/selectors.rst,Daniel Graña,ncp1113,2014-04-24 10:32:17-03:00,2014-04-24 22:50:21+06:00
+docs/topics/selectors.rst,ncp1113,Mikhail Korobov,2014-04-24 22:50:21+06:00,2014-04-24 22:54:17+06:00
+docs/topics/selectors.rst,Shadab Zafar,Mateusz Golewski,2015-03-18 19:41:26-03:00,2015-03-18 21:11:08-03:00
+docs/topics/selectors.rst,Mateusz Golewski,Julia Medina,2015-03-18 21:11:08-03:00,2015-03-18 21:11:08-03:00
+docs/topics/selectors.rst,Hoat Le,hoatle,2015-10-07 15:43:02+07:00,2015-10-07 16:03:43+07:00
+docs/topics/settings.rst,Ismael Carnales,Pablo Hoffman,2009-08-24 12:02:44-03:00,2009-08-24 15:43:36-03:00
+docs/topics/settings.rst,Ismael Carnales,Pablo Hoffman,2010-05-28 16:51:47-03:00,2010-05-28 17:27:15-03:00
+docs/topics/settings.rst,Julia Medina,Elias Dorneles,2015-05-09 04:20:09-03:00,2015-05-09 16:15:06-03:00
+docs/topics/settings.rst,Mikhail Korobov,Paul Tremberth,2016-01-26 17:47:46+05:00,2016-01-26 19:24:11+01:00
+docs/topics/settings.rst,Darshan Chaudhary,darshanime,2016-07-25 18:03:43+05:30,2016-07-25 18:05:51+05:30
+docs/topics/settings.rst,Pawel Miech,Paul Tremberth,2016-11-29 16:52:54+01:00,2016-11-29 18:18:59+01:00
+docs/topics/settings.rst,Akhil Lb,Mikhail Korobov,2016-12-09 00:04:04+05:00,2016-12-09 00:04:04+05:00
+docs/topics/settings.rst,Vostretsov Nikita,Júlio César Batista,2019-03-22 15:40:37+03:00,2019-03-22 09:50:11-03:00
+docs/topics/settings.rst,Mikhail Korobov,Vostretsov Nikita,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+docs/topics/settings.rst,Adrián Chaves,Andrey Rakhmatullin,2019-07-18 15:37:17+02:00,2019-07-18 20:49:25+05:00
+docs/topics/settings.rst,Juan Pablo Balarini,JP Balarini,2020-01-20 11:27:58-03:00,2020-01-20 11:28:28-03:00
+docs/topics/settings.rst,Ammar Najjar,nyov,2020-08-26 07:11:05+02:00,2020-08-26 13:08:14+02:00
+docs/topics/settings.rst,Deepanshu,Deepanshu verma,2021-10-01 01:47:05+05:30,2021-10-01 18:46:11+05:30
+docs/topics/settings.rst,Adrián Chaves,anubhav,2025-01-14 19:36:56+05:00,2025-01-15 11:08:18+01:00
+docs/topics/settings.rst,Adrián Chaves,Andrey Rakhmatullin,2025-03-11 14:53:04+01:00,2025-03-12 01:18:30+05:00
+docs/topics/signals.rst,nramirezuy,Pablo Hoffman,2013-06-26 16:45:46-03:00,2013-06-27 11:23:24-03:00
+docs/topics/signals.rst,Nikolaos-Digenis Karagiannis,Pablo Hoffman,2014-06-14 11:08:18+03:00,2014-06-14 20:51:16-03:00
+docs/topics/spider-middleware.rst,Ismael Carnales,Pablo Hoffman,2009-09-04 12:39:02-03:00,2009-09-04 13:29:16-03:00
+docs/topics/spider-middleware.rst,Shadab Zafar,Mikhail Korobov,2015-03-18 19:41:26-03:00,2015-03-19 05:16:14+05:00
+docs/topics/spider-middleware.rst,Eugenio Lacuesta,Paul Tremberth,2017-03-01 12:01:53-03:00,2017-03-01 17:50:39+01:00
+docs/topics/spider-middleware.rst,Reza (Milad) Maanijou,Adrián Chaves,2021-09-26 12:45:44+03:30,2021-09-26 13:41:26+02:00
+docs/topics/spider-middleware.rst,Deepanshu,Deepanshu verma,2021-10-01 20:20:00+05:30,2021-10-02 12:12:58+05:30
+docs/topics/spider-middleware.rst,Deepanshu verma,Adrián Chaves,2021-10-02 12:12:58+05:30,2021-10-02 13:25:15+02:00
+docs/topics/spiders.rst,Shadab Zafar,Mikhail Korobov,2015-03-18 19:41:26-03:00,2015-03-19 05:25:15+05:00
+docs/topics/spiders.rst,Νικόλαος-Διγενής Καραγιάννης,Paul Tremberth,2017-01-09 22:12:38+02:00,2017-01-10 10:27:38+01:00
+docs/topics/stats.rst,Daniel Grana,Pablo Hoffman,2009-08-11 16:30:04-03:00,2009-08-11 16:37:52-03:00
+docs/topics/telnetconsole.rst,dfdeshom,Pablo Hoffman,2010-11-01 00:59:04-02:00,2010-11-01 02:31:20-02:00
+docs/topics/telnetconsole.rst,Henrique Coura,Daniel Graña,2018-10-16 14:50:00-03:00,2018-10-16 19:53:20-03:00
+docs/topics/ubuntu.rst,stray-leone,Daniel Graña,2014-01-20 10:24:34-02:00,2014-01-20 14:15:01-02:00
+docs/topics/ubuntu.rst,Pablo Hoffman,Daniel Graña,2014-06-24 09:52:51-03:00,2014-06-24 10:32:56-03:00
+extras/scrapy.1,Michael Fladischer,Paul Tremberth,2017-01-24 22:20:37+01:00,2017-01-25 11:28:20+01:00
+pylintrc,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:31:21+05:00,2024-02-28 16:14:08-03:00
+pytest.ini,Marc Hernández,Adrián Chaves,2019-11-07 17:47:35+01:00,2019-11-08 16:00:10+01:00
+pytest.ini,Adrián Chaves,Andrey Rakhmatullin,2019-11-18 17:16:09+01:00,2019-11-19 13:52:49+05:00
+pytest.ini,Andrey Rakhmatullin,Marc Hernández,2019-12-16 19:25:49+05:00,2019-12-17 13:53:15+01:00
+pytest.ini,Marc Hernández,Marc Hernandez Cabot,2020-02-21 06:05:31+01:00,2020-02-21 08:39:14+01:00
+requirements.txt,Mikhail Korobov,Elias Dorneles,2015-08-11 20:14:22+05:00,2015-08-11 14:08:43-03:00
+scrapy/VERSION,Elias Dorneles,Daniel Graña,2016-02-03 21:54:39-02:00,2016-02-03 22:58:21-03:00
+scrapy/__init__.py,Pablo Hoffman,Daniel Grana,2010-09-03 15:54:42-03:00,2010-09-03 16:19:47-03:00
+scrapy/__init__.py,Andrey Rakhmatullin,Grammy Jiang,2019-12-04 21:32:56+05:00,2019-12-05 11:25:19+11:00
+scrapy/cmdline.py,mikolaje,nyov,2019-07-06 19:55:09+08:00,2019-07-06 13:41:56+00:00
+scrapy/command/commands/genspider.py,Pablo Hoffman,Daniel Grana,2009-08-24 15:43:36-03:00,2009-08-24 16:46:20-03:00
+scrapy/command/commands/genspider.py,Ismael Carnales,Pablo Hoffman,2009-08-28 14:42:07-03:00,2009-08-28 17:47:45-03:00
+scrapy/command/commands/startproject.py,Ismael Carnales,Pablo Hoffman,2009-08-28 14:42:07-03:00,2009-08-28 17:47:45-03:00
+scrapy/commands/__init__.py,Andrey Rahmatullin,Emmanuel Rondan,2022-11-28 19:37:57+01:00,2022-11-29 11:30:46-03:00
+scrapy/commands/check.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/commands/genspider.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/commands/parse.py,Alex Cepoi,Daniel Graña,2012-08-31 16:43:04+02:00,2012-08-31 17:14:35-03:00
+scrapy/commands/parse.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/commands/startproject.py,Nuno Maximiano,nramirezuy,2014-08-01 14:36:30-03:00,2014-08-01 14:36:30-03:00
+scrapy/conf/__init__.py,Pablo Hoffman,Ismael Carnales,2009-08-27 14:41:49-03:00,2009-08-28 11:20:05-03:00
+scrapy/conf/default_settings.py,Daniel Grana,Pablo Hoffman,2009-06-20 19:23:26-03:00,2009-06-20 20:29:07-03:00
+scrapy/conf/default_settings.py,Pablo Hoffman,Daniel Grana,2009-07-15 21:02:51-03:00,2009-07-16 01:34:51-03:00
+scrapy/conf/default_settings.py,Daniel Grana,Pablo Hoffman,2009-09-10 16:28:08-03:00,2009-09-10 19:06:46-03:00
+scrapy/conf/default_settings.py,Ismael Carnales,Pablo Hoffman,2010-05-28 16:51:47-03:00,2010-05-28 17:27:15-03:00
+scrapy/conf/default_settings.py,Pablo Hoffman,Daniel Grana,2010-09-03 14:29:27-03:00,2010-09-03 16:18:46-03:00
+scrapy/conf/default_settings.py,Daniel Grana,Pablo Hoffman,2010-09-04 02:58:43-03:00,2010-09-05 02:23:08-03:00
+scrapy/contracts/default.py,tpeng,Adrián Chaves,2019-08-05 15:27:31+02:00,2019-08-05 15:47:58+02:00
+scrapy/contrib/downloadermiddleware/errorpages.py,Daniel Grana,Pablo Hoffman,2009-05-28 09:30:31-03:00,2009-05-28 13:57:25-03:00
+scrapy/contrib/downloadermiddleware/httpcache.py,Daniel Grana,Pablo Hoffman,2010-09-04 02:53:09-03:00,2010-09-04 02:56:50-03:00
+scrapy/contrib/downloadermiddleware/httpcache.py,Pablo Hoffman,Daniel Grana,2010-09-04 02:56:50-03:00,2010-09-04 02:58:43-03:00
+scrapy/contrib/downloadermiddleware/httpcache.py,Alexandr N Zamaraev (aka tonal),Pablo Hoffman,2013-01-21 13:54:36+07:00,2013-01-21 14:01:12-02:00
+scrapy/contrib/downloadermiddleware/redirect.py,Pablo Hoffman,Daniel Grana,2009-10-21 09:37:04-02:00,2009-10-21 11:35:36-02:00
+scrapy/contrib/downloadermiddleware/retry.py,Pablo Hoffman,Daniel Graña,2013-08-21 14:32:33-03:00,2013-08-21 17:28:26-03:00
+scrapy/contrib/exporter/__init__.py,Pablo Hoffman,Ismael Carnales,2009-08-19 15:20:29-03:00,2009-08-19 19:05:33-03:00
+scrapy/contrib/exporter/__init__.py,Ismael Carnales,Pablo Hoffman,2009-08-19 19:05:33-03:00,2009-08-20 14:09:24-03:00
+scrapy/contrib/exporter/__init__.py,Daniel Grana,Pablo Hoffman,2009-09-03 13:58:39-03:00,2009-09-03 14:29:20-03:00
+scrapy/contrib/exporter/__init__.py,Pablo Hoffman,Daniel Grana,2009-09-03 14:29:20-03:00,2009-09-03 16:26:05-03:00
+scrapy/contrib/exporter/__init__.py,olveyra,Pablo Hoffman,2013-08-13 13:48:28+00:00,2013-08-14 02:49:14-03:00
+scrapy/contrib/exporter/jsonlines.py,Pablo Hoffman,Ismael Carnales,2009-08-19 13:09:39-03:00,2009-08-19 19:05:33-03:00
+scrapy/contrib/exporter/jsonlines.py,Ismael Carnales,Pablo Hoffman,2009-08-20 12:58:10-03:00,2009-08-20 14:09:24-03:00
+scrapy/contrib/feedexport.py,Jonas Brunsgaard,Pablo Hoffman,2013-03-21 16:09:14+01:00,2013-03-21 12:27:07-03:00
+scrapy/contrib/linkextractors/image.py,Andrés Moreira,Daniel Graña,2012-04-18 18:05:44-03:00,2012-04-19 00:03:04-03:00
+scrapy/contrib/linkextractors/image.py,Daniel Graña,Pablo Hoffman,2012-04-19 00:03:04-03:00,2012-04-19 12:07:46-03:00
+scrapy/contrib/loader/__init__.py,Pablo Hoffman,Ismael Carnales,2009-08-12 17:40:27-03:00,2009-08-13 13:32:02-03:00
+scrapy/contrib/loader/processor.py,Pablo Hoffman,Ismael Carnales,2009-08-12 16:49:07-03:00,2009-08-12 17:23:53-03:00
+scrapy/contrib/loader/processor.py,Ismael Carnales,Pablo Hoffman,2009-08-12 17:23:53-03:00,2009-08-12 18:09:36-03:00
+scrapy/contrib/pipeline/images.py,Pablo Hoffman,Daniel Grana,2009-08-20 18:39:04-03:00,2009-08-20 20:30:08-03:00
+scrapy/contrib/pipeline/images.py,Daniel Grana,Pablo Hoffman,2009-09-01 19:18:05-03:00,2009-09-01 21:07:47-03:00
+scrapy/contrib/pipeline/images.py,Daniel Grana,Pablo Hoffman,2009-09-11 11:03:53-03:00,2009-09-11 17:36:00-03:00
+scrapy/contrib/pipeline/media.py,Daniel Grana,Pablo Hoffman,2009-09-01 18:00:55-03:00,2009-09-01 21:07:47-03:00
+scrapy/contrib/pipeline/s3images.py,Pablo Hoffman,Daniel Grana,2009-07-06 15:31:50-03:00,2009-07-06 16:16:49-03:00
+scrapy/contrib/pipeline/s3images.py,Daniel Grana,pablo,2009-07-06 16:16:49-03:00,2009-07-06 20:38:39-03:00
+scrapy/contrib/schedulermiddleware/duplicatesfilter.py,Daniel Grana,Pablo Hoffman,2009-06-20 18:15:02-03:00,2009-06-20 20:29:07-03:00
+scrapy/contrib/spidermiddleware/httperror.py,Martin Olveyra,Pablo Hoffman,2013-11-20 20:12:49-02:00,2013-11-21 14:33:17-02:00
+scrapy/contrib_exp/adaptors/__init__.py,Daniel Grana,Ismael Carnales,2009-05-06 15:55:17-03:00,2009-05-07 15:24:40+00:00
+scrapy/contrib_exp/adaptors/__init__.py,Ismael Carnales,Pablo Hoffman,2009-05-07 15:24:40+00:00,2009-05-07 16:33:06-03:00
+scrapy/contrib_exp/adaptors/markup.py,Daniel Grana,Ismael Carnales,2009-05-06 15:55:17-03:00,2009-05-07 15:24:40+00:00
+scrapy/contrib_exp/adaptors/markup.py,Ismael Carnales,Pablo Hoffman,2009-05-07 16:03:41+00:00,2009-05-07 16:33:06-03:00
+scrapy/contrib_exp/newitem/fields.py,Ismael Carnales,Pablo Hoffman,2009-07-13 17:03:38-03:00,2009-07-13 21:10:29-03:00
+scrapy/contrib_exp/newitem/models.py,Pablo Hoffman,Ismael Carnales,2009-07-13 14:00:41-03:00,2009-07-13 17:03:38-03:00
+scrapy/core/downloader/__init__.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/downloader/handlers/__init__.py,Rolando Espinoza La fuente,Julia Medina,2014-03-12 20:25:51-03:00,2014-03-12 22:33:42-03:00
+scrapy/core/downloader/handlers/__init__.py,nyov,Daniel Graña,2015-08-10 16:52:44-03:00,2015-08-10 16:52:44-03:00
+scrapy/core/downloader/handlers/http11.py,paul,Daniel Graña,2013-05-06 12:45:27-03:00,2013-05-06 12:45:27-03:00
+scrapy/core/downloader/handlers/http11.py,WinterComes,drs-11,2020-08-24 20:37:40+05:30,2020-08-24 20:37:40+05:30
+scrapy/core/downloader/handlers/http2.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/downloader/manager.py,Daniel Grana,Pablo Hoffman,2009-06-21 03:03:14-03:00,2009-06-21 14:16:40-03:00
+scrapy/core/downloader/manager.py,Pablo Hoffman,Daniel Grana,2009-06-21 16:27:48-03:00,2009-06-22 14:06:15-03:00
+scrapy/core/downloader/manager.py,Daniel Grana,Pablo Hoffman,2009-06-22 14:24:04-03:00,2009-06-22 16:25:44-03:00
+scrapy/core/downloader/manager.py,Daniel Grana,Pablo Hoffman,2009-06-24 13:45:50-03:00,2009-06-24 17:08:16-03:00
+scrapy/core/downloader/manager.py,Pablo Hoffman,Daniel Grana,2009-09-03 08:27:48-03:00,2009-09-03 16:58:36-03:00
+scrapy/core/downloader/manager.py,Daniel Grana,Pablo Hoffman,2009-09-03 16:58:36-03:00,2009-09-04 01:16:58-03:00
+scrapy/core/downloader/manager.py,Daniel Grana,Pablo Hoffman,2010-09-06 23:23:14-03:00,2010-09-07 13:00:36-03:00
+scrapy/core/downloader/middleware.py,Daniel Grana,Pablo Hoffman,2009-06-21 03:03:14-03:00,2009-06-21 15:38:26-03:00
+scrapy/core/downloader/middleware.py,Daniel Grana,Pablo Hoffman,2010-09-06 23:23:14-03:00,2010-09-07 13:00:36-03:00
+scrapy/core/engine.py,Daniel Grana,Pablo Hoffman,2009-06-20 19:19:07-03:00,2009-06-20 21:57:03-03:00
+scrapy/core/engine.py,Pablo Hoffman,Daniel Grana,2009-06-22 23:01:41-03:00,2009-06-23 16:47:32-03:00
+scrapy/core/engine.py,Daniel Grana,dgrana,2009-06-23 16:47:32-03:00,2009-06-23 12:53:13-07:00
+scrapy/core/engine.py,dgrana,Pablo Hoffman,2009-06-23 13:26:24-07:00,2009-06-23 21:50:46-03:00
+scrapy/core/engine.py,Pablo Hoffman,Daniel Grana,2009-06-23 21:50:46-03:00,2009-06-24 10:28:34-03:00
+scrapy/core/engine.py,Daniel Grana,Pablo Hoffman,2009-06-24 10:28:34-03:00,2009-06-24 10:34:44-03:00
+scrapy/core/engine.py,Pablo Hoffman,Daniel Grana,2009-06-24 10:36:36-03:00,2009-06-24 13:45:50-03:00
+scrapy/core/engine.py,Daniel Grana,Pablo Hoffman,2009-06-24 13:45:50-03:00,2009-06-25 09:56:38-03:00
+scrapy/core/engine.py,Daniel Grana,Pablo Hoffman,2009-07-06 15:31:50-03:00,2009-07-06 15:31:50-03:00
+scrapy/core/engine.py,Pablo Hoffman,Daniel Grana,2009-07-08 23:48:06-03:00,2009-07-09 14:37:59-03:00
+scrapy/core/engine.py,Pablo Hoffman,Daniel Grana,2011-07-15 12:55:07-03:00,2011-07-15 13:57:24-03:00
+scrapy/core/engine.py,Daniel Grana,Pablo Hoffman,2011-07-15 13:57:24-03:00,2011-07-15 15:18:39-03:00
+scrapy/core/engine.py,Pablo Hoffman,Daniel Graña,2012-08-31 16:41:50-03:00,2012-08-31 17:14:35-03:00
+scrapy/core/engine.py,Iván de Prado,Eugenio Lacuesta,2021-07-08 12:40:02+01:00,2021-07-08 09:22:21-03:00
+scrapy/core/engine.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/engine.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/core/http2/agent.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/http2/protocol.py,Eugenio Lacuesta,Aditya,2020-07-06 22:40:45+05:30,2020-07-07 15:36:41+05:30
+scrapy/core/http2/protocol.py,Eugenio Lacuesta,Adrián Chaves,2021-02-22 16:50:51+01:00,2021-02-23 06:42:28+01:00
+scrapy/core/http2/protocol.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/http2/stream.py,Aditya,Eugenio Lacuesta,2020-07-06 12:49:12+05:30,2020-07-06 22:40:45+05:30
+scrapy/core/http2/stream.py,Eugenio Lacuesta,Aditya,2020-07-06 22:40:45+05:30,2020-07-07 15:36:41+05:30
+scrapy/core/http2/stream.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/scheduler.py,Pablo Hoffman,Shane Evans,2011-05-20 03:52:41-03:00,2011-05-20 14:35:37+01:00
+scrapy/core/scheduler.py,Darshan Chaudhary,darshanime,2016-07-25 18:05:51+05:30,2016-07-25 18:05:51+05:30
+scrapy/core/scheduler/middleware.py,Daniel Grana,Pablo Hoffman,2009-06-20 18:15:02-03:00,2009-06-21 15:38:26-03:00
+scrapy/core/scraper.py,Daniel Grana,Pablo Hoffman,2009-07-06 15:31:50-03:00,2009-07-06 15:31:50-03:00
+scrapy/core/scraper.py,Pablo Hoffman,Daniel Grana,2009-07-09 12:57:10-03:00,2009-07-09 16:57:03-03:00
+scrapy/core/scraper.py,Daniel Grana,Pablo Hoffman,2009-08-24 01:25:14-03:00,2009-08-24 07:29:30-03:00
+scrapy/core/scraper.py,watsta,Eugenio Lacuesta,2019-09-16 14:12:04+02:00,2019-09-16 12:10:24-03:00
+scrapy/core/scraper.py,Andrey Rahmatullin,Emmanuel Rondan,2022-11-28 19:37:57+01:00,2022-11-29 11:30:46-03:00
+scrapy/core/scraper.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/scraper.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/core/signals.py,Pablo Hoffman,Daniel Grana,2009-07-09 12:57:10-03:00,2009-07-09 14:37:59-03:00
+scrapy/core/spidermw.py,Andrey Rakhmatullin,Andrey Rahmatullin,2021-04-13 20:22:02+05:00,2021-04-13 21:05:20+05:00
+scrapy/core/spidermw.py,Andrey Rahmatullin,Andrey Rakhmatullin,2021-04-13 21:05:20+05:00,2021-04-14 18:21:58+05:00
+scrapy/core/spidermw.py,Andrey Rakhmatullin,Andrey Rahmatullin,2021-04-14 18:21:58+05:00,2021-04-14 19:02:38+05:00
+scrapy/core/spidermw.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 23:22:18+04:00,2023-01-25 14:25:15-06:00
+scrapy/core/spidermw.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/crawler.py,Alexander Sibiryakov,Julia Medina,2015-04-01 11:24:12+02:00,2015-04-01 23:29:10-03:00
+scrapy/crawler.py,Julia Medina,Alexander Sibiryakov,2015-04-01 23:29:10-03:00,2015-04-02 18:30:59+02:00
+scrapy/crawler.py,Andrey Rahmatullin,Emmanuel Rondan,2022-11-28 19:37:57+01:00,2022-11-29 11:30:46-03:00
+scrapy/crawler.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/downloadermiddlewares/httpcompression.py,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:31:21+05:00,2024-02-28 16:14:08-03:00
+scrapy/downloadermiddlewares/httpcompression.py,Laerte Pereira,Andrey Rakhmatullin,2024-02-28 16:14:08-03:00,2024-02-29 14:33:55+05:00
+scrapy/downloadermiddlewares/httpcompression.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/downloadermiddlewares/redirect.py,Bernardas,Paul Tremberth,2017-03-03 15:52:05+01:00,2017-03-03 15:52:05+01:00
+scrapy/downloadermiddlewares/robotstxt.py,Mikhail Korobov,Artur Gaspar,2016-01-27 01:28:11+05:00,2016-01-27 13:09:08-02:00
+scrapy/downloadermiddlewares/robotstxt.py,Jalil SA,Cj Malone,2023-01-25 14:25:15-06:00,2023-01-26 16:10:57+00:00
+scrapy/downloadermiddlewares/robotstxt.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/dupefilter/__init__.py,Daniel Grana,Pablo Hoffman,2009-06-20 18:15:02-03:00,2009-06-20 20:29:07-03:00
+scrapy/exporters.py,Elias Dorneles,Daniel Graña,2016-01-25 22:24:35-02:00,2016-01-26 00:26:27-03:00
+scrapy/exporters.py,maranqz,Ammar Najjar,2020-08-25 13:34:43+03:00,2020-08-26 07:11:05+02:00
+scrapy/extensions/feedexport.py,Júlio César Batista,Victor Torres,2019-02-08 09:45:10-02:00,2019-02-08 15:51:23-02:00
+scrapy/extensions/feedexport.py,Ammar Najjar,Adrián Chaves,2019-10-21 19:56:58+02:00,2019-10-22 15:12:52+02:00
+scrapy/extensions/feedexport.py,Adrián Chaves,Ammar Najjar,2019-10-22 15:12:52+02:00,2019-10-22 15:56:46+02:00
+scrapy/extensions/feedexport.py,D R Siddhartha,Türkalp Burak KAYRANCIOĞLU,2021-07-13 17:22:29+02:00,2021-07-14 10:00:43+02:00
+scrapy/extensions/feedexport.py,Türkalp Burak KAYRANCIOĞLU,Eugenio Lacuesta,2021-07-14 10:00:43+02:00,2021-07-14 17:56:07+02:00
+scrapy/extensions/feedexport.py,Yegor,jazzthief,2023-02-15 17:07:55+01:00,2023-02-16 16:53:49+01:00
+scrapy/extensions/feedexport.py,Alex,Andrey Rakhmatullin,2023-06-22 07:04:06+02:00,2023-06-22 21:10:50+04:00
+scrapy/extensions/feedexport.py,Laerte Pereira,Kevin Lloyd Bernal,2023-07-24 09:53:41+02:00,2023-07-24 16:37:52+08:00
+scrapy/extensions/feedexport.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/extensions/throttle.py,Andrey Rakhmatullin,Adrián Chaves,2024-03-11 10:09:09+01:00,2024-03-12 09:44:29+01:00
+scrapy/http/request/__init__.py,Adrián Chaves,Jalil SA,2023-01-25 18:30:29+01:00,2023-01-25 14:25:15-06:00
+scrapy/http/request/__init__.py,Andrey Rakhmatullin,Laerte Pereira,2023-10-17 19:07:13+02:00,2023-10-17 18:15:20-03:00
+scrapy/http/request/form.py,Daniel Grana,Pablo Hoffman,2009-05-06 15:55:17-03:00,2009-05-07 00:36:39-03:00
+scrapy/http/request/form.py,Ismael Carnales,Pablo Hoffman,2009-10-29 13:18:13-02:00,2009-10-29 13:35:32-02:00
+scrapy/http/request/form.py,Daniel Graña,Lucian Ursu,2012-04-11 10:07:56-03:00,2012-04-11 21:08:43+03:00
+scrapy/http/request/form.py,Artem Bogomyagkov,Daniel Graña,2012-04-19 18:07:38+03:00,2012-04-19 14:11:13-03:00
+scrapy/http/request/rpc.py,Laerte Pereira,Andrey Rakhmatullin,2024-02-27 18:10:28-03:00,2024-02-28 14:30:38+05:00
+scrapy/http/response/__init__.py,Andrey Rahmatullin,Emmanuel Rondan,2022-11-28 19:37:57+01:00,2022-11-29 11:30:46-03:00
+scrapy/http/response/text.py,Mikhail Korobov,Daniel Graña,2014-04-23 23:17:51-03:00,2014-04-23 23:17:51-03:00
+scrapy/http/response/text.py,elacuesta,Eugenio Lacuesta,2019-10-14 13:47:44-03:00,2019-10-14 14:19:04-03:00
+scrapy/http/response/text.py,Andrey Rahmatullin,Emmanuel Rondan,2022-11-28 19:37:57+01:00,2022-11-29 11:30:46-03:00
+scrapy/http/response/text.py,Laerte Pereira,Jalil SA,2023-05-02 12:11:23-03:00,2023-05-02 18:49:05-06:00
+scrapy/item.py,Felix Yan,Daniel Graña,2014-07-25 00:34:01+08:00,2014-07-24 15:37:10-03:00
+scrapy/linkextractors/__init__.py,Adrián Chaves,Andrey Rahmatullin,2019-11-14 10:31:55+01:00,2019-11-14 15:07:53+05:00
+scrapy/linkextractors/__init__.py,Marc Hernández,Adrián Chaves,2019-12-17 13:53:15+01:00,2019-12-18 12:08:34+01:00
+scrapy/linkextractors/lxmlhtml.py,Rafał Gutkowski,Mikhail Korobov,2015-08-27 20:13:47+02:00,2015-08-28 04:11:30+05:00
+scrapy/linkextractors/lxmlhtml.py,spav,silviopavanetto,2023-01-11 19:32:33+01:00,2023-01-11 20:30:57+01:00
+scrapy/linkextractors/lxmlhtml.py,silviopavanetto,Adrián Chaves,2023-01-11 20:30:57+01:00,2023-01-12 08:36:31+01:00
+scrapy/logformatter.py,watsta,Eugenio Lacuesta,2019-09-16 14:12:04+02:00,2019-09-16 12:10:24-03:00
+scrapy/mail.py,Craig Rodrigues,Paul Tremberth,2017-10-05 10:16:42+02:00,2017-10-05 10:16:42+02:00
+scrapy/middleware.py,Andrey Rakhmatullin,Andrey Rahmatullin,2021-04-13 20:22:02+05:00,2021-04-13 21:05:25+05:00
+scrapy/middleware.py,Andrey Rahmatullin,Andrey Rakhmatullin,2021-04-13 21:05:25+05:00,2021-04-13 21:08:06+05:00
+scrapy/middleware.py,Andrey Rahmatullin,Emmanuel Rondan,2022-11-28 19:37:57+01:00,2022-11-29 11:30:46-03:00
+scrapy/pipelines/files.py,nyov,Mikhail Korobov,2015-08-08 04:22:58+05:00,2015-08-08 05:20:48+05:00
+scrapy/pipelines/files.py,Alex,Jalil SA,2023-01-25 01:03:27-08:00,2023-01-25 14:25:15-06:00
+scrapy/pipelines/files.py,Jalil SA,Alex,2023-01-25 14:25:15-06:00,2023-01-26 00:50:29-08:00
+scrapy/pipelines/files.py,Adrián Chaves,Alex,2023-02-02 06:37:40+01:00,2023-02-02 11:27:40-08:00
+scrapy/pipelines/files.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/pipelines/media.py,Bernardas,Paul Tremberth,2017-03-03 15:52:05+01:00,2017-03-03 15:52:05+01:00
+scrapy/pqueues.py,Mikhail Korobov,Vostretsov Nikita,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+scrapy/pqueues.py,Vostretsov Nikita,Mikhail Korobov,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+scrapy/pqueues.py,Mikhail Korobov,Vostretsov Nikita,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+scrapy/pqueues.py,Vostretsov Nikita,Lucy Wang,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+scrapy/resolver.py,Eugenio Lacuesta,elacuesta,2020-02-23 18:31:13-03:00,2020-02-24 12:02:00+01:00
+scrapy/responsetypes.py,nyov,Gregory Vigo Torres,2015-07-29 13:51:01+00:00,2015-07-29 20:05:45+02:00
+scrapy/selector/__init__.py,Capi Etheriel,Daniel Graña,2013-10-10 18:23:15-02:00,2013-10-10 18:23:15-02:00
+scrapy/selector/csssel.py,Capi Etheriel,Daniel Graña,2013-10-10 18:23:15-02:00,2013-10-10 18:23:15-02:00
+scrapy/selector/csssel.py,Daniel Graña,Paul Tremberth,2013-10-10 18:23:15-02:00,2013-10-10 18:23:15-02:00
+scrapy/selector/csssel.py,Paul Tremberth,Daniel Graña,2013-10-10 18:23:15-02:00,2013-10-11 18:06:27-02:00
+scrapy/selector/unified.py,Mateusz Golewski,Julia Medina,2015-03-18 21:11:08-03:00,2015-03-18 21:11:08-03:00
+scrapy/selector/unified.py,bosnj,Nikolaos-Digenis Karagiannis,2015-04-10 15:32:32+02:00,2015-04-10 22:23:40+03:00
+scrapy/settings/default_settings.py,dfdeshom,Pablo Hoffman,2010-11-01 00:59:04-02:00,2010-11-01 02:38:15-02:00
+scrapy/settings/default_settings.py,Pablo Hoffman,Alex Cepoi,2012-08-28 18:35:57-03:00,2012-08-29 18:31:10+02:00
+scrapy/settings/default_settings.py,djunzu,Aron Bordin,2016-03-31 19:20:33-03:00,2016-04-01 00:05:21-03:00
+scrapy/settings/default_settings.py,Rolando Espinoza,Paul Tremberth,2017-03-01 11:43:53-03:00,2017-03-01 17:50:39+01:00
+scrapy/settings/default_settings.py,Eugenio Lacuesta,Paul Tremberth,2017-03-07 11:56:00-03:00,2017-03-07 17:40:40+01:00
+scrapy/settings/default_settings.py,Júlio César Batista,Victor Torres,2019-02-08 11:26:33-02:00,2019-02-08 15:51:23-02:00
+scrapy/settings/default_settings.py,Eugenio Lacuesta,Júlio César Batista,2019-08-29 03:29:24-03:00,2019-08-29 11:10:00-03:00
+scrapy/settings/default_settings.py,Júlio César Batista,Eugenio Lacuesta,2019-08-29 11:10:00-03:00,2019-08-29 14:01:13-03:00
+scrapy/settings/default_settings.py,Andrey Rakhmatullin,Adrián Chaves,2019-12-13 18:07:47+05:00,2019-12-13 14:20:48+01:00
+scrapy/settings/default_settings.py,Adrián Chaves,elacuesta,2020-02-06 10:43:20+01:00,2020-02-06 22:42:34+05:00
+scrapy/settings/default_settings.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+scrapy/shell.py,Daniel Graña,Capi Etheriel,2013-10-09 23:50:35-02:00,2013-10-10 18:23:15-02:00
+scrapy/shell.py,nyov,Luar Roji,2015-08-21 01:12:58+01:00,2015-08-21 01:12:58+01:00
+scrapy/shell.py,Akshay Sharma,Marc Hernandez Cabot,2020-02-18 17:58:31+01:00,2020-02-19 17:49:42+01:00
+scrapy/shell.py,Marc Hernandez Cabot,Adrián Chaves,2020-02-19 17:49:42+01:00,2020-02-19 18:59:09+01:00
+scrapy/spider/middleware.py,pablo,Daniel Grana,2009-07-06 01:07:45-03:00,2009-07-06 15:31:50-03:00
+scrapy/spider/models.py,Pablo Hoffman,Daniel Grana,2010-04-05 11:53:22-03:00,2010-04-05 12:09:43-03:00
+scrapy/spider/models.py,Daniel Grana,Pablo Hoffman,2010-04-05 12:09:43-03:00,2010-04-05 12:34:29-03:00
+scrapy/spiderloader.py,MrMenezes,Erick,2017-03-02 12:44:40+01:00,2017-03-02 12:44:40+01:00
+scrapy/spiderloader.py,Erick,Paul Tremberth,2017-03-02 12:44:40+01:00,2017-03-02 12:44:40+01:00
+scrapy/spiderloader.py,Eugenio Lacuesta,Antonio Gordillo Toledo,2020-05-07 12:48:43-03:00,2020-05-08 15:45:19+02:00
+scrapy/spiders/__init__.py,kirankoduru,Kiran Koduru,2017-08-05 15:40:38-04:00,2017-08-05 16:29:41-04:00
+scrapy/spiders/__init__.py,Adrián Chaves,Mabel Villalba,2019-11-21 14:21:17+01:00,2019-11-21 17:06:47+01:00
+scrapy/spiders/__init__.py,nyov,Eugenio Lacuesta,2019-12-23 13:55:06-03:00,2019-12-23 14:12:21-03:00
+scrapy/spiders/__init__.py,Ammar Najjar,Eugenio Lacuesta,2020-08-26 07:11:05+02:00,2020-08-26 09:00:36-03:00
+scrapy/spiders/__init__.py,Andrey Rakhmatullin,Bagaudin Magomedov,2024-05-13 12:07:51+02:00,2024-05-13 14:33:24+02:00
+scrapy/spiders/crawl.py,nyov,Eugenio Lacuesta,2019-12-23 13:55:06-03:00,2019-12-23 14:12:21-03:00
+scrapy/spiders/feed.py,nyov,Eugenio Lacuesta,2019-12-23 13:55:06-03:00,2019-12-23 14:12:21-03:00
+scrapy/stats/collector/simpledb.py,Pablo Hoffman,Daniel Grana,2009-08-29 19:44:13-03:00,2009-08-30 01:08:23-03:00
+scrapy/stats/collector/simpledb.py,Daniel Grana,Pablo Hoffman,2009-08-30 01:08:23-03:00,2009-08-30 12:37:30-03:00
+scrapy/stats/corestats.py,Pablo Hoffman,Daniel Grana,2009-07-08 23:48:06-03:00,2009-07-09 14:37:59-03:00
+scrapy/templates/project/module/items.py.tmpl,Irhine,Mikhail Korobov,2014-04-14 18:14:29+08:00,2014-04-15 01:09:35+06:00
+scrapy/templates/spiders/basic.tmpl,Daniel Graña,Alexey Bezhan,2014-04-23 23:39:58-03:00,2014-04-24 17:30:35+01:00
+scrapy/templates/spiders/crawl.tmpl,Daniel Graña,Alexey Bezhan,2014-04-23 23:39:58-03:00,2014-04-24 17:30:35+01:00
+scrapy/templates/spiders/crawl.tmpl,Daniel Graña,Mikhail Korobov,2014-06-25 14:34:30-03:00,2014-06-26 00:30:27+06:00
+scrapy/templates/spiders/csvfeed.tmpl,Daniel Graña,Alexey Bezhan,2014-04-23 23:39:58-03:00,2014-04-24 17:30:35+01:00
+scrapy/templates/spiders/xmlfeed.tmpl,Daniel Graña,Alexey Bezhan,2014-04-23 23:39:58-03:00,2014-04-24 17:30:35+01:00
+scrapy/tests/mockserver.py,Pablo Hoffman,Daniel Graña,2013-08-21 14:32:33-03:00,2013-08-21 17:28:26-03:00
+scrapy/tests/test_commands.py,Pablo Hoffman,Daniel Grana,2009-08-29 05:35:22-03:00,2009-08-30 01:51:34-03:00
+scrapy/tests/test_commands.py,Felix Yan,Mikhail Korobov,2014-07-14 18:47:22+08:00,2014-07-14 18:00:20+06:00
+scrapy/tests/test_contrib_exporter.py,Pablo Hoffman,Ismael Carnales,2009-08-19 13:09:39-03:00,2009-08-19 19:05:33-03:00
+scrapy/tests/test_contrib_exporter.py,Ismael Carnales,Pablo Hoffman,2009-08-19 19:05:33-03:00,2009-08-19 21:39:58-03:00
+scrapy/tests/test_contrib_exporter.py,Pablo Hoffman,Ismael Carnales,2009-08-19 21:39:58-03:00,2009-08-20 12:58:10-03:00
+scrapy/tests/test_contrib_exporter.py,Ismael Carnales,Pablo Hoffman,2009-08-20 12:58:10-03:00,2009-08-20 14:09:24-03:00
+scrapy/tests/test_contrib_ibl/test_extraction.py,Martin Olveyra,Pablo Hoffman,2010-10-26 16:11:04-02:00,2010-10-26 20:50:41-02:00
+scrapy/tests/test_contrib_linkextractors.py,Andrés Moreira,Pablo Hoffman,2012-04-18 18:05:44-03:00,2012-04-19 12:07:46-03:00
+scrapy/tests/test_contrib_loader.py,Pablo Hoffman,Ismael Carnales,2009-08-12 16:49:07-03:00,2009-08-12 17:23:53-03:00
+scrapy/tests/test_contrib_loader.py,Ismael Carnales,Pablo Hoffman,2009-08-12 17:23:53-03:00,2009-08-12 17:40:27-03:00
+scrapy/tests/test_crawl.py,Daniel Graña,Pablo Hoffman,2013-04-19 14:31:27+00:00,2013-04-19 13:06:30-03:00
+scrapy/tests/test_crawl.py,Pablo Hoffman,Daniel Graña,2013-08-21 14:32:33-03:00,2013-08-21 17:28:26-03:00
+scrapy/tests/test_djangoitem/__init__.py,Pablo Hoffman,Daniel Grana,2009-08-29 05:03:40-03:00,2009-08-29 21:04:32-03:00
+scrapy/tests/test_downloader_handlers.py,paul,Daniel Graña,2013-05-06 12:45:27-03:00,2013-05-06 12:45:27-03:00
+scrapy/tests/test_downloadermiddleware.py,Rolando Espinoza La fuente,Daniel Graña,2013-01-08 09:59:38-02:00,2013-01-08 09:59:38-02:00
+scrapy/tests/test_http_request.py,Daniel Grana,Pablo Hoffman,2009-05-06 15:55:17-03:00,2009-05-07 00:36:39-03:00
+scrapy/tests/test_http_request.py,Pablo Hoffman,Daniel Grana,2009-09-17 12:21:43-03:00,2009-09-17 14:26:42-03:00
+scrapy/tests/test_http_request.py,Artem Bogomyagkov,Daniel Graña,2012-04-19 18:07:38+03:00,2012-04-19 15:40:07-03:00
+scrapy/tests/test_http_request.py,Pablo Hoffman,Nicolás Ramírez,2013-03-14 10:32:19-03:00,2013-03-14 10:39:17-03:00
+scrapy/tests/test_http_response.py,Mikhail Korobov,Daniel Graña,2014-04-23 23:17:51-03:00,2014-04-23 23:17:51-03:00
+scrapy/tests/test_newitem.py,Ismael Carnales,Pablo Hoffman,2009-07-13 10:31:32-03:00,2009-07-13 14:00:41-03:00
+scrapy/tests/test_newitem.py,Pablo Hoffman,Ismael Carnales,2009-07-13 14:00:41-03:00,2009-07-13 15:54:46-03:00
+scrapy/tests/test_newitem.py,Ismael Carnales,Pablo Hoffman,2009-07-13 17:03:38-03:00,2009-07-13 21:10:29-03:00
+scrapy/tests/test_newitem.py,Pablo Hoffman,Ismael Carnales,2009-07-14 09:15:29-03:00,2009-07-14 09:36:33-03:00
+scrapy/tests/test_scrapy_ctl.py,Ismael Carnales,Pablo Hoffman,2009-08-28 14:42:07-03:00,2009-08-28 17:47:45-03:00
+scrapy/tests/test_selector.py,Paul Tremberth,Daniel Graña,2014-01-15 15:00:25+01:00,2014-01-16 09:53:59-02:00
+scrapy/tests/test_selector_cssselect.py,Daniel Graña,Paul Tremberth,2013-10-10 18:23:15-02:00,2013-10-10 18:23:15-02:00
+scrapy/tests/test_selector_cssselect.py,Paul Tremberth,Daniel Graña,2013-10-10 18:23:15-02:00,2013-10-11 18:06:27-02:00
+scrapy/tests/test_spider.py,Pablo Hoffman,Daniel Grana,2010-04-05 11:53:22-03:00,2010-04-05 12:09:43-03:00
+scrapy/tests/test_spider.py,Daniel Grana,Pablo Hoffman,2010-04-05 12:09:43-03:00,2010-04-05 12:34:29-03:00
+scrapy/tests/test_spidermiddleware_httperror.py,Martin Olveyra,Pablo Hoffman,2013-11-20 20:12:49-02:00,2013-11-21 14:33:17-02:00
+scrapy/tests/test_utils_defer.py,Daniel Grana,daniel,2009-06-23 14:59:03-03:00,2009-06-23 14:45:16-07:00
+scrapy/tests/test_utils_deprecate.py,Mikhail Korobov,Daniel Graña,2013-12-31 00:17:42+06:00,2013-12-31 16:02:03-02:00
+scrapy/tests/test_utils_deprecate.py,Daniel Graña,Mikhail Korobov,2013-12-31 16:40:00-02:00,2014-01-01 11:52:07+06:00
+scrapy/tests/test_utils_markup.py,Daniel Grana,Ismael Carnales,2009-05-06 15:55:17-03:00,2009-05-07 15:44:38+00:00
+scrapy/tests/test_utils_markup.py,Ismael Carnales,Pablo Hoffman,2009-05-07 15:44:38+00:00,2009-05-07 16:33:06-03:00
+scrapy/tests/test_utils_misc/__init__.py,Ismael Carnales,Pablo Hoffman,2010-07-30 15:53:24-03:00,2010-07-30 17:05:55-03:00
+scrapy/tests/test_utils_python.py,Beng Hee Eu,Daniel Graña,2013-12-30 03:46:10+08:00,2013-12-30 09:25:11-02:00
+scrapy/tests/test_utils_response.py,Pablo Hoffman,Daniel Grana,2009-10-21 09:37:04-02:00,2009-10-21 13:57:06-02:00
+scrapy/tests/test_utils_response.py,Pablo Hoffman,Daniel Grana,2010-03-25 15:47:10-03:00,2010-03-25 15:50:34-03:00
+scrapy/tests/test_utils_url.py,Zuhao Wan,Pablo Hoffman,2013-02-11 17:19:31+08:00,2013-02-11 11:43:25-02:00
+scrapy/trunk/docs/ref/request-response.rst,Pablo Hoffman,Daniel Grana,2009-03-24 20:02:42+00:00,2009-03-25 13:15:55+00:00
+scrapy/trunk/docs/ref/settings.rst,olveyra,Pablo Hoffman,2009-01-05 18:11:48+00:00,2009-01-06 16:42:59+00:00
+scrapy/trunk/docs/ref/spiders.rst,Pablo Hoffman,Ismael Carnales,2009-01-30 21:53:40+00:00,2009-01-31 06:01:33+00:00
+scrapy/trunk/docs/reference/settings.rst,Pablo Hoffman,Ismael Carnales,2008-12-29 11:38:34+00:00,2008-12-30 10:45:19+00:00
+scrapy/trunk/docs/reference/settings.rst,Ismael Carnales,Pablo Hoffman,2008-12-30 10:45:19+00:00,2008-12-30 13:28:36+00:00
+scrapy/trunk/docs/reference/settings.rst,Pablo Hoffman,Ismael Carnales,2008-12-30 13:28:36+00:00,2008-12-30 15:04:59+00:00
+scrapy/trunk/docs/topics/index.rst,Pablo Hoffman,elpolilla,2009-01-06 23:05:04+00:00,2009-01-07 03:18:18+00:00
+scrapy/trunk/docs/topics/items.rst,elpolilla,Pablo Hoffman,2009-01-30 13:05:52+00:00,2009-01-30 21:52:41+00:00
+scrapy/trunk/docs/topics/selectors.rst,Pablo Hoffman,elpolilla,2009-01-03 09:14:52+00:00,2009-01-04 01:15:08+00:00
+scrapy/trunk/docs/topics/settings.rst,Daniel Grana,Pablo Hoffman,2009-01-19 00:35:28+00:00,2009-01-19 03:14:23+00:00
+scrapy/trunk/docs/topics/spiders.rst,Pablo Hoffman,elpolilla,2009-01-03 09:14:52+00:00,2009-01-04 00:36:16+00:00
+scrapy/trunk/docs/topics/spiders.rst,elpolilla,Pablo Hoffman,2009-01-04 00:36:16+00:00,2009-01-04 19:03:15+00:00
+scrapy/trunk/docs/topics/spiders.rst,Ismael Carnales,Pablo Hoffman,2009-01-30 19:24:43+00:00,2009-01-30 21:53:40+00:00
+scrapy/trunk/docs/topics/spiders.rst,Pablo Hoffman,Ismael Carnales,2009-01-30 21:53:40+00:00,2009-01-31 06:01:33+00:00
+scrapy/trunk/examples/contrib_exp/googledir/googledir/items.py,Daniel Grana,Ismael Carnales,2009-02-24 03:42:21+00:00,2009-02-24 04:02:34+00:00
+scrapy/trunk/profiling/priorityqueue/pq_classes.py,Daniel Grana,Andres Moreira,2009-03-19 05:18:35+00:00,2009-03-19 13:11:27+00:00
+scrapy/trunk/profiling/priorityqueue/run.py,Daniel Grana,Andres Moreira,2009-03-19 12:04:19+00:00,2009-03-19 13:11:27+00:00
+scrapy/trunk/scrapy/bin/scrapy-admin.py,Ismael Carnales,Pablo Hoffman,2009-02-16 12:50:00+00:00,2009-02-16 23:43:43+00:00
+scrapy/trunk/scrapy/command/cmdline.py,elpolilla,Pablo Hoffman,2009-01-07 17:31:06+00:00,2009-01-07 18:06:39+00:00
+scrapy/trunk/scrapy/command/commands/crawl.py,olveyra,elpolilla,2008-07-27 16:11:23+00:00,2008-07-28 12:42:00+00:00
+scrapy/trunk/scrapy/conf/__init__.py,olveyra,Pablo Hoffman,2008-07-25 19:40:43+00:00,2008-07-25 21:28:49+00:00
+scrapy/trunk/scrapy/conf/__init__.py,Pablo Hoffman,olveyra,2008-07-25 21:28:49+00:00,2008-07-25 22:42:57+00:00
+scrapy/trunk/scrapy/conf/project_template/scrapy_settings.py,elpolilla,Pablo Hoffman,2009-01-26 15:24:52+00:00,2009-01-26 23:42:51+00:00
+scrapy/trunk/scrapy/contrib/downloadermiddleware/cookies.py,Daniel Grana,Pablo Hoffman,2009-04-27 06:46:46+00:00,2009-04-27 12:20:24+00:00
+scrapy/trunk/scrapy/contrib/downloadermiddleware/redirect.py,Pablo Hoffman,elpolilla,2009-01-26 02:57:03+00:00,2009-01-26 15:03:47+00:00
+scrapy/trunk/scrapy/contrib/downloadermiddleware/retry.py,samus_,Pablo Hoffman,2008-12-14 01:49:59+00:00,2008-12-14 04:01:54+00:00
+scrapy/trunk/scrapy/contrib/pbcluster/worker/manager.py,olveyra,Pablo Hoffman,2008-07-22 17:21:55+00:00,2008-07-23 03:13:26+00:00
+scrapy/trunk/scrapy/contrib/pbcluster/worker/manager.py,Pablo Hoffman,olveyra,2008-07-23 03:13:26+00:00,2008-07-23 12:21:05+00:00
+scrapy/trunk/scrapy/contrib/pipeline/images.py,elpolilla,Daniel Grana,2008-11-18 15:55:27+00:00,2008-11-18 17:37:25+00:00
+scrapy/trunk/scrapy/contrib/pipeline/media.py,Pablo Hoffman,Daniel Grana,2009-01-14 01:17:40+00:00,2009-01-14 23:59:45+00:00
+scrapy/trunk/scrapy/contrib/spidermiddleware/duplicatesfilter.py,samus_,Daniel Grana,2009-02-19 05:12:55+00:00,2009-02-19 16:37:33+00:00
+scrapy/trunk/scrapy/contrib/spidermiddleware/limit.py,olveyra,anibal,2008-08-12 15:13:48+00:00,2008-08-12 15:59:05+00:00
+scrapy/trunk/scrapy/contrib/spidermiddleware/limit.py,anibal,olveyra,2008-08-12 15:59:05+00:00,2008-08-12 16:18:03+00:00
+scrapy/trunk/scrapy/contrib/spiders.py,elpolilla,samus_,2008-11-03 14:00:33+00:00,2008-11-03 16:10:43+00:00
+scrapy/trunk/scrapy/contrib/spiders.py,samus_,elpolilla,2008-11-03 16:10:43+00:00,2008-11-04 10:57:59+00:00
+scrapy/trunk/scrapy/contrib/spiders/crawl.py,Pablo Hoffman,olveyra,2009-01-06 17:30:29+00:00,2009-01-06 19:43:58+00:00
+scrapy/trunk/scrapy/contrib_exp/newitem/adaptors.py,Ismael Carnales,Daniel Grana,2009-02-25 06:30:31+00:00,2009-02-25 06:52:06+00:00
+scrapy/trunk/scrapy/contrib_exp/newitem/adaptors.py,Daniel Grana,Ismael Carnales,2009-02-25 07:39:14+00:00,2009-02-25 08:28:24+00:00
+scrapy/trunk/scrapy/contrib_exp/newitem/adaptors.py,Ismael Carnales,Daniel Grana,2009-02-25 08:28:24+00:00,2009-02-25 08:44:58+00:00
+scrapy/trunk/scrapy/contrib_exp/newitem/extractors.py,Ismael Carnales,Daniel Grana,2009-02-19 19:05:45+00:00,2009-02-20 17:59:58+00:00
+scrapy/trunk/scrapy/contrib_exp/newitem/extractors.py,Daniel Grana,Ismael Carnales,2009-02-24 03:42:21+00:00,2009-02-24 03:51:40+00:00
+scrapy/trunk/scrapy/core/downloader/responsetypes.py,Pablo Hoffman,elpolilla,2009-01-26 02:57:03+00:00,2009-01-26 15:03:14+00:00
+scrapy/trunk/scrapy/core/downloader/responsetypes.py,elpolilla,Pablo Hoffman,2009-01-26 15:03:14+00:00,2009-01-26 15:36:53+00:00
+scrapy/trunk/scrapy/core/downloader/responsetypes.py,Pablo Hoffman,elpolilla,2009-01-27 13:08:07+00:00,2009-01-28 11:45:39+00:00
+scrapy/trunk/scrapy/core/engine.py,Pablo Hoffman,olveyra,2008-07-07 17:37:55+00:00,2008-07-07 17:51:09+00:00
+scrapy/trunk/scrapy/core/engine.py,Pablo Hoffman,Daniel Grana,2009-01-14 01:17:40+00:00,2009-01-14 23:59:45+00:00
+scrapy/trunk/scrapy/core/engine.py,Daniel Grana,Pablo Hoffman,2009-03-17 21:30:33+00:00,2009-03-18 00:47:07+00:00
+scrapy/trunk/scrapy/extension/__init__.py,olveyra,Pablo Hoffman,2008-07-14 12:42:58+00:00,2008-07-14 13:18:58+00:00
+scrapy/trunk/scrapy/http/request/__init__.py,Pablo Hoffman,Daniel Grana,2009-03-24 21:03:38+00:00,2009-03-25 13:15:55+00:00
+scrapy/trunk/scrapy/http/response/__init__.py,Pablo Hoffman,elpolilla,2009-01-26 02:57:03+00:00,2009-01-26 15:03:47+00:00
+scrapy/trunk/scrapy/item/adaptors.py,Pablo Hoffman,olveyra,2008-09-01 19:28:30+00:00,2008-09-01 20:06:10+00:00
+scrapy/trunk/scrapy/item/models.py,Pablo Hoffman,elpolilla,2008-10-06 03:22:05+00:00,2008-10-06 10:14:52+00:00
+scrapy/trunk/scrapy/item/models.py,elpolilla,Pablo Hoffman,2008-10-24 00:37:51+00:00,2008-10-24 03:42:05+00:00
+scrapy/trunk/scrapy/link/__init__.py,elpolilla,samus_,2009-01-02 02:34:44+00:00,2009-01-02 08:42:36+00:00
+scrapy/trunk/scrapy/link/__init__.py,samus_,elpolilla,2009-01-02 08:42:36+00:00,2009-01-02 14:06:51+00:00
+scrapy/trunk/scrapy/link/__init__.py,elpolilla,samus_,2009-01-02 14:06:51+00:00,2009-01-02 14:57:33+00:00
+scrapy/trunk/scrapy/link/__init__.py,samus_,elpolilla,2009-01-02 14:57:33+00:00,2009-01-02 18:32:55+00:00
+scrapy/trunk/scrapy/link/__init__.py,elpolilla,Pablo Hoffman,2009-01-02 18:32:55+00:00,2009-01-02 20:45:34+00:00
+scrapy/trunk/scrapy/link/__init__.py,elpolilla,Pablo Hoffman,2009-01-08 11:05:15+00:00,2009-01-08 13:30:25+00:00
+scrapy/trunk/scrapy/link/extractors.py,elpolilla,samus_,2009-01-02 02:34:44+00:00,2009-01-02 08:42:36+00:00
+scrapy/trunk/scrapy/link/extractors.py,samus_,elpolilla,2009-01-02 08:42:36+00:00,2009-01-02 14:06:51+00:00
+scrapy/trunk/scrapy/link/extractors.py,elpolilla,samus_,2009-01-02 14:06:51+00:00,2009-01-02 14:57:33+00:00
+scrapy/trunk/scrapy/link/extractors.py,samus_,elpolilla,2009-01-02 14:57:33+00:00,2009-01-02 18:32:55+00:00
+scrapy/trunk/scrapy/templates/settings.tmpl,olveyra,Pablo Hoffman,2008-08-13 19:49:25+00:00,2008-08-13 21:06:49+00:00
+scrapy/trunk/scrapy/tests/test_adaptors.py,elpolilla,samus_,2009-01-04 14:46:13+00:00,2009-01-04 18:23:12+00:00
+scrapy/trunk/scrapy/tests/test_adaptors.py,elpolilla,Pablo Hoffman,2009-01-26 01:15:05+00:00,2009-01-26 02:57:03+00:00
+scrapy/trunk/scrapy/tests/test_http_cookies.py,Daniel Grana,Pablo Hoffman,2009-04-27 06:46:46+00:00,2009-04-27 18:18:01+00:00
+scrapy/trunk/scrapy/tests/test_http_response.py,Pablo Hoffman,elpolilla,2009-01-26 02:57:03+00:00,2009-01-26 15:25:53+00:00
+scrapy/trunk/scrapy/tests/test_link.py,elpolilla,samus_,2009-01-02 04:12:59+00:00,2009-01-02 08:42:36+00:00
+scrapy/trunk/scrapy/tests/test_link.py,samus_,elpolilla,2009-01-02 08:42:36+00:00,2009-01-02 14:06:51+00:00
+scrapy/trunk/scrapy/tests/test_link.py,elpolilla,samus_,2009-01-02 14:06:51+00:00,2009-01-02 14:57:33+00:00
+scrapy/trunk/scrapy/tests/test_link.py,samus_,elpolilla,2009-01-02 14:57:33+00:00,2009-01-02 18:32:55+00:00
+scrapy/trunk/scrapy/tests/test_spidermiddleware_duplicatesfilter.py,samus_,Daniel Grana,2009-02-19 05:12:55+00:00,2009-02-19 11:55:09+00:00
+scrapy/trunk/scrapy/tests/test_storedb.py,Daniel Grana,Pablo Hoffman,2008-10-07 13:07:36+00:00,2008-10-07 14:31:24+00:00
+scrapy/trunk/scrapy/tests/test_utils_misc.py,Pablo Hoffman,samus_,2009-02-20 17:35:25+00:00,2009-02-20 18:17:55+00:00
+scrapy/trunk/scrapy/tests/test_utils_url.py,olveyra,Pablo Hoffman,2008-09-30 19:24:24+00:00,2008-09-30 19:57:05+00:00
+scrapy/trunk/scrapy/tests/test_utils_url.py,samus_,Pablo Hoffman,2008-11-26 18:31:53+00:00,2008-11-26 22:10:06+00:00
+scrapy/trunk/scrapy/tests/test_utils_url.py,artem,Daniel Grana,2009-04-01 13:40:30+00:00,2009-04-01 14:29:56+00:00
+scrapy/trunk/scrapy/utils/markup.py,elpolilla,Andres Moreira,2009-01-27 14:05:22+00:00,2009-01-27 17:58:51+00:00
+scrapy/trunk/scrapy/utils/misc.py,samus_,Pablo Hoffman,2008-09-23 20:36:32+00:00,2008-09-23 21:34:05+00:00
+scrapy/trunk/scrapy/utils/misc.py,Pablo Hoffman,samus_,2008-09-23 21:48:48+00:00,2008-09-24 18:19:19+00:00
+scrapy/trunk/scrapy/utils/misc.py,Ismael Carnales,Pablo Hoffman,2009-02-16 13:30:20+00:00,2009-02-16 23:43:43+00:00
+scrapy/trunk/scrapy/utils/python.py,elpolilla,Pablo Hoffman,2009-01-02 18:59:34+00:00,2009-01-02 20:42:20+00:00
+scrapy/trunk/scrapy/utils/url.py,samus_,elpolilla,2008-11-26 12:05:31+00:00,2008-11-26 16:18:19+00:00
+scrapy/trunk/scrapy/utils/url.py,elpolilla,Pablo Hoffman,2008-11-26 16:18:19+00:00,2008-11-26 17:55:03+00:00
+scrapy/trunk/scrapy/utils/url.py,Pablo Hoffman,samus_,2008-11-26 17:55:03+00:00,2008-11-26 18:31:53+00:00
+scrapy/trunk/scrapy/utils/url.py,samus_,Pablo Hoffman,2008-11-26 18:31:53+00:00,2008-11-26 22:10:06+00:00
+scrapy/trunk/scrapy/utils/url.py,Pablo Hoffman,elpolilla,2008-11-26 22:10:06+00:00,2008-11-27 11:21:28+00:00
+scrapy/trunk/scrapy/utils/url.py,elpolilla,Pablo Hoffman,2008-11-27 11:21:28+00:00,2008-11-27 15:21:41+00:00
+scrapy/trunk/setup.py,eduardo,Daniel Grana,2008-09-18 14:58:43+00:00,2008-09-18 16:08:33+00:00
+scrapy/trunk/setup.py,Daniel Grana,eduardo,2008-09-18 16:08:33+00:00,2008-09-18 17:48:35+00:00
+scrapy/utils/_compression.py,Yuri H. Galvao,Adrián Chaves,2024-03-01 11:07:38+01:00,2024-03-01 16:02:03+01:00
+scrapy/utils/benchserver.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:15:07+04:00,2023-01-25 14:25:15-06:00
+scrapy/utils/decorator.py,Ismael Carnales,Pablo Hoffman,2009-08-17 15:58:06-03:00,2009-08-17 18:13:45-03:00
+scrapy/utils/defer.py,Alexey Vishnevsky,Daniel Graña,2015-05-22 17:05:19-03:00,2015-05-22 20:00:58-03:00
+scrapy/utils/defer.py,Andrey Rakhmatullin,Andrey Rahmatullin,2021-04-13 20:22:02+05:00,2021-04-13 21:05:30+05:00
+scrapy/utils/defer.py,Andrey Rahmatullin,Andrey Rakhmatullin,2021-04-13 21:05:30+05:00,2021-04-13 22:41:01+05:00
+scrapy/utils/defer.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:28:15+04:00,2023-01-25 14:25:15-06:00
+scrapy/utils/defer.py,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 18:38:43+02:00
+scrapy/utils/deprecate.py,Mikhail Korobov,Daniel Graña,2013-12-31 00:17:42+06:00,2013-12-31 16:02:03-02:00
+scrapy/utils/deprecate.py,Daniel Graña,Mikhail Korobov,2013-12-31 16:40:00-02:00,2014-01-01 11:52:07+06:00
+scrapy/utils/deprecate.py,Ammar Najjar,nyov,2020-08-26 07:11:05+02:00,2020-08-26 13:08:14+02:00
+scrapy/utils/iterators.py,daniel,Daniel Grana,2009-10-09 04:02:48+01:00,2009-10-09 17:00:31-02:00
+scrapy/utils/log.py,Andrey Rakhmatullin,Adrián Chaves,2024-12-16 09:44:36+01:00,2024-12-16 14:46:23+01:00
+scrapy/utils/markup.py,Daniel Grana,Ismael Carnales,2009-05-06 15:55:17-03:00,2009-05-07 15:24:40+00:00
+scrapy/utils/markup.py,Ismael Carnales,Pablo Hoffman,2009-05-07 16:03:41+00:00,2009-05-07 16:33:06-03:00
+scrapy/utils/misc.py,Ismael Carnales,Pablo Hoffman,2010-07-30 15:53:24-03:00,2010-07-30 17:05:55-03:00
+scrapy/utils/misc.py,Ammar Najjar,nyov,2020-08-26 07:11:05+02:00,2020-08-26 13:08:14+02:00
+scrapy/utils/python.py,Beng Hee Eu,Daniel Graña,2013-12-30 03:46:10+08:00,2013-12-30 09:25:11-02:00
+scrapy/utils/python.py,Adrián Chaves,Andrey Rakhmatullin,2019-11-13 09:46:54+01:00,2019-11-14 13:45:37+05:00
+scrapy/utils/python.py,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:30:38+05:00,2024-02-28 16:14:08-03:00
+scrapy/utils/reqser.py,Iván de Prado,Ammar Najjar,2020-08-25 14:37:10+01:00,2020-08-26 07:11:05+02:00
+scrapy/utils/request.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+scrapy/utils/request.py,Andrey Rakhmatullin,Rohit Kumar Singh,2024-11-04 11:40:07+01:00,2024-11-04 21:09:45+05:00
+scrapy/utils/response.py,Pablo Hoffman,Daniel Grana,2009-10-21 09:37:04-02:00,2009-10-21 13:57:06-02:00
+scrapy/utils/response.py,Pablo Hoffman,Daniel Grana,2010-03-25 15:47:10-03:00,2010-03-25 15:50:34-03:00
+scrapy/utils/response.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:28:15+04:00,2023-01-25 14:25:15-06:00
+scrapy/utils/template.py,Pablo Hoffman,Daniel Grana,2009-08-17 17:59:34-03:00,2009-08-17 21:42:37-03:00
+scrapy/utils/test.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+scrapy/utils/testsite.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:28:15+04:00,2023-01-25 14:25:15-06:00
+scrapy/utils/url.py,Zuhao Wan,Pablo Hoffman,2013-02-11 17:19:31+08:00,2013-02-11 11:43:25-02:00
+scrapy/xlib/patches.py,Pablo Hoffman,Daniel Grana,2009-07-29 19:01:36-03:00,2009-07-29 21:02:15-03:00
+scrapyd/launcher.py,Daniel Graña,Pablo Hoffman,2012-08-31 17:14:35-03:00,2012-08-31 18:49:20-03:00
+scripts/rpm-install.sh,pablo,Pablo Hoffman,2009-06-16 17:10:43+01:00,2009-06-16 13:14:40-03:00
+sep/sep-003.trac,Capi Etheriel,Edwin O Marshall,2014-03-06 12:41:21-03:00,2014-03-07 09:10:37-05:00
+sep/sep-019.rst,Pablo Hoffman,Steven Almeroth,2013-03-08 09:57:12-02:00,2013-03-08 13:04:11-06:00
+setup.cfg,Aditya,adityaa30,2020-08-16 17:55:16+05:30,2020-08-17 04:18:03+05:30
+setup.cfg,adityaa30,Eugenio Lacuesta,2020-08-17 04:18:03+05:30,2020-08-17 10:39:59+02:00
+setup.py,Daniel Graña,alexanderlukanin13,2013-10-17 09:33:15-02:00,2013-10-18 11:30:48+06:00
+setup.py,Mikhail Korobov,Elias Dorneles,2015-08-11 20:14:22+05:00,2015-08-11 14:08:43-03:00
+setup.py,Roy Healy,Roy,2019-10-27 16:48:20+00:00,2019-10-28 11:24:52+00:00
+setup.py,Aditya,Adrián Chaves,2020-08-27 15:12:22+05:30,2020-08-27 15:43:43+05:00
+setup.py,Adrián Chaves,Emmanuel Rondan,2023-01-19 20:37:24+01:00,2023-01-20 10:55:46-03:00
+sites/dev.scrapy.org/htdocs/css/changeset.css,anibal,Ezequiel Rivero,2008-06-27 11:40:06+00:00,2008-06-27 17:10:06+00:00
+sites/scrapy.org/docs/sources/index.rst,elpolilla,Ismael Carnales,2008-12-15 13:44:42+00:00,2008-12-16 11:53:20+00:00
+sites/scrapy.org/static/style/style.css,Ezequiel Rivero,Ismael Carnales,2008-12-18 10:36:21+00:00,2008-12-18 13:06:13+00:00
+sites/scrapy.org/templates/base.html,Ezequiel Rivero,Ismael Carnales,2008-12-18 10:36:21+00:00,2008-12-18 16:22:09+00:00
+tests/CrawlerProcess/sleeping.py,Andrey Rakhmatullin,Adrián Chaves,2023-11-16 19:15:30+04:00,2023-11-16 19:16:52+04:00
+tests/CrawlerRunner/ip_address.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:15:07+04:00,2023-01-25 14:25:15-06:00
+tests/mockserver.py,Adrián Chaves,Andrey Rakhmatullin,2020-08-17 15:10:08+02:00,2020-08-17 19:46:24+05:00
+tests/mockserver.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:15:07+04:00,2023-01-25 14:25:15-06:00
+tests/py3-ignores.txt,Daniel Graña,Mikhail Korobov,2014-08-01 02:38:29-03:00,2014-08-01 16:10:34+06:00
+tests/py3-ignores.txt,Zoltán Szeredi,Mikhail Korobov,2015-07-25 13:05:50+02:00,2015-07-25 13:10:13+02:00
+tests/py3-ignores.txt,Mikhail Korobov,Daniel Graña,2015-07-25 13:10:13+02:00,2015-07-25 16:39:02+02:00
+tests/py3-ignores.txt,Daniel Graña,Mikhail Korobov,2015-07-25 16:51:22+02:00,2015-07-25 17:14:56+02:00
+tests/py3-ignores.txt,Mikhail Korobov,Daniel Graña,2015-07-25 17:14:56+02:00,2015-07-25 18:04:55+02:00
+tests/py3-ignores.txt,Mikhail Korobov,nyov,2015-07-29 18:37:04+05:00,2015-07-29 13:51:01+00:00
+tests/py3-ignores.txt,nyov,Gregory Vigo Torres,2015-07-29 13:51:01+00:00,2015-07-30 13:07:42+02:00
+tests/py3-ignores.txt,Daniel Graña,Mikhail Korobov,2015-08-02 22:28:45-03:00,2015-08-04 02:17:46+05:00
+tests/py3-ignores.txt,Konstantin Lopuhin,Raul Gallegos,2016-01-20 23:01:29+03:00,2016-01-21 09:35:04-05:00
+tests/py3-ignores.txt,Raul Gallegos,Konstantin Lopuhin,2016-01-21 09:35:04-05:00,2016-01-21 17:53:08+03:00
+tests/py3-ignores.txt,Konstantin Lopuhin,Elias Dorneles,2016-01-21 17:53:08+03:00,2016-01-21 15:36:14-02:00
+tests/requirements-py3.txt,Adrián Chaves,Andrey Rakhmatullin,2019-10-31 10:47:29+01:00,2019-10-31 15:03:44+05:00
+tests/requirements-py3.txt,elacuesta,Adrián Chaves,2019-11-08 11:32:50-03:00,2019-11-08 16:00:10+01:00
+tests/spiders.py,Ammar Najjar,Eugenio Lacuesta,2020-08-26 07:11:05+02:00,2020-08-26 09:00:36-03:00
+tests/spiders.py,Andrey Rakhmatullin,Ammar Najjar,2020-08-28 18:27:36+05:00,2020-08-29 07:21:48+02:00
+tests/test_cmdline/__init__.py,nyov,Mikhail Korobov,2015-08-08 04:19:55+05:00,2015-08-08 04:54:47+05:00
+tests/test_command_parse.py,Marc Hernández,Marc Hernandez Cabot,2020-02-21 06:05:31+01:00,2020-02-21 08:39:14+01:00
+tests/test_command_shell.py,Andrey Rakhmatullin,Adrián Chaves,2023-11-16 19:15:30+04:00,2023-11-16 19:16:52+04:00
+tests/test_commands.py,Mikhail Korobov,Paul Tremberth,2016-02-17 23:07:03+05:00,2016-02-18 11:45:03+01:00
+tests/test_commands.py,Jakob de Maeyer,Daniel Graña,2018-08-15 01:33:38-03:00,2018-08-15 01:33:38-03:00
+tests/test_commands.py,Ajay Mittur,Adrián Chaves,2020-08-17 10:45:52+02:00,2020-08-17 15:10:08+02:00
+tests/test_commands.py,Alex,Adrián Chaves,2023-02-02 04:42:47+01:00,2023-02-02 06:37:40+01:00
+tests/test_crawl.py,Eugenio Lacuesta,Andrey Rakhmatullin,2020-02-06 18:19:40-03:00,2020-02-07 17:14:52+05:00
+tests/test_crawl.py,Adrián Chaves,Andrey Rakhmatullin,2025-03-11 14:52:48+01:00,2025-03-12 01:18:30+05:00
+tests/test_crawler.py,Daniel Grana,Daniel Graña,2018-08-15 01:09:23-07:00,2018-08-15 08:54:18-03:00
+tests/test_crawler.py,Andrey Rahmatullin,Andrey Rakhmatullin,2019-12-13 18:04:05+05:00,2019-12-13 18:07:47+05:00
+tests/test_crawler.py,Erik Kemperman,Adrián Chaves,2021-10-15 16:36:41+02:00,2021-10-15 17:25:22+02:00
+tests/test_crawler.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+tests/test_crawler.py,Andrey Rakhmatullin,Laerte Pereira,2023-10-17 23:56:54+04:00,2023-10-17 18:58:27-03:00
+tests/test_crawler.py,Andrey Rakhmatullin,Adrián Chaves,2023-11-16 19:15:30+04:00,2023-11-16 19:16:52+04:00
+tests/test_downloader_handlers.py,Rolando Espinoza,Paul Tremberth,2017-04-27 13:28:16-03:00,2017-04-27 23:22:25+02:00
+tests/test_downloader_handlers.py,Jakob de Maeyer,Daniel Graña,2018-08-15 01:33:38-03:00,2018-08-15 01:35:01-03:00
+tests/test_downloader_handlers.py,Marc Hernández,Andrey Rakhmatullin,2019-12-17 13:53:15+01:00,2019-12-18 12:07:08+05:00
+tests/test_downloader_handlers.py,Aditya,Adrián Chaves,2020-07-30 15:45:27+05:30,2020-07-30 13:39:30+02:00
+tests/test_downloader_handlers.py,Aditya,adityaa30,2020-08-16 11:26:32+05:30,2020-08-17 04:18:03+05:30
+tests/test_downloader_handlers.py,Ammar Najjar,nyov,2020-08-26 07:11:05+02:00,2020-08-26 13:08:14+02:00
+tests/test_downloadermiddleware_httpcache.py,Roy Healy,Roy,2019-10-27 17:02:17+00:00,2019-10-27 17:39:47+00:00
+tests/test_downloadermiddleware_httpcompression.py,P. Chen,GeorgeA92,2020-10-05 23:55:48+01:00,2020-10-06 18:59:57+03:00
+tests/test_downloadermiddleware_httpcompression.py,GeorgeA92,P. Chen,2020-10-06 18:59:57+03:00,2020-10-06 19:53:40+01:00
+tests/test_downloadermiddleware_robotstxt.py,Julia Medina,Victoria Terenina (torymur),2015-04-29 21:24:30-03:00,2015-04-30 16:28:57+03:00
+tests/test_downloadermiddleware_robotstxt.py,Jalil SA,Cj Malone,2023-01-25 14:25:15-06:00,2023-01-26 19:51:20+00:00
+tests/test_dupefilters.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+tests/test_engine.py,Eugenio Lacuesta,Adrián Chaves,2020-01-27 12:08:56-03:00,2020-01-27 12:08:56-03:00
+tests/test_engine.py,Adrián Chaves,Eugenio Lacuesta,2020-01-27 12:08:56-03:00,2020-01-27 12:28:54-03:00
+tests/test_engine.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:15:07+04:00,2023-01-25 14:25:15-06:00
+tests/test_exporters.py,Elias Dorneles,Daniel Graña,2016-01-25 22:24:35-02:00,2016-01-26 00:26:27-03:00
+tests/test_exporters.py,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:30:38+05:00,2024-02-28 16:36:19-03:00
+tests/test_feedexport.py,Jakob de Maeyer,Daniel Grana,2018-08-15 01:35:01-03:00,2018-08-15 02:23:07-07:00
+tests/test_feedexport.py,Daniel Grana,Daniel Graña,2018-08-15 02:23:07-07:00,2018-08-15 11:59:09-03:00
+tests/test_feedexport.py,Júlio César Batista,Victor Torres,2019-02-08 09:45:10-02:00,2019-02-08 15:51:23-02:00
+tests/test_feedexport.py,purvaudai,Adrián Chaves,2019-10-22 16:57:14+05:30,2019-10-22 15:12:52+02:00
+tests/test_feedexport.py,BroodingKangaroo,Adrián Chaves,2020-07-02 12:38:08+03:00,2020-07-03 00:56:24+02:00
+tests/test_feedexport.py,Adrián Chaves,BroodingKangaroo,2020-07-03 00:56:24+02:00,2020-07-03 10:24:13+03:00
+tests/test_feedexport.py,nyov,Artur Shellunts,2020-07-21 23:38:02+02:00,2020-07-21 23:39:04+02:00
+tests/test_feedexport.py,Ammar Najjar,nyov,2020-08-26 07:11:05+02:00,2020-08-26 13:08:14+02:00
+tests/test_feedexport.py,D R Siddhartha,Türkalp Burak KAYRANCIOĞLU,2021-07-13 17:22:29+02:00,2021-07-14 10:00:43+02:00
+tests/test_feedexport.py,Adrián Chaves,kenshi kikuchi,2023-03-15 16:38:13+01:00,2023-03-16 17:16:14+09:00
+tests/test_feedexport.py,kenshi kikuchi,jazzthief,2023-03-16 17:16:14+09:00,2023-03-16 17:24:11+01:00
+tests/test_http2_client_protocol.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:15:10+04:00,2023-01-25 14:25:15-06:00
+tests/test_http_request.py,Maram Sumanth,kasun Herath,2019-01-13 23:50:31+05:30,2019-01-14 23:03:14+05:30
+tests/test_http_request.py,Adrián Chaves,Andrey Rakhmatullin,2019-11-13 10:52:05+01:00,2019-11-14 13:45:37+05:00
+tests/test_http_request.py,Adrián Chaves,Emmanuel Rondan,2023-01-19 17:14:18+01:00,2023-01-20 10:55:46-03:00
+tests/test_http_request.py,Laerte Pereira,noon,2024-02-20 12:47:29+01:00,2024-02-20 23:58:39+01:00
+tests/test_item.py,Adrián Chaves,Andrey Rakhmatullin,2019-11-13 10:52:05+01:00,2019-11-14 13:45:37+05:00
+tests/test_linkextractors.py,Rafał Gutkowski,Mikhail Korobov,2015-08-27 20:13:47+02:00,2015-08-28 04:11:30+05:00
+tests/test_linkextractors.py,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:31:21+05:00,2024-02-28 16:36:19-03:00
+tests/test_loader_deprecated.py,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:31:21+05:00,2024-02-28 16:36:19-03:00
+tests/test_logformatter.py,watsta,Eugenio Lacuesta,2019-09-16 14:12:04+02:00,2019-09-16 12:12:10-03:00
+tests/test_logformatter.py,Adrián Chaves,Andrey Rahmatullin,2019-11-18 17:16:09+01:00,2019-11-19 10:43:30+01:00
+tests/test_middleware.py,Ammar Najjar,nyov,2020-08-26 07:11:05+02:00,2020-08-26 13:08:14+02:00
+tests/test_pipeline_crawl.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+tests/test_pipeline_files.py,Marc Hernández,Marc Hernandez Cabot,2020-02-21 06:05:31+01:00,2020-02-21 08:39:14+01:00
+tests/test_pipeline_files.py,Adrián Chaves,Alex,2023-01-19 17:14:18+01:00,2023-01-20 02:17:02-08:00
+tests/test_pipeline_images.py,Adrián Chaves,Emmanuel Rondan,2023-01-19 17:14:18+01:00,2023-01-20 10:55:46-03:00
+tests/test_pipeline_media.py,Bernardas,Paul Tremberth,2017-03-03 15:52:05+01:00,2017-03-03 15:52:05+01:00
+tests/test_pipeline_media.py,Andrey Rakhmatullin,Laerte Pereira,2024-02-28 14:30:38+05:00,2024-02-28 16:36:19-03:00
+tests/test_scheduler.py,Mikhail Korobov,Vostretsov Nikita,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+tests/test_scheduler.py,Vostretsov Nikita,Lucy Wang,2019-03-25 16:08:40+03:00,2019-03-25 16:08:40+03:00
+tests/test_spider.py,kirankoduru,Kiran Koduru,2017-08-05 15:40:38-04:00,2017-08-05 15:40:38-04:00
+tests/test_spider.py,Adrián Chaves,Mabel Villalba,2019-11-21 14:21:17+01:00,2019-11-21 17:06:47+01:00
+tests/test_spiderloader/__init__.py,Adrián Chaves,Matthew Donoughe,2022-10-17 18:04:29+05:00,2022-10-17 17:40:10-04:00
+tests/test_spidermiddleware.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:15:10+04:00,2023-01-25 14:25:15-06:00
+tests/test_squeues.py,Marc Hernandez Cabot,Vostretsov Nikita,2020-02-22 12:32:38+01:00,2020-02-22 17:02:57+05:00
+tests/test_utils_datatypes.py,Eugenio Lacuesta,elacuesta,2019-11-04 10:35:58-03:00,2019-11-04 15:34:27-03:00
+tests/test_utils_datatypes.py,elacuesta,Eugenio Lacuesta,2019-11-04 15:34:27-03:00,2019-11-05 09:45:51-03:00
+tests/test_utils_defer.py,Marc Hernández,Marc Hernandez Cabot,2020-02-21 06:05:31+01:00,2020-02-21 08:39:14+01:00
+tests/test_utils_iterators.py,Adrián Chaves,Ammar Najjar,2020-08-25 17:49:17+02:00,2020-08-26 07:11:05+02:00
+tests/test_utils_iterators.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:14:24+04:00,2023-01-25 14:25:15-06:00
+tests/test_utils_misc/__init__.py,Adrián Chaves,Andrey Rakhmatullin,2019-11-13 10:52:05+01:00,2019-11-14 13:45:39+05:00
+tests/test_utils_misc/__init__.py,Eugenio Lacuesta,Marc Hernández,2020-05-14 10:40:50-03:00,2020-05-15 15:23:09+02:00
+tests/test_utils_python.py,Andrey Rakhmatullin,Adrián Chaves,2019-11-14 13:45:37+05:00,2019-11-14 10:24:31+01:00
+tests/test_utils_python.py,Adrián Chaves,Andrey Rakhmatullin,2019-11-14 10:24:31+01:00,2019-11-14 22:50:53+05:00
+tests/test_utils_python.py,Adrián Chaves,Andrey Rakhmatullin,2019-11-18 10:58:47+01:00,2019-11-19 13:52:49+05:00
+tests/test_utils_python.py,Kshitij Sharma,Adrián Chaves,2020-07-29 18:05:33+05:30,2020-07-30 13:39:30+02:00
+tests/test_utils_python.py,Andrey Rakhmatullin,Jalil SA,2023-01-25 22:14:24+04:00,2023-01-25 14:25:15-06:00
+tests/test_utils_reqser.py,Iván de Prado,Adrián Chaves,2020-08-25 11:31:20+01:00,2020-08-25 13:57:48+02:00
+tests/test_utils_url.py,Marc Hernández,Marc Hernandez Cabot,2020-02-21 06:05:31+01:00,2020-02-21 08:39:14+01:00
+tests/test_webclient.py,Marc Hernández,Marc Hernandez Cabot,2020-02-21 06:05:31+01:00,2020-02-21 08:39:14+01:00
+tox.ini,Daniel Graña,Mikhail Korobov,2014-07-31 17:30:45-03:00,2014-08-01 23:12:52+06:00
+tox.ini,Aditya,Adrián Chaves,2020-08-27 15:12:22+05:30,2020-08-27 15:43:43+05:00
+tox.ini,vinayak,Adrián Chaves,2021-03-18 09:40:03-03:00,2021-03-18 23:53:58+01:00
+tox.ini,Andrey Rahmatullin,Andrey Rakhmatullin,2022-02-07 21:25:08+01:00,2022-02-08 21:06:02+05:00
+tox.ini,Andrey Rahmatullin,Maxime Nannan,2022-05-20 07:17:09+02:00,2022-05-20 08:30:06+02:00
+tox.ini,Adrián Chaves,Emmanuel Rondan,2023-01-19 20:37:24+01:00,2023-01-20 10:55:46-03:00
+tox.ini,Andrey Rakhmatullin,Adrián Chaves,2023-04-11 13:47:41+02:00,2023-04-12 09:28:28+02:00
+tox.ini,Andrey Rakhmatullin,Laerte Pereira,2024-03-05 22:23:48+05:00,2024-03-05 20:24:17-03:00
+tox.ini,Vsevolod Breus,Andrey Rakhmatullin,2024-10-16 10:03:16+02:00,2024-10-16 14:50:57+05:00
+tox.ini,Adrián Chaves,Andrey Rakhmatullin,2025-03-11 14:53:42+01:00,2025-03-12 01:18:30+05:00

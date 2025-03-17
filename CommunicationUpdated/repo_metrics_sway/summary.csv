@@ -1,0 +1,451 @@
+Field,Value
+Commits Overview,
+Total Commits,3264
+Total Unique Authors,140
+,
+Top 10 Contributors,
+Author,Commits
+Mohammad Fawaz,5063
+Emily Herbert,3378
+Igor Rončević,2892
+Daniel Frederico Lins Leite,2880
+IGI-111,2727
+Kaya Gökalp,2611
+Marcos Henrich,2357
+João Matos,2160
+Alex Hansen,2089
+Joshua Batty,2000
+,
+Communication Events,Total: 2238
+"Author1,Author2",Events
+"Emily Herbert,Mohammad Fawaz",84
+"SwayStar123,Igor Rončević",81
+"Mohammad Fawaz,Emily Herbert",53
+"Alex Hansen,Emily Herbert",51
+"John Adler,Alex Hansen",47
+"Kaya Gökalp,IGI-111",47
+"Alex Hansen,John Adler",44
+"IGI-111,Joshua Batty",38
+"Joshua Batty,Emily Herbert",36
+"Marcos Henrich,IGI-111",35
+"mitchmindtree,Mohammad Fawaz",35
+"Emily Herbert,João Matos",35
+"IGI-111,Kaya Gökalp",33
+"Joshua Batty,IGI-111",33
+"Marcos Henrich,João Matos",28
+"Sophie Dankel,Kaya Gökalp",28
+"Emily Herbert,Toby Hutton",26
+"Nick Furfaro,Mohammad Fawaz",26
+"Sophie Dankel,Joshua Batty",25
+"Kaya Gökalp,mitchmindtree",24
+"Mazdak Farrokhzad,Emily Herbert",23
+"Mohammad Fawaz,Kaya Gökalp",23
+"Mohammad Fawaz,Toby Hutton",23
+"João Matos,Mohammad Fawaz",20
+"IGI-111,Emily Herbert",20
+"Alex Hansen,Mohammad Fawaz",19
+"Kaya Gökalp,Marcos Henrich",19
+"Kaya Gökalp,Mohammad Fawaz",18
+"Joshua Batty,mitchmindtree",17
+"Mohammad Fawaz,mitchmindtree",16
+"Emily Herbert,Chris O'Brien",16
+"Emily Herbert,Mazdak Farrokhzad",15
+"Chris O'Brien,Kaya Gökalp",14
+"Mohammad Fawaz,bing",14
+"Emily Herbert,Kaya Gökalp",14
+"mitchmindtree,Kaya Gökalp",14
+"IGI-111,Marcos Henrich",14
+"Kaya Gökalp,Chris O'Brien",14
+"Chris O'Brien,Alex Hansen",13
+"Marcos Henrich,SwayStar123",12
+"Emily Herbert,Anton Trunov",12
+"Daniel Frederico Lins Leite,João Matos",12
+"Kaya Gökalp,Joshua Batty",12
+"Toby Hutton,Mohammad Fawaz",12
+"Andrew Cann,Emily Herbert",11
+"bing,Mohammad Fawaz",11
+"Mazdak Farrokhzad,mitchmindtree",11
+"Emily Herbert,IGI-111",11
+"Brandon Kite,João Matos",11
+"JC,Emily Herbert",11
+"João Matos,Emily Herbert",11
+"Joshua Batty,Kaya Gökalp",11
+"Mohammad Fawaz,Alex Hansen",11
+"Chris O'Brien,Emily Herbert",10
+"Daniel Frederico Lins Leite,Igor Rončević",10
+"Chris O'Brien,mitchmindtree",10
+"Emily Herbert,Vaivaswatha N",10
+"mitchmindtree,Emily Herbert",10
+"João Matos,Igor Rončević",10
+"Igor Rončević,Kaya Gökalp",10
+"Emily Herbert,mitchmindtree",10
+"Mohammad Fawaz,Vaivaswatha N",9
+"Sophie Dankel,IGI-111",9
+"Toby Hutton,Alex Hansen",9
+"Brandon Kite,Mohammad Fawaz",9
+"Daniel Frederico Lins Leite,Kaya Gökalp",9
+"João Matos,Joshua Batty",9
+"Igor Rončević,Marcos Henrich",9
+"IGI-111,João Matos",9
+"Alex Hansen,Toby Hutton",9
+"Joshua Batty,Sophie Dankel",8
+"Kaya Gökalp,bing",8
+"João Matos,IGI-111",8
+"IGI-111,Sophie Dankel",8
+"Mohammad Fawaz,João Matos",8
+"Emily Herbert,Alex Hansen",8
+"Toby Hutton,IGI-111",8
+"Toby Hutton,Vaivaswatha N",8
+"Mohammad Fawaz,John Adler",8
+"João Matos,Daniel Frederico Lins Leite",8
+"Mohammad Fawaz,Nick Furfaro",8
+"Chris O'Brien,Mohammad Fawaz",8
+"Mohammad Fawaz,Chris O'Brien",7
+"Marcos Henrich,Igor Rončević",7
+"Alex Hansen,Nick Furfaro",7
+"João Matos,mitchmindtree",7
+"IGI-111,Anton Trunov",7
+"Vaivaswatha N,Emily Herbert",7
+"Mohammad Fawaz,Joshua Batty",7
+"Kaya Gökalp,Sophie Dankel",6
+"Toby Hutton,Chris O'Brien",6
+"Alex Hansen,Andrew Cann",6
+"Toby Hutton,Emily Herbert",6
+"mitchmindtree,John Adler",6
+"mitchmindtree,Nick Furfaro",6
+"Daniel Frederico Lins Leite,Marcos Henrich",6
+"Chris O'Brien,João Matos",6
+"mitchmindtree,Toby Hutton",6
+"John Adler,Mohammad Fawaz",6
+"Call Delegation,IGI-111",5
+"Joshua Batty,João Matos",5
+"mitchmindtree,Vaivaswatha N",5
+"Emily Herbert,Nick Furfaro",5
+"Joshua Batty,Chris O'Brien",5
+"JC,Kaya Gökalp",5
+"John Adler,Joshua Batty",5
+"João Matos,Marcos Henrich",5
+"Daniel Frederico Lins Leite,IGI-111",5
+"Mohammad Fawaz,Emir",5
+"Emily Herbert,Joshua Batty",5
+"Braqzen,Mohammad Fawaz",5
+"hal3e,Cameron Carstens",5
+"Sophie Dankel,bing",5
+"Chris O'Brien,Joshua Batty",4
+"Sophie Dankel,Igor Rončević",4
+"Toby Hutton,Andrew Cann",4
+"Toby Hutton,John Adler",4
+"Vaivaswatha N,mitchmindtree",4
+"Kaya Gökalp,Emily Herbert",4
+"rostyslavtyshko,Mazdak Farrokhzad",4
+"João Matos,Kaya Gökalp",4
+"Joshua Batty,Igor Rončević",4
+"Joshua Batty,John Adler",4
+"Vaivaswatha N,Daniel Frederico Lins Leite",4
+"mitchmindtree,Mazdak Farrokhzad",4
+"Anton Trunov,Emily Herbert",4
+"Emily Herbert,Sophie Dankel",4
+"Mazdak Farrokhzad,Vaivaswatha N",4
+"Nick Furfaro,Toby Hutton",4
+"Nick Furfaro,JC",4
+"Rodrigo Araújo,Alex Hansen",4
+"Igor Rončević,IGI-111",4
+"Emily Herbert,John Adler",4
+"Mazdak Farrokhzad,Anton Trunov",4
+"Andrew Cann,Joshua Batty",4
+"Toby Hutton,Sophie Dankel",4
+"jjcnn,IGI-111",3
+"seem-less,Mohammad Fawaz",3
+"mitchmindtree,Joshua Batty",3
+"Vaivaswatha N,Kaya Gökalp",3
+"Braqzen,Nick Furfaro",3
+"Toby Hutton,JC",3
+"Andrew Cann,Mohammad Fawaz",3
+"Andrew Cann,Vaivaswatha N",3
+"Brandon,César D. Rodas",3
+"jjcnn,Daniel Frederico Lins Leite",3
+"jjcnn,Marcos Henrich",3
+"Andrew Cann,Alex Hansen",3
+"hal3e,Vaivaswatha N",3
+"bing,JC",3
+"Daniel Frederico Lins Leite,Anton Trunov",3
+"Simon Roberts,Nick Furfaro",3
+"Sophie Dankel,Emily Herbert",3
+"Chris O'Brien,IGI-111",3
+"Vaivaswatha N,João Matos",3
+"Mazdak Farrokhzad,Marcos Henrich",3
+"IGI-111,Igor Rončević",3
+"Hannes Karppila,alex-matthe",3
+"Daniel Frederico Lins Leite,Vaivaswatha N",3
+"Mohammad Fawaz,Sophie Dankel",3
+"Chris-san,Cesar",3
+"Nick Furfaro,Emily Herbert",3
+"Elvis,Toby Hutton",3
+"Elvis,Rodrigo Araújo",3
+"Mitchell Mackert,Mazdak Farrokhzad",3
+"Daniel Frederico Lins Leite,Joshua Batty",3
+"Marcos Henrich,Sophie Dankel",3
+"Green Baneling,Kaya Gökalp",3
+"IGI-111,Daniel Frederico Lins Leite",3
+"Joshua Batty,Mohammad Fawaz",3
+"Kaya Gökalp,João Matos",3
+"Igor Rončević,Joshua Batty",3
+"Marcos Henrich,Daniel Frederico Lins Leite",3
+"Marcos Henrich,Cameron Carstens",3
+"Igor Rončević,Daniel Frederico Lins Leite",3
+"JC,Mohammad Fawaz",3
+"John Adler,Chris O'Brien",3
+"Kaya Gökalp,JC",3
+"Kaya Gökalp,Alex Hansen",3
+"John Adler,mitchmindtree",3
+"mitchmindtree,seem-less",3
+"Joshua Batty,Toby Hutton",3
+"Alex Hansen,Chris O'Brien",2
+"Alex Hansen,Hannes Karppila",2
+"Alex Hansen,Rodrigo Araújo",2
+"mitchmindtree,p0ry-g0n",2
+"Marcos Henrich,jjcnn",2
+"John Adler,Nick Furfaro",2
+"Kaya Gökalp,Nick Furfaro",2
+"IGI-111,Mohammad Fawaz",2
+"Marcos Henrich,Kaya Gökalp",2
+"Marcos Henrich,Mazdak Farrokhzad",2
+"Marcos Henrich,Joshua Batty",2
+"Mazdak Farrokhzad,Chris O'Brien",2
+"JC,IGI-111",2
+"Joshua Batty,Daniel Frederico Lins Leite",2
+"Joshua Batty,Mazdak Farrokhzad",2
+"JC,Toby Hutton",2
+"João Matos,Sophie Dankel",2
+"Kaya Gökalp,Andrew Cann",2
+"João Matos,SwayStar123",2
+"João Matos,Vaivaswatha N",2
+"João Matos,r-sitko",2
+"Green Baneling,Vaivaswatha N",2
+"IGI-111,JC",2
+"Green Baneling,IGI-111",2
+"Green Baneling,Mohammad Fawaz",2
+"Victor Nepveu,Toby Hutton",2
+"Victor Lopes,Elvis",2
+"Vaivaswatha N,Mohammad Fawaz",2
+"Vaivaswatha N,Mazdak Farrokhzad",2
+"Braqzen,Alex Hansen",2
+"bing,Braqzen",2
+"Brandon Kite,JC",2
+"Andrew Cann,João Matos",2
+"Cesar,Chris-san",2
+"Chris O'Brien,JC",2
+"Cameron Carstens,Sarah Schwartz",2
+"Sophie Dankel,Mohammad Fawaz",2
+"Chris O'Brien,Toby Hutton",2
+"Chris O'Brien,Vaivaswatha N",2
+"Sophie Dankel,Alex Hansen",2
+"Sophie Dankel,João Matos",2
+"Mohammad Fawaz,Oleksii Filonenko",2
+"Nick Furfaro,Sophie Dankel",2
+"Nick Furfaro,João Matos",2
+"Nick Furfaro,IGI-111",2
+"mitchmindtree,Green Baneling",2
+"mitchmindtree,Alex Hansen",2
+"yudrywet,João Matos",2
+"seem-less,Kaya Gökalp",2
+"Andrew Cann,JC",2
+"Alfie John,Kaya Gökalp",2
+"hal3e,Joshua Batty",2
+"bing,Kaya Gökalp",2
+"SwayStar123,Marcos Henrich",2
+"Vaivaswatha N,Andrew Cann",2
+"Vaivaswatha N,Joshua Batty",2
+"Yonghui Lin,JC",2
+"Nick Furfaro,bing",2
+"Daniel Frederico Lins Leite,Sophie Dankel",2
+"Mohammad Fawaz,JC",2
+"Mazdak Farrokhzad,alphak3y",2
+"Nick Furfaro,mitchmindtree",2
+"Mohammad Fawaz,amadeusluntz",2
+"Nick Furfaro,Braqzen",2
+"Oleksii Filonenko,Mohammad Fawaz",2
+"roy_fuel,Elliot",1
+"r-sitko,Nick Furfaro",1
+"mo-hak,Igor Rončević",1
+"mitchmindtree,Victor Nepveu",1
+"Alex Hansen,ControlCplusControlV",1
+"rostyslavtyshko,Emily Herbert",1
+"rashad,bing",1
+"rakita,Emily Herbert",1
+"rakita,Alex Hansen",1
+"Kaya Gökalp,Cameron Carstens",1
+"Kaya Gökalp,Anton Trunov",1
+"Joshua Batty,bing",1
+"Alex Hansen,Victor Nepveu",1
+"mitchmindtree,Sophie Dankel",1
+"Alex Hansen,m-fawaz",1
+"Alex Hansen,bing",1
+"Alex Hansen,Kaya Gökalp",1
+"Alex Hansen,Simon Roberts",1
+"Alex Hansen,Elvis",1
+"Alex Hansen,JC",1
+"Mazdak Farrokhzad,Toby Hutton",1
+"Mazdak Farrokhzad,Mohammad Fawaz",1
+"Hannes Karppila,mitchmindtree",1
+"Hannes Karppila,Toby Hutton",1
+"Green Baneling,João Matos",1
+"Mazdak Farrokhzad,João Matos",1
+"Emily Herbert,r-sitko",1
+"Green Baneling,JC",1
+"Marcos Henrich,mitchmindtree",1
+"Matt,Mohammad Fawaz",1
+"Kaya Gökalp,zees-dev",1
+"Igor Rončević,Cameron Carstens",1
+"Marcos Henrich,JC",1
+"Igor Rončević,jjcnn",1
+"Igor Rončević,Cesar",1
+"Marcos Henrich,Mohammad Fawaz",1
+"Kaya Gökalp,Mazdak Farrokhzad",1
+"Kaya Gökalp,levisyin",1
+"IGI-111,Vaivaswatha N",1
+"Igor Rončević,Anton Trunov",1
+"Joshua Batty,Alex Hansen",1
+"John Adler,roy_fuel",1
+"Kaya Gökalp,Halimao",1
+"John Adler,Toby Hutton",1
+"Joshua Batty,Andrew Cann",1
+"Joshua Batty,Camila",1
+"JC,Hannes Karppila",1
+"JC,Brandon Kite",1
+"JC,João Matos",1
+"JC,rashad",1
+"John Adler,Braqzen",1
+"John Adler,Nick",1
+"Joshua Batty,SwayStar123",1
+"Joshua Batty,Vaivaswatha N",1
+"Joshua Batty,Nick Furfaro",1
+"João Matos,JC",1
+"João Matos,Alex Hansen",1
+"João Matos,Brandon Kite",1
+"João Matos,Emir",1
+"Kaya Gökalp,Daniel Frederico Lins Leite",1
+"César D. Rodas,Cameron Carstens",1
+"ControlCplusControlV,Mohammad Fawaz",1
+"César D. Rodas,hal3e",1
+"Daniel Frederico Lins Leite,Hannes Karppila",1
+"Mohammad Fawaz,SwayStar123",1
+"Mohammad Fawaz,rostyslavtyshko",1
+"Nick Furfaro,Andrew Cann",1
+"Mitchell Mackert,Nick Furfaro",1
+"Riley,João Matos",1
+"Nick Furfaro,ControlCplusControlV",1
+"Nick Furfaro,Alex Hansen",1
+"Mohammad Fawaz,Mitchell Mackert",1
+"Daniel Frederico Lins Leite,toofooboo",1
+"Daniel Frederico Lins Leite,jjcnn",1
+"Daniel Frederico Lins Leite,huajin tong",1
+"Emily Herbert,bing",1
+"Mohammad Fawaz,Mazdak Farrokhzad",1
+"Mohammad Fawaz,Marcos Henrich",1
+"Elliot,rashad",1
+"Deniz Surmeli,João Matos",1
+"Mohammad Fawaz,IGI-111",1
+"Emily Herbert,Andrew Cann",1
+"Emily Herbert,JC",1
+"Mohammad Fawaz,Brandon Kite",1
+"SwayStar123,Braqzen",1
+"Chris O'Brien,ControlCplusControlV",1
+"Chris O'Brien,Anton Trunov",1
+"Chris O'Brien,Andrew Cann",1
+"Cameron Carstens,SwayStar123",1
+"Cameron Carstens,Vaivaswatha N",1
+"Cameron Carstens,Nick",1
+"Cameron Carstens,Riley",1
+"Sophie Dankel,Mike Christopher",1
+"Sophie Dankel,Samuel Moelius",1
+"Cameron Carstens,IGI-111",1
+"Cameron Carstens,GearedPaladin",1
+"Simon,Kaya Gökalp",1
+"Rootul Patel,Mohammad Fawaz",1
+"Simon Roberts,Mohammad Fawaz",1
+"Sophie Dankel,Daniel Frederico Lins Leite",1
+"Chris O'Brien,rostyslavtyshko",1
+"Chris O'Brien,r-sitko",1
+"Chris-san,João Matos",1
+"Chris-san,Joshua Batty",1
+"Brandon Kite,bing",1
+"Brandon Kite,rashad",1
+"Braqzen,IGI-111",1
+"Brandon Kite,Kaya Gökalp",1
+"Brandon Kite,Alex Hansen",1
+"Vishwa Mehta,mitchmindtree",1
+"Vaivaswatha N,Toby Hutton",1
+"Vaivaswatha N,Marcos Henrich",1
+"Toby Hutton,Victor Nepveu",1
+"Vaivaswatha N,Chris-san",1
+"Toby Hutton,mitchmindtree",1
+"Vaivaswatha N,Alex Hansen",1
+"bing,João Matos",1
+"bing,Chris O'Brien",1
+"bing,Brandon Kite",1
+"alex-matthe,John Adler",1
+"Cameron Carstens,Daniel Frederico Lins Leite",1
+"alex-matthe,Emily Herbert",1
+"Braqzen,rostyslavtyshko",1
+"Braqzen,John Adler",1
+"Brandon Kite,John Adler",1
+"hal3e,Daniel Bate",1
+"Andrew Cann,Nick Furfaro",1
+"Andrew Cann,bing",1
+"Alfie John,Joshua Batty",1
+"bing,Vishwa Mehta",1
+"bing,rashad",1
+"bing,Toby Hutton",1
+"iqdecay,Mohammad Fawaz",1
+"Anton Trunov,bing",1
+"Anton Trunov,Mohammad Fawaz",1
+"Anton Trunov,IGI-111",1
+"levisyin,Kaya Gökalp",1
+"jjcnn,mo-hak",1
+"jjcnn,Igor Rončević",1
+"jjcnn,João Matos",1
+"roy_fuel,Toby Hutton",1
+"mitchmindtree,IGI-111",1
+"sarahschwartz,Sophie Dankel",1
+"sarahschwartz,Nick Furfaro",1
+"Alex Hansen,Brandon Kite",1
+"seem-less,bing",1
+"zees-dev,Sophie Dankel",1
+"zhou fan,JC",1
+,
+Committer Timezone Distribution,Unique Timezones: 20
+Timezone,Commits
++00:00,1005
++01:00,214
++02:00,154
++03:00,69
++03:30,1
++04:00,104
++05:30,46
++07:00,4
++08:00,51
++09:00,3
++10:00,202
++11:00,245
++13:00,8
+-03:00,22
+-04:00,349
+-05:00,289
+-06:00,74
+-07:00,295
+-08:00,128
+-10:00,1
+,
+Contributors Experience,Average across 9888 files: 83.56%
+File,Top Contributor Share (%)
+src/main.rs,100.00
+core_lang/src/asm_generation/declaration/fn_decl.rs,100.00
+core_lang/src/asm_generation/declaration/var_decl.rs,100.00
+core_lang/src/control_flow_analysis/mod.rs,100.00
+core_lang/src/semantics/ast_node/code_block.rs,100.00
+core_lang/src/semantics/ast_node/declaration.rs,100.00
+core_lang/src/semantics/ast_node/expression/enum_instantiation.rs,100.00
+core_lang/src/semantics/ast_node/expression/match_branch.rs,100.00
+core_lang/src/semantics/ast_node/expression/match_condition.rs,100.00
+core_lang/src/semantics/ast_node/expression/mod.rs,100.00

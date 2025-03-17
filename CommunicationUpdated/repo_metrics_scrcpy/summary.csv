@@ -1,0 +1,153 @@
+Field,Value
+Commits Overview,
+Total Commits,2780
+Total Unique Authors,158
+,
+Top 10 Contributors,
+Author,Commits
+Romain Vimont,6778
+Simon Chan,141
+Yu-Chen Lin,42
+brunoais,29
+Andrew Gunnerson,26
+Tzah Mazuz,21
+xeropresence,17
+e_vigurskiy,16
+George Stamoulis,16
+Avinash Sonawane,13
+,
+Communication Events,Total: 307
+"Author1,Author2",Events
+"Simon Chan,Romain Vimont",61
+"Romain Vimont,Simon Chan",48
+"Romain Vimont,Andrew Gunnerson",12
+"Tzah Mazuz,Romain Vimont",10
+"Alynx Zhou,Romain Vimont",8
+"megapro17,Romain Vimont",7
+"Ivan Gorinov,Romain Vimont",6
+"Diego Fernando Díaz A,Romain Vimont",5
+"Romain Vimont,Withoutruless",5
+"Romain Vimont,Marco Martinelli",5
+"yuchenlin,Romain Vimont",5
+"Romain Vimont,Diego Fernando Díaz A",5
+"Yu-Chen Lin,Romain Vimont",4
+"Marti Raudsepp,Romain Vimont",4
+"Andy Rich,Romain Vimont",3
+"CapsLock,Romain Vimont",3
+"Romain Vimont,beango1",3
+"npes87184,Romain Vimont",3
+"e_vigurskiy,Romain Vimont",3
+"Romain Vimont,xeropresence",2
+"Romain Vimont,Kaiming Hu",2
+"Romain Vimont,Yu-Chen Lin",2
+"Romain Vimont,Yan",2
+"Romain Vimont,act262",2
+"Romain Vimont,Alynx Zhou",2
+"Romain Vimont,Adonis Najimi",2
+"Romain Vimont,Alberto Pasqualetto",2
+"Romain Vimont,yangfl",2
+"aruko-210,Romain Vimont",2
+"brunoais,Romain Vimont",2
+"Romain Vimont,wuderek",2
+"Andrew Gunnerson,Romain Vimont",2
+"Adonis Najimi,Romain Vimont",2
+"Romain Vimont,Genxster1998",2
+"AreYouLoco?,Ivan Keliukh",1
+"Chris Knowles,Romain Vimont",1
+"Cccc_owo,Romain Vimont",1
+"Arne Schwabe,Romain Vimont",1
+"Alessandro Sarretta,John Veness",1
+"Addison Snelling,Romain Vimont",1
+"Kaiming Hu,Romain Vimont",1
+"Jozef Hollý,Yu-Chen Lin",1
+"Fr_Dae,Romain Vimont",1
+"Al Grimes,Romain Vimont",1
+"Alberto Pasqualetto,Pedro Miguel A Carraro",1
+"Alberto Pasqualetto,Secreto31126",1
+"Addison Snelling,Chih-Hsuan Yen",1
+"Romain Vimont,Flying Press",1
+"Romain Vimont,CapsLock",1
+"Romain Vimont,Anric",1
+"Romain Vimont,Arne Schwabe",1
+"Ray Foss,Romain Vimont",1
+"RaenonX JELLYCAT,Romain Vimont",1
+"Romain Vimont,Addison Snelling",1
+"RipleyTom,Romain Vimont",1
+"Pierre Gordon,Sean",1
+"Pierre Gordon,Romain Vimont",1
+"Kid,Romain Vimont",1
+"Luís Ferreira,Romain Vimont",1
+"Michael Gangolf,Romain Vimont",1
+"Natan Junges,Simon Chan",1
+"NextDev65,Romain Vimont",1
+"Owen Campbell,Pierre Gordon",1
+"Flying Press,Romain Vimont",1
+"Hyperterminal Byte,kosantosbik",1
+"Grief,npes87184",1
+"Genxster1998,Romain Vimont",1
+"Romain Vimont,Stepan Salenikovich",1
+"Romain Vimont,Siddharth Dushantha",1
+"Romain Vimont,Ruoyu Zhong",1
+"Romain Vimont,RipleyTom",1
+"Romain Vimont,Muvaffak Onus",1
+"Romain Vimont,Owen Campbell",1
+"Romain Vimont,Ray Foss",1
+"Romain Vimont,Jonathan",1
+"Romain Vimont,Kartik Kushwaha",1
+"Romain Vimont,Marti Raudsepp",1
+"Romain Vimont,Michael Gangolf",1
+"Romain Vimont,George Stamoulis",1
+"Romain Vimont,megapro17",1
+"Romain Vimont,martin f. krafft",1
+"Romain Vimont,clesiemo3",1
+"Romain Vimont,brunoais",1
+"Romain Vimont,aruko-210",1
+"Romain Vimont,Win7GM",1
+"Romain Vimont,Wouter Schoot",1
+"Romain Vimont,Yogev Boaron Ben-Har",1
+"Romain Vimont,Tzah Mazuz",1
+"Romain Vimont,Tomás Raiti",1
+"Romain Vimont,Wirtos_new",1
+"Romain Vimont,Pierre Gordon",1
+"Sean,Viktor Oreshkin",1
+"Romain Vimont,yuchenlin",1
+"Romain Vimont,npes87184",1
+"Romain Vimont,senta2006",1
+"Wouter Schoot,Romain Vimont",1
+"Withoutruless,Romain Vimont",1
+"Viktor Oreshkin,Romain Vimont",1
+"Tomás Raiti,Romain Vimont",1
+"Siddharth Dushantha,Romain Vimont",1
+"Simon Chan,Andrew Gunnerson",1
+"Romain Vimont,zzndb",1
+"antoninsmetana,Romain Vimont",1
+"latreta,Romain Vimont",1
+"inson1,Romain Vimont",1
+"hltdev8642,Romain Vimont",1
+"quyleanh,Romain Vimont",1
+"sam80180,Romain Vimont",1
+"xeropresence,brunoais",1
+"yangfl,Romain Vimont",1
+"yanuarakhid,Romain Vimont",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++01:00,1666
++02:00,1094
++08:00,14
+-04:00,2
+-05:00,1
+-07:00,3
+,
+Contributors Experience,Average across 581 files: 95.70%
+File,Top Contributor Share (%)
+Makefile,100.00
+app/src/frames.c,100.00
+app/src/frames.h,100.00
+app/src/lockutil.h,100.00
+app/src/netutil.c,100.00
+app/src/netutil.h,100.00
+app/src/strutil.c,100.00
+app/src/strutil.h,100.00
+app/src/unix/command.c,100.00
+app/src/win/command.c,100.00

@@ -1,0 +1,1647 @@
+Field,Value
+Commits Overview,
+Total Commits,39219
+Total Unique Authors,675
+,
+Top 10 Contributors,
+Author,Commits
+Thomas Robitaille,9731
+Michael Droettboom,5608
+Erik Tollerud,5483
+Tom Aldcroft,5053
+Marten van Kerkwijk,4839
+Nathaniel Starkman (@nstarman),3542
+Brigitta Sipocz,3405
+Erik M. Bray,3115
+Pey Lian Lim,2743
+Simon Conseil,2342
+,
+Communication Events,Total: 5319
+"Author1,Author2",Events
+"Brigitta Sipocz,Simon Conseil",89
+"Adrian Price-Whelan,Erik Tollerud",76
+"Michael Droettboom,Nadia Dencheva",70
+"Nadia Dencheva,Michael Droettboom",68
+"Thomas Robitaille,Erik Tollerud",64
+"Stuart Mumford,Thomas Robitaille",64
+"Erik Tollerud,Thomas Robitaille",61
+"Thomas Robitaille,Tom Aldcroft",54
+"Tom Aldcroft,Thomas Robitaille",53
+"Thomas Robitaille,Michael Droettboom",52
+"Thomas Robitaille,Stuart Mumford",51
+"Michael Droettboom,Thomas Robitaille",49
+"Tom Aldcroft,Marten van Kerkwijk",47
+"Simon Conseil,Michael Seifert",45
+"Erik M. Bray,Erik Bray",43
+"Pey Lian Lim,P. L. Lim",43
+"Thomas Robitaille,Marten van Kerkwijk",41
+"Erik Tollerud,Tom Aldcroft",39
+"Marten van Kerkwijk,Thomas Robitaille",38
+"Marten van Kerkwijk,Tom Aldcroft",38
+"Simon Conseil,Brigitta Sipocz",36
+"Thomas Robitaille,Pey Lian Lim",35
+"Michael Droettboom,Erik Tollerud",35
+"Erik Tollerud,Adrian Price-Whelan",35
+"Perry Greenfield,perrygreenfield",33
+"Erik M. Bray,Erik Tollerud",29
+"Christoph Deil,Thomas Robitaille",29
+"Thomas Robitaille,Brigitta Sipocz",29
+"Thomas Robitaille,Erik Bray",29
+"Marten van Kerkwijk,Michael Droettboom",28
+"Thomas Robitaille,Erik M. Bray",28
+"Tom Aldcroft,Erik Tollerud",27
+"Erik M. Bray,Thomas Robitaille",27
+"perrygreenfield,Perry Greenfield",26
+"Marten van Kerkwijk,Erik Tollerud",26
+"Thomas Robitaille,pre-commit-ci[bot]",25
+"Lauren Glattly,lglattly",25
+"Erik Tollerud,Brigitta Sipocz",24
+"Erik Tollerud,Marten van Kerkwijk",23
+"Brigitta Sipocz,Thomas Robitaille",23
+"Erik M. Bray,Michael Droettboom",22
+"Dan D'Avella,Daniel D'Avella",22
+"Pey Lian Lim,Thomas Robitaille",22
+"himanshupathak21061998,Tom Aldcroft",21
+"Erik Tollerud,Michael Droettboom",21
+"Nadia Dencheva,Erik M. Bray",21
+"Michael Droettboom,Marten van Kerkwijk",20
+"Tom Aldcroft,Brigitta Sipocz",20
+"Thomas Robitaille,Larry Bradley",20
+"Stuart Littlefair,Marten van Kerkwijk",20
+"Erik M. Bray,Nadia Dencheva",20
+"Michael Droettboom,Erik M. Bray",19
+"Marten van Kerkwijk,Erik M. Bray",19
+"Adrian Price-Whelan,Brigitta Sipocz",18
+"Erik Tollerud,Erik Bray",18
+"Larry Bradley,Thomas Robitaille",17
+"Pey Lian Lim,Brigitta Sipocz",17
+"Nadia Dencheva,Christoph Deil",16
+"Tom Aldcroft,Erik M. Bray",15
+"Tom Aldcroft,P. L. Lim",15
+"Pey Lian Lim,Michael Droettboom",15
+"Brigitta Sipocz,Tom Aldcroft",14
+"perrygreenfield,Nadia Dencheva",14
+"Erik Tollerud,Erik M. Bray",14
+"Erik M. Bray,Tom Aldcroft",14
+"Asra Nizami,Thomas Robitaille",14
+"Nathaniel Starkman (@nstarman),Nathaniel Starkman",14
+"Tom Aldcroft,Michael Droettboom",14
+"Christoph Deil,Nadia Dencheva",13
+"Simon Conseil,Thomas Robitaille",13
+"Nadia Dencheva,Thomas Robitaille",13
+"Brigitta Sipocz,Erik Tollerud",13
+"Thomas Robitaille,Simon Conseil",13
+"Lauren Glattly,Adrian Price-Whelan",13
+"lglattly,Lauren Glattly",12
+"Brigitta Sipocz,Pey Lian Lim",12
+"P. L. Lim,Pey Lian Lim",12
+"Pey Lian Lim,Erik Tollerud",11
+"Marten van Kerkwijk,Pey Lian Lim",11
+"Adam,Adam Ginsburg",11
+"Erik Bray,Erik M. Bray",11
+"Christoph Deil,Erik Tollerud",11
+"Marten van Kerkwijk,Adrian Price-Whelan",11
+"Michael Droettboom,Erik Bray",11
+"P. L. Lim,Simon Conseil",11
+"Nathaniel Starkman (@nstarman),William Jamieson",11
+"Adam Ginsburg,Adam",10
+"Simon Conseil,Pey Lian Lim",10
+"Pey Lian Lim,Marten van Kerkwijk",10
+"kelle,Adrian Price-Whelan",10
+"Tom Aldcroft,Simon Conseil",10
+"William Jamieson,Nathaniel Starkman (@nstarman)",10
+"Thomas Robitaille,Christoph Deil",10
+"AustereCuriosity,Marten van Kerkwijk",10
+"Erik Bray,Erik Tollerud",10
+"Marten Henric van Kerkwijk,Marten H. van Kerkwijk",10
+"Erik M. Bray,Marten van Kerkwijk",10
+"Marten van Kerkwijk,Nathaniel Starkman (@nstarman)",10
+"Adrian Price-Whelan,Thomas Robitaille",10
+"Maximilian Nöthe,Marten van Kerkwijk",9
+"Brigitta Sipocz,Adrian Price-Whelan",9
+"Erik Tollerud,Christoph Deil",9
+"Brigitta Sipőcz,Brigitta Sipőcz",9
+"Christoph Deil,Wolfgang Kerzendorf",9
+"Marten van Kerkwijk,Brigitta Sipocz",9
+"P. L. Lim,Thomas Robitaille",9
+"John Parejko,John K. Parejko",9
+"Erik M. Bray,Larry Bradley",9
+"Pey Lian Lim,Simon Conseil",9
+"Adam Ginsburg,Adam Ginsburg (keflavich)",9
+"Adrian Price-Whelan,Tom Aldcroft",9
+"Simon Conseil,Tom Aldcroft",9
+"Pey Lian Lim (Github),P. L. Lim",9
+"Erik Bray,Thomas Robitaille",9
+"Larry Bradley,Marten van Kerkwijk",9
+"Simon Conseil,Marten van Kerkwijk",9
+"pre-commit-ci[bot],Thomas Robitaille",9
+"Adrian Price-Whelan,Marten van Kerkwijk",9
+"Brigitta Sipocz,Marten van Kerkwijk",8
+"Derek Homeier,William Jamieson",8
+"Tom Aldcroft,Adrian Price-Whelan",8
+"Erik Tollerud,Julien Woillez",8
+"Thomas Robitaille,Asra Nizami",8
+"Clément Robert,P. L. Lim",8
+"Michael Mueller,Tom Aldcroft",8
+"Thomas Robitaille,Adrian Price-Whelan",8
+"Pey Lian Lim,Nathaniel Starkman (@nstarman)",8
+"Perry Greenfield,Nadia Dencheva",8
+"Nabil Freij,Thomas Robitaille",8
+"Eli Rykoff,erykoff",8
+"Pey Lian Lim,Tom Aldcroft",8
+"Erik Bray,Michael Droettboom",8
+"P. L. Lim,Clément Robert",8
+"Marten van Kerkwijk,Stuart Littlefair",8
+"Simon Conseil,P. L. Lim",8
+"Nathaniel Starkman,nstarman",8
+"Brigitta Sipocz,Christoph Deil",8
+"Tom Aldcroft,Derek Homeier",8
+"Marten van Kerkwijk,Marten Henric van Kerkwijk",8
+"Julien Woillez,Erik Tollerud",7
+"Christoph Deil,Erik M. Bray",7
+"Nathaniel Starkman (@nstarman),Ole Streicher",7
+"Pey Lian Lim,Nadia Dencheva",7
+"Nadia Dencheva,Brigitta Sipocz",7
+"Thomas Robitaille,Matthew Craig",7
+"Michael Brewer,Marten van Kerkwijk",7
+"Adrian Price-Whelan,Stuart Mumford",7
+"Brigitta Sipőcz,Brigitta Sipőcz",7
+"Larry Bradley,Pey Lian Lim",7
+"rohanrajpal,Stuart Mumford",7
+"Daria Cara,Brigitta Sipocz",7
+"Michael Seifert,Brigitta Sipocz",7
+"Patti Carroll,Erik M. Bray",7
+"Michael Droettboom,Tom Aldcroft",7
+"John Parejko,Matt Craig",7
+"erykoff,Eli Rykoff",7
+"Erik Tollerud,Pey Lian Lim",7
+"Thomas Robitaille,P. L. Lim",6
+"Demitri Muna,Erik Tollerud",6
+"Thomas Robitaille,Nadia Dencheva",6
+"Nadia Dencheva,Erik Tollerud",6
+"Thomas Robitaille,Michael Seifert",6
+"vn-ki,Vishnunarayan K I",6
+"Larry Bradley,Tom Aldcroft",6
+"Marten van Kerkwijk,Nadia Dencheva",6
+"Michael Seifert,Thomas Robitaille",6
+"Lauren Glattly,Erik Tollerud",6
+"Nadia Dencheva,perrygreenfield",6
+"William Jamieson,P. L. Lim",6
+"Derek Homeier,Tom Aldcroft",6
+"Marten van Kerkwijk,Larry Bradley",6
+"Adrian Price-Whelan,kelle",6
+"Tom Aldcroft,hamogu",6
+"Marten van Kerkwijk,AustereCuriosity",6
+"Stuart Mumford,Matt Craig",6
+"Nathaniel Starkman (@nstarman),Thomas Robitaille",6
+"Tom Aldcroft,Pey Lian Lim",6
+"John K. Parejko,John Parejko",6
+"Nadia Dencheva,Tom Aldcroft",6
+"Stuart Littlefair,Erik Tollerud",6
+"hamogu,Tom Aldcroft",6
+"Erik Tollerud,Nadia Dencheva",5
+"Perry Greenfield,Michael Droettboom",5
+"Erik Tollerud,Michael Seifert",5
+"Pey Lian Lim,Larry Bradley",5
+"Nadia Dencheva,nden",5
+"David Stansby,Thomas Robitaille",5
+"Nathaniel Starkman,Eero Vaher",5
+"Stuart Mumford,Brigitta Sipocz",5
+"Christoph Deil,Stuart Mumford",5
+"Daniel D'Avella,Dan D'Avella",5
+"Erik Tollerud,Marten H. van Kerkwijk",5
+"Stuart Littlefair,StuartLittlefair",5
+"Nadia Dencheva,Marten van Kerkwijk",5
+"Eero Vaher,Clément Robert",5
+"Erik M. Bray,Simon Conseil",5
+"Michael Seifert,Erik Tollerud",5
+"Juan Luis Cano Rodríguez,Marten van Kerkwijk",5
+"Leo Singer,Asra Nizami",5
+"Luigi Paioro,Christoph Deil",5
+"Marten van Kerkwijk,Maximilian Nöthe",5
+"Michael Droettboom,hamogu",5
+"Marten H. van Kerkwijk,Marten Henric van Kerkwijk",5
+"Andreas Faisst,pre-commit-ci[bot]",5
+"Marten van Kerkwijk,nstarman",5
+"Erik M. Bray,Brigitta Sipocz",5
+"Marten van Kerkwijk,Michael Brewer",5
+"Tom Aldcroft,Maximilian Nöthe",5
+"Larry Bradley,Simon Conseil",5
+"shivanshmishra,Marten van Kerkwijk",5
+"Adrian Price-Whelan,Pey Lian Lim",5
+"nden,Nadia Dencheva",5
+"Anne Archibald,Marten van Kerkwijk",5
+"Marten van Kerkwijk,Simon Conseil",5
+"Marten van Kerkwijk,Stuart Mumford",5
+"Anne Archibald,Pey Lian Lim",5
+"Marten van Kerkwijk,Michael Seifert",5
+"Adam Ginsburg (keflavich),Brigitta Sipocz",5
+"Simon Conseil,Matteo Bachetti",4
+"Nicholas Earl,nmearl",4
+"Derek Homeier,Marten van Kerkwijk",4
+"Sedona Price,pre-commit-ci[bot]",4
+"Nick Murphy,Nathaniel Starkman (@nstarman)",4
+"Simon Conseil,Erik Tollerud",4
+"Andreas Faisst,Brigitta Sipőcz",4
+"Andrej Rode,E. Madison Bray",4
+"William Jamieson,Marten van Kerkwijk",4
+"David Stansby,Derek Homeier",4
+"Somia FLORET,Somia Floret",4
+"Nathaniel Starkman (@nstarman),P. L. Lim",4
+"David M. Palmer,Marten van Kerkwijk",4
+"Alex Conley,Erik Tollerud",4
+"Adam Ginsburg (keflavich),Thomas Robitaille",4
+"Pey Lian Lim,Helen Sherwood-Taylor",4
+"pre-commit-ci[bot],William Jamieson",4
+"Pey Lian Lim,Erik M. Bray",4
+"Pey Lian Lim,Derek Homeier",4
+"Pey Lian Lim (Github),Simon Conseil",4
+"Adam Ginsburg (keflavich),Erik Tollerud",4
+"Pey Lian Lim,Anne Archibald",4
+"Adrian Price-Whelan,Simon Conseil",4
+"Eero Vaher,P. L. Lim",4
+"Adam Ginsburg (keflavich),Adam Ginsburg",4
+"Alex Rudy,Michael Droettboom",4
+"lingxz,Erik M. Bray",4
+"MSeifert04,Brigitta Sipocz",4
+"Marten van Kerkwijk,Marten H. van Kerkwijk",4
+"Marten van Kerkwijk,David Shupe",4
+"Pey Lian Lim (Github),William Jamieson",4
+"Marten van Kerkwijk,Anne Archibald",4
+"David Shupe,Marten van Kerkwijk",4
+"David Shupe,Erik Tollerud",4
+"Simon Conseil,Adrian Price-Whelan",4
+"broulston,Brigitta Sipocz",4
+"Shresth Verma,Marten van Kerkwijk",4
+"Eero Vaher,arthurxvtv",4
+"Brigitta Sipocz,Daniel D'Avella",4
+"Erik Tollerud,Demitri Muna",4
+"Matthew Craig,Matt Craig",4
+"Matteo Bachetti,mbachett",4
+"Stuart Mumford,Tom Aldcroft",4
+"Michael Droettboom,Pey Lian Lim",4
+"Stuart Mumford,Pey Lian Lim",4
+"Brigitta Sipocz,Erik M. Bray",4
+"Brigitta Sipocz,Larry Bradley",4
+"Nathaniel Starkman (@nstarman),Marten van Kerkwijk",4
+"Michael Seifert,Marten van Kerkwijk",4
+"Dan D'Avella,Michael Seifert",4
+"Clément Robert,Marten H. van Kerkwijk",4
+"Michael Mueller,Erik M. Bray",4
+"Erik Tollerud,Matthew Craig",4
+"Thomas Robitaille,Alex Conley",4
+"StuartLittlefair,Stuart Littlefair",4
+"Mridul Seth,Tom Aldcroft",4
+"Clare Shanahan,Erik Tollerud",4
+"Thomas Robitaille,hamogu",4
+"Mihai Cara,Derek Homeier",4
+"Thomas Robitaille,Mihai Cara",4
+"Erik Tollerud,Stuart Mumford",4
+"Erik Tollerud,Simon Conseil",4
+"Brigitta Sipocz,Michael Seifert",4
+"James Tocknell,Marten van Kerkwijk",4
+"James E.H. Turner,jehturner",4
+"Tom Aldcroft,Michael Mueller",4
+"Tom Aldcroft,Nadia Dencheva",4
+"Tom Aldcroft,pre-commit-ci[bot]",4
+"Nathaniel Starkman,Clément Robert",4
+"James Davies,Brigitta Sipocz",4
+"Stuart Mumford,Erik Tollerud",4
+"Matthew Craig,Thomas Robitaille",4
+"John K. Parejko,Brigitta Sipocz",3
+"Adam Ginsburg (keflavich),Marten van Kerkwijk",3
+"Adam,Thomas Robitaille",3
+"Hannes Breytenbach,Tom Aldcroft",3
+"Felipe Cybis Pereira,pre-commit-ci[bot]",3
+"Mubin17,Nathaniel Starkman",3
+"Gregory Simonian,Tom Aldcroft",3
+"Erik M. Bray,Stuart Mumford",3
+"Adam Ginsburg (keflavich),Erik M. Bray",3
+"James Tocknell,Matt Craig",3
+"Pey Lian Lim,Adrian Price-Whelan",3
+"Mike McCarty,Adrian Price-Whelan",3
+"nstarman,Nathaniel Starkman",3
+"Marten van Kerkwijk,Ze Vinicius",3
+"Nadia Dencheva,Clara Brasseur",3
+"P. L. Lim,Marten van Kerkwijk",3
+"Matteo Bachetti,Thomas Robitaille",3
+"Laurent MICHEL,Somia FLORET",3
+"Marten van Kerkwijk,Víctor Zabalza",3
+"mmebsout,Pey Lian Lim",3
+"Matt Davis,Erik Tollerud",3
+"Michael Seifert,Tom Aldcroft",3
+"nstarman,Eero Vaher",3
+"Michael Seifert,Simon Conseil",3
+"Michael Seifert,Pey Lian Lim",3
+"Erik M. Bray,Christoph Deil",3
+"perrygreenfield,Brigitta Sipocz",3
+"Jonathan Whitmore,Erik Tollerud",3
+"Jonas Große Sundrup,Erik M. Bray",3
+"P. L. Lim,Eero Vaher",3
+"Nick Murphy,Marten van Kerkwijk",3
+"P. L. Lim,Erik Tollerud",3
+"Matthew Craig,Marten van Kerkwijk",3
+"Matthew Craig,Adam Ginsburg (keflavich)",3
+"Neil Crighton,Thomas Robitaille",3
+"Gordon Gibb,Simon Conseil",3
+"James E.H. Turner,Simon Conseil",3
+"Erik Tollerud,Alex Rudy",3
+"Nathaniel Starkman (@nstarman),Larry Bradley",3
+"Nadia Dencheva,Perry Greenfield",3
+"Marten van Kerkwijk,P. L. Lim",3
+"Erik Tollerud,Adam Ginsburg (keflavich)",3
+"Michael Droettboom,Geert Barentsen",3
+"P. L. Lim,pre-commit-ci[bot]",3
+"P. L. Lim,Tom Aldcroft",3
+"Nathaniel Starkman (@nstarman),Nick Murphy",3
+"Erik Tollerud,Larry Bradley",3
+"John K. Parejko,Marten van Kerkwijk",3
+"Michael Mueller,Michael Droettboom",3
+"Julien Woillez,Simon Conseil",3
+"Erik M. Bray,Patti Carroll",3
+"Leo Singer,Brigitta Sipocz",3
+"Leo Singer,Michael Droettboom",3
+"Erik Tollerud,Leo Singer",3
+"MSeifert04,Stuart Mumford",3
+"Marten van Kerkwijk,Adam Ginsburg (keflavich)",3
+"Matthew Craig,Stuart Mumford",3
+"Vishnunarayan K I,Tom Aldcroft",3
+"hamogu,Thomas Robitaille",3
+"hamogu,Michael Droettboom",3
+"Tom Aldcroft,Matt Craig",3
+"Somia FLORET,Laurent MICHEL",3
+"David Stansby,Erik Tollerud",3
+"David Stansby,Larry Bradley",3
+"Sergio Pascual,Michael Droettboom",3
+"Simon Conseil,Erik M. Bray",3
+"Alex Hagen,Erik M. Bray",3
+"Simon Conseil,James E.H. Turner",3
+"Simon Conseil,Larry Bradley",3
+"Alex Conley,Thomas Robitaille",3
+"jfoster17,Simon Conseil",3
+"Albert Y. Shih,Adrian Price-Whelan",3
+"Thomas Robitaille,Stuart Littlefair",3
+"hamogu,H. Moritz Günther",3
+"Chiara Marmo,Marten van Kerkwijk",3
+"Christoph Deil,Asra Nizami",3
+"Clément Robert,Marten van Kerkwijk",3
+"Telomelonia,Marten van Kerkwijk",3
+"Stuart Mumford,Marten van Kerkwijk",3
+"William Jamieson,Jero Bado",3
+"Yash,Thomas Robitaille",3
+"Clare Shanahan,William Jamieson",3
+"Simon Conseil,Nadia Dencheva",3
+"Alexander Bakanov,Marten van Kerkwijk",3
+"Thomas Robitaille,David Stansby",3
+"Alex Rudy,Erik Tollerud",3
+"Asra Nizami,Brigitta Sipocz",3
+"Thomas Robitaille,Clément Robert",3
+"aniketmkulkarni,Pey Lian Lim",3
+"iamsoto,William Jamieson",3
+"Stuart Mumford,Erik M. Bray",3
+"Steve Crawford,Larry Bradley",3
+"Pey Lian Lim,Stuart Mumford",3
+"pre-commit-ci[bot],Brigitta Sipőcz",3
+"Tom Aldcroft,AustereCuriosity",3
+"QuanTakeuchi,Rohit Patil",3
+"Sara Ogaz,Tom Aldcroft",3
+"Larry Bradley,Matthew Craig",3
+"Pey Lian Lim (Github),Nathaniel Starkman (@nstarman)",3
+"Pey Lian Lim (Github),pre-commit-ci[bot]",3
+"Brigitta Sipocz,Perry Greenfield",3
+"Pey Lian Lim,Tom Donaldson",3
+"Larry Bradley,Brigitta Sipocz",3
+"Brett Morris,Erik Tollerud",3
+"pkrskr,Larry Bradley",3
+"Brett Morris,Stuart Littlefair",3
+"Pey Lian Lim,Michael Seifert",3
+"Rashid Khan,Erik M. Bray",3
+"Adrian Price-Whelan,William Jamieson",3
+"Pey Lian Lim,Mihai Cara",3
+"Shane Maloney,Stuart Mumford",3
+"Axel Donath,Erik M. Bray",3
+"Asra Nizami,Erik M. Bray",2
+"Michael Droettboom,Stuart Mumford",2
+"Tom Aldcroft,ikkamens",2
+"Matt Craig,Stuart Mumford",2
+"AnthonyHorton,Erik M. Bray",2
+"Anne Archibald,Thomas Robitaille",2
+"Ze Vinicius,Erik Tollerud",2
+"Brigitta Sipocz,David Shupe",2
+"Wolfgang Kerzendorf,Nadia Dencheva",2
+"Wolfgang Kerzendorf,Erik Tollerud",2
+"Brigitta Sipocz,John Parejko",2
+"Brigitta Sipocz,Matthew Craig",2
+"Michael Droettboom,Larry Bradley",2
+"William Jamieson,Pey Lian Lim (Github)",2
+"Asra Nizami,Leo Singer",2
+"James Davies,Pey Lian Lim",2
+"Brigitta Sipocz,Brett Morris",2
+"Matthew Craig,Michael Droettboom",2
+"Tom Aldcroft,Vishnunarayan K I",2
+"Tom Aldcroft,VaticanCameos",2
+"Matthew Craig,hamogu",2
+"Brigitta Sipocz,Brigitta Sipőcz",2
+"Tom Aldcroft,Erik Bray",2
+"Tom Aldcroft,Larry Bradley",2
+"Maximilian Nöthe,Albert Y. Shih",2
+"Tom Aldcroft,Nathaniel Starkman (@nstarman)",2
+"Tom Aldcroft,Michael Seifert",2
+"William Jamieson,Tom Aldcroft",2
+"Matthew Craig,Erik Tollerud",2
+"Tom Aldcroft,Matthew Craig",2
+"Tom Aldcroft,Matteo Bachetti",2
+"AustereCuriosity,Simon Conseil",2
+"James Noss,Thomas Robitaille",2
+"AustereCuriosity,Tom Aldcroft",2
+"William Jamieson,Derek Homeier",2
+"VaticanCameos,Tom Aldcroft",2
+"Axel Donath,Larry Bradley",2
+"Bharath Saiguhan,Pey Lian Lim (Github)",2
+"Tom Donaldson,Tom",2
+"Tom Donaldson,P. L. Lim",2
+"Michael Droettboom,Brigitta Sipocz",2
+"hamogu,Erik Bray",2
+"Marten H. van Kerkwijk,Clément Robert",2
+"Alex Conley,P. L. Lim",2
+"Alex Conley,Marten van Kerkwijk",2
+"lingxz,Michael Droettboom",2
+"kelle,Matthew Craig",2
+"kelle,Marten van Kerkwijk",2
+"Adam Ginsburg,Erik Tollerud",2
+"Adam Ginsburg,Thomas Robitaille",2
+"janga,Simon Conseil",2
+"janerigby,Pey Lian Lim",2
+"Larry Bradley,Nicholas S. Kern",2
+"ritwickdsouza,Marten van Kerkwijk",2
+"Michael Droettboom,Leo Singer",2
+"srirajshukla,Gyanendra Shukla",2
+"Larry Bradley,Erik M. Bray",2
+"Larry Bradley,David Shupe",2
+"Adrian Price-Whelan,Nadia Dencheva",2
+"Kris Stern,Simon Conseil",2
+"mbachett,Michael Seifert",2
+"pre-commit-ci[bot],Andreas Faisst",2
+"nmearl,Nicholas Earl",2
+"rirze,Marten van Kerkwijk",2
+"rirze,Pey Lian Lim",2
+"--system,Matt Craig",2
+"Adam Ginsburg (keflavich),Nadia Dencheva",2
+"Adam Ginsburg (keflavich),Pey Lian Lim",2
+"Larry Bradley,Erik Tollerud",2
+"Anchit Jain,Thomas Robitaille",2
+"Anany Shrey Jain,Tom Aldcroft",2
+"Anany Shrey Jain,Thomas Robitaille",2
+"Albert Y. Shih,Thomas Robitaille",2
+"getsanjeev,Stuart Mumford",2
+"diegoasterio,Marten van Kerkwijk",2
+"dcunning11235,Erik Tollerud",2
+"Marten van Kerkwijk,Nick Murphy",2
+"Alexandre Beelen,alexandre beelen",2
+"Marten van Kerkwijk,Alex Conley",2
+"Marten van Kerkwijk,Alex Rudy",2
+"Marten van Kerkwijk,Alexander Conley",2
+"Alex Hagen,Steven Crawford",2
+"MSeifert04,--system",2
+"Juan Luis Cano Rodríguez,Erik Tollerud",2
+"ananyashreyjain,Anany Shrey Jain",2
+"Marten van Kerkwijk,David M. Palmer",2
+"algerdnazgul,Aleh Khvalko",2
+"Ze Vinicius,Marten van Kerkwijk",2
+"iamsoto,Pey Lian Lim",2
+"honey,Marten van Kerkwijk",2
+"hamogu,Nadia Dencheva",2
+"K.A. Oman,Marten van Kerkwijk",2
+"Karan,Michael Droettboom",2
+"hamogu,Matthew Craig",2
+"hamogu,Larry Bradley",2
+"Leo Singer,Pey Lian Lim",2
+"Joseph Jon Booker,Simon Conseil",2
+"Delosari,Larry Bradley",2
+"Simon Conseil,MSeifert04",2
+"Nikita Tewary,Pey Lian Lim",2
+"P. L. Lim,Brigitta Sipocz",2
+"Simon Conseil,Evert Rol",2
+"P. L. Lim,Marten H. van Kerkwijk",2
+"Simon Conseil,Eero Vaher",2
+"Erik Tollerud,Evert Rol",2
+"Erik Tollerud,Geert Barentsen",2
+"Simon Conseil,Clara Brasseur",2
+"David Stansby,Adrian Price-Whelan",2
+"David Shupe,Thomas Robitaille",2
+"Nathaniel Starkman (@nstarman),Pey Lian Lim",2
+"Simon Conseil,orionlee",2
+"Adam Ginsburg (keflavich),Tom Aldcroft",2
+"Simon Conseil,Stuart Mumford",2
+"David M. Palmer,Erik Tollerud",2
+"Daniel D'Avella,Thomas Robitaille",2
+"Daniel D'Avella,Marten van Kerkwijk",2
+"Nadia Dencheva,William Jamieson",2
+"Nadia Dencheva,hamogu",2
+"Stuart Mumford,Daniel D'Avella",2
+"Stuart Littlefair,SaraOgaz",2
+"Nadia Dencheva,pre-commit-ci[bot]",2
+"Daniel D'Avella,Brigitta Sipocz",2
+"Daniel,Tom Aldcroft",2
+"Nathaniel Starkman,Nathaniel Starkman (@nstarman)",2
+"Daniel,Michael Hoenig",2
+"Stuart Littlefair,Adrian Price-Whelan",2
+"Simon Conseil,astromancer",2
+"Erik M. Bray,Asra Nizami",2
+"Pey Lian Lim,Ed Slavich",2
+"Pey Lian Lim,Brigitta Sipőcz",2
+"Erik Bray,Matt Davis",2
+"Eric Jeschke,Thomas Robitaille",2
+"Pey Lian Lim,Adam Ginsburg (keflavich)",2
+"Pey Lian Lim (Github),Marten van Kerkwijk",2
+"Eero Vaher,Raghuram Devarakonda",2
+"Eero Vaher,Tom Aldcroft",2
+"Ed Slavich,Thomas Robitaille",2
+"Eero Vaher,github-actions",2
+"Pey Lian Lim,Ole Streicher",2
+"David Stansby,Stuart Mumford",2
+"David Stansby,Simon Conseil",2
+"Nicholas S. Kern,Larry Bradley",2
+"Ryan Fox,Michael Droettboom",2
+"Kyle Barbary,Erik Tollerud",2
+"Raghuram Devarakonda,Eero Vaher",2
+"Pratik151,Brigitta Sipocz",2
+"Devin Crichton,Marten van Kerkwijk",2
+"Derek Homeier,Pey Lian Lim",2
+"Patricio Rojo,Matt Craig",2
+"Pey Lian Lim (Github),Stuart Mumford",2
+"David Shiga,Erik Bray",2
+"Shreyas Bapat,Marten van Kerkwijk",2
+"Sergio Pascual,Erik M. Bray",2
+"Neil Crighton,Erik Tollerud",2
+"Sarah Kendrew,Erik Tollerud",2
+"Derek Homeier,David Stansby",2
+"SaraOgaz,Stuart Littlefair",2
+"Geert Barentsen,Michael Droettboom",2
+"Geert Barentsen,William Jamieson",2
+"Miguel de Val-Borro,Pey Lian Lim",2
+"Miguel de Val-Borro,Thomas Robitaille",2
+"Thomas Robitaille,himanshupathak21061998",2
+"Mihai Cara,James Davies",2
+"Mihai Cara,Michael Seifert",2
+"Mike Alexandersen (on Vancouver),James Noss",2
+"Thomas Robitaille,aniketmkulkarni",2
+"Mridul Seth,P. L. Lim",2
+"Thomas Robitaille,adonath",2
+"Thomas Robitaille,Yash",2
+"H. Moritz Günther,Hans Moritz Günther",2
+"Halley,Tom Aldcroft",2
+"Erik Tollerud,Clara Brasseur",2
+"Brigitta Sipocz,Stuart Littlefair",2
+"Brigitta Sipocz,Rashid Khan",2
+"Michael Mueller,Marten van Kerkwijk",2
+"Brigitta Sipocz,Nadia Dencheva",2
+"Brigitta Sipocz,Adam Ginsburg (keflavich)",2
+"Michael Seifert,Dan D'Avella",2
+"Brett Morris,Tom Aldcroft",2
+"Michael Seifert,Evert Rol",2
+"Michael Seifert,Larry Bradley",2
+"Brett M. Morris,P. L. Lim",2
+"Tom Aldcroft,Adam Ginsburg (keflavich)",2
+"Hans Moritz Günther,hamogu",2
+"Helen Sherwood-Taylor,Brigitta Sipocz",2
+"Henry Ferguson,Tom Aldcroft",2
+"Michael Droettboom,Wolfgang Kerzendorf",2
+"Erik Tollerud,Clare Shanahan",2
+"Steve Crawford,Nadia Dencheva",2
+"Nadia Dencheva,Larry Bradley",2
+"Somia Floret,Somia FLORET",2
+"Nadia Dencheva,Michael Seifert",2
+"Stuart Mumford,P. L. Lim",2
+"Nadia Dencheva,Pey Lian Lim",2
+"Nadia Dencheva,Simon Conseil",2
+"Nadia Dencheva,Stuart Mumford",2
+"Stuart Mumford,Nadia Dencheva",2
+"Clément Robert,Thomas Robitaille",2
+"Thomas Robitaille,Anne Archibald",2
+"Thomas Robitaille,Anchit Jain",2
+"Evert Rol,Michael Seifert",2
+"Gabriel,Pey Lian Lim (Github)",2
+"Sushobhana Patra,Simon Conseil",2
+"Nadia Dencheva,Adrian Price-Whelan",2
+"Clément Robert,Eero Vaher",2
+"Clara Brasseur,Nadia Dencheva",2
+"Thomas Robitaille,Juan Luis Cano Rodríguez",2
+"Thomas Robitaille,James E.H. Turner",2
+"Thomas Robitaille,Eric Jeschke",2
+"Erik Tollerud,Stuart Littlefair",2
+"Christoph Deil,Luigi Paioro",2
+"Thomas Robitaille,Neil Crighton",2
+"Brigitta Sipőcz,pre-commit-ci[bot]",2
+"Brigitta Sipőcz,Marcello Nascif",2
+"Brigitta Sipocz,broulston",2
+"Thomas Robitaille,Michael Mueller",2
+"Thomas Robitaille,Adam Ginsburg (keflavich)",2
+"yashkmr99,janerigby",1
+"Abhinuv Nitin Pitale,Pey Lian Lim",1
+"Adam Ginsburg,Brigitta Sipocz",1
+"Adam Ginsburg,Nadia Dencheva",1
+"Adam Ginsburg,Pey Lian Lim",1
+"Adam Ginsburg (keflavich),Cristian Ardelean",1
+"ritiek,Daniel D'Avella",1
+"rosteen,Ricky O'Steen",1
+"samverstocken,Matthew Craig",1
+"sharath,H. Moritz Günther",1
+"shilpi_jc,Adrian Price-Whelan",1
+"Adam Ginsburg (keflavich),samverstocken",1
+"Adam Ginsburg (keflavich),Ze Vinicius",1
+"Adam Ginsburg (keflavich),Rasmus Handberg",1
+"Adam Ginsburg (keflavich),Michael Seifert",1
+"Adam Ginsburg (keflavich),Michael Droettboom",1
+"Adam Ginsburg (keflavich),Matthew Craig",1
+"odidev,Stuart Mumford",1
+"nstarman,Marten van Kerkwijk",1
+"nmearl,Erik Tollerud",1
+"nmearl,Clare Shanahan",1
+"mzhengxi,Chiara Marmo",1
+"mvnnn,Jörg Dietrich",1
+"mtzhisham,Moataz Hisham",1
+"mminin,Marten van Kerkwijk",1
+"luzuku,Michael Droettboom",1
+"Adrian Price-Whelan,P. L. Lim",1
+"Lauren Glattly,Pey Lian Lim",1
+"Laura L Watkins,rirze",1
+"Larry Bradley,hamogu",1
+"Larry Bradley,crawfordsm",1
+"Larry Bradley,adonath",1
+"Larry Bradley,Timothy P. Ellsworth Bowers",1
+"Larry Bradley,Stuart Mumford",1
+"Larry Bradley,Shantanu",1
+"Larry Bradley,Nathaniel Starkman (@nstarman)",1
+"Larry Bradley,Matteo Bachetti",1
+"Larry Bradley,Matej Stuchlik",1
+"Larry Bradley,Marten H. van Kerkwijk",1
+"Larry Bradley,James Tocknell",1
+"Larry Bradley,Jake VanderPlas",1
+"Larry Bradley,Hugo Buddelmeijer",1
+"Larry Bradley,Gregory Dubois-Felsmann",1
+"Karl Gordon,Anne Archibald",1
+"Kacper Kowalik,Erik M. Bray",1
+"K.A. Oman,Pey Lian Lim",1
+"Jörg Dietrich,Ze Vinicius",1
+"Jörg Dietrich,Simon Conseil",1
+"Julien Woillez,Tom",1
+"Julien Woillez,Thomas Robitaille",1
+"Julien Woillez,Michael Droettboom",1
+"Julien Woillez,Marten van Kerkwijk",1
+"Julien Woillez,Ed Slavich",1
+"Juanjo Bazán,jimboH",1
+"Juan Luis Cano Rodríguez,perrygreenfield",1
+"Leo Singer,Anne Archibald",1
+"Lehman Garrison,Brigitta Sipocz",1
+"Leah Fulmer,P. L. Lim",1
+"Laurie Stephey,Simon Conseil",1
+"MSeifert04,Tom Aldcroft",1
+"MSeifert04,Thomas Robitaille",1
+"MSeifert04,Pey Lian Lim",1
+"MSeifert04,Matt Craig",1
+"MSeifert04,Marten van Kerkwijk",1
+"MSeifert04,Daria Cara",1
+"MSeifert04,Bruno Oliveira",1
+"Léni Gauffier,Chiara Marmo",1
+"Lisa,hamogu",1
+"Leonardo Ferreira,Pey Lian Lim",1
+"Leonardo Ferreira,Erik M. Bray",1
+"Leo Singer,hamogu",1
+"Leo Singer,Stuart Mumford",1
+"Leo Singer,Simon Conseil",1
+"Leo Singer,Shailesh Ahuja",1
+"Leo Singer,Marten van Kerkwijk",1
+"Joseph Jon Booker,Asra Nizami",1
+"Marten van Kerkwijk,Albert Y. Shih",1
+"Marten van Kerkwijk,Al Niessner",1
+"Marten Henric van Kerkwijk,Marten van Kerkwijk",1
+"Marten Henric van Kerkwijk,Clément Robert",1
+"Marten H. van Kerkwijk,Simon Conseil",1
+"Marten H. van Kerkwijk,Marten van Kerkwijk",1
+"Marten H. van Kerkwijk,Eero Vaher",1
+"Mark Taylor,Thomas Robitaille",1
+"Mark Fardal,Tom Aldcroft",1
+"Mark Fardal,P. L. Lim",1
+"ManonMarchand,Manon",1
+"Manon,Tom Donaldson",1
+"Manodeep Sinha,Tom Aldcroft",1
+"Manas Satish Bedmutha,Brigitta Sipocz",1
+"MSeifert04,Yannick Copin",1
+"Marten van Kerkwijk,Bruce Merry",1
+"Marten van Kerkwijk,Brett M. Morris",1
+"Marten van Kerkwijk,Azalee Bostroem",1
+"Marten van Kerkwijk,Axel Donath",1
+"Juan Luis Cano Rodríguez,himanshupathak21061998",1
+"Juan Luis Cano Rodríguez,Thomas Robitaille",1
+"Juan Luis Cano Rodríguez,P. L. Lim",1
+"Juan Luis Cano Rodríguez,Dan D'Avella",1
+"Juan Luis Cano Rodríguez,Adrian Price-Whelan",1
+"Joseph Schlitz,Tim Jenness",1
+"Joseph Schlitz,Thomas Robitaille",1
+"Joseph Schlitz,Brigitta Sipocz",1
+"Joseph Ryan,Thomas Robitaille",1
+"Joseph Long,Thomas Robitaille",1
+"Joseph Long,Evert Rol",1
+"Joseph Jon Booker,Michael Droettboom",1
+"Marten van Kerkwijk,Lauren Glattly",1
+"Marten van Kerkwijk,Karan",1
+"Marten van Kerkwijk,K.A. Oman",1
+"Marten van Kerkwijk,Julien Woillez",1
+"Marten van Kerkwijk,John K. Parejko",1
+"Marten van Kerkwijk,James E.H. Turner",1
+"Marten van Kerkwijk,Jake VanderPlas",1
+"Marten van Kerkwijk,George",1
+"Marten van Kerkwijk,Ed Slavich",1
+"Marten van Kerkwijk,E. Madison Bray",1
+"Marten van Kerkwijk,David Stansby",1
+"Marten van Kerkwijk,Daniel D'Avella",1
+"Marten van Kerkwijk,Clément Robert",1
+"Marten van Kerkwijk,Clare Shanahan",1
+"Marten van Kerkwijk,Christian Hettlage",1
+"Marten van Kerkwijk,Chris Beaumont",1
+"Marten van Kerkwijk,Mihai Cara",1
+"Marten van Kerkwijk,Michael Zhang",1
+"Marten van Kerkwijk,Michael Mueller",1
+"Jonathan Whitmore,hamogu",1
+"Jonathan Sick,Michael Droettboom",1
+"Johnny Greco,Adrian Price-Whelan",1
+"John Parejko,pre-commit-ci[bot]",1
+"John Parejko,Nathaniel Starkman (@nstarman)",1
+"John K. Parejko,Simon Conseil",1
+"John Fisher,Marten van Kerkwijk",1
+"Joe Philip Ninan,Erik M. Bray",1
+"Joe Lyman,Erik M. Bray",1
+"Marten van Kerkwijk,Matthew Craig",1
+"Marten van Kerkwijk,Matt Craig",1
+"Marten van Kerkwijk,Matej Stuchlik",1
+"Marten van Kerkwijk,Leo Singer",1
+"Jerry Ma,Nadia Dencheva",1
+"Jero Bado,P. L. Lim",1
+"JaviPG,Larry Bradley",1
+"Jamie Kennea,Tom Aldcroft",1
+"James Turner,hamogu",1
+"James Noss,cclauss",1
+"James Noss,Mike Alexandersen (on Vancouver)",1
+"James Noss,Erik Tollerud",1
+"James Noss,Brigitta Sipocz",1
+"James Noss,Adrian Price-Whelan",1
+"James Noss,Adam Ginsburg (keflavich)",1
+"James E.H. Turner,Tom Aldcroft",1
+"Marten van Kerkwijk,Ole Streicher",1
+"Marten van Kerkwijk,Nicholas S. Kern",1
+"Marten van Kerkwijk,Neil Parley",1
+"Marten van Kerkwijk,Neil Crighton",1
+"Matt,Michael Droettboom",1
+"Matt,Matt Davis",1
+"Matt,Erik Bray",1
+"Matt,Adrian Price-Whelan",1
+"Matej Stuchlik,Adam Ginsburg (keflavich)",1
+"MatCat776,P. L. Lim",1
+"Marten van Kerkwijk,yashkmr99",1
+"Marten van Kerkwijk,luzuku",1
+"Marten van Kerkwijk,ikkamens",1
+"Marten van Kerkwijk,himanshupathak21061998",1
+"Marten van Kerkwijk,hamogu",1
+"Marten van Kerkwijk,aniketmkulkarni",1
+"Marten van Kerkwijk,Yash",1
+"Marten van Kerkwijk,Ritiek Malhotra",1
+"Marten van Kerkwijk,Raghuram Devarakonda",1
+"Marten van Kerkwijk,Pey Lian Lim (Github)",1
+"Matteo Bachetti,Larry Bradley",1
+"Matteo Bachetti,Erik M. Bray",1
+"Matteo Bachetti,Derek Homeier",1
+"Matt Davis,Thomas Robitaille",1
+"Matt Davis,Prasanth Nair",1
+"Matt Davis,Michael Droettboom",1
+"Matt Craig,yashkmr99",1
+"Matt Craig,pre-commit-ci[bot]",1
+"Matt Craig,Tom Aldcroft",1
+"Matt Craig,Thomas Robitaille",1
+"Matt Craig,Nadia Dencheva",1
+"Matt Craig,Matthew Craig",1
+"Matt Craig,Matteo Bachetti",1
+"Matt Craig,Marten van Kerkwijk",1
+"Matt Craig,John Parejko",1
+"Matt Craig,Alex Conley",1
+"Matthew Craig,Larry Bradley",1
+"Matthew Craig,Kyle Barbary",1
+"Matthew Craig,Geert Barentsen",1
+"Matthew Craig,Erik M. Bray",1
+"Matthew Craig,Erik Bray",1
+"Matthew Craig,Brigitta Sipocz",1
+"Matthew Brett,Brigitta Sipocz",1
+"Matthew Bourque,hamogu",1
+"Matteo Bachetti,taranu",1
+"Matteo Bachetti,lingxz",1
+"Matteo Bachetti,github-actions",1
+"Matteo Bachetti,Tom Aldcroft",1
+"Matteo Bachetti,Simon Conseil",1
+"Matteo Bachetti,P. L. Lim",1
+"Matteo Bachetti,Nathaniel Starkman (@nstarman)",1
+"Matteo Bachetti,Michael Seifert",1
+"Matthew Craig,duckrojo",1
+"Matthew Craig,Pey Lian Lim",1
+"Matthew Craig,Megan Sosey",1
+"James E.H. Turner,Rocio Kiman",1
+"James E.H. Turner,Nadia Dencheva",1
+"James E.H. Turner,Michael Droettboom",1
+"James E.H. Turner,Matthew Craig",1
+"James E.H. Turner,Marten van Kerkwijk",1
+"James E.H. Turner,Larry Bradley",1
+"James E.H. Turner,Helen Sherwood-Taylor",1
+"James Davies,csimpson",1
+"James Davies,Mike Alexandersen (on Vancouver)",1
+"James Davies,Larry Bradley",1
+"James Davies,Kewei Li",1
+"James Davies,Julien Woillez",1
+"James Davies,Erik Tollerud",1
+"Michael Droettboom,Francesco Biscani",1
+"Michael Droettboom,Evert Rol",1
+"Michael Droettboom,AnthonyHorton",1
+"Michael Droettboom,Alex Conley",1
+"Michael Droettboom,Adrian Price-Whelan",1
+"Michael Brewer,Michael K. Brewer",1
+"Megan Sosey,Matthew Craig",1
+"Maximillian Weber,pre-commit-ci[bot]",1
+"Maximilian Nöthe,Stuart Littlefair",1
+"Maximilian Nöthe,Simon Conseil",1
+"Maximilian Nöthe,Nathaniel Starkman (@nstarman)",1
+"Maximilian Nöthe,Erik Tollerud",1
+"Maximilian Nöthe,Adrian Price-Whelan",1
+"Max Voronkov,Brigitta Sipőcz",1
+"Max Silbiger,Ze Vinicius",1
+"Matthew Petroff,Tom Aldcroft",1
+"Michael Droettboom,Karan",1
+"Michael Droettboom,Jörg Dietrich",1
+"Jakob Maljaars,Tom Aldcroft",1
+"Jake VanderPlas,Thomas Robitaille",1
+"Jake VanderPlas,Stuart Mumford",1
+"Jake VanderPlas,Marten van Kerkwijk",1
+"Jake VanderPlas,Erik Tollerud",1
+"Jake VanderPlas,Erik M. Bray",1
+"Jake VanderPlas,Adrian Price-Whelan",1
+"J. Xavier Prochaska,Thomas Robitaille",1
+"J. Xavier Prochaska,Pey Lian Lim",1
+"Hélvio Peixoto,pre-commit-ci[bot]",1
+"Hélvio Peixoto,Simon Conseil",1
+"Humna,Brigitta Sipocz",1
+"Hugo Buddelmeijer,Stuart Mumford",1
+"Michael Droettboom,James E.H. Turner",1
+"Hans Moritz Günther,Karl Gordon",1
+"Hans Moritz Günther,Brigitta Sipocz",1
+"H. Moritz Günther,P. L. Lim",1
+"Griffin Hosseinzadeh,Simon Conseil",1
+"Griffin Hosseinzadeh,Matthew Craig",1
+"Griffin Hosseinzadeh,Marten van Kerkwijk",1
+"Gregory Dubois-Felsmann,Stuart Mumford",1
+"Gordon Gibb,Tom Aldcroft",1
+"Giorgio Calderone,Erik Tollerud",1
+"Georgiana Ogrean,Srikrishna Sekhar",1
+"Michael Droettboom,Simon Conseil",1
+"Michael Droettboom,Paul Hirst",1
+"Michael Droettboom,Miguel de Val-Borro",1
+"Michael Droettboom,Michael Mueller",1
+"Michael Droettboom,Matthew Craig",1
+"Michael Droettboom,Matt",1
+"Michael Seifert,Mihai Cara",1
+"Michael Seifert,Matthew Craig",1
+"Michael Seifert,Joseph Long",1
+"Michael Seifert,J. Xavier Prochaska",1
+"Michael Seifert,Griffin Hosseinzadeh",1
+"Michael Seifert,David M. Palmer",1
+"Michael Seifert,AustereCuriosity",1
+"Michael Seifert,AnthonyHorton",1
+"Michael Seifert,Adam Ginsburg (keflavich)",1
+"Michael Mueller,hamogu",1
+"Michael Mueller,Pey Lian Lim",1
+"Michael Mueller,Erik Tollerud",1
+"Michael Hoenig,Thomas Robitaille",1
+"Michael Droettboom,kaichogami",1
+"Michael Droettboom,britgit",1
+"Hans Moritz Günther,Moritz Guenther",1
+"Michael Seifert,aniketmkulkarni",1
+"Michael Seifert,Ze Vinicius",1
+"Geert Barentsen,perrygreenfield",1
+"Geert Barentsen,Thomas Robitaille",1
+"Geert Barentsen,Pey Lian Lim",1
+"Geert Barentsen,Larry Bradley",1
+"Geert Barentsen,Erik Tollerud",1
+"Geert Barentsen,Erik M. Bray",1
+"Geert Barentsen,Brigitta Sipocz",1
+"Gabriel Brammer,Thomas Robitaille",1
+"Gabriel Brammer,Gabe Brammer",1
+"Gabriel Brammer,David Stansby",1
+"Gabriel,Tom Aldcroft",1
+"Gabe Brammer,Gabriel Brammer",1
+"GIT Admin,Thomas Robitaille",1
+"Michael Seifert,Pratik151",1
+"Mihai Cara,Stuart Littlefair",1
+"Mihai Cara,Simon Conseil",1
+"Mihai Cara,Pey Lian Lim",1
+"Mihai Cara,Nick Murphy",1
+"Mihai Cara,Nadia Dencheva",1
+"Mihai Cara,Michael Droettboom",1
+"Mihai Cara,Matt Craig",1
+"Mihai Cara,Kris Stern",1
+"Mihai Cara,Gregory Simonian",1
+"Mihai Cara,Erik Tollerud",1
+"Mihai Cara,Brigitta Sipocz",1
+"Miguel de Val-Borro,Michael Droettboom",1
+"Michele Mastropietro,Brigitta Sipocz",1
+"Michele Costa,Bojan Nikolic",1
+"Michael Wood-Vasey,Thomas Robitaille",1
+"Michael Wood-Vasey,Erik Tollerud",1
+"Evert Rol,Thomas Robitaille",1
+"Evert Rol,Stefan Nelson",1
+"Evert Rol,Simon Conseil",1
+"Evert Rol,Pey Lian Lim",1
+"Evert Rol,Marten van Kerkwijk",1
+"Evert Rol,Erik Tollerud",1
+"Evert Rol,Brigitta Sipocz",1
+"Evert Rol,Anchit Jain",1
+"Erin Allard,E. M. Bray",1
+"Erik Tollerud,shilpi_jc",1
+"Erik Tollerud,nmearl",1
+"Moritz Guenther,Marten van Kerkwijk",1
+"Mohan Agrawal,Simon Conseil",1
+"Mikołaj,Daniel D'Avella",1
+"Mike McCarty,Erik Tollerud",1
+"Mihai Cara,Tom Aldcroft",1
+"Erik Tollerud,Steven Crawford",1
+"Erik Tollerud,Steve Crawford",1
+"Erik Tollerud,Nicholas Earl",1
+"Erik Tollerud,Neil Crighton",1
+"Erik Tollerud,Neal McBurnett",1
+"Nadia Dencheva,James Davies",1
+"Nadia Dencheva,Ed Slavich",1
+"Nadia Dencheva,Derek Homeier",1
+"Nadia Dencheva,Daniel Ruschel Dutra",1
+"Nadia Dencheva,Daniel D'Avella",1
+"Nadia Dencheva,Benjamin Alan Weaver",1
+"Nadia Dencheva,Anne Archibald",1
+"Mubin Manasia,Nathaniel Starkman",1
+"Francesco Biscani,Michael Droettboom",1
+"Francesco Biscani,Erik Tollerud",1
+"Felix Yan,Marten van Kerkwijk",1
+"Erik Tollerud,Max Silbiger",1
+"Erik Tollerud,Matt",1
+"Erik Tollerud,Lauren Glattly",1
+"Erik Tollerud,Juan Luis Cano Rodríguez",1
+"Erik Tollerud,Joseph Jon Booker",1
+"Nadia Dencheva,Steve Crawford",1
+"Nadia Dencheva,Matthew Craig",1
+"Nadia Dencheva,Matteo Bachetti",1
+"Nadia Dencheva,Leo Singer",1
+"Nadia Dencheva,Karl Gordon",1
+"Nadia Dencheva,James Noss",1
+"Erik Tollerud,lingxz",1
+"Erik Tollerud,hamogu",1
+"Erik Tollerud,Zlatan Vasović",1
+"Erik Tollerud,Wolfgang Kerzendorf",1
+"Erik Tollerud,Tito Dal Canton",1
+"Erik Tollerud,James E.H. Turner",1
+"Erik Tollerud,J. Xavier Prochaska",1
+"Erik Tollerud,David Stansby",1
+"Erik Tollerud,David Shupe",1
+"Erik Tollerud,Dan Foreman-Mackey",1
+"Erik Tollerud,Clément Robert",1
+"Erik Tollerud,Brigitta Sipőcz",1
+"Nathaniel Starkman (@nstarman),Ed Slavich",1
+"Nathaniel Starkman (@nstarman),Derek Homeier",1
+"Nathaniel Starkman,pre-commit-ci[bot]",1
+"Nathaniel Starkman,P. L. Lim",1
+"Nathanial Hendler,Brigitta Sipocz",1
+"Nadia Dencheva,broulston",1
+"Nadia Dencheva,Wolfgang Kerzendorf",1
+"Erik Tollerud,Michael Wood-Vasey",1
+"Erik Tollerud,Michael Mueller",1
+"Erik Tollerud,Anany Shrey Jain",1
+"Erik Tollerud,Alex Conley",1
+"Erik Tollerud,Albert Y. Shih",1
+"Erik Tollerud,Adam Ginsburg",1
+"Erik M. Bray,lingxz",1
+"Erik M. Bray,britgit",1
+"Erik M. Bray,Simon Gibbons",1
+"Nathaniel Starkman (@nstarman),Simon Conseil",1
+"Nathaniel Starkman (@nstarman),Roy Smart",1
+"Nathaniel Starkman (@nstarman),Pey Lian Lim (Github)",1
+"Nathaniel Starkman (@nstarman),Nathaniel Max Rosenthal Starkman",1
+"Nathaniel Starkman (@nstarman),Maximilian Nöthe",1
+"Nathaniel Starkman (@nstarman),Jose Sabater",1
+"Nathaniel Starkman (@nstarman),Geert Barentsen",1
+"Nathaniel Starkman (@nstarman),Eli Rykoff",1
+"Erik Tollerud,John Parejko",1
+"P. L. Lim,Adrian Price-Whelan",1
+"P. L. Lim,Adam Ginsburg (keflavich)",1
+"Ole Streicher,Simon Conseil",1
+"Ole Streicher,Pratik151",1
+"Ole Streicher,Anchit Jain",1
+"Nimit Bhardwaj,Simon Conseil",1
+"Nimit Bhardwaj,Michael Seifert",1
+"Nick Murphy,Derek Homeier",1
+"Nick Murphy,Albert Y. Shih",1
+"Nicholas Saunders,Brigitta Sipocz",1
+"Neil Parley,Tom Aldcroft",1
+"Neil Crighton,Marten van Kerkwijk",1
+"Neil Crighton,Erik Bray",1
+"Nathaniel Starkman (@nstarman),pre-commit-ci[bot]",1
+"Erik Tollerud,Brett Morris",1
+"Erik Tollerud,AustereCuriosity",1
+"P. L. Lim,Stuart Mumford",1
+"P. L. Lim,Pey Lian Lim (Github)",1
+"P. L. Lim,Nathaniel Starkman",1
+"Erik M. Bray,Sergio Pascual",1
+"Erik M. Bray,Ryan Abernathey",1
+"Erik M. Bray,Michael Seifert",1
+"Erik M. Bray,Matej Stuchlik",1
+"Erik M. Bray,Kacper Kowalik",1
+"Erik M. Bray,Julien Woillez",1
+"Erik M. Bray,Jonathan Whitmore",1
+"Erik M. Bray,James Turner",1
+"Erik M. Bray,Jake VanderPlas",1
+"P. L. Lim,Matteo Bachetti",1
+"P. L. Lim,Marten Henric van Kerkwijk",1
+"P. L. Lim,Leo Singer",1
+"P. L. Lim,Kris Stern",1
+"Erik M. Bray,Derek Homeier",1
+"Erik M. Bray,Chris Beaumont",1
+"Erik M. Bray,AnthonyHorton",1
+"Erik M. Bray,Alex Hagen",1
+"Erik M. Bray,Adrian Price-Whelan",1
+"Erik M. Bray,Adam Ginsburg (keflavich)",1
+"Erik Bray,hamogu",1
+"Erik Bray,Tom Aldcroft",1
+"Erik Bray,Rashid Khan",1
+"Erik Bray,Nadia Dencheva",1
+"Paul Huwe,Nadia Dencheva",1
+"Paul Hirst,Larry Bradley",1
+"Patti Carroll,Joseph Jon Booker",1
+"Patricio Rojo,Matthew Craig",1
+"P. L. Lim,github-actions",1
+"P. L. Lim,William Jamieson",1
+"Erik Bray,Marten van Kerkwijk",1
+"Erik Bray,Christoph Deil",1
+"Erik Bray,Adrian Price-Whelan",1
+"Eli Rykoff,Nathaniel Starkman (@nstarman)",1
+"Eero Vaher,nstarman",1
+"Eero Vaher,William Jamieson",1
+"Eero Vaher,Varun Nikam",1
+"Pey Lian Lim,AustereCuriosity",1
+"Pey Lian Lim,Alexander Conley",1
+"Pey Lian Lim,Alex Conley",1
+"Peter Yoachim,Pey Lian Lim",1
+"Peter Cock,Brigitta Sipőcz",1
+"Pauline Barmby,Thomas Robitaille",1
+"Paul Sladen,Stuart Littlefair",1
+"Paul Sladen,Marten van Kerkwijk",1
+"Paul Price,Marten van Kerkwijk",1
+"Pey Lian Lim,Pey Lian Lim (Github)",1
+"Pey Lian Lim,Perry Greenfield",1
+"Pey Lian Lim,Nabil Freij",1
+"Pey Lian Lim,Matthew Craig",1
+"Pey Lian Lim,Leo Singer",1
+"Pey Lian Lim,Juan Luis Cano Rodríguez",1
+"Pey Lian Lim,Jerry Ma",1
+"Pey Lian Lim,Gregory Dubois-Felsmann",1
+"Pey Lian Lim,Erik Bray",1
+"Pey Lian Lim,Eero Vaher",1
+"Pey Lian Lim,E. Madison Bray",1
+"Pey Lian Lim,Douglas Burke",1
+"Pey Lian Lim,Daniel D'Avella",1
+"Pey Lian Lim,Dan D'Avella",1
+"Pey Lian Lim,Clare Shanahan",1
+"Pey Lian Lim,Bryce Kalmbach",1
+"Pey Lian Lim,perrygreenfield",1
+"Pey Lian Lim,iamsoto",1
+"Pey Lian Lim,Ze Vinicius",1
+"Eero Vaher,Nathaniel Starkman",1
+"Eero Vaher,Matt Craig",1
+"Eero Vaher,Marten Henric van Kerkwijk",1
+"Eero Vaher,Marten H. van Kerkwijk",1
+"Eero Vaher,Larry Bradley",1
+"Eero Vaher,James Davies",1
+"Eero Vaher,Henry Schreiner",1
+"Eero Vaher,Felipe Gameleira",1
+"Ed Slavich,Tom Donaldson",1
+"Ed Slavich,Simon Conseil",1
+"Ed Slavich,Pey Lian Lim",1
+"Ed Slavich,Nicolas Tessore",1
+"Ed Slavich,Lee Spitler",1
+"Ed Slavich,James Davies",1
+"E. Madison Bray,Tom Aldcroft",1
+"E. Madison Bray,Simon Conseil",1
+"E. Madison Bray,Nathaniel Starkman (@nstarman)",1
+"E. Madison Bray,Maik Nijhuis",1
+"E. M. Bray,kelle",1
+"Duncan Macleod,Tom Aldcroft",1
+"Douglas Burke,Erik Tollerud",1
+"Doron Behar,Marten van Kerkwijk",1
+"Dominik Klaes,hamogu",1
+"Derek Homeier,pre-commit-ci[bot]",1
+"Derek Homeier,Sadie Bartholomew",1
+"Pey Lian Lim (Github),Thomas Robitaille",1
+"Pey Lian Lim (Github),Pey Lian Lim",1
+"Pey Lian Lim (Github),Eero Vaher",1
+"Pey Lian Lim,sashmish",1
+"Sadie Bartholomew,Anne Archibald",1
+"Ryan Fox,Tom Aldcroft",1
+"Ryan Abernathey,Michael Droettboom",1
+"Ryan Abernathey,Matej Stuchlik",1
+"Rui Xue,Tom Aldcroft",1
+"Roy Smart,Nick Murphy",1
+"Roban Hultman Kramer,Neil Crighton",1
+"Ritiek Malhotra,Brigitta Sipocz",1
+"Richard R,Steve Guest",1
+"Ricardo Ogando,Simon Conseil",1
+"Ricardo Ogando,Pey Lian Lim",1
+"Ricardo Fonseca,Pey Lian Lim",1
+"Rasmus Handberg,Mihai Cara",1
+"Pratik151,Erik Tollerud",1
+"Pratik151,Erik M. Bray",1
+"Porter Averett,Eero Vaher",1
+"Derek Homeier,Nathaniel Starkman (@nstarman)",1
+"Derek Homeier,Mihai Cara",1
+"Derek Homeier,Ed Slavich",1
+"Derek Homeier,E. Madison Bray",1
+"Derek Homeier,Brigitta Sipocz",1
+"Derek Homeier,Anne Archibald",1
+"Deen-dot,Deen-Dot",1
+"David Stansby,Tom Aldcroft",1
+"David Stansby,Stuart Littlefair",1
+"Sara Ogaz,Stuart Mumford",1
+"Sara Ogaz,Simon Conseil",1
+"Sara Ogaz,Michael Seifert",1
+"Sara Ogaz,Marten van Kerkwijk",1
+"Sam Van Kooten,Matt Craig",1
+"Sam Holt,Eero Vaher",1
+"Sam Bianco,Simon Conseil",1
+"David Stansby,Nathaniel Starkman (@nstarman)",1
+"David Stansby,Marten van Kerkwijk",1
+"David Stansby,Alex Conley",1
+"David Shupe,Pey Lian Lim",1
+"David Shupe,Nadia Dencheva",1
+"David Shupe,Matthew Craig",1
+"David Shupe,Brigitta Sipocz",1
+"David Shupe,Adam Ginsburg (keflavich)",1
+"Shailesh Ahuja,Marten van Kerkwijk",1
+"Shaheer Ahmad,Eero Vaher",1
+"Shaheer Ahmad,Clément Robert",1
+"Serge Montagnac,Thomas Robitaille",1
+"Semyeong Oh,Pey Lian Lim",1
+"Semyeong Oh,Erik Tollerud",1
+"Sebastian,Simon Conseil",1
+"Sashank Mishra,Tom Aldcroft",1
+"Simon Conseil,Sam Van Kooten",1
+"Simon Conseil,Pey Lian Lim (Github)",1
+"Simon Conseil,Nathaniel Starkman",1
+"Simon Conseil,Maximilian Nöthe",1
+"Simon Conseil,Matthew Craig",1
+"Simon Conseil,Jeff Jennings",1
+"Simon Conseil,Giang Nguyen",1
+"Simon Conseil,Douglas Burke",1
+"Simon Conseil,David Shupe",1
+"Simon Conseil,Dan F-M",1
+"Simon Conseil,Conor MacBride",1
+"Simon Conseil,Clément Robert",1
+"Simon Conseil,Bruno Oliveira",1
+"Simon Conseil,Brett Morris",1
+"Simon Conseil,AustereCuriosity",1
+"Simon Conseil,Alex Conley",1
+"Simon Conseil,pre-commit-ci[bot]",1
+"Simon Conseil,hamogu",1
+"Simon Conseil,bwinkel",1
+"Simon Conseil,Stuart Littlefair",1
+"Daria Cara,Pey Lian Lim",1
+"Daria Cara,MSeifert04",1
+"Daniel Ruschel Dutra,Ed Slavich",1
+"Daniel D'Avella,unknown",1
+"Daniel D'Avella,Vishnunarayan K I",1
+"Daniel D'Avella,Tim Plummer",1
+"Daniel D'Avella,Stuart Littlefair",1
+"Daniel D'Avella,Simon Conseil",1
+"Daniel D'Avella,Pey Lian Lim",1
+"Daniel D'Avella,P. L. Lim",1
+"Daniel D'Avella,Erik Tollerud",1
+"Simon Conseil,Semyeong Oh",1
+"Stuart Littlefair,Alex Conley",1
+"Stuart Littlefair,Albert Y. Shih",1
+"Steven Crawford,Steve Crawford",1
+"Steven Crawford,Simon Conseil",1
+"Steven Crawford,Alex Hagen",1
+"Steven Bamford,Steven Crawford",1
+"Steven Bamford,Matthew Craig",1
+"Steve Guest,Nathaniel Starkman (@nstarman)",1
+"Steve Crawford,Tom Aldcroft",1
+"Stephen Bailey,pre-commit-ci[bot]",1
+"Stefan Nelson,Michael Seifert",1
+"Stefan Nelson,Brett Morris",1
+"Stefan Becker,Alexander Conley",1
+"Srikrishna Sekhar,Erik Tollerud",1
+"Simon Torres,Tom Aldcroft",1
+"Simon Gibbons,Michael Droettboom",1
+"Stuart Littlefair,Thomas Robitaille",1
+"Stuart Littlefair,Simon Conseil",1
+"Stuart Littlefair,Larry Bradley",1
+"Stuart Littlefair,Juan Luis Cano Rodríguez",1
+"Daniel D'Avella,Devin Crichton",1
+"Daniel,stampsrule",1
+"Daniel,lingxz",1
+"DanRyanIrish,Albert Y. Shih",1
+"Dan Foreman-Mackey,Tom Aldcroft",1
+"Dan F-M,Tom Aldcroft",1
+"Dan D'Avella,Tom Aldcroft",1
+"Dan D'Avella,Thomas Robitaille",1
+"Dan D'Avella,Simon Conseil",1
+"Dan D'Avella,Nadia Dencheva",1
+"Dan D'Avella,Jake VanderPlas",1
+"Stuart Littlefair,Ed Slavich",1
+"Dan D'Avella,Brigitta Sipocz",1
+"Damien LaRocque,Varun Nikam",1
+"Curtis McCully,Brigitta Sipocz",1
+"Curtis McCully,Adrian Price-Whelan",1
+"Cristian Ardelean,Ryan Abernathey",1
+"Cristian Ardelean,Erik M. Bray",1
+"Clément Robert,Stuart Mumford",1
+"Clément Robert,Simon Conseil",1
+"Clément Robert,Mridul Seth",1
+"Clément Robert,Marten Henric van Kerkwijk",1
+"Clément Robert,Larry Bradley",1
+"Stuart Mumford,Clément Robert",1
+"Stuart Mumford,AustereCuriosity",1
+"Stuart Mumford,Adrian Price-Whelan",1
+"Stuart Littlefair,pre-commit-ci[bot]",1
+"Stuart Littlefair,Tom Aldcroft",1
+"Clément Robert,Henry Schreiner",1
+"Clare Shanahan,Derek Homeier",1
+"Clare Shanahan,Antetokounpo",1
+"Clara Brasseur,Thomas Robitaille",1
+"Clara Brasseur,Ed Slavich",1
+"Clara Brasseur,Clare Shanahan",1
+"Christoph Deil,Tom Aldcroft",1
+"Christoph Deil,Matthew Craig",1
+"Stuart Mumford,Vishnunarayan K I",1
+"Stuart Mumford,Pey Lian Lim (Github)",1
+"Stuart Mumford,Mikołaj",1
+"Stuart Mumford,Mihai Cara",1
+"Stuart Mumford,Matthew Craig",1
+"Stuart Mumford,Mark Fardal",1
+"Stuart Mumford,MSeifert04",1
+"Stuart Mumford,Jake VanderPlas",1
+"Christoph Deil,Geert Barentsen",1
+"Christoph Deil,Brett Morris",1
+"Christoph Deil,Adrian Price-Whelan",1
+"Chris Simpson,Larry Bradley",1
+"Chiara Marmo,Simon Conseil",1
+"Bryce Kalmbach,Nadia Dencheva",1
+"Bryce Kalmbach,Brigitta Sipocz",1
+"Bruno Oliveira,AustereCuriosity",1
+"Thomas Robitaille,Albert Y. Shih",1
+"Tanvi Pooranmal Meena,Simon Conseil",1
+"Sushobhana Patra,Leo Singer",1
+"Sudheesh Singanamalla,Thomas Robitaille",1
+"Sudheesh Singanamalla,P. L. Lim",1
+"Sudheesh Singanamalla,Matt Craig",1
+"Stuart Mumford,ritiek",1
+"Stuart Mumford,William Jamieson",1
+"Thomas Robitaille,Kyle Barbary",1
+"Thomas Robitaille,Julien Woillez",1
+"Thomas Robitaille,Jonathan Sick",1
+"Thomas Robitaille,Jeffrey McBeth",1
+"Thomas Robitaille,James Noss",1
+"Thomas Robitaille,Hans Moritz Günther",1
+"Thomas Robitaille,Evert Rol",1
+"Thomas Robitaille,Duncan Macleod",1
+"Thomas Robitaille,Daniel D'Avella",1
+"Thomas Robitaille,Dan D'Avella",1
+"Thomas Robitaille,Chris Beaumont",1
+"Thomas Robitaille,Axel Donath",1
+"Thomas Robitaille,AustereCuriosity",1
+"Christoph Deil,Marten van Kerkwijk",1
+"Christoph Deil,MSeifert04",1
+"Christoph Deil,Larry Bradley",1
+"Thomas Robitaille,Perry Greenfield",1
+"Thomas Robitaille,Ole Streicher",1
+"Thomas Robitaille,Noah Zuckman",1
+"Thomas Robitaille,Nathaniel Starkman (@nstarman)",1
+"Bruce Merry,janerigby",1
+"Brigitta Sipőcz,Tom Aldcroft",1
+"Brigitta Sipőcz,Simon Conseil",1
+"Brigitta Sipőcz,Pey Lian Lim",1
+"Brigitta Sipőcz,Brigitta Sipocz",1
+"Brigitta Sipőcz,P. L. Lim",1
+"Brigitta Sipocz,Ze Vinicius",1
+"Brigitta Sipocz,Tom Donaldson",1
+"Brigitta Sipocz,Tim Jenness",1
+"Thomas Robitaille,Matt Davis",1
+"Thomas Robitaille,Matt Craig",1
+"Thomas Robitaille,Leo Singer",1
+"Thomas Robitaille,Tim Jenness",1
+"Thomas Robitaille,Sudheesh Singanamalla",1
+"Brigitta Sipocz,Stuart Mumford",1
+"Brigitta Sipocz,Stefan Becker",1
+"Brigitta Sipocz,Simon Torres",1
+"Brigitta Sipocz,Shreyas Bapat",1
+"Brigitta Sipocz,Sara Ogaz",1
+"Brigitta Sipocz,Régis Terrier",1
+"Brigitta Sipocz,P. L. Lim",1
+"Brigitta Sipocz,Mihai Cara",1
+"Brigitta Sipocz,Michael Wood-Vasey",1
+"Thomas Robitaille,Steven Bamford",1
+"Thomas Robitaille,Stephen Portillo",1
+"Thomas Robitaille,Semyeong Oh",1
+"Thomas Robitaille,Ryan Fox",1
+"Thomas Robitaille,Pey Lian Lim (Github)",1
+"Tim Jenness,Thomas Robitaille",1
+"Tim Jenness,Simon Conseil",1
+"Brigitta Sipocz,Matteo Bachetti",1
+"Brigitta Sipocz,Leo Singer",1
+"Brigitta Sipocz,Lehman Garrison",1
+"Brigitta Sipocz,John K. Parejko",1
+"Brigitta Sipocz,J. Xavier Prochaska",1
+"Brigitta Sipocz,Helen Sherwood-Taylor",1
+"Brigitta Sipocz,Erik Bray",1
+"Brigitta Sipocz,Derek Homeier",1
+"Brigitta Sipocz,Danny Goldstein",1
+"Tim Jenness,Daniel D'Avella",1
+"Thomas Robitaille,lzkelley",1
+"Thomas Robitaille,janga",1
+"Thomas Robitaille,disha",1
+"Thomas Robitaille,Wolfgang Kerzendorf",1
+"Brigitta Sipocz,Daniel",1
+"Brigitta Sipocz,Alexander Conley",1
+"Brett Morris,Jake VanderPlas",1
+"Brett Morris,Brigitta Sipocz",1
+"Brett Morris,Adrian Price-Whelan",1
+"Brandie-M,P. L. Lim",1
+"Tom Aldcroft,Brett Morris",1
+"Tom Aldcroft,Anne Archibald",1
+"Tom Aldcroft,Andreas Baumbach",1
+"Tom Aldcroft,Anchit Jain",1
+"Tom Aldcroft,Alex Conley",1
+"Tom Aldcroft,Adam Ginsburg",1
+"Tom,Tom Donaldson",1
+"Tom,P. L. Lim",1
+"Tito Dal Canton,Nadia Dencheva",1
+"Tim Jenness,Tom Aldcroft",1
+"Axel Donath,Christoph Deil",1
+"AustereCuriosity,Nadia Dencheva",1
+"AustereCuriosity,MSeifert04",1
+"AustereCuriosity,Daria Cara",1
+"AustereCuriosity,Dan D'Avella",1
+"Tom Aldcroft,Katipally",1
+"Tom Aldcroft,Karan",1
+"Tom Aldcroft,James Noss",1
+"Tom Aldcroft,James E.H. Turner",1
+"Tom Aldcroft,James Davies",1
+"Tom Aldcroft,Jake VanderPlas",1
+"Tom Aldcroft,Henry Ferguson",1
+"Tom Aldcroft,Evert Rol",1
+"Tom Aldcroft,E. Madison Bray",1
+"Tom Aldcroft,David Stansby",1
+"Tom Aldcroft,Daria Cara",1
+"Tom Aldcroft,Tom Donaldson",1
+"Tom Aldcroft,Tim Jenness",1
+"Tom Aldcroft,Stuart Mumford",1
+"Tom Aldcroft,Stuart Littlefair",1
+"Tom Aldcroft,SaraOgaz",1
+"Tom Aldcroft,Sara Ogaz",1
+"Tom Aldcroft,Rui Xue",1
+"Tom Aldcroft,Ricardo Ogando",1
+"Tom Aldcroft,Mihai Cara",1
+"Tom Aldcroft,Miguel de Val-Borro",1
+"Tom Aldcroft,Manodeep Sinha",1
+"Benjamin Winkel,Maximilian Nöthe",1
+"Benjamin Alan Weaver,Tom Aldcroft",1
+"Benjamin Alan Weaver,Jerry Ma",1
+"Benjamin Alan Weaver,Brigitta Sipocz",1
+"Axel Donath,hamogu",1
+"Tom Aldcroft,rirze",1
+"Tom Aldcroft,perrygreenfield",1
+"Tom Aldcroft,kvyh",1
+"Tom Aldcroft,honey",1
+"Austen Groener,Tom Aldcroft",1
+"Austen Groener,Erik M. Bray",1
+"Asra Nizami,Larry Bradley",1
+"Antony Lee,Michael Mueller",1
+"Antony Lee,Erik Tollerud",1
+"AnthonyHorton,Brigitta Sipocz",1
+"Anne Archibald,Stuart Mumford",1
+"Anne Archibald,Simon Conseil",1
+"Tom Aldcroft,github-actions",1
+"Tom Aldcroft,ananyashreyjain",1
+"Tom Aldcroft,William Jamieson",1
+"Tom Aldcroft,Tom J Wilson",1
+"Víctor Zabalza,Thomas Robitaille",1
+"Víctor Zabalza,Erik M. Bray",1
+"Víctor Zabalza,Carl Osterwisch",1
+"Vishnunarayan K I,Thomas Robitaille",1
+"Vishnunarayan K I,Pey Lian Lim",1
+"Vishnunarayan K I,Nadia Dencheva",1
+"Vishnunarayan K I,Adrian Price-Whelan",1
+"Vinayak Mehta,Pey Lian Lim",1
+"Tomas Babej,Erik Tollerud",1
+"Tom Kooij,Marten van Kerkwijk",1
+"Tom J Wilson,MSeifert04",1
+"Tom Donaldson,Mihai Cara",1
+"Tom Donaldson,Ed Slavich",1
+"Tom Donaldson,Albert Y. Shih",1
+"Tom Donaldson,Adrian Price-Whelan",1
+"Tom Aldcroft,yashkmr99",1
+"William Jamieson,pre-commit-ci[bot]",1
+"William Jamieson,iamsoto",1
+"Anne Archibald,MSeifert04",1
+"Anne Archibald,Larry Bradley",1
+"Anne Archibald,Karl Gordon",1
+"Anne Archibald,James E.H. Turner",1
+"Anne Archibald,Erik Tollerud",1
+"Anne Archibald,Derek Homeier",1
+"Andrii Oriekhov,Eero Vaher",1
+"Andrew Hearin,Brigitta Sipocz",1
+"Anchit Jain,mvnnn",1
+"Anchit Jain,Marten van Kerkwijk",1
+"William Jamieson,Larry Bradley",1
+"William Jamieson,Henry Schreiner",1
+"William Jamieson,Eero Vaher",1
+"Wilfred Tyler Gee,Larry Bradley",1
+"alexandre beelen,Pey Lian Lim",1
+"adonath,Thomas Robitaille",1
+"[Leonardo Ferreira],Leonardo Ferreira",1
+"Ze Vinicius,Tom Aldcroft",1
+"Ze Vinicius,Thomas Robitaille",1
+"Ze Vinicius,Simon Conseil",1
+"Ze Vinicius,Sigurd Næss",1
+"Ze Vinicius,Nadia Dencheva",1
+"Ze Vinicius,Michael Seifert",1
+"Ze Vinicius,Larry Bradley",1
+"Ze Vinicius,Brigitta Sipocz",1
+"Ze Vinicius,Adam Ginsburg (keflavich)",1
+"YashNandwana,Nathaniel Starkman (@nstarman)",1
+"Yash,Simon Torres",1
+"Yannick Copin,Erik M. Bray",1
+"Yannick Copin,Brigitta Sipocz",1
+"astrodsg_laptop,Michael Droettboom",1
+"astrodsg_laptop,Marten van Kerkwijk",1
+"astrocaribe,Tom Aldcroft",1
+"astrocaribe,Michael Droettboom",1
+"Alexandre R. Bomfim Junior,Nathaniel Starkman",1
+"Alexandre R. Bomfim Junior,Hélvio Peixoto",1
+"Alexander Rudy,Thomas Robitaille",1
+"Alexander Conley,astrocaribe",1
+"Alexander Conley,Tom Aldcroft",1
+"Alexander Conley,Michael Seifert",1
+"Alexander Conley,Erik Tollerud",1
+"Alexander Conley,Alex Conley",1
+"Alexander Bakanov,Brigitta Sipocz",1
+"Alex Rudy,Pey Lian Lim",1
+"Alex Hagen,hamogu",1
+"aniketmkulkarni,Marten van Kerkwijk",1
+"e-koch,Pey Lian Lim",1
+"duckrojo,Patricio Rojo",1
+"disha,Brigitta Sipocz",1
+"disha,Adrian Price-Whelan",1
+"d-giles,Daniel Giles",1
+"csimpson,Mihai Cara",1
+"csimpson,Clare Shanahan",1
+"crawfordsm,Larry Bradley",1
+"cbonnett,Adrian Price-Whelan",1
+"bwinkel,Benjamin Winkel",1
+"broulston,Nadia Dencheva",1
+"britgit,Erik M. Bray",1
+"bhavyakh,Hans Moritz Günther",1
+"balaram,Erik Tollerud",1
+"astromancer,Simon Conseil",1
+"astromancer,Erik M. Bray",1
+"Alex Conley,Peter Yoachim",1
+"Alex Conley,Matthew Craig",1
+"Alex Conley,Erik M. Bray",1
+"Alex Conley,Brigitta Sipocz",1
+"Alex Conley,Alexander Conley",1
+"Albert Y. Shih,Tom Aldcroft",1
+"Albert Y. Shih,P. L. Lim",1
+"Albert Y. Shih,Marten van Kerkwijk",1
+"Albert Y. Shih,Eero Vaher",1
+"hamogu,Brigitta Sipocz",1
+"hamogu,Antony Lee",1
+"github-actions,P. L. Lim",1
+"github-actions,Nathaniel Starkman",1
+"github-actions,Clément Robert",1
+"ezbc,Erik M. Bray",1
+"ezbc,Elijah Bernstein-Cooper",1
+"janerigby,broulston",1
+"ikkamens,Tom Aldcroft",1
+"ikkamens,Nathaniel Starkman",1
+"iamsoto,P. L. Lim",1
+"iamsoto,Hans Moritz Günther",1
+"honey,Anne Archibald",1
+"himanshupathak21061998,broulston",1
+"himanshupathak21061998,P. L. Lim",1
+"himanshupathak21061998,John K. Parejko",1
+"hcferguson,Nadia Dencheva",1
+"hamogu,kgullikson",1
+"hamogu,Shivan Sornarajah",1
+"hamogu,Michael Mueller",1
+"hamogu,Marten van Kerkwijk",1
+"hamogu,Leo Singer",1
+"Alex Conley,Tom Aldcroft",1
+"kelle,E. Madison Bray",1
+"kaichogami,Marten van Kerkwijk",1
+"kYwzor,Tiago Gomes",1
+"jimboH,Brigitta Sipocz",1
+"Albert Y. Shih,Derek Homeier",1
+"Al Niessner,Michael Seifert",1
+"Akshat1Nar,hamogu",1
+"Akshat1Nar,Akshat Dixit",1
+"Akshat Dixit,hamogu",1
+"Akash Deshpande,Marten van Kerkwijk",1
+"Adrian Price-Whelan,Stuart Littlefair",1
+"Adrian Price-Whelan,Steve Crawford",1
+"Adrian Price-Whelan,Semyeong Oh",1
+"jehturner,James E.H. Turner",1
+"javier-iaa,Larry Bradley",1
+"janga,Larry Bradley",1
+"Adrian Price-Whelan,Mihai Cara",1
+"Adrian Price-Whelan,Maximilian Nöthe",1
+"Adrian Price-Whelan,Matteo Bachetti",1
+"Adrian Price-Whelan,Lauren Glattly",1
+"Adrian Price-Whelan,Larry Bradley",1
+"Adrian Price-Whelan,Karl Gordon",1
+"Adrian Price-Whelan,John Parejko",1
+"Adrian Price-Whelan,James Noss",1
+"Adrian Price-Whelan,Erik Bray",1
+"Adrian Price-Whelan,Duncan Macleod",1
+"Adrian Price-Whelan,David Stansby",1
+"lingxz,ezbc",1
+"lglattly,Adrian Price-Whelan",1
+"kvyh,Anchit Jain",1
+"ktchrn,Erik Bray",1
+"kgullikson,Tom Aldcroft",1
+"shivanshmishra,Mihai Cara",1
+"yashkmr99,Pey Lian Lim",1
+"yashkmr99,P. L. Lim",1
+"yashkmr99,Leo Singer",1
+"--system,MSeifert04",1
+"pre-commit-ci[bot],Stephen Bailey",1
+"pre-commit-ci[bot],Simon Conseil",1
+"pre-commit-ci[bot],Roy Smart",1
+"pre-commit-ci[bot],P. L. Lim",1
+"pre-commit-ci[bot],Nadia Dencheva",1
+"pre-commit-ci[bot],Matt Craig",1
+"perrygreenfield,Tim Plummer",1
+"Adrian Price-Whelan,Dan D'Avella",1
+"Adrian Price-Whelan,Clara Brasseur",1
+"Adrian Price-Whelan,Christoph Deil",1
+"Adrian Price-Whelan,Albert Y. Shih",1
+"Larry Bradley,Curtis McCully",1
+"Larry Bradley,Clément Robert",1
+"Larry Bradley,Axel Donath",1
+"Larry Bradley,Adam Ginsburg (keflavich)",1
+"Kyle Barbary,Erik Bray",1
+"Kevin Sooley,Marten van Kerkwijk",1
+"Kevin Sooley,Erik Tollerud",1
+"Katipally,Tom Aldcroft",1
+"Katipally,Marten van Kerkwijk",1
+"Karl Gordon,Karl D. Gordon",1
+"unknown,Daria Cara",1
+"tylfin,nocturnalastro",1
+"thuiop,Clément Robert",1
+"sushobhana,Tom Aldcroft",1
+"stbnps,Marten van Kerkwijk",1
+"stampsrule,Daniel",1
+,
+Committer Timezone Distribution,Unique Timezones: 21
+Timezone,Commits
++00:00,2200
++01:00,5166
++02:00,3791
++03:00,76
++04:00,6
++05:00,83
++05:30,389
++07:00,4
++08:00,83
++09:00,8
++10:00,52
++11:00,48
++12:00,1
+-02:00,3
+-03:00,294
+-04:00,15027
+-05:00,7734
+-06:00,607
+-07:00,2506
+-08:00,1027
+-10:00,114
+,
+Contributors Experience,Average across 4971 files: 85.00%
+File,Top Contributor Share (%)
+docs/sphinxext/LICENSE.txt,100.00
+docs/sphinxext/__init__.py,100.00
+docs/sphinxext/comment_eater.py,100.00
+docs/sphinxext/compiler_unparse.py,100.00
+docs/sphinxext/docscrape.py,100.00
+docs/sphinxext/docscrape_sphinx.py,100.00
+docs/sphinxext/numpydoc.py,100.00
+docs/sphinxext/phantom_import.py,100.00
+docs/sphinxext/plot_directive.py,100.00
+docs/sphinxext/traitsdoc.py,100.00

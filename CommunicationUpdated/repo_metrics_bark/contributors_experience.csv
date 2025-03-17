@@ -1,0 +1,19 @@
+File,Top Contributor Share (%)
+LICENSE,100.00
+README.md,68.75
+bark/__init__.py,100.00
+bark/api.py,95.21
+bark/generation.py,86.34
+bark/model.py,66.16
+bark/model_fine.py,98.68
+model-card.md,97.67
+pyproject.toml,95.08
+setup.py,100.00
+.gitignore,50.00
+bark/notebooks/fake_classifier.ipynb,99.12
+bark/assets/prompts/readme.md,66.67
+notebooks/long_form_generation.ipynb,100.00
+notebooks/memory_profiling_bark.ipynb,88.63
+notebooks/use_small_models_on_cpu.ipynb,100.00
+bark/__main__.py,100.00
+bark/cli.py,95.95

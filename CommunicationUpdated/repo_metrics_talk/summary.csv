@@ -1,0 +1,151 @@
+Field,Value
+Commits Overview,
+Total Commits,5075
+Total Unique Authors,78
+,
+Top 10 Contributors,
+Author,Commits
+nick-funk,13129
+Wyatt Johnson,7328
+Kathryn Beaty,5904
+Vinh,5090
+Kiwi,4885
+Nick Funk,3930
+Tessa Thornton,3134
+Chi Vinh Le,2487
+Marcus Haddon,1573
+Belén Curcio,1217
+,
+Communication Events,Total: 1064
+"Author1,Author2",Events
+"Tessa Thornton,Nick Funk",76
+"Wyatt Johnson,Kiwi",65
+"Belén Curcio,Chi Vinh Le",56
+"Kiwi,Wyatt Johnson",54
+"Chi Vinh Le,Kiwi",49
+"Nick Funk,Vinh",45
+"Wyatt Johnson,Vinh",37
+"Chi Vinh Le,Belén Curcio",36
+"Wyatt Johnson,Chi Vinh Le",36
+"Nick Funk,Wyatt Johnson",36
+"Nick Funk,Tessa Thornton",30
+"Kathryn Beaty,nick-funk",30
+"Wyatt Johnson,Tessa Thornton",30
+"Kiwi,Chi Vinh Le",28
+"Vinh,Wyatt Johnson",26
+"Tessa Thornton,Wyatt Johnson",26
+"Vinh,Chi Vinh Le",25
+"Chi Vinh Le,Belen Curcio",24
+"nick-funk,Kathryn Beaty",21
+"Vinh,Nick Funk",20
+"Belén Curcio,Wyatt Johnson",16
+"Kathryn Beaty,Marcus Haddon",15
+"Tessa Thornton,Vinh",14
+"Belén Curcio,Belen Curcio",14
+"Kiwi,Belén Curcio",14
+"Vinh,Tessa Thornton",13
+"Marcus Haddon,Kathryn Beaty",13
+"Tessa Thornton,nick-funk",12
+"nick-funk,Tessa Thornton",12
+"Chi Vinh Le,Wyatt Johnson",11
+"Wyatt Johnson,Nick Funk",9
+"Belen Curcio,Belén Curcio",8
+"Wyatt Johnson,Belén Curcio",7
+"Wyatt Johnson,Kim Gardner",6
+"Marcus Haddon,nick-funk",6
+"dependabot[bot],Vinh",6
+"Nick Funk,nick-funk",6
+"Kim Gardner,Wyatt Johnson",5
+"Nick Funk,Kathryn Beaty",5
+"Wyatt Johnson,dependabot[bot]",5
+"Kathryn Beaty,Tessa Thornton",5
+"okbel,Chi Vinh Le",4
+"okbel,Belén Curcio",4
+"dependabot[bot],Tessa Thornton",4
+"Vinh,dependabot[bot]",4
+"Tessa Thornton,dependabot[bot]",4
+"Belén Curcio,Kiwi",4
+"Belen Curcio,Chi Vinh Le",4
+"dependabot[bot],Wyatt Johnson",3
+"nick-funk,Nick Funk",3
+"Marcus Haddon,Nick Funk",3
+"Tessa Thornton,Kim Gardner",3
+"Nick Funk,Kim Gardner",3
+"Kim Gardner,Tessa Thornton",3
+"Chi Vinh Le,Nick Funk",2
+"Cristian Dean,Vinh",2
+"Chi Vinh Le,okbel",2
+"Kathryn Beaty,tessalt",2
+"Belen Curcio,Kiwi",2
+"Belen Curcio,Wyatt Johnson",2
+"Kathryn Beaty,Nick Funk",2
+"nick-funk,Chi Vinh Le",2
+"nick-funk,Marcus Haddon",2
+"Tessa Thornton,Kathryn Beaty",2
+"Tessa Thornton,Yonathan Randolph",2
+"Kiwi,Belen Curcio",2
+"Robin Aguilar,nick-funk",2
+"ant1,Tessa Thornton",2
+"Kim Gardner,Vinh",2
+"Kathryn Beaty,Robin Aguilar",2
+"Wyatt Johnson,Andrew Losowsky",2
+"Wyatt Johnson,Daniel Kolkena",2
+"Kim Gardner,dependabot[bot]",1
+"Kim Gardner,Nick Funk",1
+"Jan Slusarczyk,Tessa Thornton",1
+"Dzarr,Nick Funk",1
+"DimDimDimDimDimDim,Dimitri Piriou",1
+"Daniel Kolkena,Wyatt Johnson",1
+"Chi Vinh Le,Tessa Thornton",1
+"Cristian Dean,Tessa Thornton",1
+"Cristian Dean,Wyatt Johnson",1
+"Chi Vinh Le,Marcus Haddon",1
+"Andrew Losowsky,Wyatt Johnson",1
+"Allan Assis,Cristian Dean",1
+"Jessie Rushing,Kim Gardner",1
+"Daniel Kolkena,Nick Funk",1
+"Vinh,Dzarr",1
+"Tessa Thornton,tessalt",1
+"Ricardo Gomes,Wyatt Johnson",1
+"Tessa Thornton,Robin Aguilar",1
+"Raymon Mens,rmens",1
+"Nick Funk,Daniel Kolkena",1
+"Nick Funk,Chi Vinh Le",1
+"Nick Funk,Marcus Haddon",1
+"Marcus Haddon,Chi Vinh Le",1
+"Wyatt Johnson,nick-funk",1
+"dependabot[bot],Nick Funk",1
+"ant1,Wyatt Johnson",1
+"nick-funk,Aapakallio-Autio Riku",1
+"losowsky,Nick Funk",1
+"rmens,Tessa Thornton",1
+"tessalt,Wyatt Johnson",1
+,
+Committer Timezone Distribution,Unique Timezones: 13
+Timezone,Commits
++00:00,1050
++01:00,83
++02:00,409
++03:00,3
++07:00,9
++08:00,3
++10:00,1
+-03:00,408
+-04:00,928
+-05:00,649
+-06:00,655
+-07:00,784
+-08:00,93
+,
+Contributors Experience,Average across 10474 files: 90.40%
+File,Top Contributor Share (%)
+.editorconfig,100.00
+.nodemonrc.json,100.00
+src/core/server/app/middleware/graphiql.ts,100.00
+src/core/server/app/middleware/graphql.ts,100.00
+src/core/server/app/middleware/serveStatic.ts,100.00
+src/core/server/graph/loaders/asset.ts,100.00
+src/core/server/graph/resolvers/query.ts,100.00
+src/core/server/models/asset.ts,100.00
+src/core/server/models/types.ts,100.00
+src/core/server/services/settings/cache.ts,100.00

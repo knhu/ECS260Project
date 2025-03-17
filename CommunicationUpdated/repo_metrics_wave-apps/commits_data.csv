@@ -1,0 +1,1541 @@
+author,timestamp,file
+VijithaEkanayake,2020-11-12 13:55:38+05:30,.gitignore
+VijithaEkanayake,2020-11-12 13:55:38+05:30,Makefile
+VijithaEkanayake,2020-11-12 13:55:38+05:30,README.md
+VijithaEkanayake,2020-11-12 13:55:38+05:30,data/churnTest.csv
+VijithaEkanayake,2020-11-12 13:55:38+05:30,data/churnTrain.csv
+VijithaEkanayake,2020-11-12 13:55:38+05:30,requirements.txt
+VijithaEkanayake,2020-11-12 13:55:38+05:30,src/__init__.py
+VijithaEkanayake,2020-11-12 13:55:38+05:30,src/app.py
+VijithaEkanayake,2020-11-12 13:55:38+05:30,src/config.py
+VijithaEkanayake,2020-11-12 13:55:38+05:30,src/plots.py
+VijithaEkanayake,2020-11-12 13:55:38+05:30,src/utils.py
+VijithaEkanayake,2020-11-12 13:55:38+05:30,static/churn.png
+Dulaj Atapattu,2020-11-12 14:28:42+05:30,README.md
+VijithaEkanayake,2020-11-12 15:35:55+05:30,src/app.py
+Dulaj Atapattu,2020-11-12 19:44:06+05:30,requirements.txt
+Dulaj Atapattu,2020-11-12 19:44:06+05:30,src/h2o.py
+Dulaj Atapattu,2020-11-12 19:47:19+05:30,Makefile
+lo5,2020-11-13 11:39:01-08:00,.gitignore
+lo5,2020-11-13 11:39:01-08:00,LICENSE
+lo5,2020-11-13 11:39:01-08:00,README.md
+Michelle Tanco,2020-11-13 16:10:01-08:00,README.md
+Michelle Tanco,2020-11-14 09:53:41-08:00,README.md
+Michelle Tanco,2020-11-14 09:53:41-08:00,advanced-wave-dev/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,automatic-restock/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,churn-risk/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,credit-risk/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,explaining-ratings/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,getting-started-with-images/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,getting-started-with-nlp/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,getting-started-with-teachable-machines/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,guess-the-number/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,identifying-fraudsters/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,model-card/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,model-impact/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,sales-forecasting/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,shopping-cart-recommendations/README.md
+Michelle Tanco,2020-11-14 10:08:37-08:00,twitter-sentiment/README.md
+Michelle Tanco,2020-11-14 10:14:56-08:00,README.md
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/Makefile
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/README.md
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/data/churnTest.csv
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/data/churnTrain.csv
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/requirements.txt
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/src/__init__.py
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/src/app.py
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/src/config.py
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/src/h2o.py
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/src/plots.py
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/src/utils.py
+Michelle Tanco,2020-11-14 12:47:32-08:00,churn-risk/static/churn.png
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/README.md
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/app.toml
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/data/walmart_test.csv
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/data/walmart_test_preds.csv
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/data/walmart_train.csv
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/requirements.txt
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/static/icon.png
+Michelle Tanco,2020-11-14 17:02:50-08:00,sales-forecasting/wave-forecast.py
+Michelle Tanco,2020-11-14 17:16:03-08:00,getting-started-with-nlp/sample_code.py
+Michelle Tanco,2020-11-14 17:33:02-08:00,getting-started-with-nlp/README.md
+VijithaEkanayake,2020-11-16 13:21:51+05:30,src/app.py
+VijithaEkanayake,2020-11-16 13:21:51+05:30,src/config.py
+VijithaEkanayake,2020-11-16 13:21:51+05:30,src/plots.py
+Dulaj Atapattu,2020-11-16 15:09:40+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 15:09:40+05:30,src/config.py
+Dulaj Atapattu,2020-11-16 15:40:34+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 15:40:47+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 15:41:29+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 16:16:43+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 16:16:43+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 16:36:00+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 16:36:00+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-16 16:41:16+05:30,src/app.py
+VijithaEkanayake,2020-11-16 16:41:16+05:30,src/plots.py
+Dulaj Atapattu,2020-11-16 17:56:08+05:30,data/churnTrain.csv
+Dulaj Atapattu,2020-11-16 17:56:23+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 17:56:23+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 18:29:26+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 18:29:26+05:30,src/config.py
+Dulaj Atapattu,2020-11-16 18:29:26+05:30,src/h2o.py
+Dulaj Atapattu,2020-11-16 18:29:26+05:30,src/plots.py
+Dulaj Atapattu,2020-11-16 18:31:18+05:30,src/config.py
+Dulaj Atapattu,2020-11-16 18:38:52+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 18:38:52+05:30,src/plots.py
+VijithaEkanayake,2020-11-16 18:43:49+05:30,src/app.py
+VijithaEkanayake,2020-11-16 18:43:49+05:30,src/config.py
+Dulaj Atapattu,2020-11-16 19:03:55+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-16 19:45:30+05:30,src/app.py
+VijithaEkanayake,2020-11-16 19:45:30+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 19:49:48+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 20:07:49+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 20:07:49+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-16 20:11:13+05:30,src/app.py
+VijithaEkanayake,2020-11-16 20:47:09+05:30,src/app.py
+VijithaEkanayake,2020-11-16 20:47:09+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 21:03:27+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 21:03:27+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 21:31:32+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-16 23:16:09+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 23:16:09+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-16 23:38:03+05:30,src/app.py
+VijithaEkanayake,2020-11-16 23:38:03+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-16 23:38:03+05:30,src/config.py
+VijithaEkanayake,2020-11-16 23:38:03+05:30,src/plots.py
+Dulaj Atapattu,2020-11-16 23:46:09+05:30,src/app.py
+Dulaj Atapattu,2020-11-16 23:50:43+05:30,src/app.py
+VijithaEkanayake,2020-11-17 00:13:48+05:30,src/app.py
+VijithaEkanayake,2020-11-17 01:27:22+05:30,about.md
+VijithaEkanayake,2020-11-17 01:27:22+05:30,src/app.py
+VijithaEkanayake,2020-11-17 08:16:26+05:30,src/app.py
+VijithaEkanayake,2020-11-17 08:16:26+05:30,src/config.py
+VijithaEkanayake,2020-11-17 08:39:47+05:30,src/app.py
+Dulaj Atapattu,2020-11-17 10:59:33+05:30,src/app.py
+VijithaEkanayake,2020-11-17 11:11:07+05:30,src/app.py
+Dulaj Atapattu,2020-11-17 13:31:17+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-17 13:32:41+05:30,.gitignore
+Dulaj Atapattu,2020-11-17 13:53:30+05:30,churn-risk/src/churn_predictor.py
+Dulaj Atapattu,2020-11-17 14:01:52+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-17 14:01:52+05:30,churn-risk/src/config.py
+Dulaj Atapattu,2020-11-17 14:01:52+05:30,churn-risk/src/plots.py
+Dulaj Atapattu,2020-11-17 14:01:52+05:30,churn-risk/src/utils.py
+VijithaEkanayake,2020-11-17 15:24:29+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/test/__init__.py
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/test/unit/__init__.py
+VijithaEkanayake,2020-11-17 19:23:28+05:30,churn-risk/test/unit/plots_test.py
+Dulaj Atapattu,2020-11-18 11:29:29+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-18 11:31:59+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-18 11:31:59+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-18 11:33:19+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-18 11:33:19+05:30,churn-risk/test/e2e/__init__.py
+Dulaj Atapattu,2020-11-18 11:33:19+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-18 12:27:06+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-18 12:37:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-18 14:34:46+05:30,churn-risk/app.toml
+VijithaEkanayake,2020-11-18 15:03:38+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-11-18 15:03:38+05:30,churn-risk/test/unit/churn_predictor_test.py
+VijithaEkanayake,2020-11-18 15:03:38+05:30,churn-risk/test/unit/data/__init__.py
+VijithaEkanayake,2020-11-18 15:03:38+05:30,churn-risk/test/unit/data/churnTest.csv
+VijithaEkanayake,2020-11-18 15:03:38+05:30,churn-risk/test/unit/data/churnTrain.csv
+VijithaEkanayake,2020-11-18 15:03:38+05:30,churn-risk/test/unit/plots_test.py
+VijithaEkanayake,2020-11-18 16:43:01+05:30,churn-risk/.coveragerc
+VijithaEkanayake,2020-11-18 16:43:01+05:30,churn-risk/README.md
+VijithaEkanayake,2020-11-18 16:43:01+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-11-18 16:43:01+05:30,churn-risk/test/unit/utils_test.py
+Dulaj Atapattu,2020-11-18 17:17:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-18 17:17:23+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-18 17:17:23+05:30,churn-risk/ci/docker/docker-compose.yml
+Dulaj Atapattu,2020-11-18 23:55:02+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-18 23:55:02+05:30,churn-risk/requirements.txt
+Dulaj Atapattu,2020-11-19 00:12:38+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:15:05+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:26:07+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:26:07+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 00:28:44+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:28:44+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 00:30:33+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:32:28+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:36:28+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 00:36:28+05:30,churn-risk/ci/docker/Dockerfile
+Michelle Tanco,2020-11-18 15:40:42-08:00,README.md
+VijithaEkanayake,2020-11-19 09:42:55+05:30,churn-risk/src/plots.py
+srini-x,2020-11-18 21:24:43-08:00,sales-forecasting/app.toml
+srini-x,2020-11-18 21:24:43-08:00,sales-forecasting/data/walmart_test.csv
+srini-x,2020-11-18 21:24:43-08:00,sales-forecasting/data/walmart_test_preds.csv
+srini-x,2020-11-18 21:24:43-08:00,sales-forecasting/data/walmart_train.csv
+srini-x,2020-11-18 21:24:43-08:00,sales-forecasting/requirements.txt
+srini-x,2020-11-18 21:24:43-08:00,sales-forecasting/wave-forecast.py
+srini-x,2020-11-18 21:33:07-08:00,sales-forecasting/wave-forecast.py
+Dulaj Atapattu,2020-11-19 12:58:48+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 13:00:26+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 13:02:36+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 13:09:46+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 13:12:02+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 13:15:30+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 13:17:47+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 13:49:46+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 13:49:46+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 14:03:13+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 14:04:56+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 14:06:19+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 14:21:40+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 14:22:30+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 14:32:11+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 14:35:35+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 15:17:33+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 15:32:09+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 15:32:09+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 15:34:08+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 16:23:37+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 16:23:37+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-19 16:23:37+05:30,churn-risk/requirements.txt
+Dulaj Atapattu,2020-11-19 16:28:21+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 16:31:28+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 16:47:07+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 16:52:15+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 16:59:20+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-19 16:59:20+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 17:04:22+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-19 17:04:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 17:04:57+05:30,churn-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-19 17:05:44+05:30,churn-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-19 17:07:54+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-19 17:11:37+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-19 17:15:15+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-19 17:22:05+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 17:23:34+05:30,.gitignore
+Dulaj Atapattu,2020-11-19 17:24:14+05:30,churn-risk/ci/docker/docker-compose.yml
+Dulaj Atapattu,2020-11-19 17:41:26+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 17:55:01+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 18:09:17+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-19 18:30:39+05:30,churn-risk/ci/Jenkinsfile
+VijithaEkanayake,2020-11-19 19:19:57+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-19 19:21:06+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-11-19 20:23:21+05:30,churn-risk/.flake8
+VijithaEkanayake,2020-11-19 20:23:21+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-11-19 20:23:21+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/src/churn_predictor.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/src/utils.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/test/unit/churn_predictor_test.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/test/unit/plots_test.py
+VijithaEkanayake,2020-11-19 21:37:58+05:30,churn-risk/test/unit/utils_test.py
+VijithaEkanayake,2020-11-19 22:12:11+05:30,churn-risk/.flake8
+Dulaj Atapattu,2020-11-20 09:32:53+05:30,.gitignore
+Dulaj Atapattu,2020-11-20 09:34:53+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-20 09:38:54+05:30,churn-risk/src/churn_predictor.py
+Dulaj Atapattu,2020-11-20 09:41:48+05:30,churn-risk/src/plots.py
+Dulaj Atapattu,2020-11-20 09:43:34+05:30,churn-risk/requirements.txt
+sairaamv,2020-11-20 10:03:42+05:30,twitter-sentiment/app.toml
+sairaamv,2020-11-20 10:03:42+05:30,twitter-sentiment/hashtag_run.py
+sairaamv,2020-11-20 10:03:42+05:30,twitter-sentiment/requirements.txt
+sairaamv,2020-11-20 10:03:42+05:30,twitter-sentiment/static/icon.jpeg
+srini-x,2020-11-20 01:43:32-08:00,sales-forecasting/requirements.txt
+srini-x,2020-11-20 01:43:32-08:00,sales-forecasting/wave-forecast.py
+srini-x,2020-11-20 02:08:40-08:00,sales-forecasting/app.toml
+srini-x,2020-11-20 02:08:40-08:00,sales-forecasting/wave-forecast.py
+srini-x,2020-11-20 03:01:38-08:00,sales-forecasting/README.md
+srini-x,2020-11-20 03:01:38-08:00,sales-forecasting/static/icon.png
+srini-x,2020-11-20 03:01:38-08:00,sales-forecasting/static/wave_sales_forecast.png
+Vijitha Ekanayake,2020-11-20 16:39:18+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-20 17:21:20+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-20 17:29:43+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-20 17:29:43+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-20 17:45:49+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-20 18:41:38+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-20 18:43:22+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-20 18:51:17+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-20 18:56:45+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-20 19:19:02+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-20 19:19:02+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-20 19:30:26+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-20 19:37:35+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-20 20:24:33+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-20 20:24:33+05:30,churn-risk/ci/Jenkinsfile
+VijithaEkanayake,2020-11-20 20:45:49+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-20 22:09:29+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-20 22:09:29+05:30,churn-risk/src/churn_predictor.py
+VijithaEkanayake,2020-11-20 22:09:29+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-20 22:09:29+05:30,churn-risk/test/unit/churn_predictor_test.py
+srini-x,2020-11-20 18:44:08-08:00,sales-forecasting/app.toml
+srini-x,2020-11-20 18:44:08-08:00,sales-forecasting/requirements.txt
+srini-x,2020-11-20 18:44:08-08:00,sales-forecasting/static/icon.png
+srini-x,2020-11-20 18:44:08-08:00,sales-forecasting/static/wave_sales_forecast.png
+srini-x,2020-11-20 18:44:08-08:00,sales-forecasting/wave-forecast.py
+VijithaEkanayake,2020-11-21 08:19:16+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-23 10:50:22+05:30,churn-risk/src/churn_predictor.py
+Dulaj Atapattu,2020-11-23 10:50:22+05:30,churn-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-23 11:15:48+05:30,churn-risk/src/churn_predictor.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,.gitignore
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/.gitignore
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/Makefile
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/app.toml
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/data/Kaggle/CreditCard-train.csv
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/requirements.txt
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/__init__.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/churn_predictor.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/plots.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/utils.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/views/__init__.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/src/views/credit-risk-view.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/static/icon.png
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/__init__.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/e2e/__init__.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/__init__.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/data/__init__.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/data/churnTest.csv
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/data/churnTrain.csv
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/plots_test.py
+Dulaj Atapattu,2020-11-23 13:56:43+05:30,credit-risk/test/unit/utils_test.py
+Dulaj Atapattu,2020-11-23 14:17:29+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-23 14:17:29+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-23 14:50:46+05:30,churn-risk/src/churn_predictor.py
+Dulaj Atapattu,2020-11-23 17:27:38+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-23 17:27:38+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-23 17:27:38+05:30,credit-risk/src/predictor.py
+Dulaj Atapattu,2020-11-23 18:26:34+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-23 18:26:34+05:30,credit-risk/src/predictor.py
+Dulaj Atapattu,2020-11-23 18:35:50+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-23 18:35:50+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-23 18:47:50+05:30,credit-risk/src/app.py
+VijithaEkanayake,2020-11-24 08:03:50+05:30,Makefile
+VijithaEkanayake,2020-11-24 08:03:50+05:30,data/churnTest.csv
+VijithaEkanayake,2020-11-24 08:03:50+05:30,data/churnTrain.csv
+VijithaEkanayake,2020-11-24 08:03:50+05:30,requirements.txt
+VijithaEkanayake,2020-11-24 08:03:50+05:30,src/__init__.py
+VijithaEkanayake,2020-11-24 08:03:50+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:03:50+05:30,src/config.py
+VijithaEkanayake,2020-11-24 08:03:50+05:30,src/plots.py
+VijithaEkanayake,2020-11-24 08:03:50+05:30,src/utils.py
+VijithaEkanayake,2020-11-24 08:03:50+05:30,static/churn.png
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,requirements.txt
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/h2o.py
+VijithaEkanayake,2020-11-24 08:04:09+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,Makefile
+VijithaEkanayake,2020-11-24 08:04:09+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:09+05:30,src/config.py
+VijithaEkanayake,2020-11-24 08:04:09+05:30,src/plots.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/config.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 08:04:09+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:09+05:30,src/plots.py
+Dulaj Atapattu,2020-11-24 08:04:09+05:30,data/churnTrain.csv
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/config.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/h2o.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/plots.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/config.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/plots.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/config.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:04:10+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:04:36+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 08:04:36+05:30,src/config.py
+VijithaEkanayake,2020-11-24 08:04:36+05:30,src/plots.py
+VijithaEkanayake,2020-11-24 08:04:54+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:06:06+05:30,about.md
+VijithaEkanayake,2020-11-24 08:06:06+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:06:06+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:06:06+05:30,src/config.py
+VijithaEkanayake,2020-11-24 08:06:06+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:06:06+05:30,src/app.py
+VijithaEkanayake,2020-11-24 08:06:06+05:30,src/app.py
+Dulaj Atapattu,2020-11-24 08:06:22+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-24 08:06:27+05:30,.gitignore
+Dulaj Atapattu,2020-11-24 08:06:27+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/src/config.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/src/plots.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/src/utils.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/test/__init__.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/test/unit/__init__.py
+VijithaEkanayake,2020-11-24 08:07:21+05:30,churn-risk/test/unit/plots_test.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/test/e2e/__init__.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:21+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/app.toml
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/test/unit/churn_predictor_test.py
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/test/unit/data/__init__.py
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/test/unit/data/churnTest.csv
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/test/unit/data/churnTrain.csv
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/test/unit/plots_test.py
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/docker-compose.yml
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/.coveragerc
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/README.md
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/test/unit/utils_test.py
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/requirements.txt
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+VijithaEkanayake,2020-11-24 08:07:22+05:30,churn-risk/src/plots.py
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-24 08:07:22+05:30,churn-risk/requirements.txt
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,.gitignore
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/docker/docker-compose.yml
+Dulaj Atapattu,2020-11-24 08:07:23+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:24+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:24+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:24+05:30,churn-risk/ci/Jenkinsfile
+VijithaEkanayake,2020-11-24 08:07:24+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-24 08:07:24+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/.flake8
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/src/utils.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/test/unit/churn_predictor_test.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/test/unit/plots_test.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/test/unit/utils_test.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 08:07:25+05:30,churn-risk/.flake8
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,.gitignore
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/src/plots.py
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/requirements.txt
+Vijitha Ekanayake,2020-11-24 08:07:25+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/Makefile
+Dulaj Atapattu,2020-11-24 08:07:25+05:30,churn-risk/ci/Jenkinsfile
+VijithaEkanayake,2020-11-24 08:07:26+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-24 08:07:26+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-11-24 08:07:26+05:30,churn-risk/test/e2e/walkthrough.py
+VijithaEkanayake,2020-11-24 08:07:26+05:30,churn-risk/test/unit/churn_predictor_test.py
+VijithaEkanayake,2020-11-24 08:07:26+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 08:07:26+05:30,churn-risk/src/app.py
+Dulaj Atapattu,2020-11-24 08:07:26+05:30,churn-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-24 08:07:26+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:07:26+05:30,src/churn_predictor.py
+Dulaj Atapattu,2020-11-24 08:07:26+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 08:07:49+05:30,credit-risk/src/app.py
+VijithaEkanayake,2020-11-24 08:07:49+05:30,credit-risk/src/config.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,credit-risk/src/app.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,credit-risk/src/config.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,data/churnTest.csv
+VijithaEkanayake,2020-11-24 12:12:06+05:30,data/churnTrain.csv
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/__init__.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/app.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/churn_predictor.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/config.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/h2o.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/plots.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,src/utils.py
+VijithaEkanayake,2020-11-24 12:12:06+05:30,static/churn.png
+VijithaEkanayake,2020-11-24 13:34:21+05:30,credit-risk/src/app.py
+VijithaEkanayake,2020-11-24 13:34:21+05:30,credit-risk/src/config.py
+VijithaEkanayake,2020-11-24 15:51:07+05:30,credit-risk/src/app.py
+VijithaEkanayake,2020-11-24 15:51:07+05:30,credit-risk/src/config.py
+VijithaEkanayake,2020-11-24 15:51:07+05:30,credit-risk/src/plots.py
+Dulaj Atapattu,2020-11-24 16:29:37+05:30,.gitignore
+Dulaj Atapattu,2020-11-24 16:49:58+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 16:49:58+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-24 16:50:12+05:30,credit-risk/src/plots.py
+Dulaj Atapattu,2020-11-24 16:56:07+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 16:56:07+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-24 18:45:42+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-24 20:07:27+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 20:12:14+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 21:16:08+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 21:19:29+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 21:24:40+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-24 21:24:40+05:30,credit-risk/src/views/__init__.py
+Dulaj Atapattu,2020-11-24 21:24:40+05:30,credit-risk/src/views/credit-risk-view.py
+VijithaEkanayake,2020-11-24 21:52:40+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 10:12:34+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/__init__.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/src/plots.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/src/views/__init__.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-11-25 10:55:45+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-11-25 10:57:11+05:30,credit-risk/src/utils.py
+Dulaj Atapattu,2020-11-25 10:57:11+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-11-25 10:57:11+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-11-25 10:59:57+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 13:02:58+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 13:02:58+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-11-25 13:04:59+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-25 13:12:12+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 13:12:12+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-25 13:12:12+05:30,credit-risk/src/predictor.py
+Dulaj Atapattu,2020-11-25 13:40:14+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 13:42:42+05:30,credit-risk/Makefile
+Dulaj Atapattu,2020-11-25 13:42:42+05:30,credit-risk/requirements.dev.txt
+Dulaj Atapattu,2020-11-25 13:42:42+05:30,credit-risk/requirements.test.txt
+Dulaj Atapattu,2020-11-25 13:42:42+05:30,credit-risk/requirements.txt
+Dulaj Atapattu,2020-11-25 14:21:04+05:30,about.md
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/ci/Jenkinsfile
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/ci/docker/Dockerfile
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/__init__.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/e2e/__init__.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/e2e/walkthrough.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/__init__.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/churn_predictor_test.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/data/__init__.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/data/churnTest.csv
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/data/churnTrain.csv
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/plots_test.py
+Dulaj Atapattu,2020-11-25 14:21:41+05:30,credit-risk/test/unit/utils_test.py
+Dulaj Atapattu,2020-11-25 14:22:50+05:30,Makefile
+Dulaj Atapattu,2020-11-25 14:22:50+05:30,requirements.txt
+Dulaj Atapattu,2020-11-25 15:56:04+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-11-25 15:57:32+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-11-25 16:08:34+05:30,credit-risk/src/views/customer.py
+VijithaEkanayake,2020-11-25 17:51:25+05:30,credit-risk/src/config.py
+VijithaEkanayake,2020-11-25 17:51:25+05:30,credit-risk/src/views/home.py
+VijithaEkanayake,2020-11-25 18:02:28+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-25 18:33:51+05:30,.gitignore
+VijithaEkanayake,2020-11-25 18:38:01+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-25 20:16:05+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-25 20:25:21+05:30,credit-risk/src/views/customer.py
+VijithaEkanayake,2020-11-25 20:43:17+05:30,credit-risk/src/predictor.py
+VijithaEkanayake,2020-11-25 20:43:17+05:30,credit-risk/src/utils.py
+VijithaEkanayake,2020-11-25 20:43:17+05:30,credit-risk/src/views/customer.py
+VijithaEkanayake,2020-11-25 20:43:17+05:30,credit-risk/src/views/home.py
+VijithaEkanayake,2020-11-25 21:35:25+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-11-25 22:01:40+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-11-25 22:09:54+05:30,credit-risk/src/utils.py
+VijithaEkanayake,2020-11-26 08:19:21+05:30,credit-risk/src/utils.py
+VijithaEkanayake,2020-11-26 08:19:21+05:30,credit-risk/src/views/customer.py
+VijithaEkanayake,2020-11-26 08:19:21+05:30,credit-risk/src/views/home.py
+VijithaEkanayake,2020-11-26 08:34:28+05:30,credit-risk/src/views/home.py
+vopani,2020-11-26 11:43:28+05:30,shopping-cart-recommendations/instacart_market_basket_model.csv
+vopani,2020-11-26 11:43:28+05:30,shopping-cart-recommendations/instacart_products.csv
+vopani,2020-11-26 11:43:28+05:30,shopping-cart-recommendations/requirements.txt
+vopani,2020-11-26 11:43:28+05:30,shopping-cart-recommendations/wave-recommendations.py
+Martin Turoci,2020-11-26 09:13:43+01:00,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-11-26 15:29:14+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-11-26 15:29:14+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-11-26 15:33:02+05:30,credit-risk/README.md
+Dulaj Atapattu,2020-11-26 15:55:31+05:30,credit-risk/src/config.py
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/.gitignore
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/app.toml
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/ci/Jenkinsfile
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/hashtag_run.py
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/requirements.txt
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/src/__init__.py
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-11-30 13:02:14+05:30,twitter-sentiment/src/config.py
+VijithaEkanayake,2020-11-30 15:37:07+05:30,twitter-sentiment/Makefile
+VijithaEkanayake,2020-11-30 15:37:07+05:30,twitter-sentiment/README.md
+VijithaEkanayake,2020-11-30 15:37:07+05:30,twitter-sentiment/__init__.py
+VijithaEkanayake,2020-11-30 15:37:07+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-11-30 15:37:07+05:30,twitter-sentiment/src/config.py
+VijithaEkanayake,2020-11-30 15:37:07+05:30,twitter-sentiment/src/tweet_analyser.py
+VijithaEkanayake,2020-11-30 15:45:49+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-11-30 15:45:49+05:30,twitter-sentiment/src/tweet_analyser.py
+Dulaj Atapattu,2020-11-30 15:46:48+05:30,shopping-cart-recommendations/data/instacart_market_basket_model.csv
+Dulaj Atapattu,2020-11-30 15:46:48+05:30,shopping-cart-recommendations/data/instacart_products.csv
+Dulaj Atapattu,2020-11-30 15:46:48+05:30,shopping-cart-recommendations/src/__init__.py
+Dulaj Atapattu,2020-11-30 15:46:48+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-11-30 15:46:48+05:30,shopping-cart-recommendations/wave-recommendations.py
+Dulaj Atapattu,2020-11-30 15:47:37+05:30,.gitignore
+Dulaj Atapattu,2020-11-30 15:51:28+05:30,.gitignore
+Dulaj Atapattu,2020-11-30 17:09:45+05:30,shopping-cart-recommendations/Makefile
+Dulaj Atapattu,2020-11-30 17:09:45+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2020-11-30 17:37:39+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-11-30 17:37:39+05:30,twitter-sentiment/src/config.py
+VijithaEkanayake,2020-11-30 17:39:08+05:30,twitter-sentiment/src/config.py
+Dulaj Atapattu,2020-11-30 18:19:17+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-11-30 18:19:17+05:30,shopping-cart-recommendations/src/config.py
+VijithaEkanayake,2020-11-30 18:37:00+05:30,twitter-sentiment/README.md
+Dulaj Atapattu,2020-11-30 21:53:00+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-11-30 21:53:00+05:30,shopping-cart-recommendations/src/suggestions.py
+Dulaj Atapattu,2020-11-30 21:54:16+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-11-30 22:57:11+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-11-30 22:57:11+05:30,shopping-cart-recommendations/src/config.py
+Dulaj Atapattu,2020-11-30 22:57:49+05:30,shopping-cart-recommendations/src/suggestions.py
+VijithaEkanayake,2020-12-01 00:35:51+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2020-12-01 00:35:51+05:30,churn-risk/src/app.py
+VijithaEkanayake,2020-12-01 00:35:51+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-12-01 00:35:51+05:30,churn-risk/test/unit/app_test.py
+VijithaEkanayake,2020-12-01 00:35:51+05:30,churn-risk/test/unit/data/sanitize.csv
+VijithaEkanayake,2020-12-01 00:50:13+05:30,churn-risk/src/config.py
+VijithaEkanayake,2020-12-01 08:57:12+05:30,churn-risk/src/plots.py
+VijithaEkanayake,2020-12-01 08:57:12+05:30,churn-risk/test/unit/plots_test.py
+Dulaj Atapattu,2020-12-01 11:55:37+05:30,shopping-cart-recommendations/src/config.py
+Dulaj Atapattu,2020-12-01 12:13:27+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-01 13:38:25+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-01 13:38:25+05:30,shopping-cart-recommendations/src/config.py
+Dulaj Atapattu,2020-12-01 14:52:05+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-01 14:56:53+05:30,credit-risk/README.md
+Dulaj Atapattu,2020-12-01 14:56:53+05:30,credit-risk/requirements.dev.txt
+Dulaj Atapattu,2020-12-01 14:56:53+05:30,credit-risk/requirements.test.txt
+Dulaj Atapattu,2020-12-01 16:32:42+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-01 16:38:23+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-01 17:11:34+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-01 17:11:34+05:30,shopping-cart-recommendations/src/utils.py
+Dulaj Atapattu,2020-12-01 17:16:01+05:30,shopping-cart-recommendations/src/config.py
+Dulaj Atapattu,2020-12-01 17:23:08+05:30,shopping-cart-recommendations/src/utils.py
+Dulaj Atapattu,2020-12-01 19:24:31+05:30,shopping-cart-recommendations/README.md
+Dulaj Atapattu,2020-12-01 19:35:50+05:30,shopping-cart-recommendations/app.toml
+Dulaj Atapattu,2020-12-01 19:35:50+05:30,shopping-cart-recommendations/requirements.txt
+Dulaj Atapattu,2020-12-01 19:35:50+05:30,shopping-cart-recommendations/static/icon.png
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/README.md
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/requirements.txt
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/src/config.py
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/src/plots.py
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/src/tweet_analyser.py
+VijithaEkanayake,2020-12-01 23:25:37+05:30,twitter-sentiment/src/utils.py
+Dulaj Atapattu,2020-12-02 13:14:21+05:30,shopping-cart-recommendations/src/app.py
+VijithaEkanayake,2020-12-02 15:15:51+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-02 15:15:51+05:30,twitter-sentiment/src/config.py
+VijithaEkanayake,2020-12-02 15:15:51+05:30,twitter-sentiment/src/plots.py
+VijithaEkanayake,2020-12-02 15:15:51+05:30,twitter-sentiment/src/utils.py
+VijithaEkanayake,2020-12-02 15:47:57+05:30,twitter-sentiment/src/plots.py
+Dulaj Atapattu,2020-12-02 16:25:43+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-02 16:25:43+05:30,shopping-cart-recommendations/src/utils.py
+VijithaEkanayake,2020-12-02 18:12:30+05:30,explaining-ratings/Makefile
+VijithaEkanayake,2020-12-02 18:12:30+05:30,explaining-ratings/app.toml
+VijithaEkanayake,2020-12-02 18:12:30+05:30,explaining-ratings/data/Datafiniti_Hotel_Reviews.csv
+VijithaEkanayake,2020-12-02 18:12:30+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2020-12-02 18:12:30+05:30,explaining-ratings/src/__init__.py
+Martin Turoci,2020-12-03 15:30:53+01:00,churn-risk/src/utils.py
+Martin Turoci,2020-12-03 15:30:53+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:30:53+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:32:14+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:32:14+01:00,churn-risk/src/config.py
+Martin Turoci,2020-12-03 15:32:14+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:32:14+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:32:14+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:32:14+01:00,churn-risk/src/app.py
+Martin Turoci,2020-12-03 15:43:54+01:00,churn-risk/src/app.py
+VijithaEkanayake,2020-12-04 16:18:38+05:30,explaining-ratings/data/Datafiniti_Hotel_Reviews.csv
+VijithaEkanayake,2020-12-04 16:18:38+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2020-12-04 16:18:38+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-04 16:18:38+05:30,explaining-ratings/src/config.py
+VijithaEkanayake,2020-12-04 16:18:38+05:30,explaining-ratings/static/icon.png
+Dulaj Atapattu,2020-12-04 18:26:02+05:30,explaining-ratings/Makefile
+Dulaj Atapattu,2020-12-04 21:41:03+05:30,explaining-ratings/data/Hotel_Reviews.csv
+Dulaj Atapattu,2020-12-04 21:41:03+05:30,explaining-ratings/src/config.py
+Dulaj Atapattu,2020-12-04 23:14:52+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-04 23:14:52+05:30,explaining-ratings/src/config.py
+Dulaj Atapattu,2020-12-04 23:14:52+05:30,explaining-ratings/src/utils.py
+Dulaj Atapattu,2020-12-04 23:21:56+05:30,explaining-ratings/src/visualizer.py
+VijithaEkanayake,2020-12-05 00:08:56+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-05 00:08:56+05:30,explaining-ratings/src/config.py
+VijithaEkanayake,2020-12-05 00:21:36+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-05 00:21:36+05:30,explaining-ratings/src/config.py
+VijithaEkanayake,2020-12-05 10:45:37+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-05 10:45:37+05:30,explaining-ratings/src/config.py
+VijithaEkanayake,2020-12-05 17:24:46+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-05 17:24:46+05:30,explaining-ratings/src/config.py
+VijithaEkanayake,2020-12-07 09:42:40+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-07 09:44:21+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-07 10:16:07+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-07 12:26:41+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 13:33:31+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 13:33:31+05:30,explaining-ratings/src/utils.py
+Dulaj Atapattu,2020-12-07 13:33:31+05:30,explaining-ratings/src/utils/__init__.py
+Dulaj Atapattu,2020-12-07 13:33:31+05:30,explaining-ratings/src/utils/word_cloud.py
+VijithaEkanayake,2020-12-07 13:35:16+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 13:58:43+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 13:58:43+05:30,explaining-ratings/src/utils/data_utils.py
+Dulaj Atapattu,2020-12-07 15:26:14+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 15:26:14+05:30,explaining-ratings/src/config.py
+Dulaj Atapattu,2020-12-07 15:57:29+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-07 17:08:36+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-07 17:08:36+05:30,explaining-ratings/src/utils/data_utils.py
+VijithaEkanayake,2020-12-07 19:30:01+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 19:49:49+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 19:53:04+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-07 19:56:51+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-07 20:04:14+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-08 08:39:40+05:30,explaining-ratings/Makefile
+Dulaj Atapattu,2020-12-08 08:41:21+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-08 08:41:21+05:30,explaining-ratings/src/utils/word_cloud_utils.py
+VijithaEkanayake,2020-12-08 11:12:28+05:30,explaining-ratings/src/app.py
+Dulaj Atapattu,2020-12-08 11:15:34+05:30,explaining-ratings/app.toml
+Dulaj Atapattu,2020-12-08 11:15:34+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-08 12:34:20+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-08 20:01:37+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-08 20:45:28+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-09 11:20:21+05:30,twitter-sentiment/src/app.py
+Dulaj Atapattu,2020-12-09 13:19:30+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 13:19:30+05:30,shopping-cart-recommendations/src/config.py
+Dulaj Atapattu,2020-12-09 14:11:17+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 14:26:38+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 14:27:16+05:30,.gitignore
+Martin Turoci,2020-12-09 11:05:45+01:00,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 15:56:48+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 16:24:15+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 16:27:04+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 16:27:16+05:30,shopping-cart-recommendations/src/app.py
+Dulaj Atapattu,2020-12-09 16:41:22+05:30,shopping-cart-recommendations/aboud.md
+Dulaj Atapattu,2020-12-09 16:41:22+05:30,shopping-cart-recommendations/app.toml
+Dulaj Atapattu,2020-12-09 17:34:51+05:30,explaining-ratings/aboud.md
+VijithaEkanayake,2020-12-09 18:00:18+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-09 18:24:08+05:30,twitter-sentiment/aboud.md
+VijithaEkanayake,2020-12-09 18:24:08+05:30,twitter-sentiment/app.toml
+Vijitha Ekanayake,2020-12-09 21:14:20+05:30,twitter-sentiment/src/app.py
+Vijitha Ekanayake,2020-12-09 21:14:30+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-09 22:50:23+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2020-12-09 22:50:23+05:30,twitter-sentiment/src/config.py
+Dulaj Atapattu,2020-12-10 12:37:32+05:30,credit-risk/requirements.txt
+Dulaj Atapattu,2020-12-10 18:03:46+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-12-10 18:03:46+05:30,credit-risk/src/plots.py
+Dulaj Atapattu,2020-12-10 18:03:46+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-12-10 18:03:46+05:30,credit-risk/src/views/header.py
+Dulaj Atapattu,2020-12-10 18:03:46+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-12-10 18:03:52+05:30,credit-risk/Makefile
+Dulaj Atapattu,2020-12-10 18:16:52+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-12-10 18:16:52+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-12-10 18:16:52+05:30,credit-risk/src/views/home.py
+Michelle Tanco,2020-12-10 15:47:28-08:00,shopping-cart-recommendations/about.md
+Michelle Tanco,2020-12-10 15:53:31-08:00,shopping-cart-recommendations/about.md
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/.flake8
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/.gitignore
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/.markdownlint.json
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/.pylintrc
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/README.md
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/about.md
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/app.toml
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/guess_the_number/__init__.py
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/guess_the_number/guess.py
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/poetry.lock
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/pyproject.toml
+srini-x,2020-12-10 19:08:00-08:00,guess-the-number/pytest.ini
+srini-x,2020-12-10 21:10:12-08:00,guess-the-number/app.toml
+srini-x,2020-12-10 21:10:12-08:00,guess-the-number/pyproject.toml
+Dulaj Atapattu,2020-12-11 12:11:14+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-12-11 12:11:14+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-12-11 12:19:26+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-12-11 12:19:26+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-12-11 12:19:26+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-12-11 12:19:26+05:30,credit-risk/src/views/header.py
+Dulaj Atapattu,2020-12-11 12:19:26+05:30,credit-risk/src/views/home.py
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/.appignore
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/.vscode/settings.json
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/app.toml
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/guess_the_number/__init__.py
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/guess_the_number/guess.py
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/pyproject.toml
+srini-x,2020-12-11 10:44:40-08:00,guess-the-number/requirements.txt
+VijithaEkanayake,2020-12-12 15:50:31+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-12 15:50:31+05:30,explaining-ratings/src/config.py
+Dulaj Atapattu,2020-12-14 16:35:31+05:30,credit-risk/src/config.py
+Dulaj Atapattu,2020-12-14 16:39:44+05:30,credit-risk/src/app.py
+Dulaj Atapattu,2020-12-14 16:39:44+05:30,credit-risk/src/views/customer.py
+Dulaj Atapattu,2020-12-14 16:39:44+05:30,credit-risk/src/views/home.py
+Dulaj Atapattu,2020-12-14 17:03:58+05:30,explaining-ratings/about.md
+Dulaj Atapattu,2020-12-14 17:07:46+05:30,explaining-ratings/README.md
+Dulaj Atapattu,2020-12-14 18:24:59+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-12-14 18:24:59+05:30,churn-risk/static/screenshots/Churn app - 1.png
+Dulaj Atapattu,2020-12-14 18:24:59+05:30,churn-risk/static/screenshots/Churn app - 3.png
+Dulaj Atapattu,2020-12-14 18:24:59+05:30,churn-risk/static/screenshots/Churn app -2.png
+Dulaj Atapattu,2020-12-14 18:36:37+05:30,churn-risk/static/screenshots/Churn app - 1.png
+Dulaj Atapattu,2020-12-14 18:36:37+05:30,churn-risk/static/screenshots/Churn app -2.png
+Dulaj Atapattu,2020-12-14 18:52:48+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-12-14 18:52:48+05:30,churn-risk/static/screenshots/Churn app - 1.png
+Dulaj Atapattu,2020-12-14 18:52:48+05:30,churn-risk/static/screenshots/Churn app - 3.png
+Dulaj Atapattu,2020-12-14 18:52:48+05:30,churn-risk/static/screenshots/Churn app -2.png
+Dulaj Atapattu,2020-12-14 18:52:48+05:30,churn-risk/static/screenshots/Churn app - 1.png
+Dulaj Atapattu,2020-12-14 18:52:48+05:30,churn-risk/static/screenshots/Churn app -2.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/docs/screenshots/Churn app - 1.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/docs/screenshots/Churn app - 3.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/docs/screenshots/Churn app -2.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,credit-risk/README.md
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,credit-risk/docs/screenshots/Credit Risk - Customer Page.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,credit-risk/docs/screenshots/Credit Risk - Home Page.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/README.md
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/docs/screenshots/churn-app-1.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/docs/screenshots/churn-app-2.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,churn-risk/docs/screenshots/churn-app-3.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,credit-risk/README.md
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,credit-risk/docs/screenshots/credit-risk-customer-page.png
+Dulaj Atapattu,2020-12-14 18:52:49+05:30,credit-risk/docs/screenshots/credit-risk-home-page.png
+Dulaj Atapattu,2020-12-14 18:53:08+05:30,explaining-ratings/README.md
+Dulaj Atapattu,2020-12-14 18:53:08+05:30,explaining-ratings/docs/screenshots/explain-text-app.png
+Dulaj Atapattu,2020-12-14 18:57:45+05:30,shopping-cart-recommendations/README.md
+Dulaj Atapattu,2020-12-14 18:57:45+05:30,shopping-cart-recommendations/docs/screenshots/shopping-app.png
+Michelle Tanco,2020-12-14 17:38:09-08:00,README.md
+Michelle Tanco,2020-12-14 17:46:04-08:00,advanced-wave-dev/README.md
+Michelle Tanco,2020-12-14 17:46:04-08:00,automatic-restock/README.md
+Michelle Tanco,2020-12-14 17:46:04-08:00,getting-started-with-teachable-machines/README.md
+Michelle Tanco,2020-12-14 17:46:04-08:00,identifying-fraudsters/README.md
+Michelle Tanco,2020-12-14 17:46:04-08:00,model-impact/README.md
+VijithaEkanayake,2020-12-15 16:44:11+05:30,twitter-sentiment/README.md
+VijithaEkanayake,2020-12-15 16:44:11+05:30,twitter-sentiment/docs/screenshots/home-page.png
+VijithaEkanayake,2020-12-15 16:44:11+05:30,twitter-sentiment/docs/screenshots/login-page.png
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/.flake8
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/.markdownlint.json
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/.pylintrc
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/.vscode/settings.json
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/README.md
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/guess_the_number/guess.py
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/poetry.lock
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/pyproject.toml
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/pytest.ini
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/static/game_done.png
+srini-x,2020-12-15 03:41:25-08:00,guess-the-number/static/scores.png
+VijithaEkanayake,2020-12-15 21:24:56+05:30,guess-the-number/README.md
+VijithaEkanayake,2020-12-15 21:24:56+05:30,sales-forecasting/README.md
+Michelle Tanco,2020-12-15 07:57:42-08:00,README.md
+Michelle Tanco,2020-12-15 07:57:42-08:00,getting-started-with-images/README.md
+Michelle Tanco,2020-12-15 07:57:42-08:00,getting-started-with-nlp/README.md
+Michelle Tanco,2020-12-15 07:57:42-08:00,getting-started-with-nlp/sample_code.py
+Michelle Tanco,2020-12-15 07:57:42-08:00,model-card/README.md
+Rohan Rao,2020-12-15 21:49:48+05:30,README.md
+SudalaiRajkumar,2020-12-15 22:49:09+05:30,churn-risk/README.md
+SudalaiRajkumar,2020-12-15 22:49:09+05:30,credit-risk/README.md
+SudalaiRajkumar,2020-12-15 22:49:09+05:30,explaining-ratings/README.md
+Trushant,2020-12-15 10:53:28-08:00,churn-risk/README.md
+tkmaker,2020-12-15 11:01:22-08:00,churn-risk/README.md
+Michelle Tanco,2020-12-15 13:27:44-08:00,churn-risk/README.md
+Michelle Tanco,2020-12-15 13:44:38-08:00,churn-risk/README.md
+Michelle Tanco,2020-12-15 13:52:48-08:00,credit-risk/README.md
+Michelle Tanco,2020-12-15 13:54:44-08:00,explaining-ratings/README.md
+Michelle Tanco,2020-12-15 13:58:41-08:00,sales-forecasting/README.md
+Michelle Tanco,2020-12-15 13:59:00-08:00,sales-forecasting/README.md
+Michelle Tanco,2020-12-15 13:59:38-08:00,sales-forecasting/README.md
+Michelle Tanco,2020-12-15 14:01:30-08:00,shopping-cart-recommendations/README.md
+Michelle Tanco,2020-12-15 14:01:51-08:00,shopping-cart-recommendations/README.md
+Michelle Tanco,2020-12-15 14:03:14-08:00,twitter-sentiment/README.md
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/README.md
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/dev_authentication_setup.md
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/guess_the_number/guess.py
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/game_done.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/guess_the_number_0.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/guess_the_number_1.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/guess_the_number_done.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/guess_the_number_private_scores.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/guess_the_number_progress.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/guess_the_number_scores.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/install_wave_server.gif
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/install_wave_server_term.gif
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/jane_smith_logged_in.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/john_smith_all_games.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/john_smith_private_games.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_add_user.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_admin_console.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_admin_login.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_admin_logout.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_client_access_type.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_clients.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_credentials.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_home.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_new_client_save.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_new_user_set_password.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_save_new_user.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/keycloak_view_all_users.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/scores.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/wave_app_env_setup_term.gif
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/wave_app_login.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/wave_app_user_login.png
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/README.md
+srini-x,2020-12-15 15:52:15-08:00,guess-the-number/static/install_wave_server.gif
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/README.md
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/dev_authentication_setup.md
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/guess_the_number_0.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/guess_the_number_1.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/guess_the_number_done.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/guess_the_number_private_scores.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/guess_the_number_progress.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/guess_the_number_scores.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/jane_smith_logged_in.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/john_smith_all_games.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/john_smith_private_games.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/wave_app_login.png
+srini-x,2020-12-15 17:41:23-08:00,guess-the-number/static/wave_app_user_login.png
+srini-x,2020-12-15 18:09:58-08:00,sales-forecasting/README.md
+srini-x,2020-12-15 18:09:58-08:00,sales-forecasting/static/wave_sales_forecast.png
+srini-x,2020-12-15 18:09:58-08:00,sales-forecasting/wave-forecast.py
+VijithaEkanayake,2020-12-16 13:35:41+05:30,churn-risk/README.md
+VijithaEkanayake,2020-12-16 13:35:41+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2020-12-16 13:37:43+05:30,churn-risk/static/screenshots/Churn app - 1.png
+VijithaEkanayake,2020-12-16 13:37:43+05:30,churn-risk/static/screenshots/Churn app - 3.png
+VijithaEkanayake,2020-12-16 13:37:43+05:30,churn-risk/static/screenshots/Churn app -2.png
+VijithaEkanayake,2021-01-20 20:58:54+05:30,churn-risk/src/app.py
+VijithaEkanayake,2021-01-20 20:58:54+05:30,churn-risk/src/config.py
+VijithaEkanayake,2021-01-20 20:58:54+05:30,credit-risk/requirements.txt
+VijithaEkanayake,2021-01-20 20:58:54+05:30,credit-risk/src/views/home.py
+VijithaEkanayake,2021-01-20 20:58:54+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2021-01-20 20:58:54+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2021-01-20 20:58:54+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2021-01-20 20:58:54+05:30,twitter-sentiment/requirements.txt
+Prithvi Prabhu,2021-02-18 09:40:04-08:00,sales-forecasting/.gitignore
+Prithvi Prabhu,2021-02-18 09:40:04-08:00,sales-forecasting/README.md
+Prithvi Prabhu,2021-02-18 09:40:04-08:00,sales-forecasting/wave_forecast.py
+Prithvi Prabhu,2021-02-18 09:42:19-08:00,sales-forecasting/README.md
+VijithaEkanayake,2021-02-19 19:49:32+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,churn-risk/src/app.py
+VijithaEkanayake,2021-02-19 19:49:32+05:30,credit-risk/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,credit-risk/src/views/customer.py
+VijithaEkanayake,2021-02-19 19:49:32+05:30,credit-risk/src/views/home.py
+VijithaEkanayake,2021-02-19 19:49:32+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,twitter-sentiment/requirements.txt
+VijithaEkanayake,2021-02-19 19:49:32+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2021-02-19 19:49:32+05:30,twitter-sentiment/src/plots.py
+VijithaEkanayake,2021-03-11 16:43:49+05:30,twitter-sentiment/src/app.py
+VijithaEkanayake,2021-03-11 16:43:49+05:30,twitter-sentiment/src/plots.py
+VijithaEkanayake,2021-03-11 19:00:58+05:30,credit-risk/src/views/customer.py
+VijithaEkanayake,2021-03-11 19:00:58+05:30,credit-risk/src/views/home.py
+VijithaEkanayake,2021-03-11 19:27:11+05:30,churn-risk/src/app.py
+VijithaEkanayake,2021-03-11 19:50:59+05:30,explaining-ratings/src/app.py
+VijithaEkanayake,2021-03-12 22:17:24+05:30,churn-risk/src/app.py
+VijithaEkanayake,2021-03-15 07:43:23+05:30,credit-risk/static/icon.png
+VijithaEkanayake,2021-03-15 07:43:23+05:30,twitter-sentiment/about.md
+VijithaEkanayake,2021-03-15 08:04:49+05:30,churn-risk/app.toml
+VijithaEkanayake,2021-03-15 11:42:02+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2021-03-15 11:42:02+05:30,churn-risk/src/app.py
+VijithaEkanayake,2021-03-15 11:42:02+05:30,churn-risk/src/utils.py
+VijithaEkanayake,2021-03-15 11:42:02+05:30,twitter-sentiment/app.toml
+VijithaEkanayake,2021-03-15 11:42:02+05:30,twitter-sentiment/requirements.txt
+mturoci,2021-04-01 09:22:55+02:00,.gitignore
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/Makefile
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/README.md
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/about.md
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/ci/Jenkinsfile
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/data/churnTest.csv
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/data/churnTrain.csv
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/docs/screenshots/churn-app-1.png
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/docs/screenshots/churn-app-2.png
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/docs/screenshots/churn-app-3.png
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/docs/screenshots/churn-risk-preview.png
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/requirements.txt
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/src/app.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/src/churn_predictor.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/src/config.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/src/plots.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/src/utils.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/static/churn.png
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/__init__.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/e2e/__init__.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/e2e/walkthrough.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/__init__.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/app_test.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/churn_predictor_test.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/data/__init__.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/data/churnTest.csv
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/data/churnTrain.csv
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/data/sanitize.csv
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/plots_test.py
+mturoci,2021-04-01 09:22:55+02:00,churn-risk/test/unit/utils_test.py
+Joe G,2021-04-03 18:28:02-07:00,churn-risk/src/app.py
+Joe G,2021-04-03 18:28:02-07:00,churn-risk/src/churn_predictor.py
+Joe G,2021-04-06 18:54:28-07:00,churn-risk/src/churn_predictor.py
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/.coveragerc
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/.flake8
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/.gitignore
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/Makefile
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/README.md
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/about.md
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/app.toml
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/ci/Jenkinsfile
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/ci/docker/Dockerfile
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/data/insurance_churn_test.csv
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/data/insurance_churn_train.csv
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/docs/screenshots/churn-risk-preview.png
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/requirements.txt
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/src/__init__.py
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/src/app.py
+Joe G,2021-04-07 16:33:49-07:00,insurance-churn-risk/src/churn_predictor.py
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/README.md
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/data/Hotel_Reviews.csv
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/docs/screenshots/explain-text-app.png
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/requirements.txt
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/src/app.py
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/src/config.py
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/src/utils/__init__.py
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/src/utils/data_utils.py
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/src/utils/word_cloud_utils.py
+mturoci,2021-04-20 15:34:01+02:00,explaining-ratings/static/icon.png
+mturoci,2021-04-20 15:34:24+02:00,sales-forecasting/wave_forecast.py
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/Makefile
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/README.md
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/docs/screenshots/home-page.png
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/requirements.txt
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/src/app.py
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/src/config.py
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/src/plots.py
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/src/tweet_analyser.py
+mturoci,2021-04-20 15:35:25+02:00,twitter-sentiment/src/utils.py
+Michelle Tanco,2021-04-29 15:33:17-07:00,explaining-ratings/app.toml
+Michelle Tanco,2021-04-29 15:33:17-07:00,guess-the-number/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,churn-risk/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,credit-risk/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,explaining-ratings/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,guess-the-number/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,insurance-churn-risk/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,sales-forecasting/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,shopping-cart-recommendations/app.toml
+Michelle Tanco,2021-04-29 15:49:23-07:00,twitter-sentiment/app.toml
+Michelle Tanco,2021-04-29 20:15:09-07:00,churn-risk/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,churn-risk/app.toml
+Michelle Tanco,2021-04-29 20:15:09-07:00,credit-risk/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,credit-risk/app.toml
+Michelle Tanco,2021-04-29 20:15:09-07:00,explaining-ratings/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,explaining-ratings/app.toml
+Michelle Tanco,2021-04-29 20:15:09-07:00,guess-the-number/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,insurance-churn-risk/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,insurance-churn-risk/app.toml
+Michelle Tanco,2021-04-29 20:15:09-07:00,sales-forecasting/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,sales-forecasting/app.toml
+Michelle Tanco,2021-04-29 20:15:09-07:00,shopping-cart-recommendations/about.md
+Michelle Tanco,2021-04-29 20:15:09-07:00,twitter-sentiment/about.md
+Michelle Tanco,2021-04-29 21:00:18-07:00,churn-risk/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,churn-risk/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,churn-risk/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,churn-risk/static/screenshot-3.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,credit-risk/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,credit-risk/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,credit-risk/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,explaining-ratings/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,explaining-ratings/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,explaining-ratings/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,guess-the-number/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,guess-the-number/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,guess-the-number/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,guess-the-number/static/screenshot-3.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,insurance-churn-risk/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,insurance-churn-risk/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,insurance-churn-risk/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,sales-forecasting/app.toml
+Michelle Tanco,2021-04-29 21:00:18-07:00,sales-forecasting/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,sales-forecasting/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,sales-forecasting/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,shopping-cart-recommendations/app.toml
+Michelle Tanco,2021-04-29 21:00:18-07:00,shopping-cart-recommendations/static/icon.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,shopping-cart-recommendations/static/screenshot-1.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,shopping-cart-recommendations/static/screenshot-2.png
+Michelle Tanco,2021-04-29 21:00:18-07:00,twitter-sentiment/static/icon.jpeg
+Michelle Tanco,2021-04-29 21:00:18-07:00,twitter-sentiment/static/icon.png
+Michelle Tanco,2021-04-29 21:26:35-07:00,churn-risk/app.toml
+Michelle Tanco,2021-04-29 21:26:35-07:00,credit-risk/app.toml
+Michelle Tanco,2021-04-29 21:26:35-07:00,explaining-ratings/app.toml
+Michelle Tanco,2021-04-29 21:26:35-07:00,guess-the-number/app.toml
+Michelle Tanco,2021-04-29 21:26:35-07:00,insurance-churn-risk/app.toml
+Michelle Tanco,2021-04-29 21:26:35-07:00,shopping-cart-recommendations/about.md
+Michelle Tanco,2021-04-29 21:26:35-07:00,shopping-cart-recommendations/app.toml
+tkmaker,2021-04-30 09:57:55-07:00,churn-risk/src/app.py
+tkmaker,2021-04-30 10:29:46-07:00,churn-risk/src/app.py
+tkmaker,2021-04-30 11:32:36-07:00,churn-risk/src/app.py
+Rohan Rao,2021-05-05 14:38:27+05:30,insurance-churn-risk/requirements.txt
+Rohan Rao,2021-05-05 14:38:27+05:30,insurance-churn-risk/src/churn_predictor.py
+Rohan Rao,2021-05-05 22:06:09+05:30,insurance-churn-risk/src/churn_predictor.py
+Joe G,2021-05-06 11:46:18-07:00,insurance-churn-risk/src/app.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/app.toml
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/docs/screenshots/credit-risk-customer-page.png
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/docs/screenshots/credit-risk-home-page.png
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/requirements.txt
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/app.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/config.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/model.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/plots.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/predictor.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/utils.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/views/__init__.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/views/customer.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/views/header.py
+Joe G,2021-05-09 19:14:27-07:00,credit-risk/src/views/home.py
+Rohan Rao,2021-05-10 17:03:18+05:30,insurance-churn-risk/src/churn_predictor.py
+Joe G,2021-05-17 01:21:21-07:00,credit-risk/src/app.py
+Joe G,2021-05-17 04:15:04-07:00,credit-risk/src/app.py
+Joe G,2021-05-17 06:43:50-07:00,credit-risk/src/app.py
+Joe G,2021-05-17 06:45:19-07:00,credit-risk/src/app.py
+Joe G,2021-05-17 06:54:44-07:00,credit-risk/src/app.py
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/README.md
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/app.toml
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/docs/screenshots/credit-risk-customer-page.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/docs/screenshots/credit-risk-home-page.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/docs/screenshots/screenshot-1.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/docs/screenshots/screenshot-2.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/docs/screenshots/screenshot-3.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/static/screenshot-1.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/static/screenshot-2.png
+Joe G,2021-05-20 15:36:08-07:00,credit-risk/static/screenshot-3.png
+Rohan Rao,2021-05-21 10:57:51+05:30,credit-risk/requirements.txt
+Rohan Rao,2021-05-21 11:11:25+05:30,credit-risk/src/model.py
+Rohan Rao,2021-05-22 16:00:40+05:30,credit-risk/src/model.py
+Rohan Rao,2021-05-22 23:32:49+05:30,churn-risk/requirements.txt
+Rohan Rao,2021-05-22 23:32:49+05:30,churn-risk/src/churn_predictor.py
+Rohan Rao,2021-05-22 23:33:11+05:30,insurance-churn-risk/src/churn_predictor.py
+Rohan Rao,2021-05-22 23:42:41+05:30,churn-risk/README.md
+Rohan Rao,2021-05-22 23:42:41+05:30,churn-risk/about.md
+Rohan Rao,2021-05-22 23:43:04+05:30,credit-risk/README.md
+Rohan Rao,2021-05-22 23:43:04+05:30,credit-risk/about.md
+Rohan Rao,2021-05-22 23:43:04+05:30,insurance-churn-risk/README.md
+Rohan Rao,2021-05-22 23:43:04+05:30,insurance-churn-risk/about.md
+Rohan Rao,2021-05-22 23:46:21+05:30,credit-risk/src/model.py
+Parul Pandey,2021-06-03 06:53:35+05:30,README.md
+Parul Pandey,2021-06-03 06:53:53+05:30,explaining-ratings/README.md
+Parul Pandey,2021-06-03 06:55:10+05:30,guess-the-number/README.md
+Parul Pandey,2021-06-03 06:55:58+05:30,credit-risk/README.md
+Parul Pandey,2021-06-03 06:56:22+05:30,shopping-cart-recommendations/README.md
+Parul Pandey,2021-06-03 06:56:38+05:30,sales-forecasting/README.md
+Parul Pandey,2021-06-03 06:56:57+05:30,twitter-sentiment/README.md
+MelonieNimasha,2021-06-07 20:13:58+05:30,guess-the-number/about.md
+MelonieNimasha,2021-06-09 14:58:45+05:30,explaining-ratings/app.toml
+MelonieNimasha,2021-06-09 15:00:08+05:30,explaining-ratings/app.toml
+MelonieNimasha,2021-06-09 15:02:39+05:30,explaining-ratings/about.md
+MelonieNimasha,2021-06-09 15:26:38+05:30,twitter-sentiment/app.toml
+MelonieNimasha,2021-06-09 15:37:28+05:30,credit-risk/about.md
+MelonieNimasha,2021-06-09 15:42:58+05:30,insurance-churn-risk/app.toml
+Jasmine Parekh,2021-06-10 11:25:00-04:00,shopping-cart-recommendations/about.md
+Jasmine Parekh,2021-06-10 11:25:00-04:00,shopping-cart-recommendations/src/app.py
+Jasmine Parekh,2021-06-10 11:31:19-04:00,shopping-cart-recommendations/static/screenshot-3.png
+Michelle Tanco,2021-06-10 19:58:02-07:00,shopping-cart-recommendations/app.toml
+Michelle Tanco,2021-06-10 19:58:39-07:00,shopping-cart-recommendations/app.toml
+Michelle Tanco,2021-06-10 20:00:43-07:00,shopping-cart-recommendations/static/screenshot-2.png
+Michelle Tanco,2021-06-10 20:07:00-07:00,shopping-cart-recommendations/static/screenshot-2.png
+Michelle Tanco,2021-06-10 20:09:41-07:00,shopping-cart-recommendations/app.toml
+Jasmine Parekh,2021-07-01 17:09:14-04:00,twitter-sentiment/README.md
+Jasmine Parekh,2021-07-01 17:09:14-04:00,twitter-sentiment/app.toml
+Jasmine Parekh,2021-07-01 17:09:14-04:00,twitter-sentiment/src/app.py
+Jasmine Parekh,2021-07-01 17:10:48-04:00,twitter-sentiment/README.md
+Jasmine Parekh,2021-07-02 15:32:36-04:00,shopping-cart-recommendations/static/.DS_Store
+Jasmine Parekh,2021-07-02 15:32:36-04:00,twitter-sentiment/README.md
+Jasmine Parekh,2021-07-02 15:32:36-04:00,twitter-sentiment/about.md
+Jasmine Parekh,2021-07-02 15:32:36-04:00,twitter-sentiment/app.toml
+Jasmine Parekh,2021-07-02 15:32:36-04:00,twitter-sentiment/docs/screenshots/home-page.png
+Jasmine Parekh,2021-07-02 15:32:36-04:00,twitter-sentiment/static/screenshot-1.png
+Jasmine Parekh,2021-07-02 15:32:36-04:00,twitter-sentiment/static/screenshot-2.png
+geomodular,2021-07-07 16:06:57+02:00,churn-risk/Makefile
+geomodular,2021-07-07 16:06:57+02:00,credit-risk/Makefile
+geomodular,2021-07-07 16:06:57+02:00,explaining-ratings/Makefile
+geomodular,2021-07-07 16:06:57+02:00,guess-the-number/Makefile
+geomodular,2021-07-07 16:06:57+02:00,insurance-churn-risk/Makefile
+geomodular,2021-07-07 16:06:57+02:00,sales-forecasting/Makefile
+geomodular,2021-07-07 16:06:57+02:00,shopping-cart-recommendations/Makefile
+geomodular,2021-07-07 16:06:57+02:00,twitter-sentiment/Makefile
+Jasmine Parekh,2021-07-07 13:38:56-04:00,twitter-sentiment/src/app.py
+geomodular,2021-07-08 12:02:03+02:00,churn-risk/README.md
+geomodular,2021-07-08 12:02:03+02:00,credit-risk/README.md
+geomodular,2021-07-08 12:02:03+02:00,explaining-ratings/README.md
+geomodular,2021-07-08 12:02:03+02:00,guess-the-number/README.md
+geomodular,2021-07-08 12:02:03+02:00,insurance-churn-risk/README.md
+geomodular,2021-07-08 12:02:03+02:00,sales-forecasting/Makefile
+geomodular,2021-07-08 12:02:03+02:00,sales-forecasting/README.md
+geomodular,2021-07-08 12:02:03+02:00,shopping-cart-recommendations/README.md
+geomodular,2021-07-08 12:02:03+02:00,twitter-sentiment/README.md
+Michelle Tanco,2021-07-20 19:24:36-07:00,explaining-ratings/README.md
+Michelle Tanco,2021-07-20 19:24:58-07:00,explaining-ratings/README.md
+Michelle Tanco,2021-07-20 19:26:59-07:00,explaining-ratings/docs/screenshots/explain-text-app.png
+Rasika Perera,2021-12-27 16:30:16+05:30,binder/Dockerfile
+Rasika Perera,2021-12-27 16:32:27+05:30,binder/Dockerfile
+VijithaEkanayake,2021-12-28 09:28:18+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2021-12-28 09:28:18+05:30,credit-risk/requirements.txt
+VijithaEkanayake,2021-12-28 09:28:18+05:30,insurance-churn-risk/requirements.txt
+VijithaEkanayake,2021-12-28 09:43:10+05:30,churn-risk/src/app.py
+VijithaEkanayake,2021-12-28 09:43:10+05:30,credit-risk/src/app.py
+VijithaEkanayake,2021-12-28 09:43:10+05:30,insurance-churn-risk/src/app.py
+VijithaEkanayake,2021-12-28 09:43:10+05:30,shopping-cart-recommendations/src/app.py
+Michelle Tanco,2022-03-18 11:25:25-07:00,template-mlops-single-prediction/README.md
+Michelle Tanco,2022-03-18 11:25:25-07:00,template-mlops-single-prediction/app.py
+Michelle Tanco,2022-03-18 11:25:25-07:00,template-mlops-single-prediction/app.toml
+Michelle Tanco,2022-03-18 11:25:25-07:00,template-mlops-single-prediction/requirements.txt
+Michelle Tanco,2022-03-18 11:25:25-07:00,template-mlops-single-prediction/static/screenshot-1.png
+Michelle Tanco,2022-03-18 11:25:25-07:00,template-mlops-single-prediction/static/screenshot-2.png
+Michelle Tanco,2022-03-18 11:30:45-07:00,template-mlops-single-prediction/README.md
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/README.md
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/app.py
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/app.toml
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/requirements.txt
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/static/screenshot-1.png
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/static/screenshot-2.png
+Michelle Tanco,2022-03-18 14:15:34-07:00,template-explore-binary-classification/static/screenshot-3.png
+Luiz Santos,2022-08-09 20:00:54-03:00,template-mlops-single-prediction/README.md
+Luiz Santos,2022-08-09 20:00:54-03:00,template-mlops-single-prediction/static/screenshot-1.png
+Luiz Santos,2022-08-09 20:00:54-03:00,template-mlops-single-prediction/static/screenshot-2.png
+Nayananga,2022-09-13 15:08:03+05:30,explaining-ratings/app.toml
+Nayananga,2022-09-13 16:18:42+05:30,guess-the-number/app.toml
+Nayananga,2022-09-13 16:18:42+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2022-09-13 22:28:20+05:30,churn-risk/.appignore
+VijithaEkanayake,2022-09-13 22:28:20+05:30,churn-risk/app.toml
+Nayananga,2022-09-13 22:33:02+05:30,twitter-sentiment/app.toml
+Nayananga,2022-09-13 23:06:15+05:30,shopping-cart-recommendations/app.toml
+Nayananga,2022-09-13 23:20:20+05:30,credit-risk/app.toml
+VijithaEkanayake,2022-09-14 00:32:38+05:30,insurance-churn-risk/.appignore
+VijithaEkanayake,2022-09-14 00:32:38+05:30,insurance-churn-risk/app.toml
+VijithaEkanayake,2022-09-14 00:45:00+05:30,churn-risk/.appignore
+VijithaEkanayake,2022-09-14 00:45:00+05:30,insurance-churn-risk/.appignore
+VijithaEkanayake,2022-09-14 00:45:00+05:30,twitter-sentiment/app.toml
+VijithaEkanayake,2022-09-14 00:46:36+05:30,churn-risk/app.toml
+Nayananga,2022-09-14 10:43:47+05:30,credit-risk/app.toml
+Nayananga,2022-09-14 10:43:47+05:30,explaining-ratings/app.toml
+Nayananga,2022-09-14 10:43:47+05:30,guess-the-number/app.toml
+Nayananga,2022-09-14 10:43:47+05:30,shopping-cart-recommendations/app.toml
+Nayananga,2022-09-14 10:43:47+05:30,twitter-sentiment/app.toml
+Martin Turoci,2022-09-20 13:17:30+02:00,CONTRIBUTING.md
+Martin Turoci,2022-09-20 13:18:41+02:00,.github/CODE_OF_CONDUCT.md
+srini-x,2022-09-21 11:53:37-07:00,sales-forecasting/app.toml
+srini-x,2022-09-21 11:53:37-07:00,sales-forecasting/wave_forecast.py
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,audio-recording/Makefile
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,audio-recording/README.md
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,audio-recording/requirements.txt
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,audio-recording/src/__init__.py
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,audio-recording/src/app.py
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,audio-recording/src/record.js
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,graphql-httpx-script/Makefile
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,graphql-httpx-script/README.md
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,graphql-httpx-script/requirements.txt
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,graphql-httpx-script/script.py
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,vscode-editor/Makefile
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,vscode-editor/README.md
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,vscode-editor/requirements.txt
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,vscode-editor/src/__init__.py
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,vscode-editor/src/app.js
+ASHISH LAMSAL,2022-10-03 09:01:28+02:00,vscode-editor/src/app.py
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/h2o_wave-nightly-py3-none-any.whl
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/requirements.txt
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/src/app.py
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/src/tweet_analyser.py
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/static/negative.svg
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/static/neutral.svg
+mturoci,2022-10-03 15:12:29+02:00,twitter-sentiment/static/positive.svg
+Mathanraj-Sharma,2022-10-04 08:44:30+02:00,explaining-ratings/src/app.py
+ASHISH LAMSAL,2022-10-07 17:34:01+02:00,audio-recording/README.md
+ASHISH LAMSAL,2022-10-07 17:34:01+02:00,audio-recording/src/app.py
+ASHISH LAMSAL,2022-10-07 17:34:01+02:00,audio-recording/static/Screenshot-1.png
+ASHISH LAMSAL,2022-10-07 17:34:01+02:00,audio-recording/static/Screenshot-2.png
+Sathiyanarayanan Palani,2022-10-12 09:58:39+02:00,guess-the-number/guess_the_number/guess.py
+Ayush Tiwari,2022-10-17 09:47:43+02:00,README.md
+Martin Turoci,2022-12-20 11:53:32+01:00,docker-development/.gitignore
+Martin Turoci,2022-12-20 11:53:32+01:00,docker-development/README.md
+Martin Turoci,2022-12-20 11:53:32+01:00,docker-development/dockerfile
+Martin Turoci,2022-12-20 11:53:32+01:00,docker-development/requirements.txt
+Martin Turoci,2022-12-20 11:53:32+01:00,docker-development/src/app.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,README.md
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/.gitignore
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/README.md
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/app.toml
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/requirements.txt
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/__init__.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app1.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app10.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app11.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app12.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app13.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app2.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app3.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app4.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app5.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app6.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app7.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app8.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/app9.py
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/static/predictions.csv
+Uri Smashnov,2023-04-21 17:05:47-05:00,emp-churn-step-by-step/src/static/shapley_values.csv
+Uri Smashnov,2023-04-24 08:41:00-05:00,emp-churn-step-by-step/README.md
+Uri Smashnov,2023-04-24 08:44:59-05:00,emp-churn-step-by-step/src/app9.py
+Uri Smashnov,2023-04-24 08:46:52-05:00,emp-churn-step-by-step/src/app13.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/README.md
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app1.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app10.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app11.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app12.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app13.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app3.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app4.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app5.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app6.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app7.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app8.py
+Uri Smashnov,2023-04-24 15:31:32-05:00,emp-churn-step-by-step/src/app9.py
+Uri Smashnov,2023-06-03 15:22:52-05:00,.gitignore
+Uri Smashnov,2023-06-03 15:22:52-05:00,emp-churn-step-by-step/README.md
+Uri Smashnov,2023-06-03 15:22:52-05:00,emp-churn-step-by-step/requirements.txt
+Uri Smashnov,2023-06-03 15:22:52-05:00,emp-churn-step-by-step/src/app10.py
+Uri Smashnov,2023-06-03 15:22:52-05:00,emp-churn-step-by-step/src/app11.py
+Uri Smashnov,2023-06-03 15:22:52-05:00,emp-churn-step-by-step/src/app12.py
+Uri Smashnov,2023-06-03 15:22:52-05:00,emp-churn-step-by-step/src/app13.py
+Uri Smashnov,2023-06-05 11:28:33-05:00,emp-churn-step-by-step/README.md
+Uri Smashnov,2023-06-05 11:28:33-05:00,emp-churn-step-by-step/src/app2.py
+chathurinda,2023-06-06 15:28:32+05:30,.github/workflows/snyk-scan.yaml
+chathurinda,2023-06-06 15:28:32+05:30,audio-recording/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,churn-risk/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,credit-risk/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,docker-development/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,emp-churn-step-by-step/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,explaining-ratings/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,graphql-httpx-script/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,guess-the-number/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,insurance-churn-risk/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,sales-forecasting/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,shopping-cart-recommendations/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,template-explore-binary-classification/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,template-mlops-single-prediction/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,twitter-sentiment/requirements.txt
+chathurinda,2023-06-06 15:28:32+05:30,vscode-editor/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,.github/workflows/snyk-scan.yaml
+chathurinda,2023-06-06 16:05:49+05:30,audio-recording/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,churn-risk/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,credit-risk/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,docker-development/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,emp-churn-step-by-step/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,explaining-ratings/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,graphql-httpx-script/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,guess-the-number/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,insurance-churn-risk/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,sales-forecasting/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,shopping-cart-recommendations/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,template-explore-binary-classification/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,template-mlops-single-prediction/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,twitter-sentiment/requirements.txt
+chathurinda,2023-06-06 16:05:49+05:30,vscode-editor/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,.github/workflows/snyk-scan.yaml
+chathurinda,2023-06-06 16:53:51+05:30,audio-recording/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,churn-risk/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,credit-risk/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,docker-development/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,emp-churn-step-by-step/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,explaining-ratings/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,graphql-httpx-script/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,guess-the-number/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,insurance-churn-risk/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,sales-forecasting/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,shopping-cart-recommendations/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,template-explore-binary-classification/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,template-mlops-single-prediction/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,twitter-sentiment/requirements.txt
+chathurinda,2023-06-06 16:53:51+05:30,vscode-editor/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,.github/workflows/snyk-scan.yaml
+chathurinda,2023-06-06 17:13:29+05:30,audio-recording/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,churn-risk/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,credit-risk/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,docker-development/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,emp-churn-step-by-step/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,explaining-ratings/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,graphql-httpx-script/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,guess-the-number/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,insurance-churn-risk/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,sales-forecasting/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,shopping-cart-recommendations/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,template-explore-binary-classification/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,template-mlops-single-prediction/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,twitter-sentiment/requirements.txt
+chathurinda,2023-06-06 17:13:29+05:30,vscode-editor/requirements.txt
+chathurinda,2023-06-06 17:21:39+05:30,audio-recording/requirements.txt
+chathurinda,2023-06-06 17:21:39+05:30,churn-risk/requirements.txt
+chathurinda,2023-06-06 17:21:39+05:30,insurance-churn-risk/requirements.txt
+chathurinda,2023-06-06 17:21:39+05:30,template-explore-binary-classification/requirements.txt
+chathurinda,2023-06-06 17:21:39+05:30,template-mlops-single-prediction/requirements.txt
+chathurinda,2023-06-06 17:21:39+05:30,twitter-sentiment/requirements.txt
+Chathrinda Ranasinghe,2023-07-03 08:45:44+02:00,.github/CODEOWNERS
+Chathrinda Ranasinghe,2023-07-03 08:45:44+02:00,.github/ISSUE_TEMPLATE/type_bug.md
+Chathrinda Ranasinghe,2023-07-03 08:45:44+02:00,.github/ISSUE_TEMPLATE/type_improvement.md
+Chathrinda Ranasinghe,2023-07-03 08:45:44+02:00,.github/ISSUE_TEMPLATE/type_new_feature.md
+Chathrinda Ranasinghe,2023-07-03 08:45:44+02:00,.github/ISSUE_TEMPLATE/type_task.md
+Chathrinda Ranasinghe,2023-07-03 08:45:44+02:00,.github/pull_request_template.md
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/.gitignore
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/README.md
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/music_and_mental_health.gif
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/music_mental_survey_clean.csv
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/requirements.txt
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/src/app.py
+Boadzie Daniel,2023-07-03 09:15:40+02:00,music-and-mental-health/src/charts.py
+aranvir,2023-07-06 08:29:26+02:00,README.md
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/README.md
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/app.py
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/img/after_login.png
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/img/before_login.png
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/mongodb_layer.py
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/requirements.txt
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/user_auth.py
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/user_register.py
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/util.py
+aranvir,2023-07-06 08:29:26+02:00,jwt-auth/wave_auth.py
+Dwight Spencer (denzuko@mastodon.social),2023-11-13 15:01:42+01:00,docker-development/README.md
+Dwight Spencer (denzuko@mastodon.social),2023-11-13 15:01:42+01:00,docker-development/docker-compose.yml
+Dwight Spencer (denzuko@mastodon.social),2023-11-13 15:01:42+01:00,docker-development/dockerfile
+VijithaEkanayake,2024-02-14 16:03:09+05:30,churn-risk/app.toml
+VijithaEkanayake,2024-02-14 16:03:09+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,credit-risk/app.toml
+VijithaEkanayake,2024-02-14 16:03:09+05:30,credit-risk/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,credit-risk/src/app.py
+VijithaEkanayake,2024-02-14 16:03:09+05:30,explaining-ratings/app.toml
+VijithaEkanayake,2024-02-14 16:03:09+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,guess-the-number/app.toml
+VijithaEkanayake,2024-02-14 16:03:09+05:30,guess-the-number/guess_the_number/guess.py
+VijithaEkanayake,2024-02-14 16:03:09+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,insurance-churn-risk/app.toml
+VijithaEkanayake,2024-02-14 16:03:09+05:30,insurance-churn-risk/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,shopping-cart-recommendations/app.toml
+VijithaEkanayake,2024-02-14 16:03:09+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,template-explore-binary-classification/requirements.txt
+VijithaEkanayake,2024-02-14 16:03:09+05:30,twitter-sentiment/app.toml
+VijithaEkanayake,2024-02-14 20:27:58+05:30,.github/workflows/snyk-scan.yaml
+VijithaEkanayake,2024-02-14 20:27:58+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2024-02-14 20:27:58+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2024-02-14 20:27:58+05:30,template-explore-binary-classification/requirements.txt
+VijithaEkanayake,2024-02-14 22:07:39+05:30,churn-risk/.snyk
+VijithaEkanayake,2024-02-14 22:07:39+05:30,credit-risk/.snyk
+VijithaEkanayake,2024-02-14 22:07:39+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2024-02-14 22:07:39+05:30,insurance-churn-risk/.snyk
+VijithaEkanayake,2024-02-14 22:07:39+05:30,insurance-churn-risk/requirements.txt
+VijithaEkanayake,2024-02-14 22:07:39+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2024-02-14 22:07:39+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2024-02-14 22:07:39+05:30,template-explore-binary-classification/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,churn-risk/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,credit-risk/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,credit-risk/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,explaining-ratings/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,guess-the-number/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,guess-the-number/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,insurance-churn-risk/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,insurance-churn-risk/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,sales-forecasting/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,shopping-cart-recommendations/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2024-02-14 23:12:03+05:30,template-explore-binary-classification/.snyk
+VijithaEkanayake,2024-02-14 23:12:03+05:30,template-explore-binary-classification/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,churn-risk/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,credit-risk/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,explaining-ratings/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,insurance-churn-risk/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,shopping-cart-recommendations/requirements.txt
+VijithaEkanayake,2024-02-16 11:21:26+05:30,template-explore-binary-classification/requirements.txt
+VijithaEkanayake,2024-02-16 11:24:07+05:30,sales-forecasting/requirements.txt
+VijithaEkanayake,2024-02-16 18:48:28+05:30,guess-the-number/guess_the_number/guess.py
+VijithaEkanayake,2024-02-16 18:48:28+05:30,guess-the-number/requirements.txt
+Rohan.Silva@H2O,2024-04-17 15:56:22+02:00,.github/workflows/snyk-scan.yaml
+Uri Smashnov,2024-09-18 11:48:11-05:00,emp-churn-step-by-step/src/app9.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/requirements.txt
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app1.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app10.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app11.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app12.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app13.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app2.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app3.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app4.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app5.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app6.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app7.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app8.py
+Uri Smashnov,2024-09-18 13:06:03-05:00,emp-churn-step-by-step/src/app9.py
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/app.py
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/download.py
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/readme.md
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/requirements.txt
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/1.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/10.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/2.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/3.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/4.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/5.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/6.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/7.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/8.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/9.png
+chanakya chowdary vasantha,2024-09-24 17:02:47+02:00,adas-data-analysis-dashboards/static/df.png

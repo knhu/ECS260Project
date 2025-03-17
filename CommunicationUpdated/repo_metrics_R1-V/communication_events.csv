@@ -1,0 +1,56 @@
+file,author1,author2,time1,time2
+README.md,Liang Chen,Vinci,2025-02-03 04:01:51+08:00,2025-02-02 20:32:53+00:00
+README.md,Vinci,Liang Chen,2025-02-02 21:15:44+00:00,2025-02-03 05:26:30+08:00
+README.md,Liang Chen,Vinci,2025-02-03 05:32:29+08:00,2025-02-02 21:38:56+00:00
+README.md,Vinci,Liang Chen,2025-02-02 21:38:56+00:00,2025-02-03 05:40:33+08:00
+README.md,Liang Chen,Vinci,2025-02-03 12:18:23+08:00,2025-02-03 04:56:58+00:00
+README.md,Vinci,Liang Chen,2025-02-03 04:56:58+00:00,2025-02-03 13:43:26+08:00
+README.md,Liang Chen,chenllliang,2025-02-03 23:27:36+08:00,2025-02-03 15:41:17+00:00
+README.md,chenllliang,Liang Chen,2025-02-04 04:59:51+00:00,2025-02-04 18:06:42+08:00
+README.md,Vinci,Liang Chen,2025-02-06 05:56:21+00:00,2025-02-06 14:14:02+08:00
+README.md,Liang Chen,Vinci,2025-02-06 14:14:02+08:00,2025-02-06 21:58:29+08:00
+README.md,Vinci,Haozhe zhao,2025-02-06 21:59:24+08:00,2025-02-07 01:01:52+08:00
+README.md,Haozhe zhao,Liang Chen,2025-02-07 01:01:52+08:00,2025-02-07 12:28:45+08:00
+README.md,yuezih,Liang Chen,2025-02-10 10:09:57+00:00,2025-02-10 18:33:58+08:00
+README.md,Liang Chen,stephenruan,2025-02-10 18:33:58+08:00,2025-02-10 22:41:55+08:00
+README.md,stephenruan,Vinci,2025-02-10 22:41:55+08:00,2025-02-11 05:46:07+00:00
+README.md,Vinci,Liang Chen,2025-02-11 05:46:07+00:00,2025-02-11 13:48:55+08:00
+README.md,Liang Chen,Vinci,2025-02-11 14:55:17+08:00,2025-02-11 17:08:34+08:00
+README.md,Vinci,Liang Chen,2025-02-11 17:40:27+08:00,2025-02-11 22:54:04+08:00
+README.md,Liang Chen,stephenruan,2025-02-12 01:00:35+08:00,2025-02-12 10:43:55+08:00
+README.md,stephenruan,Liang Chen,2025-02-12 10:43:55+08:00,2025-02-12 11:12:19+08:00
+README.md,Liang Chen,linjh1118,2025-02-12 13:17:17+08:00,2025-02-12 08:45:53+00:00
+README.md,linjh1118,Mi,2025-02-12 08:45:53+00:00,2025-02-12 18:11:10+08:00
+README.md,Mi,Liang Chen,2025-02-12 18:11:10+08:00,2025-02-12 19:07:19+08:00
+README.md,Liang Chen,stephenruan,2025-02-12 19:07:19+08:00,2025-02-13 16:01:38+08:00
+README.md,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:19:23+00:00
+README.md,Vinci,Liang Chen,2025-02-14 07:19:23+00:00,2025-02-15 00:37:09+08:00
+README.md,stephenruan,Liang Chen,2025-02-24 23:39:36+08:00,2025-02-25 16:43:44+08:00
+README.md,Liang Chen,stephenruan,2025-02-25 16:43:44+08:00,2025-02-26 12:40:02+08:00
+setup.sh,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 11:51:14+08:00
+setup.sh,Vinci,yuezih,2025-02-14 11:51:14+08:00,2025-02-14 04:23:40+00:00
+setup.sh,yuezih,Vinci,2025-02-14 04:23:40+00:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/README.md,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/assets/lmm_r1.png,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/assets/plan-of-attack.png,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/configs/qwen2vl_sft_config.yaml,Haozhe Zhao,stephenruan,2025-02-12 16:59:42+00:00,2025-02-13 23:02:37+08:00
+src/open-r1-multimodal/setup.py,LiuRicky,stephenruan,2025-02-13 20:20:42+08:00,2025-02-13 23:02:37+08:00
+src/open-r1-multimodal/slurm/evaluate.slurm,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/slurm/generate.slurm,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/slurm/sft.slurm,stephenruan,Vinci,2025-02-13 23:02:37+08:00,2025-02-14 07:06:28+00:00
+src/open-r1-multimodal/src/open_r1/grpo.py,lilei35,stephenruan,2025-02-09 13:38:18+00:00,2025-02-10 21:09:40+08:00
+src/open-r1-multimodal/src/open_r1/sft.py,Haozhe Zhao,Haozhe zhao,2025-02-12 16:59:42+00:00,2025-02-13 01:01:21+08:00
+src/open-r1-multimodal/src/open_r1/sft.py,Haozhe zhao,stephenruan,2025-02-13 01:01:21+08:00,2025-02-13 23:02:37+08:00
+src/open-r1-multimodal/src/open_r1/sft.py,stephenruan,Haozhe Zhao,2025-02-13 23:02:37+08:00,2025-02-14 01:26:46+00:00
+src/open-r1-multimodal/src/open_r1/trainer/__init__.py,stephenruan,Lei Li,2025-02-10 21:09:40+08:00,2025-02-10 16:07:45+00:00
+src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py,wuhuikai,yuezih,2025-02-10 13:49:36+08:00,2025-02-10 10:09:57+00:00
+src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py,stephenruan,yuezih,2025-02-13 23:02:37+08:00,2025-02-14 04:23:40+00:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,Lei Li,lilei35,2025-02-08 17:40:09+00:00,2025-02-09 13:38:18+00:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,lilei35,stephenruan,2025-02-10 12:43:15+00:00,2025-02-10 21:09:40+08:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,stephenruan,lilei35,2025-02-10 21:09:40+08:00,2025-02-10 13:11:26+00:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,lilei35,Lei Li,2025-02-10 13:11:26+00:00,2025-02-10 17:25:03+00:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,Lei Li,stephenruan,2025-02-12 01:37:11+00:00,2025-02-12 10:43:55+08:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,stephenruan,Lei Li,2025-02-12 10:43:55+08:00,2025-02-12 15:40:13+00:00
+src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py,Lei Li,stephenruan,2025-02-12 15:40:13+00:00,2025-02-13 23:02:37+08:00
+src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py,stephenruan,yuezih,2025-02-24 23:39:36+08:00,2025-02-25 07:57:51+00:00
+src/scripts/run_grpo_vllm_qwen25vl.sh,stephenruan,Liang Chen,2025-03-01 14:33:26+08:00,2025-03-02 03:09:29+08:00

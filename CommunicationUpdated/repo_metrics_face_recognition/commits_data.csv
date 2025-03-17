@@ -1,0 +1,421 @@
+author,timestamp,file
+Adam Geitgey,2017-03-03 16:29:23-08:00,.editorconfig
+Adam Geitgey,2017-03-03 16:29:23-08:00,.github/ISSUE_TEMPLATE.md
+Adam Geitgey,2017-03-03 16:29:23-08:00,.gitignore
+Adam Geitgey,2017-03-03 16:29:23-08:00,.travis.yml
+Adam Geitgey,2017-03-03 16:29:23-08:00,AUTHORS.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,CONTRIBUTING.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,HISTORY.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,LICENSE
+Adam Geitgey,2017-03-03 16:29:23-08:00,MANIFEST.in
+Adam Geitgey,2017-03-03 16:29:23-08:00,Makefile
+Adam Geitgey,2017-03-03 16:29:23-08:00,README.md
+Adam Geitgey,2017-03-03 16:29:23-08:00,README.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/Makefile
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/authors.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/conf.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/contributing.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/face_recognition.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/history.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/index.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/installation.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/make.bat
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/modules.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/readme.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,docs/usage.rst
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/biden.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/digital_makeup.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/find_faces_in_picture.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/find_facial_features_in_picture.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/obama.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/obama2.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,examples/recognize_faces_in_pictures.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,face_recognition/__init__.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,face_recognition/api.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,face_recognition/cli.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,face_recognition/models/dlib_face_recognition_resnet_model_v1.dat
+Adam Geitgey,2017-03-03 16:29:23-08:00,face_recognition/models/shape_predictor_68_face_landmarks.dat
+Adam Geitgey,2017-03-03 16:29:23-08:00,requirements_dev.txt
+Adam Geitgey,2017-03-03 16:29:23-08:00,setup.cfg
+Adam Geitgey,2017-03-03 16:29:23-08:00,setup.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,tests/__init__.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,tests/test_face_recognition.py
+Adam Geitgey,2017-03-03 16:29:23-08:00,tests/test_images/biden.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,tests/test_images/obama.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,tests/test_images/obama2.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,tests/test_images/obama3.jpg
+Adam Geitgey,2017-03-03 16:29:23-08:00,tox.ini
+Adam Geitgey,2017-03-03 16:29:23-08:00,travis_pypi_setup.py
+Adam Geitgey,2017-03-03 16:37:36-08:00,HISTORY.rst
+Adam Geitgey,2017-03-03 16:37:36-08:00,README.rst
+Adam Geitgey,2017-03-04 13:28:28-08:00,Makefile
+Adam Geitgey,2017-03-04 13:28:28-08:00,README.md
+Adam Geitgey,2017-03-04 13:28:28-08:00,setup.py
+Adam Geitgey,2017-03-04 14:16:42-08:00,README.md
+Adam Geitgey,2017-03-04 14:16:42-08:00,README.rst
+Adam Geitgey,2017-03-06 12:21:07-08:00,AUTHORS.rst
+Adam Geitgey,2017-03-06 12:21:07-08:00,Makefile
+Adam Geitgey,2017-03-06 12:21:07-08:00,README.md
+Adam Geitgey,2017-03-06 12:21:07-08:00,docs/face_recognition.rst
+Adam Geitgey,2017-03-06 12:21:07-08:00,docs/index.rst
+Adam Geitgey,2017-03-06 12:21:07-08:00,docs/usage.rst
+Adam Geitgey,2017-03-06 12:21:07-08:00,face_recognition/api.py
+Adam Geitgey,2017-03-06 12:21:07-08:00,face_recognition/cli.py
+Adam Geitgey,2017-03-06 12:21:07-08:00,setup.py
+Adam Geitgey,2017-03-06 12:21:07-08:00,tests/test_face_recognition.py
+Adam Geitgey,2017-03-06 12:46:46-08:00,face_recognition/api.py
+Adam Geitgey,2017-03-06 12:46:46-08:00,face_recognition/models/dlib_face_recognition_resnet_model_v1.dat
+Adam Geitgey,2017-03-06 12:46:46-08:00,face_recognition/models/shape_predictor_68_face_landmarks.dat
+Adam Geitgey,2017-03-06 12:46:46-08:00,setup.py
+Adam Geitgey,2017-03-06 12:46:46-08:00,tests/test_face_recognition.py
+Adam Geitgey,2017-03-06 12:48:45-08:00,face_recognition/cli.py
+Adam Geitgey,2017-03-06 12:50:49-08:00,README.rst
+Adam Geitgey,2017-03-06 14:49:37-08:00,README.md
+Adam Geitgey,2017-03-06 14:49:37-08:00,README.rst
+Adam Geitgey,2017-03-06 14:49:37-08:00,setup.py
+Adam Geitgey,2017-03-06 15:00:15-08:00,HISTORY.rst
+Adam Geitgey,2017-03-06 15:00:15-08:00,README.md
+Adam Geitgey,2017-03-06 15:00:15-08:00,README.rst
+Adam Geitgey,2017-03-06 15:00:15-08:00,setup.py
+Adam Geitgey,2017-03-06 15:08:25-08:00,README.md
+Adam Geitgey,2017-03-06 15:08:25-08:00,README.rst
+Adam Geitgey,2017-03-06 15:19:08-08:00,README.md
+Adam Geitgey,2017-03-06 15:19:08-08:00,README.rst
+Adam Geitgey,2017-03-06 16:31:15-08:00,.travis.yml
+Adam Geitgey,2017-03-06 16:31:15-08:00,requirements.txt
+Adam Geitgey,2017-03-06 16:31:15-08:00,requirements_dev.txt
+Adam Geitgey,2017-03-06 16:31:15-08:00,tox.ini
+Adam Geitgey,2017-03-06 16:31:15-08:00,travis_pypi_setup.py
+Adam Geitgey,2017-03-08 16:47:57-08:00,face_recognition/api.py
+Adam Geitgey,2017-03-08 16:47:57-08:00,tests/test_face_recognition.py
+Adam Geitgey,2017-03-08 16:47:57-08:00,tests/test_images/32bit.png
+Adam Geitgey,2017-03-13 09:02:37-07:00,.travis.yml
+Adam Geitgey,2017-03-13 09:02:37-07:00,README.md
+Adam Geitgey,2017-03-13 09:02:37-07:00,face_recognition/api.py
+Adam Geitgey,2017-03-13 09:10:20-07:00,.travis.yml
+Adam Geitgey,2017-03-13 15:18:47-07:00,.travis.yml
+Adam Geitgey,2017-03-13 15:23:39-07:00,.travis.yml
+Adam Geitgey,2017-03-13 15:33:24-07:00,.travis.yml
+Adam Geitgey,2017-03-13 15:39:47-07:00,.travis.yml
+Adam Geitgey,2017-03-13 15:45:37-07:00,.travis.yml
+Adam Geitgey,2017-03-13 15:58:29-07:00,.travis.yml
+Adam Geitgey,2017-03-13 16:18:02-07:00,face_recognition/cli.py
+Adam Geitgey,2017-03-13 16:32:21-07:00,README.md
+Adam Geitgey,2017-03-13 16:34:57-07:00,README.md
+Adam Geitgey,2017-03-13 16:34:57-07:00,README.rst
+Adam Geitgey,2017-03-13 16:36:00-07:00,HISTORY.rst
+Adam Geitgey,2017-03-13 16:36:00-07:00,setup.py
+Adam Geitgey,2017-03-13 16:50:34-07:00,docs/conf.py
+Adam Geitgey,2017-03-13 16:59:37-07:00,requirements_docs.txt
+Adam Geitgey,2017-03-13 17:09:49-07:00,README.md
+Adam Geitgey,2017-03-13 17:09:49-07:00,README.rst
+Adam Geitgey,2017-03-15 09:57:23-07:00,README.md
+Adam Geitgey,2017-03-16 09:10:51-07:00,requirements.txt
+Adam Geitgey,2017-03-16 09:10:51-07:00,setup.py
+Adam Geitgey,2017-03-16 10:01:06-07:00,requirements.txt
+Adam Geitgey,2017-03-16 10:01:06-07:00,setup.py
+Adam Geitgey,2017-03-16 10:02:57-07:00,HISTORY.rst
+Adam Geitgey,2017-03-16 10:02:57-07:00,setup.py
+Adam Geitgey,2017-03-16 14:25:47-07:00,setup.cfg
+Marcus Medley,2017-03-16 14:45:41-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-03-17 14:07:52-07:00,README.md
+Adam Geitgey,2017-03-17 14:07:52-07:00,examples/facerec_from_webcam.py
+Adam Geitgey,2017-03-17 14:08:37-07:00,README.rst
+Adam Geitgey,2017-03-17 16:27:54-07:00,face_recognition/api.py
+Adam Geitgey,2017-03-17 16:27:54-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-03-17 16:27:54-07:00,tests/test_images/obama_partial_face.jpg
+Adam Geitgey,2017-03-17 16:27:54-07:00,tests/test_images/obama_partial_face2.jpg
+cclauss,2017-03-18 19:13:03-07:00,.travis.yml
+Jesse Cooper,2017-03-19 13:20:27-07:00,face_recognition/api.py
+Marcus Medley,2017-03-20 10:20:18-07:00,.travis.yml
+Marcus Medley,2017-03-20 10:20:18-07:00,face_recognition/cli.py
+Marcus Medley,2017-03-20 10:20:18-07:00,setup.cfg
+Marcus Medley,2017-03-20 10:20:18-07:00,setup.py
+Marcus Medley,2017-03-20 10:20:18-07:00,tests/test_face_recognition.py
+Marcus Medley,2017-03-20 10:20:18-07:00,tox.ini
+Adam Geitgey,2017-03-21 13:44:11-07:00,README.md
+Adam Geitgey,2017-03-21 13:44:11-07:00,README.rst
+Adam Geitgey,2017-03-21 13:44:11-07:00,HISTORY.rst
+Adam Geitgey,2017-03-21 13:44:11-07:00,setup.py
+Adam Geitgey,2017-03-21 14:22:28-07:00,Dockerfile
+Adam Geitgey,2017-03-21 14:26:35-07:00,README.md
+Adam Geitgey,2017-03-24 14:34:59-07:00,README.md
+Adam Geitgey,2017-03-24 14:34:59-07:00,examples/facerec_from_webcam.py
+Adam Geitgey,2017-03-24 14:34:59-07:00,examples/facerec_from_webcam_faster.py
+Adam Geitgey,2017-03-28 15:31:50-07:00,README.md
+Adam Geitgey,2017-03-30 15:25:08-07:00,face_recognition/cli.py
+Adam Geitgey,2017-03-30 15:26:43-07:00,HISTORY.rst
+Adam Geitgey,2017-03-30 15:26:43-07:00,setup.py
+Adam Geitgey,2017-04-04 13:13:14-07:00,face_recognition/__init__.py
+Adam Geitgey,2017-04-04 13:13:14-07:00,face_recognition/api.py
+Adam Geitgey,2017-04-04 13:13:14-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-04-04 14:03:18-07:00,examples/web_service_example.py
+Adam Geitgey,2017-04-04 14:03:18-07:00,README.md
+Adam Geitgey,2017-04-13 15:47:19+01:00,face_recognition/api.py
+Adam Geitgey,2017-04-13 15:47:19+01:00,tests/test_face_recognition.py
+Adam Geitgey,2017-04-13 15:47:19+01:00,HISTORY.rst
+Adam Geitgey,2017-04-13 15:47:19+01:00,setup.py
+Adam Geitgey,2017-04-20 13:25:24-07:00,README.md
+Adam Geitgey,2017-04-20 13:25:24-07:00,examples/facerec_on_raspberry_pi.py
+Adam Geitgey,2017-04-20 13:25:24-07:00,examples/obama_small.jpg
+Adam Geitgey,2017-04-20 13:31:41-07:00,README.md
+Adam Geitgey,2017-04-20 14:09:22-07:00,README.md
+Adam Geitgey,2017-04-20 14:09:22-07:00,README.rst
+Adam Geitgey,2017-04-20 14:13:34-07:00,HISTORY.rst
+Adam Geitgey,2017-04-20 14:13:34-07:00,setup.py
+Giorgos Logiotatidis,2017-04-22 16:06:44-07:00,face_recognition/cli.py
+Adam Geitgey,2017-04-22 16:09:26-07:00,HISTORY.rst
+Adam Geitgey,2017-04-22 16:09:26-07:00,setup.py
+Adam Geitgey,2017-05-01 13:13:24-07:00,examples/facerec_on_raspberry_pi.py
+Adam Geitgey,2017-05-26 12:09:19-07:00,README.md
+Adam Geitgey,2017-06-05 14:13:46-07:00,README.md
+Adam Geitgey,2017-06-26 15:15:53-07:00,README.md
+Adam Geitgey,2017-06-26 15:15:53-07:00,face_recognition/cli.py
+Adam Geitgey,2017-06-26 15:15:53-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-06-26 15:15:53-07:00,face_recognition/cli.py
+Adam Geitgey,2017-06-27 10:34:21-07:00,README.md
+Adam Geitgey,2017-06-27 10:34:21-07:00,examples/face_distance.py
+Adam Geitgey,2017-07-03 09:55:30-07:00,HISTORY.rst
+Adam Geitgey,2017-07-03 09:55:30-07:00,setup.py
+Chandan Rai,2017-07-28 09:54:20-07:00,docs/usage.rst
+Adam Geitgey,2017-08-03 11:25:11-07:00,README.md
+Adam Geitgey,2017-08-03 11:25:11-07:00,face_recognition/cli.py
+Adam Geitgey,2017-08-03 11:25:11-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-08-03 11:25:11-07:00,setup.py
+Adam Geitgey,2017-08-03 11:25:11-07:00,face_recognition/cli.py
+Adam Geitgey,2017-08-07 11:27:58-07:00,README.md
+Adam Geitgey,2017-08-07 11:27:58-07:00,face_recognition/cli.py
+Adam Geitgey,2017-08-07 11:27:58-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-08-07 11:27:58-07:00,HISTORY.rst
+Adam Geitgey,2017-08-07 11:27:58-07:00,setup.py
+Adam Geitgey,2017-08-07 11:52:28-07:00,HISTORY.rst
+Adam Geitgey,2017-08-07 11:52:28-07:00,examples/benchmark.py
+Adam Geitgey,2017-08-07 11:52:28-07:00,examples/obama-1080p.jpg
+Adam Geitgey,2017-08-07 11:52:28-07:00,examples/obama-240p.jpg
+Adam Geitgey,2017-08-07 11:52:28-07:00,examples/obama-480p.jpg
+Adam Geitgey,2017-08-07 11:52:28-07:00,examples/obama-720p.jpg
+Adam Geitgey,2017-08-07 11:54:47-07:00,HISTORY.rst
+Tobias Mérinat,2017-08-07 16:17:15-07:00,face_recognition/api.py
+Tobias Mérinat,2017-08-07 16:17:15-07:00,face_recognition/api.py
+Adam Geitgey,2017-08-15 09:07:16-07:00,README.md
+Adam Geitgey,2017-08-29 12:56:17-07:00,Dockerfile
+Adam Geitgey,2017-08-29 12:56:17-07:00,HISTORY.rst
+Adam Geitgey,2017-08-29 12:56:17-07:00,README.md
+Adam Geitgey,2017-08-29 12:56:17-07:00,README.rst
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/alex-lacamoire.png
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/facerec_from_video_file.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/find_faces_in_batches.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/find_faces_in_picture.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/find_faces_in_picture_cnn.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/hamilton_clip.mp4
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/lin-manuel-miranda.png
+Adam Geitgey,2017-08-29 12:56:17-07:00,examples/short_hamilton_clip.mp4
+Adam Geitgey,2017-08-29 12:56:17-07:00,face_recognition/__init__.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,face_recognition/api.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,setup.py
+Adam Geitgey,2017-08-29 12:56:17-07:00,tests/test_face_recognition.py
+Adam Geitgey,2017-09-01 12:17:39-07:00,README.md
+Adam Geitgey,2017-09-16 17:49:02-07:00,README.md
+Kevin Scott,2017-09-20 00:47:22-07:00,README.md
+Adam Geitgey,2017-10-05 16:10:03-07:00,Dockerfile
+Adam Geitgey,2017-10-05 16:10:03-07:00,HISTORY.rst
+Adam Geitgey,2017-10-05 16:10:03-07:00,README.md
+Adam Geitgey,2017-10-05 16:10:03-07:00,README.rst
+Adam Geitgey,2017-10-05 16:10:03-07:00,examples/recognize_faces_in_pictures.py
+Adam Geitgey,2017-10-05 16:10:03-07:00,face_recognition/api.py
+Adam Geitgey,2017-10-05 16:10:03-07:00,setup.py
+DoItNow,2017-11-29 23:49:36+01:00,face_recognition/api.py
+Adam Geitgey,2017-11-30 18:38:10+01:00,setup.py
+Adam Geitgey,2017-11-30 18:38:10+01:00,tox.ini
+harryxu,2017-12-07 00:41:54+01:00,face_recognition/api.py
+itamar8910,2017-12-26 18:10:02+01:00,README.md
+itamar8910,2017-12-26 18:10:02+01:00,examples/face_recognition_knn.py
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/test/alex_lacamoire1.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/test/johnsnow_test1.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/test/kit_with_rose.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/test/obama1.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/test/obama_and_biden.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/alex_lacamoire/img1.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/biden/biden.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/biden/biden2.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/kit_harington/john1.jpeg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/kit_harington/john2.jpeg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/obama/obama.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/obama/obama2.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/rose_leslie/img1.jpg
+itamar8910,2017-12-26 18:10:02+01:00,examples/knn_examples/train/rose_leslie/img2.jpg
+Adam Geitgey,2018-01-01 22:57:10+01:00,examples/facerec_from_video_file.py
+Adam Geitgey,2018-01-01 22:57:10+01:00,examples/facerec_from_webcam.py
+Adam Geitgey,2018-01-01 22:57:10+01:00,examples/facerec_from_webcam_faster.py
+Adam Geitgey,2018-01-01 22:57:10+01:00,examples/find_faces_in_batches.py
+Alain Pilon,2018-01-03 21:52:26+01:00,.github/ISSUE_TEMPLATE.md
+Adam Geitgey,2018-01-05 23:52:03+01:00,examples/blur_faces_on_webcam.py
+Adam Geitgey,2018-01-26 18:03:33+01:00,examples/facerec_from_webcam.py
+Adam Geitgey,2018-01-26 18:03:33+01:00,examples/facerec_from_webcam_faster.py
+Adam Geitgey,2018-01-26 18:03:33+01:00,examples/recognize_faces_in_pictures.py
+jose nazario,2018-02-01 19:57:49+01:00,README.md
+Adam Geitgey,2018-02-01 20:45:59+01:00,Dockerfile
+Adam Geitgey,2018-02-01 11:47:41-08:00,HISTORY.rst
+Adam Geitgey,2018-02-01 11:51:30-08:00,setup.py
+Adam Geitgey,2018-02-01 12:05:07-08:00,README.rst
+Adam Geitgey,2018-02-01 12:08:51-08:00,setup.py
+Adam Geitgey,2018-02-05 19:07:55+01:00,README.md
+Adam Geitgey,2018-02-05 19:07:55+01:00,examples/identify_and_draw_boxes_on_faces.py
+Adam Geitgey,2018-02-05 19:07:55+01:00,examples/two_people.jpg
+Adam Geitgey,2018-02-21 18:27:53+01:00,examples/web_service_example.py
+Adam Geitgey,2018-02-27 21:16:59+01:00,docs/conf.py
+Adam Geitgey,2018-02-27 21:16:59+01:00,face_recognition/__init__.py
+Adam Geitgey,2018-02-27 21:16:59+01:00,face_recognition/api.py
+Adam Geitgey,2018-02-27 21:16:59+01:00,face_recognition/cli.py
+Adam Geitgey,2018-02-27 21:16:59+01:00,setup.cfg
+Adam Geitgey,2018-02-27 21:16:59+01:00,setup.py
+Adam Geitgey,2018-02-27 21:16:59+01:00,tests/test_face_recognition.py
+Adam Geitgey,2018-03-05 22:09:30+01:00,examples/face_recognition_knn.py
+Adam Geitgey,2018-03-05 22:09:30+01:00,HISTORY.rst
+Adam Geitgey,2018-03-08 20:37:05+01:00,README.md
+Adam Geitgey,2018-03-08 20:37:05+01:00,examples/face_recognition_knn.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,face_recognition/face_detection_cli.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,face_recognition/face_recognition_cli.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,setup.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,tests/test_face_recognition.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,HISTORY.rst
+Adam Geitgey,2018-03-08 20:37:05+01:00,README.md
+Adam Geitgey,2018-03-08 20:37:05+01:00,face_recognition/api.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,face_recognition/face_detection_cli.py
+Adam Geitgey,2018-03-08 20:37:05+01:00,face_recognition/api.py
+Aaron Nielsen,2018-03-09 22:20:46+01:00,face_recognition/face_recognition_cli.py
+Adam Geitgey,2018-03-22 16:10:06+01:00,Dockerfile
+Adam Geitgey,2018-04-02 10:17:19-07:00,HISTORY.rst
+Adam Geitgey,2018-04-18 09:36:50-07:00,README.md
+Guillaume 'Vermeille' Sanchez,2018-05-29 17:04:56-07:00,face_recognition/api.py
+Adam Geitgey,2018-05-30 09:36:56-07:00,examples/find_facial_features_in_picture.py
+Adam Geitgey,2018-05-30 09:36:56-07:00,face_recognition/api.py
+Adam Geitgey,2018-05-30 09:36:56-07:00,tests/test_face_recognition.py
+Adam Geitgey,2018-05-30 09:38:25-07:00,HISTORY.rst
+Adam Geitgey,2018-07-09 10:43:01-07:00,README.md
+Eugene Duboviy,2018-08-16 15:25:28-07:00,.travis.yml
+Rai220,2018-08-21 10:02:46-07:00,examples/ipynb_examples/track_faces_on_video_realtime.ipynb
+Rai220,2018-08-21 10:02:46-07:00,examples/ipynb_examples/track_faces_on_video_realtime.ipynb
+Adam Geitgey,2018-08-21 11:33:11-07:00,HISTORY.rst
+Adam Geitgey,2018-08-21 11:33:11-07:00,face_recognition/__init__.py
+Adam Geitgey,2018-08-21 11:33:11-07:00,setup.py
+Adam Geitgey,2018-08-21 11:33:11-07:00,examples/find_facial_features_in_picture.py
+Adam Geitgey,2018-08-21 11:33:11-07:00,HISTORY.rst
+Tommy in Tongji,2018-10-30 14:55:24-07:00,README_Simpified_Chinese.md
+Tommy in Tongji,2018-10-30 14:55:24-07:00,README_Simplified_Chinese.md
+Tommy in Tongji,2018-10-30 14:55:24-07:00,examples/web_service_example_Simplified_Chinese.py
+Tommy in Tongji,2018-10-30 14:55:24-07:00,examples/facerec_on_raspberry_pi_Simplified_Chinese.py
+Tommy in Tongji,2018-10-30 14:55:24-07:00,README.md
+Tommy in Tongji,2018-10-30 14:55:24-07:00,README_Simplified_Chinese.md
+Adam Geitgey,2018-10-30 14:57:07-07:00,README.md
+Mike,2018-12-20 08:02:01-08:00,README.md
+Adam Geitgey,2019-02-11 09:10:02-08:00,requirements_dev.txt
+Enric Moreu,2019-03-04 11:58:02-08:00,Dockerfile
+Enric Moreu,2019-03-04 11:58:02-08:00,docker-compose.yml
+Enric Moreu,2019-03-04 11:58:02-08:00,README.md
+Enric Moreu,2019-03-04 11:58:02-08:00,README.md
+Enric Moreu,2019-03-04 11:58:02-08:00,README.md
+enric,2019-03-04 11:58:02-08:00,Dockerfile
+Enric Moreu,2019-03-04 11:58:02-08:00,Dockerfile
+Enric Moreu,2019-03-04 11:58:02-08:00,Dockerfile.gpu
+Enric Moreu,2019-03-04 11:58:02-08:00,README.md
+Enric Moreu,2019-03-04 11:58:02-08:00,docker-compose.yml
+Enric Moreu,2019-03-04 11:58:02-08:00,README.md
+Enric Moreu,2019-04-15 16:30:01-07:00,Dockerfile.gpu
+Enric Moreu,2019-04-15 16:30:01-07:00,Dockerfile.gpu
+WalterMccan,2019-04-15 16:34:22-07:00,examples/digital_makeup.py
+Napat Rc,2019-04-15 16:44:38-07:00,face_recognition/api.py
+Adam Geitgey,2019-04-15 16:48:51-07:00,README.md
+DE_DZ_TBH,2019-04-15 16:51:02-07:00,examples/facerec_from_webcam.py
+DE_DZ_TBH,2019-04-15 16:51:02-07:00,examples/facerec_from_webcam_faster.py
+DE_DZ_TBH,2019-04-15 16:51:02-07:00,examples/identify_and_draw_boxes_on_faces.py
+YumiLee,2019-04-15 16:52:52-07:00,examples/facerec_from_webcam_much_faster.py
+YumiLee,2019-04-15 16:52:52-07:00,examples/facerec_from_webcam_much_faster.py
+YumiLee,2019-04-15 16:52:52-07:00,facerec_from_webcam_multiprocessing.py
+YumiLee,2019-04-15 16:52:52-07:00,examples/facerec_from_webcam_multiprocessing.py
+coderwangson,2019-05-02 10:00:43+01:00,README_Simplified_Chinese.md
+Jakub Jurových,2019-05-02 10:06:12+01:00,README.md
+Adam Geitgey,2019-05-02 10:09:25+01:00,README.md
+sgc0907,2019-05-14 16:01:20+01:00,README_Korean.md
+sgc0907,2019-05-14 16:01:20+01:00,README_Korean.md
+sgc0907,2019-05-14 16:01:20+01:00,README_Korean.md
+Adam Geitgey,2019-05-14 16:03:46+01:00,README.md
+Anand Baburajan,2019-05-29 18:36:59+01:00,examples/face_recognition_svm.py
+Adam Geitgey,2019-06-05 16:29:54+01:00,README.md
+Anand Baburajan,2019-06-13 11:07:02+01:00,README.md
+Anand Baburajan,2019-06-13 11:07:02+01:00,README.md
+Anand Baburajan,2019-06-13 11:07:02+01:00,README.md
+Anand Baburajan,2019-06-13 11:07:02+01:00,README.md
+Anand Baburajan,2019-06-13 11:07:02+01:00,README.md
+Anand Baburajan,2019-06-13 11:07:02+01:00,README.md
+Anand Baburajan,2019-06-30 16:36:08+02:00,examples/face_recognition_svm.py
+Anand Baburajan,2019-08-20 13:03:40+02:00,examples/face_recognition_svm.py
+Adam Geitgey,2019-08-20 14:12:35+02:00,examples/facerec_from_webcam_multiprocessing.py
+Aliaksei Urbanski,2019-08-31 17:19:01+02:00,setup.py
+Tejas Shah,2019-10-09 16:25:52+02:00,examples/facerec_from_webcam_multiprocessing.py
+Alexandr Katsko,2019-11-13 08:03:20+00:00,face_recognition/api.py
+Ellie Kang,2019-11-15 13:37:00+00:00,README_Korean.md
+Tejas Shah,2019-12-18 15:16:35+00:00,face_recognition/api.py
+Tejas Shah,2019-12-18 15:16:35+00:00,tests/test_face_recognition.py
+Anand Baburajan,2019-12-18 15:20:02+00:00,examples/face_recognition_svm.py
+Anand Baburajan,2019-12-18 15:20:02+00:00,examples/face_recognition_svm.py
+Jason Koo,2020-02-20 13:18:57+00:00,Dockerfile
+Santiago Castro,2020-02-20 13:21:38+00:00,.github/workflows/main.yml
+Santiago Castro,2020-02-20 13:21:38+00:00,.travis.yml
+Santiago Castro,2020-02-20 13:21:38+00:00,tox.ini
+Santiago Castro,2020-02-20 13:21:38+00:00,.github/workflows/main.yml
+Santiago Castro,2020-02-20 13:21:38+00:00,CONTRIBUTING.rst
+Santiago Castro,2020-02-20 13:21:38+00:00,setup.py
+Santiago Castro,2020-02-20 13:21:38+00:00,tox.ini
+Santiago Castro,2020-02-20 13:21:38+00:00,requirements_dev.txt
+Santiago Castro,2020-02-20 13:21:38+00:00,setup.py
+Santiago Castro,2020-02-20 13:21:38+00:00,tox.ini
+kdesai2018,2020-02-20 13:23:40+00:00,examples/blink_detection.py
+Emanuel Haupt,2020-02-20 13:24:40+00:00,README.md
+Santiago Castro,2020-02-20 13:26:18+00:00,pyproject.toml
+Santiago Castro,2020-02-20 13:26:18+00:00,pyproject.toml
+Miki,2020-02-20 13:26:55+00:00,README_Japanese.md
+Miki,2020-02-20 13:26:55+00:00,README.md
+Abdolkarim Saeedi,2020-02-20 13:28:52+00:00,examples/facerec_ipcamera_knn.py
+Abdolkarim Saeedi,2020-02-20 13:28:52+00:00,examples/facerec_ipcamera_knn.py
+Abdolkarim Saeedi,2020-02-20 13:28:52+00:00,examples/facerec_ipcamera_knn.py
+Abdolkarim Saeedi,2020-02-20 13:28:52+00:00,examples/facerec_ipcamera_knn.py
+Adam Geitgey,2020-02-20 14:17:57+00:00,README.md
+Adam Geitgey,2020-02-20 14:19:46+00:00,setup.py
+Adam Geitgey,2020-02-20 14:20:21+00:00,setup.cfg
+Marcos Benevides,2020-04-19 11:51:53-03:00,face_recognition/api.py
+Aref Ariyapour,2020-04-22 13:39:19+02:00,examples/blink_detection.py
+Aref Ariyapour,2020-04-22 13:54:56+02:00,examples/blink_detection.py
+zhulinpinyu,2020-07-01 15:40:52+08:00,face_recognition/api.py
+Vishnu Mohandas,2020-07-16 04:17:01+05:30,face_recognition/api.py
+Alex Daly,2020-08-09 06:55:40-05:00,README.md
+Tim Gates,2020-09-12 07:29:50+10:00,examples/face_recognition_knn.py
+Tim Gates,2020-09-12 07:29:50+10:00,examples/facerec_ipcamera_knn.py
+osthafen,2020-09-26 15:29:06+01:00,face_recognition/face_detection_cli.py
+Adam Geitgey,2020-09-26 15:59:55+01:00,Makefile
+Adam Geitgey,2020-09-26 16:12:53+01:00,.github/workflows/main.yml
+Adam Geitgey,2020-09-26 16:12:53+01:00,HISTORY.rst
+Adam Geitgey,2020-09-26 16:12:53+01:00,face_recognition/__init__.py
+Adam Geitgey,2020-09-26 16:12:53+01:00,setup.cfg
+Adam Geitgey,2020-09-26 16:12:53+01:00,setup.py
+Adam Geitgey,2020-09-26 16:12:53+01:00,tox.ini
+Dylann Orozco,2020-10-04 12:54:31-06:00,Dockerfile
+dependabot[bot],2020-10-27 21:07:20+00:00,requirements_dev.txt
+Kshitiz Arya,2021-02-07 19:57:21+05:30,examples/facerec_ipcamera_knn.py
+Corban Villa,2021-02-13 14:50:33-07:00,README.md
+Corban Villa,2021-02-13 14:50:33-07:00,docker/Dockerfile-python-example
+Corban Villa,2021-02-13 14:50:33-07:00,docker/README.md
+Corban Villa,2021-02-13 14:50:33-07:00,docker/cpu-jupyter-kubeflow/Dockerfile
+Corban Villa,2021-02-13 14:50:33-07:00,docker/cpu/Dockerfile
+Corban Villa,2021-02-13 14:50:33-07:00,docker/gpu-jupyter-kubeflow/Dockerfile
+Corban Villa,2021-02-13 14:50:33-07:00,docker/gpu/Dockerfile
+dependabot[bot],2021-06-09 17:39:13+00:00,requirements_dev.txt
+dependabot[bot],2021-06-14 10:08:21+00:00,requirements_dev.txt
+Daniil Okhlopkov,2021-08-16 18:57:55+03:00,LICENSE
+Anurag Kumar,2021-09-08 21:08:38+05:30,setup.py
+dependabot[bot],2021-11-15 17:47:04+00:00,requirements_dev.txt
+Dustin Wyatt,2021-11-26 17:11:40-06:00,examples/facerec_from_webcam_faster.py
+snyk-bot,2021-12-20 14:42:18+00:00,Dockerfile
+snyk-bot,2022-03-27 02:09:23+00:00,Dockerfile
+Adam Geitgey,2022-06-09 18:09:15+01:00,.github/workflows/main.yml
+Adam Geitgey,2022-06-09 18:10:03+01:00,.github/workflows/main.yml

@@ -1,0 +1,469 @@
+Field,Value
+Commits Overview,
+Total Commits,3807
+Total Unique Authors,237
+,
+Top 10 Contributors,
+Author,Commits
+Hongxin Liu,3585
+Frank Lee,3486
+Jiarui Fang,1682
+ver217,1431
+YuliangLiu0306,1043
+HELSON,741
+flybird11111,617
+YeAnbang,613
+binmakeswell,503
+zbian,432
+,
+Communication Events,Total: 1935
+"Author1,Author2",Events
+"BoxiangW,Frank Lee",87
+"FoolPlayer,Frank Lee",66
+"Jiarui Fang,ver217",63
+"ver217,Jiarui Fang",58
+"Jiarui Fang,HELSON",45
+"ver217,Frank Lee",45
+"YuliangLiu0306,Frank Lee",42
+"HELSON,Jiarui Fang",40
+"binmakeswell,ver217",35
+"YeAnbang,pre-commit-ci[bot]",35
+"Ziyue Jiang,Jiarui Fang",28
+"Jiarui Fang,Ziyue Jiang",27
+"jiaruifang,Jiarui Fang",27
+"HELSON,ver217",26
+"Jianghai,yuehuayingxueluo",23
+"Hongxin Liu,Baizhou Zhang",22
+"Frank Lee,FoolPlayer",22
+"Jiarui Fang,Frank Lee",21
+"yuehuayingxueluo,Jianghai",21
+"Frank Lee,Jiarui Fang",21
+"hxwang,botbw",20
+"Frank Lee,ver217",19
+"Fan Cui,binmakeswell",18
+"botbw,hxwang",17
+"pre-commit-ci[bot],YeAnbang",15
+"Frank Lee,YuliangLiu0306",15
+"Hongxin Liu,Jianghai",15
+"Xuanlei Zhao,Hongxin Liu",14
+"flybird1111,Baizhou Zhang",13
+"ver217,HELSON",13
+"flybird11111,Hongxin Liu",13
+"Jianghai,Baizhou Zhang",13
+"Jianghai,Hongxin Liu",13
+"hxwang,haze188",12
+"Bin Jia,flybird1111",12
+"Frank Lee,HELSON",11
+"Jiarui Fang,jiaruifang",11
+"Baizhou Zhang,flybird1111",11
+"Hongxin Liu,github-actions[bot]",11
+"アマデウス,ver217",11
+"haze188,hxwang",10
+"Baizhou Zhang,Hongxin Liu",10
+"Wang Binluo,flybird11111",10
+"Tong Li,Wang Binluo",10
+"zbian,ver217",9
+"binmakeswell,github-actions[bot]",9
+"pre-commit-ci[bot],GuangyaoZhang",9
+"Hongxin Liu,Bin Jia",9
+"GuangyaoZhang,pre-commit-ci[bot]",9
+"FoolPlayer,flybird1111",9
+"Jianghai,flybird1111",8
+"hxwang,pre-commit-ci[bot]",8
+"jiaruifang,ver217",8
+"ver217,Hongxin Liu",8
+"Baizhou Zhang,flybird11111",8
+"Frank Lee,Kun Lin",8
+"Bin Jia,Baizhou Zhang",8
+"CsRic,Jiarui Fang",7
+"jiangmingyan,Frank Lee",7
+"Baizhou Zhang,Bin Jia",7
+"Frank Lee,binmakeswell",7
+"Jianghai,Frank Lee",7
+"Hongxin Liu,flybird11111",7
+"ver217,Ziyue Jiang",7
+"wukong1992,Frank Lee",7
+"Jianghai,flybird11111",7
+"FoolPlayer,wukong1992",7
+"flybird1111,Hongxin Liu",6
+"flybird11111,Baizhou Zhang",6
+"wangbluo,pre-commit-ci[bot]",6
+"wangbluo,Wang Binluo",6
+"Mingyan Jiang,jiangmingyan",6
+"Xu Kai,Bin Jia",6
+"Kun Lin,Frank Lee",6
+"Sze-qq,binmakeswell",6
+"Yuanheng Zhao,yuehuayingxueluo",6
+"Hongxin Liu,Wang Binluo",6
+"Frank Lee,digger yu",6
+"binmakeswell,Frank Lee",5
+"Fazzie-Maqianli,ver217",5
+"Xu Kai,Hongxin Liu",5
+"YeAnbang,Tong Li",5
+"Zihao,Jiarui Fang",5
+"Kun Lin,klhhhhh",5
+"FoolPlayer,Bin Jia",5
+"Hongxin Liu,binmakeswell",5
+"Frank Lee,Boyuan Yao",5
+"Haze188,hxwang",5
+"Hongxin Liu,Frank Lee",5
+"yuehuayingxueluo,Yuanheng Zhao",5
+"1SAA,HELSON",5
+"Boyuan Yao,Super Daniel",4
+"BlueRum,github-actions[bot]",4
+"Frank Lee,jiangmingyan",4
+"Hanks,Hongxin Liu",4
+"ver217,jiaruifang",4
+"Bin Jia,Xu Kai",4
+"HELSON,1SAA",4
+"Hongxin Liu,FoolPlayer",4
+"Frank Lee,yuehuayingxueluo",4
+"Jianghai,Cuiqing Li",4
+"Jianghai,Yuanheng Zhao",4
+"linsj20,Hongxin Liu",4
+"ver217,binmakeswell",4
+"Jianghai,CjhHa1",4
+"haze188,botbw",4
+"digger yu,Hongxin Liu",4
+"YuliangLiu0306,FrankLeeeee",4
+"FoolPlayer,Baizhou Zhang",4
+"Camille Zhong,Hongxin Liu",4
+"Wang Binluo,Hongxin Liu",4
+"Fazzie-Maqianli,binmakeswell",4
+"wukong1992,FoolPlayer",4
+"flybird1111,flybird11111",4
+"Steve Luo,傅剑寒",4
+"botbw,haze188",4
+"binmakeswell,Sze-qq",4
+"Super Daniel,Frank Lee",4
+"Jiarui Fang,binmakeswell",4
+"flybird11111,Wang Binluo",4
+"Geng Zhang,Jiarui Fang",3
+"pre-commit-ci[bot],hxwang",3
+"Hongxin Liu,ver217",3
+"Ziyue Jiang,ver217",3
+"ZijianYY,Jiarui Fang",3
+"Jiarui Fang,Zihao",3
+"Jiarui Fang,Jie Zhu",3
+"YeAnbang,Hongxin Liu",3
+"Kun Lin,github-actions[bot]",3
+"Xu Kai,Cuiqing Li (李崔卿)",3
+"yuehuayingxueluo,FrankLeeeee",3
+"Baizhou Zhang,linsj20",3
+"Baizhou Zhang,Wenhao Chen",3
+"Yuanheng Zhao,Jianghai",3
+"Fazzie-Maqianli,BlueRum",3
+"Xuanlei Zhao,Wenhao Chen",3
+"YuliangLiu0306,Jiarui Fang",3
+"botbw,Haze188",3
+"flybird1111,Jianghai",3
+"Hongxin Liu,digger yu",3
+"HELSON,Frank Lee",3
+"hxwang,Haze188",3
+"Elsa Granger,Hongxin Liu",3
+"klhhhhh,FoolPlayer",3
+"Frank Lee,Jianghai",3
+"ver217,Jianghai",3
+"pre-commit-ci[bot],wangbluo",3
+"Hongxin Liu,Insu Jang",3
+"BlueRum,Fazzie-Maqianli",3
+"Boyuan Yao,binmakeswell",3
+"BurkeHulk,pre-commit-ci[bot]",3
+"アマデウス,Liang Bowen",3
+"BoxiangW,binmakeswell",3
+"Steve Luo,yuehuayingxueluo",3
+"Jiarui Fang,yuxuan-lou",2
+"Jiarui Fang,oahzxl",2
+"Jie Zhu,Jiarui Fang",2
+"Jie Zhu,Liang Bowen",2
+"Edenzzzz,wangbluo",2
+"Jie Zhu,Frank Lee",2
+"jiangmingyan,digger yu",2
+"Jianghai,Xu Kai",2
+"HELSON,Super Daniel",2
+"Jianghai,Bin Jia",2
+"Hongxin Liu,tanitna",2
+"klhhhhh,flybird1111",2
+"FoolPlayer,ver217",2
+"github-actions[bot],Insu Jang",2
+"Jiarui Fang,CsRic",2
+"ver217,YuliangLiu0306",2
+"Boyuan Yao,YuliangLiu0306",2
+"Baizhou Zhang,LuGY",2
+"傅剑寒,Steve Luo",2
+"アマデウス,Frank Lee",2
+"Baizhou Zhang,FoolPlayer",2
+"zbian,アマデウス",2
+"Baizhou Zhang,Jianghai",2
+"Boyuan Yao,Frank Lee",2
+"Hongxin Liu,flybird1111",2
+"Hongxin Liu,Camille Zhong",2
+"Bin Jia,Hongxin Liu",2
+"Hongxin Liu,LuGY",2
+"Frank Lee,github-actions[bot]",2
+"FoolPlayer,klhhhhh",2
+"flybird11111,linsj20",2
+"Steve Luo,Runyu Lu",2
+"binmakeswell,HELSON",2
+"eric8607242,HELSON",2
+"binmakeswell,tanitna",2
+"flybird1111,Bin Jia",2
+"Edenzzzz,botbw",2
+"Jiarui Fang,LuGY",2
+"Jiarui Fang,Xu Kai",2
+"Edenzzzz,Guangyao Zhang",2
+"Edenzzzz,Hongxin Liu",2
+"Cuiqing Li (李崔卿),Xu Kai",2
+"CjhHa1,Jianghai",2
+"LuGY,Frank Lee",2
+"genghaozhe,Haze188",2
+"Liang Bowen,HELSON",2
+"Yi Zhao,Jiarui Fang",2
+"FoolPlayer,Kun Lin",2
+"FoolPlayer,jiangmingyan",2
+"FoolPlayer,Jianghai",2
+"Runyu Lu,yuehuayingxueluo",2
+"Maruyama_Aya,Jiarui Fang",2
+"Maruyama_Aya,binmakeswell",2
+"RichardoLuo,Frank Lee",2
+"Wang Binluo,wangbluo",2
+"Wenhao Chen,Baizhou Zhang",2
+"Wenhao Chen,github-actions[bot]",2
+"zbian,DouJS",2
+"yuxuan-lou,binmakeswell",2
+"yuehuayingxueluo,Runyu Lu",2
+"yuehuayingxueluo,Steve Luo",2
+"xs_courtesy,傅剑寒",2
+"xs_courtesy,Steve Luo",2
+"Baizhou Zhang,Xuanlei Zhao",1
+"Baizhou Zhang,digger yu",1
+"wukong1992,Hongxin Liu",1
+"yingliu-hpc,Ying Liu",1
+"yuehuayingxueluo,Frank Lee",1
+"yuehuayingxueluo,xs_courtesy",1
+"zbian,Yuer867",1
+"zbian,xuqifan897",1
+"Camille Zhong,Fazzie-Maqianli",1
+"ver217,puck_WCR",1
+"ver217,runluo",1
+"ver217,shenggan",1
+"ver217,superhao1995",1
+"ver217,wky",1
+"ver217,xyupeng",1
+"ver217,yuxuan-lou",1
+"ver217,ziyu huang",1
+"ver217,アマデウス",1
+"wangbluo,Edenzzzz",1
+"wangbluo,Hongxin Liu",1
+"wangbluo,Wenxuan Tan",1
+"Super Daniel,YuliangLiu0306",1
+"Sze-qq,fastalgo",1
+"Tomek,binmakeswell",1
+"Tong Li,Camille Zhong",1
+"Tong Li,Chandler-Bing",1
+"Tong Li,YeAnbang",1
+"Tong Li,Yuanchen",1
+"Tong Li,binmakeswell",1
+"Wenhao Chen,flybird11111",1
+"Wesley,Ziyue Jiang",1
+"XYE,Jiarui Fang",1
+"Xu Kai,Jianghai",1
+"Xuanlei Zhao,Super Daniel",1
+"Xue Fuzhao,binmakeswell",1
+"Elsa Granger,flybird11111",1
+"ExtremeViscent,binmakeswell",1
+"Fazzie-Maqianli,Fazzie",1
+"Fazzie-Maqianli,Haofan Wang",1
+"Fazzie-Maqianli,wenjunyang",1
+"Yi Zhao,HELSON",1
+"Yuanheng Zhao,Edenzzzz",1
+"Yuanheng Zhao,Yuanheng",1
+"Yuanheng Zhao,binmakeswell",1
+"YuliangLiu0306,Boyuan Yao",1
+"YuliangLiu0306,HELSON",1
+"YuliangLiu0306,Xue Fuzhao",1
+"YuliangLiu0306,Zangwei Zheng",1
+"YuliangLiu0306,binmakeswell",1
+"YuliangLiu0306,ver217",1
+"YuliangLiu0306,xyupeng",1
+"YuliangLiu0306,yuxuan-lou",1
+"LuGY,binmakeswell",1
+"LuGY,xyupeng",1
+"Nikita Shulga,Boyuan Yao",1
+"Runyu Lu,Edenzzzz",1
+"Runyu Lu,Jianghai",1
+"Runyu Lu,Steve Luo",1
+"Shawn-Kong,binmakeswell",1
+"Shen Chenhui,binmakeswell",1
+"YuliangLiu0306,ziyuhuang123",1
+"Zian(Andy) Zheng,github-actions[bot]",1
+"Ziyue Jiang,Frank Lee",1
+"Ziyue Jiang,HELSON",1
+"Ziyue Jiang,YuliangLiu0306",1
+"Ziyue Jiang,アマデウス",1
+"binmakeswell,BlueRum",1
+"binmakeswell,Fazzie-Maqianli",1
+"binmakeswell,Hongxin Liu",1
+"binmakeswell,Jianghai",1
+"binmakeswell,Jiarui Fang",1
+"binmakeswell,Shen Chenhui",1
+"binmakeswell,Xue Fuzhao",1
+"binmakeswell,Yuanheng Zhao",1
+"binmakeswell,fastalgo",1
+"binmakeswell,flybird11111",1
+"binmakeswell,jiaruifang",1
+"botbw,flybird11111",1
+"botbw,genghaozhe",1
+"digger yu,Baizhou Zhang",1
+"digger yu,Jianghai",1
+"digger yu,Maruyama_Aya",1
+"digger-yu,Camille Zhong",1
+"digger-yu,Hongxin Liu",1
+"doubleHU,binmakeswell",1
+"fastalgo,binmakeswell",1
+"flybird1111,github-actions[bot]",1
+"flybird1111,ver217",1
+"flybird11111,Bin Jia",1
+"flybird11111,Edenzzzz",1
+"flybird11111,Hanks",1
+"flybird11111,Xuanlei Zhao",1
+"flybird11111,botbw",1
+"flybird11111,ver217",1
+"Kirthi Shankar Sivamani,binmakeswell",1
+"Kun Lin,FoolPlayer",1
+"Kun Lin,flybird1111",1
+"Liang Bowen,Jiarui Fang",1
+"Liang Bowen,LuGY",1
+"Liang Bowen,Ziyue Jiang",1
+"Liang Bowen,アマデウス",1
+"Liu Ziming,YuliangLiu0306",1
+"LuGY,Fazzie-Maqianli",1
+"LuGY,HELSON",1
+"LuGY,Jiarui Fang",1
+"LuGY,Kai Wang (Victor Kai)",1
+"LuGY,Liang Bowen",1
+"genghaozhe,botbw",1
+"genghaozhe,hxwang",1
+"Camille Zhong,binmakeswell",1
+"Camille Zhong,digger-yu",1
+"Charles Coulombe,flybird11111",1
+"Cuiqing Li,Cuiqing Li (李崔卿)",1
+"DouJS,binmakeswell",1
+"Dr-Corgi,YY Lin",1
+"Edenzzzz,GuangyaoZhang",1
+"Edenzzzz,Zhongkai Zhao",1
+"Frank Lee,Yasyf Mohamedali",1
+"Frank Lee,Ziyue Jiang",1
+"Frank Lee,flybird11111",1
+"Jiarui Fang,Liang Bowen",1
+"Jiarui Fang,Super Daniel",1
+"Jiarui Fang,Yi Zhao",1
+"github-actions[bot],BlueRum",1
+"github-actions[bot],Frank Lee",1
+"github-actions[bot],Hongxin Liu",1
+"github-actions[bot],Jianghai",1
+"github-actions[bot],LuGY",1
+"hiko2MSP,BlueRum",1
+"hxwang,genghaozhe",1
+"jiangmingyan,Hongxin Liu",1
+"jiangmingyan,Mingyan Jiang",1
+"jiaruifang,binmakeswell",1
+"Jianghai,github-actions[bot]",1
+"Jianghai,傅剑寒",1
+"Jiarui Fang,1SAA",1
+"Jiarui Fang,Fazzie-Maqianli",1
+"Jiarui Fang,FrankLeeeee",1
+"Jiarui Fang,FredHuang99",1
+"Frank Lee,BoxiangW",1
+"klhhhhh,Bin Jia",1
+"klhhhhh,Jianghai",1
+"lucasliunju,Frank Lee",1
+"ppt0011,Hongxin Liu",1
+"pre-commit-ci[bot],Edenzzzz",1
+"pre-commit-ci[bot],botbw",1
+"pre-commit-ci[bot],flybird11111",1
+"pre-commit-ci[bot],genghaozhe",1
+"puck_WCR,Frank Lee",1
+"ramos,Tomek",1
+"shenggan,binmakeswell",1
+"tingfeng cao,Yuanchen",1
+"ver217,1SAA",1
+"ver217,BoxiangW",1
+"ver217,CH.Li",1
+"ver217,Cautiousss",1
+"ver217,DouJS",1
+"ver217,ExtremeViscent",1
+"ver217,FoolPlayer",1
+"ver217,Geng Zhang",1
+"ver217,HaoyuQin",1
+"ver217,JT.Han",1
+"ver217,Jie Zhu",1
+"ver217,Kai Wang (Victor Kai)",1
+"ver217,LuGY",1
+"ver217,Luxios22",1
+"ver217,Maruyama_Aya",1
+"ver217,MaxT",1
+"ver217,Ofey Chan",1
+"ver217,RichardoLuo",1
+"ver217,Sze-qq",1
+"ver217,Wangbo Zhao(黑色枷锁)",1
+"ver217,XYE",1
+"ver217,Xu Kai",1
+"ver217,Yuer867",1
+"ver217,Ziheng Qin",1
+"ver217,Zirui Zhu",1
+"ver217,bajiaoyu517",1
+"ver217,doubleHU",1
+"ver217,duanjunwen",1
+"Hongxin Liu,wukong1992",1
+"Frank Lee,jiaruifang",1
+"Frank Lee,wukong1992",1
+"FrankLeeeee,LuGY",1
+"FrankLeeeee,ver217",1
+"Guangyao Zhang,Haze188",1
+"Guangyao Zhang,Hongxin Liu",1
+"HELSON,Ziyue Jiang",1
+"Haofan Wang,HELSON",1
+"Haze188,botbw",1
+"Hongxin Liu,BurkeHulk",1
+"Hongxin Liu,CZYCW",1
+"Hongxin Liu,Haze188",1
+"Hongxin Liu,Tong Li",1
+"Hongxin Liu,Youngon",1
+"Hongxin Liu,botbw",1
+"ver217,flybird1111",1
+"ver217,lucasliunju",1
+"ver217,luoling-LC",1
+"Bin Jia,flybird11111",1
+"BlueRum,binmakeswell",1
+"ziyu huang,binmakeswell",1
+"ziyuhuang123,BlueRum",1
+"Baizhou Zhang,Frank Lee",1
+"アマデウス,FrankLeeeee",1
+"アマデウス,HELSON",1
+"1SAA,LuGY",1
+"1SAA,FrankLeeeee",1
+"1SAA,Jiarui Fang",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++00:00,217
++02:00,1
++08:00,3583
++09:00,1
+-05:00,1
+-06:00,3
+-07:00,1
+,
+Contributors Experience,Average across 4734 files: 84.94%
+File,Top Contributor Share (%)
+colossalai/checkpointing.py,100.00
+colossalai/context/_utils.py,100.00
+colossalai/engine/amp_type.py,100.00
+colossalai/nn/data/__init__.py,100.00
+colossalai/nn/data/_utils.py,100.00
+colossalai/nn/data/base_dataset.py,100.00
+colossalai/nn/data/caltech101_dataset.py,100.00
+colossalai/nn/data/cifar10_dataset.py,100.00
+colossalai/nn/data/sampler/__init__.py,100.00
+colossalai/nn/data/sampler/base_sampler.py,100.00

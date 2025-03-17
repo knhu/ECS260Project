@@ -1,0 +1,101 @@
+file,author1,author2,time1,time2
+.circleci/config.yml,Dawid Dziurla,Jesse Duffield,2019-07-04 17:22:09+02:00,2019-07-05 20:18:34+10:00
+.goreleaser.yml,Dawid Dziurla,Jesse Duffield,2019-07-03 19:23:12+02:00,2019-07-04 21:57:24+10:00
+.goreleaser.yml,Paul Reichelt,Dawid Dziurla,2019-11-11 12:04:39+01:00,2019-11-11 12:36:04+01:00
+Gopkg.lock,Jesse Duffield,Callum McIntyre,2019-07-01 23:01:26+10:00,2019-07-01 18:48:28+01:00
+README.md,Jesse Duffield,Quentin McGaw,2019-07-01 09:24:41+10:00,2019-07-01 09:57:48+02:00
+README.md,Quentin McGaw,Jesse Duffield,2019-07-01 11:57:50+02:00,2019-07-01 21:28:46+10:00
+README.md,Jesse Duffield,Immánuel!,2019-07-01 21:28:46+10:00,2019-07-01 15:23:33+02:00
+README.md,Immánuel!,Quentin McGaw,2019-07-01 15:23:33+02:00,2019-07-01 15:37:55+02:00
+README.md,Quentin McGaw,Immánuel!,2019-07-01 15:39:52+02:00,2019-07-01 16:08:09+02:00
+README.md,Immánuel!,Mikhail Swift,2019-07-01 16:08:09+02:00,2019-07-01 11:27:15-04:00
+README.md,Mikhail Swift,Devin,2019-07-01 11:27:15-04:00,2019-07-01 11:27:20-07:00
+README.md,Devin,Quentin McGaw,2019-07-01 11:27:20-07:00,2019-07-02 14:06:44+02:00
+README.md,Quentin McGaw,Dawid Dziurla,2019-07-02 20:26:15+02:00,2019-07-03 11:27:17+02:00
+README.md,Dawid Dziurla,Quentin McGaw,2019-07-04 17:15:34+02:00,2019-07-05 14:43:41+02:00
+README.md,Quentin McGaw,Jesse Duffield,2019-07-05 14:43:41+02:00,2019-07-05 22:45:06+10:00
+README.md,Jesse Duffield,Quentin McGaw,2019-07-06 12:26:32+10:00,2019-07-06 14:55:45+02:00
+README.md,Jesse Duffield,Dawid Dziurla,2019-07-29 18:59:12+10:00,2019-07-30 01:07:34+02:00
+README.md,Camron Flanders,Conor,2021-12-01 08:55:18-06:00,2021-12-02 11:47:46+10:00
+README.md,Jesse Duffield,README-bot,2022-05-11 22:45:51+10:00,2022-05-11 13:07:27+00:00
+README.md,README-bot,Jesse Duffield,2022-11-09 09:01:32+00:00,2022-11-09 21:09:00+11:00
+README.md,Jesse Duffield,README-bot,2022-11-09 21:09:00+11:00,2022-11-09 10:09:19+00:00
+README.md,README-bot,Jesse Duffield,2022-11-09 10:09:19+00:00,2022-11-09 21:15:28+11:00
+README.md,Jesse Duffield,README-bot,2022-11-09 21:15:28+11:00,2022-11-10 09:18:54+00:00
+README.md,Jonas Helgemo,README-bot,2023-08-28 21:37:43+10:00,2023-08-28 11:38:02+00:00
+README.md,README-bot,guangwu,2023-10-09 05:59:33+00:00,2023-10-09 17:00:52+11:00
+README.md,README-bot,Jesse Duffield,2023-10-27 04:39:26+00:00,2023-10-27 04:41:39+00:00
+README.md,github-actions[bot],Jesse Duffield,2024-05-26 04:32:45+00:00,2024-05-26 14:35:20+10:00
+docs/Config.md,dhax,Jesse Duffield,2022-01-11 16:09:37+01:00,2022-01-12 23:11:03+11:00
+docs/Config.md,John Chavez,Rdkang,2023-07-21 18:08:06+10:00,2023-07-21 18:08:21+10:00
+docs/Config.md,Rdkang,Martin Cross,2023-07-21 18:08:21+10:00,2023-07-21 18:22:18+10:00
+docs/Config.md,Martin Cross,tiagovla,2023-07-21 18:22:18+10:00,2023-07-21 18:31:27+10:00
+docs/keybindings/Keybindings_de.md,Jesse Duffield,mjarkk,2019-07-07 11:11:24+10:00,2019-07-07 14:34:06+02:00
+docs/keybindings/Keybindings_de.md,Gustavo Andrioli,Jesse Duffield,2022-10-10 17:43:29-03:00,2022-10-10 19:19:07-07:00
+docs/keybindings/Keybindings_en.md,Jesse Duffield,lazydocker bot,2019-07-07 11:11:24+10:00,2019-07-07 03:03:29+00:00
+docs/keybindings/Keybindings_en.md,lazydocker bot,mjarkk,2019-07-07 03:03:29+00:00,2019-07-07 14:30:18+02:00
+docs/keybindings/Keybindings_en.md,Gustavo Andrioli,Jesse Duffield,2022-10-10 17:43:29-03:00,2022-10-10 19:19:07-07:00
+docs/keybindings/Keybindings_nl.md,Jesse Duffield,lazydocker bot,2019-07-07 11:11:24+10:00,2019-07-07 03:03:29+00:00
+docs/keybindings/Keybindings_nl.md,lazydocker bot,mjarkk,2019-07-07 03:03:29+00:00,2019-07-07 14:30:18+02:00
+docs/keybindings/Keybindings_nl.md,Gustavo Andrioli,Jesse Duffield,2022-10-10 17:43:29-03:00,2022-10-10 19:19:07-07:00
+docs/keybindings/Keybindings_pl.md,Jesse Duffield,lazydocker bot,2019-07-07 11:11:24+10:00,2019-07-07 03:03:29+00:00
+docs/keybindings/Keybindings_pl.md,lazydocker bot,mjarkk,2019-07-07 03:03:29+00:00,2019-07-07 14:30:18+02:00
+docs/keybindings/Keybindings_pl.md,Gustavo Andrioli,Jesse Duffield,2022-10-10 17:43:29-03:00,2022-10-10 19:19:07-07:00
+docs/keybindings/Keybindings_tr.md,Jesse Duffield,mjarkk,2019-07-07 11:11:24+10:00,2019-07-07 14:34:06+02:00
+docs/keybindings/Keybindings_tr.md,Gustavo Andrioli,Jesse Duffield,2022-10-10 17:43:29-03:00,2022-10-10 19:19:07-07:00
+go.mod,Dawid Dziurla,Jesse Duffield,2019-07-05 14:53:34+02:00,2019-07-06 10:25:13+10:00
+go.mod,Jesse Duffield,Gustavo Andrioli,2022-10-09 18:02:11-07:00,2022-10-10 18:29:17-03:00
+go.mod,Rajiv Kushwaha,Jesse Duffield,2023-10-09 17:13:22+11:00,2023-10-09 22:03:40+11:00
+go.sum,Dawid Dziurla,Jesse Duffield,2019-07-05 14:53:34+02:00,2019-07-06 10:25:13+10:00
+go.sum,Jesse Duffield,Gustavo Andrioli,2022-10-09 18:02:11-07:00,2022-10-10 18:29:17-03:00
+main.go,Jesse Duffield,Callum McIntyre,2019-06-30 20:41:12+10:00,2019-07-01 10:06:32+01:00
+pkg/app/app.go,Jesse Duffield,mjarkk,2019-06-30 20:41:12+10:00,2019-07-01 09:56:05+02:00
+pkg/commands/container.go,Jesse Duffield,Luka Markušić,2022-05-12 19:03:15+10:00,2022-05-12 14:01:44+02:00
+pkg/commands/docker.go,mjarkk,Dawid Dziurla,2019-07-05 08:10:21+02:00,2019-07-05 14:18:44+02:00
+pkg/commands/docker.go,Dawid Dziurla,mjarkk,2019-07-05 14:18:44+02:00,2019-07-05 16:58:06+02:00
+pkg/commands/docker.go,mjarkk,"Dowideit, Sven (O&A, St. Lucia)",2019-07-07 14:19:35+02:00,2019-07-08 17:01:15+10:00
+pkg/commands/docker.go,Jesse Duffield,Charlie Moog,2021-11-26 20:50:06+11:00,2021-11-26 10:10:02-06:00
+pkg/commands/docker.go,Charlie Moog,Jesse Duffield,2022-01-08 15:09:08-06:00,2022-01-09 18:05:58+11:00
+pkg/commands/image.go,Jesse Duffield,haoyun,2019-06-30 19:58:46+10:00,2019-07-01 14:18:11+08:00
+pkg/commands/image.go,Derk Vedelaar,Jesse Duffield,2019-07-02 08:57:04+02:00,2019-07-02 20:40:38+10:00
+pkg/commands/os.go,Jesse Duffield,mjarkk,2019-06-30 18:24:59+10:00,2019-07-01 09:56:05+02:00
+pkg/commands/os_default_platform.go,Paul Reichelt,Dawid Dziurla,2019-11-11 11:38:43+01:00,2019-11-11 12:01:08+01:00
+pkg/config/app_config.go,Jesse Duffield,Pieter van de Bruggen,2019-07-03 20:45:02+10:00,2019-07-03 10:59:45-07:00
+pkg/config/app_config.go,mjarkk,Dawid Dziurla,2019-07-12 15:04:07+02:00,2019-07-13 12:56:51+02:00
+pkg/config/app_config.go,Rdkang,Martin Cross,2023-07-21 18:08:21+10:00,2023-07-21 18:22:18+10:00
+pkg/config/app_config.go,Martin Cross,tiagovla,2023-07-21 18:22:18+10:00,2023-07-21 18:31:27+10:00
+pkg/gui/containers_panel.go,Jesse Duffield,Luka Markušić,2022-05-12 19:03:15+10:00,2022-05-12 14:01:44+02:00
+pkg/gui/containers_panel.go,Jesse Duffield,Martin Cross,2023-07-21 17:47:00+10:00,2023-07-21 18:22:18+10:00
+pkg/gui/gui.go,mjarkk,Jesse Duffield,2019-07-01 09:56:05+02:00,2019-07-01 23:30:51+10:00
+pkg/gui/gui.go,Dawid Dziurla,Jesse Duffield,2019-09-07 09:04:58+02:00,2019-09-07 18:04:49+10:00
+pkg/gui/keybindings.go,mjarkk,"Dowideit, Sven (O&A, St. Lucia)",2019-07-07 14:44:59+02:00,2019-07-08 17:01:15+10:00
+pkg/gui/keybindings.go,Jesse Duffield,Luka Markušić,2022-05-12 19:03:15+10:00,2022-05-12 14:01:44+02:00
+pkg/gui/main_panel.go,Jesse Duffield,mjarkk,2019-07-01 21:17:55+10:00,2019-07-02 09:14:22+02:00
+pkg/gui/services_panel.go,Jesse Duffield,Luka Markušić,2022-05-12 19:03:15+10:00,2022-05-12 14:01:44+02:00
+pkg/i18n/dutch.go,mjarkk,Jesse Duffield,2019-07-06 22:27:52+02:00,2019-07-07 11:11:24+10:00
+pkg/i18n/dutch.go,Jesse Duffield,mjarkk,2019-07-07 11:11:24+10:00,2019-07-07 14:30:18+02:00
+pkg/i18n/dutch.go,Jesse Duffield,glendsoza,2022-01-12 23:11:03+11:00,2022-01-12 22:39:12+05:30
+pkg/i18n/english.go,mjarkk,Jesse Duffield,2019-07-06 21:20:21+02:00,2019-07-07 11:11:24+10:00
+pkg/i18n/english.go,Jesse Duffield,mjarkk,2019-07-07 11:11:24+10:00,2019-07-07 14:30:18+02:00
+pkg/i18n/english.go,mjarkk,Mark Kopenga,2019-07-07 14:30:18+02:00,2019-07-07 14:33:23+02:00
+pkg/i18n/english.go,Jesse Duffield,glendsoza,2022-01-12 23:11:03+11:00,2022-01-12 22:39:12+05:30
+pkg/i18n/german.go,Jan Krüger,Jesse Duffield,2019-06-30 18:35:01+02:00,2019-07-01 20:02:47+10:00
+pkg/i18n/german.go,Jesse Duffield,Stefan Wendhausen,2019-07-12 20:59:44+10:00,2019-07-13 11:56:36+02:00
+pkg/i18n/german.go,Jesse Duffield,glendsoza,2022-01-12 23:11:03+11:00,2022-01-12 22:39:12+05:30
+pkg/i18n/i18n.go,Jan Krüger,Mark Kopenga,2019-07-01 02:04:39+02:00,2019-07-01 15:46:18+02:00
+pkg/i18n/i18n.go,Oguzcan Demircan,Oğuzcan Demircan,2019-07-03 18:17:27+03:00,2019-07-04 11:53:33+03:00
+pkg/i18n/i18n.go,Oğuzcan Demircan,Dawid Dziurla,2019-07-04 11:53:33+03:00,2019-07-04 11:17:39+02:00
+pkg/i18n/polish.go,Dawid Dziurla,Jesse Duffield,2019-07-04 11:12:21+02:00,2019-07-05 10:35:25+10:00
+pkg/i18n/polish.go,Jesse Duffield,glendsoza,2022-01-12 23:11:03+11:00,2022-01-12 22:39:12+05:30
+pkg/i18n/turkish.go,Oguzcan Demircan,Oğuzcan Demircan,2019-07-03 18:17:27+03:00,2019-07-04 08:48:08+03:00
+pkg/i18n/turkish.go,Oğuzcan Demircan,Jesse Duffield,2019-07-04 08:48:08+03:00,2019-07-05 10:35:25+10:00
+pkg/i18n/turkish.go,Jesse Duffield,glendsoza,2022-01-12 23:11:03+11:00,2022-01-12 22:39:12+05:30
+pkg/utils/utils.go,Jesse Duffield,mjarkk,2019-06-30 19:58:46+10:00,2019-07-01 09:56:05+02:00
+pkg/utils/utils.go,Charlie Moog,Jesse Duffield,2022-01-08 15:09:08-06:00,2022-01-09 18:05:58+11:00
+pkg/utils/utils.go,Jesse Duffield,Charlie Moog,2022-01-09 18:05:58+11:00,2022-01-09 10:46:29-06:00
+scripts/generate_cheatsheet.go,Dawid Dziurla,Pieter van de Bruggen,2019-07-03 12:58:57+02:00,2019-07-03 10:48:55-07:00
+scripts/install_update_linux.sh,immanuelfodor,Immánuel!,2019-07-03 17:17:23+02:00,2019-07-04 15:58:48+02:00
+scripts/install_update_linux.sh,Immánuel!,immanuelfodor,2019-07-04 15:58:48+02:00,2019-07-04 20:21:31+02:00
+vendor/github.com/jesseduffield/lazycore/pkg/utils/utils.go,Jesse Duffield,Gustavo Andrioli,2022-10-09 18:02:11-07:00,2022-10-10 18:29:17-03:00
+vendor/modules.txt,Dawid Dziurla,Jesse Duffield,2019-07-05 14:53:34+02:00,2019-07-06 10:25:13+10:00
+vendor/modules.txt,Jesse Duffield,Gustavo Andrioli,2022-10-09 18:02:11-07:00,2022-10-10 18:29:17-03:00

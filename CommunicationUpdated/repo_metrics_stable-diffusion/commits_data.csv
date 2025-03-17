@@ -1,0 +1,182 @@
+author,timestamp,file
+Robin Rombach,2021-12-21 01:59:06+01:00,README.md
+ablattmann,2021-12-21 03:23:41+01:00,README.md
+ablattmann,2021-12-21 03:23:41+01:00,assets/inpainting.png
+ablattmann,2021-12-21 03:23:41+01:00,assets/reconstruction1.png
+ablattmann,2021-12-21 03:23:41+01:00,assets/reconstruction2.png
+ablattmann,2021-12-21 03:23:41+01:00,configs/autoencoder/autoencoder_kl_16x16x16.yaml
+ablattmann,2021-12-21 03:23:41+01:00,configs/autoencoder/autoencoder_kl_32x32x4.yaml
+ablattmann,2021-12-21 03:23:41+01:00,configs/autoencoder/autoencoder_kl_64x64x3.yaml
+ablattmann,2021-12-21 03:23:41+01:00,configs/autoencoder/autoencoder_kl_8x8x64.yaml
+ablattmann,2021-12-21 03:23:41+01:00,configs/latent-diffusion/lsun_churches_f8-autoencoder-ldm.yaml
+ablattmann,2021-12-21 03:23:41+01:00,data/DejaVuSans.ttf
+ablattmann,2021-12-21 03:23:41+01:00,data/example_conditioning/superresolution/sample_0.jpg
+ablattmann,2021-12-21 03:23:41+01:00,data/example_conditioning/text_conditional/sample_0.txt
+ablattmann,2021-12-21 03:23:41+01:00,data/imagenet_train_hr_indices.p
+ablattmann,2021-12-21 03:23:41+01:00,data/imagenet_val_hr_indices.p
+ablattmann,2021-12-21 03:23:41+01:00,data/index_synset.yaml
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/6458524847_2f4c361183_k.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/6458524847_2f4c361183_k_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/8399166846_f6fb4e4b8e_k.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/8399166846_f6fb4e4b8e_k_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/alex-iby-G_Pk4D9rMLs.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/alex-iby-G_Pk4D9rMLs_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/bench2.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/bench2_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/bertrand-gabioud-CpuFzIsHYJ0.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/bertrand-gabioud-CpuFzIsHYJ0_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/billow926-12-Wc-Zgx6Y.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/billow926-12-Wc-Zgx6Y_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/overture-creations-5sI6fQgYIuo.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/overture-creations-5sI6fQgYIuo_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/photo-1583445095369-9c651e7e5d34.png
+ablattmann,2021-12-21 03:23:41+01:00,data/inpainting_examples/photo-1583445095369-9c651e7e5d34_mask.png
+ablattmann,2021-12-21 03:23:41+01:00,environment.yaml
+ablattmann,2021-12-21 03:23:41+01:00,ldm/data/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/data/base.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/data/imagenet.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/data/lsun.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/lr_scheduler.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/models/autoencoder.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/models/diffusion/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/models/diffusion/classifier.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/models/diffusion/ddim.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/models/diffusion/ddpm.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/attention.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/diffusionmodules/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/diffusionmodules/model.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/diffusionmodules/openaimodel.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/diffusionmodules/util.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/distributions/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/distributions/distributions.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/ema.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/encoders/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/encoders/modules.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/image_degradation/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/image_degradation/bsrgan.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/image_degradation/bsrgan_light.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/image_degradation/utils/test.png
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/image_degradation/utils_image.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/losses/__init__.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/losses/contperceptual.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/modules/x_transformer.py
+ablattmann,2021-12-21 03:23:41+01:00,ldm/util.py
+ablattmann,2021-12-21 03:23:41+01:00,main.py
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/kl-f16/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/kl-f32/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/kl-f4/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/kl-f8/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/vq-f16/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/vq-f4-noattn/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/vq-f4/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/vq-f8-n256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/first_stage_models/vq-f8/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/bsr_sr/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/celeba256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/cin256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/ffhq256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/inpainting_big/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/layout2img-openimages256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/lsun_beds256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/lsun_churches256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/semantic_synthesis512/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,models/ldm/text2img256/config.yaml
+ablattmann,2021-12-21 03:23:41+01:00,notebook_helpers.py
+ablattmann,2021-12-21 03:23:41+01:00,scripts/download_first_stages.sh
+ablattmann,2021-12-21 03:23:41+01:00,scripts/download_models.sh
+ablattmann,2021-12-21 03:23:41+01:00,scripts/inpaint.py
+ablattmann,2021-12-21 03:23:41+01:00,scripts/sample_diffusion.py
+ablattmann,2021-12-21 03:23:41+01:00,setup.py
+ablattmann,2021-12-21 03:38:17+01:00,README.md
+Patrick Esser,2021-12-21 11:35:45+00:00,README.md
+Patrick Esser,2021-12-21 11:35:45+00:00,scripts/download_models.sh
+rromb,2021-12-22 11:16:26+01:00,README.md
+rromb,2021-12-22 11:16:26+01:00,assets/modelfigure.png
+rromb,2021-12-22 11:16:26+01:00,assets/results.gif
+ablattmann,2021-12-22 15:57:23+01:00,README.md
+ablattmann,2021-12-22 15:57:23+01:00,configs/latent-diffusion/celebahq-ldm-vq-4.yaml
+ablattmann,2021-12-22 15:57:23+01:00,configs/latent-diffusion/cin-ldm-vq-f8.yaml
+ablattmann,2021-12-22 15:57:23+01:00,configs/latent-diffusion/ffhq-ldm-vq-4.yaml
+ablattmann,2021-12-22 15:57:23+01:00,configs/latent-diffusion/lsun_bedrooms-ldm-vq-4.yaml
+ablattmann,2021-12-22 15:57:23+01:00,configs/latent-diffusion/lsun_churches-ldm-kl-8.yaml
+ablattmann,2021-12-22 15:57:23+01:00,ldm/models/diffusion/ddim.py
+ablattmann,2021-12-22 15:57:23+01:00,ldm/models/diffusion/ddpm.py
+ablattmann,2021-12-22 15:57:23+01:00,ldm/modules/diffusionmodules/util.py
+ablattmann,2021-12-22 15:57:23+01:00,main.py
+ablattmann,2021-12-22 15:57:23+01:00,models/ldm/semantic_synthesis256/config.yaml
+ablattmann,2021-12-22 15:57:23+01:00,scripts/download_first_stages.sh
+ablattmann,2021-12-22 15:57:23+01:00,scripts/download_models.sh
+ablattmann,2022-01-14 18:24:18+01:00,LICENSE
+ablattmann,2022-01-15 12:30:44+01:00,README.md
+Robin Rombach,2022-01-17 21:24:19+01:00,ldm/models/diffusion/ddpm.py
+rromb,2022-02-21 15:06:50+01:00,ldm/modules/losses/vqperceptual.py
+Robin Rombach,2022-08-10 16:30:49+02:00,LICENSE
+Robin Rombach,2022-08-10 16:30:49+02:00,README.md
+Robin Rombach,2022-08-10 16:30:49+02:00,Stable_Diffusion_v1_Model_Card.md
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/a-painting-of-a-fire.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/a-photograph-of-a-fire.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/a-shirt-with-a-fire-printed-on-it.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/a-shirt-with-the-inscription-'fire'.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/a-watercolor-painting-of-a-fire.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/birdhouse.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/fire.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/rdm-preview.jpg
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/img2img/mountains-1.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/img2img/mountains-2.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/img2img/mountains-3.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/img2img/sketch-mountains-input.jpg
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/img2img/upscaling-in.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/img2img/upscaling-out.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/txt2img/000002025.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/txt2img/000002035.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/txt2img/merged-0005.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/txt2img/merged-0006.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/stable-samples/txt2img/merged-0007.png
+Robin Rombach,2022-08-10 16:30:49+02:00,"assets/the-earth-is-on-fire,-oil-on-canvas.png"
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/txt2img-convsample.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/txt2img-preview.png
+Robin Rombach,2022-08-10 16:30:49+02:00,assets/v1-variants-scores.jpg
+Robin Rombach,2022-08-10 16:30:49+02:00,configs/latent-diffusion/cin256-v2.yaml
+Robin Rombach,2022-08-10 16:30:49+02:00,configs/latent-diffusion/txt2img-1p4B-eval.yaml
+Robin Rombach,2022-08-10 16:30:49+02:00,configs/retrieval-augmented-diffusion/768x768.yaml
+Robin Rombach,2022-08-10 16:30:49+02:00,configs/stable-diffusion/v1-inference.yaml
+Robin Rombach,2022-08-10 16:30:49+02:00,data/imagenet_clsidx_to_label.txt
+Robin Rombach,2022-08-10 16:30:49+02:00,environment.yaml
+Robin Rombach,2022-08-10 16:30:49+02:00,ldm/models/diffusion/ddim.py
+Robin Rombach,2022-08-10 16:30:49+02:00,ldm/models/diffusion/plms.py
+Robin Rombach,2022-08-10 16:30:49+02:00,ldm/modules/diffusionmodules/openaimodel.py
+Robin Rombach,2022-08-10 16:30:49+02:00,ldm/modules/encoders/modules.py
+Robin Rombach,2022-08-10 16:30:49+02:00,ldm/modules/x_transformer.py
+Robin Rombach,2022-08-10 16:30:49+02:00,ldm/util.py
+Robin Rombach,2022-08-10 16:30:49+02:00,scripts/img2img.py
+Robin Rombach,2022-08-10 16:30:49+02:00,scripts/knn2img.py
+Robin Rombach,2022-08-10 16:30:49+02:00,scripts/latent_imagenet_diffusion.ipynb
+Robin Rombach,2022-08-10 16:30:49+02:00,scripts/train_searcher.py
+Robin Rombach,2022-08-10 16:30:49+02:00,scripts/txt2img.py
+Robin Rombach,2022-08-10 16:59:50+02:00,README.md
+cpacker,2022-08-12 13:24:00-07:00,environment.yaml
+apolinario,2022-08-16 21:08:28+02:00,README.md
+Patrick Esser,2022-08-16 23:13:39+02:00,README.md
+owenvincent,2022-08-18 13:49:59+02:00,README.md
+owenvincent,2022-08-18 15:46:44+02:00,README.md
+Patrick von Platen,2022-08-19 16:01:56+00:00,scripts/txt2img.py
+Patrick von Platen,2022-08-19 18:03:22+02:00,scripts/txt2img.py
+Patrick von Platen,2022-08-19 17:05:39+00:00,scripts/txt2img.py
+Patrick von Platen,2022-08-19 17:09:41+00:00,scripts/txt2img.py
+Patrick von Platen,2022-08-19 17:14:29+00:00,scripts/txt2img.py
+Patrick Esser,2022-08-22 16:11:52+00:00,scripts/txt2img.py
+Patrick Esser,2022-08-22 16:57:55+00:00,LICENSE
+Patrick Esser,2022-08-22 16:57:55+00:00,README.md
+Patrick Esser,2022-08-22 16:57:55+00:00,Stable_Diffusion_v1_Model_Card.md
+Patrick Esser,2022-08-22 16:57:55+00:00,assets/rick.jpeg
+Patrick Esser,2022-08-22 16:57:55+00:00,assets/v1-variants-scores.jpg
+Patrick Esser,2022-08-22 16:57:55+00:00,environment.yaml
+Patrick Esser,2022-08-22 16:57:55+00:00,scripts/tests/test_watermark.py
+Patrick Esser,2022-08-22 16:57:55+00:00,scripts/txt2img.py
+LuChengTHU,2022-10-28 23:47:10+08:00,ldm/models/diffusion/dpm_solver/__init__.py
+LuChengTHU,2022-10-28 23:47:10+08:00,ldm/models/diffusion/dpm_solver/dpm_solver.py
+LuChengTHU,2022-10-28 23:47:10+08:00,ldm/models/diffusion/dpm_solver/sampler.py
+LuChengTHU,2022-10-28 23:47:10+08:00,scripts/txt2img.py
+LuChengTHU,2022-11-06 18:32:02+08:00,ldm/models/diffusion/dpm_solver/dpm_solver.py
+LuChengTHU,2022-11-06 18:32:02+08:00,ldm/models/diffusion/dpm_solver/sampler.py
+Robin Rombach,2022-11-16 21:34:06+01:00,ldm/models/diffusion/dpm_solver/sampler.py

@@ -1,0 +1,286 @@
+file,author1,author2,time1,time2
+.github/workflows/docs.yml,Tony031218,鹤翔万里,2021-01-24 11:44:39+08:00,2021-01-24 14:06:44+08:00
+.github/workflows/docs.yml,鹤翔万里,Tony031218,2021-01-24 14:06:44+08:00,2021-01-24 19:44:48+08:00
+.gitignore,Scott Opell,Grant Sanderson,2016-05-25 22:17:31-04:00,2016-05-25 20:39:13-07:00
+.gitignore,bhbr,Ben Hambrecht,2018-01-26 19:33:22+01:00,2018-01-26 19:49:15+01:00
+README.md,Scott Opell,Grant Sanderson,2016-05-25 22:18:06-04:00,2016-05-25 20:39:13-07:00
+README.md,Grant Sanderson,Scott Opell,2016-05-25 20:39:13-07:00,2016-05-26 11:13:36-04:00
+README.md,Scott Opell,Grant Sanderson,2016-09-05 15:05:37-04:00,2016-09-06 11:06:31-07:00
+README.md,cclauss,Dan Waxman,2018-10-01 13:33:57+02:00,2018-10-01 17:55:25-04:00
+README.md,Dan Waxman,cclauss,2018-10-04 18:21:30-04:00,2018-10-05 04:31:33+02:00
+README.md,cclauss,Dan Waxman,2018-10-05 04:31:33+02:00,2018-10-04 23:39:52-04:00
+README.md,Yoshi Askharoun,TortelliniLeap,2019-04-04 15:08:29-07:00,2019-04-04 19:41:37-04:00
+README.md,brockelmore,Charlie Park,2019-04-22 08:33:27-04:00,2019-04-22 09:30:13-07:00
+README.md,Shubhanshu Mishra,Devin Neal,2019-04-30 14:40:22-05:00,2019-04-30 22:08:01-07:00
+README.md,Devin Neal,Kolloom,2019-06-10 20:09:42-07:00,2019-06-11 00:49:31-05:00
+README.md,Tony031218,Grant Sanderson,2021-01-02 19:20:25+08:00,2021-01-02 20:47:51-08:00
+README.md,ASUTOSH GHANTO,鹤翔万里,2021-02-02 13:29:56+05:30,2021-02-02 16:17:18+08:00
+README.md,鹤翔万里,Tony031218,2021-02-02 16:17:18+08:00,2021-02-03 07:55:39+08:00
+README.md,CodingPower472,giacomo-b,2021-04-16 09:21:28-06:00,2021-04-17 10:37:20+02:00
+active_projects/WindingNumber.py,Grant Sanderson,Sridhar Ramesh,2018-01-15 19:22:24-08:00,2018-01-16 17:48:51-08:00
+active_projects/WindingNumber.py,Grant Sanderson,Sridhar Ramesh,2018-03-08 13:55:01-08:00,2018-03-09 10:32:19-08:00
+active_projects/WindingNumber.py,Grant Sanderson,Sridhar Ramesh,2018-03-20 12:57:49-07:00,2018-03-20 16:57:06-07:00
+active_projects/WindingNumber.py,Sridhar Ramesh,Grant Sanderson,2018-03-20 17:35:57-07:00,2018-03-21 13:41:38-07:00
+active_projects/WindingNumber.py,Grant Sanderson,Sridhar Ramesh,2018-03-21 13:41:38-07:00,2018-03-22 11:54:08-07:00
+active_projects/WindingNumber.py,Sridhar Ramesh,Grant Sanderson,2018-03-25 23:01:22-07:00,2018-03-26 10:57:41-07:00
+active_projects/WindingNumber_G.py,Grant Sanderson,Sridhar Ramesh,2018-03-20 16:32:47-07:00,2018-03-20 16:57:06-07:00
+active_projects/WindingNumber_G.py,Sridhar Ramesh,Grant Sanderson,2018-03-20 16:57:06-07:00,2018-03-20 18:22:36-07:00
+active_projects/alt_calc.py,Grant Sanderson,Ben Hambrecht,2018-05-16 12:00:35-07:00,2018-05-16 21:17:14+02:00
+active_projects/alt_calc.py,Ben Hambrecht,Grant Sanderson,2018-05-16 21:17:14+02:00,2018-05-16 15:15:27-07:00
+active_projects/basel.py,Ben Hambrecht,Grant Sanderson,2018-02-26 18:39:33+01:00,2018-02-26 11:41:44-08:00
+active_projects/basel.py,Grant Sanderson,Ben Hambrecht,2018-02-26 11:58:56-08:00,2018-02-27 00:22:21+01:00
+active_projects/basel.py,Ben Hambrecht,Grant Sanderson,2018-02-27 00:22:21+01:00,2018-02-26 16:13:28-08:00
+active_projects/basel.py,Grant Sanderson,Ben Hambrecht,2018-02-26 16:15:03-08:00,2018-02-27 18:48:55+01:00
+active_projects/eop/pascal.py,Grant Sanderson,Ben Hambrecht,2018-04-02 17:53:12-07:00,2018-04-03 19:38:54+02:00
+active_projects/fourier.py,Grant Sanderson,Ben Hambrecht,2018-01-24 08:55:53-08:00,2018-01-24 18:50:01+01:00
+active_projects/fourier.py,Ben Hambrecht,Grant Sanderson,2018-01-24 18:50:01+01:00,2018-01-24 11:26:13-08:00
+animation/simple_animations.py,Sridhar Ramesh,Grant Sanderson,2018-01-10 13:08:01-08:00,2018-01-10 16:58:22-08:00
+animation/simple_animations.py,Grant Sanderson,Sridhar Ramesh,2018-01-18 16:49:50-08:00,2018-01-19 13:02:41-08:00
+animation/simple_animations.py,Grant Sanderson,Sridhar Ramesh,2018-01-24 08:54:36-08:00,2018-01-24 13:11:25-08:00
+animation/simple_animations.py,Sridhar Ramesh,Grant Sanderson,2018-02-19 14:31:36-08:00,2018-02-19 16:51:47-08:00
+animation/simple_animations.py,Grant Sanderson,Sridhar Ramesh,2018-02-19 16:51:47-08:00,2018-02-20 09:11:43-08:00
+animation/simple_animations.py,Grant Sanderson,Sridhar Ramesh,2018-02-22 11:05:38-08:00,2018-02-22 12:05:57-08:00
+ben_playground.py,Ben Hambrecht,bhbr,2018-01-26 19:50:12+01:00,2018-01-26 19:56:49+01:00
+ben_playground.py,bhbr,Ben Hambrecht,2018-01-26 22:05:09+01:00,2018-01-27 14:07:37+01:00
+camera.py,Sridhar Ramesh,Grant Sanderson,2018-01-11 16:49:58-08:00,2018-01-12 13:38:25-08:00
+camera.py,Sridhar Ramesh,Grant Sanderson,2018-01-16 16:09:16-08:00,2018-01-17 12:18:47-08:00
+camera/camera.py,Grant Sanderson,Sridhar Ramesh,2018-01-30 13:51:22-08:00,2018-01-30 18:06:05-08:00
+camera/camera.py,Sridhar Ramesh,Grant Sanderson,2018-02-01 16:32:19-08:00,2018-02-01 21:56:09-08:00
+camera/camera.py,Grant Sanderson,Sridhar Ramesh,2018-02-01 21:56:09-08:00,2018-02-02 10:13:22-08:00
+camera/camera.py,Grant Sanderson,Sridhar Ramesh,2018-02-06 12:22:03-08:00,2018-02-06 12:44:38-08:00
+camera/camera.py,Sridhar Ramesh,Grant Sanderson,2018-02-20 12:33:58-08:00,2018-02-20 16:44:36-08:00
+camera/camera.py,Grant Sanderson,Sridhar Ramesh,2018-02-20 16:44:36-08:00,2018-02-20 21:54:40-08:00
+camera/camera.py,Sridhar Ramesh,Ben Hambrecht,2018-02-26 11:47:37-08:00,2018-02-27 18:48:35+01:00
+constants.py,Scott Opell,Grant Sanderson,2016-05-25 22:18:06-04:00,2016-05-25 20:23:06-07:00
+constants.py,Grant Sanderson,Sridhar Ramesh,2018-01-08 12:40:36-08:00,2018-01-08 17:24:54-08:00
+constants.py,Sridhar Ramesh,Grant Sanderson,2018-01-08 17:24:54-08:00,2018-01-08 17:30:09-08:00
+constants.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+constants.py,Grant Sanderson,Ben Hambrecht,2018-05-15 19:49:10-07:00,2018-05-16 21:17:14+02:00
+constants.py,Mehmet Mert Yildiran,Grant Sanderson,2018-10-30 18:30:34+03:00,2018-10-30 12:28:22-07:00
+constants.py,Grant Sanderson,Mehmet Mert Yildiran,2018-10-30 12:28:22-07:00,2018-10-31 21:29:01+03:00
+custom_defaults.yml,Grant Sanderson,Tony031218,2021-01-15 10:16:37-10:00,2021-01-16 10:46:30+08:00
+docs/about.rst,kyarik,Devin Neal,2019-05-27 15:52:41-07:00,2019-05-28 00:36:13-07:00
+docs/source/_static/example_scenes/AnimatingMethods.mp4,Tony031218,friedkeenan,2021-02-10 11:02:18+08:00,2021-02-10 09:10:31-06:00
+docs/source/conf.py,Tony031218,鹤翔万里,2021-01-24 09:49:29+08:00,2021-01-24 14:06:44+08:00
+docs/source/conf.py,鹤翔万里,Tony031218,2021-01-24 14:06:44+08:00,2021-01-24 16:03:18+08:00
+docs/source/constants.rst,Kolloom,Devin Neal,2019-06-04 13:15:35-05:00,2019-06-04 21:10:12-07:00
+docs/source/development/changelog.rst,鹤翔万里,TonyCrane,2021-06-19 13:11:36+08:00,2021-06-19 13:21:25+08:00
+docs/source/getting_started/example_scenes.rst,Grant Sanderson,Tony031218,2021-01-30 22:20:37-08:00,2021-01-31 22:03:53+08:00
+docs/source/getting_started/example_scenes.rst,Grant Sanderson,Tony031218,2021-02-06 11:06:38-08:00,2021-02-07 21:38:19+08:00
+docs/source/getting_started/example_scenes.rst,Tony031218,friedkeenan,2021-02-10 11:02:18+08:00,2021-02-10 09:10:31-06:00
+docs/source/getting_started/example_scenes.rst,friedkeenan,Grant Sanderson,2021-02-10 15:38:31-06:00,2021-02-10 13:54:01-08:00
+docs/source/getting_started/learning_by_example.rst,Purusharth Saxena,Devin Neal,2019-06-08 00:19:31-05:00,2019-06-08 00:32:43-05:00
+docs/source/getting_started/learning_by_example.rst,Devin Neal,Kolloom,2019-06-08 00:32:43-05:00,2019-06-08 13:32:27-05:00
+docs/source/index.rst,Kierán Meinhardt,Kolloom,2019-06-02 13:54:03-07:00,2019-06-02 18:21:11-07:00
+docs/source/installation/linux.rst,Devin Neal,Kolloom,2019-05-27 16:14:20-07:00,2019-05-28 00:48:25-05:00
+docs/source/installation/windows.rst,Devin Neal,Kolloom,2019-05-27 16:14:20-07:00,2019-05-28 15:22:20-05:00
+example_scenes.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 18:49:58-08:00
+example_scenes.py,Ben Hambrecht,frozar,2018-02-06 11:13:10+01:00,2018-02-06 11:25:03+01:00
+example_scenes.py,Tony031218,Grant Sanderson,2021-01-15 23:39:24+08:00,2021-01-15 11:11:07-10:00
+example_scenes.py,Grant Sanderson,Tony031218,2021-01-15 11:11:07-10:00,2021-01-16 09:35:13+08:00
+example_scenes.py,Sahil Makhijani,Grant Sanderson,2021-01-28 14:02:43+05:30,2021-01-28 12:26:05-08:00
+example_scenes.py,Grant Sanderson,Sahil Makhijani,2021-01-30 22:51:34-08:00,2021-02-01 01:41:37+05:30
+example_scenes.py,Grant Sanderson,Tony031218,2021-02-06 11:06:38-08:00,2021-02-07 17:43:05+08:00
+example_scenes.py,Tony031218,Grant Sanderson,2021-02-07 21:38:19+08:00,2021-02-07 17:31:31-08:00
+example_scenes.py,Grant Sanderson,Tony031218,2021-02-07 17:31:31-08:00,2021-02-08 12:22:34+08:00
+example_scenes.py,Tony031218,friedkeenan,2021-02-10 11:02:18+08:00,2021-02-10 09:10:31-06:00
+example_scenes.py,friedkeenan,Grant Sanderson,2021-02-10 15:38:31-06:00,2021-02-10 13:54:01-08:00
+example_scenes.py,TonyCrane,sahilmakhijani,2021-06-19 20:13:41+08:00,2021-06-20 15:37:06+08:00
+extract_scene.py,Grant Sanderson,frozar,2018-04-04 13:34:31-07:00,2018-04-05 11:33:39+02:00
+helpers.py,Grant Sanderson,Ben Hambrecht,2018-01-23 12:04:05-08:00,2018-01-24 18:50:01+01:00
+helpers.py,frozar,Sridhar Ramesh,2018-01-31 15:39:12+01:00,2018-01-31 17:17:58-08:00
+helpers.py,Ben Hambrecht,Grant Sanderson,2018-02-06 11:13:37+01:00,2018-02-06 12:23:01-08:00
+helpers.py,Grant Sanderson,Sridhar Ramesh,2018-02-06 12:23:01-08:00,2018-02-06 12:44:38-08:00
+helpers.py,Grant Sanderson,Sridhar Ramesh,2018-02-11 18:59:54-08:00,2018-02-12 13:53:33-08:00
+helpers.py,Sridhar Ramesh,Grant Sanderson,2018-02-15 15:35:37-08:00,2018-02-16 11:14:19-08:00
+manimlib/__main__.py,Michael W,TonyCrane,2021-10-16 13:04:52+08:00,2021-10-16 21:01:39+08:00
+manimlib/animation/animation.py,friedkeenan,Grant Sanderson,2021-02-10 07:43:46-06:00,2021-02-10 16:45:23-08:00
+manimlib/animation/creation.py,YishiMichael,lask,2022-04-10 08:36:13+08:00,2022-04-10 20:00:10-03:00
+manimlib/config.py,Charly,Devin Neal,2019-06-02 12:13:22-07:00,2019-06-02 18:58:33-07:00
+manimlib/config.py,Michael W,TonyCrane,2021-10-16 13:04:52+08:00,2021-10-16 21:01:39+08:00
+manimlib/config.py,Grant Sanderson,TonyCrane,2021-12-13 16:03:36-08:00,2021-12-14 12:14:04+08:00
+manimlib/config.py,Grant Sanderson,TonyCrane,2022-02-13 15:16:16-08:00,2022-02-14 19:50:30+08:00
+manimlib/config.py,Grant Sanderson,Splines,2024-12-05 14:51:14-08:00,2024-12-05 16:18:10-08:00
+manimlib/config.py,Splines,Grant Sanderson,2024-12-05 16:18:10-08:00,2024-12-06 09:39:12-06:00
+manimlib/constants.py,Tony031218,Grant Sanderson,2021-01-02 19:16:35+08:00,2021-01-02 20:47:51-08:00
+manimlib/extract_scene.py,Devin Neal,F.W,2018-12-28 23:06:14-08:00,2018-12-29 17:37:28-08:00
+manimlib/extract_scene.py,F.W,Devin Neal,2018-12-29 17:37:28-08:00,2018-12-30 12:53:38-08:00
+manimlib/extract_scene.py,Tony031218,Grant Sanderson,2021-01-02 19:17:11+08:00,2021-01-02 19:03:01-08:00
+manimlib/extract_scene.py,Pedro Maia,Sahil Makhijani,2021-02-04 11:30:13-03:00,2021-02-05 13:09:03+05:30
+manimlib/logger.py,Michael W,TonyCrane,2021-10-16 13:04:52+08:00,2021-10-16 21:01:39+08:00
+manimlib/mobject/coordinate_systems.py,Jasper Homann,Grant Sanderson,2019-01-18 13:38:07+01:00,2019-01-18 09:07:38-08:00
+manimlib/mobject/coordinate_systems.py,Grant Sanderson,widcardw,2022-03-16 12:24:22-07:00,2022-03-17 14:10:30+08:00
+manimlib/mobject/geometry.py,widcardw,TonyCrane,2021-06-13 21:07:25+08:00,2021-06-14 16:13:53+08:00
+manimlib/mobject/interactive.py,Sahil Makhijani,Grant Sanderson,2021-01-28 14:02:43+05:30,2021-01-28 12:26:05-08:00
+manimlib/mobject/mobject.py,Devin Neal,lkevinzc,2018-12-26 21:29:04-08:00,2018-12-27 19:12:52+08:00
+manimlib/mobject/mobject.py,lkevinzc,Devin Neal,2018-12-27 19:12:52+08:00,2018-12-27 09:41:41-08:00
+manimlib/mobject/mobject.py,Devin Neal,Liu Zichen,2018-12-27 09:41:41-08:00,2018-12-28 20:22:38+08:00
+manimlib/mobject/mobject.py,peninha,Kubo Kovac,2020-05-10 01:40:21-03:00,2020-05-10 14:58:01+02:00
+manimlib/mobject/mobject.py,Sahil Makhijani,Grant Sanderson,2021-01-28 14:02:43+05:30,2021-01-28 12:26:05-08:00
+manimlib/mobject/mobject.py,Grant Sanderson,Thierry Parmentelat,2021-02-04 12:35:45-08:00,2021-02-05 11:52:21+01:00
+manimlib/mobject/mobject.py,Grant Sanderson,friedkeenan,2021-02-09 10:52:45-08:00,2021-02-10 07:43:46-06:00
+manimlib/mobject/mobject.py,friedkeenan,Grant Sanderson,2021-02-10 07:43:46-06:00,2021-02-10 13:49:09-08:00
+manimlib/mobject/mobject.py,TonyCrane,sahilmakhijani,2021-06-19 18:30:23+08:00,2021-06-20 15:37:06+08:00
+manimlib/mobject/mobject.py,Bill Xi,Grant Sanderson,2021-11-01 10:19:06+08:00,2021-11-01 13:16:50-07:00
+manimlib/mobject/mobject.py,YishiMichael,鹤翔万里,2022-01-27 23:09:05+08:00,2022-01-28 00:20:13+08:00
+manimlib/mobject/mobject.py,TonyCrane,Grant Sanderson,2022-02-13 20:03:05+08:00,2022-02-13 15:16:16-08:00
+manimlib/mobject/mobject.py,Grant Sanderson,TonyCrane,2022-02-13 15:16:16-08:00,2022-02-14 20:02:24+08:00
+manimlib/mobject/mobject.py,YishiMichael,Grant Sanderson,2022-04-15 00:55:02+08:00,2022-04-14 14:37:12-07:00
+manimlib/mobject/mobject.py,Grant Sanderson,YishiMichael,2022-04-21 15:00:58-07:00,2022-04-22 16:42:45+08:00
+manimlib/mobject/mobject.py,YishiMichael,Grant Sanderson,2022-04-22 16:42:45+08:00,2022-04-22 08:14:05-07:00
+manimlib/mobject/number_line.py,Tony031218,Grant Sanderson,2021-02-05 13:57:00+08:00,2021-02-05 15:27:29-08:00
+manimlib/mobject/number_line.py,Grant Sanderson,Abhijith Muthyala,2021-02-05 15:27:29-08:00,2021-02-06 15:05:18+05:30
+manimlib/mobject/number_line.py,Abhijith Muthyala,Grant Sanderson,2021-02-06 15:05:18+05:30,2021-02-06 11:06:38-08:00
+manimlib/mobject/number_line.py,Grant Sanderson,YishiMichael,2022-04-11 10:47:26-07:00,2022-04-12 19:19:59+08:00
+manimlib/mobject/numbers.py,Bill Xi,TonyCrane,2022-02-15 11:45:17+08:00,2022-02-15 14:37:15+08:00
+manimlib/mobject/numbers.py,TonyCrane,Bill Xi,2022-02-15 14:37:15+08:00,2022-02-15 21:50:14+08:00
+manimlib/mobject/svg/mtex_mobject.py,YishiMichael,Grant Sanderson,2022-01-26 23:46:13+08:00,2022-01-26 08:20:38-08:00
+manimlib/mobject/svg/mtex_mobject.py,Grant Sanderson,YishiMichael,2022-01-26 08:20:38-08:00,2022-01-27 23:09:05+08:00
+manimlib/mobject/svg/mtex_mobject.py,TonyCrane,YishiMichael,2022-02-14 22:55:41+08:00,2022-02-15 20:16:15+08:00
+manimlib/mobject/svg/svg_mobject.py,TonyCrane,Grant Sanderson,2022-01-26 19:55:47+08:00,2022-01-26 08:20:45-08:00
+manimlib/mobject/svg/svg_mobject.py,Grant Sanderson,TonyCrane,2022-01-26 08:20:45-08:00,2022-01-27 16:37:51+08:00
+manimlib/mobject/svg/svg_mobject.py,Elisha Hollander,Grant Sanderson,2022-02-13 11:12:41+08:00,2022-02-13 15:16:16-08:00
+manimlib/mobject/svg/svg_mobject.py,Grant Sanderson,TonyCrane,2022-02-13 15:16:16-08:00,2022-02-14 22:55:41+08:00
+manimlib/mobject/svg/svg_mobject.py,TonyCrane,YishiMichael,2022-02-14 22:55:41+08:00,2022-02-15 20:16:15+08:00
+manimlib/mobject/svg/svg_mobject.py,YishiMichael,TonyCrane,2022-02-15 21:38:22+08:00,2022-02-16 20:37:07+08:00
+manimlib/mobject/svg/svg_mobject.py,YishiMichael,Grant Sanderson,2022-04-06 22:38:33+08:00,2022-04-06 13:04:44-07:00
+manimlib/mobject/svg/svg_mobject.py,Grant Sanderson,Varniex,2024-12-05 15:08:25-06:00,2024-12-05 14:42:46-08:00
+manimlib/mobject/svg/svg_mobject.py,Varniex,Grant Sanderson,2024-12-05 14:42:46-08:00,2024-12-05 14:51:14-08:00
+manimlib/mobject/svg/tex_mobject.py,Michael W,TonyCrane,2021-11-12 21:22:42+08:00,2021-11-12 21:49:56+08:00
+manimlib/mobject/svg/tex_mobject.py,Grant Sanderson,TonyCrane,2022-02-13 15:16:16-08:00,2022-02-14 22:55:41+08:00
+manimlib/mobject/svg/tex_mobject.py,TonyCrane,YishiMichael,2022-02-14 22:55:41+08:00,2022-02-15 20:16:15+08:00
+manimlib/mobject/svg/tex_mobject.py,Grant Sanderson,Varniex,2024-12-05 15:05:26-06:00,2024-12-05 14:42:46-08:00
+manimlib/mobject/svg/tex_mobject.py,Varniex,Grant Sanderson,2024-12-05 14:42:46-08:00,2024-12-05 14:51:14-08:00
+manimlib/mobject/svg/text_mobject.py,XiaoYoung,鹤翔万里,2020-05-07 01:16:39-07:00,2020-05-07 01:21:43-07:00
+manimlib/mobject/svg/text_mobject.py,Tony031218,Grant Sanderson,2021-01-15 23:39:24+08:00,2021-01-15 10:16:37-10:00
+manimlib/mobject/svg/text_mobject.py,Grant Sanderson,Tony031218,2021-01-15 10:16:37-10:00,2021-01-16 09:35:13+08:00
+manimlib/mobject/svg/text_mobject.py,Syrus Dark,Grant Sanderson,2021-02-12 12:28:08+05:30,2021-02-12 13:34:16-08:00
+manimlib/mobject/svg/text_mobject.py,Grant Sanderson,Tony031218,2021-02-12 13:34:16-08:00,2021-02-13 17:51:43+08:00
+manimlib/mobject/svg/text_mobject.py,Wallbreaker5th,Naveen M K,2021-06-18 14:43:09+08:00,2021-06-18 17:59:15+05:30
+manimlib/mobject/svg/text_mobject.py,Naveen M K,鹤翔万里,2021-06-19 00:43:01+05:30,2021-06-19 13:11:36+08:00
+manimlib/mobject/svg/text_mobject.py,鹤翔万里,Wallbreaker5th,2021-06-19 13:11:36+08:00,2021-06-19 16:00:39+08:00
+manimlib/mobject/svg/text_mobject.py,Wallbreaker5th,TonyCrane,2021-06-19 16:00:39+08:00,2021-06-19 19:33:53+08:00
+manimlib/mobject/svg/text_mobject.py,TonyCrane,Naveen M K,2021-06-19 19:33:53+08:00,2021-06-20 01:13:13+05:30
+manimlib/mobject/svg/text_mobject.py,Michael W,TonyCrane,2021-09-15 15:55:19+08:00,2021-09-15 20:02:57+08:00
+manimlib/mobject/svg/text_mobject.py,TonyCrane,Grant Sanderson,2022-01-26 19:55:47+08:00,2022-01-26 08:21:00-08:00
+manimlib/mobject/svg/text_mobject.py,TonyCrane,YishiMichael,2022-02-14 22:55:41+08:00,2022-02-15 20:16:15+08:00
+manimlib/mobject/svg/text_mobject.py,Grant Sanderson,YishiMichael,2022-03-22 11:07:26-07:00,2022-03-23 12:21:40+08:00
+manimlib/mobject/svg/text_mobject.py,Varniex,Grant Sanderson,2024-12-11 00:10:06+05:30,2024-12-11 08:30:31-06:00
+manimlib/mobject/types/image_mobject.py,YishiMichael,TonyCrane,2022-04-12 19:19:59+08:00,2022-04-12 20:20:03+08:00
+manimlib/mobject/types/point_cloud_mobject.py,TonyCrane,Grant Sanderson,2022-02-13 19:02:28+08:00,2022-02-13 15:16:16-08:00
+manimlib/mobject/types/point_cloud_mobject.py,Grant Sanderson,TonyCrane,2022-02-13 15:16:16-08:00,2022-02-14 21:41:45+08:00
+manimlib/mobject/types/vectorized_mobject.py,Thierry Parmentelat,Grant Sanderson,2021-02-05 11:52:21+01:00,2021-02-05 15:25:17-08:00
+manimlib/mobject/types/vectorized_mobject.py,Grant Sanderson,Benjamin Bastian,2023-01-22 09:45:50-08:00,2023-01-23 11:36:51+08:00
+manimlib/mobject/types/vectorized_mobject.py,Varniex,Grant Sanderson,2024-12-11 00:10:06+05:30,2024-12-10 19:33:06-06:00
+manimlib/module_loader.py,Splines,Grant Sanderson,2024-12-05 16:18:10-08:00,2024-12-06 11:05:57-07:00
+manimlib/reload_manager.py,Grant Sanderson,Splines,2024-12-05 14:51:14-08:00,2024-12-05 16:18:10-08:00
+manimlib/reload_manager.py,Splines,Grant Sanderson,2024-12-05 16:18:10-08:00,2024-12-06 09:39:12-06:00
+manimlib/scene/interactive_scene.py,Grant Sanderson,YishiMichael,2022-04-21 15:31:46-07:00,2022-04-22 16:42:45+08:00
+manimlib/scene/interactive_scene.py,YishiMichael,Grant Sanderson,2022-04-22 16:42:45+08:00,2022-04-22 10:17:29-07:00
+manimlib/scene/interactive_scene.py,YishiMichael,Grant Sanderson,2022-04-27 23:04:24+08:00,2022-04-27 09:55:46-07:00
+manimlib/scene/scene.py,Grant Sanderson,pdcxs,2019-01-12 14:43:44-08:00,2019-01-13 23:29:46+08:00
+manimlib/scene/scene.py,pdcxs,Grant Sanderson,2019-01-14 10:45:36+08:00,2019-01-14 13:26:58-08:00
+manimlib/scene/scene.py,Grant Sanderson,Sahil Makhijani,2021-01-30 17:51:40-08:00,2021-01-31 16:05:55+05:30
+manimlib/scene/scene.py,friedkeenan,Grant Sanderson,2021-02-10 07:43:46-06:00,2021-02-10 14:48:00-08:00
+manimlib/scene/scene.py,Grant Sanderson,TonyCrane,2022-02-13 15:16:16-08:00,2022-02-14 21:22:18+08:00
+manimlib/scene/scene.py,TonyCrane,Grant Sanderson,2022-02-14 21:22:18+08:00,2022-02-14 07:52:06-08:00
+manimlib/scene/scene.py,Grant Sanderson,TonyCrane,2022-02-15 10:10:57-08:00,2022-02-16 21:08:25+08:00
+manimlib/scene/scene.py,Grant Sanderson,YishiMichael,2022-04-21 15:02:11-07:00,2022-04-22 16:42:45+08:00
+manimlib/scene/scene.py,YishiMichael,Grant Sanderson,2022-04-22 16:42:45+08:00,2022-04-22 08:16:17-07:00
+manimlib/scene/scene.py,Grant Sanderson,Splines,2024-12-05 14:51:14-08:00,2024-12-05 16:18:10-08:00
+manimlib/scene/scene.py,Splines,Grant Sanderson,2024-12-05 16:18:10-08:00,2024-12-06 08:51:08-06:00
+manimlib/scene/scene.py,Grant Sanderson,Benjamín Ubilla,2024-12-06 09:54:14-06:00,2024-12-07 07:13:35-08:00
+manimlib/scene/scene.py,Benjamín Ubilla,Grant Sanderson,2024-12-07 07:13:35-08:00,2024-12-07 08:21:33-07:00
+manimlib/scene/scene.py,Grant Sanderson,Varniex,2024-12-10 20:00:03-06:00,2024-12-11 16:40:56+05:30
+manimlib/scene/scene.py,Varniex,Grant Sanderson,2024-12-11 16:40:56+05:30,2024-12-11 09:58:51-06:00
+manimlib/scene/scene_embed.py,Grant Sanderson,Varniex,2024-12-10 15:46:34-06:00,2024-12-11 16:40:56+05:30
+manimlib/scene/scene_embed.py,Varniex,Grant Sanderson,2024-12-11 16:40:56+05:30,2024-12-11 09:50:17-06:00
+manimlib/scene/scene_file_writer.py,NavpreetDevpuri,Aathish,2020-05-13 22:13:56-07:00,2020-05-13 22:41:22-07:00
+manimlib/shader_wrapper.py,Grant Sanderson,Varniex,2024-12-05 14:36:21-06:00,2024-12-05 14:42:46-08:00
+manimlib/shader_wrapper.py,Varniex,Grant Sanderson,2024-12-05 14:42:46-08:00,2024-12-05 14:51:14-08:00
+manimlib/shaders/quadratic_bezier_fill/frag.glsl,鹤翔万里,Tony031218,2021-02-01 22:56:03+08:00,2021-02-02 16:53:08+08:00
+manimlib/shaders/quadratic_bezier_stroke/geom.glsl,鹤翔万里,Tony031218,2021-02-01 22:55:40+08:00,2021-02-02 16:53:08+08:00
+manimlib/utils/bezier.py,TonyCrane,Grant Sanderson,2022-02-13 15:18:04+08:00,2022-02-13 15:16:16-08:00
+manimlib/utils/bezier.py,Grant Sanderson,YishiMichael,2022-04-11 10:47:11-07:00,2022-04-12 19:19:59+08:00
+manimlib/utils/directories.py,Tony031218,Grant Sanderson,2021-01-15 20:21:17+08:00,2021-01-15 10:16:37-10:00
+manimlib/utils/space_ops.py,Wallbreaker5th,Grant Sanderson,2021-07-28 17:06:43+08:00,2021-07-28 07:29:43-07:00
+manimlib/utils/space_ops.py,Sunkisser,鹤翔万里,2022-03-27 21:59:49+00:00,2022-03-28 08:05:41+08:00
+manimlib/utils/space_ops.py,鹤翔万里,Sunkisser,2022-03-28 08:05:41+08:00,2022-03-28 02:55:21+00:00
+manimlib/utils/space_ops.py,Grant Sanderson,YishiMichael,2022-04-11 09:59:24-07:00,2022-04-12 19:19:59+08:00
+manimlib/utils/space_ops.py,Grant Sanderson,LucaCappelletti94,2023-01-12 00:40:27-08:00,2023-01-12 12:03:14+01:00
+manimlib/utils/space_ops.py,LucaCappelletti94,Grant Sanderson,2023-01-12 12:03:14+01:00,2023-01-12 21:04:46-08:00
+manimlib/window.py,Tony031218,鹤翔万里,2021-02-02 22:06:23+08:00,2021-02-03 17:17:55+08:00
+manimlib/window.py,Grant Sanderson,Varniex,2024-12-05 11:59:01-06:00,2024-12-05 14:42:46-08:00
+manimlib/window.py,Varniex,Grant Sanderson,2024-12-05 14:42:46-08:00,2024-12-05 14:51:14-08:00
+mobject/geometry.py,Grant Sanderson,Ben Hambrecht,2018-04-11 17:13:39-07:00,2018-04-12 23:19:09+02:00
+mobject/geometry.py,Ben Hambrecht,Grant Sanderson,2018-04-12 23:19:09+02:00,2018-04-12 21:56:00-07:00
+mobject/mobject.py,Grant Sanderson,Ben Hambrecht,2018-01-17 09:01:46-08:00,2018-01-17 15:18:02-08:00
+mobject/mobject.py,Ben Hambrecht,Grant Sanderson,2018-01-17 15:18:02-08:00,2018-01-17 22:18:05-08:00
+mobject/mobject.py,Grant Sanderson,Ben Hambrecht,2018-01-23 13:41:14-08:00,2018-01-24 18:50:44+01:00
+mobject/mobject.py,Ben Hambrecht,Grant Sanderson,2018-01-24 18:50:44+01:00,2018-01-24 11:25:55-08:00
+mobject/mobject.py,Ben Hambrecht,Grant Sanderson,2018-02-07 07:35:18+01:00,2018-02-07 16:21:11-08:00
+mobject/mobject.py,Grant Sanderson,Ben Hambrecht,2018-04-10 19:47:04-07:00,2018-04-11 17:01:01+02:00
+mobject/mobject.py,Grant Sanderson,Ben Hambrecht,2018-05-07 13:37:29-07:00,2018-05-08 13:23:24+02:00
+mobject/mobject.py,Ben Hambrecht,Grant Sanderson,2018-05-08 13:23:24+02:00,2018-05-08 16:15:28-07:00
+mobject/mobject.py,Grant Sanderson,Ben Hambrecht,2018-05-08 16:15:28-07:00,2018-05-09 16:35:06+02:00
+mobject/mobject.py,Ben Hambrecht,Grant Sanderson,2018-05-09 18:22:30+02:00,2018-05-09 14:20:23-07:00
+mobject/point_cloud_mobject.py,Grant Sanderson,Ben Hambrecht,2018-01-17 15:13:09-08:00,2018-01-17 15:18:02-08:00
+mobject/svg/svg_mobject.py,Ben Hambrecht,Grant Sanderson,2018-04-12 23:19:09+02:00,2018-04-12 21:56:28-07:00
+mobject/vectorized_mobject.py,Grant Sanderson,Ben Hambrecht,2018-01-23 13:41:43-08:00,2018-01-24 18:50:01+01:00
+mobject/vectorized_mobject.py,Ben Hambrecht,Grant Sanderson,2018-01-24 18:50:44+01:00,2018-01-24 11:25:55-08:00
+mobject/vectorized_mobject.py,mirefek,Grant Sanderson,2018-01-28 15:28:39+01:00,2018-01-28 16:27:07-08:00
+mobject/vectorized_mobject.py,Sridhar Ramesh,Ben Hambrecht,2018-02-06 12:44:38-08:00,2018-02-07 09:45:36+01:00
+mobject/vectorized_mobject.py,Ben Hambrecht,Grant Sanderson,2018-02-07 09:45:36+01:00,2018-02-07 16:21:11-08:00
+myports.txt,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 18:52:25-08:00
+old_projects/borsuk.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+old_projects/crypto.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+old_projects/efvgt.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+old_projects/fractal_dimension.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+old_projects/triangle_of_power/triangle.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+requested.txt,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 18:55:27-08:00
+requirements.txt,Grant Sanderson,Tony031218,2021-01-01 20:11:30-08:00,2021-01-02 19:14:00+08:00
+requirements.txt,Tony031218,Grant Sanderson,2021-01-02 19:14:00+08:00,2021-01-02 20:47:51-08:00
+requirements.txt,Michael W,TonyCrane,2021-09-15 16:04:27+08:00,2021-09-15 20:29:56+08:00
+requirements.txt,Grant Sanderson,henri-gasc,2024-12-05 15:56:29-06:00,2024-12-05 14:43:14-08:00
+requirements.txt,henri-gasc,Grant Sanderson,2024-12-05 14:43:14-08:00,2024-12-05 14:51:14-08:00
+restore_ports.tcl,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 18:52:25-08:00
+sanim,Aathish,Devin Neal,2020-05-13 22:41:22-07:00,2020-05-13 23:04:31-07:00
+scene/scene.py,Grant Sanderson,Solara570,2017-09-26 17:41:45-07:00,2017-09-27 17:29:13+08:00
+scene/scene.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+scene/scene.py,Grant Sanderson,Ben Hambrecht,2018-01-18 10:21:28-08:00,2018-01-18 11:32:27-08:00
+scene/scene.py,Ben Hambrecht,Grant Sanderson,2018-01-18 11:32:27-08:00,2018-01-18 16:23:31-08:00
+scene/scene.py,Grant Sanderson,Ben Hambrecht,2018-01-23 12:23:29-08:00,2018-01-24 18:50:44+01:00
+scene/scene.py,Sridhar Ramesh,Grant Sanderson,2018-01-29 13:46:38-08:00,2018-01-29 21:29:36-08:00
+scene/scene.py,Ben Hambrecht,Grant Sanderson,2018-02-10 16:15:37+01:00,2018-02-10 22:34:39-08:00
+scene/scene.py,Sridhar Ramesh,Grant Sanderson,2018-02-19 14:32:35-08:00,2018-02-19 16:51:47-08:00
+setup.cfg,Michael W,TonyCrane,2021-10-16 13:04:52+08:00,2021-10-16 13:07:26+08:00
+setup.cfg,Varniex,Grant Sanderson,2024-12-11 16:46:09+05:30,2024-12-11 10:38:30-06:00
+text_template.tex,Grant Sanderson,Solara570,2017-09-27 09:51:14-07:00,2017-09-28 14:26:40+08:00
+text_template.tex,Solara570,Grant Sanderson,2017-09-28 14:26:40+08:00,2017-09-28 10:38:55-07:00
+topics/characters.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-15 19:15:05-08:00
+topics/geometry.py,Grant Sanderson,Ben Hambrecht,2018-01-17 16:04:07-08:00,2018-01-18 15:06:38-08:00
+topics/geometry.py,Ben Hambrecht,Grant Sanderson,2018-01-22 16:30:07-08:00,2018-01-22 21:58:26-08:00
+topics/geometry.py,Grant Sanderson,Ben Hambrecht,2018-01-22 21:58:26-08:00,2018-01-23 10:53:24-08:00
+topics/geometry.py,Ben Hambrecht,Grant Sanderson,2018-01-23 10:53:24-08:00,2018-01-23 12:18:19-08:00
+topics/geometry.py,Grant Sanderson,Ben Hambrecht,2018-01-23 12:23:29-08:00,2018-01-24 18:50:44+01:00
+topics/geometry.py,Ben Hambrecht,Grant Sanderson,2018-01-24 18:50:44+01:00,2018-01-24 16:09:37-08:00
+topics/geometry.py,Grant Sanderson,Ben Hambrecht,2018-01-24 16:09:37-08:00,2018-01-25 23:23:43+01:00
+topics/light.py,Ben Hambrecht,Grant Sanderson,2018-02-06 18:13:24+01:00,2018-02-06 12:51:06-08:00
+topics/light.py,Grant Sanderson,Ben Hambrecht,2018-02-06 12:51:06-08:00,2018-02-07 07:35:18+01:00
+topics/light.py,Ben Hambrecht,Grant Sanderson,2018-02-20 17:44:33+01:00,2018-02-20 11:30:59-08:00
+topics/light.py,Ben Hambrecht,Grant Sanderson,2018-02-27 00:22:21+01:00,2018-02-26 19:02:12-08:00
+topics/light.py,Grant Sanderson,Ben Hambrecht,2018-02-26 23:34:42-08:00,2018-02-27 18:48:55+01:00
+topics/light.py,Ben Hambrecht,Grant Sanderson,2018-02-27 18:48:55+01:00,2018-02-27 13:56:22-08:00
+topics/number_line.py,Grant Sanderson,Ben Hambrecht,2018-01-15 14:28:57-08:00,2018-01-15 18:27:52-08:00
+topics/number_line.py,Ben Hambrecht,Grant Sanderson,2018-01-15 18:27:52-08:00,2018-01-16 09:44:51-08:00
+topics/number_line.py,Grant Sanderson,Ben Hambrecht,2018-01-16 09:44:51-08:00,2018-01-16 12:25:50-08:00
+topics/numerals.py,Grant Sanderson,Ben Hambrecht,2018-01-16 15:51:19-08:00,2018-01-17 15:18:02-08:00
+topics/numerals.py,Ben Hambrecht,Grant Sanderson,2018-01-17 15:18:02-08:00,2018-01-17 22:17:05-08:00
+topics/numerals.py,Ben Hambrecht,Grant Sanderson,2018-01-23 10:53:24-08:00,2018-01-23 12:04:56-08:00
+topics/numerals.py,Grant Sanderson,Ben Hambrecht,2018-01-23 12:04:56-08:00,2018-01-23 21:09:53+01:00
+topics/numerals.py,Ben Hambrecht,Grant Sanderson,2018-01-23 21:09:53+01:00,2018-01-23 13:42:18-08:00
+topics/numerals.py,Grant Sanderson,Ben Hambrecht,2018-01-24 08:55:26-08:00,2018-01-24 18:50:44+01:00
+topics/three_dimensions.py,Ben Hambrecht,frozar,2018-02-06 11:14:20+01:00,2018-02-06 11:25:03+01:00
+topics/three_dimensions.py,frozar,Grant Sanderson,2018-02-06 11:25:03+01:00,2018-02-06 12:23:33-08:00
+topics/three_dimensions.py,Garrett Credi [ddxtanx],Grant Sanderson,2018-03-05 20:51:55-06:00,2018-03-05 20:43:40-08:00
+utils/space_ops.py,Grant Sanderson,Solara570,2018-09-10 11:38:01-07:00,2018-09-11 21:33:40+08:00

@@ -1,0 +1,16 @@
+file,author1,author2,time1,time2
+README.md,Andrej Karpathy,Jonathan Rahn,2023-01-04 00:59:34+00:00,2023-01-04 10:28:13+01:00
+README.md,Jonathan Rahn,Andrej Karpathy,2023-01-04 10:28:13+01:00,2023-01-04 18:59:10+00:00
+README.md,Andrej Karpathy,Luca Antiga,2023-01-08 01:46:54+00:00,2023-01-08 15:42:08+01:00
+README.md,Luca Antiga,Andrej Karpathy,2023-01-08 15:42:08+01:00,2023-01-08 19:40:46+00:00
+README.md,MicroPanda123,Andrej Karpathy,2023-01-15 20:29:15+00:00,2023-01-16 17:11:02+00:00
+data/shakespeare/prepare.py,Andrej Karpathy,DG,2023-01-19 23:10:51+00:00,2023-01-20 10:39:45-08:00
+data/shakespeare_char/prepare.py,DG,venusatuluri,2023-01-20 10:39:45-08:00,2023-01-21 06:14:16+00:00
+sample.py,Nat Friedman,Andrej Karpathy,2023-01-04 16:39:30-08:00,2023-01-05 00:44:35+00:00
+train.py,Luca Antiga,Andrej Karpathy,2023-01-08 15:51:50+01:00,2023-01-08 19:20:38+00:00
+train.py,Clive Chan,Andrej Karpathy,2023-01-19 22:10:44-08:00,2023-01-20 21:28:20+00:00
+train.py,Andrej Karpathy,Yassine Yousfi,2023-01-31 23:34:02+00:00,2023-01-31 21:12:49-08:00
+train.py,Andrej Karpathy,Ramtin Gharleghi,2023-02-04 02:52:48+00:00,2023-02-04 15:07:36+11:00
+train.py,Ramtin Gharleghi,Andrej Karpathy,2023-02-04 15:07:36+11:00,2023-02-04 15:57:29+00:00
+train.py,Andrej Karpathy,Nan Yang,2023-02-04 16:06:18+00:00,2023-02-04 11:16:26-08:00
+train.py,Nan Yang,Andrej Karpathy,2023-02-04 11:16:26-08:00,2023-02-04 19:34:24+00:00

@@ -1,0 +1,577 @@
+Field,Value
+Commits Overview,
+Total Commits,8222
+Total Unique Authors,624
+,
+Top 10 Contributors,
+Author,Commits
+absidue,3090
+Preston,1809
+dependabot[bot],1682
+ChunkyProgrammer,1182
+Jason,766
+PikachuEXE,690
+J. Lavoie,330
+Svallinn,278
+Luca,255
+Hosted Weblate,236
+,
+Communication Events,Total: 1155
+"Author1,Author2",Events
+"ChunkyProgrammer,absidue",118
+"dependabot[bot],absidue",32
+"Preston,Luca",21
+"absidue,dependabot[bot]",21
+"Luca,Preston",20
+"absidue,PikachuEXE",18
+"PikachuEXE,absidue",16
+"absidue,ChunkyProgrammer",15
+"ChunkyProgrammer,Hosted Weblate",15
+"Jeff Huang,jsf",11
+"absidue,Hosted Weblate",11
+"Jason,absidue",11
+"PikachuEXE,ChunkyProgrammer",9
+"Preston,Cadence Ember",9
+"ChunkyProgrammer,PikachuEXE",9
+"dependabot[bot],PikachuEXE",8
+"Kyotaro Iijima,maboroshin",8
+"PikachuEXE,dependabot[bot]",8
+"Emma,absidue",8
+"Cadence Ember,Preston",7
+"J. Lavoie,Massimo Pissarello",7
+"PikachuEXE,Jason",7
+"jsf,Jeff Huang",7
+"Jason,PikachuEXE",7
+"tayloraviets,Preston",6
+"maboroshin,Kyotaro Iijima",6
+"absidue,Jason",6
+"Robin Drost,J. Lavoie",6
+"Soham Patil,Jason",5
+"absidue,Emma",5
+"J. Lavoie,Robin Drost",5
+"absidue,Preston",5
+"absidue,J. Lavoie",5
+"absidue,Fjuro",5
+"Emma,dependabot[bot]",4
+"Preston,Mykyta Poturai",4
+"Preston,d43m0nhLInt3r",4
+"ChunkyProgrammer,bob1520",4
+"gallegonovato,The Cats",4
+"DontBlameMe99,efb4f5ff-1298-471a-8973-3d47447115dc",4
+"י. פל,Yaron Shahrabani",4
+"Simon Epstein,petaded",4
+"ChunkyProgrammer,Massimo Pissarello",4
+"ChunkyProgrammer,Oğuz Ersen",4
+"absidue,Jeff Huang",4
+"absidue,OothecaPickle",4
+"ChunkyProgrammer,Jason",4
+"ChunkyProgrammer,Fjuro",4
+"ChunkyProgrammer,dependabot[bot]",4
+"PikachuEXE,Preston",4
+"Mykyta Poturai,Preston",4
+"dependabot[bot],Jason",3
+"mapi68,J. Lavoie",3
+"ssantos,Hiers",3
+"dependabot[bot],PrestonN",3
+"jsf,Preston",3
+"dependabot[bot],Emma",3
+"Yaron Shahrabani,י. פל",3
+"Violet Rose,Preston",3
+"absidue,GLEBR1K",3
+"absidue,Aiz",3
+"The Cats,gallegonovato",3
+"ChunkyProgrammer,Rex_sa",3
+"Vin,Темак",3
+"Preston,jsf",3
+"Rusi Dimitrov,absidue",3
+"Samwid -,Abdulziz",3
+"Sandyran,Allan Nordhøy",3
+"ChunkyProgrammer,PrestonN",3
+"MΛX,Артём Котлубай",3
+"Preston,Svallinn",3
+"PikachuEXE,PrestonN",3
+"Malik,J. Lavoie",3
+"J. Lavoie,Dragibus Noir",3
+"Ghost of Sparta,summoner001",3
+"Темак,Vin",3
+"Артём Котлубай,MΛX",3
+"turquoise,Yaron Shahrabani",3
+"Abdulziz,Samwid -",3
+"99 efi,summoner001",3
+"absidue,Rex_sa",2
+"John Doe,Preston",2
+"JonahFoster,github-actions[bot]",2
+"absidue,Priit Jõerüüt",2
+"absidue,PrestonN",2
+"Kauã Azevedo,gallegonovato",2
+"absidue,NEXI",2
+"absidue,Milo Ivir",2
+"absidue,Massimo Pissarello",2
+"dependabot[bot],efb4f5ff-1298-471a-8973-3d47447115dc",2
+"dependabot[bot],Luca Hohmann",2
+"PikachuEXE,Emma",2
+"Synkky,Luca",2
+"d1c0n,lucanomax",2
+"constraintAutomaton,PrestonN",2
+"efb4f5ff-1298-471a-8973-3d47447115dc,Jason",2
+"Phil's Git repository,absidue",2
+"Dragibus Noir,J. Lavoie",2
+"absidue,大王叫我来巡山",2
+"absidue,summoner001",2
+"Preston,John Doe",2
+"ChunkyProgrammer,Tixa El Nou",2
+"Preston,Filip Czaplicki",2
+"James Gundlach,Preston",2
+"Jason,ChunkyProgrammer",2
+"ChunkyProgrammer,gallegonovato",2
+"gallegonovato,J. Lavoie",2
+"Jason,dependabot[bot]",2
+"ChunkyProgrammer,summoner001",2
+"efb4f5ff-1298-471a-8973-3d47447115dc,PikachuEXE",2
+"Preston,Allan Nordhøy",2
+"chiak597,alium",2
+"absidue,Eder Etxebarria Rojo",2
+"Milu,Preston",2
+"absidue,Ghost of Sparta",2
+"My Random Thoughts,J. Lavoie",2
+"absidue,Gideon Wentink",2
+"Max,Rusi Dimitrov",2
+"Massimo Pissarello,absidue",2
+"Massimo Pissarello,J. Lavoie",2
+"Oğuz Ersen,MertComert",2
+"Oğuz Ersen,ChunkyProgrammer",2
+"absidue,Luca Hohmann",2
+"The Cats,André Marcelo Alvarenga",2
+"Ophiushi,Dragibus Noir",2
+"Markus Gaugg,Ettore Atalan",2
+"OothecaPickle,absidue",2
+"Yaron Shahrabani,turquoise",2
+"Jiri Grönroos,ChunkyProgrammer",2
+"PikachuEXE,Soham Patil",2
+"Luca Hohmann,max",2
+"Wazif Rétif,Dragibus Noir",2
+"Luca Hohmann,Sven G",2
+"Luca Hohmann,Preston",2
+"Luca Hohmann,Luca",2
+"OothecaPickle,Jason",2
+"absidue,Jose Delvani",2
+"Luca,tayloraviets",2
+"Luca,Svallinn",2
+"Nikita Epifanov,Preston",2
+"Odin,Allan Nordhøy",2
+"Tixa El Nou,absidue",2
+"ChunkyProgrammer,Emma",2
+"ChunkyProgrammer,Eric",2
+"Luca De Falco,lucanomax",2
+"ssantos,J. Lavoie",2
+"Svallinn,Luca Hohmann",2
+"Cody Sechelski,ChunkyProgrammer",2
+"Goku,absidue",2
+"Sveinn í Felli,absidue",2
+"Ettore Atalan,Markus Gaugg",2
+"Preston,Laptop Duane",2
+"J. Lavoie,mapi68",2
+"Eric,J. Lavoie",2
+"Adrián López Galera,max",2
+"Hiers,ssantos",2
+"Airradda,Preston",2
+"Cristi Ciobanu,Nick Sabia",2
+"Aiz,absidue",2
+"Егор Ермаков,Темак",2
+"Alexthegib,Preston",2
+"Grzegorz Wójcicki,Preston",2
+"Preston,ovari",2
+"PrestonN,dependabot[bot]",2
+"PikachuEXE,Svallinn",2
+"J. Lavoie,Cloud Esp",2
+"Preston,dependabot[bot]",2
+"Fjuro,absidue",2
+"lucanomax,Luca De Falco",2
+"summoner001,ovari",2
+"summoner001,absidue",2
+"summoner001,99 efi",2
+"syncng,Preston",2
+"The Cats,ChunkyProgrammer",1
+"Preston,mere",1
+"Rusi Dimitrov,J. Lavoie",1
+"Rusi Dimitrov,Max",1
+"The Cats,Logan",1
+"Preston,maboroshin",1
+"Preston,lucanomax",1
+"WaldiS,absidue",1
+"Sai Deepesh,Svallinn",1
+"absidue,Grzegorz Wójcicki",1
+"SC,Miguel",1
+"SC,Sérgio Marques",1
+"Sai Deepesh,Preston",1
+"absidue,Jai A P",1
+"Sai Deepesh,Ira ¯\_(ツ)_/¯",1
+"SM2010,gallegonovato",1
+"The Cats,Nicole Richwine",1
+"Thomas Dickson,J. Lavoie",1
+"The Cats,max",1
+"Saeid Eslami,Ramin Zare",1
+"Sai Deepesh,Cadence Ember",1
+"Riki Shinozaki,absidue",1
+"Preston,gallegonovato",1
+"Sérgio Marques,Sergio Marques",1
+"SteveO,efb4f5ff-1298-471a-8973-3d47447115dc",1
+"T-vK,Preston",1
+"TDDR,Duane Jaspers",1
+"Sergio Varela,Kauã Azevedo",1
+"Sergio Marques,Sérgio Marques",1
+"Taro Tanaka,Kyotaro Iijima",1
+"ChunkyProgrammer,NEXI",1
+"absidue,Florent",1
+"ChunkyProgrammer,efb4f5ff-1298-471a-8973-3d47447115dc",1
+"Sergio Marques,SC",1
+"Sedative,Егор Ермаков",1
+"Seb,Svallinn",1
+"ChunkyProgrammer,ovari",1
+"Scott Anecito,maboroshin",1
+"Sandyran,absidue",1
+"Tetsuro Shimazaki,Kyotaro Iijima",1
+"ChunkyProgrammer,大王叫我来巡山",1
+"ChunkyProgrammer,Yaron Shahrabani",1
+"Wei, Hong-Lin,jsf",1
+"Yaron Shahrabani,Omer I.S",1
+"Yaron Shahrabani,Omeritzics Games",1
+"Riccardo Cazzin,Massimo Pissarello",1
+"Reza Almanda,ziasukmana",1
+"Rex_sa,thami simo",1
+"Yaron Shahrabani,turquoise person",1
+"Rex_sa,Az",1
+"Synkky,Preston",1
+"Retrial,Preston",1
+"Sven G,Luca",1
+"Yiğit,Preston",1
+"Sveinn í Felli,Cristi Ciobanu",1
+"Sven G,Luca Hohmann",1
+"Sveinn í Felli,ChunkyProgrammer",1
+"Svallinn,Preston",1
+"Svallinn,ChunkyProgrammer",1
+"Sudharaka Palamakumbura,PikachuEXE",1
+"Yiğit,Oğuz Ersen",1
+"turquoise person,Yaron Shahrabani",1
+"turquoise person,turquoise",1
+"Adrian Carpio,Suguru Hirahara",1
+"gfbdrgng,Yosefario Dev",1
+"gfbdrgng,absidue",1
+"howexek414@logodez.com,CaelusV",1
+"jonnysemon,Rex_sa",1
+"kawanakaiku,PikachuEXE",1
+"kizey,Jason",1
+"kizey,absidue",1
+"kuhaku,J. Lavoie",1
+"absidue,Lodka Sawhet",1
+"kyle.watson,Preston",1
+"lucanomax,Preston",1
+"lucanomax,d1c0n",1
+"maboroshin,Preston",1
+"maboroshin,Scott Anecito",1
+"maboroshin,balawolf",1
+"ducdat0507 Nguyễn,Brad 'Bảo' Hirsch",1
+"ducks,Jason",1
+"efb4f5ff-1298-471a-8973-3d47447115dc,ChunkyProgrammer",1
+"efb4f5ff-1298-471a-8973-3d47447115dc,Peter Dave Hello",1
+"fawaz006,Rex_sa",1
+"kuhaku,rootedetc",1
+"Adrián López Galera,Franco Castillo",1
+"Angus Wan,absidue",1
+"Anonimas,Gediminas Murauskas",1
+"Anonymous,PikachuEXE",1
+"Anonymous,Riki Shinozaki",1
+"Antonio Sarro,efb4f5ff-1298-471a-8973-3d47447115dc",1
+"Atrate,Grzegorz Wójcicki",1
+"Axus Wizix,Nikita Epifanov",1
+"Axus Wizix,Артём Котлубай",1
+"Az,Rex_sa",1
+"Benjababe,Jason",1
+"trudel69,Dragibus Noir",1
+"Benjamin Vraspillai,Sandyran",1
+"Bryan-Elliott Tam,ChunkyProgrammer",1
+"vallode,PikachuEXE",1
+"CelularBat,Jason",1
+"Alexander,Preston",1
+"Alexander Gabilondo,Eder Etxebarria Rojo",1
+"Alexthegib,ChunkyProgrammer",1
+"Allan Nordhøy,Odin",1
+"Allan Nordhøy,Sandyran",1
+"Allan Nordhøy,Unihuppio",1
+"Allan Nordhøy,absidue",1
+"Benjababe,absidue",1
+"absidue,gallegonovato",1
+"Preston,stecorb",1
+"ChunkyProgrammer,Allan Nordhøy",1
+"ChunkyProgrammer,Anonymous",1
+"ChunkyProgrammer,Carlos Luiz",1
+"ChunkyProgrammer,Dragibus Noir",1
+"ChunkyProgrammer,Ettore Atalan",1
+"ChunkyProgrammer,Grzegorz Wójcicki",1
+"ChunkyProgrammer,Ihor Hordiichuk",1
+"ChunkyProgrammer,J. Lavoie",1
+"ChunkyProgrammer,JInfantesC",1
+"fodor0205,ovari",1
+"ChunkyProgrammer,Jie Li",1
+"absidue,Andi Chandler",1
+"absidue,Angus Wan",1
+"absidue,Bezruchenko Simon",1
+"absidue,BlueTurtle",1
+"absidue,Cloud Esp",1
+"absidue,Daan Smienk",1
+"absidue,Ding User",1
+"absidue,DontBlameMe99",1
+"absidue,Dragibus Noir",1
+"absidue,Ettore Atalan",1
+"ChunkyProgrammer,Jeff Huang",1
+"gallegonovato,Kauã Azevedo",1
+"gallegonovato,MP",1
+"gallegonovato,Malik",1
+"gallegonovato,Preston",1
+"gallegonovato,SM2010",1
+"gallegonovato,Sergio Varela",1
+"gallegonovato,absidue",1
+"absidue,kizey",1
+"absidue,vallode",1
+"absidue,zmni",1
+"alium,chiak597",1
+"absidue,efb4f5ff-1298-471a-8973-3d47447115dc",1
+"bob1520,PikachuEXE",1
+"d43m0nhLInt3r,Preston",1
+"delvani,Vinycius Alves",1
+"dependabot[bot],ChunkyProgrammer",1
+"absidue,Markus Gaugg",1
+"absidue,Petrov",1
+"absidue,R S",1
+"absidue,Riki Shinozaki",1
+"absidue,Simon Epstein",1
+"absidue,Soham Patil",1
+"absidue,a0kami",1
+"absidue,danesic131",1
+"balawolf,maboroshin",1
+"Diego Ruiz,gallegonovato",1
+"Diogo Agostinho,Hiers",1
+"DontBlameMe99,GLEBR1K",1
+"Dragibus Noir,ChunkyProgrammer",1
+"Dragibus Noir,Hosted Weblate",1
+"Dragibus Noir,Ophiushi",1
+"Dragibus Noir,Preston",1
+"Jeff Huang,Cody Sechelski",1
+"J. Lavoie,trostboot",1
+"J. Lavoie,Артём Котлубай",1
+"Jacque Fresco,zmni",1
+"mapi68,Cody Sechelski",1
+"Jaishree Singh,Jose Delvani",1
+"Jaishree Singh,Oğuz Ersen",1
+"Jakub Kordovský,github-actions[bot]",1
+"Jakub Tabor,Grzegorz Wójcicki",1
+"Jason,DontBlameMe99",1
+"Jason,Emma",1
+"Jason,Mitchel Paulin",1
+"Jason,ovari",1
+"Jeff Huang,ChunkyProgrammer",1
+"Hin Weisner,J. Lavoie",1
+"Ihor Hordiichuk,ChunkyProgrammer",1
+"Jaden,absidue",1
+"Leonid,Nikita Epifanov",1
+"Luca,Milo Ivir",1
+"Luca De Falco,Preston",1
+"Luca De Falco,Riccardo Cazzin",1
+"Luca Hohmann,absidue",1
+"Luna Jernberg,bittin1ddc447d824349b2",1
+"Jeff Huang,Preston",1
+"Jeff Huang,Wei, Hong-Lin",1
+"Jie Li,Jason",1
+"Jiri Grönroos,J. Lavoie",1
+"John Doe,Milo Ivir",1
+"Dennis ten Hoove,Issa1553",1
+"Jun Kyung Bang,darkbrow",1
+"Kami,Az",1
+"Kang H,大王叫我来巡山",1
+"Kingproone,ovari",1
+"Krzysztof Antonowski,Grzegorz Wójcicki",1
+"Krzysztof Zawadzki,Grzegorz Wójcicki",1
+"Cristi Ciobanu,absidue",1
+"Cristi Ciobanu,summoner001",1
+"Cristi Ciobanu,大王叫我来巡山",1
+"CristianMartin,Airradda",1
+"CristianMartin,Preston",1
+"David Frederick Batt,Jason",1
+"José Roberto,absidue",1
+"yamadey,gfbdrgng",1
+"zmni,Reza Almanda",1
+"Артём Котлубай,Hosted Weblate",1
+"Темак,Vik",1
+"мачко,Rusi Dimitrov",1
+"Dragibus Noir,Wazif Rétif",1
+"Duane Jaspers,Preston",1
+"Emma,ChunkyProgrammer",1
+"Erlend,Priit Jõerüüt",1
+"Ettore Atalan,J. Lavoie",1
+"Federico Sebastian Martin,Juan",1
+"Ihor Hordiichuk,J. Lavoie",1
+"max,Luca Hohmann",1
+"ovari,ChunkyProgrammer",1
+"qwerty287,J. Lavoie",1
+"romoney5,gallegonovato",1
+"summoner001,Ghost of Sparta",1
+"tayloraviets,syncng",1
+"theforbiddenpool,absidue",1
+"trostboot,ChunkyProgrammer",1
+"عمار,Rex_sa",1
+"Buzz Lightyear,Ettore Atalan",1
+"0246_Hoàng Tiến Đạt,Việt Tiến",1
+"大王叫我来巡山,absidue",1
+"maboroshin,jsf",1
+"Ira ¯\_(ツ)_/¯,taivlam",1
+"J. Lavoie,Andi Chandler",1
+"J. Lavoie,André Marcelo Alvarenga",1
+"J. Lavoie,Buzz Lightyear",1
+"J. Lavoie,Leonid",1
+"J. Lavoie,Oscar Nydza",1
+"J. Lavoie,Oskari Lavinto",1
+"J. Lavoie,Oğuz Ersen",1
+"J. Lavoie,Retrial",1
+"J. Lavoie,Rex_sa",1
+"J. Lavoie,nautilusx",1
+"william mahagintha,zmni",1
+"Filip Gliszczyński,Grzegorz Wójcicki",1
+"Florent,absidue",1
+"Frank.wu,Eric",1
+"Gediminas Murauskas,ChunkyProgrammer",1
+"Gideon Wentink,absidue",1
+"Grzegorz Wójcicki,Agnieszka C",1
+"Grzegorz Wójcicki,Atrate",1
+"Grzegorz Wójcicki,ChunkyProgrammer",1
+"Grzegorz Wójcicki,Krzysztof Zawadzki",1
+"Grzegorz Wójcicki,WaldiS",1
+"Hiers,Preston",1
+"william mahagintha,Reza Almanda",1
+"Filip Czaplicki,Preston",1
+"Preston,Massimo Pissarello",1
+"Preston,Nikita Epifanov",1
+"Preston,Oğuz Ersen",1
+"Preston,Priit Jõerüüt",1
+"Preston,Retrial",1
+"Preston,Rex_sa",1
+"Preston,Rusi Dimitrov",1
+"Preston,Sai Deepesh",1
+"Preston,TDDR",1
+"Preston,Yaron Shahrabani",1
+"Preston,Yiğit",1
+"Layne Harling,Jun Kyung Bang",1
+"PikachuEXE,Ulises Martínez",1
+"PikachuEXE,summoner001",1
+"PikachuEXE,大王叫我来巡山",1
+"Preston,Airradda",1
+"Preston,Atrate",1
+"Preston,Dragibus Noir",1
+"Preston,Eric",1
+"Preston,Fjuro",1
+"Preston,Grzegorz Wójcicki",1
+"Preston,Ihor Hordiichuk",1
+"Preston,James Gundlach",1
+"Preston,Jeff Huang",1
+"Cloud Esp,Dragibus Noir",1
+"PrestonN,Dragibus Noir",1
+"PrestonN,PikachuEXE",1
+"PrestonN,Preston",1
+"Priit Jõerüüt,ChunkyProgrammer",1
+"Priit Jõerüüt,absidue",1
+"Quinn,Preston",1
+"Quinn,circlingpandora",1
+"Ramin Zare,Saeid Eslami",1
+"Cloud Esp,J. Lavoie",1
+"Cloud Esp,absidue",1
+"Cloud Esp,fail a fail",1
+"Preston,Luca Hohmann",1
+"Cristi Ciobanu,Alexander Gabilondo",1
+"Cristi Ciobanu,Dragibus Noir",1
+"Cristi Ciobanu,Fjuro",1
+"Cristi Ciobanu,Grzegorz Wójcicki",1
+"Cristi Ciobanu,Markus Gaugg",1
+"Cristi Ciobanu,Massimo Pissarello",1
+"Cristi Ciobanu,NEXI",1
+"Cristi Ciobanu,Priit Jõerüüt",1
+"Cristi Ciobanu,Sveinn í Felli",1
+"Preston,absidue",1
+"Preston,Kyotaro Iijima",1
+"Preston,Luca De Falco",1
+"Cody Sechelski,mapi68",1
+"Milo Ivir,Preston",1
+"Milo Ivir,S",1
+"Milo Ivir,absidue",1
+"Mozart Michael,Mihail",1
+"Mykyta Poturai,Luca",1
+"NEXI,Nemanja Dimitrijević – NEXI",1
+"NicolaeFericitu,PikachuEXE",1
+"MaciejK2,Cristi Ciobanu",1
+"Maksim,Hosted Weblate",1
+"Malik,Aiz",1
+"Malik,Eric",1
+"Oğuz Ersen,Preston",1
+"Malik,Oğuz Ersen",1
+"Malik,Sveinn í Felli",1
+"Malik,Yaron Shahrabani",1
+"Malik,absidue",1
+"Marco Cecconi,Massimo Pissarello",1
+"Markus Gaugg,absidue",1
+"MarmadileManteater,ChunkyProgrammer",1
+"Martin Alstad,Odin",1
+"Massimo Pissarello,ChunkyProgrammer",1
+"Massimo Pissarello,Hosted Weblate",1
+"Kyotaro Iijima,Preston",1
+"LINUX-SAUNA,J. Lavoie",1
+"Malik,Ihor Hordiichuk",1
+"Oğuz Ersen,Yiğit",1
+"Oğuz Ersen,absidue",1
+"P.O,absidue",1
+"Philip Goto,ChunkyProgrammer",1
+"PikachuEXE,Fjuro",1
+"PikachuEXE,Grzegorz Wójcicki",1
+"PikachuEXE,Jeff Huang",1
+"PikachuEXE,Jose Delvani",1
+"PikachuEXE,Luca Hohmann",1
+"PikachuEXE,Massimo Pissarello",1
+"PikachuEXE,NicolaeFericitu",1
+"Milo Ivir,Nicole Richwine",1
+"Nicole Richwine,Oscar Nydza",1
+"Nik Nikovsky,Grzegorz Wójcicki",1
+"Odin,Martin Alstad",1
+"Omeritzics Games,Yaron Shahrabani",1
+"Onni,J. Lavoie",1
+"OothecaPickle,Jie Li",1
+"Ophiushi,VirisOnGithub",1
+"Oscar Nydza,J. Lavoie",1
+"Oscar Nydza,Nicole Richwine",1
+"Massimo Pissarello,Marco Cecconi",1
+"MertComert,Oğuz Ersen",1
+"Mikołaj Storoniak,Grzegorz Wójcicki",1
+"PikachuEXE,Oğuz Ersen",1
+,
+Committer Timezone Distribution,Unique Timezones: 11
+Timezone,Commits
++00:00,952
++01:00,2349
++02:00,2948
++03:00,8
++05:30,2
++08:00,325
++12:00,55
++13:00,11
+-04:00,1077
+-05:00,481
+-07:00,14
+,
+Contributors Experience,Average across 803 files: 77.66%
+File,Top Contributor Share (%)
+LICENSE,100.00
+.eslintignore,100.00
+.prettierrc,100.00
+.travis.yml,100.00
+.whitesource,100.00
+appveyor.yml,100.00
+src/renderer/components/ft-flex-box/ft-flex-box.vue,100.00
+src/renderer/components/ft-grid/ft-grid.css,100.00
+src/renderer/components/ft-grid/ft-grid.js,100.00
+src/renderer/components/ft-grid/ft-grid.vue,100.00

@@ -1,0 +1,83 @@
+Field,Value
+Commits Overview,
+Total Commits,1474
+Total Unique Authors,91
+,
+Top 10 Contributors,
+Author,Commits
+agnostic-apollo,2032
+Fredrik Fornwall,1178
+Leonid Pliushch,133
+Leonid Plyushch,73
+Henrik Grimler,51
+Trygve Aaberge,20
+tareksander,17
+Leon Omelan,14
+mao,10
+Robert Vanden Eynde,10
+,
+Communication Events,Total: 58
+"Author1,Author2",Events
+"tareksander,agnostic-apollo",7
+"Henrik Grimler,Robert Vanden Eynde",5
+"Leonid Plyushch,Fredrik Fornwall",5
+"agnostic-apollo,Leonid Pliushch",3
+"Robert Vanden Eynde,Henrik Grimler",3
+"Leonid Pliushch,agnostic-apollo",3
+"Fredrik Fornwall,Leonid Plyushch",3
+"david,xqdoo00o",2
+"neverwin,Henrik Grimler",2
+"Emil Velikov,Leonid Pliushch",1
+"Fredrik Fornwall,Jonas L",1
+"Kevin Williams,maheshnikam",1
+"Krunal Patel,Fredrik Fornwall",1
+"Josh Home,Leonid Pliushch",1
+"Henrik Grimler,tareksander",1
+"Jonas L,l-jonas",1
+"Fredrik Fornwall,Leonid Pliushch",1
+"Henrik Grimler,agnostic-apollo",1
+"Nicola Spanti (RyDroid),Fredrik Fornwall",1
+"Leonid Plyushch,mao",1
+"Leonid Plyushch,Archenoth",1
+"Leonid Pliushch,Henrik Grimler",1
+"Krunal Patel,Artem Chepurnyi",1
+"Trygve Aaberge,Fredrik Fornwall",1
+"Sushrut1101,daywalk3r666",1
+"Robert Vanden Eynde,Leonid Plyushch",1
+"david,David xu",1
+"agnostic-apollo,Henrik Grimler",1
+"Trygve Aaberge,Leonid Pliushch",1
+"mao,Leonid Plyushch",1
+"neverwin,Robert Vanden Eynde",1
+"rakslice,Leonid Pliushch",1
+"xqdoo00o,David xu",1
+"xqdoo00o,david",1
+,
+Committer Timezone Distribution,Unique Timezones: 13
+Timezone,Commits
++00:00,7
++01:00,318
++02:00,401
++03:00,89
++05:00,622
++05:30,5
++06:00,1
++07:00,1
++08:00,16
+-04:00,2
+-05:00,6
+-06:00,2
+-08:00,4
+,
+Contributors Experience,Average across 565 files: 95.63%
+File,Top Contributor Share (%)
+.idea/gradle.xml,100.00
+.idea/runConfigurations.xml,100.00
+app/src/androidTest/java/com/termux/ApplicationTest.java,100.00
+app/src/main/assets/help.html,100.00
+app/src/main/java/com/termux/app/DialogUtils.java,100.00
+app/src/main/java/com/termux/app/FullScreenHelper.java,100.00
+app/src/main/java/com/termux/drawer/DrawerLayout.java,100.00
+app/src/main/java/com/termux/drawer/DrawerLayoutCompatApi21.java,100.00
+app/src/main/java/com/termux/drawer/ViewDragHelper.java,100.00
+app/src/main/java/com/termux/drawer/package-info.java,100.00

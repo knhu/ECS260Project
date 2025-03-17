@@ -1,0 +1,53 @@
+Field,Value
+Commits Overview,
+Total Commits,82
+Total Unique Authors,11
+,
+Top 10 Contributors,
+Author,Commits
+sekstini,79
+Gabriel Clark,61
+Darkacorn,4
+Christopher Oezbek,3
+Beren,3
+MithrilMan,2
+mustninja,2
+spaghettiSystems,1
+Lorem Ipsum,1
+Ikko Eltociear Ashimine,1
+,
+Communication Events,Total: 24
+"Author1,Author2",Events
+"Gabriel Clark,sekstini",9
+"sekstini,Gabriel Clark",5
+"MithrilMan,sekstini",2
+"Darkacorn,Gabriel Clark",1
+"Beren,Gabriel Clark",1
+"Lorem Ipsum,sekstini",1
+"mustninja,sekstini",1
+"sekstini,Lorem Ipsum",1
+"sekstini,MithrilMan",1
+"sekstini,mustninja",1
+"spaghettiSystems,Gabriel Clark",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++00:00,4
++01:00,35
++03:00,1
++09:00,1
+-05:00,2
+-08:00,39
+,
+Contributors Experience,Average across 34 files: 91.57%
+File,Top Contributor Share (%)
+.gitignore,100.00
+.python-version,100.00
+uv.lock,100.00
+zaudio/autoencoder.py,100.00
+zaudio/backbone.py,100.00
+zaudio/codebook_pattern.py,100.00
+zaudio/conditioning.py,100.00
+zaudio/config.py,100.00
+zaudio/model.py,100.00
+zaudio/sampling.py,100.00

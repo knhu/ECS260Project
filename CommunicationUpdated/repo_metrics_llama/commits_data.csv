@@ -1,0 +1,135 @@
+author,timestamp,file
+Timothee Lacroix,2023-02-24 05:20:46-08:00,.gitignore
+Timothee Lacroix,2023-02-24 05:20:46-08:00,CODE_OF_CONDUCT.md
+Timothee Lacroix,2023-02-24 05:20:46-08:00,CONTRIBUTING.md
+Timothee Lacroix,2023-02-24 05:20:46-08:00,LICENSE
+Timothee Lacroix,2023-02-24 05:20:46-08:00,MODEL_CARD.md
+Timothee Lacroix,2023-02-24 05:20:46-08:00,README.md
+Timothee Lacroix,2023-02-24 05:20:46-08:00,download.sh
+Timothee Lacroix,2023-02-24 05:20:46-08:00,example.py
+Timothee Lacroix,2023-02-24 05:20:46-08:00,llama/__init__.py
+Timothee Lacroix,2023-02-24 05:20:46-08:00,llama/generation.py
+Timothee Lacroix,2023-02-24 05:20:46-08:00,llama/model.py
+Timothee Lacroix,2023-02-24 05:20:46-08:00,llama/tokenizer.py
+Timothee Lacroix,2023-02-24 05:20:46-08:00,requirements.txt
+Timothee Lacroix,2023-02-24 05:20:46-08:00,setup.py
+guangyusong,2023-03-02 01:04:58-05:00,MODEL_CARD.md
+timlacroix,2023-03-02 09:33:11+01:00,README.md
+Guillaume Lample,2023-03-02 10:52:40+01:00,README.md
+Timothee Lacroix,2023-03-03 02:37:02-08:00,FAQ.md
+Timothee Lacroix,2023-03-03 02:37:02-08:00,README.md
+Timothee Lacroix,2023-03-03 02:37:02-08:00,example.py
+Guillaume Lample,2023-03-04 17:16:53+01:00,README.md
+Mark Schmidt,2023-03-05 11:28:50-05:00,llama/model.py
+Loryhoof,2023-03-07 04:23:54+08:00,README.md
+Ubuntu,2023-07-18 15:57:25+00:00,CONTRIBUTING.md
+Ubuntu,2023-07-18 15:57:25+00:00,LICENSE
+Ubuntu,2023-07-18 15:57:25+00:00,MODEL_CARD.md
+Ubuntu,2023-07-18 15:57:25+00:00,README.md
+Ubuntu,2023-07-18 15:57:25+00:00,Responsible-Use-Guide.pdf
+Ubuntu,2023-07-18 15:57:25+00:00,USE_POLICY.md
+Ubuntu,2023-07-18 15:57:25+00:00,download.sh
+Ubuntu,2023-07-18 15:57:25+00:00,example_chat_completion.py
+Ubuntu,2023-07-18 15:57:25+00:00,example_text_completion.py
+Ubuntu,2023-07-18 15:57:25+00:00,llama/__init__.py
+Ubuntu,2023-07-18 15:57:25+00:00,llama/generation.py
+Ubuntu,2023-07-18 15:57:25+00:00,llama/model.py
+Ubuntu,2023-07-18 15:57:25+00:00,llama/tokenizer.py
+Ubuntu,2023-07-18 15:57:25+00:00,requirements.txt
+Ubuntu,2023-07-18 15:57:25+00:00,setup.py
+Ubuntu,2023-07-18 16:00:55+00:00,FAQ.md
+Ubuntu,2023-07-18 16:00:55+00:00,example.py
+Ubuntu,2023-07-18 16:13:17+00:00,README.md
+Sergii Dymchenko,2023-07-18 11:54:55-07:00,llama/model.py
+Daryl,2023-07-18 22:06:10+02:00,README.md
+Jan Van de Poel,2023-07-18 22:23:06+02:00,download.sh
+Chris Marra,2023-07-18 18:54:19-04:00,README.md
+tomorrmato,2023-07-18 23:14:58-07:00,example_chat_completion.py
+tomorrmato,2023-07-18 23:14:58-07:00,example_text_completion.py
+tomorrmato,2023-07-18 23:14:58-07:00,llama/__init__.py
+tianwei,2023-07-19 18:12:02+08:00,llama/generation.py
+Ubuntu,2023-07-19 13:11:07+00:00,llama/generation.py
+Vinny Meller,2023-07-20 05:04:31-05:00,download.sh
+Suliman Sagindykov,2023-07-21 16:51:55+05:00,LICENSE
+Suliman Sagindykov,2023-07-21 16:53:32+05:00,MODEL_CARD.md
+Suliman Sagindykov,2023-07-21 16:57:24+05:00,README.md
+Daniel Lo Nigro,2023-07-21 14:05:46-07:00,README.md
+Ikko Eltociear Ashimine,2023-07-22 14:47:52+09:00,README.md
+Ubuntu,2023-08-04 21:35:47+00:00,README.md
+Ubuntu,2023-08-04 21:35:47+00:00,example_chat_completion.py
+Ubuntu,2023-08-04 21:35:47+00:00,llama/generation.py
+Ubuntu,2023-08-04 21:39:13+00:00,README.md
+Ubuntu,2023-08-07 21:43:22+00:00,README.md
+Ubuntu,2023-08-07 21:43:22+00:00,UPDATES.md
+Ubuntu,2023-08-07 21:43:22+00:00,example_chat_completion.py
+Ubuntu,2023-08-07 21:43:22+00:00,llama/generation.py
+huy-ha,2023-08-08 23:18:05-04:00,llama/generation.py
+MarcoSteinke,2023-08-09 11:57:41+02:00,download.sh
+huy-ha,2023-08-09 14:38:58+00:00,llama/generation.py
+Joseph Spisak,2023-08-11 06:21:32-07:00,UPDATES.md
+yanxiyue,2023-08-22 20:51:42+08:00,README.md
+rajveer43,2023-08-28 11:12:10+05:30,llama/generation.py
+rajveer43,2023-08-28 11:32:51+05:30,llama/model.py
+rajveer43,2023-08-28 12:18:39+05:30,example_chat_completion.py
+rajveer43,2023-08-28 12:18:39+05:30,example_text_completion.py
+rajveer43,2023-08-28 12:18:39+05:30,llama/tokenizer.py
+samuelselvan,2023-08-29 09:42:05-07:00,download.sh
+Nino Risteski,2023-08-31 13:26:10+02:00,README.md
+godpeny,2023-09-01 10:30:11+09:00,download.sh
+Daniel Engbert,2023-09-01 11:41:43-05:00,download.sh
+Jared,2023-09-02 16:23:17-06:00,llama/model.py
+Jan Heidbrink,2023-09-03 11:43:30+02:00,download.sh
+Jared Levi De La Fuente Rodriguez,2023-09-03 10:14:42-06:00,llama/model.py
+Jared Levi De La Fuente Rodriguez,2023-09-03 10:17:32-06:00,llama/model.py
+Joseph Spisak,2023-09-06 20:10:24-07:00,FAQ.md
+Joseph Spisak,2023-09-06 20:13:37-07:00,README.md
+sekyondaMeta,2023-09-08 14:06:54-04:00,FAQ.md
+sekyondaMeta,2023-09-08 14:09:36-04:00,FAQ.md
+sekyondaMeta,2023-09-08 14:20:04-04:00,FAQ.md
+sekyondaMeta,2023-09-08 14:20:50-04:00,FAQ.md
+Joseph Spisak,2023-09-08 14:32:35-07:00,FAQ.md
+Joseph Spisak,2023-09-09 07:38:43-07:00,FAQ.md
+sekyondaMeta,2023-09-09 18:08:26-04:00,README.md
+sekyondaMeta,2023-09-09 18:10:20-04:00,README.md
+sekyondaMeta,2023-09-09 18:11:32-04:00,README.md
+sekyondaMeta,2023-09-09 18:13:03-04:00,README.md
+sekyondaMeta,2023-09-09 18:15:32-04:00,README.md
+xavierm,2023-09-11 14:49:18+00:00,llama/generation.py
+Joseph Spisak,2023-09-14 13:36:34-07:00,FAQ.md
+Joseph Spisak,2023-09-16 08:04:03-07:00,FAQ.md
+Joseph Spisak,2023-09-16 08:04:21-07:00,FAQ.md
+Joseph Spisak,2023-09-17 07:30:24-07:00,README.md
+Joseph Spisak,2023-09-20 15:18:30-07:00,MODEL_CARD.md
+Joseph Spisak,2023-09-20 15:24:01-07:00,FAQ.md
+Kieren,2023-09-23 11:24:39+10:00,download.sh
+Joseph Spisak,2023-09-26 15:18:10-07:00,README.md
+sekyondaMeta,2023-10-11 15:05:15-04:00,FAQ.md
+sekyondaMeta,2023-10-11 15:08:34-04:00,FAQ.md
+Joseph Spisak,2023-10-11 12:17:35-07:00,FAQ.md
+yonashub,2023-10-14 21:30:47-05:00,MODEL_CARD.md
+Suraj Subramanian,2023-10-16 14:51:11-04:00,.github/ISSUE_TEMPLATE/bug_report.md
+Suraj Subramanian,2023-10-18 13:38:04-04:00,.github/ISSUE_TEMPLATE/bug_report.md
+Joseph Spisak,2023-11-01 20:44:47-07:00,README.md
+Joseph Spisak,2023-11-01 20:47:17-07:00,FAQ.md
+JacobHelwig,2023-11-02 12:47:01-05:00,README.md
+flu0r1ne,2023-11-02 19:33:26-05:00,llama/model.py
+Suraj Subramanian,2023-11-08 08:13:08-05:00,.github/ISSUE_TEMPLATE/bug_report.md
+Suraj Subramanian,2023-11-08 08:47:11-05:00,.github/ISSUE_TEMPLATE/bug_report.md
+Joseph Spisak,2023-11-10 07:38:39-08:00,README.md
+Alex,2023-11-13 13:41:06-06:00,llama/model.py
+flu0r1ne,2023-11-13 14:05:24-06:00,llama/model.py
+ryanhankins,2024-02-21 16:39:41-06:00,README.md
+Navyata Bawa,2024-02-28 10:55:21-08:00,CONTRIBUTING.md
+Shorthills AI,2024-03-01 12:53:48+05:30,README.md
+Shorthills AI,2024-03-06 08:06:47+05:30,README.md
+Jeff Tang,2024-03-13 10:18:18-07:00,README.md
+Joseph Spisak,2024-03-20 10:50:59-07:00,README.md
+wangzhihong,2024-03-21 10:09:34+08:00,llama/model.py
+MattGurney,2024-03-23 19:03:21+11:00,MODEL_CARD.md
+Omar Sanseviero,2024-04-08 16:12:21+02:00,README.md
+Dan Dascalescu,2024-05-15 00:53:25+03:00,README.md
+hyungupark,2024-05-15 12:49:24+09:00,download.sh
+Samuel Selvan,2024-07-22 18:15:37-07:00,download.sh
+Samuel Selvan,2024-07-22 18:20:54-07:00,download.sh
+Joseph Spisak,2024-07-23 07:50:27-07:00,README.md
+amitsangani,2025-01-26 13:42:26-08:00,README.md

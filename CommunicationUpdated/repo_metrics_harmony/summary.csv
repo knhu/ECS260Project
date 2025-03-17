@@ -1,0 +1,53 @@
+Field,Value
+Commits Overview,
+Total Commits,515
+Total Unique Authors,19
+,
+Top 10 Contributors,
+Author,Commits
+Thomas Wood,5445
+Zairon Jacobs,48
+Eve,30
+Shahid Khan,18
+oltcs,13
+tongyu,8
+makrianast,7
+vkrithika25,7
+EveWCheng,4
+Evelynn Chen,3
+,
+Communication Events,Total: 8
+"Author1,Author2",Events
+"Thomas Wood,Eve",2
+"olikelly00,Thomas Wood",2
+"o.lyttleton@ucl.ac.uk,olikelly00",2
+"Zairon Jacobs,Thomas Wood",1
+"Thomas Wood,Zairon Jacobs",1
+,
+Committer Timezone Distribution,Unique Timezones: 12
+Timezone,Commits
++00:00,124
++01:00,312
++02:00,32
++03:00,1
++04:00,1
++05:00,15
++05:30,3
++08:00,8
++10:00,2
++11:00,9
+-05:00,7
+-07:00,1
+,
+Contributors Experience,Average across 1993 files: 99.60%
+File,Top Contributor Share (%)
+deployment/pdf_processor_tika_aws_lambda_java/.gitignore,100.00
+deployment/pdf_processor_tika_aws_lambda_java/1-create-bucket.sh,100.00
+deployment/pdf_processor_tika_aws_lambda_java/2-deploy.sh,100.00
+deployment/pdf_processor_tika_aws_lambda_java/3-invoke.sh,100.00
+deployment/pdf_processor_tika_aws_lambda_java/4-cleanup.sh,100.00
+deployment/pdf_processor_tika_aws_lambda_java/README.md,100.00
+deployment/pdf_processor_tika_aws_lambda_java/pom.xml,100.00
+deployment/pdf_processor_tika_aws_lambda_java/src/main/java/example/HandlerString.java,100.00
+deployment/transformer_llm_huggingface_aws_lambda/.gitignore,100.00
+deployment/transformer_llm_huggingface_aws_lambda/CODE_OF_CONDUCT.md,100.00

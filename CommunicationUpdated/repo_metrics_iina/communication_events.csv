@@ -1,0 +1,758 @@
+file,author1,author2,time1,time2
+.github/ISSUE_TEMPLATE/01-bug-report.yml,low-batt,Yuze Jiang,2024-10-13 17:29:43-04:00,2024-10-14 10:03:08+09:00
+.travis.yml,Cee,Collider LI,2019-01-18 12:09:56+08:00,2019-01-18 12:10:30+08:00
+.travis.yml,Collider LI,Saagar Jha,2019-01-18 12:10:30+08:00,2019-01-17 23:13:26-08:00
+CONTRIBUTING.md,Collider LI,alejx,2017-01-06 02:08:54+08:00,2017-01-06 17:06:00+08:00
+CONTRIBUTING.md,alejx,Collider LI,2017-01-06 17:06:00+08:00,2017-01-06 21:49:15+08:00
+CONTRIBUTING.md,Collider LI,Miigon,2017-01-07 00:55:15+08:00,2017-01-07 14:25:27+08:00
+CONTRIBUTING.md,Saagar Jha,Collider LI,2017-01-08 15:25:43-08:00,2017-01-09 09:37:52+08:00
+Podfile.lock,Chris Laprun,Collider LI,2017-01-28 17:28:14+01:00,2017-01-29 00:58:58+08:00
+README.md,lhc70000,lhc,2016-12-19 15:22:06+08:00,2016-12-19 23:36:08+08:00
+README.md,Collider LI,Miigon,2017-01-06 15:32:39+08:00,2017-01-07 14:25:27+08:00
+README.md,Miigon,Xu Cheng,2017-01-07 14:25:27+08:00,2017-01-08 00:54:06+08:00
+README.md,Saagar Jha,lhc,2017-01-08 15:25:43-08:00,2017-01-09 10:26:31+08:00
+README.md,Yuze Jiang,0xflotus,2018-12-31 18:18:15+08:00,2019-01-01 15:49:27+08:00
+browser/Chrome_Open_In_IINA/common.js,lusuee,Kelvin,2023-04-28 22:47:17-04:00,2023-04-28 23:04:56-04:00
+browser/Chrome_Open_In_IINA/manifest.json,lusuee,Collider LI,2023-04-28 22:47:17-04:00,2023-04-28 23:07:05-04:00
+crowdin.yml,iina-bot,Yuze Jiang,2023-07-12 16:39:29+09:00,2023-07-13 10:08:39+09:00
+iina.xcodeproj/project.pbxproj,lhc,shilch,2017-01-07 01:03:14+08:00,2017-01-07 08:28:10+01:00
+iina.xcodeproj/project.pbxproj,Miigon,lhc,2017-01-08 17:38:50+08:00,2017-01-08 18:49:22+08:00
+iina.xcodeproj/project.pbxproj,lhc,Haruka,2017-01-08 18:49:22+08:00,2017-01-09 02:20:29+09:00
+iina.xcodeproj/project.pbxproj,Haruka,Saagar Jha,2017-01-09 02:20:29+09:00,2017-01-08 15:25:43-08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+iina.xcodeproj/project.pbxproj,shilch,darkbrow,2017-01-22 02:45:41+08:00,2017-01-23 00:46:58+09:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,Chris Laprun,2017-01-28 15:05:44+01:00,2017-01-28 17:07:26+01:00
+iina.xcodeproj/project.pbxproj,Chris Laprun,Collider LI,2017-01-28 17:28:14+01:00,2017-01-29 01:13:30+08:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:39:12+01:00
+iina.xcodeproj/project.pbxproj,Chris Laprun,Nicolas Allemand,2017-01-30 15:39:12+01:00,2017-01-30 19:20:18+01:00
+iina.xcodeproj/project.pbxproj,Collider LI,Yuze Jiang,2017-02-01 23:38:30+08:00,2017-02-01 14:39:22-06:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2017-02-01 14:39:22-06:00,2017-02-03 01:25:44+08:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,darkbrow,2017-02-12 21:23:52+01:00,2017-02-13 08:14:14+09:00
+iina.xcodeproj/project.pbxproj,darkbrow,cgand,2017-02-13 08:14:14+09:00,2017-02-13 17:56:39+01:00
+iina.xcodeproj/project.pbxproj,cgand,LEO Yoon-Tsaw,2017-02-13 17:56:39+01:00,2017-02-14 21:00:23+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,darkbrow,2017-03-02 02:36:11+08:00,2017-03-02 07:20:53+09:00
+iina.xcodeproj/project.pbxproj,cgand,Collider LI,2017-03-22 21:28:37+01:00,2017-03-23 17:33:36+08:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,Collider LI,2017-03-25 11:23:56+01:00,2017-03-26 17:56:35+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,LEOYoon-Tsaw,2017-04-05 02:59:40+08:00,2017-04-05 19:44:38+08:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Nicolas Allemand,2017-05-02 12:58:18-05:00,2017-05-02 22:04:53+02:00
+iina.xcodeproj/project.pbxproj,Eugene F,LEOYoon-Tsaw,2017-05-13 15:21:09+03:00,2017-05-13 20:30:08+08:00
+iina.xcodeproj/project.pbxproj,LEOYoon-Tsaw,Eugene F,2017-05-13 20:30:08+08:00,2017-05-13 18:46:00+03:00
+iina.xcodeproj/project.pbxproj,Eugene F,Yuma Matsune,2017-05-19 15:29:49+03:00,2017-05-20 18:09:49+09:00
+iina.xcodeproj/project.pbxproj,Collider LI,Eugene F,2017-05-28 19:06:20+08:00,2017-05-28 16:52:48+03:00
+iina.xcodeproj/project.pbxproj,Eugene F,cgand,2017-05-28 16:52:48+03:00,2017-05-29 17:10:19+08:00
+iina.xcodeproj/project.pbxproj,cgand,Yuze Jiang,2017-05-29 17:12:46+08:00,2017-05-30 08:42:59+08:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2017-05-30 08:42:59+08:00,2017-05-30 12:16:15+08:00
+iina.xcodeproj/project.pbxproj,Inflation,Yuze Jiang,2017-05-31 17:32:32-07:00,2017-06-01 08:48:28+08:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2017-06-01 08:48:28+08:00,2017-06-01 15:32:30+08:00
+iina.xcodeproj/project.pbxproj,darkbrow,Emin Hacıoğlu,2017-06-02 19:16:43+08:00,2017-06-02 20:05:19+08:00
+iina.xcodeproj/project.pbxproj,Emin Hacıoğlu,Georg Stadler,2017-06-02 20:05:19+08:00,2017-06-02 22:06:16+08:00
+iina.xcodeproj/project.pbxproj,Georg Stadler,Yuze Jiang,2017-06-02 22:06:16+08:00,2017-06-02 22:47:21+08:00
+iina.xcodeproj/project.pbxproj,Saagar Jha,Collider LI,2017-07-06 20:47:25-07:00,2017-07-08 04:40:33+08:00
+iina.xcodeproj/project.pbxproj,Ivan Kovnatsky,cgand,2017-07-11 17:35:20-07:00,2017-07-12 14:09:47+02:00
+iina.xcodeproj/project.pbxproj,cgand,Nicolas Allemand,2017-07-12 14:09:47+02:00,2017-07-12 19:58:43+02:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,J-rg,2017-07-12 19:58:43+02:00,2017-07-13 12:11:45+02:00
+iina.xcodeproj/project.pbxproj,darkbrow,Collider LI,2017-07-16 02:35:12+08:00,2017-07-16 23:18:41+08:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2017-09-07 13:44:12+08:00,2017-09-07 18:20:54+08:00
+iina.xcodeproj/project.pbxproj,darkbrow,Yuze Jiang,2017-10-07 17:40:04-05:00,2017-10-07 18:00:38-05:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Nicolas Allemand,2017-10-07 18:24:24-05:00,2017-10-08 15:14:39-05:00
+iina.xcodeproj/project.pbxproj,MikeVini13,Yuze Jiang,2017-11-07 18:26:55-08:00,2017-11-08 14:10:06-06:00
+iina.xcodeproj/project.pbxproj,Collider LI,Thomas Kirk,2017-12-19 19:36:12+08:00,2017-12-19 17:34:51+01:00
+iina.xcodeproj/project.pbxproj,Thomas Kirk,Collider LI,2017-12-19 17:34:51+01:00,2017-12-20 05:03:42+08:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2018-01-11 10:55:42-06:00,2018-01-12 02:35:19+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Aikyuichi,2018-01-12 02:35:19+08:00,2018-01-11 21:18:07-06:00
+iina.xcodeproj/project.pbxproj,Rafael Prado,Collider LI,2018-01-30 22:23:58+08:00,2018-01-30 22:39:57+08:00
+iina.xcodeproj/project.pbxproj,darkbrow,Nicolas Allemand,2018-03-18 18:57:38+08:00,2018-03-18 21:00:33+08:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,Aikyuichi,2018-03-18 21:00:33+08:00,2018-03-19 12:18:25+08:00
+iina.xcodeproj/project.pbxproj,Aikyuichi,Paweł Golonko,2018-03-19 12:18:25+08:00,2018-03-19 13:35:23+08:00
+iina.xcodeproj/project.pbxproj,Paweł Golonko,Yuma Matsune,2018-03-19 13:35:23+08:00,2018-03-20 02:04:07+08:00
+iina.xcodeproj/project.pbxproj,bugra1410,Yuze Jiang,2018-04-16 21:52:17+02:00,2018-04-16 23:08:43-05:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2018-04-16 23:08:43-05:00,2018-04-17 18:06:23+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Yuze Jiang,2018-04-17 18:06:23+08:00,2018-04-17 21:00:28-05:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Jinbong,2018-04-17 21:00:28-05:00,2018-04-19 06:17:34+09:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2018-07-17 00:41:11+08:00,2018-07-17 13:40:52+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Nicolas Allemand,2018-07-19 12:31:11+08:00,2018-07-19 17:12:51+08:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,Jinbong,2018-07-19 17:12:51+08:00,2018-07-20 07:39:26+09:00
+iina.xcodeproj/project.pbxproj,Saagar Jha,cgand,2018-07-30 23:37:48+08:00,2018-07-31 12:24:18+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Yuze Jiang,2018-09-01 18:14:47+08:00,2018-09-01 19:45:03+08:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,cgand,2018-09-04 19:17:08-05:00,2018-09-05 12:06:25-05:00
+iina.xcodeproj/project.pbxproj,cgand,Marvin,2018-09-05 12:06:25-05:00,2018-09-05 12:10:33-05:00
+iina.xcodeproj/project.pbxproj,J-rg,Yuze Jiang,2018-09-07 13:20:27-05:00,2018-09-07 13:45:11-05:00
+iina.xcodeproj/project.pbxproj,Nicolas Allemand,Collider LI,2018-09-10 00:22:20+08:00,2018-09-10 00:22:40+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Yuma Matsune,2018-11-02 15:39:17-05:00,2018-11-03 12:31:08+09:00
+iina.xcodeproj/project.pbxproj,Collider LI,Erik Minekus,2018-11-04 20:18:14+08:00,2018-11-04 18:31:11+01:00
+iina.xcodeproj/project.pbxproj,Erik Minekus,cgand,2018-11-04 18:31:11+01:00,2018-11-05 18:14:55+01:00
+iina.xcodeproj/project.pbxproj,cgand,Aikyuichi,2018-11-05 18:14:55+01:00,2018-11-05 18:36:55-05:00
+iina.xcodeproj/project.pbxproj,Collider LI,Yuze Jiang,2018-12-02 01:55:17+08:00,2018-12-01 17:26:18-06:00
+iina.xcodeproj/project.pbxproj,Ailton Vieira Pinto Filho,Kautilya Save,2019-01-30 19:54:41-06:00,2019-01-31 09:43:09-06:00
+iina.xcodeproj/project.pbxproj,Wowbagger & his liquid lunch,Yuze Jiang,2021-03-19 17:30:33+08:00,2021-03-19 18:10:01+08:00
+iina.xcodeproj/project.pbxproj,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina.xcodeproj/project.pbxproj,Collider LI,low-batt,2022-11-06 19:33:55-08:00,2022-11-08 09:10:06+09:00
+iina.xcodeproj/project.pbxproj,low-batt,Saagar Jha,2022-11-08 09:10:06+09:00,2022-11-08 13:04:31+09:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,low-batt,2022-11-09 14:22:18-08:00,2022-11-10 10:10:17+09:00
+iina.xcodeproj/project.pbxproj,low-batt,Yuze Jiang,2023-04-03 15:06:16+08:00,2023-04-04 11:25:08+08:00
+iina.xcodeproj/project.pbxproj,Shlomo,Yuze Jiang,2024-05-25 09:47:26+09:00,2024-05-25 09:47:26+09:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,low-batt,2024-06-10 10:43:56+09:00,2024-06-10 21:10:54-04:00
+iina.xcodeproj/project.pbxproj,Yuze Jiang,low-batt,2024-06-20 19:36:11-04:00,2024-06-20 19:36:11-04:00
+iina/AboutWindowController.swift,Collider LI,Saagar Jha,2017-03-02 02:36:11+08:00,2017-03-01 15:16:28-08:00
+iina/AboutWindowController.swift,Collider LI,Yuze Jiang,2018-11-04 21:47:47+08:00,2018-11-04 20:46:26-06:00
+iina/AboutWindowController.swift,Yuze Jiang,Collider LI,2018-11-04 20:46:26-06:00,2018-11-05 11:33:56+08:00
+iina/AppData.swift,Xu Cheng,Ang Li,2017-01-07 22:54:57+08:00,2017-01-07 16:21:11-05:00
+iina/AppData.swift,Ang Li,lhc,2017-01-07 16:21:11-05:00,2017-01-08 19:25:15+08:00
+iina/AppData.swift,lhc,Saagar Jha,2017-01-08 19:25:15+08:00,2017-01-08 15:26:01-08:00
+iina/AppData.swift,Matt Svoboda,low-batt,2024-05-28 19:33:21+09:00,2024-05-28 20:53:11+09:00
+iina/AppDelegate.swift,lhc,Xu Cheng,2017-01-07 01:03:14+08:00,2017-01-07 22:54:57+08:00
+iina/AppDelegate.swift,Collider LI,Yuze Jiang,2017-01-12 04:14:46+08:00,2017-01-12 06:05:32+08:00
+iina/AppDelegate.swift,Yuze Jiang,Collider LI,2017-01-12 06:05:32+08:00,2017-01-12 14:40:32+08:00
+iina/AppDelegate.swift,Yuze Jiang,Collider LI,2017-09-07 13:51:10+08:00,2017-09-07 16:54:08+08:00
+iina/AppDelegate.swift,Collider LI,Yuze Jiang,2017-12-08 02:17:46+08:00,2017-12-08 03:06:05+08:00
+iina/AppDelegate.swift,Yuze Jiang,Collider LI,2017-12-07 14:05:10-06:00,2017-12-08 04:50:03+08:00
+iina/AppDelegate.swift,Collider LI,Yuze Jiang,2017-12-08 04:50:03+08:00,2017-12-07 21:55:05-06:00
+iina/AppDelegate.swift,Collider LI,Yuze Jiang,2018-07-10 00:28:56+08:00,2018-07-10 17:47:38+08:00
+iina/AppDelegate.swift,Yuze Jiang,Collider LI,2018-07-10 17:47:38+08:00,2018-07-10 23:34:04+08:00
+iina/AppDelegate.swift,Collider LI,Sidney,2018-09-01 18:02:09+08:00,2018-09-01 18:02:10+08:00
+iina/AppDelegate.swift,Sidney,Collider LI,2018-09-01 18:02:10+08:00,2018-09-01 18:13:58+08:00
+iina/AppDelegate.swift,Yuze Jiang,Collider LI,2019-02-22 01:07:09-06:00,2019-02-23 14:26:44+08:00
+iina/AppDelegate.swift,Collider LI,Matt Svoboda,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/AppDelegate.swift,low-batt,Matt Svoboda,2022-11-05 21:11:51-04:00,2022-11-06 13:30:28+09:00
+iina/AppDelegate.swift,Yuze Jiang,Matt Svoboda,2022-11-08 09:04:06+09:00,2022-11-07 20:59:30-08:00
+iina/AppDelegate.swift,Yuze Jiang,low-batt,2022-11-09 14:22:18-08:00,2022-11-10 10:10:17+09:00
+iina/AppDelegate.swift,Yuze Jiang,Saagar Jha,2023-04-04 11:25:08+08:00,2023-04-04 02:55:17-07:00
+iina/AppDelegate.swift,Matt Svoboda,Yuze Jiang,2024-05-28 19:33:21+09:00,2024-05-29 09:36:53+09:00
+iina/AppDelegate.swift,Yuze Jiang,Matt Svoboda,2024-05-29 09:36:53+09:00,2024-05-29 12:59:01-04:00
+iina/AppDelegate.swift,Hechen Li,low-batt,2024-08-10 23:24:12-04:00,2024-08-11 13:47:30-04:00
+iina/AppDelegate.swift,Yuze Jiang,Viktor Szépe,2024-10-07 17:46:49+09:00,2024-10-07 21:54:51+09:00
+iina/Assets.xcassets/Icons/backward.imageset/Contents.json,Hechen Li,Yuze Jiang,2024-05-28 23:16:42-04:00,2024-05-29 14:05:20+09:00
+iina/Assets.xcassets/Icons/battery-rtl.imageset/Contents.json,Hechen Li,low-batt,2024-05-25 09:54:16+09:00,2024-05-25 09:54:16+09:00
+iina/Assets.xcassets/Icons/battery.imageset/Contents.json,low-batt,Yuze Jiang,2024-05-25 09:59:53+09:00,2024-05-25 10:00:20+09:00
+iina/Assets.xcassets/Icons/battery.imageset/battery-rtl.pdf,low-batt,Yuze Jiang,2024-05-25 09:59:53+09:00,2024-05-25 10:00:20+09:00
+iina/Assets.xcassets/Icons/forward.imageset/Contents.json,Hechen Li,Yuze Jiang,2024-05-28 23:16:42-04:00,2024-05-29 14:05:20+09:00
+iina/Assets.xcassets/Icons/volume-0.imageset/volume-0.pdf,Brothre23,Collider LI,2020-06-27 19:53:30+08:00,2020-06-28 15:36:20+08:00
+iina/Assets.xcassets/Icons/volume-1.imageset/volume-1.pdf,Brothre23,Collider LI,2020-06-27 19:53:30+08:00,2020-06-28 15:36:20+08:00
+iina/Assets.xcassets/Icons/volume-2.imageset/Contents.json,Brothre23,Collider LI,2020-06-27 19:53:30+08:00,2020-06-28 15:36:20+08:00
+iina/Assets.xcassets/playlist.imageset/playlist.pdf,Neeson.Z,Collider LI,2017-01-20 15:55:59+08:00,2017-01-20 16:04:33+08:00
+iina/Assets.xcassets/volume.imageset/volume.pdf,Neeson.Z,Collider LI,2017-01-20 15:55:59+08:00,2017-01-20 16:04:33+08:00
+iina/Base.lproj/AboutWindowController.xib,Collider LI,Saagar Jha,2017-03-02 02:36:11+08:00,2017-03-01 15:16:28-08:00
+iina/Base.lproj/Contribution.rtf,Yuze Jiang,Georg Stadler,2017-06-02 20:41:20+08:00,2017-06-02 22:06:16+08:00
+iina/Base.lproj/Contribution.rtf,Georg Stadler,Yuze Jiang,2017-06-02 22:06:16+08:00,2017-06-02 22:47:21+08:00
+iina/Base.lproj/Contribution.rtf,Collider LI,Yuze Jiang,2018-11-04 00:15:11+08:00,2018-11-03 11:38:10-05:00
+iina/Base.lproj/FilterWindowController.xib,Yuze Jiang,Collider LI,2018-07-17 00:41:11+08:00,2018-07-17 22:29:12+08:00
+iina/Base.lproj/HistoryWindowController.xib,Yuze Jiang,Collider LI,2018-10-27 16:52:24+08:00,2018-10-27 16:52:25+08:00
+iina/Base.lproj/KeyBinding.strings,Yuze Jiang,Collider LI,2017-12-30 16:33:23-06:00,2018-01-01 01:02:54+08:00
+iina/Base.lproj/KeyBinding.strings,Collider LI,Yuze Jiang,2018-01-01 01:02:54+08:00,2017-12-31 11:23:29-06:00
+iina/Base.lproj/Localizable.strings,Collider LI,Leo Natan,2017-01-21 18:58:39+08:00,2017-01-21 19:35:13+02:00
+iina/Base.lproj/Localizable.strings,Collider LI,Inflation,2017-03-21 02:40:53+08:00,2017-03-20 17:21:12-04:00
+iina/Base.lproj/Localizable.strings,Inflation,Collider LI,2017-03-20 17:21:12-04:00,2017-03-21 12:20:15+08:00
+iina/Base.lproj/Localizable.strings,Collider LI,Yuma Matsune,2017-05-07 11:19:26-05:00,2017-05-08 22:07:08+09:00
+iina/Base.lproj/Localizable.strings,Yuma Matsune,Collider LI,2017-05-08 22:07:08+09:00,2017-05-09 02:13:15+08:00
+iina/Base.lproj/Localizable.strings,Yuze Jiang,Collider LI,2017-07-12 02:57:59+08:00,2017-07-12 18:46:06+08:00
+iina/Base.lproj/Localizable.strings,Collider LI,Yuze Jiang,2020-06-12 16:51:26+08:00,2020-06-12 22:09:23+08:00
+iina/Base.lproj/Localizable.strings,Alexandre Gaubil,Yuze Jiang,2020-06-28 15:26:00+08:00,2020-06-28 16:21:29+08:00
+iina/Base.lproj/Localizable.strings,Collider LI,Matt Svoboda,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/Base.lproj/Localizable.strings,Matt Svoboda,Collider LI,2022-09-17 01:03:01-04:00,2022-09-17 01:17:58-04:00
+iina/Base.lproj/Localizable.strings,Yuze Jiang,low-batt,2022-11-08 09:36:18+09:00,2022-11-08 09:37:55+09:00
+iina/Base.lproj/Localizable.strings,Matt Svoboda,Brent Monning,2023-12-26 11:53:10+09:00,2023-12-26 11:57:13+09:00
+iina/Base.lproj/Localizable.strings,Hechen Li,Yuze Jiang,2024-06-28 23:42:07-04:00,2024-06-30 08:11:37+09:00
+iina/Base.lproj/Localizable.strings,Yuze Jiang,low-batt,2024-06-30 08:11:37+09:00,2024-06-30 01:00:53-04:00
+iina/Base.lproj/Localizable.strings,Yuze Jiang,Hechen Li,2024-07-21 21:04:45-04:00,2024-07-21 21:04:45-04:00
+iina/Base.lproj/Localizable.strings,Yuze Jiang,Matt Svoboda,2024-10-27 20:20:53+09:00,2024-10-27 21:51:10-04:00
+iina/Base.lproj/MainMenu.xib,Saagar Jha,lhc,2017-01-08 15:25:43-08:00,2017-01-09 08:51:07+08:00
+iina/Base.lproj/MainMenu.xib,Collider LI,Yuze Jiang,2018-01-01 01:02:54+08:00,2017-12-31 12:56:27-06:00
+iina/Base.lproj/MainWindowController.xib,顾佳奇,Jiaqi Gu,2017-01-07 21:04:16+08:00,2017-01-07 21:16:00+08:00
+iina/Base.lproj/MainWindowController.xib,Jiaqi Gu,DrabWeb,2017-01-07 21:16:00+08:00,2017-01-07 11:42:39-04:00
+iina/Base.lproj/MainWindowController.xib,DrabWeb,Saagar Jha,2017-01-08 17:32:03-04:00,2017-01-08 19:18:00-08:00
+iina/Base.lproj/MainWindowController.xib,Saagar Jha,DrabWeb,2017-01-08 19:18:00-08:00,2017-01-09 14:07:00-04:00
+iina/Base.lproj/MainWindowController.xib,Collider LI,Neeson.Z,2017-01-20 15:25:38+08:00,2017-01-20 15:55:59+08:00
+iina/Base.lproj/MainWindowController.xib,Neeson.Z,Collider LI,2017-01-20 15:55:59+08:00,2017-01-20 16:04:33+08:00
+iina/Base.lproj/MainWindowController.xib,Collider LI,Saagar Jha,2017-02-07 19:43:51+08:00,2017-02-07 09:44:11-08:00
+iina/Base.lproj/MainWindowController.xib,Collider LI,Yuze Jiang,2020-06-28 15:36:20+08:00,2020-06-28 16:14:35+08:00
+iina/Base.lproj/MainWindowController.xib,low-batt,Yuze Jiang,2024-05-25 09:59:53+09:00,2024-05-25 10:00:20+09:00
+iina/Base.lproj/MainWindowController.xib,Yuze Jiang,low-batt,2024-05-25 10:00:20+09:00,2024-05-25 10:04:27+09:00
+iina/Base.lproj/MainWindowController.xib,low-batt,Yuze Jiang,2024-05-25 10:04:27+09:00,2024-05-25 10:38:10+09:00
+iina/Base.lproj/PlaylistViewController.xib,Alexandre Gaubil,Collider LI,2020-06-28 15:26:00+08:00,2020-06-28 15:36:20+08:00
+iina/Base.lproj/PrefAdvancedViewController.xib,Yuze Jiang,Collider LI,2020-06-28 16:21:29+08:00,2020-06-28 17:31:51+08:00
+iina/Base.lproj/PrefCodecViewController.xib,Collider LI,Yuze Jiang,2018-07-17 00:23:00+08:00,2018-07-17 15:22:45+08:00
+iina/Base.lproj/PrefCodecViewController.xib,Yuze Jiang,Collider LI,2018-07-17 15:22:46+08:00,2018-07-17 15:51:25+08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Haruka,Saagar Jha,2017-01-09 02:20:29+09:00,2017-01-08 15:25:43-08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Saagar Jha,Collider LI,2017-01-08 15:25:43-08:00,2017-01-09 09:17:13+08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Yuze Jiang,Collider LI,2017-01-12 07:14:43+08:00,2017-01-12 14:40:32+08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Collider LI,Yuze Jiang,2018-07-08 15:13:08+08:00,2018-07-09 10:12:48+08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Collider LI,Yuze Jiang,2018-07-17 00:23:00+08:00,2018-07-17 00:41:11+08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Yuze Jiang,Collider LI,2018-07-17 00:41:11+08:00,2018-07-17 11:29:54+08:00
+iina/Base.lproj/PrefGeneralViewController.xib,Yuze Jiang,Collider LI,2018-09-15 19:14:49-05:00,2018-09-16 15:15:12+08:00
+iina/Base.lproj/PrefPluginViewController.xib,Yuze Jiang,Hechen Li,2024-10-25 16:08:35+09:00,2024-10-25 22:23:17-04:00
+iina/Base.lproj/PrefSubViewController.xib,cgand,Collider LI,2017-02-13 17:56:39+01:00,2017-02-14 01:24:44+08:00
+iina/Base.lproj/PrefSubViewController.xib,Yuze Jiang,Collider LI,2018-01-08 00:27:05-06:00,2018-01-09 11:59:20+08:00
+iina/Base.lproj/PrefSubViewController.xib,Yuze Jiang,Collider LI,2018-07-14 22:10:05+08:00,2018-07-15 01:33:18+08:00
+iina/Base.lproj/PrefSubViewController.xib,Collider LI,Yuze Jiang,2018-07-15 01:33:18+08:00,2018-07-15 20:35:44+08:00
+iina/Base.lproj/PrefSubViewController.xib,low-batt,Yuze Jiang,2024-05-25 09:59:53+09:00,2024-05-25 10:00:20+09:00
+iina/Base.lproj/PrefUIViewController.xib,Collider LI,Yuze Jiang,2018-07-17 00:23:00+08:00,2018-07-17 00:41:11+08:00
+iina/Base.lproj/PrefUIViewController.xib,Yuze Jiang,Collider LI,2018-07-17 00:41:11+08:00,2018-07-17 11:29:54+08:00
+iina/Base.lproj/PrefUIViewController.xib,李通洲,Collider LI,2022-04-28 00:42:29+08:00,2022-04-28 01:54:13-04:00
+iina/Base.lproj/PrefUIViewController.xib,low-batt,Matt Svoboda,2024-05-28 20:53:11+09:00,2024-05-29 16:38:26+09:00
+iina/Base.lproj/PrefUIViewController.xib,Matt Svoboda,Shreyansh Mishra,2024-05-29 16:38:26+09:00,2024-05-30 09:42:17+09:00
+iina/Base.lproj/QuickSettingViewController.xib,Miigon,Saagar Jha,2017-01-08 17:38:50+08:00,2017-01-08 15:25:43-08:00
+iina/Base.lproj/QuickSettingViewController.xib,Collider LI,Yuze Jiang,2017-05-29 16:28:16+08:00,2017-05-30 08:42:59+08:00
+iina/Base.lproj/QuickSettingViewController.xib,Muntashir Al-Islam,Collider LI,2017-09-05 14:53:28+08:00,2017-09-06 01:11:37+08:00
+iina/Base.lproj/QuickSettingViewController.xib,Yuze Jiang,Collider LI,2017-12-30 16:33:23-06:00,2018-01-01 01:02:54+08:00
+iina/Base.lproj/QuickSettingViewController.xib,Collider LI,Yuze Jiang,2018-01-01 01:02:54+08:00,2017-12-31 11:23:29-06:00
+iina/Base.lproj/QuickSettingViewController.xib,Yuze Jiang,Collider LI,2018-07-17 00:41:11+08:00,2018-07-17 22:29:12+08:00
+iina/Base.lproj/QuickSettingViewController.xib,李通洲,Collider LI,2022-04-28 00:42:29+08:00,2022-04-28 01:43:20-04:00
+iina/Base.lproj/QuickSettingViewController.xib,low-batt,Yuze Jiang,2024-05-25 09:47:26+09:00,2024-05-25 11:27:28+09:00
+iina/Base.lproj/QuickSettingViewController.xib,Hechen Li,Matt Svoboda,2024-05-28 23:33:22-04:00,2024-05-30 09:27:30+09:00
+iina/Base.lproj/QuickSettingViewController.xib,Yuze Jiang,Hechen Li,2024-07-21 21:04:45-04:00,2024-07-21 21:04:45-04:00
+iina/Base.lproj/QuickSettingViewController.xib,Hechen Li,Yuze Jiang,2024-07-21 21:04:45-04:00,2024-07-21 21:04:45-04:00
+iina/Base.lproj/QuickSettingViewController.xib,Matt Svoboda,Viktor Szépe,2024-10-07 18:08:39+09:00,2024-10-07 21:54:51+09:00
+iina/CharEncoding.swift,Dejan Skledar,Yuze Jiang,2017-06-20 14:53:26+02:00,2017-06-20 22:30:42+08:00
+iina/ControlBarView.swift,Xu Cheng,DrabWeb,2017-01-07 22:54:57+08:00,2017-01-07 11:42:39-04:00
+iina/ControlBarView.swift,DrabWeb,Neeson.Z,2017-01-19 15:28:17-04:00,2017-01-20 15:55:59+08:00
+iina/ControlBarView.swift,Saagar Jha,Yuze Jiang,2018-05-05 04:37:21-07:00,2018-05-05 11:33:27-05:00
+iina/CropSettingsViewController.swift,Xu Cheng,Miigon,2017-01-07 22:54:57+08:00,2017-01-08 17:38:50+08:00
+iina/CropSettingsViewController.swift,Miigon,Collider LI,2017-01-16 02:18:22+08:00,2017-01-16 21:34:12+08:00
+iina/DraggingDetect.swift,Yuze Jiang,Collider LI,2017-09-07 13:51:10+08:00,2017-09-07 16:54:08+08:00
+iina/DurationDisplayTextField.swift,Chris Laprun,Collider LI,2017-01-28 17:28:14+01:00,2017-01-29 01:13:30+08:00
+iina/EventController.swift,Collider LI,Yuze Jiang,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/EventController.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/Extensions.swift,Xu Cheng,lhc,2017-01-07 22:54:57+08:00,2017-01-08 03:23:01+08:00
+iina/Extensions.swift,Neeson.Z,Collider LI,2017-01-19 15:46:09+08:00,2017-01-20 02:41:03+08:00
+iina/Extensions.swift,Collider LI,Neeson.Z,2017-01-20 02:41:03+08:00,2017-01-20 15:55:59+08:00
+iina/Extensions.swift,Collider LI,Yuze Jiang,2019-06-02 15:02:21+08:00,2019-06-02 15:13:37+08:00
+iina/Extensions.swift,low-batt,Matt Svoboda,2022-11-08 09:37:55+09:00,2022-11-09 08:34:13+09:00
+iina/Extensions.swift,Yuze Jiang,Matt Svoboda,2024-05-29 09:36:53+09:00,2024-05-29 12:59:01-04:00
+iina/Extensions.swift,Herlandro Hermogenes,Matt Svoboda,2024-10-07 17:45:04+09:00,2024-10-07 18:08:39+09:00
+iina/Extensions.swift,Matt Svoboda,Viktor Szépe,2024-10-07 18:08:39+09:00,2024-10-07 21:54:51+09:00
+iina/FFmpegController.m,李通洲,Collider LI,2022-04-28 00:42:29+08:00,2022-04-28 02:19:24-04:00
+iina/FileGroup.swift,Yuze Jiang,Collider LI,2017-05-27 15:32:39+08:00,2017-05-27 20:25:55+08:00
+iina/FilterWindowController.swift,Yuze Jiang,Collider LI,2018-07-17 00:41:11+08:00,2018-07-17 22:29:12+08:00
+iina/FilterWindowController.swift,James Baxter,Yuze Jiang,2020-02-15 14:49:45-06:00,2020-02-15 14:49:45-06:00
+iina/HistoryWindowController.swift,Yuze Jiang,Collider LI,2018-10-27 16:52:24+08:00,2018-10-27 16:52:25+08:00
+iina/Info.plist,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+iina/Info.plist,Inflation,Collider LI,2017-05-31 15:46:44-07:00,2017-06-01 17:16:07+08:00
+iina/Info.plist,Yuze Jiang,Collider LI,2017-10-23 10:37:26-05:00,2017-10-24 04:04:37+08:00
+iina/Info.plist,Collider LI,秦宇航,2022-09-17 01:03:00-04:00,2022-09-17 01:03:01-04:00
+iina/InitialWindowController.swift,Yuze Jiang,Collider LI,2017-09-07 13:51:10+08:00,2017-09-07 17:08:09+08:00
+iina/InitialWindowController.swift,Collider LI,Yuze Jiang,2018-05-17 20:54:24+08:00,2018-05-18 16:18:39+08:00
+iina/InitialWindowController.swift,Matt Svoboda,Collider LI,2022-05-27 01:19:12-04:00,2022-05-27 01:22:07-04:00
+iina/InspectorWindowController.swift,Xu Cheng,Ang Li,2017-01-07 22:54:57+08:00,2017-01-07 16:20:45-05:00
+iina/JavascriptAPI.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPI.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPICore.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPICore.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPIFile.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPIMenu.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:02:59-04:00
+iina/JavascriptAPIMenu.swift,Yuze Jiang,Collider LI,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPIPlaylist.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptAPIUtils.swift,Collider LI,Yuze Jiang,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/JavascriptAPIUtils.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/JavascriptPlugin.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptPlugin.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptPlugin.swift,Collider LI,Matt Svoboda,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/JavascriptPluginInstance.swift,Collider LI,Yuze Jiang,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptPluginInstance.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptPluginInstance.swift,Collider LI,Yuze Jiang,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptPluginInstance.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/JavascriptPluginMenuItem.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:02:59-04:00
+iina/JavascriptPluginMenuItem.swift,Yuze Jiang,Collider LI,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/MPVChapter.swift,Xu Cheng,Ang Li,2017-01-07 22:54:57+08:00,2017-01-07 16:20:45-05:00
+iina/MPVController.swift,顾佳奇,Xu Cheng,2017-01-07 21:04:16+08:00,2017-01-07 22:37:49+08:00
+iina/MPVController.swift,Xu Cheng,lhc,2017-01-07 22:54:57+08:00,2017-01-08 01:31:21+08:00
+iina/MPVController.swift,lhc,Ang Li,2017-01-08 01:44:17+08:00,2017-01-07 16:20:45-05:00
+iina/MPVController.swift,Ang Li,lhc,2017-01-07 16:20:45-05:00,2017-01-08 19:25:15+08:00
+iina/MPVController.swift,lhc,Haruka,2017-01-09 01:01:39+08:00,2017-01-09 02:20:29+09:00
+iina/MPVController.swift,Haruka,Saagar Jha,2017-01-09 02:20:29+09:00,2017-01-08 15:26:01-08:00
+iina/MPVController.swift,Saagar Jha,Collider LI,2017-01-08 15:26:01-08:00,2017-01-10 03:32:21+08:00
+iina/MPVController.swift,Collider LI,Saagar Jha,2017-03-01 23:09:08+08:00,2017-03-01 15:15:37-08:00
+iina/MPVController.swift,Yuze Jiang,Collider LI,2017-03-24 17:56:52-05:00,2017-03-25 21:50:06+08:00
+iina/MPVController.swift,Yuze Jiang,Collider LI,2017-09-07 13:44:12+08:00,2017-09-07 19:51:22+08:00
+iina/MPVController.swift,Collider LI,Yuze Jiang,2018-08-20 22:51:56+08:00,2018-08-20 22:51:56+08:00
+iina/MPVController.swift,Collider LI,Andrew Breckenridge,2018-09-01 18:02:09+08:00,2018-09-01 20:35:07+08:00
+iina/MPVController.swift,Andrew Breckenridge,Collider LI,2018-09-01 20:35:07+08:00,2018-09-01 21:50:22+08:00
+iina/MPVController.swift,Yuze Jiang,Collider LI,2018-09-15 19:14:49-05:00,2018-09-16 15:15:12+08:00
+iina/MPVController.swift,Collider LI,Yuze Jiang,2018-10-27 16:52:24+08:00,2018-10-28 00:26:23-05:00
+iina/MPVController.swift,Yuze Jiang,Collider LI,2019-04-01 11:58:03-05:00,2019-04-02 14:06:04+08:00
+iina/MPVController.swift,Inflation,Collider LI,2020-02-15 22:25:08+08:00,2020-02-15 23:00:39+08:00
+iina/MPVController.swift,Collider LI,Yuze Jiang,2020-08-26 00:06:39+08:00,2020-08-26 00:09:13+08:00
+iina/MPVController.swift,Collider LI,low-batt,2022-04-23 00:57:29-04:00,2022-04-23 22:21:36-04:00
+iina/MPVController.swift,low-batt,Masahiro Kiyota,2022-04-23 22:21:36-04:00,2022-04-23 23:47:15-04:00
+iina/MPVController.swift,Masahiro Kiyota,Collider LI,2022-04-23 23:47:15-04:00,2022-04-23 23:47:38-04:00
+iina/MPVController.swift,low-batt,Yuze Jiang,2024-05-25 09:34:37+09:00,2024-05-25 09:40:11+09:00
+iina/MPVController.swift,Matt Svoboda,low-batt,2024-05-29 12:59:01-04:00,2024-05-30 13:47:21+09:00
+iina/MPVController.swift,Hechen Li,low-batt,2024-06-04 23:11:06-04:00,2024-06-04 23:11:22-04:00
+iina/MPVController.swift,Hechen Li,low-batt,2024-06-20 19:36:11-04:00,2024-06-21 10:34:10+09:00
+iina/MPVController.swift,low-batt,Yuze Jiang,2024-07-09 09:14:22-04:00,2024-07-10 16:47:03+09:00
+iina/MPVController.swift,low-batt,Yuze Jiang,2024-08-14 18:05:32-04:00,2024-08-14 22:03:26-04:00
+iina/MPVOption.swift,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+iina/MPVProperty.swift,Yuze Jiang,Hechen Li,2024-06-20 19:36:11-04:00,2024-06-20 19:36:11-04:00
+iina/MainMenuActions.swift,Collider LI,Yuze Jiang,2018-01-01 01:02:08+08:00,2017-12-31 12:56:27-06:00
+iina/MainMenuActions.swift,low-batt,Matt Svoboda,2024-01-02 15:00:13+09:00,2024-01-02 15:07:48+09:00
+iina/MainMenuActions.swift,Matt Svoboda,low-batt,2024-05-26 19:54:44+09:00,2024-05-26 20:09:45+09:00
+iina/MainWindowController.swift,lhc,Haruka,2017-01-07 01:03:14+08:00,2017-01-07 02:12:57+09:00
+iina/MainWindowController.swift,Haruka,Yi Huang,2017-01-07 02:34:22+09:00,2017-01-06 12:50:56-06:00
+iina/MainWindowController.swift,Yi Huang,DrabWeb,2017-01-06 12:50:56-06:00,2017-01-06 17:05:05-04:00
+iina/MainWindowController.swift,DrabWeb,Xu Cheng,2017-01-06 17:05:05-04:00,2017-01-07 22:54:57+08:00
+iina/MainWindowController.swift,Xu Cheng,DrabWeb,2017-01-07 22:54:57+08:00,2017-01-07 11:42:39-04:00
+iina/MainWindowController.swift,DrabWeb,lhc,2017-01-07 11:42:39-04:00,2017-01-08 03:23:01+08:00
+iina/MainWindowController.swift,lhc,Ang Li,2017-01-08 03:37:49+08:00,2017-01-07 16:20:45-05:00
+iina/MainWindowController.swift,Ang Li,Miigon,2017-01-07 16:20:45-05:00,2017-01-08 17:38:50+08:00
+iina/MainWindowController.swift,Miigon,lhc,2017-01-08 17:38:50+08:00,2017-01-08 19:25:15+08:00
+iina/MainWindowController.swift,lhc,DrabWeb,2017-01-08 19:25:15+08:00,2017-01-08 17:32:03-04:00
+iina/MainWindowController.swift,DrabWeb,Saagar Jha,2017-01-08 17:32:03-04:00,2017-01-08 15:26:01-08:00
+iina/MainWindowController.swift,Saagar Jha,lhc,2017-01-08 15:26:01-08:00,2017-01-09 08:51:07+08:00
+iina/MainWindowController.swift,lhc,Saagar Jha,2017-01-09 08:51:07+08:00,2017-01-09 06:44:00-08:00
+iina/MainWindowController.swift,DrabWeb,Collider LI,2017-01-11 23:07:23-04:00,2017-01-12 21:38:43+08:00
+iina/MainWindowController.swift,Collider LI,DrabWeb,2017-01-12 21:38:43+08:00,2017-01-12 16:56:00-04:00
+iina/MainWindowController.swift,Neeson.Z,Collider LI,2017-01-19 15:46:09+08:00,2017-01-19 21:48:02+08:00
+iina/MainWindowController.swift,Collider LI,DrabWeb,2017-01-19 21:48:02+08:00,2017-01-19 15:28:17-04:00
+iina/MainWindowController.swift,DrabWeb,Neeson.Z,2017-01-19 15:28:17-04:00,2017-01-20 15:55:59+08:00
+iina/MainWindowController.swift,Neeson.Z,Collider LI,2017-01-20 16:06:38+08:00,2017-01-21 12:06:58+08:00
+iina/MainWindowController.swift,Collider LI,Leo Natan,2017-01-21 22:38:30+08:00,2017-01-21 19:21:05+02:00
+iina/MainWindowController.swift,Collider LI,Chris Laprun,2017-01-28 19:49:40+08:00,2017-01-28 17:07:26+01:00
+iina/MainWindowController.swift,Chris Laprun,Collider LI,2017-01-28 17:28:14+01:00,2017-01-29 01:13:30+08:00
+iina/MainWindowController.swift,Saagar Jha,Collider LI,2017-02-08 08:59:47-08:00,2017-02-10 00:09:11+08:00
+iina/MainWindowController.swift,Saagar Jha,Collider LI,2017-02-11 06:36:27-08:00,2017-02-12 17:51:44+08:00
+iina/MainWindowController.swift,Saagar Jha,Collider LI,2017-03-05 12:54:50-08:00,2017-03-06 17:23:55+08:00
+iina/MainWindowController.swift,Collider LI,Saagar Jha,2017-03-17 07:11:25+08:00,2017-03-16 19:50:13-07:00
+iina/MainWindowController.swift,Saagar Jha,Collider LI,2017-03-16 19:50:13-07:00,2017-03-17 15:23:07+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-04-04 02:44:52+08:00,2017-04-03 16:16:27-05:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2017-04-03 16:16:27-05:00,2017-04-04 18:14:55+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-04-16 21:27:28+08:00,2017-04-16 21:49:46+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-05-01 14:56:22+08:00,2017-05-01 07:52:04-05:00
+iina/MainWindowController.swift,Yuma Matsune,Collider LI,2017-05-03 16:06:30+09:00,2017-05-03 23:25:29+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-05-04 01:25:15+08:00,2017-05-03 14:53:08-05:00
+iina/MainWindowController.swift,Haruka,Collider LI,2017-05-31 04:16:53+09:00,2017-06-01 01:35:11+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2017-07-02 00:32:17+08:00,2017-07-02 14:22:25+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-08-25 03:02:59+08:00,2017-08-25 21:02:15+08:00
+iina/MainWindowController.swift,Saagar Jha,Collider LI,2017-09-07 19:44:33+08:00,2017-09-07 19:52:24+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-09-28 16:05:53+08:00,2017-09-28 19:03:40-05:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2017-09-28 19:03:40-05:00,2017-09-29 18:14:44+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2017-10-24 03:57:27+08:00,2017-10-25 00:16:34+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2017-12-08 19:11:14+08:00,2017-12-08 23:48:50-06:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2017-12-08 23:48:50-06:00,2017-12-10 03:57:04+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2018-01-01 01:14:23+08:00,2017-12-31 11:26:36-06:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2018-01-08 11:51:08-06:00,2018-01-09 11:38:39+08:00
+iina/MainWindowController.swift,Collider LI,Miigon,2018-01-26 19:18:16+08:00,2018-01-26 19:29:13+08:00
+iina/MainWindowController.swift,Miigon,Collider LI,2018-01-26 19:29:13+08:00,2018-01-26 20:14:31+08:00
+iina/MainWindowController.swift,LEOYoon-Tsaw,Yuze Jiang,2018-01-30 20:14:13+08:00,2018-01-30 12:30:12-06:00
+iina/MainWindowController.swift,Saagar Jha,Yuze Jiang,2018-05-05 06:07:56-07:00,2018-05-05 12:37:41-05:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2018-05-22 15:29:07+08:00,2018-05-23 02:20:30+08:00
+iina/MainWindowController.swift,Yuze Jiang,Erik Minekus,2018-06-09 21:49:32+08:00,2018-06-09 18:00:55+02:00
+iina/MainWindowController.swift,Alexander Sokolov,Yuze Jiang,2018-07-16 18:21:04+03:00,2018-07-17 00:41:11+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2018-08-31 21:03:28-05:00,2018-09-01 18:14:47+08:00
+iina/MainWindowController.swift,Collider LI,Andrew Breckenridge,2018-09-01 18:14:47+08:00,2018-09-01 20:35:07+08:00
+iina/MainWindowController.swift,Andrew Breckenridge,Yuze Jiang,2018-09-01 20:35:07+08:00,2018-09-01 20:35:07+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2018-09-01 20:35:07+08:00,2018-09-01 21:50:22+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2018-09-10 14:08:08-05:00,2018-09-11 04:07:41+08:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2018-09-11 04:07:41+08:00,2018-09-11 09:17:50-05:00
+iina/MainWindowController.swift,Collider LI,Haruka,2018-10-27 11:00:23+08:00,2018-10-27 19:52:48+08:00
+iina/MainWindowController.swift,J-rg,Yuze Jiang,2018-11-03 12:24:37+01:00,2018-11-03 21:20:22-05:00
+iina/MainWindowController.swift,Saagar Jha,Yuze Jiang,2018-11-14 15:46:53-06:00,2018-11-14 23:29:14-06:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2019-04-01 16:39:17-05:00,2019-04-02 14:06:04+08:00
+iina/MainWindowController.swift,Saagar Jha,Yuze Jiang,2019-05-29 07:13:54-07:00,2019-05-29 23:21:48+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2020-06-05 21:41:02+08:00,2020-06-06 00:58:57+08:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2020-06-09 14:58:37+08:00,2020-06-10 14:21:28+08:00
+iina/MainWindowController.swift,Yuze Jiang,Alexandre Gaubil,2020-06-27 19:48:39+08:00,2020-06-28 15:26:00+08:00
+iina/MainWindowController.swift,Alexandre Gaubil,Yuze Jiang,2020-06-28 15:26:00+08:00,2020-06-28 15:40:54+08:00
+iina/MainWindowController.swift,low-batt,Collider LI,2022-04-22 23:58:07-04:00,2022-04-23 22:51:14-04:00
+iina/MainWindowController.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/MainWindowController.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/MainWindowController.swift,Roy J,low-batt,2022-11-04 08:13:19+09:00,2022-11-04 08:13:19+09:00
+iina/MainWindowController.swift,Brent Monning,Coin,2023-12-26 11:57:13+09:00,2023-12-26 22:08:21+09:00
+iina/MainWindowController.swift,low-batt,Matt Svoboda,2024-01-14 21:57:08+09:00,2024-01-14 22:01:21+09:00
+iina/MainWindowController.swift,low-batt,Hechen Li,2024-05-24 14:58:28+09:00,2024-05-25 09:54:16+09:00
+iina/MainWindowController.swift,Hechen Li,low-batt,2024-05-25 09:54:16+09:00,2024-05-25 09:54:16+09:00
+iina/MainWindowController.swift,low-batt,Yuze Jiang,2024-05-25 09:59:53+09:00,2024-05-25 10:00:20+09:00
+iina/MainWindowController.swift,Yuze Jiang,low-batt,2024-05-25 10:00:20+09:00,2024-05-25 10:04:27+09:00
+iina/MainWindowController.swift,Yuze Jiang,low-batt,2024-05-26 19:37:49+09:00,2024-05-26 20:37:39-04:00
+iina/MainWindowController.swift,low-batt,Yuze Jiang,2024-05-28 20:53:11+09:00,2024-05-29 09:36:53+09:00
+iina/MainWindowController.swift,Yuze Jiang,Shreyansh Mishra,2024-05-29 14:05:20+09:00,2024-05-30 09:42:17+09:00
+iina/MainWindowController.swift,Shreyansh Mishra,low-batt,2024-05-30 09:42:17+09:00,2024-05-30 13:47:21+09:00
+iina/MainWindowController.swift,Nathan Manceaux-Panot,low-batt,2024-06-18 10:06:59-04:00,2024-06-18 18:21:01-04:00
+iina/MainWindowController.swift,Yuze Jiang,low-batt,2024-06-30 09:00:50-04:00,2024-07-01 09:45:02+09:00
+iina/MainWindowController.swift,low-batt,Yuze Jiang,2024-07-01 09:45:02+09:00,2024-07-02 01:10:03+09:00
+iina/MainWindowController.swift,Yuze Jiang,Matt Svoboda,2024-07-02 01:10:03+09:00,2024-07-02 13:24:53+09:00
+iina/MainWindowController.swift,Yuze Jiang,Matt Svoboda,2024-07-03 21:10:25+09:00,2024-07-04 10:35:56+09:00
+iina/MainWindowController.swift,low-batt,Matt Svoboda,2024-07-08 11:58:24+09:00,2024-07-07 23:03:34-04:00
+iina/MainWindowController.swift,Matt Svoboda,Hechen Li,2024-07-07 23:03:34-04:00,2024-07-08 18:30:06-04:00
+iina/MainWindowController.swift,Hechen Li,low-batt,2024-07-08 18:30:06-04:00,2024-07-09 09:14:22-04:00
+iina/MainWindowMenuActions.swift,Xu Cheng,lhc,2017-01-07 22:54:57+08:00,2017-01-08 00:20:21+08:00
+iina/MainWindowMenuActions.swift,Collider LI,Neeson.Z,2017-01-20 02:41:03+08:00,2017-01-20 15:55:59+08:00
+iina/MainWindowMenuActions.swift,Neeson.Z,Collider LI,2017-01-20 15:55:59+08:00,2017-01-21 11:46:53+08:00
+iina/MainWindowMenuActions.swift,Collider LI,Leo Natan,2017-01-21 22:38:30+08:00,2017-01-21 19:21:05+02:00
+iina/MainWindowMenuActions.swift,Saagar Jha,Collider LI,2017-02-11 06:36:27-08:00,2017-02-12 04:05:25+08:00
+iina/MainWindowMenuActions.swift,Yuze Jiang,Collider LI,2017-03-24 12:11:53-05:00,2017-03-24 12:11:53-05:00
+iina/MainWindowMenuActions.swift,Andrew Breckenridge,Collider LI,2018-09-01 20:35:07+08:00,2018-09-01 21:50:22+08:00
+iina/MainWindowTouchBarSupport.swift,Yuze Jiang,Collider LI,2017-06-21 22:51:53+08:00,2017-06-22 16:51:13+08:00
+iina/MenuController.swift,Miigon,Collider LI,2017-01-16 02:18:22+08:00,2017-01-16 15:02:25+08:00
+iina/MenuController.swift,Saagar Jha,Collider LI,2017-02-11 06:36:27-08:00,2017-02-12 01:17:40+08:00
+iina/MenuController.swift,Collider LI,Yuze Jiang,2018-01-01 01:02:08+08:00,2018-01-01 01:02:54+08:00
+iina/MenuController.swift,Yuze Jiang,Collider LI,2018-01-01 01:02:54+08:00,2018-01-01 01:02:54+08:00
+iina/MenuController.swift,Collider LI,Yuze Jiang,2018-01-01 01:02:54+08:00,2017-12-31 12:56:27-06:00
+iina/MenuController.swift,Andrew Breckenridge,Collider LI,2018-09-01 20:35:07+08:00,2018-09-01 21:50:22+08:00
+iina/MenuController.swift,李通洲,Collider LI,2022-05-08 23:20:14+08:00,2022-05-08 23:18:31-04:00
+iina/MenuController.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:02:59-04:00
+iina/MenuController.swift,Yuze Jiang,Collider LI,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/MenuController.swift,low-batt,Matt Svoboda,2024-01-02 15:00:13+09:00,2024-01-02 15:07:48+09:00
+iina/MiniPlayerWindowController.swift,Collider LI,Yuze Jiang,2017-12-07 19:47:07+08:00,2017-12-07 14:00:45-06:00
+iina/MiniPlayerWindowController.swift,Yuze Jiang,Collider LI,2018-01-25 15:54:25-06:00,2018-01-26 20:14:31+08:00
+iina/MiniPlayerWindowController.swift,Yuze Jiang,Collider LI,2018-09-01 19:45:03+08:00,2018-09-02 00:29:07+08:00
+iina/MiniPlayerWindowController.swift,Collider LI,Yuze Jiang,2018-09-10 18:56:16+08:00,2018-09-10 14:08:08-05:00
+iina/MiniPlayerWindowController.swift,Saagar Jha,Yuze Jiang,2018-11-14 15:46:53-06:00,2018-11-14 23:21:17-06:00
+iina/MiniPlayerWindowController.swift,Brothre23,Collider LI,2020-06-27 19:53:30+08:00,2020-06-27 19:53:31+08:00
+iina/MiniPlayerWindowController.swift,Collider LI,Alexandre Gaubil,2020-06-27 19:53:31+08:00,2020-06-28 15:26:00+08:00
+iina/MiniPlayerWindowController.swift,Alexandre Gaubil,Collider LI,2020-06-28 15:26:00+08:00,2020-06-28 15:36:20+08:00
+iina/MiniPlayerWindowController.swift,Yuze Jiang,Collider LI,2020-07-11 01:02:58+08:00,2020-07-11 01:13:00+08:00
+iina/MiniPlayerWindowController.swift,Matt Svoboda,Yuze Jiang,2024-06-18 18:58:15-04:00,2024-06-19 09:25:50+09:00
+iina/OSCToolbarButton.swift,Matt Svoboda,Hechen Li,2024-07-07 23:03:34-04:00,2024-07-08 18:30:06-04:00
+iina/OSDMessage.swift,Xu Cheng,Miigon,2017-01-07 22:54:57+08:00,2017-01-08 17:38:50+08:00
+iina/OSDMessage.swift,Miigon,Saagar Jha,2017-01-08 17:38:50+08:00,2017-01-08 15:26:01-08:00
+iina/OSDMessage.swift,Miigon,Collider LI,2017-01-16 02:18:22+08:00,2017-01-16 15:02:25+08:00
+iina/ObjcUtils.h,Yuze Jiang,Collider LI,2017-09-07 13:44:12+08:00,2017-09-07 16:54:08+08:00
+iina/ObjcUtils.m,Yuze Jiang,Collider LI,2017-09-07 13:44:12+08:00,2017-09-07 16:54:08+08:00
+iina/OpenSubSubtitle.swift,low-batt,Arkady Bazhanov,2022-10-10 23:14:03-04:00,2022-10-11 19:23:16-04:00
+iina/PlaybackInfo.swift,Yuze Jiang,Collider LI,2017-09-07 13:44:12+08:00,2017-09-07 19:52:24+08:00
+iina/PlaybackInfo.swift,Collider LI,low-batt,2022-04-23 00:57:29-04:00,2022-04-23 23:05:24-04:00
+iina/PlaybackInfo.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:01-04:00
+iina/PlayerCore.swift,lhc,Haruka,2017-01-07 01:03:14+08:00,2017-01-07 02:12:57+09:00
+iina/PlayerCore.swift,Haruka,Yi Huang,2017-01-07 02:12:57+09:00,2017-01-06 12:50:56-06:00
+iina/PlayerCore.swift,Yi Huang,Yuze Jiang,2017-01-06 12:50:56-06:00,2017-01-07 12:53:44+08:00
+iina/PlayerCore.swift,Yuze Jiang,Xu Cheng,2017-01-07 21:28:28+08:00,2017-01-07 22:54:57+08:00
+iina/PlayerCore.swift,Xu Cheng,Yuze Jiang,2017-01-07 22:54:57+08:00,2017-01-07 23:08:27+08:00
+iina/PlayerCore.swift,Yuze Jiang,lhc,2017-01-07 23:08:27+08:00,2017-01-08 01:31:21+08:00
+iina/PlayerCore.swift,lhc,Ang Li,2017-01-08 01:44:17+08:00,2017-01-07 16:20:45-05:00
+iina/PlayerCore.swift,Ang Li,Yuze Jiang,2017-01-07 16:20:45-05:00,2017-01-08 16:31:34+08:00
+iina/PlayerCore.swift,Yuze Jiang,Haruka,2017-01-08 16:31:34+08:00,2017-01-09 02:20:29+09:00
+iina/PlayerCore.swift,Haruka,Saagar Jha,2017-01-09 03:59:44+09:00,2017-01-08 15:26:01-08:00
+iina/PlayerCore.swift,Saagar Jha,lhc,2017-01-08 15:26:01-08:00,2017-01-09 08:51:07+08:00
+iina/PlayerCore.swift,lhc,Yuze Jiang,2017-01-09 08:51:07+08:00,2017-01-09 11:04:43+08:00
+iina/PlayerCore.swift,Collider LI,Xu Cheng,2017-01-12 21:47:30+08:00,2017-01-13 19:12:17+08:00
+iina/PlayerCore.swift,Collider LI,Saagar Jha,2017-02-07 03:02:08+08:00,2017-02-07 09:44:11-08:00
+iina/PlayerCore.swift,Saagar Jha,Collider LI,2017-02-08 08:59:47-08:00,2017-02-10 00:09:11+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-02-10 00:09:11+08:00,2017-02-09 17:27:18-06:00
+iina/PlayerCore.swift,Collider LI,Saagar Jha,2017-03-14 18:34:20+08:00,2017-03-15 00:29:20+08:00
+iina/PlayerCore.swift,Haruka,Collider LI,2017-04-25 03:23:06+09:00,2017-04-25 19:41:47+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-05-25 00:37:22+08:00,2017-05-25 16:07:19+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-05-25 16:07:19+08:00,2017-05-26 14:24:09+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-05-26 14:24:09+08:00,2017-05-27 12:43:33+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-05-27 12:43:33+08:00,2017-05-27 20:25:55+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-06-01 01:35:11+08:00,2017-06-01 19:18:41+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-06-01 19:18:41+08:00,2017-06-01 20:48:30+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-06-02 14:39:51+08:00,2017-06-02 23:26:32+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-06-02 23:26:32+08:00,2017-06-03 18:21:46+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-06-03 18:21:46+08:00,2017-06-03 22:28:51+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-06-29 15:57:31+08:00,2017-06-30 00:09:46+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-06-30 00:09:46+08:00,2017-06-30 17:32:15+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-07-01 19:31:09+08:00,2017-07-02 00:32:17+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-07-02 00:32:17+08:00,2017-07-02 14:22:25+08:00
+iina/PlayerCore.swift,Saagar Jha,Collider LI,2017-07-06 20:47:25-07:00,2017-07-08 04:40:33+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-07-08 04:40:33+08:00,2017-07-08 13:33:47+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-07-08 13:33:47+08:00,2017-07-08 16:54:49+08:00
+iina/PlayerCore.swift,Collider LI,skyline75489,2017-07-08 16:54:49+08:00,2017-07-09 09:10:54+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-09-07 13:44:12+08:00,2017-09-07 19:38:44+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2017-12-08 02:17:46+08:00,2017-12-08 03:06:05+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2017-12-07 14:00:45-06:00,2017-12-08 04:50:03+08:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2018-01-01 01:02:08+08:00,2017-12-31 12:56:27-06:00
+iina/PlayerCore.swift,Saagar Jha,Yuze Jiang,2018-05-01 04:11:08-07:00,2018-05-01 09:26:08-05:00
+iina/PlayerCore.swift,braineo,Collider LI,2018-07-02 21:14:44+08:00,2018-07-02 21:14:45+08:00
+iina/PlayerCore.swift,Collider LI,Andrew Breckenridge,2018-09-01 18:14:47+08:00,2018-09-01 20:35:07+08:00
+iina/PlayerCore.swift,Andrew Breckenridge,Collider LI,2018-09-01 20:35:07+08:00,2018-09-01 21:50:22+08:00
+iina/PlayerCore.swift,Haruka,Yuze Jiang,2018-10-27 19:52:48+08:00,2018-10-27 13:43:54-05:00
+iina/PlayerCore.swift,Inflation,Yuze Jiang,2020-02-15 22:25:08+08:00,2020-02-15 12:22:49-06:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2020-02-15 12:22:49-06:00,2020-02-17 00:16:56+08:00
+iina/PlayerCore.swift,Inflation,Yuze Jiang,2020-02-26 23:42:07-06:00,2020-02-26 23:44:32-06:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2020-06-04 23:52:09+08:00,2020-06-05 20:52:43+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2020-06-05 20:52:43+08:00,2020-06-06 01:56:30+08:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2020-07-10 23:12:17+08:00,2020-07-10 23:34:43+08:00
+iina/PlayerCore.swift,Collider LI,Mathric,2020-07-10 23:34:43+08:00,2020-07-11 01:01:02+08:00
+iina/PlayerCore.swift,Mathric,Collider LI,2020-07-11 01:01:02+08:00,2020-07-11 01:01:02+08:00
+iina/PlayerCore.swift,Collider LI,low-batt,2022-04-23 00:57:29-04:00,2022-04-23 23:05:24-04:00
+iina/PlayerCore.swift,low-batt,Masahiro Kiyota,2022-04-23 23:05:24-04:00,2022-04-23 23:47:15-04:00
+iina/PlayerCore.swift,李通洲,Collider LI,2022-05-08 23:20:14+08:00,2022-05-08 23:07:09-04:00
+iina/PlayerCore.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/PlayerCore.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/PlayerCore.swift,Collider LI,Wang Hailong,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/PlayerCore.swift,Wang Hailong,Anas Saeed,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/PlayerCore.swift,low-batt,Yuze Jiang,2022-10-17 10:06:31+09:00,2022-10-17 11:32:14+09:00
+iina/PlayerCore.swift,Yuze Jiang,low-batt,2023-03-27 11:31:03+08:00,2023-03-27 13:37:40+08:00
+iina/PlayerCore.swift,Matt Svoboda,Yuze Jiang,2024-01-02 22:03:57+09:00,2024-01-03 12:23:52+09:00
+iina/PlayerCore.swift,low-batt,Yuze Jiang,2024-05-26 01:36:52-04:00,2024-05-26 19:37:49+09:00
+iina/PlayerCore.swift,Yuze Jiang,low-batt,2024-05-26 19:37:49+09:00,2024-05-26 20:09:45+09:00
+iina/PlayerCore.swift,low-batt,Matt Svoboda,2024-05-26 20:09:45+09:00,2024-05-26 20:25:32+09:00
+iina/PlayerCore.swift,Matt Svoboda,low-batt,2024-05-26 20:25:32+09:00,2024-05-26 20:37:39-04:00
+iina/PlayerCore.swift,Hechen Li,low-batt,2024-06-04 23:11:06-04:00,2024-06-04 23:11:22-04:00
+iina/PlayerCore.swift,low-batt,Matt Svoboda,2024-06-18 18:21:01-04:00,2024-06-18 18:58:15-04:00
+iina/PlayerCore.swift,Matt Svoboda,Yuze Jiang,2024-06-18 18:58:15-04:00,2024-06-19 09:25:50+09:00
+iina/PlayerCore.swift,low-batt,Matt Svoboda,2024-07-02 13:19:41+09:00,2024-07-02 13:24:53+09:00
+iina/PlayerCore.swift,low-batt,Yuze Jiang,2024-07-09 09:14:22-04:00,2024-07-10 16:47:03+09:00
+iina/PlayerCore.swift,Yuze Jiang,low-batt,2024-08-12 22:51:12-04:00,2024-08-13 13:18:32+09:00
+iina/PlayerCore.swift,wanxiangchwng,Yuze Jiang,2024-08-18 12:43:41-04:00,2024-08-19 14:32:29+09:00
+iina/PlayerCore.swift,Yuze Jiang,Matt Svoboda,2024-10-07 17:46:49+09:00,2024-10-07 18:08:39+09:00
+iina/PlayerCore.swift,Matt Svoboda,Viktor Szépe,2024-10-07 18:08:39+09:00,2024-10-07 21:54:51+09:00
+iina/PlayerCore.swift,Viktor Szépe,Yuze Jiang,2024-10-07 21:54:51+09:00,2024-10-07 22:20:11+09:00
+iina/PlayerCore.swift,Hechen Li,low-batt,2024-11-08 23:02:03-05:00,2024-11-08 23:56:58-05:00
+iina/PlayerCore.swift,low-batt,Hechen Li,2024-11-08 23:56:58-05:00,2024-11-09 00:38:09-05:00
+iina/PlayerWindowController.swift,low-batt,Matt Svoboda,2024-05-26 20:09:45+09:00,2024-05-26 20:25:32+09:00
+iina/PlayerWindowController.swift,Yuze Jiang,Matt Svoboda,2024-07-03 21:10:25+09:00,2024-07-04 10:35:56+09:00
+iina/PlaylistDragDestView.swift,Xu Cheng,Yuze Jiang,2017-01-07 22:54:57+08:00,2017-01-07 23:08:27+08:00
+iina/PlaylistViewController.swift,Xu Cheng,Miigon,2017-01-07 22:54:57+08:00,2017-01-08 17:38:50+08:00
+iina/PlaylistViewController.swift,Yuze Jiang,Collider LI,2017-02-10 15:56:54-06:00,2017-02-11 18:43:54+08:00
+iina/PlaylistViewController.swift,Collider LI,Yuze Jiang,2017-06-03 18:32:31+08:00,2017-06-03 22:28:51+08:00
+iina/PlaylistViewController.swift,Yuze Jiang,Collider LI,2017-09-07 13:51:10+08:00,2017-09-07 16:54:08+08:00
+iina/PlaylistViewController.swift,Collider LI,Yuze Jiang,2018-05-17 21:01:15+08:00,2018-05-18 16:09:03+08:00
+iina/PlaylistViewController.swift,Collider LI,Yuze Jiang,2018-10-27 16:52:24+08:00,2018-10-27 14:18:42-05:00
+iina/PlaylistViewController.swift,Yuze Jiang,Saagar Jha,2019-05-24 11:35:49+08:00,2019-05-24 11:23:34-07:00
+iina/PlaylistViewController.swift,Inflation,Yuze Jiang,2020-02-15 22:25:08+08:00,2020-02-15 23:00:39+08:00
+iina/PlaylistViewController.swift,Yuze Jiang,Collider LI,2020-02-15 23:00:39+08:00,2020-02-15 23:00:39+08:00
+iina/PlaylistViewController.swift,Collider LI,Yuze Jiang,2020-02-15 23:00:39+08:00,2020-02-15 11:28:14-06:00
+iina/PlaylistViewController.swift,Yuze Jiang,Collider LI,2020-07-10 23:12:17+08:00,2020-07-10 23:34:43+08:00
+iina/PlaylistViewController.swift,Collider LI,Mathric,2020-07-11 01:00:44+08:00,2020-07-11 01:01:02+08:00
+iina/PlaylistViewController.swift,Mathric,Collider LI,2020-07-11 01:01:02+08:00,2020-07-11 01:01:02+08:00
+iina/PlaylistViewController.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/PluginOverlayView.swift,xjbeta,Collider LI,2022-11-07 20:17:44-08:00,2022-11-08 16:42:41-08:00
+iina/PrefAdvancedViewController.swift,Inflation,Yuze Jiang,2017-10-04 10:28:11-04:00,2017-10-04 13:58:29-05:00
+iina/PrefControlViewController.swift,Inflation,Yuze Jiang,2017-10-04 10:28:11-04:00,2017-10-04 13:58:29-05:00
+iina/PrefGeneralViewController.swift,Inflation,Yuze Jiang,2017-10-04 10:28:11-04:00,2017-10-04 13:58:29-05:00
+iina/PrefKeyBindingViewController.swift,Collider LI,Inflation,2017-03-21 01:41:57+08:00,2017-03-20 17:21:12-04:00
+iina/PrefKeyBindingViewController.swift,Inflation,Yuze Jiang,2017-10-04 10:28:11-04:00,2017-10-04 13:58:29-05:00
+iina/PrefKeyBindingViewController.swift,Collider LI,Yuze Jiang,2018-08-17 02:41:52+08:00,2018-08-17 17:02:47+08:00
+iina/PrefOSCToolbarSettingsSheetController.swift,Saagar Jha,Collider LI,2018-07-30 23:37:48+08:00,2018-07-31 03:30:26+08:00
+iina/PrefOSCToolbarSettingsSheetController.swift,Matt Svoboda,Hechen Li,2024-07-07 23:03:34-04:00,2024-07-08 18:30:06-04:00
+iina/PrefPluginViewController.swift,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/PrefPluginViewController.swift,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/PrefPluginViewController.swift,Collider LI,Matt Svoboda,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/PrefPluginViewController.swift,Matt Svoboda,Collider LI,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/PrefPluginViewController.xib,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/PrefPluginViewController.xib,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/PrefSubViewController.swift,Yuze Jiang,Collider LI,2018-09-01 17:47:24+08:00,2018-09-01 18:13:58+08:00
+iina/PrefSubViewController.swift,Yuze Jiang,Saagar Jha,2022-11-13 16:08:44+09:00,2022-11-13 00:34:01-08:00
+iina/PrefSubViewController.swift,Yuze Jiang,low-batt,2024-08-15 01:26:23+09:00,2024-08-14 18:05:32-04:00
+iina/PrefUIViewController.swift,Inflation,Yuze Jiang,2017-10-04 10:28:11-04:00,2017-10-04 13:58:29-05:00
+iina/PrefUIViewController.swift,Saagar Jha,Collider LI,2018-07-30 23:37:48+08:00,2018-07-31 03:30:26+08:00
+iina/PrefUtilsViewController.swift,Yuze Jiang,Collider LI,2018-08-18 12:23:42-05:00,2018-08-18 12:23:56-05:00
+iina/Preference.swift,Collider LI,Yuze Jiang,2017-01-12 01:17:54+08:00,2017-01-12 06:05:32+08:00
+iina/Preference.swift,Collider LI,Yuze Jiang,2018-05-17 21:01:15+08:00,2018-05-17 23:55:18+08:00
+iina/Preference.swift,Saagar Jha,Collider LI,2018-07-31 03:30:18+08:00,2018-07-31 03:40:22+08:00
+iina/Preference.swift,Collider LI,Matt Svoboda,2022-09-17 01:03:00-04:00,2022-09-17 01:03:01-04:00
+iina/Preference.swift,Matt Svoboda,Shreyansh Mishra,2024-05-29 12:59:01-04:00,2024-05-30 09:42:17+09:00
+iina/Preference.swift,low-batt,Hechen Li,2024-07-08 12:31:40+09:00,2024-07-08 18:30:06-04:00
+iina/Preference.swift,Yuze Jiang,low-batt,2024-08-15 01:26:23+09:00,2024-08-14 18:05:32-04:00
+iina/Preference.swift,low-batt,Yuze Jiang,2024-08-14 18:05:32-04:00,2024-08-14 22:03:26-04:00
+iina/PreferenceWindowController.swift,Collider LI,Yuze Jiang,2018-07-12 15:50:09+08:00,2018-07-12 21:47:19+08:00
+iina/PreferenceWindowController.swift,Yuze Jiang,Collider LI,2018-07-12 21:47:19+08:00,2018-07-12 22:39:42+08:00
+iina/PreferenceWindowController.swift,Collider LI,Yuze Jiang,2018-07-14 19:43:01+08:00,2018-07-14 21:26:03+08:00
+iina/PreferenceWindowController.swift,Yuze Jiang,Collider LI,2018-07-14 21:26:03+08:00,2018-07-15 01:33:18+08:00
+iina/PreferenceWindowController.swift,Collider LI,Yuze Jiang,2018-07-17 00:23:00+08:00,2018-07-17 00:41:11+08:00
+iina/PreferenceWindowController.swift,low-batt,Yuze Jiang,2024-01-05 17:19:36-05:00,2024-01-06 11:14:09+09:00
+iina/PreferenceWindowController.xib,Yuze Jiang,Collider LI,2018-07-12 21:47:19+08:00,2018-07-13 17:42:55+08:00
+iina/QuickSettingViewController.swift,Xu Cheng,Miigon,2017-01-07 22:54:57+08:00,2017-01-08 17:38:50+08:00
+iina/QuickSettingViewController.swift,Miigon,Saagar Jha,2017-01-08 17:38:50+08:00,2017-01-08 15:26:01-08:00
+iina/QuickSettingViewController.swift,Saagar Jha,Yuze Jiang,2017-03-19 11:43:11-07:00,2017-03-19 11:43:11-07:00
+iina/QuickSettingViewController.swift,Yuze Jiang,Collider LI,2017-05-30 08:42:59+08:00,2017-05-30 11:30:41+08:00
+iina/QuickSettingViewController.swift,李通洲,Collider LI,2022-04-28 00:42:29+08:00,2022-04-28 01:43:20-04:00
+iina/QuickSettingViewController.swift,Yuze Jiang,Matt Svoboda,2022-11-08 14:46:51+09:00,2022-11-08 15:00:01+09:00
+iina/QuickSettingViewController.swift,Hechen Li,low-batt,2024-06-04 23:11:06-04:00,2024-06-05 00:00:18-04:00
+iina/QuickSettingViewController.swift,Yuze Jiang,Hechen Li,2024-07-21 21:04:45-04:00,2024-07-21 21:04:45-04:00
+iina/QuickSettingViewController.swift,Matt Svoboda,Viktor Szépe,2024-10-07 18:08:39+09:00,2024-10-07 21:54:51+09:00
+iina/ScrollingTextField.swift,Yuze Jiang,Collider LI,2018-09-01 19:45:03+08:00,2018-09-01 20:33:30+08:00
+iina/SleepPreventer.swift,lhc,Xu Cheng,2017-01-07 01:03:14+08:00,2017-01-07 22:54:57+08:00
+iina/Switch.swift,Yuze Jiang,Collider LI,2020-06-28 16:21:29+08:00,2020-06-28 17:31:51+08:00
+iina/Translators.json,Collider LI,Erik Minekus,2018-11-04 21:32:34+08:00,2018-11-04 18:31:11+01:00
+iina/Translators.json,Ailton Vieira Pinto Filho,Kautilya Save,2019-01-31 09:32:39-06:00,2019-01-31 09:43:09-06:00
+iina/Utility.swift,顾佳奇,Xu Cheng,2017-01-07 21:04:16+08:00,2017-01-07 22:54:57+08:00
+iina/Utility.swift,Inflation,Collider LI,2017-02-09 21:23:59-05:00,2017-02-10 15:29:09+08:00
+iina/Utility.swift,Saagar Jha,Collider LI,2017-07-06 20:47:25-07:00,2017-07-08 04:40:33+08:00
+iina/Utility.swift,Yuze Jiang,Collider LI,2017-09-07 13:51:10+08:00,2017-09-07 19:51:22+08:00
+iina/Utility.swift,Yuze Jiang,Raphael Schweikert,2024-01-07 10:31:51+09:00,2024-01-08 10:01:04+09:00
+iina/VideoTime.swift,Xu Cheng,Ang Li,2017-01-07 22:54:57+08:00,2017-01-07 16:20:45-05:00
+iina/VideoView.swift,Haruka,lhc,2017-01-06 03:37:58+09:00,2017-01-06 22:10:01+08:00
+iina/VideoView.swift,lhc,Haruka,2017-01-06 22:10:01+08:00,2017-01-07 02:12:57+09:00
+iina/VideoView.swift,Haruka,Yuze Jiang,2017-01-07 02:12:57+09:00,2017-01-07 15:01:21+08:00
+iina/VideoView.swift,Yuze Jiang,Xu Cheng,2017-01-07 15:13:20+08:00,2017-01-07 22:54:57+08:00
+iina/VideoView.swift,Xu Cheng,Yuze Jiang,2017-01-07 22:54:57+08:00,2017-01-07 23:08:27+08:00
+iina/VideoView.swift,Yuze Jiang,lhc,2017-01-07 23:08:27+08:00,2017-01-08 01:31:21+08:00
+iina/VideoView.swift,Collider LI,Neeson.Z,2017-01-19 21:48:02+08:00,2017-01-20 15:55:59+08:00
+iina/VideoView.swift,vit9696,Saagar Jha,2017-04-28 15:18:36+03:00,2017-04-28 13:56:06-07:00
+iina/VideoView.swift,Haruka,Yuze Jiang,2018-10-27 19:52:48+08:00,2018-10-27 13:43:54-05:00
+iina/VideoView.swift,李通洲,Collider LI,2022-04-28 00:42:29+08:00,2022-04-28 01:43:20-04:00
+iina/VideoView.swift,low-batt,Yuze Jiang,2023-04-03 15:06:16+08:00,2023-04-04 11:25:08+08:00
+iina/VideoView.swift,Yuze Jiang,Saagar Jha,2023-04-04 11:25:08+08:00,2023-04-04 03:14:06-07:00
+iina/VideoView.swift,low-batt,Matt Svoboda,2024-10-25 22:03:53-04:00,2024-10-26 12:04:49+09:00
+iina/ca.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/config/input.conf,Yuze Jiang,Collider LI,2017-12-31 12:03:34-06:00,2018-01-01 18:54:10+08:00
+iina/config/movist-default-input.conf,Yuze Jiang,Collider LI,2018-01-01 01:02:54+08:00,2018-01-01 01:02:54+08:00
+iina/config/movist-default-input.conf,Collider LI,Yuze Jiang,2018-01-01 01:02:54+08:00,2017-12-31 12:03:34-06:00
+iina/config/movist-default-input.conf,Yuze Jiang,Collider LI,2017-12-31 12:03:34-06:00,2018-01-01 18:54:10+08:00
+iina/cs.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/da.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/de.lproj/Contribution.rtf,Georg Stadler,Yuze Jiang,2017-06-02 22:15:30+08:00,2017-06-02 22:47:21+08:00
+iina/de.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/de.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/de.lproj/KeyBinding.strings,Georg Stadler,Yuze Jiang,2017-06-02 22:07:19+08:00,2017-06-02 22:47:21+08:00
+iina/de.lproj/Localizable.strings,shilch,Collider LI,2017-01-22 21:25:35+01:00,2017-01-23 23:19:42+08:00
+iina/de.lproj/Localizable.strings,Collider LI,shilch,2017-01-30 00:25:18+08:00,2017-01-30 08:22:27+01:00
+iina/de.lproj/Localizable.strings,Georg Stadler,Yuze Jiang,2017-06-02 22:15:30+08:00,2017-06-02 22:47:21+08:00
+iina/de.lproj/PrefCodecViewController.strings,Viktor,Yuze Jiang,2019-05-26 11:51:01+08:00,2019-05-26 11:51:39+08:00
+iina/de.lproj/PrefUIViewController.strings,Viktor,Yuze Jiang,2019-05-26 11:51:01+08:00,2019-05-26 11:51:39+08:00
+iina/de.lproj/QuickSettingViewController.strings,Georg Stadler,Yuze Jiang,2017-06-02 22:12:27+08:00,2017-06-02 23:43:44+08:00
+iina/de.lproj/QuickSettingViewController.strings,iina-bot,Yuze Jiang,2024-08-13 19:13:13+09:00,2024-08-14 09:56:01+09:00
+iina/en.lproj/Localizable.strings,Collider LI,Inflation,2017-01-19 14:51:57+08:00,2017-01-19 13:57:03-05:00
+iina/en.lproj/Localizable.strings,Collider LI,Leo Natan,2017-01-21 18:58:39+08:00,2017-01-21 19:35:13+02:00
+iina/en.lproj/Localizable.strings,Collider LI,Yuze Jiang,2020-06-12 16:51:26+08:00,2020-06-12 22:09:23+08:00
+iina/en.lproj/Localizable.strings,Alexandre Gaubil,Yuze Jiang,2020-06-28 15:26:00+08:00,2020-06-28 16:21:29+08:00
+iina/en.lproj/Localizable.strings,Collider LI,Yuze Jiang,2022-09-17 01:02:59-04:00,2022-09-17 01:03:00-04:00
+iina/en.lproj/Localizable.strings,Yuze Jiang,Collider LI,2022-09-17 01:03:00-04:00,2022-09-17 01:03:00-04:00
+iina/en.lproj/Localizable.strings,Collider LI,Matt Svoboda,2022-09-17 01:03:01-04:00,2022-09-17 01:03:01-04:00
+iina/en.lproj/Localizable.strings,Yuze Jiang,low-batt,2022-11-08 09:36:18+09:00,2022-11-08 09:37:55+09:00
+iina/en.lproj/Localizable.strings,low-batt,Matt Svoboda,2023-12-24 22:28:38-05:00,2023-12-26 11:53:10+09:00
+iina/en.lproj/Localizable.strings,Matt Svoboda,Brent Monning,2023-12-26 11:53:10+09:00,2023-12-26 11:57:13+09:00
+iina/en.lproj/Localizable.strings,Hechen Li,Yuze Jiang,2024-06-28 23:42:07-04:00,2024-06-30 08:11:37+09:00
+iina/en.lproj/Localizable.strings,Yuze Jiang,low-batt,2024-06-30 08:11:37+09:00,2024-06-30 01:00:53-04:00
+iina/en.lproj/Localizable.strings,low-batt,Yuze Jiang,2024-06-30 01:00:53-04:00,2024-06-30 01:01:01-04:00
+iina/en.lproj/Localizable.strings,Yuze Jiang,Hechen Li,2024-07-21 21:04:45-04:00,2024-07-21 21:04:45-04:00
+iina/en.lproj/Localizable.strings,Yuze Jiang,Matt Svoboda,2024-10-27 20:20:53+09:00,2024-10-27 21:51:10-04:00
+iina/es.lproj/Contribution.rtf,Aikyuichi,Collider LI,2018-01-11 12:31:12-06:00,2018-01-12 18:53:54+08:00
+iina/es.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/es.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/fr.lproj/AboutWindowController.strings,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:50:59+01:00
+iina/fr.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/fr.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/fr.lproj/HistoryWindowController.strings,Nicolas Allemand,Yuze Jiang,2017-06-20 18:14:46+02:00,2017-06-21 21:28:48+08:00
+iina/fr.lproj/Localizable.strings,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:39:12+01:00
+iina/fr.lproj/Localizable.strings,Nicolas Allemand,Collider LI,2017-02-13 09:01:55+01:00,2017-02-13 18:20:00+08:00
+iina/fr.lproj/Localizable.strings,Yuze Jiang,Nicolas Allemand,2017-07-12 02:57:59+08:00,2017-07-12 19:58:43+02:00
+iina/fr.lproj/Localizable.strings,Nicolas Allemand,Collider LI,2018-09-10 00:22:20+08:00,2018-09-10 00:29:57+08:00
+iina/fr.lproj/MainMenu.strings,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:39:12+01:00
+iina/fr.lproj/MainMenu.strings,Chris Laprun,Nicolas Allemand,2017-01-30 15:39:12+01:00,2017-01-30 19:20:18+01:00
+iina/fr.lproj/MainMenu.strings,Nicolas Allemand,Yuze Jiang,2017-06-20 18:14:46+02:00,2017-06-21 21:28:48+08:00
+iina/fr.lproj/PrefCodecViewController.strings,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:39:12+01:00
+iina/fr.lproj/PrefCodecViewController.strings,Chris Laprun,Nicolas Allemand,2017-01-30 15:39:12+01:00,2017-01-30 19:20:18+01:00
+iina/fr.lproj/PrefSubViewController.strings,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:39:12+01:00
+iina/fr.lproj/PrefUIViewController.strings,Nicolas Allemand,Chris Laprun,2017-01-30 15:39:12+01:00,2017-01-30 15:39:12+01:00
+iina/fr.lproj/PrefUIViewController.strings,Chris Laprun,Nicolas Allemand,2017-01-30 15:39:12+01:00,2017-01-30 19:20:18+01:00
+iina/fr.lproj/QuickSettingViewController.strings,Nicolas Allemand,Yuze Jiang,2017-06-20 18:14:46+02:00,2017-06-21 21:28:48+08:00
+iina/hi.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/it.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/it.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/it.lproj/Localizable.strings,Yuze Jiang,cgand,2017-07-12 02:57:59+08:00,2017-07-12 14:09:47+02:00
+iina/ja.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/ja.lproj/FilterWindowController.strings,Yuma Matsune,Collider LI,2018-01-13 01:36:21+08:00,2018-01-13 02:15:30+08:00
+iina/ja.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/ja.lproj/InspectorWindowController.strings,Yuma Matsune,Collider LI,2018-01-13 01:36:21+08:00,2018-01-13 02:15:30+08:00
+iina/ja.lproj/Localizable.strings,Collider LI,Yuma Matsune,2017-05-07 11:19:26-05:00,2017-05-08 21:34:56+09:00
+iina/ja.lproj/MainMenu.strings,Yuma Matsune,Collider LI,2018-01-13 01:36:21+08:00,2018-01-13 02:15:30+08:00
+iina/ja.lproj/PrefSubViewController.strings,Yuma Matsune,Collider LI,2018-01-13 01:36:21+08:00,2018-01-13 02:15:30+08:00
+iina/ja.lproj/QuickSettingViewController.strings,Yuma Matsune,Collider LI,2018-01-13 01:36:21+08:00,2018-01-13 02:15:30+08:00
+iina/ko.lproj/Contribution.rtf,darkbrow,Yuze Jiang,2017-06-02 19:14:59+08:00,2017-06-02 22:47:21+08:00
+iina/ko.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/ko.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/ko.lproj/Localizable.strings,Collider LI,darkbrow,2017-01-30 00:25:18+08:00,2017-01-30 15:18:51+09:00
+iina/nl.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/nl.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/pl.lproj/FilterPresets.strings,Yuze Jiang,Paweł Golonko,2018-06-18 22:41:38+08:00,2018-06-19 11:08:39+08:00
+iina/pl.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/pl.lproj/Localizable.strings,Yuze Jiang,Paweł Golonko,2018-06-18 22:41:38+08:00,2018-06-19 11:08:39+08:00
+iina/pl.lproj/Localizable.strings,Igor Wojda,Bartosz Dolewski,2019-07-31 18:01:47+08:00,2019-07-31 18:01:47+08:00
+iina/pl.lproj/Localizable.strings,Bartosz Dolewski,Yuze Jiang,2019-07-31 18:01:47+08:00,2019-07-31 18:01:47+08:00
+iina/pl.lproj/Localizable.strings,Yuze Jiang,Bartosz Dolewski,2019-07-31 18:01:47+08:00,2019-07-31 18:01:47+08:00
+iina/pl.lproj/PrefAdvancedViewController.strings,Yuze Jiang,Paweł Golonko,2018-06-18 22:41:38+08:00,2018-06-19 11:08:39+08:00
+iina/pl.lproj/PrefSubViewController.strings,Yuze Jiang,Paweł Golonko,2018-06-18 22:46:00+08:00,2018-06-19 11:08:39+08:00
+iina/pl.lproj/PrefUtilsViewController.strings,Bartosz Dolewski,Yuze Jiang,2019-07-31 18:01:47+08:00,2019-07-31 18:01:47+08:00
+iina/pt-BR.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/pt-BR.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/ro.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/ru.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/ru.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/ru.lproj/Localizable.strings,Ruslan Timchenko,Yuze Jiang,2018-07-17 23:57:57+08:00,2018-07-18 00:06:46+08:00
+iina/sk.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/sk.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/sk.lproj/MiniPlayerWindowController.strings,Marvin,Yuze Jiang,2018-11-24 12:33:35-06:00,2018-11-24 12:35:49-06:00
+iina/sv.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/tr.lproj/AboutWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/Contribution.rtf,Emin Hacıoğlu,Yuze Jiang,2017-06-02 20:05:19+08:00,2017-06-02 20:41:20+08:00
+iina/tr.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/tr.lproj/Contribution.rtf,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/CropSettingsViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/FilterPresets.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/FilterWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/FontPickerWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/FreeSelectingViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/tr.lproj/HistoryWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/InfoPlist.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/InitialWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/InspectorWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/KeyBinding.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/KeyRecordViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/Localizable.strings,Emin Hacıoğlu,Yuze Jiang,2017-06-02 20:05:19+08:00,2017-06-02 20:17:13+08:00
+iina/tr.lproj/Localizable.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/Localizable.strings,Yuze Jiang,Hazar,2020-01-04 21:42:26+08:00,2020-01-04 21:43:30+08:00
+iina/tr.lproj/MainMenu.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/MainWindowController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PlaylistViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefAdvancedViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefAdvancedViewController.strings,Yuze Jiang,Hazar,2020-01-04 21:42:17+08:00,2020-01-05 14:58:57+08:00
+iina/tr.lproj/PrefCodecViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefCodecViewController.strings,Yuze Jiang,Hazar,2020-01-04 21:42:17+08:00,2020-01-05 14:58:57+08:00
+iina/tr.lproj/PrefControlViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefGeneralViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefGeneralViewController.strings,Yuze Jiang,Hazar,2020-01-04 21:42:17+08:00,2020-01-05 14:58:57+08:00
+iina/tr.lproj/PrefKeyBindingViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefNetworkViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefOSCToolbarSettingsSheetController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefSubViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefSubViewController.strings,Yuze Jiang,Hazar,2020-01-04 21:42:17+08:00,2020-01-05 14:58:57+08:00
+iina/tr.lproj/PrefUIViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/PrefUIViewController.strings,Yuze Jiang,Hazar,2020-01-04 21:42:17+08:00,2020-01-05 14:58:57+08:00
+iina/tr.lproj/PrefUtilsViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:43:03+08:00,2020-01-04 21:43:37+08:00
+iina/tr.lproj/QuickSettingViewController.strings,Emin Hacıoğlu,Yuze Jiang,2017-06-02 20:05:19+08:00,2017-06-02 23:43:44+08:00
+iina/tr.lproj/QuickSettingViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/tr.lproj/QuickSettingViewController.strings,Yuze Jiang,Hazar,2020-01-04 21:42:17+08:00,2020-01-05 14:58:57+08:00
+iina/tr.lproj/SubChooseViewController.strings,Hazar,Yuze Jiang,2020-01-04 21:41:56+08:00,2020-01-04 21:42:17+08:00
+iina/uk.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/uk.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/zh-Hans.lproj/Contribution.rtf,Yuze Jiang,Georg Stadler,2017-06-02 20:41:20+08:00,2017-06-02 22:06:16+08:00
+iina/zh-Hans.lproj/Contribution.rtf,Georg Stadler,Yuze Jiang,2017-06-02 22:06:16+08:00,2017-06-02 22:47:21+08:00
+iina/zh-Hans.lproj/Contribution.rtf,Yuze Jiang,Collider LI,2018-11-03 11:38:10-05:00,2018-11-04 21:59:56+08:00
+iina/zh-Hans.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/zh-Hans.lproj/Localizable.strings,Collider LI,Inflation,2017-01-19 14:51:57+08:00,2017-01-19 13:57:03-05:00
+iina/zh-Hans.lproj/Localizable.strings,iina-bot,Yuze Jiang,2024-08-13 19:13:13+09:00,2024-08-14 09:56:01+09:00
+iina/zh-Hans.lproj/PrefGeneralViewController.strings,Yuze Jiang,Collider LI,2018-07-08 23:34:56+08:00,2018-07-09 22:57:13+08:00
+iina/zh-Hans.lproj/PrefUIViewController.strings,Yuze Jiang,Collider LI,2018-07-08 23:34:56+08:00,2018-07-09 22:57:13+08:00
+iina/zh-Hant.lproj/GuideWindowController.strings,Yuze Jiang,iina-bot,2020-09-02 17:40:57+08:00,2020-09-02 18:27:20+08:00
+iina/zh-Hant.lproj/Localizable.strings,Collider LI,LEOYoon-Tsaw,2017-05-07 11:19:26-05:00,2017-05-08 20:36:34+08:00
+iina/zh-Hant.lproj/Localizable.strings,Yuze Jiang,Collider LI,2017-07-12 02:57:59+08:00,2017-07-12 06:42:03+08:00
+iina/zh-Hant.lproj/QuickSettingViewController.strings,Collider LI,Yuze Jiang,2017-06-02 18:47:17+08:00,2017-06-02 23:43:44+08:00
+libmpv/lib/Python,Collider LI,Neeson.Z,2017-01-19 21:48:02+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libass.5.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libass.9.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libavcodec.57.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libavdevice.57.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libavfilter.6.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libavformat.57.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libavresample.3.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libavutil.55.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libbluray.1.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libfontconfig.1.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libfreetype.6.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libfribidi.0.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libglib-2.0.0.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libharfbuzz.0.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libintl.8.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libjpeg.8.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/liblcms2.2.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/liblua.5.2.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libmp3lame.0.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libmpv.1.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libmpv.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libpcre.1.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libpng16.16.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libpostproc.54.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libswresample.2.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libswscale.4.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libuchardet.0.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libvapoursynth-script.0.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libvapoursynth.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libx264.148.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+libmpv/lib/libzimg.2.dylib,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00
+other/check_translation.swift,Eugene F,Yuze Jiang,2017-05-30 02:16:31+03:00,2017-05-30 22:17:57+08:00
+other/check_translation.swift,Thomas Kirk,Collider LI,2017-12-19 17:34:51+01:00,2017-12-20 05:24:29+08:00
+other/parse_doc.rb,Collider LI,Neeson.Z,2017-01-19 18:22:30+08:00,2017-01-20 15:55:59+08:00

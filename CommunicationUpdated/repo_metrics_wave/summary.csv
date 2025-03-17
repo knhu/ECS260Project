@@ -1,0 +1,94 @@
+Field,Value
+Commits Overview,
+Total Commits,2333
+Total Unique Authors,67
+,
+Top 10 Contributors,
+Author,Commits
+Prithvi Prabhu,13805
+mturoci,2495
+Martin Turoci,2026
+Marek Mihok,806
+Dulaj Atapattu,750
+srisatish,643
+Martin Turóci,232
+Srinivas Neppalli,188
+Alexandre Alencar,187
+Peter Szabó,133
+,
+Communication Events,Total: 256
+"Author1,Author2",Events
+"mturoci,Prithvi Prabhu",36
+"Prithvi Prabhu,mturoci",26
+"mturoci,Martin Turoci",26
+"lo5,Prithvi Prabhu",13
+"Martin Turoci,Prithvi Prabhu",12
+"Alexandre Alencar,Marek Mihok",10
+"mturoci,Marek Mihok",9
+"Martin Turóci,Martin Turoci",8
+"Martin Turoci,mturoci",8
+"Martin Turoci,Marek Mihok",8
+"Peter Szabó,Prithvi Prabhu",7
+"elp,mturoci",6
+"Prithvi Prabhu,Peter Szabó",5
+"Colton Van Voorhis,Nicolas Ettlin",5
+"Marek Mihok,mturoci",5
+"Marek Mihok,Alexandre Alencar",5
+"Pooja Kulkarni,mturoci",5
+"Martin Turoci,Martin Turóci",4
+"Karan Agarwal,Martin Turoci",4
+"Alexandre Alencar,mturoci",3
+"Marek Mihok,Martin Turoci",3
+"Peter Szabó,mturoci",3
+"mturoci,Yashwanth Krishna",3
+"mturoci,elp",3
+"Prithvi Prabhu,Michelle Tanco",3
+"Prithvi Prabhu,Ashrith Barthur",2
+"Michelle Tanco,Prithvi Prabhu",2
+"Alexandre Alencar,Martin Turoci",2
+"keznikl,Prithvi Prabhu",2
+"mturoci,lo5",2
+"mturoci,Alexandre Alencar",2
+"lo5,Martin Turoci",2
+"Prithvi Prabhu,Srinivas Neppalli",2
+"MattiasOz,Martin Turoci",2
+"Ashrith Barthur,Prithvi Prabhu",1
+"Geoffrey Duimovich,keznikl",1
+"Martin Turoci,lo5",1
+"Martin Turoci,Alexandre Alencar",1
+"Geoffrey Duimovich,Prithvi Prabhu",1
+"Gábor Fodor,mturoci",1
+"Gábor Fodor,Prithvi Prabhu",1
+"Michal Raška,Prithvi Prabhu",1
+"Michelle Tanco,lo5",1
+"Prithvi Prabhu,Matt Motoki",1
+"Srinivas Neppalli,Prithvi Prabhu",1
+"Prithvi Prabhu,Dulaj Atapattu",1
+"Prithvi Prabhu,Geoffrey Duimovich",1
+"TrellixVulnTeam,mturoci",1
+"monal20,mturoci",1
+"keznikl,Geoffrey Duimovich",1
+"mturoci,Peter Szabó",1
+"mturoci,Ashrith Barthur",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++00:00,5
++01:00,363
++02:00,604
++05:30,1
+-07:00,962
+-08:00,398
+,
+Contributors Experience,Average across 5231 files: 95.65%
+File,Top Contributor Share (%)
+CHANGELOG.md,100.00
+cmd/teledb/main.go,100.00
+cmd/telesync/main.go,100.00
+cycbuf.go,100.00
+db.go,100.00
+db_test.go,100.00
+fixbuf.go,100.00
+mapbuf.go,100.00
+page.go,100.00
+py/LICENSE,100.00

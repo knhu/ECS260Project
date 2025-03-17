@@ -1,0 +1,135 @@
+file,author1,author2,time1,time2
+.editorconfig,gaokai,Kay,2019-02-18 00:36:21+08:00,2019-02-18 21:24:03+08:00
+.github/ISSUE_TEMPLATE/1_bug_report.yml,Imamuzzaki Abu Salam,Dr_rOot,2023-04-06 10:16:18+08:00,2023-04-06 10:44:55+08:00
+.travis.yml,devrsi0n,Dr_rOot,2019-01-01 18:15:17+08:00,2019-01-02 12:39:11+08:00
+README-CN.md,FloatingShuYin,Dr_rOot,2019-04-30 20:16:41+08:00,2019-04-30 21:01:05+08:00
+README-CN.md,Dr_rOot,Restu Suhendar,2020-05-20 13:53:20+08:00,2020-05-21 04:24:07+07:00
+README-CN.md,Restu Suhendar,Dr_rOot,2020-05-21 04:24:07+07:00,2020-05-21 08:54:01+08:00
+README-CN.md,カワリミ人形,Dr_rOot,2020-12-26 21:09:55+08:00,2020-12-27 20:07:53+08:00
+README.md,weearc,Dr_rOot,2019-04-25 15:07:56+08:00,2019-04-25 15:45:58+08:00
+README.md,FloatingShuYin,Dr_rOot,2019-04-30 20:16:41+08:00,2019-04-30 21:01:05+08:00
+README.md,Dr_rOot,Restu Suhendar,2020-05-20 13:53:20+08:00,2020-05-21 04:24:07+07:00
+README.md,Restu Suhendar,Dr_rOot,2020-05-21 04:24:07+07:00,2020-05-21 08:54:01+08:00
+README.md,カワリミ人形,Dr_rOot,2020-12-26 21:09:55+08:00,2020-12-27 20:07:53+08:00
+package-lock.json,Dr_rOot,gaokai,2019-02-17 11:02:29+08:00,2019-02-18 00:36:21+08:00
+src/main/Application.js,Dr_rOot,thecodrr,2019-06-09 23:09:59+08:00,2019-06-10 00:17:55-07:00
+src/main/Application.js,thecodrr,Dr_rOot,2019-06-10 00:17:55-07:00,2019-06-10 17:47:51+08:00
+src/main/Application.js,Jiaqi Gu,Dr_rOot,2020-02-23 11:59:19+08:00,2020-02-23 12:08:41+08:00
+src/main/core/ConfigManager.js,Dr_rOot,dicarne,2021-06-15 12:06:35+08:00,2021-06-15 19:50:27+08:00
+src/main/core/ConfigManager.js,dicarne,Dr_rOot,2021-06-19 15:51:13+08:00,2021-06-19 15:53:25+08:00
+src/main/core/ProtocolManager.js,Dr_rOot,thecodrr,2019-06-09 23:09:59+08:00,2019-06-09 22:07:09-07:00
+src/main/menus/fr/darwin.json,Gael Patarin,Dr_rOot,2019-02-26 19:18:55+01:00,2019-02-27 20:54:07+08:00
+src/main/menus/fr/darwin.json,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/main/menus/fr/linux.json,Gael Patarin,Dr_rOot,2019-02-26 19:18:55+01:00,2019-02-27 20:54:07+08:00
+src/main/menus/fr/linux.json,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/main/menus/fr/win32.json,Gael Patarin,Dr_rOot,2019-02-26 19:18:55+01:00,2019-02-27 20:54:07+08:00
+src/main/menus/fr/win32.json,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/main/menus/zh-TW/darwin.json,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/main/menus/zh-TW/linux.json,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/main/menus/zh-TW/win32.json,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/renderer/components/Msg/index.js,gaokai,Dr_rOot,2019-02-18 01:05:25+08:00,2019-02-18 22:29:39+08:00
+src/renderer/components/Preference/Advanced.vue,Abdullah mara,Dr_rOot,2019-02-16 21:06:20+03:00,2019-02-17 11:02:29+08:00
+src/renderer/components/Preference/Advanced.vue,Gael Patarin,Dr_rOot,2019-02-26 19:18:55+01:00,2019-02-27 20:54:07+08:00
+src/renderer/components/Preference/Advanced.vue,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/renderer/components/Preference/Advanced.vue,Gael Patarin,Dr_rOot,2019-02-27 19:52:56+01:00,2019-02-28 13:01:03+08:00
+src/renderer/components/Preference/Advanced.vue,thecodrr,Dr_rOot,2019-06-10 00:52:30-07:00,2019-06-10 17:47:51+08:00
+src/renderer/components/Preference/Basic.vue,Dr_rOot,jjandxa,2019-05-26 19:40:13+08:00,2019-05-26 22:13:38+08:00
+src/renderer/components/Preference/Basic.vue,dicarne,Dr_rOot,2021-06-19 15:51:13+08:00,2021-06-19 22:39:01+08:00
+src/renderer/components/Preference/Basic.vue,Sammy,Dr_rOot,2023-04-04 19:37:56+08:00,2023-04-05 15:24:28+08:00
+src/renderer/components/Preference/Lab.vue,Dr_rOot,thecodrr,2019-06-10 11:35:48+08:00,2019-06-09 22:53:21-07:00
+src/renderer/components/Preference/Lab.vue,thecodrr,Dr_rOot,2019-06-09 22:53:21-07:00,2019-06-10 19:02:21+08:00
+src/renderer/components/Task/AddTask.vue,Shatyuka,Dr_rOot,2023-04-04 23:23:32+08:00,2023-04-04 23:29:15+08:00
+src/renderer/components/Task/TaskActions.vue,Dr_rOot,Kieran Mesquita,2019-02-15 23:48:26+08:00,2019-02-16 02:49:04+08:00
+src/renderer/components/Task/TaskItem.vue,Dr_rOot,Kieran Mesquita,2019-02-15 23:48:26+08:00,2019-02-16 02:49:04+08:00
+src/renderer/components/Theme/Default.scss,Svend,Dr_rOot,2019-05-29 14:01:30+08:00,2019-05-29 23:53:58+08:00
+src/renderer/utils/task.js,dicarne,Dr_rOot,2021-06-19 15:51:13+08:00,2021-06-19 22:39:01+08:00
+src/shared/locales/all.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/all.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/all.js,Andre Noberto,Dr_rOot,2019-03-03 18:34:38+08:00,2019-03-03 19:25:53+08:00
+src/shared/locales/all.js,HBKRKZK,Dr_rOot,2019-04-24 21:48:41+08:00,2019-04-24 21:55:39+08:00
+src/shared/locales/all.js,KOZ39,Dr_rOot,2019-04-27 18:31:10+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/all.js,Duy–Thanh Doan,Dmitry Kalinin,2020-05-31 22:52:26+08:00,2020-06-01 17:33:46+08:00
+src/shared/locales/app.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/app.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/app.js,Andre Noberto,Dr_rOot,2019-03-03 18:34:38+08:00,2019-03-03 19:25:53+08:00
+src/shared/locales/app.js,HBKRKZK,Dr_rOot,2019-04-24 21:48:41+08:00,2019-04-24 21:55:39+08:00
+src/shared/locales/app.js,KOZ39,Dr_rOot,2019-04-27 18:31:10+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/app.js,Duy–Thanh Doan,Dmitry Kalinin,2020-05-31 22:52:26+08:00,2020-06-01 17:33:46+08:00
+src/shared/locales/ar/preferences.js,أحمد الطبراني,Dr_rOot,2021-05-05 09:41:03+08:00,2021-05-05 16:26:01+08:00
+src/shared/locales/ar/task.js,أحمد الطبراني,Dr_rOot,2021-05-05 09:41:03+08:00,2021-05-05 11:35:30+08:00
+src/shared/locales/ca/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/de/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/de/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/en-US/preferences.js,Dr_rOot,thecodrr,2019-06-10 11:35:48+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/en-US/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/en-US/task.js,RaymondSalim,Dr_rOot,2023-03-29 10:48:33+08:00,2023-03-29 21:22:45+08:00
+src/shared/locales/es/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/fa/preferences.js,Nima Rasooli,Dr_rOot,2019-04-27 18:30:46+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/fa/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/fa/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/fa/task.js,Nima Rasooli,Dr_rOot,2019-04-27 18:30:46+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/fr/about.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/about.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/app.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/app.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/edit.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/edit.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/help.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/help.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/index.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/index.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/menu.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/menu.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/preferences.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/preferences.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/fr/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/fr/subnav.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/subnav.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/task.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/task.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/fr/window.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/fr/window.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/index.js,Gael Patarin,Dr_rOot,2019-02-26 19:13:28+01:00,2019-02-27 20:54:07+08:00
+src/shared/locales/index.js,Dr_rOot,Gael Patarin,2019-02-27 20:54:07+08:00,2019-02-27 19:52:56+01:00
+src/shared/locales/index.js,Gael Patarin,Dr_rOot,2019-02-27 19:52:56+01:00,2019-02-28 13:01:03+08:00
+src/shared/locales/index.js,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/shared/locales/index.js,Andre Noberto,Dr_rOot,2019-03-03 18:34:38+08:00,2019-03-03 19:25:53+08:00
+src/shared/locales/index.js,HBKRKZK,Dr_rOot,2019-04-24 21:48:41+08:00,2019-04-24 21:55:39+08:00
+src/shared/locales/index.js,KOZ39,Dr_rOot,2019-04-27 18:31:10+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/index.js,Alexander Sharkov,Dr_rOot,2019-06-28 12:47:26+03:00,2019-06-29 00:24:44+08:00
+src/shared/locales/index.js,Duy–Thanh Doan,Dmitry Kalinin,2020-05-31 22:52:26+08:00,2020-06-01 17:33:46+08:00
+src/shared/locales/index.js,Hadi Alqattan,Dr_rOot,2021-05-03 18:35:58+08:00,2021-05-04 15:30:16+08:00
+src/shared/locales/index.js,Dr_rOot,أحمد الطبراني,2021-05-04 15:30:16+08:00,2021-05-05 09:41:03+08:00
+src/shared/locales/index.js,rubjo,Dr_rOot,2021-05-18 17:07:26+08:00,2021-05-18 21:14:34+08:00
+src/shared/locales/ja/preferences.js,HBKRKZK,Dr_rOot,2019-04-24 21:48:41+08:00,2019-04-24 21:55:39+08:00
+src/shared/locales/ja/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/ja/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/ko/preferences.js,KOZ39,Dr_rOot,2019-04-27 18:31:10+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/ko/preferences.js,Dr_rOot,KOZ39,2019-04-27 19:36:02+08:00,2019-04-27 21:54:46+08:00
+src/shared/locales/ko/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/ko/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/ko/task.js,KOZ39,Dr_rOot,2019-04-27 18:31:10+08:00,2019-04-27 19:36:02+08:00
+src/shared/locales/pt-BR/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/pt-BR/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/ru/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/tr/preferences.js,Abdullah mara,Dr_rOot,2019-02-16 21:06:20+03:00,2019-02-17 11:02:29+08:00
+src/shared/locales/tr/preferences.js,Bo Yuan,Dr_rOot,2019-04-01 20:55:30+08:00,2019-04-01 21:11:07+08:00
+src/shared/locales/tr/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/tr/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/uk/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:47:28+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/zh-CN/preferences.js,Dr_rOot,jjandxa,2019-05-26 19:40:13+08:00,2019-05-26 22:13:38+08:00
+src/shared/locales/zh-CN/preferences.js,Dr_rOot,thecodrr,2019-06-10 11:35:48+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/zh-CN/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/zh-CN/preferences.js,dicarne,Dr_rOot,2021-06-19 15:51:13+08:00,2021-06-19 22:39:01+08:00
+src/shared/locales/zh-TW/app.js,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/shared/locales/zh-TW/menu.js,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/shared/locales/zh-TW/preferences.js,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/shared/locales/zh-TW/preferences.js,Dr_rOot,thecodrr,2019-06-09 22:33:52+08:00,2019-06-10 00:22:31-07:00
+src/shared/locales/zh-TW/preferences.js,thecodrr,Dr_rOot,2019-06-10 00:49:33-07:00,2019-06-10 17:47:12+08:00
+src/shared/locales/zh-TW/preferences.js,Dr_rOot,Jiaqi Gu,2020-02-22 15:46:04+08:00,2020-02-23 11:59:19+08:00
+src/shared/locales/zh-TW/subnav.js,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/shared/locales/zh-TW/task.js,Yukai Huang,Dr_rOot,2019-03-01 14:51:04+08:00,2019-03-01 21:27:44+08:00
+src/shared/utils.js,Kieran Mesquita,Dr_rOot,2019-02-17 23:06:43+08:00,2019-02-18 22:54:05+08:00
+src/shared/utils.js,Dr_rOot,Gael Patarin,2019-02-27 21:07:00+08:00,2019-02-27 19:52:56+01:00
+yarn.lock,dependabot[bot],Dr_rOot,2021-05-29 04:12:41+00:00,2021-05-29 18:39:21+08:00

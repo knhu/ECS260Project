@@ -1,0 +1,1596 @@
+file,author1,author2,time1,time2
+.clang-format,Ryan Foster,PatTheMav,2023-08-10 16:07:25-04:00,2023-08-10 17:12:30-04:00
+.editorconfig,田七不甜,tytan652,2023-05-13 16:42:38-07:00,2023-05-13 18:26:17-07:00
+.github/actions/services-validator/action.yaml,derrod,Ryan Foster,2024-01-31 17:21:47-05:00,2024-02-01 00:27:14-05:00
+.github/actions/windows-patches/action.yaml,Ryan Foster,derrod,2024-06-19 10:37:11-04:00,2024-06-19 10:42:11-04:00
+.github/scripts/utils.zsh/setup_linux,PatTheMav,Kurt Kartaltepe,2023-10-09 11:01:18-04:00,2023-10-09 11:53:59-04:00
+.github/workflows/build-project.yaml,tytan652,PatTheMav,2023-09-05 13:14:28-04:00,2023-09-05 18:28:08-04:00
+.github/workflows/build-project.yaml,Georges Basile Stavracas Neto,tytan652,2023-11-09 18:50:17-03:00,2023-11-09 18:50:17-03:00
+.github/workflows/build-project.yaml,PatTheMav,Ryan Foster,2024-01-03 16:31:47+01:00,2024-01-03 15:31:04-05:00
+.github/workflows/crowdin-sync-download.yml,Matt Gajownik,Vainock,2021-12-05 13:00:52+11:00,2021-12-05 22:05:58+11:00
+.github/workflows/crowdin-sync-upload.yml,Matt Gajownik,Vainock,2021-12-05 13:00:52+11:00,2021-12-05 22:05:58+11:00
+.github/workflows/main.yml,PatTheMav,Colin Edwards,2020-09-09 16:00:03+02:00,2020-09-09 21:11:29-05:00
+.github/workflows/main.yml,Colin Edwards,PatTheMav,2020-09-09 21:11:29-05:00,2020-09-10 23:58:46+02:00
+.github/workflows/main.yml,PatTheMav,pkv,2020-10-10 17:27:51-07:00,2020-10-10 17:28:22-07:00
+.github/workflows/main.yml,Clayton Groeneveld,John Boiles,2020-10-30 02:00:14-07:00,2020-10-30 23:36:57-07:00
+.github/workflows/main.yml,Colin Edwards,PatTheMav,2020-11-02 22:46:55-06:00,2020-11-04 11:54:42+11:00
+.github/workflows/main.yml,Colin Edwards,Ryan Foster,2021-01-08 10:26:15-08:00,2021-01-08 15:11:09-05:00
+.github/workflows/main.yml,Ryan Foster,PatTheMav,2021-01-08 15:11:15-05:00,2021-01-08 22:40:51-06:00
+.github/workflows/main.yml,Matt Gajownik,PatTheMav,2021-01-27 11:39:09+11:00,2021-01-27 11:33:53-08:00
+.github/workflows/main.yml,PatTheMav,Matt Gajownik,2022-02-19 15:40:00-08:00,2022-02-21 09:13:11+11:00
+.github/workflows/main.yml,Ryan Foster,Matt Gajownik,2022-07-30 00:14:56-04:00,2022-07-31 09:46:44+10:00
+.github/workflows/main.yml,Matt Gajownik,PatTheMav,2022-07-31 09:46:44+10:00,2022-07-31 12:21:35+02:00
+.github/workflows/main.yml,PatTheMav,Ryan Foster,2022-07-31 12:21:35+02:00,2022-07-31 13:45:57-04:00
+.github/workflows/main.yml,Ryan Foster,cg2121,2022-07-31 13:45:57-04:00,2022-08-01 13:15:51-04:00
+.github/workflows/main.yml,cg2121,Ryan Foster,2022-08-01 13:15:51-04:00,2022-08-01 21:38:56-04:00
+.github/workflows/main.yml,Ryan Foster,derrod,2022-08-01 23:28:41-04:00,2022-08-03 01:35:52+02:00
+.github/workflows/main.yml,tytan652,PatTheMav,2023-03-25 22:02:29-04:00,2023-03-26 18:20:38-04:00
+.github/workflows/main.yml,PatTheMav,tytan652,2023-03-26 20:22:33-04:00,2023-03-26 21:11:08-04:00
+.github/workflows/main.yml,tytan652,Ryan Foster,2023-03-26 21:11:08-04:00,2023-03-26 22:26:26-04:00
+.github/workflows/main.yml,PatTheMav,Ryan Foster,2023-06-29 10:48:15-04:00,2023-06-30 00:45:03+02:00
+.github/workflows/publish.yaml,Georges Basile Stavracas Neto,tytan652,2023-11-09 18:50:17-03:00,2023-11-09 18:50:17-03:00
+.github/workflows/push.yaml,derrod,Ryan Foster,2024-01-29 20:10:28-05:00,2024-01-29 22:36:53-05:00
+.github/workflows/push.yaml,Ryan Foster,derrod,2024-01-31 14:04:11-05:00,2024-02-01 03:22:09-05:00
+.github/workflows/push.yaml,derrod,Ryan Foster,2024-02-08 13:38:04-05:00,2024-02-08 14:23:15-05:00
+.github/workflows/push.yaml,derrod,Ryan Foster,2024-05-02 16:40:09-04:00,2024-05-02 17:24:16-04:00
+.github/workflows/services-json.yml,Matt Gajownik,derrod,2022-05-20 20:25:19+10:00,2022-05-20 08:55:56-04:00
+.gitignore,jp9000,BtbN,2014-01-23 11:53:55-07:00,2014-01-24 18:56:32+01:00
+.gitignore,BtbN,jp9000,2014-07-19 01:38:41+02:00,2014-07-18 23:19:05-07:00
+.travis.yml,juvester,Gol-D-Ace,2017-02-25 22:28:29+02:00,2017-02-26 21:23:22+01:00
+.travis.yml,Gol-D-Ace,Colin Edwards,2017-02-27 12:00:56+01:00,2017-02-27 19:03:43-06:00
+.travis.yml,juvester,jp9000,2017-12-01 01:48:13+02:00,2017-12-01 11:07:21-08:00
+CI/before-deploy-osx.sh,Colin Edwards,Gol-D-Ace,2017-02-26 16:27:29-06:00,2017-02-27 01:21:20+01:00
+CI/before-deploy-osx.sh,Gol-D-Ace,Colin Edwards,2017-02-27 01:21:20+01:00,2017-02-26 19:17:52-06:00
+CI/before-script-osx.sh,Gol-D-Ace,Colin Edwards,2017-03-01 19:05:08+01:00,2017-03-01 12:22:41-06:00
+CI/check-format.sh,Matt Gajownik,Ryan Foster,2022-07-26 22:12:23-04:00,2022-07-26 22:36:13-04:00
+CI/flatpak/com.obsproject.Studio.json,Matt Gajownik,columbarius,2021-12-22 09:44:00+11:00,2021-12-22 14:27:53-03:00
+CI/flatpak/com.obsproject.Studio.json,columbarius,tytan652,2021-12-22 14:27:53-03:00,2021-12-22 15:10:15-03:00
+CI/flatpak/com.obsproject.Studio.json,Luke Yelavich,tytan652,2022-01-26 12:27:05-03:00,2022-01-26 13:42:29-03:00
+CI/flatpak/com.obsproject.Studio.json,Matt Gajownik,tytan652,2022-07-31 09:46:44+10:00,2022-07-31 08:37:45-03:00
+CI/full-build-macos.sh,Theodore Dubois,PatTheMav,2020-12-17 23:58:21-08:00,2020-12-18 17:44:03+01:00
+CI/full-build-macos.sh,PatTheMav,Colin Edwards,2021-01-08 22:40:51-06:00,2021-01-08 23:00:17-06:00
+CI/install-dependencies-linux.sh,jp9000,Clayton Groeneveld,2019-03-05 16:00:09-08:00,2019-03-05 19:54:12-06:00
+CI/install-dependencies-osx.sh,juvester,Colin Edwards,2017-02-01 23:50:24+02:00,2017-02-01 18:11:49-06:00
+CI/install-dependencies-osx.sh,Gol-D-Ace,Colin Edwards,2017-03-06 03:15:17+01:00,2017-03-05 20:45:19-06:00
+CI/install-dependencies-osx.sh,PatTheMav,Colin Edwards,2020-06-25 00:42:21+02:00,2020-06-25 15:21:58-07:00
+CI/linux/01_install_dependencies.sh,Kurt Kartaltepe,tytan652,2023-07-14 12:19:33-04:00,2023-07-14 15:32:04-04:00
+CI/linux/03_package_obs.sh,cg2121,Ryan Foster,2022-08-01 13:15:51-04:00,2022-08-01 21:38:56-04:00
+CI/macos/01_install_dependencies.sh,CarrotCodes,Ryan Foster,2022-07-31 09:48:57+10:00,2022-07-31 13:45:57-04:00
+CI/macos/03_package_obs.sh,cg2121,Ryan Foster,2022-08-01 13:15:51-04:00,2022-08-01 21:38:56-04:00
+CI/scripts/macos/Brewfile,Colin Edwards,PatTheMav,2020-09-09 21:11:29-05:00,2020-09-10 23:58:46+02:00
+CI/windows/03_package_obs.ps1,cg2121,Ryan Foster,2022-08-01 13:15:51-04:00,2022-08-01 21:38:56-04:00
+CMakeLists.txt,BtbN,Palana,2014-01-24 18:56:32+01:00,2014-01-24 23:22:34+01:00
+CMakeLists.txt,Palana,BtbN,2014-01-24 23:22:34+01:00,2014-01-25 19:13:33+01:00
+CMakeLists.txt,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:22-07:00
+CMakeLists.txt,martell,jp9000,2015-02-08 06:41:08-08:00,2015-02-09 03:48:25-08:00
+CMakeLists.txt,Matt Gajownik,jpark37,2019-10-15 21:34:12+11:00,2019-10-15 21:08:45-07:00
+CMakeLists.txt,jpark37,jp9000,2020-02-22 21:02:33-08:00,2020-02-22 21:02:33-08:00
+CMakePresets.json,PatTheMav,derrod,2024-08-22 15:39:00-04:00,2024-08-23 13:44:04-04:00
+CMakePresets.json,PatTheMav,Ryan Foster,2024-09-13 14:42:32-04:00,2024-09-13 19:08:22-04:00
+INSTALL,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 23:19:06-07:00
+README.rst,gxalpha,田七不甜,2023-07-18 01:46:44+02:00,2023-07-18 11:38:17-04:00
+UI/CMakeLists.txt,jp9000,Clayton Groeneveld,2019-03-05 14:39:24-08:00,2019-03-05 19:54:12-06:00
+UI/CMakeLists.txt,akapar,Colin Edwards,2019-04-13 12:09:11-04:00,2019-04-13 14:07:17-05:00
+UI/CMakeLists.txt,Colin Edwards,Peter Eszlari,2019-04-13 14:07:17-05:00,2019-04-14 05:10:10-07:00
+UI/CMakeLists.txt,jp9000,Clayton Groeneveld,2019-04-21 04:10:46-07:00,2019-04-22 01:50:03-07:00
+UI/CMakeLists.txt,jpark37,jp9000,2022-07-18 03:52:04-07:00,2022-07-18 14:52:26-07:00
+UI/CMakeLists.txt,PatTheMav,tytan652,2022-07-26 14:20:34+02:00,2022-07-26 17:34:26+02:00
+UI/CMakeLists.txt,gxalpha,Chip Bradford,2022-07-31 18:14:41+02:00,2022-07-31 15:39:18-07:00
+UI/CMakeLists.txt,Ruwen Hahn,tytan652,2024-06-04 20:50:46-04:00,2024-06-05 18:16:45-04:00
+UI/adv-audio-control.cpp,Clayton Groeneveld,jp9000,2019-12-23 14:57:32-08:00,2019-12-23 16:13:13-08:00
+UI/adv-audio-control.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/api-interface.cpp,tt2468,SCG82,2021-07-09 17:39:40+12:00,2021-07-09 19:32:18+12:00
+UI/api-interface.cpp,cg2121,Jim,2022-10-30 19:53:11-07:00,2022-10-30 20:35:36-07:00
+UI/auth-listener.cpp,Richard Stanway,derrod,2021-09-15 06:16:29-07:00,2021-09-16 15:03:28+02:00
+UI/auth-twitch.cpp,jp9000,Alex Anderson,2019-03-05 14:39:24-08:00,2019-03-06 14:28:49-08:00
+UI/auth-twitch.cpp,Alex Anderson,jp9000,2019-03-06 14:28:49-08:00,2019-03-06 19:13:12-08:00
+UI/auth-twitch.cpp,jp9000,derrod,2019-11-19 20:46:44-08:00,2019-11-19 21:06:36-08:00
+UI/auth-youtube.cpp,Richard Stanway,derrod,2021-09-15 06:16:29-07:00,2021-09-16 14:56:46+02:00
+UI/auth-youtube.cpp,derrod,jp9000,2021-09-16 14:56:46+02:00,2021-09-17 02:59:21-07:00
+UI/auth-youtube.cpp,Suman Manjunath,Ryan Foster,2024-10-04 16:14:38-04:00,2024-10-04 18:19:27-04:00
+UI/auth-youtube.hpp,Suman Manjunath,Ryan Foster,2024-10-04 16:14:38-04:00,2024-10-04 18:19:27-04:00
+UI/cmake/feature-sparkle.cmake,derrod,gxalpha,2023-04-07 20:59:30+02:00,2023-04-08 05:44:08+02:00
+UI/cmake/legacy.cmake,PatTheMav,Jim,2023-03-26 18:20:38-04:00,2023-03-27 00:10:48-07:00
+UI/cmake/legacy.cmake,gxalpha,cg2121,2023-07-19 11:56:54-04:00,2023-07-19 17:53:57-07:00
+UI/cmake/legacy.cmake,tytan652,derrod,2024-04-21 00:01:16-04:00,2024-04-21 00:01:16-04:00
+UI/cmake/legacy.cmake,Ruwen Hahn,tytan652,2024-06-04 20:50:46-04:00,2024-06-05 17:39:54-04:00
+UI/cmake/os-freebsd.cmake,PatTheMav,Norihiro Kamae,2023-03-26 18:20:38-04:00,2023-03-27 15:30:05+02:00
+UI/cmake/os-linux.cmake,PatTheMav,Norihiro Kamae,2023-03-26 18:20:38-04:00,2023-03-27 15:30:05+02:00
+UI/cmake/os-linux.cmake,Ruwen Hahn,tytan652,2024-06-04 20:50:46-04:00,2024-06-05 18:33:47-04:00
+UI/cmake/ui-elements.cmake,cg2121,PatTheMav,2023-12-18 21:22:39-06:00,2023-12-19 17:59:44-05:00
+UI/context-bar-controls.cpp,jp9000,Matt Gajownik,2020-09-03 05:49:58-07:00,2020-09-03 23:09:45+10:00
+UI/context-bar-controls.cpp,derrod,gxalpha,2023-07-15 16:14:55-07:00,2023-07-15 16:20:04-07:00
+UI/data/locale/en-US.ini,Ryan Foster,cg2121,2016-12-18 17:21:58-08:00,2016-12-19 04:44:57-08:00
+UI/data/locale/en-US.ini,cg2121,dennis,2017-01-29 06:02:15-08:00,2017-01-29 19:09:23-08:00
+UI/data/locale/en-US.ini,dennis,jp9000,2017-01-29 19:09:23-08:00,2017-01-30 18:39:53-08:00
+UI/data/locale/en-US.ini,Gol-D-Ace,jp9000,2017-02-06 01:39:44+01:00,2017-02-06 11:44:04-08:00
+UI/data/locale/en-US.ini,derrod,cg2121,2017-02-25 18:25:45+01:00,2017-02-25 13:28:16-06:00
+UI/data/locale/en-US.ini,Richard Stanway,jp9000,2017-07-26 23:45:40+02:00,2017-07-27 12:17:18-07:00
+UI/data/locale/en-US.ini,pkviet,cg2121,2017-11-26 03:41:53-08:00,2017-11-26 19:05:50-08:00
+UI/data/locale/en-US.ini,cg2121,Ryan Foster,2017-11-26 19:05:50-08:00,2017-11-27 00:28:03-08:00
+UI/data/locale/en-US.ini,Joel Bethke,Shaolin,2018-01-05 15:20:39-06:00,2018-01-05 19:26:30-02:00
+UI/data/locale/en-US.ini,VodBox,jp9000,2018-08-02 08:23:12+12:00,2018-08-01 18:41:57-07:00
+UI/data/locale/en-US.ini,jp9000,VodBox,2019-02-07 16:28:19-08:00,2019-02-08 20:38:53+13:00
+UI/data/locale/en-US.ini,SuslikV,jp9000,2019-02-11 18:48:36+02:00,2019-02-11 16:58:45-08:00
+UI/data/locale/en-US.ini,Vainock,jp9000,2019-02-14 20:55:08+01:00,2019-02-14 23:12:55-08:00
+UI/data/locale/en-US.ini,Gol-D-Ace,pkv,2019-02-25 00:28:08+01:00,2019-02-25 23:06:10+01:00
+UI/data/locale/en-US.ini,derrod,Clayton Groenveld,2019-03-02 23:28:50-06:00,2019-03-03 22:38:23-06:00
+UI/data/locale/en-US.ini,jp9000,Clayton Groeneveld,2019-03-05 14:39:24-08:00,2019-03-05 15:33:03-08:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,Alex Anderson,2019-03-05 15:33:03-08:00,2019-03-06 14:28:49-08:00
+UI/data/locale/en-US.ini,Alex Anderson,James Park,2019-03-06 14:28:49-08:00,2019-03-06 20:53:15-08:00
+UI/data/locale/en-US.ini,derrod,Clayton Groeneveld,2019-03-09 02:54:41+01:00,2019-03-09 03:25:01-06:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,derrod,2019-03-09 03:25:01-06:00,2019-03-10 08:37:29+01:00
+UI/data/locale/en-US.ini,Matt Gajownik,Clayton Groeneveld,2019-03-31 17:37:36+11:00,2019-03-31 05:10:02-05:00
+UI/data/locale/en-US.ini,Gol-D-Ace,Clayton Groeneveld,2019-04-08 16:02:32+02:00,2019-04-08 19:56:56-05:00
+UI/data/locale/en-US.ini,SoftArch,Clayton Groeneveld,2019-07-21 22:16:07-07:00,2019-07-21 22:31:10-07:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,Grant Likely,2019-07-21 22:31:10-07:00,2019-07-21 22:57:31-07:00
+UI/data/locale/en-US.ini,Grant Likely,Jonathan Baecker,2019-07-21 22:57:31-07:00,2019-07-22 01:20:12-07:00
+UI/data/locale/en-US.ini,Matt Gajownik,jpark37,2019-08-15 08:25:35+10:00,2019-08-14 22:33:52-07:00
+UI/data/locale/en-US.ini,jpark37,jp9000,2019-08-15 21:38:55-07:00,2019-08-16 05:07:09-07:00
+UI/data/locale/en-US.ini,jp9000,Vainock,2019-08-18 03:16:37-07:00,2019-08-19 06:13:51+02:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,Exeldro,2019-10-21 23:48:58-05:00,2019-10-22 02:50:13-07:00
+UI/data/locale/en-US.ini,derrod,Clayton Groeneveld,2019-11-19 21:06:36-08:00,2019-11-19 21:27:37-08:00
+UI/data/locale/en-US.ini,VodBox,Clayton Groeneveld,2020-02-16 17:56:06+13:00,2020-02-16 16:12:00-06:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,Matt Gajownik,2020-07-10 19:10:54-07:00,2020-07-10 20:12:59-07:00
+UI/data/locale/en-US.ini,Matt Gajownik,jp9000,2020-07-10 20:12:59-07:00,2020-07-11 06:05:35-07:00
+UI/data/locale/en-US.ini,Robert de Bock,jp9000,2021-03-01 15:03:33-08:00,2021-03-01 18:28:43-08:00
+UI/data/locale/en-US.ini,Warchamp7,derrod,2021-08-17 05:54:29-07:00,2021-08-17 18:35:55+02:00
+UI/data/locale/en-US.ini,derrod,gxalpha,2021-08-17 19:12:27+02:00,2021-08-17 13:59:04-07:00
+UI/data/locale/en-US.ini,Bob van de Vijver,Mike,2021-10-07 09:07:06-07:00,2021-10-07 11:49:21-07:00
+UI/data/locale/en-US.ini,Matt Gajownik,jpark37,2022-04-10 11:52:11+10:00,2022-04-10 00:13:52-07:00
+UI/data/locale/en-US.ini,gxalpha,tytan652,2022-06-25 16:30:27-07:00,2022-06-25 17:11:29-07:00
+UI/data/locale/en-US.ini,tytan652,Clayton Groeneveld,2022-06-25 17:11:29-07:00,2022-06-25 21:24:35-04:00
+UI/data/locale/en-US.ini,gxalpha,cg2121,2022-07-11 23:45:43+02:00,2022-07-11 18:17:04-04:00
+UI/data/locale/en-US.ini,cg2121,mvji,2022-07-11 18:17:04-04:00,2022-07-12 23:37:01+10:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,derrod,2022-07-26 23:28:05+10:00,2022-07-27 00:34:04+10:00
+UI/data/locale/en-US.ini,derrod,jp9000,2022-07-27 00:34:04+10:00,2022-07-26 09:23:35-07:00
+UI/data/locale/en-US.ini,VodBox,Warchamp7,2022-07-27 21:37:30-04:00,2022-07-28 12:19:20-04:00
+UI/data/locale/en-US.ini,Warchamp7,jp9000,2022-07-28 12:19:20-04:00,2022-07-28 16:36:01-07:00
+UI/data/locale/en-US.ini,gxalpha,Clayton Groeneveld,2022-07-30 15:21:08+02:00,2022-07-30 19:41:18-07:00
+UI/data/locale/en-US.ini,Clayton Groeneveld,cg2121,2022-07-30 19:41:18-07:00,2022-07-31 20:22:02+10:00
+UI/data/locale/en-US.ini,cg2121,gxalpha,2022-07-31 20:22:02+10:00,2022-07-31 18:14:41+02:00
+UI/data/locale/en-US.ini,gxalpha,Chip Bradford,2022-07-31 18:14:41+02:00,2022-07-31 15:39:18-07:00
+UI/data/locale/en-US.ini,PatTheMav,gxalpha,2022-11-02 22:44:20+01:00,2022-11-02 22:44:20+01:00
+UI/data/locale/en-US.ini,derrod,Richard Stanway,2022-11-08 05:38:37-08:00,2022-11-08 20:44:47-08:00
+UI/data/locale/en-US.ini,pkv,Roman Huts,2022-11-17 21:56:38-05:00,2022-11-18 18:18:08-08:00
+UI/data/locale/en-US.ini,Roman Huts,jpark37,2022-11-18 18:18:08-08:00,2022-11-19 15:20:03-08:00
+UI/data/locale/en-US.ini,jpark37,cg2121,2022-11-19 15:20:03-08:00,2022-11-20 11:07:22+11:00
+UI/data/locale/en-US.ini,derrod,Jim,2022-11-22 02:54:07+01:00,2022-11-21 19:08:02-08:00
+UI/data/locale/en-US.ini,derrod,gxalpha,2023-02-20 23:46:01+01:00,2023-02-20 23:46:59+01:00
+UI/data/locale/en-US.ini,gxalpha,jpark37,2023-02-20 23:46:59+01:00,2023-02-21 18:48:44+01:00
+UI/data/locale/en-US.ini,derrod,tytan652,2023-03-18 15:21:52-07:00,2023-03-19 17:16:13+01:00
+UI/data/locale/en-US.ini,Norihiro Kamae,tytan652,2023-03-23 23:00:47+11:00,2023-03-24 09:14:09+01:00
+UI/data/locale/en-US.ini,derrod,pkv,2023-03-25 16:12:36-07:00,2023-03-25 20:54:07-04:00
+UI/data/locale/en-US.ini,pkv,derrod,2023-03-25 20:54:07-04:00,2023-03-25 18:57:01-07:00
+UI/data/locale/en-US.ini,derrod,Yuriy Chumak,2023-03-25 18:57:01-07:00,2023-03-26 16:37:31+02:00
+UI/data/locale/en-US.ini,Yuriy Chumak,Norihiro Kamae,2023-03-26 16:37:31+02:00,2023-03-26 13:52:45-04:00
+UI/data/locale/en-US.ini,Norihiro Kamae,Vainock,2023-03-26 13:52:45-04:00,2023-03-26 14:19:30-07:00
+UI/data/locale/en-US.ini,田七不甜,derrod,2023-05-06 16:21:56-07:00,2023-05-07 11:03:53-07:00
+UI/data/locale/en-US.ini,PatTheMav,田七不甜,2023-05-18 14:41:08-04:00,2023-05-18 16:13:59-04:00
+UI/data/locale/en-US.ini,Norihiro Kamae,cg2121,2023-05-20 16:27:28-07:00,2023-05-20 17:06:18-07:00
+UI/data/locale/en-US.ini,cg2121,Igor Bochkariov,2023-06-03 16:03:37-07:00,2023-06-04 09:39:47+10:00
+UI/data/locale/en-US.ini,Vainock,Ruwen Hahn,2024-06-26 15:01:01-04:00,2024-06-26 16:10:15-04:00
+UI/data/themes/Acri.qss,Clayton Groeneveld,jp9000,2019-12-27 16:41:28-08:00,2019-12-27 17:28:14-08:00
+UI/data/themes/Acri.qss,Warchamp7,Matt Gajownik,2021-08-23 06:16:38-07:00,2021-08-23 17:14:22-07:00
+UI/data/themes/Acri.qss,derrod,Warchamp7,2021-09-15 07:49:39+02:00,2021-09-15 19:22:48+10:00
+UI/data/themes/Acri.qss,Warchamp7,cg2121,2022-07-31 20:20:15+10:00,2022-07-31 20:22:02+10:00
+UI/data/themes/Acri.qss,Georges Basile Stavracas Neto,shiina424,2022-08-02 09:27:00-03:00,2022-08-02 09:46:36-07:00
+UI/data/themes/Acri.qss,Warchamp7,tytan652,2022-08-15 18:01:36-03:00,2022-08-15 19:07:19-03:00
+UI/data/themes/Acri.qss,cg2121,Georges Basile Stavracas Neto,2022-08-24 05:15:44-07:00,2022-08-24 05:47:04-07:00
+UI/data/themes/Acri.qss,Clayton Groeneveld,cg2121,2022-08-29 18:14:37-03:00,2022-08-30 13:26:20-04:00
+UI/data/themes/Acri.qss,cg2121,田七不甜,2022-08-30 13:26:20-04:00,2022-08-30 23:00:23-04:00
+UI/data/themes/Acri.qss,Norihiro Kamae,cg2121,2022-10-01 16:18:26-07:00,2022-10-02 10:31:26+11:00
+UI/data/themes/Acri/bot_hook.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/bot_hook2.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/checkbox_checked.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/checkbox_checked_disabled.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/checkbox_checked_focus.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/checkbox_unchecked.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/checkbox_unchecked_disabled.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/checkbox_unchecked_focus.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/cogwheel.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/down_arrow.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/minus.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/mute.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/plus.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/radio_checked.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/radio_checked_disabled.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/radio_checked_focus.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/radio_unchecked.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/radio_unchecked_disabled.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/radio_unchecked_focus.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/sizegrip.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/top_hook.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/unmute.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/up_arrow.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Acri/updown.png,Warchamp7,Richard Stanway,2018-01-18 01:45:49-08:00,2018-01-19 08:24:09+00:00
+UI/data/themes/Dark.qss,Matt Gajownik,cg2121,2018-09-10 19:03:14+10:00,2018-09-10 04:55:15-05:00
+UI/data/themes/Dark.qss,Clayton Groeneveld,jp9000,2019-12-27 16:41:28-08:00,2019-12-27 17:28:14-08:00
+UI/data/themes/Dark.qss,Warchamp7,Matt Gajownik,2021-08-23 06:16:38-07:00,2021-08-23 17:14:22-07:00
+UI/data/themes/Dark.qss,derrod,Warchamp7,2021-09-15 07:49:39+02:00,2021-09-15 19:22:48+10:00
+UI/data/themes/Dark.qss,Warchamp7,Matt Gajownik,2021-09-15 19:22:48+10:00,2021-09-16 19:00:45+10:00
+UI/data/themes/Dark.qss,Warchamp7,cg2121,2022-07-31 20:20:15+10:00,2022-07-31 20:22:02+10:00
+UI/data/themes/Grey.qss,Warchamp7,tytan652,2022-08-15 18:01:36-03:00,2022-08-15 19:07:19-03:00
+UI/data/themes/Grey.qss,cg2121,Georges Basile Stavracas Neto,2022-08-24 05:15:44-07:00,2022-08-24 05:47:04-07:00
+UI/data/themes/Grey.qss,Clayton Groeneveld,cg2121,2022-08-29 18:14:37-03:00,2022-08-30 13:26:20-04:00
+UI/data/themes/Grey.qss,cg2121,田七不甜,2022-08-30 13:26:20-04:00,2022-08-30 23:00:23-04:00
+UI/data/themes/Grey.qss,Norihiro Kamae,cg2121,2022-10-01 16:18:26-07:00,2022-10-02 10:31:26+11:00
+UI/data/themes/Light.qss,Warchamp7,tytan652,2022-08-15 18:01:36-03:00,2022-08-15 19:07:19-03:00
+UI/data/themes/Light.qss,cg2121,Georges Basile Stavracas Neto,2022-08-24 05:15:44-07:00,2022-08-24 05:47:04-07:00
+UI/data/themes/Light.qss,Clayton Groeneveld,cg2121,2022-08-29 18:14:37-03:00,2022-08-30 13:26:20-04:00
+UI/data/themes/Light.qss,cg2121,田七不甜,2022-08-30 13:26:20-04:00,2022-08-30 23:00:23-04:00
+UI/data/themes/Light.qss,Norihiro Kamae,cg2121,2022-10-01 16:18:26-07:00,2022-10-02 10:31:26+11:00
+UI/data/themes/Rachni.qss,Clayton Groeneveld,jp9000,2019-12-27 16:41:28-08:00,2019-12-27 17:28:14-08:00
+UI/data/themes/Rachni.qss,Warchamp7,Matt Gajownik,2021-08-23 06:16:38-07:00,2021-08-23 17:14:22-07:00
+UI/data/themes/Rachni.qss,Warchamp7,cg2121,2022-07-31 20:20:15+10:00,2022-07-31 20:22:02+10:00
+UI/data/themes/Rachni.qss,Georges Basile Stavracas Neto,shiina424,2022-08-02 09:27:00-03:00,2022-08-02 09:46:20-07:00
+UI/data/themes/Rachni.qss,Warchamp7,tytan652,2022-08-15 18:01:36-03:00,2022-08-15 19:07:19-03:00
+UI/data/themes/Rachni.qss,cg2121,Georges Basile Stavracas Neto,2022-08-24 05:15:44-07:00,2022-08-24 05:47:04-07:00
+UI/data/themes/Rachni.qss,Clayton Groeneveld,cg2121,2022-08-29 18:14:37-03:00,2022-08-30 13:26:20-04:00
+UI/data/themes/Rachni.qss,cg2121,田七不甜,2022-08-30 13:26:20-04:00,2022-08-30 23:00:23-04:00
+UI/data/themes/Rachni.qss,Norihiro Kamae,cg2121,2022-10-01 16:18:26-07:00,2022-10-02 10:31:26+11:00
+UI/data/themes/System.qss,Clayton Groeneveld,jp9000,2019-12-27 16:41:28-08:00,2019-12-27 17:28:14-08:00
+UI/data/themes/System.qss,shiina424,gxalpha,2022-08-15 17:54:04-03:00,2022-08-15 18:04:14-03:00
+UI/data/themes/Yami.obt,Ruwen Hahn,tytan652,2024-06-04 20:50:46-04:00,2024-06-05 17:39:54-04:00
+UI/data/themes/Yami.qss,jpark37,Warchamp7,2022-07-25 16:35:24-04:00,2022-07-25 14:25:08-07:00
+UI/data/themes/Yami.qss,Warchamp7,gxalpha,2022-07-25 14:25:08-07:00,2022-07-27 00:36:13+10:00
+UI/data/themes/Yami.qss,gxalpha,Matt Gajownik,2022-07-30 17:13:52+10:00,2022-07-30 18:48:19+10:00
+UI/data/themes/Yami.qss,Warchamp7,cg2121,2022-07-31 20:20:15+10:00,2022-07-31 20:22:02+10:00
+UI/data/themes/Yami.qss,cg2121,gxalpha,2022-07-31 20:22:02+10:00,2022-07-31 20:23:19+10:00
+UI/data/themes/Yami.qss,gxalpha,Matt Gajownik,2022-07-31 20:23:19+10:00,2022-07-31 20:45:52+10:00
+UI/data/themes/Yami.qss,tytan652,cg2121,2022-08-13 01:07:29-07:00,2022-08-13 16:02:00-07:00
+UI/data/themes/Yami.qss,cg2121,Georges Basile Stavracas Neto,2022-08-24 05:15:44-07:00,2022-08-24 05:47:04-07:00
+UI/data/themes/Yami.qss,Clayton Groeneveld,cg2121,2022-08-29 18:14:37-03:00,2022-08-30 13:26:20-04:00
+UI/data/themes/Yami.qss,cg2121,田七不甜,2022-08-30 13:26:20-04:00,2022-08-30 23:00:23-04:00
+UI/data/themes/Yami.qss,Norihiro Kamae,cg2121,2022-10-01 16:18:26-07:00,2022-10-02 10:31:26+11:00
+UI/forms/OBSBasic.ui,Ryan Foster,cg2121,2016-12-18 17:21:58-08:00,2016-12-19 04:44:57-08:00
+UI/forms/OBSBasic.ui,Alex Anderson,jp9000,2018-08-28 14:40:31-07:00,2018-08-29 10:04:03-07:00
+UI/forms/OBSBasic.ui,Warchamp7,gxalpha,2021-08-17 04:11:36-07:00,2021-08-17 13:59:04-07:00
+UI/forms/OBSBasic.ui,gxalpha,Clayton Groeneveld,2021-08-17 13:59:04-07:00,2021-08-17 18:26:11-07:00
+UI/forms/OBSBasic.ui,Warchamp7,Clayton Groeneveld,2021-08-25 11:40:43-07:00,2021-08-25 19:54:52-07:00
+UI/forms/OBSBasic.ui,gxalpha,Matt Gajownik,2021-11-24 13:40:29-08:00,2021-11-25 20:09:46+11:00
+UI/forms/OBSBasic.ui,Matt Gajownik,Warchamp7,2021-11-25 20:09:46+11:00,2021-11-25 11:30:55-08:00
+UI/forms/OBSBasic.ui,Clayton Groeneveld,derrod,2022-07-26 23:28:05+10:00,2022-07-27 00:34:04+10:00
+UI/forms/OBSBasic.ui,Warchamp7,cg2121,2022-07-31 20:20:15+10:00,2022-07-31 20:22:02+10:00
+UI/forms/OBSBasic.ui,cg2121,gxalpha,2022-07-31 20:22:02+10:00,2022-07-31 18:14:41+02:00
+UI/forms/OBSBasic.ui,Lain,cg2121,2023-05-20 01:31:18-07:00,2023-05-20 17:06:18-07:00
+UI/forms/OBSBasic.ui.autosave,Warchamp7,gxalpha,2022-07-02 16:52:39-07:00,2022-07-03 01:55:31+02:00
+UI/forms/OBSBasicControls.ui,tytan652,Warchamp7,2024-06-05 17:39:54-04:00,2024-06-05 17:39:54-04:00
+UI/forms/OBSBasicFilters.ui,Matt Gajownik,cg2121,2022-08-30 18:36:04+10:00,2022-08-30 13:26:20-04:00
+UI/forms/OBSBasicSettings.ui,cg2121,dennis,2017-01-29 06:02:15-08:00,2017-01-29 19:09:23-08:00
+UI/forms/OBSBasicSettings.ui,derrod,jp9000,2017-02-25 06:21:24-08:00,2017-02-25 06:21:25-08:00
+UI/forms/OBSBasicSettings.ui,jp9000,derrod,2017-02-25 06:35:11-08:00,2017-02-25 09:08:01-08:00
+UI/forms/OBSBasicSettings.ui,pkviet,cg2121,2017-11-26 03:41:53-08:00,2017-11-26 19:05:50-08:00
+UI/forms/OBSBasicSettings.ui,pkviet,Shaolin,2018-01-05 09:48:52-08:00,2018-01-05 19:26:30-02:00
+UI/forms/OBSBasicSettings.ui,jp9000,SuslikV,2018-08-16 13:15:43-07:00,2018-08-17 08:17:38+02:00
+UI/forms/OBSBasicSettings.ui,jp9000,VodBox,2019-02-07 14:47:16-08:00,2019-02-08 20:38:53+13:00
+UI/forms/OBSBasicSettings.ui,Grant Likely,Jonathan Baecker,2019-07-21 22:57:31-07:00,2019-07-22 01:20:12-07:00
+UI/forms/OBSBasicSettings.ui,Matt Gajownik,jp9000,2020-07-10 20:12:59-07:00,2020-07-11 06:05:35-07:00
+UI/forms/OBSBasicSettings.ui,jp9000,Clayton Groeneveld,2021-08-20 06:24:00-07:00,2021-08-20 15:20:59-07:00
+UI/forms/OBSBasicSettings.ui,gxalpha,tytan652,2022-06-25 16:30:27-07:00,2022-06-25 17:11:29-07:00
+UI/forms/OBSBasicSettings.ui,gxalpha,mvji,2022-07-11 23:45:43+02:00,2022-07-12 23:37:01+10:00
+UI/forms/OBSBasicSettings.ui,VodBox,Warchamp7,2022-07-27 21:37:30-04:00,2022-07-28 12:19:20-04:00
+UI/forms/OBSBasicSettings.ui,Warchamp7,Ryan Foster,2022-07-28 12:19:20-04:00,2022-07-28 15:38:22-04:00
+UI/forms/OBSBasicSettings.ui,gxalpha,Clayton Groeneveld,2022-07-30 15:21:08+02:00,2022-07-30 19:41:18-07:00
+UI/forms/OBSBasicSettings.ui,Norihiro Kamae,cg2121,2022-08-06 16:06:17-07:00,2022-08-06 16:26:26-07:00
+UI/forms/OBSBasicSettings.ui,cg2121,Matt Gajownik,2022-08-29 17:44:14-03:00,2022-08-30 18:36:04+10:00
+UI/forms/OBSBasicSettings.ui,Matt Gajownik,gxalpha,2022-08-30 18:36:04+10:00,2022-08-30 22:41:29-04:00
+UI/forms/OBSBasicSettings.ui,pkv,derrod,2023-03-25 20:54:07-04:00,2023-03-25 18:57:01-07:00
+UI/forms/OBSMissingFiles.ui,Matt Gajownik,cg2121,2022-08-30 18:36:04+10:00,2022-08-30 21:00:20-04:00
+UI/forms/OBSYoutubeActions.ui,derrod,jp9000,2021-09-15 07:49:39+02:00,2021-09-15 06:32:28-07:00
+UI/forms/images/locked_mask.png,cg2121,jp9000,2017-06-27 10:27:57-07:00,2017-06-28 09:20:52-07:00
+UI/forms/images/unlocked_mask.png,cg2121,jp9000,2017-06-27 10:27:57-07:00,2017-06-28 09:20:52-07:00
+UI/forms/obs.qrc,cg2121,gxalpha,2022-07-31 20:22:02+10:00,2022-07-31 20:23:19+10:00
+UI/frontend-plugins/decklink-output-ui/DecklinkOutputUI.cpp,Colin Edwards,Richard Stanway,2019-02-11 19:33:41-06:00,2019-02-12 12:58:28+01:00
+UI/frontend-plugins/frontend-tools/CMakeLists.txt,Colin Edwards,Ryan Foster,2017-12-02 22:40:10-06:00,2017-12-03 19:10:34-05:00
+UI/frontend-plugins/frontend-tools/data/scripts/clock-source.lua,Colin Edwards,jp9000,2018-01-19 08:27:55-08:00,2018-01-19 11:28:44-08:00
+UI/frontend-plugins/frontend-tools/data/scripts/instant-replay.lua,Exeldro,jp9000,2018-09-15 12:04:25-07:00,2018-09-15 12:05:45-07:00
+UI/frontend-plugins/frontend-tools/forms/scripts.ui,Matt Gajownik,cg2121,2022-08-30 18:36:04+10:00,2022-08-30 13:26:20-04:00
+UI/frontend-plugins/frontend-tools/output-timer.cpp,cg2121,Christoph Hohmann,2016-10-17 02:47:29-07:00,2016-10-17 17:28:05+02:00
+UI/frontend-plugins/frontend-tools/output-timer.cpp,Christoph Hohmann,cg2121,2016-10-17 17:28:05+02:00,2016-10-17 22:20:24-05:00
+UI/frontend-plugins/frontend-tools/output-timer.hpp,cg2121,Christoph Hohmann,2016-10-17 02:47:29-07:00,2016-10-17 17:28:05+02:00
+UI/frontend-plugins/frontend-tools/output-timer.hpp,Christoph Hohmann,cg2121,2016-10-17 17:28:05+02:00,2016-10-17 22:20:24-05:00
+UI/frontend-plugins/frontend-tools/scripts.cpp,Clayton Groeneveld,Matt Gajownik,2020-07-18 09:49:24-07:00,2020-07-18 11:14:26-07:00
+UI/goliveapi-postdata.cpp,Andrew Francis,Ruwen Hahn,2024-06-14 13:12:19-04:00,2024-06-14 20:08:26-04:00
+UI/hotkey-edit.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/log-viewer.cpp,Kurt Kartaltepe,Ryan Foster,2021-03-08 21:41:13-08:00,2021-03-09 09:16:19-05:00
+UI/media-controls.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/models/multitrack-video.hpp,Andrew Francis,Ruwen Hahn,2024-06-14 13:12:19-04:00,2024-06-14 17:33:31-04:00
+UI/multitrack-video-output.cpp,Andrew Francis,Ruwen Hahn,2024-06-14 13:12:19-04:00,2024-06-14 17:33:31-04:00
+UI/multitrack-video-output.cpp,Ruwen Hahn,Alex Luccisano,2024-06-14 17:33:31-04:00,2024-06-14 20:08:26-04:00
+UI/multitrack-video-output.cpp,Ryan Foster,Ruwen Hahn,2024-06-18 12:39:56-04:00,2024-06-18 14:13:42-04:00
+UI/obs-app.cpp,Warren Turkal,Colin Edwards,2016-10-03 23:50:13-07:00,2016-10-04 22:46:52-05:00
+UI/obs-app.cpp,Michael Fabian Dirks,jp9000,2016-11-03 16:14:01+01:00,2016-11-04 04:26:52-07:00
+UI/obs-app.cpp,Lionheart Zhang,jp9000,2017-01-24 12:32:23-08:00,2017-01-24 12:49:47-08:00
+UI/obs-app.cpp,jp9000,Jonathan Baecker,2019-07-22 01:17:29-07:00,2019-07-22 01:20:12-07:00
+UI/obs-app.cpp,jp9000,Matt Gajownik,2020-07-07 06:09:59-07:00,2020-07-07 20:04:42-07:00
+UI/obs-app.cpp,Matt Gajownik,jp9000,2020-07-10 20:12:59-07:00,2020-07-11 06:05:35-07:00
+UI/obs-app.cpp,Johann Garces,Christian Lockley,2020-10-29 14:15:57-07:00,2020-10-30 11:50:47-07:00
+UI/obs-app.cpp,Vadim Zhukov,Ka Ho Ng,2020-11-14 11:55:22-08:00,2020-11-14 12:04:31-08:00
+UI/obs-app.cpp,Lordmau5,Georges Basile Stavracas Neto,2021-02-01 05:44:37-08:00,2021-02-01 19:05:10-03:00
+UI/obs-app.cpp,Georges Basile Stavracas Neto,Kurt Kartaltepe,2021-03-16 01:48:29-07:00,2021-03-16 18:50:52-07:00
+UI/obs-app.cpp,Richard Stanway,Yuriy Chumak,2021-07-24 22:34:44+02:00,2021-07-24 15:50:59-07:00
+UI/obs-app.cpp,gxalpha,jp9000,2021-08-17 05:58:29-07:00,2021-08-17 06:00:53-07:00
+UI/obs-app.cpp,gxalpha,Norihiro Kamae,2022-01-04 01:57:02-08:00,2022-01-04 02:02:59-08:00
+UI/obs-app.cpp,Matt Gajownik,Clayton Groeneveld,2022-07-30 18:48:19+10:00,2022-07-30 19:41:18-07:00
+UI/obs-app.cpp,Clayton Groeneveld,gxalpha,2022-07-30 19:41:18-07:00,2022-07-31 20:23:19+10:00
+UI/obs-app.cpp,gxalpha,cg2121,2022-08-18 14:22:55+10:00,2022-08-18 02:34:47-07:00
+UI/obs-app.cpp,cg2121,Matt Gajownik,2022-08-18 02:34:47-07:00,2022-08-18 03:35:51-07:00
+UI/obs-app.cpp,cg2121,PatTheMav,2023-02-18 15:09:11-08:00,2023-02-18 15:22:33-08:00
+UI/obs-app.cpp,PatTheMav,tytan652,2023-02-18 15:22:33-08:00,2023-02-18 16:20:39-08:00
+UI/obs-app.cpp,tytan652,derrod,2023-02-18 16:20:39-08:00,2023-02-19 01:35:56+01:00
+UI/obs-app.cpp,derrod,Richard Stanway,2023-03-08 18:06:51-05:00,2023-03-09 14:16:34-05:00
+UI/obs-app.cpp,Richard Stanway,gxalpha,2023-03-09 14:16:34-05:00,2023-03-10 13:49:52-05:00
+UI/obs-app.cpp,Richard Stanway,Jim,2023-03-25 16:17:02-07:00,2023-03-25 22:51:25-07:00
+UI/obs-app.cpp,Ryan Foster,cg2121,2023-04-01 16:35:10-07:00,2023-04-01 16:54:02-07:00
+UI/obs-app.cpp,derrod,Richard Stanway,2023-04-04 00:54:28+00:00,2023-04-05 00:40:31+02:00
+UI/obs-app.cpp,gxalpha,derrod,2023-07-21 13:16:04+02:00,2023-07-21 23:22:07+02:00
+UI/obs-app.cpp,Richard Stanway,derrod,2023-07-22 16:59:31-07:00,2023-07-22 18:04:08-07:00
+UI/obs-app.cpp,tytan652,derrod,2024-05-25 16:58:26-07:00,2024-05-26 23:11:48+02:00
+UI/obs-app.cpp,Ruwen Hahn,tytan652,2024-06-04 18:49:05-04:00,2024-06-05 18:33:47-04:00
+UI/obs-app.hpp,jp9000,Jonathan Baecker,2019-07-22 01:11:34-07:00,2019-07-22 01:20:12-07:00
+UI/obs-frontend-api/cmake/obs-frontend-apiConfig.cmake.in,PatTheMav,Norihiro Kamae,2023-03-26 18:20:38-04:00,2023-03-27 14:09:19-04:00
+UI/obs-frontend-api/obs-frontend-api.cpp,tt2468,SCG82,2021-07-09 17:39:40+12:00,2021-07-09 19:32:18+12:00
+UI/obs-frontend-api/obs-frontend-api.cpp,cg2121,Jim,2022-10-30 19:53:11-07:00,2022-10-30 20:35:36-07:00
+UI/obs-frontend-api/obs-frontend-api.h,tt2468,SCG82,2021-07-09 17:39:40+12:00,2021-07-09 19:32:18+12:00
+UI/obs-frontend-api/obs-frontend-api.h,cg2121,Jim,2022-10-30 19:53:11-07:00,2022-10-30 20:35:36-07:00
+UI/obs-frontend-api/obs-frontend-internal.hpp,tt2468,SCG82,2021-07-09 17:39:40+12:00,2021-07-09 19:32:18+12:00
+UI/obs-frontend-api/obs-frontend-internal.hpp,cg2121,Jim,2022-10-30 19:53:11-07:00,2022-10-30 20:35:36-07:00
+UI/platform-osx.mm,gxalpha,jp9000,2021-08-17 05:58:29-07:00,2021-08-17 06:00:53-07:00
+UI/platform-osx.mm,gxalpha,PatTheMav,2022-07-25 16:34:31+02:00,2022-07-25 17:27:07+02:00
+UI/platform-osx.mm,PatTheMav,gxalpha,2022-07-31 12:21:35+02:00,2022-07-31 18:14:41+02:00
+UI/platform-windows.cpp,gxalpha,tt2468,2022-11-19 18:48:27-05:00,2022-11-19 18:16:05-08:00
+UI/platform-x11.cpp,derrod,tytan652,2024-04-21 00:01:16-04:00,2024-04-21 00:01:16-04:00
+UI/platform.hpp,gxalpha,jp9000,2021-08-17 05:58:29-07:00,2021-08-17 06:00:53-07:00
+UI/properties-view.cpp,Norihiro Kamae,cg2121,2022-08-13 00:49:17-07:00,2022-08-13 16:02:00-07:00
+UI/properties-view.cpp,tytan652,gxalpha,2023-02-18 17:47:19-08:00,2023-02-19 04:10:51+01:00
+UI/properties-view.cpp,derrod,gxalpha,2023-07-15 16:14:55-07:00,2023-07-15 16:20:04-07:00
+UI/properties-view.hpp,jp9000,Richard Stanway,2022-02-08 11:07:23-08:00,2022-02-08 21:57:08+01:00
+UI/qt-wrappers.hpp,Kurt Kartaltepe,Ryan Foster,2021-03-08 21:41:13-08:00,2021-03-09 09:16:16-05:00
+UI/scene-tree.cpp,gxalpha,Ryan Foster,2022-08-29 23:15:39+10:00,2022-08-29 18:22:45-03:00
+UI/scene-tree.cpp,Ryan Foster,Clayton Groeneveld,2022-08-29 18:22:45-03:00,2022-08-29 18:14:30-05:00
+UI/scene-tree.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/source-tree.cpp,jp9000,VodBox,2019-02-07 17:00:46-08:00,2019-02-08 20:58:40+13:00
+UI/source-tree.cpp,cg2121,Matt Gajownik,2022-08-29 09:11:38+10:00,2022-08-29 10:03:41-07:00
+UI/source-tree.cpp,Matt Gajownik,cg2121,2022-08-29 10:03:41-07:00,2022-08-30 18:49:23+10:00
+UI/source-tree.cpp,derrod,Richard Stanway,2023-07-15 16:14:55-07:00,2023-07-15 16:54:51-07:00
+UI/source-tree.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/source-tree.hpp,jp9000,VodBox,2019-02-07 17:00:46-08:00,2019-02-08 20:58:40+13:00
+UI/update/shared-update.cpp,derrod,bin,2023-02-19 01:35:56+01:00,2023-02-19 20:39:23+01:00
+UI/visibility-item-widget.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/volume-control.cpp,pkviet,craftwar,2018-06-07 00:44:28+02:00,2018-06-07 00:44:59+02:00
+UI/volume-control.cpp,Clayton Groeneveld,derrod,2023-07-15 16:06:36-07:00,2023-07-15 16:14:55-07:00
+UI/volume-control.cpp,Warchamp7,gxalpha,2024-06-10 16:48:32-04:00,2024-06-10 16:48:32-04:00
+UI/volume-control.cpp,gxalpha,Warchamp7,2024-06-10 16:48:32-04:00,2024-06-10 16:48:32-04:00
+UI/volume-control.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/win-update/updater/CMakeLists.txt,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+UI/win-update/updater/CMakeLists.txt,derrod,Ryan Foster,2024-06-11 13:24:07-04:00,2024-06-11 18:25:05-04:00
+UI/win-update/updater/updater.cpp,Richard Stanway,jp9000,2022-09-01 00:44:57+02:00,2022-08-31 20:19:11-07:00
+UI/win-update/updater/updater.cpp,Ryan Foster,derrod,2023-08-10 16:07:25-04:00,2023-08-11 00:34:36+02:00
+UI/window-basic-about.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/window-basic-auto-config-test.cpp,Quinn Damerell,jp9000,2017-08-01 02:27:34-07:00,2017-08-01 02:50:26-07:00
+UI/window-basic-auto-config.cpp,Quinn Damerell,jp9000,2017-08-01 02:27:34-07:00,2017-08-01 02:50:26-07:00
+UI/window-basic-auto-config.cpp,jp9000,Ryan Foster,2017-08-02 15:13:09-07:00,2017-08-03 08:46:31-04:00
+UI/window-basic-auto-config.cpp,jp9000,craftwar,2019-02-14 23:12:55-08:00,2019-02-15 16:22:00-08:00
+UI/window-basic-auto-config.cpp,SoftArch,Richard Stanway,2019-07-21 22:16:43-07:00,2019-07-23 00:47:18+02:00
+UI/window-basic-auto-config.cpp,tlivegaming,jpark37,2020-06-21 05:26:09-07:00,2020-06-21 18:23:05-07:00
+UI/window-basic-auto-config.cpp,Joe Flateau,VodBox,2021-04-20 13:34:05+12:00,2021-04-20 13:47:27+12:00
+UI/window-basic-auto-config.cpp,geekenmd,iamflorencejay,2021-05-08 15:14:19-07:00,2021-05-08 15:31:43-07:00
+UI/window-basic-auto-config.cpp,iamflorencejay,Developer,2021-05-08 15:31:43-07:00,2021-05-08 19:16:13-07:00
+UI/window-basic-auto-config.cpp,Developer,jp9000,2021-05-08 19:16:13-07:00,2021-05-09 00:55:16-07:00
+UI/window-basic-auto-config.cpp,Richard Stanway,derrod,2021-10-01 13:57:48-07:00,2021-10-02 05:55:53-07:00
+UI/window-basic-auto-config.cpp,Lain,gxalpha,2023-08-11 16:01:37-07:00,2023-08-11 21:36:44-04:00
+UI/window-basic-auto-config.hpp,jp9000,Ryan Foster,2017-08-02 15:13:09-07:00,2017-08-03 08:46:31-04:00
+UI/window-basic-filters.cpp,Alex Anderson,jp9000,2018-07-31 13:14:32-07:00,2018-07-31 21:14:52-07:00
+UI/window-basic-filters.cpp,Alex Anderson,jp9000,2018-08-28 20:34:09-07:00,2018-08-29 15:52:59-07:00
+UI/window-basic-filters.cpp,Clayton Groeneveld,Exeldro,2020-10-15 10:14:22-07:00,2020-10-16 05:38:10-07:00
+UI/window-basic-filters.cpp,Ford Smith,jp9000,2021-04-29 00:14:28-07:00,2021-04-30 00:14:28-07:00
+UI/window-basic-filters.cpp,cg2121,gxalpha,2023-07-20 13:21:14-07:00,2023-07-21 13:19:52+02:00
+UI/window-basic-filters.hpp,Clayton Groeneveld,Exeldro,2020-10-15 10:14:22-07:00,2020-10-16 05:38:10-07:00
+UI/window-basic-filters.hpp,Ford Smith,jp9000,2021-04-29 00:14:28-07:00,2021-04-30 00:14:28-07:00
+UI/window-basic-main-dropfiles.cpp,Matt Gajownik,jp9000,2020-01-13 03:03:33-08:00,2020-01-13 03:09:30-08:00
+UI/window-basic-main-dropfiles.cpp,jp9000,Kurt Kartaltepe,2020-01-13 03:09:30-08:00,2020-01-13 19:20:54-08:00
+UI/window-basic-main-dropfiles.cpp,Anton Bershanskiy,"Peter ""Marenthyu"" Fredebold",2021-03-10 20:40:04-08:00,2021-03-10 22:59:07-08:00
+UI/window-basic-main-dropfiles.cpp,Tim Cooper,gxalpha,2022-03-08 11:58:55-08:00,2022-03-08 13:25:38-08:00
+UI/window-basic-main-outputs.cpp,Michael Fabian Dirks,Richard Stanway,2017-05-15 03:36:20+02:00,2017-05-15 12:03:42+02:00
+UI/window-basic-main-outputs.cpp,jp9000,Michael Fabian Dirks,2017-08-01 02:27:35-07:00,2017-08-01 03:00:42-07:00
+UI/window-basic-main-outputs.cpp,derrod,pkv,2023-03-25 16:28:56-07:00,2023-03-25 20:54:07-04:00
+UI/window-basic-main-outputs.cpp,pkv,Ryan Foster,2023-03-25 20:54:07-04:00,2023-03-26 00:21:04-04:00
+UI/window-basic-main-outputs.cpp,Ryan Foster,pkv,2023-03-26 00:21:04-04:00,2023-03-25 23:45:47-07:00
+UI/window-basic-main-outputs.cpp,derrod,cg2121,2023-04-01 16:24:40-07:00,2023-04-01 16:54:02-07:00
+UI/window-basic-main-outputs.cpp,derrod,Richard Stanway,2023-04-04 00:54:28+00:00,2023-04-05 00:40:31+02:00
+UI/window-basic-main-outputs.cpp,Richard Stanway,derrod,2023-04-05 00:40:31+02:00,2023-04-05 01:14:26+02:00
+UI/window-basic-main-outputs.cpp,Penwywern,Ryan Foster,2023-11-07 00:39:01-06:00,2023-11-07 19:09:25-05:00
+UI/window-basic-main-outputs.cpp,Ruwen Hahn,Dennis Sädtler,2024-11-18 17:12:45-05:00,2024-11-19 16:55:52-05:00
+UI/window-basic-main-profiles.cpp,shiina424,derrod,2024-10-07 14:47:48-04:00,2024-10-08 12:59:45-04:00
+UI/window-basic-main-scene-collections.cpp,cg2121,jp9000,2017-03-25 04:29:49-07:00,2017-03-25 07:08:11-07:00
+UI/window-basic-main-scene-collections.cpp,Michel,jp9000,2018-02-08 07:20:53-08:00,2018-02-08 07:34:36-08:00
+UI/window-basic-main-scene-collections.cpp,Ford Smith,jp9000,2021-04-08 16:45:04-07:00,2021-04-09 04:19:31-07:00
+UI/window-basic-main-transitions.cpp,cg2121,Ryan Foster,2017-11-26 19:05:50-08:00,2017-11-27 00:28:03-08:00
+UI/window-basic-main-transitions.cpp,jp9000,Ryan Foster,2017-11-28 03:38:30-08:00,2017-11-28 22:24:57-08:00
+UI/window-basic-main-transitions.cpp,cg2121,jp9000,2017-11-30 05:10:25-08:00,2017-11-30 09:48:59-08:00
+UI/window-basic-main-transitions.cpp,Clayton Groeneveld,VodBox,2021-03-07 22:53:08-08:00,2021-03-09 01:31:08+13:00
+UI/window-basic-main-transitions.cpp,VodBox,Mike,2021-03-09 01:31:08+13:00,2021-03-08 21:39:43-08:00
+UI/window-basic-main-transitions.cpp,Clayton Groeneveld,Exeldro,2021-04-11 08:26:12-07:00,2021-04-11 10:10:54-07:00
+UI/window-basic-main-transitions.cpp,jp9000,Exeldro,2022-03-24 22:32:41-07:00,2022-03-24 23:51:10-07:00
+UI/window-basic-main-transitions.cpp,Clayton Groeneveld,Norihiro Kamae,2022-07-27 12:42:32+10:00,2022-07-27 12:42:32+10:00
+UI/window-basic-main-transitions.cpp,Norihiro Kamae,Ryan Foster,2022-07-27 12:42:32+10:00,2022-07-27 11:09:59-04:00
+UI/window-basic-main-transitions.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/window-basic-main.cpp,jp9000,Christoph Hohmann,2016-10-19 06:49:12-07:00,2016-10-20 15:32:15+02:00
+UI/window-basic-main.cpp,cg2121,dennis,2017-01-29 06:02:15-08:00,2017-01-29 19:09:23-08:00
+UI/window-basic-main.cpp,dennis,Alexandre Vicenzi,2017-01-29 19:09:23-08:00,2017-01-29 19:51:42-08:00
+UI/window-basic-main.cpp,Alexandre Vicenzi,jp9000,2017-01-29 19:51:42-08:00,2017-01-30 16:55:29-08:00
+UI/window-basic-main.cpp,derrod,jp9000,2017-02-25 09:16:46-08:00,2017-02-26 08:23:31-08:00
+UI/window-basic-main.cpp,cg2121,jp9000,2017-03-25 04:29:49-07:00,2017-03-25 07:36:46-07:00
+UI/window-basic-main.cpp,cg2121,jp9000,2017-05-04 17:07:36-07:00,2017-05-04 18:17:42-07:00
+UI/window-basic-main.cpp,jp9000,Richard Stanway,2017-05-14 13:03:46-07:00,2017-05-15 12:03:42+02:00
+UI/window-basic-main.cpp,Richard Stanway,jp9000,2017-05-15 12:03:42+02:00,2017-05-15 14:28:00-07:00
+UI/window-basic-main.cpp,cg2121,Shaolin,2017-06-27 10:27:57-07:00,2017-06-27 21:55:37-07:00
+UI/window-basic-main.cpp,jp9000,SuslikV,2017-08-05 21:20:08-07:00,2017-08-06 05:41:58-07:00
+UI/window-basic-main.cpp,jp9000,cg2121,2017-09-13 21:17:44-07:00,2017-09-13 21:17:44-07:00
+UI/window-basic-main.cpp,cg2121,SuslikV,2017-09-13 21:17:44-07:00,2017-09-14 15:01:15+02:00
+UI/window-basic-main.cpp,jp9000,pkviet,2017-11-26 02:30:26-08:00,2017-11-26 03:41:53-08:00
+UI/window-basic-main.cpp,pkviet,cg2121,2017-11-26 03:41:53-08:00,2017-11-26 19:05:50-08:00
+UI/window-basic-main.cpp,cg2121,Ryan Foster,2017-11-26 19:05:50-08:00,2017-11-27 00:28:03-08:00
+UI/window-basic-main.cpp,jp9000,cg2121,2017-11-29 23:11:38-08:00,2017-11-30 05:10:25-08:00
+UI/window-basic-main.cpp,cg2121,jp9000,2017-11-30 05:10:25-08:00,2017-11-30 06:17:07-08:00
+UI/window-basic-main.cpp,SuslikV,pkviet,2018-01-04 20:36:11-08:00,2018-01-05 09:48:52-08:00
+UI/window-basic-main.cpp,pkviet,Joel Bethke,2018-01-05 09:48:52-08:00,2018-01-05 15:20:39-06:00
+UI/window-basic-main.cpp,Shaolin,VodBox,2018-03-15 04:24:20-03:00,2018-03-16 11:19:03+13:00
+UI/window-basic-main.cpp,Murnux,Shaolin,2018-04-19 20:47:30-07:00,2018-04-19 21:54:01-07:00
+UI/window-basic-main.cpp,Shaolin,Igor Bochkariov,2018-04-19 21:54:01-07:00,2018-04-20 19:49:26-07:00
+UI/window-basic-main.cpp,Richard Stanway,Shaolin,2018-05-18 15:33:53+02:00,2018-05-19 00:17:58-03:00
+UI/window-basic-main.cpp,jp9000,Shaolin,2018-07-24 02:41:31-07:00,2018-07-24 17:43:58-03:00
+UI/window-basic-main.cpp,cg2121,jp9000,2018-07-31 04:28:43-07:00,2018-07-31 21:14:52-07:00
+UI/window-basic-main.cpp,jp9000,cg2121,2018-07-31 21:14:52-07:00,2018-07-31 21:35:06-07:00
+UI/window-basic-main.cpp,cg2121,VodBox,2018-07-31 21:35:06-07:00,2018-08-02 08:23:12+12:00
+UI/window-basic-main.cpp,VodBox,jp9000,2018-08-02 08:23:12+12:00,2018-08-01 18:41:57-07:00
+UI/window-basic-main.cpp,jp9000,cg2121,2018-08-15 10:01:48-07:00,2018-08-15 12:27:32-05:00
+UI/window-basic-main.cpp,cg2121,jp9000,2018-08-15 12:27:32-05:00,2018-08-16 08:44:42-07:00
+UI/window-basic-main.cpp,jp9000,DungFu,2018-08-16 12:42:23-07:00,2018-08-17 10:34:11-07:00
+UI/window-basic-main.cpp,Shaolin,pkviet,2018-08-19 04:57:16-03:00,2018-08-20 01:36:23+02:00
+UI/window-basic-main.cpp,jp9000,Alex Anderson,2018-08-28 12:31:57-07:00,2018-08-28 14:40:31-07:00
+UI/window-basic-main.cpp,Alex Anderson,jp9000,2018-08-28 14:40:31-07:00,2018-08-29 09:36:19-07:00
+UI/window-basic-main.cpp,jp9000,Shaolin,2018-09-16 12:47:21-07:00,2018-09-16 16:25:17-07:00
+UI/window-basic-main.cpp,jp9000,cg2121,2018-09-18 08:56:34-07:00,2018-09-18 20:55:12-05:00
+UI/window-basic-main.cpp,jp9000,VodBox,2019-02-07 17:00:46-08:00,2019-02-08 20:38:53+13:00
+UI/window-basic-main.cpp,Matt Gajownik,jp9000,2019-02-09 19:34:56+11:00,2019-02-09 01:12:18-08:00
+UI/window-basic-main.cpp,jp9000,SuslikV,2019-02-19 19:27:54-08:00,2019-02-20 18:09:39+02:00
+UI/window-basic-main.cpp,SuslikV,jp9000,2019-02-20 18:09:39+02:00,2019-02-20 17:35:02-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,jp9000,2019-02-26 06:58:53-06:00,2019-02-26 12:00:27-08:00
+UI/window-basic-main.cpp,jp9000,James Park,2019-03-06 19:13:12-08:00,2019-03-06 20:53:15-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Gol-D-Ace,2019-03-09 03:49:58-06:00,2019-03-10 08:31:08+01:00
+UI/window-basic-main.cpp,Gol-D-Ace,derrod,2019-03-10 08:31:08+01:00,2019-03-10 08:37:29+01:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Matt Gajownik,2019-03-31 05:10:02-05:00,2019-04-01 18:51:36+11:00
+UI/window-basic-main.cpp,James Park,Anthony Torres,2019-04-08 02:05:37-07:00,2019-04-08 02:14:06-07:00
+UI/window-basic-main.cpp,Anthony Torres,Clayton Groeneveld,2019-04-08 02:14:06-07:00,2019-04-08 22:52:39-07:00
+UI/window-basic-main.cpp,guangong7628,Clayton Groeneveld,2019-04-23 04:20:49-07:00,2019-04-23 06:46:04-05:00
+UI/window-basic-main.cpp,derrod,Clayton Groeneveld,2019-11-19 21:06:36-08:00,2019-11-19 22:10:22-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,jp9000,2019-11-19 22:10:22-08:00,2019-11-20 15:46:42-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Chris Angelico,2019-11-24 20:50:42-08:00,2019-11-24 22:23:16-08:00
+UI/window-basic-main.cpp,Matt Gajownik,Clayton Groeneveld,2020-02-16 09:37:39-08:00,2020-02-16 16:12:00-06:00
+UI/window-basic-main.cpp,Matt Gajownik,jp9000,2020-03-09 11:13:55+11:00,2020-03-09 06:12:22-07:00
+UI/window-basic-main.cpp,jp9000,VodBox,2020-03-18 20:37:56-07:00,2020-03-19 23:25:24+13:00
+UI/window-basic-main.cpp,VodBox,jp9000,2020-03-19 23:25:24+13:00,2020-03-19 05:33:07-07:00
+UI/window-basic-main.cpp,Matt Gajownik,Kurt Kartaltepe,2020-04-04 23:45:14+11:00,2020-04-04 18:57:31-07:00
+UI/window-basic-main.cpp,Matt Gajownik,pkv,2020-04-07 20:43:09+10:00,2020-04-07 21:33:09+02:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Exeldro,2020-04-18 00:02:26-05:00,2020-04-18 17:08:52+02:00
+UI/window-basic-main.cpp,Exeldro,Clayton Groeneveld,2020-04-18 17:08:52+02:00,2020-04-18 18:58:45-05:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Colin Edwards,2020-04-18 18:58:45-05:00,2020-04-19 09:31:18-05:00
+UI/window-basic-main.cpp,Bennik2000,Clayton Groeneveld,2020-05-18 18:54:03+02:00,2020-05-19 06:36:00-05:00
+UI/window-basic-main.cpp,Tom Lynch,Matt Gajownik,2020-07-10 17:50:15-07:00,2020-07-10 20:12:59-07:00
+UI/window-basic-main.cpp,Matt Gajownik,jp9000,2020-07-10 20:12:59-07:00,2020-07-11 06:05:35-07:00
+UI/window-basic-main.cpp,derrod,jpark37,2020-07-18 21:33:47+02:00,2020-07-18 19:44:13-07:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Matt Gajownik,2020-08-23 10:36:06-07:00,2020-08-24 22:29:47+10:00
+UI/window-basic-main.cpp,Matt Gajownik,jp9000,2020-08-25 14:30:21+10:00,2020-08-25 00:46:02-07:00
+UI/window-basic-main.cpp,jp9000,Ford Smith,2020-08-25 08:21:29-07:00,2020-08-25 18:12:23-05:00
+UI/window-basic-main.cpp,Ford Smith,Ryan Foster,2020-08-25 18:12:23-05:00,2020-08-25 22:33:23-04:00
+UI/window-basic-main.cpp,Ryan Foster,Clayton Groeneveld,2020-08-25 22:33:23-04:00,2020-08-25 23:19:10-05:00
+UI/window-basic-main.cpp,Clayton Groeneveld,jp9000,2020-09-02 22:53:35-05:00,2020-09-03 05:49:58-07:00
+UI/window-basic-main.cpp,jpark37,Daniel Escoz,2020-09-06 12:33:02-07:00,2020-09-07 00:06:33+02:00
+UI/window-basic-main.cpp,Richard Stanway,Kurt Kartaltepe,2020-09-09 01:31:48+02:00,2020-09-08 20:29:40-07:00
+UI/window-basic-main.cpp,PatTheMav,Programatic,2020-10-01 23:54:58-07:00,2020-10-02 03:40:26-07:00
+UI/window-basic-main.cpp,Programatic,Scratch,2020-10-02 03:40:26-07:00,2020-10-02 07:01:40-07:00
+UI/window-basic-main.cpp,Matt Gajownik,Mike,2020-11-24 14:19:57-08:00,2020-11-24 14:32:29-08:00
+UI/window-basic-main.cpp,Ryan Foster,jp9000,2020-12-29 08:40:07-08:00,2020-12-29 08:58:30-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Andrew Tropin,2021-01-15 18:16:41-08:00,2021-01-16 00:26:10-08:00
+UI/window-basic-main.cpp,Andrew Tropin,VodBox,2021-01-16 00:26:10-08:00,2021-01-17 10:31:59+13:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Mike So,2021-01-17 20:03:08-08:00,2021-01-18 01:43:09-08:00
+UI/window-basic-main.cpp,Kurt Kartaltepe,Exeldro,2021-01-25 04:14:29-08:00,2021-01-25 04:17:14-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Mike,2021-03-07 22:53:08-08:00,2021-03-08 21:39:43-08:00
+UI/window-basic-main.cpp,Mike,Kurt Kartaltepe,2021-03-08 21:39:43-08:00,2021-03-08 21:41:13-08:00
+UI/window-basic-main.cpp,Kurt Kartaltepe,Ryan Foster,2021-03-08 21:41:13-08:00,2021-03-09 09:16:07-05:00
+UI/window-basic-main.cpp,Anton Bershanskiy,Exeldro,2021-03-16 21:38:06-07:00,2021-03-16 22:15:16-07:00
+UI/window-basic-main.cpp,Ryan Foster,Vainock,2021-03-30 03:52:04-07:00,2021-03-30 05:25:13-07:00
+UI/window-basic-main.cpp,Vainock,wangshaohui,2021-03-30 05:25:13-07:00,2021-03-30 23:02:23-07:00
+UI/window-basic-main.cpp,wangshaohui,Kurt Kartaltepe,2021-03-30 23:02:23-07:00,2021-03-31 01:21:51-07:00
+UI/window-basic-main.cpp,Clayton Groeneveld,Matt Gajownik,2021-04-01 07:36:20-07:00,2021-04-02 21:04:09+11:00
+UI/window-basic-main.cpp,jp9000,Ford Smith,2021-04-09 04:19:31-07:00,2021-04-09 06:05:03-07:00
+UI/window-basic-main.cpp,Ford Smith,Clayton Groeneveld,2021-04-09 06:05:03-07:00,2021-04-10 01:49:30-07:00
+UI/window-basic-main.cpp,Matt Gajownik,Clayton Groeneveld,2021-04-18 17:13:01+02:00,2021-04-18 17:19:36-07:00
+UI/window-basic-main.cpp,jp9000,Clayton Groeneveld,2021-04-26 10:52:28-07:00,2021-04-27 01:24:50-07:00
+UI/window-basic-main.cpp,Clayton Groeneveld,jp9000,2021-04-27 01:24:50-07:00,2021-04-27 20:45:43-07:00
+UI/window-basic-main.cpp,jp9000,Anton Bershanskiy,2021-04-30 00:14:28-07:00,2021-04-30 09:09:23-07:00
+UI/window-basic-main.cpp,Anton Bershanskiy,Clayton Groeneveld,2021-04-30 14:12:39-07:00,2021-04-30 18:45:27-07:00
+UI/window-basic-main.cpp,jp9000,Matt Gajownik,2021-06-04 20:44:20-07:00,2021-06-05 20:07:57-07:00
+UI/window-basic-main.cpp,Ryan Foster,gxalpha,2021-06-30 01:42:01-07:00,2021-07-01 00:23:58-07:00
+UI/window-basic-main.cpp,Rat,Matt Gajownik,2021-07-04 04:34:06-07:00,2021-07-04 08:25:33-07:00
+UI/window-basic-main.cpp,Yuriy Chumak,gxalpha,2021-08-07 01:07:04-07:00,2021-08-07 23:15:12-07:00
+UI/window-basic-main.cpp,derrod,gxalpha,2021-08-17 19:41:26+02:00,2021-08-17 13:59:04-07:00
+UI/window-basic-main.cpp,gxalpha,Clayton Groeneveld,2021-08-17 13:59:04-07:00,2021-08-17 18:26:11-07:00
+UI/window-basic-main.cpp,Clayton Groeneveld,jp9000,2021-08-20 15:20:59-07:00,2021-08-20 18:47:26-07:00
+UI/window-basic-main.cpp,Warchamp7,gxalpha,2021-08-25 11:40:43-07:00,2021-08-25 19:39:58-07:00
+UI/window-basic-main.cpp,Ryan Foster,derrod,2021-09-04 15:22:21-07:00,2021-09-05 04:04:46+02:00
+UI/window-basic-main.cpp,derrod,tt2468,2021-09-12 13:45:51+02:00,2021-09-13 01:38:23-07:00
+UI/window-basic-main.cpp,jpark37,PatTheMav,2021-10-10 19:12:45-07:00,2021-10-12 08:33:54+11:00
+UI/window-basic-main.cpp,Ryan Foster,jp9000,2021-10-13 20:00:04+11:00,2021-10-13 02:12:18-07:00
+UI/window-basic-main.cpp,jp9000,derrod,2021-10-13 02:44:31-07:00,2021-10-13 12:27:47+02:00
+UI/window-basic-main.cpp,Mike,jp9000,2021-10-15 16:11:08-07:00,2021-10-15 22:10:33-07:00
+UI/window-basic-main.cpp,Matt Gajownik,gxalpha,2021-11-03 09:28:41-07:00,2021-11-04 03:38:45-07:00
+UI/window-basic-main.cpp,gxalpha,Clayton Groeneveld,2021-11-04 03:40:17-07:00,2021-11-04 06:25:52-07:00
+UI/window-basic-main.cpp,Mike,Anthony Torres,2021-11-10 06:08:48-08:00,2021-11-10 14:22:45-08:00
+UI/window-basic-main.cpp,gxalpha,Clayton Groeneveld,2021-11-23 22:00:47-08:00,2021-11-24 01:01:12-08:00
+UI/window-basic-main.cpp,Clayton Groeneveld,gxalpha,2021-11-24 01:01:12-08:00,2021-11-24 13:40:29-08:00
+UI/window-basic-main.cpp,gxalpha,Warchamp7,2021-11-24 13:40:29-08:00,2021-11-25 11:30:55-08:00
+UI/window-basic-main.cpp,Warchamp7,VodBox,2021-11-25 11:30:55-08:00,2021-11-26 23:23:51+13:00
+UI/window-basic-main.cpp,Tommy Vercetti,Mike,2021-12-17 01:35:40-08:00,2021-12-17 06:49:44-08:00
+UI/window-basic-main.cpp,jp9000,jw0z96,2021-12-19 11:53:19-08:00,2021-12-20 09:06:38-08:00
+UI/window-basic-main.cpp,jw0z96,jp9000,2021-12-20 09:06:38-08:00,2021-12-21 01:41:19-08:00
+UI/window-basic-main.cpp,gxalpha,Norihiro Kamae,2021-12-23 06:37:10-08:00,2021-12-24 15:55:57+09:00
+UI/window-basic-main.cpp,Norihiro Kamae,gxalpha,2021-12-24 15:59:26+09:00,2021-12-24 06:02:02-08:00
+UI/window-basic-main.cpp,jp9000,tt2468,2021-12-28 09:12:51-08:00,2021-12-28 21:44:35-08:00
+UI/window-basic-main.cpp,gxalpha,jp9000,2022-01-04 02:01:28-08:00,2022-01-04 20:42:58-08:00
+UI/window-basic-main.cpp,jp9000,gxalpha,2022-01-04 20:42:58-08:00,2022-01-04 21:39:57-08:00
+UI/window-basic-main.cpp,gxalpha,Matt Gajownik,2022-01-04 21:39:57-08:00,2022-01-05 17:12:55+11:00
+UI/window-basic-main.cpp,Matt Gajownik,Cody Jung,2022-01-05 17:12:55+11:00,2022-01-05 20:53:17+11:00
+UI/window-basic-main.cpp,jp9000,gxalpha,2022-01-28 10:30:42-08:00,2022-01-29 13:30:17+11:00
+UI/window-basic-main.cpp,gxalpha,Matt Gajownik,2022-01-29 13:30:17+11:00,2022-01-29 14:01:34+11:00
+UI/window-basic-main.cpp,jpark37,gxalpha,2022-02-26 01:09:07-08:00,2022-02-27 12:47:18+11:00
+UI/window-basic-main.cpp,jp9000,cg2121,2022-03-08 01:27:20-08:00,2022-03-08 12:32:27-08:00
+UI/window-basic-main.cpp,cg2121,Matt Gajownik,2022-03-08 12:32:27-08:00,2022-03-08 12:36:19-08:00
+UI/window-basic-main.cpp,Matt Gajownik,cg2121,2022-03-08 12:36:19-08:00,2022-03-08 13:18:05-08:00
+UI/window-basic-main.cpp,jpark37,jp9000,2022-03-23 22:35:26-07:00,2022-03-24 22:32:41-07:00
+UI/window-basic-main.cpp,jpark37,gxalpha,2022-04-02 16:02:41-07:00,2022-04-02 16:04:51-07:00
+UI/window-basic-main.cpp,tt2468,Clayton Groeneveld,2022-06-25 17:06:00-07:00,2022-06-25 21:24:35-04:00
+UI/window-basic-main.cpp,Clayton Groeneveld,gxalpha,2022-06-25 21:24:35-04:00,2022-06-25 21:44:58-04:00
+UI/window-basic-main.cpp,Norihiro Kamae,jpark37,2022-07-23 16:49:21-07:00,2022-07-23 17:41:34-07:00
+UI/window-basic-main.cpp,Clayton Groeneveld,derrod,2022-07-27 00:29:32+10:00,2022-07-27 00:34:04+10:00
+UI/window-basic-main.cpp,derrod,jp9000,2022-07-27 00:34:04+10:00,2022-07-26 07:40:11-07:00
+UI/window-basic-main.cpp,jp9000,Clayton Groeneveld,2022-07-26 07:49:09-07:00,2022-07-27 12:42:32+10:00
+UI/window-basic-main.cpp,Clayton Groeneveld,VodBox,2022-07-27 12:42:32+10:00,2022-07-27 21:37:30-04:00
+UI/window-basic-main.cpp,VodBox,jp9000,2022-07-27 21:37:30-04:00,2022-07-28 16:36:01-07:00
+UI/window-basic-main.cpp,gxalpha,cg2121,2022-07-30 15:21:08+02:00,2022-07-31 09:18:14+10:00
+UI/window-basic-main.cpp,cg2121,Clayton Groeneveld,2022-07-31 09:18:14+10:00,2022-07-30 19:41:18-07:00
+UI/window-basic-main.cpp,Clayton Groeneveld,cg2121,2022-07-30 19:41:18-07:00,2022-07-31 20:22:02+10:00
+UI/window-basic-main.cpp,cg2121,gxalpha,2022-07-31 20:22:02+10:00,2022-07-31 18:14:41+02:00
+UI/window-basic-main.cpp,gxalpha,PatTheMav,2022-07-31 18:14:41+02:00,2022-07-31 19:36:34+02:00
+UI/window-basic-main.cpp,PatTheMav,Chip Bradford,2022-07-31 19:36:34+02:00,2022-07-31 15:39:18-07:00
+UI/window-basic-main.cpp,Chip Bradford,derrod,2022-08-13 01:33:07-07:00,2022-08-13 16:46:48-07:00
+UI/window-basic-main.cpp,derrod,Jim,2022-08-13 16:46:48-07:00,2022-08-14 01:06:53-07:00
+UI/window-basic-main.cpp,cg2121,gxalpha,2022-08-17 05:43:02-07:00,2022-08-17 17:03:48+02:00
+UI/window-basic-main.cpp,gxalpha,Chip Bradford,2022-08-17 17:03:48+02:00,2022-08-17 23:21:28-07:00
+UI/window-basic-main.cpp,Chip Bradford,cg2121,2022-08-17 23:21:28-07:00,2022-08-17 23:22:05-07:00
+UI/window-basic-main.cpp,cg2121,tytan652,2022-08-17 23:22:05-07:00,2022-08-18 02:35:13-07:00
+UI/window-basic-main.cpp,Richard Stanway,cg2121,2022-10-15 16:17:46-07:00,2022-10-15 16:21:34-07:00
+UI/window-basic-main.cpp,Richard Stanway,gxalpha,2022-11-08 20:44:47-08:00,2022-11-08 20:49:56-08:00
+UI/window-basic-main.cpp,Ryan Foster,cg2121,2022-11-18 20:51:40-05:00,2022-11-20 11:07:22+11:00
+UI/window-basic-main.cpp,derrod,tytan652,2022-11-26 11:33:27+01:00,2022-11-26 11:34:03+01:00
+UI/window-basic-main.cpp,Exeldro,cg2121,2023-02-04 15:23:26-08:00,2023-02-04 16:02:04-08:00
+UI/window-basic-main.cpp,Ilya Melamed,derrod,2023-02-11 15:56:19-08:00,2023-02-11 15:58:40-08:00
+UI/window-basic-main.cpp,Richard Stanway,gxalpha,2023-02-15 13:40:13-05:00,2023-02-15 14:11:46-05:00
+UI/window-basic-main.cpp,derrod,gxalpha,2023-02-19 01:35:56+01:00,2023-02-19 04:10:51+01:00
+UI/window-basic-main.cpp,derrod,tytan652,2023-02-25 15:08:27-08:00,2023-02-25 16:06:59-08:00
+UI/window-basic-main.cpp,cg2121,tytan652,2023-03-17 19:06:50+11:00,2023-03-17 20:21:08+11:00
+UI/window-basic-main.cpp,derrod,Norihiro Kamae,2023-03-18 15:21:52-07:00,2023-03-18 15:34:47-07:00
+UI/window-basic-main.cpp,Norihiro Kamae,tytan652,2023-03-18 15:34:47-07:00,2023-03-19 17:27:43+01:00
+UI/window-basic-main.cpp,derrod,pkv,2023-03-25 16:28:56-07:00,2023-03-25 20:54:07-04:00
+UI/window-basic-main.cpp,pkv,Yuriy Chumak,2023-03-25 20:54:07-04:00,2023-03-26 16:37:31+02:00
+UI/window-basic-main.cpp,cg2121,Jim,2023-04-01 16:54:02-07:00,2023-04-01 18:00:44-07:00
+UI/window-basic-main.cpp,derrod,Richard Stanway,2023-04-04 00:54:28+00:00,2023-04-05 00:40:31+02:00
+UI/window-basic-main.cpp,Richard Stanway,gxalpha,2023-04-05 00:40:31+02:00,2023-04-05 21:26:17+00:00
+UI/window-basic-main.cpp,田七不甜,derrod,2023-05-06 16:21:56-07:00,2023-05-07 11:03:53-07:00
+UI/window-basic-main.cpp,Lain,cg2121,2023-05-20 01:31:18-07:00,2023-05-20 17:06:18-07:00
+UI/window-basic-main.cpp,cg2121,Igor Bochkariov,2023-06-03 16:03:37-07:00,2023-06-04 09:39:47+10:00
+UI/window-basic-main.cpp,Igor Bochkariov,tytan652,2023-06-04 09:39:47+10:00,2023-06-03 16:47:01-07:00
+UI/window-basic-main.cpp,Sean DuBois,cg2121,2023-06-09 20:20:49-05:00,2023-06-10 16:06:16-07:00
+UI/window-basic-main.cpp,cg2121,derrod,2023-06-10 16:06:16-07:00,2023-06-10 17:10:30-07:00
+UI/window-basic-main.cpp,derrod,cg2121,2023-06-10 17:10:30-07:00,2023-06-10 17:35:57-07:00
+UI/window-basic-main.cpp,Norihiro Kamae,gxalpha,2023-07-12 11:09:36-04:00,2023-07-12 13:22:13-04:00
+UI/window-basic-main.cpp,Benjamin Schubert,derrod,2023-07-15 16:11:27-07:00,2023-07-15 16:14:55-07:00
+UI/window-basic-main.cpp,derrod,Richard Stanway,2023-07-15 16:14:55-07:00,2023-07-15 16:54:51-07:00
+UI/window-basic-main.cpp,gxalpha,derrod,2023-07-21 13:19:52+02:00,2023-07-21 23:22:07+02:00
+UI/window-basic-main.cpp,Exeldro,cg2121,2023-07-29 16:48:25-07:00,2023-07-29 17:20:47-07:00
+UI/window-basic-main.cpp,cg2121,derrod,2023-07-29 17:20:47-07:00,2023-07-30 15:58:21-07:00
+UI/window-basic-main.cpp,tytan652,Lain,2023-08-05 03:46:50-07:00,2023-08-05 04:35:31-07:00
+UI/window-basic-main.cpp,Lain,gxalpha,2023-08-05 04:35:31-07:00,2023-08-05 16:30:44-07:00
+UI/window-basic-main.cpp,gxalpha,tytan652,2023-08-05 16:30:44-07:00,2023-08-05 16:44:16-07:00
+UI/window-basic-main.cpp,tytan652,田七不甜,2023-08-05 16:44:16-07:00,2023-08-05 17:21:22-07:00
+UI/window-basic-main.cpp,Norihiro Kamae,Matt Gajownik,2023-08-15 14:01:11+09:00,2023-08-15 12:27:18-04:00
+UI/window-basic-main.cpp,Matt Gajownik,gxalpha,2023-08-15 12:27:18-04:00,2023-08-15 15:56:43-07:00
+UI/window-basic-main.cpp,gxalpha,Jimi Huotari,2023-08-15 15:56:43-07:00,2023-08-16 19:43:46+02:00
+UI/window-basic-main.cpp,Jimi Huotari,derrod,2023-08-16 19:43:46+02:00,2023-08-16 11:03:00-07:00
+UI/window-basic-main.cpp,Penwywern,Ryan Foster,2023-11-07 00:39:01-06:00,2023-11-07 19:09:25-05:00
+UI/window-basic-main.cpp,derrod,tytan652,2024-01-06 17:06:00-06:00,2024-01-06 18:24:58-06:00
+UI/window-basic-main.cpp,tytan652,pkv,2024-01-06 18:24:58-06:00,2024-01-06 18:42:54-06:00
+UI/window-basic-main.cpp,test,Exeldro,2024-02-20 18:08:16-05:00,2024-02-20 21:18:51-06:00
+UI/window-basic-main.cpp,Rob Howell,Ryan Foster,2024-03-30 16:09:41-07:00,2024-03-30 16:24:04-07:00
+UI/window-basic-main.cpp,Ryan Foster,tytan652,2024-03-30 16:24:04-07:00,2024-03-30 16:43:30-07:00
+UI/window-basic-main.cpp,Aleks Todorov,gxalpha,2024-05-04 13:39:34-07:00,2024-05-04 17:20:05-07:00
+UI/window-basic-main.cpp,Ryan Foster,gxalpha,2024-05-25 16:12:39-07:00,2024-05-25 17:04:58-07:00
+UI/window-basic-main.cpp,gxalpha,derrod,2024-05-25 17:08:42-07:00,2024-05-26 23:11:48+02:00
+UI/window-basic-main.cpp,Ruwen Hahn,derrod,2024-06-04 20:50:46-04:00,2024-06-05 13:44:24-07:00
+UI/window-basic-main.cpp,derrod,tytan652,2024-06-05 13:44:24-07:00,2024-06-05 17:39:54-04:00
+UI/window-basic-main.cpp,tytan652,Ryan Foster,2024-06-05 17:39:54-04:00,2024-06-06 14:00:34-04:00
+UI/window-basic-main.cpp,Richard Stanway,derrod,2024-06-08 15:25:04-04:00,2024-06-08 17:03:09-07:00
+UI/window-basic-main.cpp,Norihiro Kamae,tytan652,2024-08-03 16:57:17-07:00,2024-08-04 10:18:59+10:00
+UI/window-basic-main.cpp,derrod,Exeldro,2024-08-23 13:44:04-04:00,2024-08-23 21:27:43-04:00
+UI/window-basic-main.cpp,Exeldro,gxalpha,2024-08-23 21:27:43-04:00,2024-08-23 22:09:48-04:00
+UI/window-basic-main.cpp,PatTheMav,Matt Gajownik,2024-10-30 13:46:36-04:00,2024-10-30 15:57:46-04:00
+UI/window-basic-main.cpp,Matt Gajownik,PatTheMav,2024-10-30 15:57:46-04:00,2024-10-30 16:18:29-04:00
+UI/window-basic-main.hpp,Michael Fabian Dirks,jp9000,2016-09-26 18:51:03-07:00,2016-09-27 10:01:22-07:00
+UI/window-basic-main.hpp,Ryan Foster,cg2121,2016-12-18 17:21:58-08:00,2016-12-19 04:44:57-08:00
+UI/window-basic-main.hpp,jp9000,Richard Stanway,2017-05-14 23:06:11-07:00,2017-05-15 12:03:42+02:00
+UI/window-basic-main.hpp,Richard Stanway,jp9000,2017-05-15 12:03:42+02:00,2017-05-15 14:35:36-07:00
+UI/window-basic-main.hpp,cg2121,Ryan Foster,2017-11-26 19:05:50-08:00,2017-11-27 00:28:03-08:00
+UI/window-basic-main.hpp,jp9000,cg2121,2017-11-29 23:11:38-08:00,2017-11-30 05:10:25-08:00
+UI/window-basic-main.hpp,cg2121,jp9000,2017-11-30 05:10:25-08:00,2017-11-30 06:17:07-08:00
+UI/window-basic-main.hpp,jp9000,vokama,2018-06-04 04:01:39-07:00,2018-06-05 01:38:19+03:00
+UI/window-basic-main.hpp,cg2121,jp9000,2018-07-31 04:28:43-07:00,2018-07-31 21:14:52-07:00
+UI/window-basic-main.hpp,jp9000,VodBox,2018-07-31 21:14:52-07:00,2018-08-02 08:23:12+12:00
+UI/window-basic-main.hpp,VodBox,jp9000,2018-08-02 08:23:12+12:00,2018-08-01 18:41:57-07:00
+UI/window-basic-main.hpp,jp9000,Shaolin,2018-09-16 12:47:21-07:00,2018-09-16 16:25:17-07:00
+UI/window-basic-main.hpp,Anthony Torres,Clayton Groeneveld,2019-04-08 02:14:06-07:00,2019-04-08 22:52:39-07:00
+UI/window-basic-main.hpp,guangong7628,Clayton Groeneveld,2019-04-23 04:20:49-07:00,2019-04-23 06:46:04-05:00
+UI/window-basic-main.hpp,Clayton Groeneveld,Chris Angelico,2019-11-24 20:50:42-08:00,2019-11-24 22:23:16-08:00
+UI/window-basic-main.hpp,jp9000,Clayton Groeneveld,2020-01-13 03:09:30-08:00,2020-01-14 01:29:23-06:00
+UI/window-basic-main.hpp,VodBox,Matt Gajownik,2020-02-16 17:56:06+13:00,2020-02-16 09:37:39-08:00
+UI/window-basic-main.hpp,Matt Gajownik,Clayton Groeneveld,2020-02-16 09:37:39-08:00,2020-02-16 18:33:46-06:00
+UI/window-basic-main.hpp,Clayton Groeneveld,Colin Edwards,2020-04-18 18:58:45-05:00,2020-04-19 09:31:18-05:00
+UI/window-basic-main.hpp,Matt Gajownik,jp9000,2020-07-10 20:12:59-07:00,2020-07-11 06:05:35-07:00
+UI/window-basic-main.hpp,jp9000,Ryan Foster,2020-08-25 08:21:29-07:00,2020-08-25 22:33:23-04:00
+UI/window-basic-main.hpp,Clayton Groeneveld,Mike,2021-03-07 22:53:08-08:00,2021-03-08 21:39:43-08:00
+UI/window-basic-main.hpp,Clayton Groeneveld,Christopher P Yarger,2021-03-10 20:06:08-08:00,2021-03-10 20:18:36-08:00
+UI/window-basic-main.hpp,Clayton Groeneveld,SCG82,2021-04-18 17:19:36-07:00,2021-04-18 17:46:20-07:00
+UI/window-basic-main.hpp,Yuriy Chumak,gxalpha,2021-08-07 01:07:04-07:00,2021-08-07 23:15:12-07:00
+UI/window-basic-main.hpp,derrod,gxalpha,2021-08-17 19:12:27+02:00,2021-08-17 13:59:04-07:00
+UI/window-basic-main.hpp,derrod,tt2468,2021-09-12 13:45:55+02:00,2021-09-13 01:38:23-07:00
+UI/window-basic-main.hpp,Mike,jp9000,2021-10-15 16:11:08-07:00,2021-10-15 22:10:33-07:00
+UI/window-basic-main.hpp,Matt Gajownik,gxalpha,2021-11-03 09:28:41-07:00,2021-11-04 03:38:45-07:00
+UI/window-basic-main.hpp,jp9000,tt2468,2021-12-28 09:12:51-08:00,2021-12-28 21:44:35-08:00
+UI/window-basic-main.hpp,Yuriy Chumak,Norihiro Kamae,2022-06-05 16:02:58-07:00,2022-06-06 10:20:00-07:00
+UI/window-basic-main.hpp,Clayton Groeneveld,derrod,2022-07-27 00:29:32+10:00,2022-07-27 00:34:04+10:00
+UI/window-basic-main.hpp,derrod,Clayton Groeneveld,2022-07-27 00:34:04+10:00,2022-07-27 12:42:32+10:00
+UI/window-basic-main.hpp,Clayton Groeneveld,VodBox,2022-07-27 12:42:32+10:00,2022-07-27 21:37:30-04:00
+UI/window-basic-main.hpp,gxalpha,Clayton Groeneveld,2022-07-30 15:21:08+02:00,2022-07-30 19:41:18-07:00
+UI/window-basic-main.hpp,Clayton Groeneveld,cg2121,2022-07-30 19:41:18-07:00,2022-07-31 20:22:02+10:00
+UI/window-basic-main.hpp,cg2121,gxalpha,2022-07-31 20:22:02+10:00,2022-07-31 18:14:41+02:00
+UI/window-basic-main.hpp,gxalpha,PatTheMav,2022-07-31 18:14:41+02:00,2022-07-31 19:36:34+02:00
+UI/window-basic-main.hpp,PatTheMav,Chip Bradford,2022-07-31 19:36:34+02:00,2022-07-31 15:39:18-07:00
+UI/window-basic-main.hpp,Roman Huts,cg2121,2022-11-18 18:18:08-08:00,2022-11-20 11:07:22+11:00
+UI/window-basic-main.hpp,Exeldro,cg2121,2023-02-04 15:23:26-08:00,2023-02-04 16:02:04-08:00
+UI/window-basic-main.hpp,Lain,cg2121,2023-05-20 01:31:18-07:00,2023-05-20 17:06:18-07:00
+UI/window-basic-main.hpp,Igor Bochkariov,tytan652,2023-06-04 09:39:47+10:00,2023-06-03 16:47:01-07:00
+UI/window-basic-main.hpp,Norihiro Kamae,gxalpha,2023-07-12 11:09:36-04:00,2023-07-12 13:22:13-04:00
+UI/window-basic-main.hpp,gxalpha,derrod,2023-07-21 13:19:52+02:00,2023-07-21 23:22:07+02:00
+UI/window-basic-main.hpp,Ryan Foster,gxalpha,2023-08-15 12:27:18-04:00,2023-08-15 15:56:43-07:00
+UI/window-basic-main.hpp,derrod,Warchamp7,2024-04-13 16:06:28-07:00,2024-04-13 16:44:51-07:00
+UI/window-basic-main.hpp,gxalpha,derrod,2024-05-25 17:06:21-07:00,2024-05-26 23:11:48+02:00
+UI/window-basic-main.hpp,Ruwen Hahn,tytan652,2024-06-04 20:50:46-04:00,2024-06-05 17:39:54-04:00
+UI/window-basic-preview.cpp,Clayton Groeneveld,Matt Gajownik,2022-07-30 19:41:18-07:00,2022-07-31 14:19:27+10:00
+UI/window-basic-preview.cpp,Matt Gajownik,PatTheMav,2022-07-31 14:19:27+10:00,2022-07-31 19:36:34+02:00
+UI/window-basic-preview.cpp,gxalpha,cg2121,2022-08-06 16:10:20-07:00,2022-08-06 16:14:24-07:00
+UI/window-basic-preview.cpp,PatTheMav,Richard Stanway,2022-10-15 16:06:50-07:00,2022-10-15 16:17:46-07:00
+UI/window-basic-preview.cpp,PatTheMav,Lain,2023-08-15 16:05:04-07:00,2023-08-15 17:11:23-07:00
+UI/window-basic-settings-stream.cpp,SoftArch,Richard Stanway,2019-07-21 22:16:43-07:00,2019-07-23 00:47:18+02:00
+UI/window-basic-settings-stream.cpp,Joe Flateau,VodBox,2021-04-20 13:34:05+12:00,2021-04-20 13:47:27+12:00
+UI/window-basic-settings-stream.cpp,geekenmd,iamflorencejay,2021-05-08 15:14:19-07:00,2021-05-08 15:31:43-07:00
+UI/window-basic-settings-stream.cpp,iamflorencejay,Developer,2021-05-08 15:31:43-07:00,2021-05-08 19:16:13-07:00
+UI/window-basic-settings-stream.cpp,Developer,jp9000,2021-05-08 19:16:13-07:00,2021-05-09 00:55:16-07:00
+UI/window-basic-settings-stream.cpp,Ryan Foster,derrod,2021-08-16 09:48:14-07:00,2021-08-17 18:35:55+02:00
+UI/window-basic-settings-stream.cpp,Matt Gajownik,VodBox,2021-11-26 17:28:34+11:00,2021-11-26 23:23:51+13:00
+UI/window-basic-settings-stream.cpp,Sean DuBois,Colin Edwards,2023-06-09 20:20:49-05:00,2023-06-10 16:50:55-07:00
+UI/window-basic-settings-stream.cpp,Colin Edwards,derrod,2023-06-10 16:50:55-07:00,2023-06-11 02:18:17+02:00
+UI/window-basic-settings.cpp,cg2121,dennis,2017-01-29 06:02:15-08:00,2017-01-29 19:09:23-08:00
+UI/window-basic-settings.cpp,derrod,Michael Fabian Dirks,2017-02-25 06:21:24-08:00,2017-02-25 08:03:00-08:00
+UI/window-basic-settings.cpp,Michael Fabian Dirks,derrod,2017-02-25 08:03:00-08:00,2017-02-25 09:08:01-08:00
+UI/window-basic-settings.cpp,fryshorts,jp9000,2017-05-06 15:59:41+02:00,2017-05-06 11:29:41-07:00
+UI/window-basic-settings.cpp,pkviet,cg2121,2017-11-26 03:41:53-08:00,2017-11-26 19:05:50-08:00
+UI/window-basic-settings.cpp,pkviet,Shaolin,2018-01-05 09:48:52-08:00,2018-01-05 19:26:30-02:00
+UI/window-basic-settings.cpp,jp9000,VodBox,2019-02-07 17:00:47-08:00,2019-02-08 20:38:53+13:00
+UI/window-basic-settings.cpp,jp9000,Richard Stanway,2019-02-11 17:12:34-08:00,2019-02-12 12:55:31+01:00
+UI/window-basic-settings.cpp,derrod,Clayton Groenveld,2019-03-02 23:28:50-06:00,2019-03-03 22:38:23-06:00
+UI/window-basic-settings.cpp,Clayton Groeneveld,jp9000,2019-05-02 08:54:14-07:00,2019-05-02 15:47:35-07:00
+UI/window-basic-settings.cpp,Grant Likely,Jonathan Baecker,2019-07-21 22:57:31-07:00,2019-07-22 01:20:12-07:00
+UI/window-basic-settings.cpp,jpark37,Clayton Groeneveld,2019-08-14 22:33:52-07:00,2019-08-15 03:00:06-05:00
+UI/window-basic-settings.cpp,derrod,Clayton Groeneveld,2019-11-19 21:06:36-08:00,2019-11-19 21:27:37-08:00
+UI/window-basic-settings.cpp,VodBox,Clayton Groeneveld,2020-02-16 17:56:06+13:00,2020-02-16 16:12:00-06:00
+UI/window-basic-settings.cpp,Matt Gajownik,Kurt Kartaltepe,2020-03-19 21:04:11+11:00,2020-03-19 20:36:55-07:00
+UI/window-basic-settings.cpp,Matt Gajownik,jp9000,2020-07-10 20:12:59-07:00,2020-07-11 06:05:35-07:00
+UI/window-basic-settings.cpp,Delta,VodBox,2021-07-20 17:16:44+12:00,2021-07-20 17:24:16+12:00
+UI/window-basic-settings.cpp,Cody Jung,Matt Gajownik,2022-01-05 20:53:17+11:00,2022-01-05 23:56:34-08:00
+UI/window-basic-settings.cpp,gxalpha,tytan652,2022-06-25 16:30:27-07:00,2022-06-25 17:11:29-07:00
+UI/window-basic-settings.cpp,gxalpha,mvji,2022-07-11 23:45:43+02:00,2022-07-12 23:37:01+10:00
+UI/window-basic-settings.cpp,VodBox,Warchamp7,2022-07-27 21:37:30-04:00,2022-07-28 12:19:20-04:00
+UI/window-basic-settings.cpp,Warchamp7,jp9000,2022-07-28 12:19:20-04:00,2022-07-28 20:38:51-07:00
+UI/window-basic-settings.cpp,jpark37,tytan652,2022-07-31 21:45:51-07:00,2022-07-31 21:48:56-07:00
+UI/window-basic-settings.cpp,gxalpha,jp9000,2022-08-17 13:45:40-07:00,2022-08-18 03:21:49-07:00
+UI/window-basic-settings.cpp,gxalpha,cg2121,2022-08-30 22:41:29-04:00,2022-08-31 11:05:24-07:00
+UI/window-basic-settings.cpp,PatTheMav,gxalpha,2022-11-02 22:44:20+01:00,2022-11-02 22:44:20+01:00
+UI/window-basic-settings.cpp,derrod,Richard Stanway,2022-11-08 05:38:37-08:00,2022-11-08 20:44:47-08:00
+UI/window-basic-settings.cpp,Roman Huts,jpark37,2022-11-18 18:18:08-08:00,2022-11-19 15:20:03-08:00
+UI/window-basic-settings.cpp,derrod,Jim,2022-11-22 02:54:07+01:00,2022-11-21 19:08:02-08:00
+UI/window-basic-settings.cpp,derrod,gxalpha,2023-02-19 01:35:56+01:00,2023-02-19 20:39:47+01:00
+UI/window-basic-settings.cpp,gxalpha,derrod,2023-02-19 20:39:47+01:00,2023-02-19 15:41:54-08:00
+UI/window-basic-settings.cpp,derrod,gxalpha,2023-02-19 15:41:54-08:00,2023-02-20 23:46:59+01:00
+UI/window-basic-settings.cpp,gxalpha,jpark37,2023-02-20 23:46:59+01:00,2023-02-21 18:48:44+01:00
+UI/window-basic-settings.cpp,gxalpha,tytan652,2023-03-18 15:32:56-07:00,2023-03-19 17:08:06+01:00
+UI/window-basic-settings.cpp,Norihiro Kamae,tytan652,2023-03-23 23:00:47+11:00,2023-03-24 09:14:09+01:00
+UI/window-basic-settings.cpp,derrod,pkv,2023-03-25 16:28:56-07:00,2023-03-25 20:54:07-04:00
+UI/window-basic-settings.cpp,pkv,derrod,2023-03-25 20:54:07-04:00,2023-03-25 18:57:01-07:00
+UI/window-basic-settings.cpp,derrod,gxalpha,2023-04-01 16:19:27-07:00,2023-04-01 16:25:49-07:00
+UI/window-basic-settings.cpp,gxalpha,cg2121,2023-04-01 16:43:07-07:00,2023-04-01 16:54:02-07:00
+UI/window-basic-settings.cpp,derrod,gxalpha,2023-04-04 00:54:28+00:00,2023-04-04 17:27:45+00:00
+UI/window-basic-settings.cpp,gxalpha,derrod,2023-04-04 16:24:35-07:00,2023-04-05 09:45:56-07:00
+UI/window-basic-settings.cpp,derrod,Richard Stanway,2023-04-05 09:45:56-07:00,2023-04-05 21:26:21+00:00
+UI/window-basic-settings.cpp,Ruwen Hahn,Richard Stanway,2024-06-04 20:50:46-04:00,2024-06-05 19:23:40-04:00
+UI/window-basic-settings.cpp,derrod,PatTheMav,2024-08-22 14:33:22+02:00,2024-08-22 16:45:12-04:00
+UI/window-basic-settings.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/window-basic-settings.hpp,gxalpha,cg2121,2023-04-01 16:43:07-07:00,2023-04-01 16:54:02-07:00
+UI/window-basic-source-select.cpp,Norihiro Kamae,gxalpha,2023-06-17 16:42:53-07:00,2023-06-17 16:46:05-07:00
+UI/window-basic-stats.cpp,SuslikV,jp9000,2017-08-10 21:40:18-07:00,2017-08-11 08:52:09-07:00
+UI/window-basic-stats.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/window-basic-transform.cpp,Clayton Groeneveld,Ford Smith,2021-04-10 01:49:30-07:00,2021-04-10 11:28:04-07:00
+UI/window-basic-vcam-config.cpp,Chip Bradford,tytan652,2022-08-17 23:21:28-07:00,2022-08-18 02:35:13-07:00
+UI/window-basic-vcam-config.hpp,Chip Bradford,tytan652,2022-08-17 23:21:28-07:00,2022-08-18 02:35:13-07:00
+UI/window-dock-browser.hpp,Matt Gajownik,Ryan Foster,2023-08-15 12:27:18-04:00,2023-08-15 12:27:18-04:00
+UI/window-dock-youtube-app.cpp,tytan652,Lain,2023-08-05 03:46:50-07:00,2023-08-05 04:35:31-07:00
+UI/window-dock-youtube-app.cpp,Lain,tytan652,2023-08-05 04:35:31-07:00,2023-08-05 16:44:16-07:00
+UI/window-dock-youtube-app.cpp,Suman Manjunath,Ryan Foster,2024-10-04 16:14:38-04:00,2024-10-04 18:19:27-04:00
+UI/window-dock-youtube-app.hpp,Suman Manjunath,Ryan Foster,2024-10-04 16:14:38-04:00,2024-10-04 18:19:27-04:00
+UI/window-dock.cpp,jp9000,Clayton Groeneveld,2019-03-05 14:39:24-08:00,2019-03-05 15:33:03-08:00
+UI/window-dock.hpp,Matt Gajownik,Ryan Foster,2023-08-15 12:27:18-04:00,2023-08-15 12:27:18-04:00
+UI/window-extra-browsers.cpp,Matt Gajownik,Ryan Foster,2023-08-15 12:27:18-04:00,2023-08-15 12:27:18-04:00
+UI/window-extra-browsers.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+UI/window-missing-files.cpp,Matt Gajownik,VodBox,2021-03-05 21:14:56+11:00,2021-03-06 15:33:12+13:00
+UI/window-projector.cpp,Norihiro Kamae,univrsal,2022-01-07 15:17:20-08:00,2022-01-07 15:40:05-08:00
+UI/window-remux.cpp,jp9000,cg2121,2018-09-18 17:00:01-07:00,2018-09-18 20:55:12-05:00
+UI/window-remux.cpp,bin,Richard Stanway,2023-02-15 11:22:03-05:00,2023-02-15 13:40:13-05:00
+UI/window-youtube-actions.cpp,Warchamp7,derrod,2021-08-23 06:16:38-07:00,2021-08-23 18:28:23-07:00
+UI/window-youtube-actions.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+additional_install_files/.gitignore,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:11-07:00
+azure-pipelines.yml,Colin Edwards,Gol-D-Ace,2019-03-07 17:23:08+01:00,2019-03-08 05:46:11+01:00
+build-aux/.run-format.zsh,tytan652,derrod,2023-07-22 16:12:12-07:00,2023-07-22 18:06:26-07:00
+build-aux/com.obsproject.Studio.json,Kurt Kartaltepe,tytan652,2023-07-14 12:19:33-04:00,2023-07-14 15:32:04-04:00
+build/data/obs-studio/locale/en.txt,Socapex,jp9000,2014-05-12 15:01:51-04:00,2014-05-12 15:34:46-07:00
+buildspec.json,PatTheMav,Ryan Foster,2023-03-26 18:20:38-04:00,2023-03-26 22:26:26-04:00
+cmake/Modules/CopyMSVCBins.cmake,gxalpha,pkv,2023-07-19 11:56:54-04:00,2023-07-20 10:28:11-04:00
+cmake/Modules/FindFreetype.cmake,jp9000,BtbN,2014-08-20 15:17:12-07:00,2014-08-21 16:36:21+02:00
+cmake/Modules/FindLibVLC.cmake,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+cmake/Modules/FindLibavcodec.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:11-07:00
+cmake/Modules/FindLibavformat.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:23-07:00
+cmake/Modules/FindLibavutil.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:23-07:00
+cmake/Modules/FindLibfdk.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:11-07:00
+cmake/Modules/FindLibswresample.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:23-07:00
+cmake/Modules/FindLibswscale.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:23-07:00
+cmake/Modules/FindLibv4l2.cmake,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+cmake/Modules/FindLibx264.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:11-07:00
+cmake/Modules/FindMbedTLS.cmake,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+cmake/Modules/FindXCB.cmake,Zachary Lund,Jake Probst,2014-12-19 19:23:08-08:00,2014-12-19 21:51:37-08:00
+cmake/Modules/FindXCB.cmake,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+cmake/Modules/FindZLIB.cmake,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+cmake/Modules/ObsHelpers.cmake,BtbN,jp9000,2014-01-25 19:13:33+01:00,2014-01-25 12:34:37-07:00
+cmake/Modules/ObsHelpers.cmake,jp9000,Palana,2014-01-25 12:34:37-07:00,2014-01-25 20:39:09+01:00
+cmake/Modules/ObsHelpers.cmake,Palana,BtbN,2014-01-25 20:39:09+01:00,2014-01-26 02:04:36+01:00
+cmake/Modules/ObsHelpers.cmake,BtbN,jp9000,2014-07-19 01:38:42+02:00,2014-07-18 22:41:11-07:00
+cmake/Modules/ObsHelpers.cmake,PatTheMav,Ryan Foster,2022-07-31 17:48:35+02:00,2022-07-31 13:45:57-04:00
+cmake/Modules/ObsHelpers_macOS.cmake,tytan652,PatTheMav,2022-03-28 13:44:10-04:00,2022-03-28 14:54:58-07:00
+cmake/common/helpers_common.cmake,PatTheMav,gxalpha,2023-03-26 18:20:38-04:00,2023-03-27 16:08:22-04:00
+cmake/common/versionconfig.cmake,derrod,PatTheMav,2023-04-07 20:59:30+02:00,2023-04-07 21:11:37+02:00
+cmake/osxbundle/Info.plist,BtbN,Palana,2014-01-24 18:56:32+01:00,2014-01-24 23:22:34+01:00
+cmake/osxbundle/obs.icns,BtbN,Palana,2014-01-24 18:56:32+01:00,2014-01-24 23:22:34+01:00
+cmake/osxbundle/obs.icns,Palana,Anry,2014-01-24 23:22:34+01:00,2014-01-25 17:59:25+04:00
+configure.ac,jp9000,Christoph Hohmann,2013-11-13 06:24:20-07:00,2013-11-13 17:26:15+01:00
+deps/CMakeLists.txt,jp9000,BtbN,2014-04-19 20:33:45-07:00,2014-04-20 17:51:06+02:00
+deps/file-updater/file-updater/file-updater.c,Richard Stanway,jp9000,2016-04-22 18:16:53+02:00,2016-04-23 08:17:47-07:00
+deps/glad/CMakeLists.txt,Colin Edwards,Ryan Foster,2017-12-02 22:40:10-06:00,2017-12-03 19:10:34-05:00
+deps/jansson/CMakeLists.txt,jp9000,BtbN,2014-04-19 21:32:02-07:00,2014-04-20 17:51:06+02:00
+deps/jansson/CMakeLists.txt,GoaLitiuM,fryshorts,2015-05-04 19:33:54+03:00,2015-05-04 19:32:23+02:00
+deps/libff/libff/ff-demuxer.c,kc5nra,John Bradley,2015-03-09 21:22:32-05:00,2015-03-10 12:47:08-05:00
+deps/libff/libff/ff-demuxer.c,jp9000,Christoph Hohmann,2016-04-09 18:10:48-07:00,2016-04-10 18:53:26+02:00
+deps/media-playback/media-playback/media.c,jp9000,Exeldro,2018-02-15 13:32:35-08:00,2018-02-15 15:18:13-08:00
+deps/media-playback/media-playback/media.c,jpark37,jp9000,2020-09-06 20:51:28-07:00,2020-09-07 12:36:40-07:00
+deps/media-playback/media-playback/media.c,jp9000,nkmerrill,2020-09-07 12:36:40-07:00,2020-09-07 19:50:40-06:00
+deps/media-playback/media-playback/media.c,jpark37,wangshaohui,2021-08-15 00:12:14-07:00,2021-08-15 06:11:03-07:00
+deps/media-playback/media-playback/media.c,wangshaohui,jp9000,2021-08-15 06:11:03-07:00,2021-08-15 10:59:03-07:00
+deps/media-playback/media-playback/media.h,jp9000,Exeldro,2018-02-15 13:32:35-08:00,2018-02-15 15:18:13-08:00
+deps/obs-scripting/CMakeLists.txt,luz.paz,Matt Gajownik,2019-10-14 17:19:38-07:00,2019-10-15 21:34:12+11:00
+deps/obs-scripting/CMakeLists.txt,Matt Gajownik,jpark37,2019-10-15 21:34:12+11:00,2019-10-15 21:08:30-07:00
+deps/obs-scripting/obs-scripting-lua.c,Colin Edwards,jp9000,2018-01-15 21:12:40-06:00,2018-01-16 03:55:38-08:00
+deps/obs-scripting/obs-scripting-python-import.c,Ryan Foster,PatTheMav,2023-03-26 10:27:52+11:00,2023-03-26 18:20:38-04:00
+deps/obs-scripting/obs-scripting-python.c,PatTheMav,Patrick Heyer,2022-10-10 02:07:02+02:00,2022-10-10 02:07:02+02:00
+deps/w32-pthreads/CMakeLists.txt,jp9000,BtbN,2014-04-19 21:08:38-07:00,2014-04-20 17:51:05+02:00
+docs/sphinx/reference-core.rst,CodeYan01,gxalpha,2022-11-05 16:12:13-07:00,2022-11-05 18:06:53-07:00
+docs/sphinx/reference-core.rst,derrod,Exeldro,2023-03-18 10:47:49+01:00,2023-03-18 15:54:38-07:00
+docs/sphinx/reference-encoders.rst,Jim,jp9000,2022-01-25 05:20:03-08:00,2022-01-25 06:22:13-08:00
+docs/sphinx/reference-frontend-api.rst,Scratch,hgonomeg,2020-10-10 13:50:08+11:00,2020-10-10 17:53:13-07:00
+docs/sphinx/reference-frontend-api.rst,tt2468,SCG82,2021-07-09 17:39:40+12:00,2021-07-09 19:32:18+12:00
+docs/sphinx/reference-frontend-api.rst,Matt Gajownik,gxalpha,2022-07-30 11:09:01+10:00,2022-07-30 18:50:13+10:00
+docs/sphinx/reference-frontend-api.rst,cg2121,Jim,2022-10-30 19:53:11-07:00,2022-10-30 20:35:36-07:00
+docs/sphinx/reference-frontend-api.rst,CodeYan01,gxalpha,2022-12-03 15:33:59-08:00,2022-12-03 15:36:49-08:00
+docs/sphinx/reference-libobs-util-platform.rst,derrod,Tommy Vercetti,2022-11-08 05:38:37-08:00,2022-11-09 03:03:26-08:00
+docs/sphinx/reference-modules.rst,Matt Gajownik,tytan652,2022-07-30 11:09:01+10:00,2022-07-30 16:55:03-07:00
+docs/sphinx/reference-outputs.rst,Jim,jp9000,2022-01-25 05:20:03-08:00,2022-01-25 06:22:13-08:00
+docs/sphinx/reference-scenes.rst,tt2468,gxalpha,2021-11-23 21:52:30-08:00,2021-11-23 22:00:47-08:00
+docs/sphinx/reference-scenes.rst,Jim,jp9000,2022-01-25 05:20:03-08:00,2022-01-25 06:22:13-08:00
+docs/sphinx/reference-services.rst,Jim,jp9000,2022-01-25 05:20:03-08:00,2022-01-25 06:22:13-08:00
+docs/sphinx/reference-sources.rst,tt2468,Kasin Sparks,2021-11-23 21:52:30-08:00,2021-11-23 22:06:25-08:00
+docs/sphinx/reference-sources.rst,Jim,jp9000,2022-01-25 05:20:03-08:00,2022-01-25 06:22:13-08:00
+docs/sphinx/reference-sources.rst,CodeYan01,gxalpha,2022-11-05 16:12:13-07:00,2022-11-05 18:06:53-07:00
+docs/sphinx/reference-sources.rst,CodeYan01,jpark37,2023-07-29 16:15:21-07:00,2023-07-29 16:41:31-07:00
+frontend/utility/models/multitrack-video.hpp,Ruwen Hahn,Dennis Sädtler,2025-01-29 14:37:19-05:00,2025-01-29 15:01:19-05:00
+libobs-d3d11/d3d11-exports.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs-d3d11/d3d11-subsystem.cpp,BtbN,jp9000,2014-04-12 12:45:18+02:00,2014-04-12 11:21:47-07:00
+libobs-d3d11/d3d11-subsystem.cpp,martell,jp9000,2015-02-09 03:46:11-08:00,2015-02-09 03:56:08-08:00
+libobs-d3d11/d3d11-subsystem.cpp,jp9000,Richard Stanway,2019-06-23 23:49:10-07:00,2019-06-25 00:51:01+02:00
+libobs-d3d11/d3d11-subsystem.cpp,jpark37,jp9000,2019-08-28 21:11:48-07:00,2019-08-29 12:43:10-07:00
+libobs-d3d11/d3d11-subsystem.cpp,jp9000,jpark37,2019-10-10 03:03:38-07:00,2019-10-10 21:06:01-07:00
+libobs-d3d11/d3d11-subsystem.cpp,jpark37,jp9000,2019-10-10 21:06:01-07:00,2019-10-11 17:21:11-07:00
+libobs-d3d11/d3d11-subsystem.cpp,Lain,derrod,2023-05-20 01:31:18-07:00,2023-05-20 16:24:58-07:00
+libobs-d3d11/d3d11-subsystem.cpp,derrod,Ryan Foster,2023-07-15 16:14:55-07:00,2023-07-15 16:41:45-07:00
+libobs-d3d11/d3d11-subsystem.cpp,Richard Stanway,derrod,2023-07-22 16:59:31-07:00,2023-07-22 18:04:08-07:00
+libobs-opengl/CMakeLists.txt,BtbN,Zachary Lund,2014-01-24 18:56:32+01:00,2014-01-24 21:55:10-06:00
+libobs-opengl/CMakeLists.txt,Carl Fürstenberg,jp9000,2015-01-13 17:51:38-08:00,2015-01-13 21:38:47-08:00
+libobs-opengl/gl-cocoa.m,Palana,jp9000,2013-11-14 18:31:18+01:00,2013-11-14 10:48:48-07:00
+libobs-opengl/gl-cocoa.m,jp9000,Palana,2013-11-14 10:48:48-07:00,2013-11-15 15:03:35+01:00
+libobs-opengl/gl-cocoa.m,jp9000,Palana,2013-12-31 03:13:56-07:00,2013-12-31 18:46:19+01:00
+libobs-opengl/gl-egl-common.c,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+libobs-opengl/gl-exports.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs-opengl/gl-helpers.c,BtbN,jp9000,2014-04-12 12:45:18+02:00,2014-04-12 11:21:47-07:00
+libobs-opengl/gl-helpers.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs-opengl/gl-helpers.h,jp9000,jpark37,2019-06-23 23:49:10-07:00,2019-06-24 23:13:04-05:00
+libobs-opengl/gl-nix.c,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+libobs-opengl/gl-shader.c,jp9000,GoaLitiuM,2014-09-25 21:48:11-07:00,2014-09-27 01:35:36+03:00
+libobs-opengl/gl-shader.c,GoaLitiuM,jp9000,2014-09-27 01:35:36+03:00,2014-09-26 17:23:07-07:00
+libobs-opengl/gl-shaderparser.c,John Bradley,John R. Bradley,2016-03-21 21:22:28-07:00,2016-03-21 21:22:28-07:00
+libobs-opengl/gl-subsystem.c,Palana,jp9000,2013-11-02 22:24:57+01:00,2013-11-02 14:44:40-07:00
+libobs-opengl/gl-subsystem.c,Zachary Lund,jp9000,2014-01-05 23:50:32-06:00,2014-01-06 17:36:19-07:00
+libobs-opengl/gl-subsystem.c,jp9000,Zachary Lund,2014-01-06 19:02:19-07:00,2014-01-07 18:24:04-06:00
+libobs-opengl/gl-subsystem.c,Zachary Lund,jp9000,2014-02-06 17:49:12-06:00,2014-02-07 03:03:54-07:00
+libobs-opengl/gl-subsystem.c,jp9000,BtbN,2014-04-11 13:14:20-07:00,2014-04-12 12:45:18+02:00
+libobs-opengl/gl-subsystem.c,BtbN,jp9000,2014-04-12 16:24:38+02:00,2014-04-12 11:21:47-07:00
+libobs-opengl/gl-subsystem.c,jp9000,BtbN,2014-04-15 12:19:20-07:00,2014-04-15 22:19:40+02:00
+libobs-opengl/gl-subsystem.c,BtbN,Zachary Lund,2014-07-10 14:36:16+02:00,2014-07-11 01:36:42-05:00
+libobs-opengl/gl-subsystem.c,John R. Bradley,jp9000,2016-03-21 21:22:29-07:00,2016-03-22 12:01:35-07:00
+libobs-opengl/gl-subsystem.c,jp9000,jpark37,2019-06-23 23:49:10-07:00,2019-06-24 23:13:04-05:00
+libobs-opengl/gl-subsystem.h,Palana,jp9000,2013-11-14 18:29:37+01:00,2013-11-15 06:34:05-07:00
+libobs-opengl/gl-subsystem.h,Zachary Lund,jp9000,2014-01-06 17:51:45-06:00,2014-01-06 17:36:19-07:00
+libobs-opengl/gl-subsystem.h,jp9000,BtbN,2014-04-11 13:14:20-07:00,2014-04-12 16:24:38+02:00
+libobs-opengl/gl-subsystem.h,BtbN,jp9000,2014-04-12 16:24:38+02:00,2014-04-12 23:57:40-07:00
+libobs-opengl/gl-subsystem.h,jp9000,jpark37,2019-06-23 23:49:10-07:00,2019-06-24 23:13:04-05:00
+libobs-opengl/gl-vertexbuffer.c,Palana,jp9000,2013-11-14 17:51:38+01:00,2013-11-15 06:34:05-07:00
+libobs-opengl/gl-vertexbuffer.c,jp9000,jpark37,2019-06-23 23:49:10-07:00,2019-06-24 23:13:04-05:00
+libobs-opengl/gl-wayland-egl.c,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+libobs-opengl/gl-windows.c,Zachary Lund,jp9000,2014-01-05 23:50:32-06:00,2014-01-06 19:02:19-07:00
+libobs-opengl/gl-windows.c,jp9000,Zachary Lund,2014-01-06 19:02:19-07:00,2014-01-07 18:24:04-06:00
+libobs-opengl/gl-x11-egl.c,Kurt Kartaltepe,Barnabás Pőcze,2023-01-24 16:28:51-03:00,2023-01-25 13:56:50-05:00
+libobs-opengl/gl-x11.c,BtbN,Zachary Lund,2014-04-03 23:41:22+02:00,2014-04-03 17:36:01-05:00
+libobs-opengl/gl-x11.c,BtbN,jp9000,2014-04-12 16:24:38+02:00,2014-04-12 11:21:47-07:00
+libobs-winrt/winrt-capture.cpp,jp9000,jpark37,2020-03-17 12:22:20-07:00,2020-03-18 00:33:12-07:00
+libobs-winrt/winrt-capture.cpp,jpark37,Richard Stanway,2020-03-18 09:21:40-07:00,2020-03-19 15:50:32+01:00
+libobs-winrt/winrt-capture.cpp,Richard Stanway,jpark37,2021-08-19 02:16:45+02:00,2021-08-19 02:47:55-07:00
+libobs-winrt/winrt-capture.h,jp9000,jpark37,2020-03-17 12:22:20-07:00,2020-03-18 00:33:12-07:00
+libobs/CMakeLists.txt,Palana,Matthew McNamara,2013-12-06 21:31:42+01:00,2013-12-07 21:05:31+01:00
+libobs/CMakeLists.txt,Matthew McNamara,Ján Mlynek,2013-12-07 21:05:31+01:00,2013-12-07 22:51:58+01:00
+libobs/CMakeLists.txt,jp9000,BtbN,2014-01-27 23:14:58-07:00,2014-01-28 23:07:49+01:00
+libobs/CMakeLists.txt,jp9000,BtbN,2014-02-01 18:01:31-07:00,2014-02-02 22:38:20+01:00
+libobs/CMakeLists.txt,jp9000,fryshorts,2014-02-14 15:13:36-07:00,2014-02-15 17:32:33+01:00
+libobs/CMakeLists.txt,jp9000,BtbN,2014-04-01 11:55:18-07:00,2014-04-01 22:11:44+02:00
+libobs/CMakeLists.txt,jp9000,Palana,2014-04-24 02:19:03-07:00,2014-04-24 16:46:54+02:00
+libobs/CMakeLists.txt,jp9000,BtbN,2014-06-28 10:12:58-07:00,2014-06-28 20:37:57+02:00
+libobs/CMakeLists.txt,Timo R,BtbN,2014-07-10 14:37:50+02:00,2014-07-10 14:38:46+02:00
+libobs/CMakeLists.txt,fryshorts,jp9000,2014-11-26 20:07:26+01:00,2014-11-27 00:07:48-08:00
+libobs/CMakeLists.txt,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+libobs/CMakeLists.txt,PatTheMav,jpark37,2022-03-26 09:44:23-04:00,2022-03-26 13:00:34-07:00
+libobs/audio-monitoring/pulse/pulseaudio-output.c,Shaolin,Tjienta Vara,2018-01-07 19:27:58-02:00,2018-01-08 19:31:09+01:00
+libobs/cmake/legacy.cmake,PatTheMav,Norihiro Kamae,2023-03-26 18:20:38-04:00,2023-03-27 15:30:05+02:00
+libobs/data/color.effect,jpark37,Norihiro Kamae,2022-05-11 03:38:07-07:00,2022-05-11 11:28:20-04:00
+libobs/data/default.effect,jpark37,Lain,2023-08-15 13:15:45-07:00,2023-08-15 17:11:23-07:00
+libobs/data/format_conversion.effect,jpark37,Norihiro Kamae,2023-03-26 01:52:44-07:00,2023-03-26 05:13:00-07:00
+libobs/graphics/graphics-ffmpeg.c,jp9000,BtbN,2014-06-28 11:12:25-07:00,2014-06-28 20:54:14+02:00
+libobs/graphics/graphics-ffmpeg.c,BtbN,jp9000,2014-06-28 20:54:14+02:00,2014-06-29 10:57:20-07:00
+libobs/graphics/graphics-internal.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs/graphics/graphics-magick.c,jp9000,BtbN,2014-06-28 10:12:58-07:00,2014-06-28 20:37:57+02:00
+libobs/graphics/graphics-magick.c,BtbN,jp9000,2014-06-28 20:37:57+02:00,2014-06-28 18:52:13-07:00
+libobs/graphics/graphics.c,Richard Stanway,Palana,2015-05-16 18:44:25+02:00,2015-05-16 22:10:15+02:00
+libobs/graphics/graphics.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs/graphics/image-file.c,jp9000,Shaolin,2019-03-28 22:30:20-07:00,2019-03-29 06:29:04-03:00
+libobs/media-io/audio-io.c,jp9000,GoaLitiuM,2014-09-25 21:48:11-07:00,2014-09-27 01:35:36+03:00
+libobs/media-io/audio-io.c,GoaLitiuM,jp9000,2014-09-27 01:35:36+03:00,2014-09-26 17:23:07-07:00
+libobs/media-io/audio-io.h,Christoph Hohmann,Tjienta Vara,2018-01-16 11:56:11-08:00,2018-01-17 13:05:04+01:00
+libobs/media-io/audio-resampler-ffmpeg.c,jp9000,fryshorts,2014-02-14 15:13:36-07:00,2014-02-15 17:32:33+01:00
+libobs/media-io/video-frame.c,jpark37,PatTheMav,2023-03-26 01:52:44-07:00,2023-03-26 13:48:01-04:00
+libobs/media-io/video-matrices.c,Palana,jp9000,2014-04-24 16:47:06+02:00,2014-04-24 21:10:39-07:00
+libobs/obs-audio-controls.c,fryshorts,jp9000,2014-11-26 20:07:26+01:00,2014-11-27 00:07:48-08:00
+libobs/obs-audio-controls.c,Tjienta Vara,jp9000,2018-04-30 03:53:26-07:00,2018-04-30 04:16:15-07:00
+libobs/obs-audio-controls.c,Clayton Groeneveld,jp9000,2021-10-24 01:57:28-07:00,2021-10-24 01:58:46-07:00
+libobs/obs-audio-controls.h,Clayton Groeneveld,jp9000,2021-10-24 01:57:28-07:00,2021-10-24 01:58:46-07:00
+libobs/obs-avc.c,jp9000,Jim,2022-04-22 12:48:09-07:00,2022-04-22 17:00:55-07:00
+libobs/obs-cocoa.c,Palana,jp9000,2013-11-14 18:31:18+01:00,2013-11-15 06:40:03-07:00
+libobs/obs-cocoa.c,BtbN,jp9000,2014-01-25 19:13:33+01:00,2014-01-25 12:34:37-07:00
+libobs/obs-cocoa.c,jp9000,Palana,2014-01-25 12:34:37-07:00,2014-01-25 20:39:09+01:00
+libobs/obs-cocoa.c,Palana,jp9000,2014-01-26 05:25:54+01:00,2014-01-26 18:48:14-07:00
+libobs/obs-cocoa.c,jp9000,Palana,2014-07-12 00:31:42-07:00,2014-07-12 20:33:58+02:00
+libobs/obs-cocoa.m,tytan652,PatTheMav,2023-08-06 01:31:02+02:00,2023-08-05 16:48:53-07:00
+libobs/obs-config.h,derrod,Lain,2023-10-06 17:21:51-06:00,2023-10-06 18:23:49-06:00
+libobs/obs-data.c,jp9000,Jim,2023-03-18 10:46:28+01:00,2023-03-18 10:47:49+01:00
+libobs/obs-data.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs/obs-display.c,jp9000,GoaLitiuM,2014-09-25 21:48:11-07:00,2014-09-27 01:35:36+03:00
+libobs/obs-display.c,GoaLitiuM,jp9000,2014-09-27 01:35:36+03:00,2014-09-26 17:23:07-07:00
+libobs/obs-display.c,jpark37,Norihiro Kamae,2022-08-06 16:16:20-07:00,2022-08-06 17:24:56-07:00
+libobs/obs-encoder.c,Richard Stanway,jpark37,2021-08-23 18:26:37-07:00,2021-08-23 22:57:10-07:00
+libobs/obs-encoder.c,tt2468,John Bradley,2023-01-18 12:17:35-06:00,2023-01-18 11:54:20-08:00
+libobs/obs-encoder.h,Torge Matthies,Kurt Kartaltepe,2024-01-26 20:01:58-05:00,2024-01-26 20:01:58-05:00
+libobs/obs-hotkeys.h,Igor Bochkariov,jp9000,2019-11-17 18:07:18-08:00,2019-11-17 20:30:42-08:00
+libobs/obs-internal.h,jp9000,Palana,2014-04-24 02:19:03-07:00,2014-04-24 21:45:54+02:00
+libobs/obs-internal.h,jp9000,Palana,2014-07-28 16:15:09-07:00,2014-07-29 20:06:36+02:00
+libobs/obs-internal.h,jp9000,Palana,2015-05-10 16:07:22-07:00,2015-05-11 20:45:24+02:00
+libobs/obs-internal.h,jp9000,VodBox,2019-02-07 17:00:46-08:00,2019-02-08 20:38:53+13:00
+libobs/obs-internal.h,Clayton Groeneveld,jp9000,2019-12-27 16:38:20-08:00,2019-12-27 16:38:20-08:00
+libobs/obs-internal.h,tududweb,jp9000,2022-08-18 03:43:22-07:00,2022-08-18 11:04:11-07:00
+libobs/obs-internal.h,jp9000,jpark37,2022-08-27 14:29:28-07:00,2022-08-27 16:32:50-07:00
+libobs/obs-internal.h,Antti Tapaninen,gxalpha,2022-11-19 15:34:54-08:00,2022-11-19 20:37:22-05:00
+libobs/obs-internal.h,tytan652,jpark37,2023-03-19 15:29:03+01:00,2023-03-20 01:41:47-07:00
+libobs/obs-module.c,jp9000,Palana,2013-11-01 14:33:00-07:00,2013-11-02 00:53:26+01:00
+libobs/obs-module.c,jp9000,gxalpha,2022-07-28 16:36:01-07:00,2022-07-29 03:29:13+02:00
+libobs/obs-module.h,wang-bin,Colin Edwards,2019-07-09 08:37:43-07:00,2019-07-09 13:39:13-05:00
+libobs/obs-nix.c,BtbN,jp9000,2014-01-24 18:56:32+01:00,2014-01-24 12:52:22-07:00
+libobs/obs-nix.c,jp9000,Zachary Lund,2014-01-24 12:52:22-07:00,2014-01-24 21:55:10-06:00
+libobs/obs-nix.c,Zachary Lund,BtbN,2014-01-24 21:55:10-06:00,2014-01-25 19:13:33+01:00
+libobs/obs-nix.c,BtbN,jp9000,2014-01-25 19:13:33+01:00,2014-01-25 12:34:37-07:00
+libobs/obs-nix.c,jp9000,BtbN,2014-01-25 12:34:37-07:00,2014-01-26 02:04:37+01:00
+libobs/obs-nix.c,BtbN,jp9000,2014-07-28 01:25:18+02:00,2014-07-27 17:28:35-07:00
+libobs/obs-nix.c,Azat Khasanshin,jp9000,2015-04-03 19:20:05+03:00,2015-04-03 19:54:03-07:00
+libobs/obs-nix.c,Palana,jp9000,2015-05-11 20:45:24+02:00,2015-05-11 20:45:25+02:00
+libobs/obs-output-delay.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+libobs/obs-output.c,jp9000,Palana,2015-05-10 16:07:22-07:00,2015-05-11 20:45:24+02:00
+libobs/obs-output.c,Colin Edwards,jpark37,2020-11-03 17:00:14-08:00,2020-11-04 04:45:07-08:00
+libobs/obs-output.c,Kurt Kartaltepe,tytan652,2023-03-18 18:40:12-07:00,2023-03-19 15:29:03+01:00
+libobs/obs-output.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+libobs/obs-output.c,John Bradley,Ruwen Hahn,2023-06-14 02:24:54-07:00,2023-06-14 19:52:05+02:00
+libobs/obs-output.c,John Bowers,JoHn BoWeRs,2024-04-26 18:17:34-07:00,2024-04-26 18:17:34-07:00
+libobs/obs-output.c,JoHn BoWeRs,John Bowers,2024-04-26 18:17:34-07:00,2024-04-26 18:17:34-07:00
+libobs/obs-output.c,John Bowers,JoHn BoWeRs,2024-04-26 18:17:34-07:00,2024-04-26 18:17:34-07:00
+libobs/obs-properties.c,Clayton Groeneveld,James Park,2019-05-02 08:54:14-07:00,2019-05-02 19:09:34-07:00
+libobs/obs-properties.c,Lain,gxalpha,2023-05-20 01:31:18-07:00,2023-05-20 16:48:23-07:00
+libobs/obs-properties.h,Palana,jp9000,2014-06-25 15:29:00+02:00,2014-06-25 12:36:26-07:00
+libobs/obs-properties.h,Lain,gxalpha,2023-05-20 01:31:18-07:00,2023-05-20 16:48:23-07:00
+libobs/obs-scene.c,jp9000,Palana,2014-01-28 18:41:24-07:00,2014-01-29 22:46:39+01:00
+libobs/obs-scene.c,Palana,jp9000,2014-01-30 00:13:43+01:00,2014-01-29 18:27:42-07:00
+libobs/obs-scene.c,jp9000,Palana,2014-02-02 17:03:55-07:00,2014-02-03 02:34:06+01:00
+libobs/obs-scene.c,Michael Fabian Dirks,Dmitry Odintsov,2017-07-21 08:30:14-07:00,2017-07-21 08:48:05-07:00
+libobs/obs-scene.c,jp9000,Ilya Melamed,2020-02-07 16:45:04-08:00,2020-02-08 13:17:02+02:00
+libobs/obs-scene.c,Ford Smith,Exeldro,2021-04-10 11:28:04-07:00,2021-04-11 10:10:54-07:00
+libobs/obs-scene.c,wangshaohui,jp9000,2021-09-11 15:49:25-07:00,2021-09-11 21:07:43-07:00
+libobs/obs-scene.c,jp9000,Exeldro,2022-03-24 23:03:52-07:00,2022-03-24 23:51:10-07:00
+libobs/obs-scene.c,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:21:20+02:00
+libobs/obs-scene.c,derrod,Norihiro Kamae,2023-03-18 10:47:49+01:00,2023-03-18 15:34:47-07:00
+libobs/obs-scene.c,Jim,Lain,2023-05-19 17:31:14-07:00,2023-05-20 01:31:18-07:00
+libobs/obs-scene.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs/obs-source-transition.c,Clayton Groeneveld,jp9000,2019-12-27 16:38:20-08:00,2019-12-27 16:38:20-08:00
+libobs/obs-source.c,jp9000,Palana,2014-02-02 17:03:55-07:00,2014-02-03 02:34:06+01:00
+libobs/obs-source.c,Palana,jp9000,2014-04-28 21:54:13+02:00,2014-04-28 20:38:15-07:00
+libobs/obs-source.c,jp9000,Palana,2014-05-03 22:54:38-07:00,2014-05-04 21:02:01+02:00
+libobs/obs-source.c,Palana,jp9000,2014-05-04 21:02:01+02:00,2014-05-04 16:20:11-07:00
+libobs/obs-source.c,Palana,jp9000,2014-06-02 16:44:37+02:00,2014-06-03 04:48:20-07:00
+libobs/obs-source.c,jp9000,Palana,2014-07-28 16:15:09-07:00,2014-07-29 17:11:49+02:00
+libobs/obs-source.c,fryshorts,jp9000,2014-11-16 22:07:37+01:00,2014-11-17 06:47:47-08:00
+libobs/obs-source.c,jp9000,John Bradley,2016-03-21 21:22:26-07:00,2016-03-21 21:22:27-07:00
+libobs/obs-source.c,John Bradley,jp9000,2016-03-21 21:22:27-07:00,2016-03-21 21:22:30-07:00
+libobs/obs-source.c,Christoph Hohmann,jp9000,2018-01-16 11:56:11-08:00,2018-01-16 12:02:00-08:00
+libobs/obs-source.c,jp9000,James Park,2019-04-25 15:12:08-07:00,2019-04-25 15:13:05-07:00
+libobs/obs-source.c,jpark37,jp9000,2019-08-30 22:13:03-07:00,2019-08-31 01:15:19-07:00
+libobs/obs-source.c,jpark37,tt2468,2021-04-25 02:13:01-07:00,2021-04-25 09:36:50-07:00
+libobs/obs-source.c,Kasin Sparks,tt2468,2021-11-23 22:06:25-08:00,2021-11-23 23:04:46-08:00
+libobs/obs-source.c,tt2468,jp9000,2021-12-19 11:25:43-08:00,2021-12-19 11:53:19-08:00
+libobs/obs-source.c,Clayton Groeneveld,jpark37,2022-03-08 01:49:24-08:00,2022-03-08 12:56:35-08:00
+libobs/obs-source.c,jpark37,Norihiro Kamae,2022-04-18 05:23:34-07:00,2022-04-18 07:51:07-07:00
+libobs/obs-source.c,tududweb,jp9000,2022-08-18 03:43:22-07:00,2022-08-18 11:04:11-07:00
+libobs/obs-source.c,CodeYan01,jpark37,2023-07-29 16:15:21-07:00,2023-07-29 16:41:31-07:00
+libobs/obs-source.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs/obs-video-gpu-encode.c,Torge Matthies,Kurt Kartaltepe,2024-01-26 20:01:58-05:00,2024-01-26 20:01:58-05:00
+libobs/obs-video.c,Exeldro,Lain,2023-06-10 14:20:13-07:00,2023-06-10 14:30:44-07:00
+libobs/obs-windows.c,Palana,jp9000,2015-05-11 20:45:24+02:00,2015-05-11 20:45:25+02:00
+libobs/obs-windows.c,mntone,adocilesloth,2017-06-27 18:14:48-07:00,2017-06-27 21:35:52-07:00
+libobs/obs-windows.c,Richard Stanway,Tommy Vercetti,2022-11-08 20:44:47-08:00,2022-11-09 03:03:26-08:00
+libobs/obs-windows.c,Lain,derrod,2023-05-20 01:31:18-07:00,2023-05-20 16:24:58-07:00
+libobs/obs.c,jp9000,Palana,2013-11-20 15:00:16-07:00,2013-11-20 23:12:12+01:00
+libobs/obs.c,Palana,jp9000,2013-11-20 23:12:12+01:00,2013-11-20 18:36:46-07:00
+libobs/obs.c,jp9000,GoaLitiuM,2014-09-25 21:48:11-07:00,2014-09-27 01:35:36+03:00
+libobs/obs.c,GoaLitiuM,jp9000,2014-09-27 01:35:36+03:00,2014-09-26 17:23:07-07:00
+libobs/obs.c,jp9000,Palana,2015-12-22 05:48:43-08:00,2015-12-22 05:48:59-08:00
+libobs/obs.c,Palana,jp9000,2015-12-22 05:49:02-08:00,2015-12-22 06:18:20-08:00
+libobs/obs.c,Caitlin Potter,jp9000,2016-08-21 21:00:07-04:00,2016-08-22 12:05:57-07:00
+libobs/obs.c,jp9000,VodBox,2019-02-07 17:00:46-08:00,2019-02-08 20:38:53+13:00
+libobs/obs.c,jp9000,James Park,2019-03-06 07:43:22-08:00,2019-03-06 20:53:15-08:00
+libobs/obs.c,jp9000,jpark37,2019-07-26 00:05:14-07:00,2019-07-26 23:21:41-07:00
+libobs/obs.c,jp9000,tt2468,2021-12-21 11:48:29-08:00,2021-12-22 02:43:14-08:00
+libobs/obs.c,Antti Tapaninen,gxalpha,2022-11-19 15:34:54-08:00,2022-11-19 20:37:22-05:00
+libobs/obs.c,Exeldro,Lain,2023-11-25 20:49:50-06:00,2023-11-26 20:06:51-06:00
+libobs/obs.c,derrod,Alex Luccisano,2025-01-28 17:36:51-05:00,2025-01-29 14:37:19-05:00
+libobs/obs.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+libobs/obs.h,Palana,jp9000,2014-01-29 22:46:39+01:00,2014-01-29 18:27:42-07:00
+libobs/obs.h,jp9000,Palana,2014-02-01 22:46:13-07:00,2014-02-03 02:34:06+01:00
+libobs/obs.h,jp9000,Palana,2014-04-24 02:19:03-07:00,2014-04-24 21:45:54+02:00
+libobs/obs.h,Danni,jp9000,2014-05-20 09:26:18-05:00,2014-05-21 03:48:29-07:00
+libobs/obs.h,jp9000,Danni,2014-06-15 20:33:13-07:00,2014-06-16 18:52:55-05:00
+libobs/obs.h,Danni,jp9000,2014-06-16 18:52:55-05:00,2014-06-16 21:37:53-07:00
+libobs/obs.h,jp9000,Palana,2015-12-22 05:48:43-08:00,2015-12-22 05:48:59-08:00
+libobs/obs.h,Palana,jp9000,2015-12-22 05:48:59-08:00,2015-12-22 05:49:02-08:00
+libobs/obs.h,John Bradley,jp9000,2016-03-21 21:22:27-07:00,2016-03-21 21:22:32-07:00
+libobs/obs.h,cg2121,Kurt Kartaltepe,2017-03-25 04:23:22-07:00,2017-03-25 09:51:45-07:00
+libobs/obs.h,jp9000,Richard Stanway,2017-05-15 00:18:18-07:00,2017-05-15 12:04:11+02:00
+libobs/obs.h,jp9000,VodBox,2019-02-07 17:00:46-08:00,2019-02-08 20:38:53+13:00
+libobs/obs.h,luz.paz,Exeldro,2019-10-14 17:19:38-07:00,2019-10-15 09:21:21-07:00
+libobs/obs.h,Clayton Groeneveld,jp9000,2019-12-27 16:38:20-08:00,2019-12-27 16:38:20-08:00
+libobs/obs.h,Anton Bershanskiy,Exeldro,2021-03-16 21:38:06-07:00,2021-03-16 22:15:16-07:00
+libobs/obs.h,gxalpha,Clayton Groeneveld,2021-11-23 22:00:47-08:00,2021-11-24 01:32:31-08:00
+libobs/obs.h,jp9000,jw0z96,2021-12-19 11:53:19-08:00,2021-12-20 09:06:38-08:00
+libobs/obs.h,jp9000,Richard Stanway,2021-12-25 17:10:45-08:00,2021-12-26 17:32:00+01:00
+libobs/obs.h,jpark37,jp9000,2022-03-23 22:35:26-07:00,2022-03-24 22:32:41-07:00
+libobs/obs.h,Antti Tapaninen,gxalpha,2022-11-19 15:34:54-08:00,2022-11-19 20:37:22-05:00
+libobs/obs.h,derrod,Exeldro,2023-03-18 10:47:49+01:00,2023-03-18 15:54:38-07:00
+libobs/obs.h,Exeldro,tytan652,2023-03-18 15:54:38-07:00,2023-03-19 15:29:03+01:00
+libobs/obs.h,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+libobs/obs.h,Exeldro,Lain,2024-02-20 21:18:51-06:00,2024-02-20 21:46:13-06:00
+libobs/obs.h,Alex Luccisano,Dennis Sädtler,2025-01-29 14:37:19-05:00,2025-01-29 15:01:19-05:00
+libobs/obs.hpp,jp9000,Palana,2014-02-02 15:34:02-07:00,2014-02-03 05:39:25+01:00
+libobs/util/bmem.c,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+libobs/util/c99defs.h,BtbN,jp9000,2014-01-25 19:13:33+01:00,2014-01-25 12:34:37-07:00
+libobs/util/darray.h,Norihiro Kamae,Lain,2023-06-10 11:54:27-07:00,2023-06-10 12:31:41-07:00
+libobs/util/dstr.c,sunjingzhao,jp9000,2020-07-11 16:01:32-07:00,2020-07-11 16:15:38-07:00
+libobs/util/pipe-posix.c,Exeldro,derrod,2024-04-20 16:57:01-07:00,2024-04-20 18:30:46-07:00
+libobs/util/platform-nix.c,Carl Fürstenberg,jp9000,2015-07-08 09:10:53-07:00,2015-07-08 09:21:18-07:00
+libobs/util/platform-nix.c,jp9000,adray,2015-10-15 01:35:18-07:00,2015-10-15 01:43:23-07:00
+libobs/util/platform-nix.c,jp9000,mntone,2019-04-26 13:24:30-07:00,2019-04-27 11:56:53-07:00
+libobs/util/platform-nix.c,tytan652,Ryan Foster,2024-10-04 16:38:03-04:00,2024-10-04 18:19:27-04:00
+libobs/util/platform-windows.c,jp9000,Palana,2015-07-08 09:21:18-07:00,2015-07-09 02:42:38+02:00
+libobs/util/platform-windows.c,jp9000,adray,2015-10-15 01:35:18-07:00,2015-10-15 01:43:23-07:00
+libobs/util/platform-windows.c,Ryan Foster,jp9000,2016-09-19 17:52:19-07:00,2016-09-19 17:52:20-07:00
+libobs/util/platform-windows.c,jp9000,jpark37,2022-02-28 02:07:13-08:00,2022-02-28 10:11:03-08:00
+libobs/util/platform-windows.c,derrod,Tommy Vercetti,2022-11-08 08:47:23-05:00,2022-11-09 03:03:26-08:00
+libobs/util/platform.h,jp9000,adray,2015-10-15 01:35:18-07:00,2015-10-15 01:41:37-07:00
+libobs/util/threading.h,Palana,jp9000,2014-04-14 23:02:53+02:00,2014-04-14 14:21:32-07:00
+obs/CMakeLists.txt,jp9000,Palana,2013-12-29 04:40:53-07:00,2013-12-30 03:02:11+01:00
+obs/CMakeLists.txt,BtbN,Palana,2014-01-24 18:56:32+01:00,2014-01-24 23:22:34+01:00
+obs/CMakeLists.txt,Palana,jp9000,2014-01-24 23:22:34+01:00,2014-01-24 21:31:25-07:00
+obs/CMakeLists.txt,jp9000,BtbN,2014-02-02 14:33:57-07:00,2014-02-02 22:38:21+01:00
+obs/CMakeLists.txt,jp9000,BtbN,2014-05-18 17:44:10-07:00,2014-05-19 03:02:57+02:00
+obs/CMakeLists.txt,BtbN,jp9000,2014-09-15 14:42:18-07:00,2014-09-15 14:42:18-07:00
+obs/CMakeLists.txt,jp9000,John Bradley,2014-09-15 14:42:18-07:00,2014-09-15 18:29:26-05:00
+obs/CMakeLists.txt,jp9000,HomeWorld,2015-04-10 07:27:37-07:00,2015-04-11 07:13:30-07:00
+obs/CMakeLists.txt,jp9000,Palana,2015-07-03 18:35:30-07:00,2015-07-04 13:30:13+02:00
+obs/data/locale/en-US.ini,jp9000,Socapex,2015-03-12 09:27:18-07:00,2015-03-12 09:27:18-07:00
+obs/data/locale/en-US.ini,jp9000,Palana,2015-05-10 18:26:09-07:00,2015-05-11 20:45:26+02:00
+obs/data/locale/en-US.ini,bl,jp9000,2016-04-02 17:09:24-07:00,2016-04-03 11:41:51-07:00
+obs/data/locale/en-US.ini,jp9000,cg2121,2016-06-27 14:47:42-07:00,2016-06-27 17:51:15-07:00
+obs/data/themes/Dark.qss,Socapex,jp9000,2015-03-12 09:27:16-07:00,2015-03-13 01:41:57-07:00
+obs/forms/OBSBasicSettings.ui,jp9000,Socapex,2015-03-12 09:27:17-07:00,2015-03-12 09:27:18-07:00
+obs/forms/OBSBasicSettings.ui,jp9000,cg2121,2016-06-27 15:11:05-07:00,2016-06-27 17:51:15-07:00
+obs/makefile.am,jp9000,Zachary Lund,2013-12-26 23:14:03-07:00,2013-12-27 16:41:01-06:00
+obs/obs-app.cpp,jp9000,Palana,2013-12-06 09:16:33-07:00,2013-12-06 21:31:42+01:00
+obs/obs-app.cpp,Palana,jp9000,2013-12-07 17:39:43+01:00,2013-12-07 10:22:56-07:00
+obs/obs-app.cpp,jp9000,Palana,2013-12-14 21:30:16-07:00,2013-12-16 01:59:08+01:00
+obs/obs-app.cpp,Palana,jp9000,2013-12-16 01:59:08+01:00,2013-12-16 00:07:08-07:00
+obs/obs-app.cpp,jp9000,Palana,2013-12-19 01:00:00-07:00,2013-12-19 23:10:09+01:00
+obs/obs-app.cpp,jp9000,Palana,2013-12-28 21:51:18-07:00,2013-12-30 03:26:09+01:00
+obs/obs-app.cpp,Palana,jp9000,2013-12-30 03:26:09+01:00,2013-12-30 06:56:39-07:00
+obs/obs-app.cpp,jp9000,Palana,2014-01-25 09:08:56-07:00,2014-01-25 20:37:53+01:00
+obs/obs-app.cpp,jp9000,Palana,2014-01-28 18:41:24-07:00,2014-01-29 08:40:04+01:00
+obs/obs-app.cpp,jp9000,fryshorts,2014-03-10 13:10:35-07:00,2014-03-11 14:06:10+01:00
+obs/obs-app.cpp,jp9000,Palana,2014-07-13 04:38:06-07:00,2014-07-13 15:23:26+02:00
+obs/obs-app.cpp,Palana,jp9000,2014-07-13 19:10:39+02:00,2014-07-13 11:40:47-07:00
+obs/obs-app.cpp,martell,jp9000,2015-02-09 03:41:58-08:00,2015-02-09 03:49:13-08:00
+obs/obs-app.cpp,GoaLitiuM,Kris Moore,2015-05-04 19:33:55+03:00,2015-05-04 22:37:03+02:00
+obs/obs-app.cpp,Carl Fürstenberg,jp9000,2015-07-08 09:10:53-07:00,2015-07-08 10:03:09-07:00
+obs/obs-app.cpp,Richard Stanway,jp9000,2016-04-20 03:05:28+02:00,2016-04-19 18:19:55-07:00
+obs/obs-app.cpp,cg2121,jp9000,2016-08-21 12:09:26-07:00,2016-08-21 12:09:29-07:00
+obs/obs-app.hpp,Palana,jp9000,2014-07-13 19:10:38+02:00,2014-07-13 11:40:47-07:00
+obs/obs-wrappers.hpp,Palana,jp9000,2013-12-06 21:43:51+01:00,2013-12-07 10:22:56-07:00
+obs/platform-osx.cpp,jp9000,Palana,2013-12-11 21:50:10-07:00,2013-12-12 11:44:17+01:00
+obs/platform-windows.cpp,BtbN,jp9000,2014-01-24 18:56:32+01:00,2014-01-24 12:52:22-07:00
+obs/platform-x11.cpp,Zachary Lund,Ján Mlynek,2014-01-02 18:20:58-06:00,2014-01-03 23:22:49+01:00
+obs/platform-x11.cpp,BtbN,jp9000,2014-01-24 18:56:32+01:00,2014-01-24 12:52:22-07:00
+obs/platform-x11.cpp,jp9000,BtbN,2014-01-24 12:52:22-07:00,2014-01-25 19:13:33+01:00
+obs/platform.hpp,jp9000,Palana,2013-12-16 00:06:13-07:00,2013-12-16 16:04:51+01:00
+obs/properties-view.cpp,jp9000,HomeWorld,2015-01-05 02:10:07-08:00,2015-01-05 15:41:25+02:00
+obs/qt-ptr-variant.hpp,jp9000,BtbN,2014-01-23 11:53:55-07:00,2014-01-24 18:56:33+01:00
+obs/qt-wrappers.cpp,Zachary Lund,Palana,2014-01-24 21:55:10-06:00,2014-01-25 07:23:56+01:00
+obs/settings-basic-video.cpp,jp9000,Palana,2013-12-17 02:08:41-07:00,2013-12-17 18:44:02+01:00
+obs/settings-basic-video.cpp,Palana,jp9000,2013-12-17 18:44:02+01:00,2013-12-17 11:29:46-07:00
+obs/window-basic-main-outputs.cpp,kc5nra,John Bradley,2015-03-30 18:16:57-05:00,2015-03-31 15:49:43-05:00
+obs/window-basic-main-outputs.cpp,jp9000,Palana,2015-07-03 18:35:30-07:00,2015-07-04 08:00:21+02:00
+obs/window-basic-main.cpp,jp9000,Zachary Lund,2014-01-09 19:08:20-07:00,2014-01-09 21:04:52-06:00
+obs/window-basic-main.cpp,jp9000,BtbN,2014-01-23 17:00:42-07:00,2014-01-24 18:56:33+01:00
+obs/window-basic-main.cpp,BtbN,jp9000,2014-01-24 18:56:33+01:00,2014-01-24 21:19:50-07:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-01-29 22:54:05+01:00,2014-01-29 18:27:42-07:00
+obs/window-basic-main.cpp,jp9000,fryshorts,2014-03-10 14:48:17-07:00,2014-03-11 14:06:10+01:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-04-29 00:06:12+02:00,2014-04-29 02:26:06-07:00
+obs/window-basic-main.cpp,jp9000,Socapex,2014-05-11 23:20:45-07:00,2014-05-12 13:41:50-04:00
+obs/window-basic-main.cpp,Socapex,jp9000,2014-05-12 15:01:51-04:00,2014-05-12 15:34:46-07:00
+obs/window-basic-main.cpp,jp9000,BtbN,2014-05-22 03:59:51-07:00,2014-05-23 00:06:28+02:00
+obs/window-basic-main.cpp,jp9000,Palana,2014-07-13 12:38:58-07:00,2014-07-13 21:46:44+02:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-07-13 21:46:44+02:00,2014-07-14 03:19:24-07:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-07-16 02:29:13+02:00,2014-07-16 15:26:14-07:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-07-21 03:22:18+02:00,2014-07-20 18:25:57-07:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-08-24 02:05:46+02:00,2014-08-24 08:27:27-07:00
+obs/window-basic-main.cpp,jp9000,Palana,2014-08-24 08:56:50-07:00,2014-08-25 03:18:05+02:00
+obs/window-basic-main.cpp,Palana,jp9000,2014-08-25 03:18:05+02:00,2014-08-25 08:46:47-07:00
+obs/window-basic-main.cpp,jp9000,fryshorts,2014-08-25 10:18:50-07:00,2014-08-25 22:22:57+02:00
+obs/window-basic-main.cpp,fryshorts,jp9000,2014-08-25 22:22:57+02:00,2014-08-25 15:52:54-07:00
+obs/window-basic-main.cpp,Weikardzaena,jp9000,2015-01-15 21:49:03-08:00,2015-01-15 23:44:38-08:00
+obs/window-basic-main.cpp,jp9000,Blackhive,2015-01-15 23:44:38-08:00,2015-01-16 00:28:25-08:00
+obs/window-basic-main.cpp,Blackhive,HomeWorld,2015-01-16 00:28:25-08:00,2015-01-16 11:21:11+02:00
+obs/window-basic-main.cpp,Socapex,jp9000,2015-03-12 09:27:18-07:00,2015-03-12 22:22:02-07:00
+obs/window-basic-main.cpp,Eric Bataille,jp9000,2015-06-04 20:57:16+02:00,2015-06-05 08:57:01-07:00
+obs/window-basic-main.cpp,Palana,jp9000,2015-07-07 02:02:41+02:00,2015-07-06 17:03:32-07:00
+obs/window-basic-main.cpp,jp9000,Palana,2015-09-23 08:53:41-07:00,2015-09-24 10:11:49+02:00
+obs/window-basic-main.cpp,jp9000,bla,2016-01-25 17:29:10-08:00,2016-01-26 11:48:53-08:00
+obs/window-basic-main.cpp,bla,jp9000,2016-01-26 11:48:53-08:00,2016-01-26 11:49:30-08:00
+obs/window-basic-main.cpp,jp9000,cg2121,2016-08-21 12:05:25-07:00,2016-08-21 12:09:26-07:00
+obs/window-basic-main.cpp,cg2121,jp9000,2016-08-21 12:09:26-07:00,2016-08-21 12:09:29-07:00
+obs/window-basic-main.hpp,jp9000,BtbN,2014-01-23 11:53:55-07:00,2014-01-24 18:56:33+01:00
+obs/window-basic-main.hpp,BtbN,jp9000,2014-01-24 18:56:33+01:00,2014-01-25 09:08:56-07:00
+obs/window-basic-main.hpp,jp9000,cg2121,2016-08-21 12:05:25-07:00,2016-08-21 12:09:26-07:00
+obs/window-basic-properties.cpp,Palana,jp9000,2014-09-04 06:31:55+02:00,2014-09-04 15:19:01-07:00
+obs/window-basic-properties.cpp,jp9000,HomeWorld,2015-01-05 02:10:34-08:00,2015-01-05 14:23:12+02:00
+obs/window-basic-properties.cpp,Weikardzaena,jp9000,2015-01-15 21:49:03-08:00,2015-01-16 00:05:09-08:00
+obs/window-basic-settings.cpp,jp9000,Palana,2014-01-28 18:41:24-07:00,2014-01-29 08:40:04+01:00
+obs/window-basic-settings.cpp,jp9000,Socapex,2015-03-12 09:27:17-07:00,2015-03-12 09:27:18-07:00
+obs/window-basic-settings.cpp,jp9000,Palana,2015-07-03 18:35:30-07:00,2015-07-04 13:30:13+02:00
+obs/window-basic-settings.cpp,Palana,jp9000,2015-07-06 13:39:08+02:00,2015-07-06 17:03:39-07:00
+obs/window-basic-settings.cpp,jp9000,cg2121,2016-06-27 14:47:42-07:00,2016-06-27 17:51:15-07:00
+obs/window-basic-source-select.cpp,Socapex,jp9000,2014-05-12 15:01:51-04:00,2014-05-12 15:34:46-07:00
+obs/window-basic-source-select.cpp,jp9000,Palana,2014-05-12 15:34:46-07:00,2014-05-13 01:12:22+02:00
+obs/window-namedialog.cpp,jp9000,BtbN,2014-01-23 11:53:55-07:00,2014-01-24 18:56:33+01:00
+obs/window-namedialog.hpp,jp9000,BtbN,2014-01-23 11:53:55-07:00,2014-01-24 18:56:33+01:00
+obs/wx-wrappers.cpp,Palana,jp9000,2013-12-06 21:31:42+01:00,2013-12-07 10:22:56-07:00
+obs/wx-wrappers.cpp,Zachary Lund,Palana,2014-01-02 18:20:58-06:00,2014-01-03 01:50:36+01:00
+plugins/CMakeLists.txt,pkv,derrod,2024-08-08 15:53:52-04:00,2024-08-08 22:52:40+02:00
+plugins/aja/aja-common.cpp,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+plugins/aja/aja-output.cpp,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+plugins/aja/aja-output.cpp,Paul Hindt,davids,2022-08-01 13:34:56-07:00,2022-08-02 09:46:58-07:00
+plugins/aja/aja-output.cpp,davids,Paul Hindt,2022-08-02 09:46:58-07:00,2022-08-02 09:46:58-07:00
+plugins/aja/aja-output.hpp,Paul Hindt,davids,2022-08-01 13:34:56-07:00,2022-08-02 09:46:58-07:00
+plugins/aja/aja-output.hpp,davids,Paul Hindt,2022-08-02 09:46:58-07:00,2022-08-02 09:46:58-07:00
+plugins/aja/aja-presets.cpp,Norihiro Kamae,Paul Hindt,2022-04-30 16:06:23-07:00,2022-04-30 16:29:56-07:00
+plugins/aja/aja-source.cpp,Paul Hindt,Norihiro Kamae,2022-07-09 16:20:23-07:00,2022-07-10 10:01:58+10:00
+plugins/coreaudio-encoder/windows-imports.h,jp9000,pkv,2020-10-05 03:39:33-07:00,2020-10-05 03:39:33-07:00
+plugins/decklink/DecklinkInput.cpp,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/DecklinkInput.hpp,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/const.h,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/data/locale/en-US.ini,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/data/locale/en-US.ini,Colin Edwards,pkv,2019-03-03 13:19:38-06:00,2019-03-03 22:37:53+01:00
+plugins/decklink/decklink-device-instance.cpp,mntone,jp9000,2017-04-07 19:56:28-07:00,2017-04-07 19:57:34-07:00
+plugins/decklink/decklink-device-instance.cpp,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/decklink-device-instance.cpp,Colin Edwards,Stéphane Cottin,2020-11-01 22:28:49-08:00,2020-11-02 22:18:52+01:00
+plugins/decklink/decklink-device-instance.hpp,mntone,jp9000,2017-04-07 19:56:28-07:00,2017-04-07 19:57:34-07:00
+plugins/decklink/decklink-device-instance.hpp,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/decklink-source.cpp,pkv,Colin Edwards,2019-03-03 19:57:27+01:00,2019-03-03 13:19:38-06:00
+plugins/decklink/win/platform.cpp,Colin Edwards,jp9000,2020-02-09 17:24:40-06:00,2020-02-09 16:51:05-08:00
+plugins/enc-amf,Michael Fabian Dirks,jp9000,2016-09-20 09:08:21-07:00,2016-09-20 09:28:49-07:00
+plugins/enc-amf,jp9000,Michael Fabian Dirks,2016-09-20 09:28:49-07:00,2016-09-21 08:17:01-07:00
+plugins/enc-amf,jp9000,Michael Fabian Dirks,2016-09-26 18:53:23-07:00,2016-09-27 19:48:52+02:00
+plugins/enc-amf,Michael Fabian Dirks,jp9000,2016-09-27 23:45:08+02:00,2016-09-27 16:13:40-07:00
+plugins/enc-amf,Matt Gajownik,Translation Updater,2022-07-31 10:56:11+10:00,2022-07-31 23:40:53+00:00
+plugins/enc-amf,Ryan Foster,Translation Updater,2023-03-26 22:28:08-04:00,2023-03-27 13:39:03+00:00
+plugins/image-source/image-source.c,Anry,jp9000,2014-07-16 02:38:11+02:00,2014-07-16 14:53:21-07:00
+plugins/image-source/obs-slideshow.c,Clayton Groenveld,jp9000,2019-02-24 19:59:10-06:00,2019-02-25 08:21:28-08:00
+plugins/linux-capture/pipewire.c,Georges Basile Stavracas Neto,columbarius,2021-12-22 14:27:53-03:00,2021-12-22 14:27:53-03:00
+plugins/linux-capture/xcompcap-helper.cpp,Lucian Poston,jp9000,2016-01-26 11:49:20-08:00,2016-01-26 11:49:21-08:00
+plugins/linux-capture/xcompcap-main.cpp,jp9000,Zachary Lund,2014-08-29 17:20:26-07:00,2014-08-30 13:09:00-05:00
+plugins/linux-capture/xcomposite-input.c,Kurt Kartaltepe,Georges Basile Stavracas Neto,2022-05-24 08:16:10-03:00,2022-05-24 14:30:14-03:00
+plugins/linux-capture/xcomposite-input.c,Norihiro Kamae,tytan652,2022-07-19 11:01:00-04:00,2022-07-20 08:22:08+02:00
+plugins/linux-jack/jack-wrapper.c,Hector Martin,jp9000,2020-12-12 12:05:28-08:00,2020-12-12 12:28:02-08:00
+plugins/linux-pipewire/CMakeLists.txt,columbarius,Georges Basile Stavracas Neto,2022-03-20 20:53:39-03:00,2022-03-20 20:53:39-03:00
+plugins/linux-pipewire/camera-portal.c,Georges Basile Stavracas Neto,Wim Taymans,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/camera-portal.c,Wim Taymans,Georges Basile Stavracas Neto,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/data/locale/en-US.ini,Georges Basile Stavracas Neto,Wim Taymans,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/linux-pipewire.c,columbarius,Georges Basile Stavracas Neto,2022-03-20 20:53:39-03:00,2022-03-20 20:53:39-03:00
+plugins/linux-pipewire/pipewire.c,Georges Basile Stavracas Neto,columbarius,2023-02-13 12:28:09-03:00,2023-02-13 12:28:09-03:00
+plugins/linux-pipewire/pipewire.c,columbarius,Georges Basile Stavracas Neto,2023-02-13 12:28:09-03:00,2023-02-13 12:28:09-03:00
+plugins/linux-pipewire/pipewire.c,Georges Basile Stavracas Neto,Jan Beich,2023-02-14 18:50:57-03:00,2023-02-15 14:44:36-05:00
+plugins/linux-pipewire/pipewire.c,Georges Basile Stavracas Neto,columbarius,2023-07-15 20:46:51-03:00,2023-07-15 20:46:51-03:00
+plugins/linux-pipewire/pipewire.c,columbarius,Georges Basile Stavracas Neto,2023-07-15 20:46:51-03:00,2023-07-15 20:46:51-03:00
+plugins/linux-pipewire/pipewire.c,Georges Basile Stavracas Neto,columbarius,2023-07-15 20:46:51-03:00,2023-07-15 20:46:51-03:00
+plugins/linux-pipewire/pipewire.c,columbarius,Georges Basile Stavracas Neto,2023-07-15 20:46:51-03:00,2023-07-15 20:46:51-03:00
+plugins/linux-pipewire/pipewire.c,Georges Basile Stavracas Neto,Wim Taymans,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/pipewire.c,Wim Taymans,Georges Basile Stavracas Neto,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/pipewire.c,Georges Basile Stavracas Neto,Wim Taymans,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/pipewire.c,Wim Taymans,Georges Basile Stavracas Neto,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/pipewire.h,Georges Basile Stavracas Neto,columbarius,2023-02-13 12:28:09-03:00,2023-02-13 12:28:09-03:00
+plugins/linux-pipewire/pipewire.h,columbarius,Georges Basile Stavracas Neto,2023-02-13 12:28:09-03:00,2023-02-13 12:28:09-03:00
+plugins/linux-pipewire/pipewire.h,Georges Basile Stavracas Neto,Wim Taymans,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/pipewire.h,Wim Taymans,Georges Basile Stavracas Neto,2024-01-11 09:57:08-03:00,2024-01-11 09:57:08-03:00
+plugins/linux-pipewire/screencast-portal.c,Georges Basile Stavracas Neto,columbarius,2023-02-13 12:28:09-03:00,2023-02-13 12:28:09-03:00
+plugins/linux-pipewire/screencast-portal.c,columbarius,Georges Basile Stavracas Neto,2023-02-13 12:28:09-03:00,2023-02-13 12:28:09-03:00
+plugins/linux-pulseaudio/CMakeLists.txt,fryshorts,jp9000,2014-03-11 14:06:10+01:00,2014-03-11 10:12:54-07:00
+plugins/linux-pulseaudio/pulse-input.c,fryshorts,jp9000,2014-03-11 14:16:03+01:00,2014-03-11 10:12:54-07:00
+plugins/linux-pulseaudio/pulse-input.c,jp9000,Christoph Hohmann,2014-10-06 18:49:53-04:00,2014-10-07 21:56:32+02:00
+plugins/linux-pulseaudio/pulse-input.c,fryshorts,jp9000,2014-10-18 14:44:30-07:00,2014-10-18 14:45:05-07:00
+plugins/linux-pulseaudio/pulse-input.c,jp9000,fryshorts,2014-10-18 14:45:05-07:00,2014-10-18 14:47:54-07:00
+plugins/linux-v4l2/CMakeLists.txt,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+plugins/linux-v4l2/v4l2-input.c,fryshorts,Azat Khasanshin,2014-06-18 21:31:23+02:00,2014-06-18 23:37:19+04:00
+plugins/linux-v4l2/v4l2-input.c,fryshorts,jp9000,2014-07-11 17:48:12+02:00,2014-07-11 17:29:00-07:00
+plugins/linux-v4l2/v4l2-output.c,Frank Löffler,jpark37,2021-01-29 09:24:42-08:00,2021-01-30 00:25:25-08:00
+plugins/linux-xshm/CMakeLists.txt,fryshorts,jp9000,2014-03-11 14:06:10+01:00,2014-03-11 10:12:54-07:00
+plugins/linux-xshm/xcursor.c,fryshorts,jp9000,2014-03-11 14:06:10+01:00,2014-03-11 10:12:54-07:00
+plugins/linux-xshm/xcursor.h,fryshorts,jp9000,2014-03-11 14:06:10+01:00,2014-03-11 10:12:54-07:00
+plugins/linux-xshm/xshm-input.c,fryshorts,jp9000,2014-03-11 14:06:10+01:00,2014-03-11 10:12:54-07:00
+plugins/mac-avcapture/CMakeLists.txt,Palana,BtbN,2014-05-08 14:31:43+02:00,2014-05-08 14:43:16+02:00
+plugins/mac-avcapture/av-capture.m,Palana,jp9000,2014-04-29 00:06:12+02:00,2014-04-28 20:38:15-07:00
+plugins/mac-avcapture/av-capture.m,jp9000,Palana,2014-06-25 12:36:26-07:00,2014-06-25 23:32:58+02:00
+plugins/mac-avcapture/av-capture.mm,Doug Kelly,jp9000,2021-01-20 12:20:29-08:00,2021-01-20 12:44:16-08:00
+plugins/mac-avcapture/av-capture.mm,Ryan Foster,PatTheMav,2023-08-10 16:07:25-04:00,2023-08-10 17:12:30-04:00
+plugins/mac-capture/CMakeLists.txt,BtbN,Palana,2014-08-19 14:24:59+02:00,2014-08-20 00:42:56+02:00
+plugins/mac-capture/data/locale/en-US.ini,Developer-Ecosystem-Engineering,PatTheMav,2022-07-24 13:59:09+02:00,2022-07-24 13:59:09+02:00
+plugins/mac-capture/data/locale/en-US.ini,PatTheMav,gxalpha,2022-07-24 13:59:09+02:00,2022-07-24 13:59:09+02:00
+plugins/mac-capture/mac-audio.c,Robert Wittams,PatTheMav,2023-12-19 18:33:53-05:00,2023-12-19 18:33:53-05:00
+plugins/mac-capture/mac-display-capture.m,Dossy Shiobara,jp9000,2021-12-20 09:05:36-08:00,2021-12-20 14:02:58-08:00
+plugins/mac-capture/mac-screen-capture.m,Developer-Ecosystem-Engineering,PatTheMav,2022-07-24 13:59:09+02:00,2022-07-24 13:59:09+02:00
+plugins/mac-capture/mac-screen-capture.m,PatTheMav,gxalpha,2022-07-24 13:59:09+02:00,2022-07-24 13:59:09+02:00
+plugins/mac-capture/mac-screen-capture.m,gxalpha,PatTheMav,2022-07-26 15:30:47+02:00,2022-07-26 21:29:48+02:00
+plugins/mac-capture/mac-screen-capture.m,gxalpha,PatTheMav,2023-06-10 11:30:23-07:00,2023-06-11 14:56:45+02:00
+plugins/mac-capture/mac-window-capture.m,Dossy Shiobara,jp9000,2021-12-20 09:05:36-08:00,2021-12-20 14:02:58-08:00
+plugins/mac-capture/plugin-main.c,Developer-Ecosystem-Engineering,PatTheMav,2022-07-24 13:59:09+02:00,2022-07-24 13:59:09+02:00
+plugins/mac-capture/plugin-main.c,PatTheMav,gxalpha,2022-07-24 13:59:09+02:00,2022-07-24 13:59:09+02:00
+plugins/mac-capture/plugin-main.c,jcm,gxalpha,2023-06-30 23:59:20+02:00,2023-07-01 16:51:28+02:00
+plugins/mac-capture/window-utils.h,Dossy Shiobara,jp9000,2021-12-20 09:05:36-08:00,2021-12-20 14:02:58-08:00
+plugins/mac-capture/window-utils.m,Dossy Shiobara,jp9000,2021-12-20 09:05:36-08:00,2021-12-20 14:02:58-08:00
+plugins/mac-videotoolbox/data/locale/en-US.ini,gxalpha,Developer-Ecosystem-Engineering,2022-07-11 23:45:43+02:00,2022-07-11 23:45:43+02:00
+plugins/mac-videotoolbox/data/locale/en-US.ini,Developer-Ecosystem-Engineering,AuroraWright,2022-07-11 23:45:43+02:00,2022-07-11 23:45:43+02:00
+plugins/mac-videotoolbox/data/locale/en-US.ini,gxalpha,Vainock,2022-08-09 16:19:30+02:00,2022-08-09 20:05:06-04:00
+plugins/mac-videotoolbox/data/locale/en-US.ini,Developer-Ecosystem-Engineering,gxalpha,2022-11-02 22:44:20+01:00,2022-11-02 22:44:20+01:00
+plugins/mac-videotoolbox/encoder.c,gxalpha,Developer-Ecosystem-Engineering,2022-07-11 23:45:43+02:00,2022-07-11 23:45:43+02:00
+plugins/mac-videotoolbox/encoder.c,Developer-Ecosystem-Engineering,AuroraWright,2022-07-11 23:45:43+02:00,2022-07-11 23:45:43+02:00
+plugins/mac-videotoolbox/encoder.c,AuroraWright,PatTheMav,2022-07-11 23:45:43+02:00,2022-07-11 23:45:43+02:00
+plugins/mac-videotoolbox/encoder.c,Developer-Ecosystem-Engineering,gxalpha,2022-11-02 22:44:20+01:00,2022-11-02 22:44:20+01:00
+plugins/mac-videotoolbox/encoder.c,gxalpha,PatTheMav,2022-11-02 22:44:20+01:00,2022-11-02 22:44:20+01:00
+plugins/mac-videotoolbox/encoder.c,jpark37,PatTheMav,2023-02-21 18:48:44+01:00,2023-02-21 21:29:12+01:00
+plugins/mac-virtualcam/src/dal-plugin/CMakeLists.txt,gxalpha,jp9000,2021-08-16 06:52:50-07:00,2021-08-16 07:36:54-07:00
+plugins/mac-virtualcam/src/obs-plugin/plugin-main.mm,gxalpha,jp9000,2021-08-16 06:52:50-07:00,2021-08-16 07:36:54-07:00
+plugins/mac-virtualcam/src/obs-plugin/plugin-main.mm,gxalpha,tt2468,2023-05-21 01:35:43+02:00,2023-05-20 16:41:55-07:00
+plugins/mac-virtualcam/src/obs-plugin/plugin-main.mm,gxalpha,PatTheMav,2023-06-10 16:13:05-07:00,2023-06-11 14:56:45+02:00
+plugins/obs-browser,jp9000,Colin Edwards,2018-03-17 21:16:30-07:00,2018-03-18 14:40:01-05:00
+plugins/obs-browser,jp9000,Richard Stanway,2019-02-13 19:50:38-08:00,2019-02-14 23:18:12+01:00
+plugins/obs-browser,jp9000,Matt Gajownik,2021-03-22 22:59:04-07:00,2021-03-23 21:51:30+11:00
+plugins/obs-browser,jp9000,tytan652,2021-04-08 15:46:41-07:00,2021-04-09 06:55:25-07:00
+plugins/obs-browser,jp9000,Matt Gajownik,2021-08-23 18:31:18-07:00,2021-08-24 12:08:21+10:00
+plugins/obs-browser,Matt Gajownik,Translation Updater,2021-12-12 11:56:34+11:00,2021-12-12 02:38:59+00:00
+plugins/obs-browser,tytan652,Ryan Foster,2022-07-26 17:34:26+02:00,2022-07-27 11:09:59-04:00
+plugins/obs-browser,Matt Gajownik,Translation Updater,2022-10-26 09:29:28+11:00,2022-10-25 22:32:14+00:00
+plugins/obs-browser,Ryan Foster,Translation Updater,2023-03-26 22:28:08-04:00,2023-03-27 13:39:03+00:00
+plugins/obs-browser,Ryan Foster,Translation Updater,2023-12-05 14:18:42-05:00,2023-12-05 22:04:31+00:00
+plugins/obs-browser,Ryan Foster,Translation Updater,2024-06-06 15:21:25-04:00,2024-06-07 09:47:58+00:00
+plugins/obs-ffmpeg/CMakeLists.txt,pkv,Kurt Kartaltepe,2022-07-30 17:03:20+02:00,2022-07-30 20:33:54-07:00
+plugins/obs-ffmpeg/data/locale/en-US.ini,gxalpha,Vainock,2022-01-12 21:48:38+11:00,2022-01-12 07:33:04-08:00
+plugins/obs-ffmpeg/data/locale/en-US.ini,OvchinnikovDmitrii,Vainock,2022-07-21 15:29:25-07:00,2022-07-22 08:24:51-04:00
+plugins/obs-ffmpeg/data/locale/en-US.ini,derrod,Richard Stanway,2023-03-25 10:38:18+01:00,2023-03-25 22:48:19-04:00
+plugins/obs-ffmpeg/ffmpeg-mux/ffmpeg-mux.c,jp9000,Eric Lindvall,2020-11-14 13:08:35-08:00,2020-11-15 06:02:30-08:00
+plugins/obs-ffmpeg/ffmpeg-mux/ffmpeg-mux.c,jp9000,Richard Stanway,2020-11-18 14:28:06-08:00,2020-11-19 01:55:26+01:00
+plugins/obs-ffmpeg/ffmpeg-mux/ffmpeg-mux.c,Ryan Foster,pkv,2021-11-23 12:10:25-05:00,2021-11-23 12:10:56-05:00
+plugins/obs-ffmpeg/jim-nvenc.c,jpark37,tytan652,2022-05-07 01:33:05-07:00,2022-05-07 16:13:21-07:00
+plugins/obs-ffmpeg/jim-nvenc.c,jpark37,Richard Stanway,2022-08-29 20:41:42-07:00,2022-08-29 21:43:04-07:00
+plugins/obs-ffmpeg/jim-nvenc.c,Richard Stanway,jp9000,2022-08-29 21:43:04-07:00,2022-08-30 17:05:36-07:00
+plugins/obs-ffmpeg/jim-nvenc.c,Ryan Foster,jp9000,2022-10-31 17:02:51-04:00,2022-11-01 00:45:30-07:00
+plugins/obs-ffmpeg/jim-nvenc.c,jp9000,Ryan Foster,2022-11-01 00:45:30-07:00,2022-11-01 15:26:23-07:00
+plugins/obs-ffmpeg/jim-nvenc.c,Ryan Foster,jp9000,2022-11-01 15:26:23-07:00,2022-11-01 15:26:42-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-aac.c,jp9000,Timo R,2014-04-05 01:45:53-07:00,2014-04-05 16:12:32+02:00
+plugins/obs-ffmpeg/obs-ffmpeg-audio-encoders.c,Norihiro Kamae,tytan652,2023-03-18 15:16:44-07:00,2023-03-19 17:27:42+01:00
+plugins/obs-ffmpeg/obs-ffmpeg-av1.c,Ryan Foster,Chris,2022-11-19 15:44:12-08:00,2022-11-19 20:55:42-05:00
+plugins/obs-ffmpeg/obs-ffmpeg-mpegts.c,pkv,jpark37,2022-07-30 17:03:10+02:00,2022-07-31 00:10:50-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-mpegts.c,jpark37,tytan652,2022-07-31 21:46:17-07:00,2022-07-31 21:48:13-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-mpegts.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-mux.c,jp9000,pkv,2020-05-19 16:10:06-07:00,2020-05-19 16:15:41-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-mux.c,jp9000,Maya Venkatraman,2020-10-12 16:59:26-07:00,2020-10-13 13:29:15-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-mux.c,gxalpha,pkv,2022-07-30 15:21:08+02:00,2022-07-30 17:03:10+02:00
+plugins/obs-ffmpeg/obs-ffmpeg-mux.c,tytan652,derrod,2023-03-19 17:38:02+01:00,2023-03-20 17:01:47+01:00
+plugins/obs-ffmpeg/obs-ffmpeg-mux.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-nvenc.c,jp9000,VodBox,2019-02-09 01:12:18-08:00,2019-02-10 13:23:05+13:00
+plugins/obs-ffmpeg/obs-ffmpeg-nvenc.c,Richard Stanway,jp9000,2022-08-29 21:43:04-07:00,2022-08-30 17:05:36-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,Palana,jp9000,2014-04-04 20:55:38+02:00,2014-04-04 23:21:19-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,jp9000,Timo R,2014-04-05 01:13:11-07:00,2014-04-05 16:12:32+02:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,kc5nra,John Bradley,2015-03-30 17:30:38-05:00,2015-03-30 17:30:38-05:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,John Bradley,kc5nra,2015-03-30 17:30:38-05:00,2015-03-30 17:58:37-05:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,Palana,jp9000,2015-09-16 10:47:58+02:00,2015-09-16 09:21:12-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,Ryan Foster,pkv,2021-11-23 12:10:25-05:00,2021-11-23 12:10:56-05:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,pkv,jpark37,2022-05-16 16:17:32-04:00,2022-05-17 05:18:46-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,pkv,jpark37,2022-07-30 17:03:10+02:00,2022-07-31 00:10:50-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-output.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-source.c,kc5nra,John Bradley,2015-08-14 07:53:45-07:00,2015-08-14 07:53:46-07:00
+plugins/obs-ffmpeg/obs-ffmpeg-source.c,jp9000,Exeldro,2018-02-15 13:32:35-08:00,2018-02-15 15:18:13-08:00
+plugins/obs-ffmpeg/obs-ffmpeg-source.c,stopforumspam,Matt Gajownik,2022-05-16 15:17:13-04:00,2022-05-17 23:13:17+10:00
+plugins/obs-ffmpeg/obs-ffmpeg-source.c,Jim,gxalpha,2023-02-25 18:13:11-08:00,2023-02-25 19:26:51-08:00
+plugins/obs-ffmpeg/obs-ffmpeg-srt.h,pkv,tytan652,2022-11-17 21:56:38-05:00,2022-11-18 03:17:54-06:00
+plugins/obs-ffmpeg/obs-ffmpeg-vaapi.c,Vainock,tytan652,2022-07-22 08:24:51-04:00,2022-07-22 08:50:36-04:00
+plugins/obs-ffmpeg/obs-ffmpeg-vaapi.c,Lain,David Rosca,2023-05-20 01:31:18-07:00,2023-05-20 16:56:39-07:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,John Bradley,kc5nra,2015-08-14 07:53:51-07:00,2015-08-14 07:53:52-07:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,Michel,jp9000,2018-01-18 01:35:45-08:00,2018-01-18 01:36:46-08:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,jp9000,Lucian Poston,2018-01-18 01:36:46-08:00,2018-01-18 01:36:46-08:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,OvchinnikovDmitrii,tytan652,2022-07-21 15:29:25-07:00,2022-07-22 08:50:36-04:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,Jim,derrod,2022-10-27 14:35:51-07:00,2022-10-27 16:47:37-07:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,Yuriy Chumak,derrod,2023-03-24 15:16:10-07:00,2023-03-25 10:22:45+01:00
+plugins/obs-ffmpeg/obs-ffmpeg.c,Rodney,derrod,2024-01-06 17:20:26-06:00,2024-01-06 18:38:43-06:00
+plugins/obs-ffmpeg/texture-amf.cpp,OvchinnikovDmitrii,Richard Stanway,2022-07-21 15:29:25-07:00,2022-07-22 00:45:34+02:00
+plugins/obs-ffmpeg/texture-amf.cpp,Vainock,Chris,2022-08-06 10:23:26+10:00,2022-08-06 20:02:48-04:00
+plugins/obs-ffmpeg/texture-amf.cpp,jpark37,Chris,2022-08-16 07:37:36-07:00,2022-08-17 05:38:54-07:00
+plugins/obs-ffmpeg/texture-amf.cpp,Jim,jp9000,2022-08-22 11:15:23-07:00,2022-08-22 11:20:51-07:00
+plugins/obs-filters/CMakeLists.txt,pkv,tytan652,2024-09-10 14:50:46-04:00,2024-09-11 13:24:39-04:00
+plugins/obs-filters/data/locale/en-US.ini,Take Vos,mape,2017-01-30 06:01:28-08:00,2017-01-30 06:41:20-08:00
+plugins/obs-filters/data/locale/en-US.ini,mape,jp9000,2017-01-30 06:41:20-08:00,2017-01-30 18:43:25-08:00
+plugins/obs-filters/expander-filter.c,Jim,pkv,2022-10-27 00:44:59-07:00,2022-10-27 00:44:59-07:00
+plugins/obs-filters/expander-filter.c,pkv,Jim,2022-10-27 00:44:59-07:00,2022-10-27 00:49:32-07:00
+plugins/obs-filters/expander-filter.c,pkv,Norihiro Kamae,2023-01-26 23:23:45-08:00,2023-01-26 23:23:45-08:00
+plugins/obs-filters/expander-filter.c,Norihiro Kamae,pkv,2023-01-26 23:23:45-08:00,2023-01-26 23:23:45-08:00
+plugins/obs-filters/hdr-tonemap-filter.c,jpark37,gxalpha,2022-08-27 08:38:12-07:00,2022-08-27 16:39:53-07:00
+plugins/obs-filters/noise-suppress-filter.c,Simon,jp9000,2016-07-25 20:17:13-07:00,2016-07-26 04:29:50-07:00
+plugins/obs-filters/noise-suppress-filter.c,Richard Stanway,pkv,2021-04-25 09:24:07-07:00,2021-04-25 09:24:07-07:00
+plugins/obs-filters/noise-suppress-filter.c,pkv,Richard Stanway,2021-04-25 09:24:07-07:00,2021-04-25 19:51:20+02:00
+plugins/obs-filters/noise-suppress-filter.c,Norihiro Kamae,pkv,2024-08-07 17:27:49-04:00,2024-08-08 15:53:52-04:00
+plugins/obs-nvenc/nvenc-helpers.c,derrod,Norihiro Kamae,2024-09-10 17:51:34-04:00,2024-09-11 13:02:58-04:00
+plugins/obs-outputs/CMakeLists.txt,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+plugins/obs-outputs/CMakeLists.txt,Yuriy Chumak,PatTheMav,2023-03-26 16:37:31+02:00,2023-03-26 18:20:38-04:00
+plugins/obs-outputs/flv-mux.c,Yuriy Chumak,derrod,2023-03-26 16:37:31+02:00,2023-03-26 20:43:27-04:00
+plugins/obs-outputs/flv-mux.c,Ruwen Hahn,John Bradley,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-outputs/flv-mux.c,John Bradley,Ruwen Hahn,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-outputs/flv-mux.h,Ruwen Hahn,John Bradley,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-outputs/flv-mux.h,John Bradley,Ruwen Hahn,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-outputs/flv-output.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+plugins/obs-outputs/flv-output.c,John Bradley,Ruwen Hahn,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-outputs/ftl-stream.c,Roman Sivriver,Hayden McAfee,2021-01-12 18:28:41-08:00,2021-01-13 09:44:52-08:00
+plugins/obs-outputs/librtmp/rtmp.c,Tristan Matthews,James Park,2019-05-09 17:05:38-07:00,2019-05-09 22:38:34-07:00
+plugins/obs-outputs/librtmp/rtmp.c,PatTheMav,Richard Stanway,2022-11-11 19:51:27+01:00,2022-11-11 20:53:10+01:00
+plugins/obs-outputs/mp4-output.c,tt2468,derrod,2025-01-27 16:02:53-05:00,2025-01-28 14:37:28-05:00
+plugins/obs-outputs/null-output.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+plugins/obs-outputs/rtmp-stream.c,jp9000,fryshorts,2014-04-24 21:11:46-07:00,2014-04-26 02:04:37+02:00
+plugins/obs-outputs/rtmp-stream.c,Marc Chambers,jp9000,2015-08-14 15:58:55-07:00,2015-08-14 17:49:21-07:00
+plugins/obs-outputs/rtmp-stream.c,derrod,tytan652,2023-03-18 15:19:48-07:00,2023-03-18 15:29:50-07:00
+plugins/obs-outputs/rtmp-stream.c,Lain,tt2468,2023-05-20 01:31:18-07:00,2023-05-20 16:41:55-07:00
+plugins/obs-outputs/rtmp-stream.c,Ruwen Hahn,John Bradley,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-outputs/rtmp-stream.c,John Bradley,Ruwen Hahn,2024-05-03 13:06:50-04:00,2024-05-03 13:06:50-04:00
+plugins/obs-qsv11/QSV_Encoder.cpp,cmlin2,brittneysclark,2020-07-08 12:03:22-07:00,2020-07-08 20:24:27-07:00
+plugins/obs-qsv11/QSV_Encoder.cpp,Jim,Gale,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/QSV_Encoder.cpp,Gale,Yuriy Chumak,2022-11-21 19:08:02-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/QSV_Encoder.h,cmlin2,brittneysclark,2020-07-08 12:03:22-07:00,2020-07-08 20:24:24-07:00
+plugins/obs-qsv11/QSV_Encoder.h,Jim,Gale,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/QSV_Encoder.h,Gale,Jim,2022-11-21 19:08:02-08:00,2022-11-22 05:23:15-08:00
+plugins/obs-qsv11/QSV_Encoder.h,Jim,Yuriy Chumak,2022-11-22 05:23:15-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/QSV_Encoder.h,Gale,derrod,2024-04-06 17:06:31-07:00,2024-04-07 02:07:59+02:00
+plugins/obs-qsv11/QSV_Encoder_Internal.cpp,Seung-Woo Kim,jp9000,2016-04-19 08:29:22-07:00,2016-04-19 12:29:50-07:00
+plugins/obs-qsv11/QSV_Encoder_Internal.cpp,Gale,Yuriy Chumak,2022-11-21 19:08:02-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/QSV_Encoder_Internal.cpp,Yuriy Chumak,jp9000,2022-11-22 07:29:31-08:00,2022-11-22 17:27:10-08:00
+plugins/obs-qsv11/QSV_Encoder_Internal.cpp,Gale,derrod,2024-04-06 17:06:31-07:00,2024-04-07 02:07:59+02:00
+plugins/obs-qsv11/QSV_Encoder_Internal.h,Gale,Yuriy Chumak,2022-11-21 19:08:02-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/QSV_Encoder_Internal.h,Gale,derrod,2024-04-06 17:06:31-07:00,2024-04-07 02:07:59+02:00
+plugins/obs-qsv11/QSV_Encoder_Internal.h,"Gale, Thy-Lan",Kurt Kartaltepe,2024-09-13 15:23:35-04:00,2024-09-13 16:27:02-04:00
+plugins/obs-qsv11/common_utils_windows.cpp,Kurt Kartaltepe,Richard Stanway,2023-08-26 16:40:46-07:00,2023-08-26 16:44:53-07:00
+plugins/obs-qsv11/obs-qsv-test/obs-qsv-test.cpp,Jim,Gale,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/obs-qsv-test/obs-qsv-test.cpp,Gale,Yuriy Chumak,2022-11-21 19:08:02-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/obs-qsv11-plugin-main.c,Jim,Gale,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/obs-qsv11-plugin-main.c,Gale,Jim,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/obs-qsv11-plugin-main.c,Jim,Yuriy Chumak,2022-11-21 19:08:02-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/obs-qsv11.c,cmlin2,brittneysclark,2020-07-08 12:03:22-07:00,2020-07-08 20:24:24-07:00
+plugins/obs-qsv11/obs-qsv11.c,jpark37,derrod,2022-08-16 07:38:43-07:00,2022-08-17 05:42:08-07:00
+plugins/obs-qsv11/obs-qsv11.c,Jim,Gale,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/obs-qsv11.c,Gale,Jim,2022-11-21 19:08:02-08:00,2022-11-21 19:08:02-08:00
+plugins/obs-qsv11/obs-qsv11.c,Jim,Yuriy Chumak,2022-11-22 05:56:25-08:00,2022-11-22 07:29:31-08:00
+plugins/obs-qsv11/obs-qsv11.c,Gale,derrod,2024-04-06 17:06:31-07:00,2024-04-07 02:07:59+02:00
+plugins/obs-text/gdiplus/obs-text.cpp,jp9000,Exeldro,2019-06-23 23:49:10-07:00,2019-06-25 07:02:41+02:00
+plugins/obs-transitions/data/locale/en-US.ini,derrod,jp9000,2017-08-08 10:08:23+02:00,2017-08-08 08:13:45-07:00
+plugins/obs-transitions/data/locale/en-US.ini,Michel,Makeenon,2017-09-16 12:35:17-07:00,2017-09-16 13:59:49-07:00
+plugins/obs-transitions/transition-stinger.c,derrod,jp9000,2017-08-08 10:08:23+02:00,2017-08-08 08:13:45-07:00
+plugins/obs-transitions/transition-stinger.c,Michel,Makeenon,2017-09-16 12:35:17-07:00,2017-09-16 13:59:49-07:00
+plugins/obs-transitions/transition-stinger.c,Makeenon,jp9000,2017-09-16 13:59:49-07:00,2017-09-16 13:59:53-07:00
+plugins/obs-transitions/transition-stinger.c,jp9000,Clayton Groeneveld,2021-05-13 15:13:07-07:00,2021-05-14 07:43:27-07:00
+plugins/obs-vst,Matt Gajownik,Translation Updater,2021-12-12 11:37:46+11:00,2021-12-12 02:38:59+00:00
+plugins/obs-vst,jpark37,tytan652,2022-07-25 20:15:20-07:00,2022-07-26 17:34:26+02:00
+plugins/obs-vst,tytan652,Matt Gajownik,2022-07-26 17:34:26+02:00,2022-07-26 22:12:23-04:00
+plugins/obs-vst/obs-vst.cpp,Richard Stanway,tytan652,2022-11-20 17:25:33+11:00,2022-11-20 17:16:02-05:00
+plugins/obs-webrtc/cmake/macos/Info.plist.in,Sean DuBois,Colin Edwards,2023-06-09 20:20:49-05:00,2023-06-10 13:23:51-05:00
+plugins/obs-webrtc/whip-output.cpp,Sean DuBois,gxalpha,2023-06-09 20:20:49-05:00,2023-06-10 16:52:56-07:00
+plugins/obs-webrtc/whip-output.cpp,Ryan Foster,Sean DuBois,2024-01-27 15:33:09-05:00,2024-01-28 02:11:51-06:00
+plugins/obs-websocket,tytan652,Translation Updater,2022-07-30 17:34:36-07:00,2022-07-31 23:40:53+00:00
+plugins/obs-websocket,Ryan Foster,Translation Updater,2023-03-26 22:28:08-04:00,2023-03-27 13:39:03+00:00
+plugins/obs-websocket,Translation Updater,Ryan Foster,2023-03-27 13:39:03+00:00,2023-03-27 13:07:16-04:00
+plugins/obs-websocket,Ryan Foster,Translation Updater,2023-12-05 14:20:29-05:00,2023-12-05 22:04:31+00:00
+plugins/obs-x264/obs-x264.c,Palana,jp9000,2014-08-24 20:35:10+02:00,2014-08-25 08:41:40-07:00
+plugins/rtmp-services/CMakeLists.txt,jp9000,Faeez Kadiri,2021-03-21 02:46:01-07:00,2021-03-21 22:44:02-07:00
+plugins/rtmp-services/data/package.json,Gol-D-Ace,jp9000,2016-02-15 15:16:16+01:00,2016-02-15 06:24:24-08:00
+plugins/rtmp-services/data/package.json,Gol-D-Ace,jp9000,2016-04-09 17:57:49+02:00,2016-04-09 23:39:12-07:00
+plugins/rtmp-services/data/package.json,Radzaquiel,Gol-D-Ace,2016-08-22 06:48:49-07:00,2016-08-22 16:25:40+02:00
+plugins/rtmp-services/data/package.json,Andrei Nistor,jp9000,2016-09-19 07:33:44-07:00,2016-09-19 17:58:15-07:00
+plugins/rtmp-services/data/package.json,Robin Hielscher,Richard Stanway,2016-09-26 01:31:08-07:00,2016-09-26 20:32:37+02:00
+plugins/rtmp-services/data/package.json,Ryan Sullivan,Gol-D-Ace,2017-01-30 02:52:31-08:00,2017-01-30 16:36:11+01:00
+plugins/rtmp-services/data/package.json,Gol-D-Ace,Aydin Akan,2017-01-30 16:36:11+01:00,2017-01-30 16:02:58-08:00
+plugins/rtmp-services/data/package.json,Gol-D-Ace,jp9000,2017-02-21 22:44:42+01:00,2017-02-22 09:10:25-08:00
+plugins/rtmp-services/data/package.json,Patrick Ancillotti,Ryan Foster,2017-03-26 05:34:00-07:00,2017-03-26 12:30:58-04:00
+plugins/rtmp-services/data/package.json,Andrew Surzhynskyi,pkuznetsov,2017-09-11 13:29:26+03:00,2017-09-11 16:43:39+03:00
+plugins/rtmp-services/data/package.json,Joshua Rowe,Andrew Surzhynskyi,2018-07-17 07:37:03-06:00,2018-07-17 22:50:11-07:00
+plugins/rtmp-services/data/package.json,Bongalive,derrod,2018-12-05 12:28:39-08:00,2018-12-06 16:54:07+01:00
+plugins/rtmp-services/data/package.json,pongraczgabor87,Adit Sharda,2019-01-30 21:25:54-06:00,2019-01-30 21:32:39-06:00
+plugins/rtmp-services/data/package.json,Adit Sharda,Wahaj Dar,2019-01-30 21:32:39-06:00,2019-01-30 21:43:57-06:00
+plugins/rtmp-services/data/package.json,Wahaj Dar,Tristan Matthews,2019-01-30 21:43:57-06:00,2019-01-30 22:11:13-06:00
+plugins/rtmp-services/data/package.json,Tristan Matthews,derrod,2019-01-30 22:11:13-06:00,2019-02-01 00:20:16+01:00
+plugins/rtmp-services/data/package.json,jake-shomer,Wahaj Dar,2020-02-11 18:09:07-07:00,2020-02-12 12:06:34+05:00
+plugins/rtmp-services/data/package.json,Wahaj Dar,tlivegaming,2020-02-12 12:06:34+05:00,2020-02-12 15:11:17+08:00
+plugins/rtmp-services/data/package.json,Wahaj Dar,Akihiko Koizuka,2020-04-09 00:32:32-05:00,2020-04-10 00:22:57+09:00
+plugins/rtmp-services/data/package.json,redcrazyheart,AntowaStrong,2020-04-21 12:36:00+03:00,2020-04-21 16:08:30+03:00
+plugins/rtmp-services/data/package.json,jbpratt78,tlivegaming,2020-06-20 16:42:13-05:00,2020-06-21 05:25:57-07:00
+plugins/rtmp-services/data/package.json,tlivegaming,karenkim-AfreecaTV,2020-06-21 05:25:57-07:00,2020-06-21 05:37:26-07:00
+plugins/rtmp-services/data/package.json,karenkim-AfreecaTV,chirenonsteem,2020-06-21 05:37:26-07:00,2020-06-21 06:25:52-07:00
+plugins/rtmp-services/data/package.json,chirenonsteem,derrod,2020-06-21 06:25:52-07:00,2020-06-21 20:23:19+02:00
+plugins/rtmp-services/data/package.json,Mark Sergienko,SCG82,2021-01-25 07:28:15-08:00,2021-01-26 03:18:59-08:00
+plugins/rtmp-services/data/package.json,Joe Flateau,VodBox,2021-04-20 13:34:05+12:00,2021-04-20 13:47:27+12:00
+plugins/rtmp-services/data/package.json,sergey,Richard Stanway,2021-08-10 03:26:25-07:00,2021-08-10 21:54:11+02:00
+plugins/rtmp-services/data/package.json,Thomas Müller,David Plappert,2021-11-09 13:38:40-08:00,2021-11-10 12:42:29-08:00
+plugins/rtmp-services/data/package.json,David Plappert,Guang Zhou,2021-11-10 12:42:29-08:00,2021-11-11 10:10:15-08:00
+plugins/rtmp-services/data/package.json,vasuais,Ryan Foster,2022-03-23 09:16:23-07:00,2022-03-23 12:44:49-04:00
+plugins/rtmp-services/data/package.json,Matt Gajownik,derrod,2022-05-20 20:25:19+10:00,2022-05-20 08:55:56-04:00
+plugins/rtmp-services/data/package.json,Yuriy Chumak,Jeremy Woertink,2023-03-26 16:37:31+02:00,2023-03-26 14:40:57-07:00
+plugins/rtmp-services/data/package.json,E Jikan,Lain,2023-07-24 14:35:00-05:00,2023-07-24 13:07:58-07:00
+plugins/rtmp-services/data/package.json,Tobias Speicher,Sherwin Dapito,2024-03-06 19:01:59-05:00,2024-03-06 19:25:27-05:00
+plugins/rtmp-services/data/package.json,Sherwin Dapito,WuLongyue,2024-03-06 19:25:27-05:00,2024-03-06 19:52:22-05:00
+plugins/rtmp-services/data/package.json,WuLongyue,Ramjivan Jangid,2024-03-06 19:52:22-05:00,2024-03-07 11:35:50-05:00
+plugins/rtmp-services/data/package.json,Ramjivan Jangid,Bart F,2024-03-07 11:35:50-05:00,2024-03-07 11:50:32-05:00
+plugins/rtmp-services/data/package.json,LightcastMediaCloud,Ryan Foster,2024-08-22 16:18:33-04:00,2024-08-22 16:51:13-04:00
+plugins/rtmp-services/data/package.json,Ryan Foster,Len,2024-08-22 16:51:13-04:00,2024-08-22 20:33:50-04:00
+plugins/rtmp-services/data/package.json,Len,Michael Gillett,2024-08-22 20:33:50-04:00,2024-08-23 16:31:41-04:00
+plugins/rtmp-services/data/schema/service-schema-v5.json,Sean DuBois,gxalpha,2023-06-09 20:20:49-05:00,2023-06-09 22:36:51-05:00
+plugins/rtmp-services/data/services.json,Gol-D-Ace,Radzaquiel,2015-02-01 06:37:48+01:00,2015-02-01 16:44:21+01:00
+plugins/rtmp-services/data/services.json,jp9000,Gol-D-Ace,2015-07-03 16:22:53-07:00,2015-07-04 04:12:11+02:00
+plugins/rtmp-services/data/services.json,Taylor Blau,Gol-D-Ace,2015-07-11 15:54:29-04:00,2015-07-12 13:15:15+02:00
+plugins/rtmp-services/data/services.json,Gol-D-Ace,jp9000,2016-02-15 15:16:16+01:00,2016-02-15 06:24:24-08:00
+plugins/rtmp-services/data/services.json,Gol-D-Ace,jp9000,2016-04-09 17:57:49+02:00,2016-04-09 23:39:12-07:00
+plugins/rtmp-services/data/services.json,Radzaquiel,Gol-D-Ace,2016-08-22 06:48:49-07:00,2016-08-22 16:25:40+02:00
+plugins/rtmp-services/data/services.json,Andrei Nistor,jp9000,2016-09-19 07:33:44-07:00,2016-09-19 17:58:15-07:00
+plugins/rtmp-services/data/services.json,Robin Hielscher,Richard Stanway,2016-09-26 01:31:08-07:00,2016-09-26 20:32:37+02:00
+plugins/rtmp-services/data/services.json,Ryan Sullivan,Gol-D-Ace,2017-01-30 02:52:31-08:00,2017-01-30 16:36:11+01:00
+plugins/rtmp-services/data/services.json,Gol-D-Ace,Aydin Akan,2017-01-30 16:36:11+01:00,2017-01-30 16:02:58-08:00
+plugins/rtmp-services/data/services.json,Gol-D-Ace,jp9000,2017-02-21 22:44:42+01:00,2017-02-22 09:10:25-08:00
+plugins/rtmp-services/data/services.json,Patrick Ancillotti,Ryan Foster,2017-03-26 05:34:00-07:00,2017-03-26 12:30:58-04:00
+plugins/rtmp-services/data/services.json,Andrew Surzhynskyi,pkuznetsov,2017-09-11 13:29:26+03:00,2017-09-11 16:43:39+03:00
+plugins/rtmp-services/data/services.json,Alexander Schittler,jeremiah,2017-10-25 11:33:45-07:00,2017-10-25 11:39:42-07:00
+plugins/rtmp-services/data/services.json,Fazrad Karkhani,Alcaros,2017-11-25 20:28:00-08:00,2017-11-26 00:54:44-08:00
+plugins/rtmp-services/data/services.json,James Hurley,derrod,2017-12-02 10:13:31-05:00,2017-12-02 19:16:45+01:00
+plugins/rtmp-services/data/services.json,Ben Stahl,Andrew Surzhynskyi,2018-02-27 05:41:10-08:00,2018-02-28 11:07:07+02:00
+plugins/rtmp-services/data/services.json,Joshua Rowe,Andrew Surzhynskyi,2018-07-17 07:37:03-06:00,2018-07-17 22:50:11-07:00
+plugins/rtmp-services/data/services.json,fefine,Artem Merkulov,2018-09-25 16:31:45+08:00,2018-09-25 08:38:24-07:00
+plugins/rtmp-services/data/services.json,Serge Martial Nguetta,Jonathan,2018-12-03 05:36:40-08:00,2018-12-03 05:50:27-08:00
+plugins/rtmp-services/data/services.json,Jonathan,Dead133,2018-12-03 05:50:27-08:00,2018-12-03 07:41:50-08:00
+plugins/rtmp-services/data/services.json,Bongalive,derrod,2018-12-05 12:28:39-08:00,2018-12-06 16:54:07+01:00
+plugins/rtmp-services/data/services.json,pongraczgabor87,Adit Sharda,2019-01-30 21:25:54-06:00,2019-01-30 21:32:39-06:00
+plugins/rtmp-services/data/services.json,Adit Sharda,Wahaj Dar,2019-01-30 21:32:39-06:00,2019-01-30 21:43:57-06:00
+plugins/rtmp-services/data/services.json,Wahaj Dar,Tristan Matthews,2019-01-30 21:43:57-06:00,2019-01-30 22:11:13-06:00
+plugins/rtmp-services/data/services.json,Tristan Matthews,derrod,2019-01-30 22:11:13-06:00,2019-02-01 00:20:16+01:00
+plugins/rtmp-services/data/services.json,jake-shomer,Wahaj Dar,2020-02-11 18:09:07-07:00,2020-02-12 12:06:34+05:00
+plugins/rtmp-services/data/services.json,Wahaj Dar,tlivegaming,2020-02-12 12:06:34+05:00,2020-02-12 15:11:17+08:00
+plugins/rtmp-services/data/services.json,jp9000,praveenkumar,2020-03-16 09:46:56-07:00,2020-03-16 09:48:04-07:00
+plugins/rtmp-services/data/services.json,Wahaj Dar,Akihiko Koizuka,2020-04-09 00:32:32-05:00,2020-04-10 00:22:57+09:00
+plugins/rtmp-services/data/services.json,redcrazyheart,AntowaStrong,2020-04-21 12:36:00+03:00,2020-04-21 16:08:30+03:00
+plugins/rtmp-services/data/services.json,nico,Philipp Bauer,2020-05-03 06:45:56-07:00,2020-05-03 07:06:43-07:00
+plugins/rtmp-services/data/services.json,jbpratt78,tlivegaming,2020-06-20 16:42:13-05:00,2020-06-21 05:25:57-07:00
+plugins/rtmp-services/data/services.json,tlivegaming,karenkim-AfreecaTV,2020-06-21 05:25:57-07:00,2020-06-21 05:37:26-07:00
+plugins/rtmp-services/data/services.json,karenkim-AfreecaTV,chirenonsteem,2020-06-21 05:37:26-07:00,2020-06-21 06:25:52-07:00
+plugins/rtmp-services/data/services.json,chirenonsteem,derrod,2020-06-21 06:25:52-07:00,2020-06-21 20:23:19+02:00
+plugins/rtmp-services/data/services.json,jp9000,Joan Miquel Fuster,2020-10-30 00:28:44-07:00,2020-10-30 02:18:10-07:00
+plugins/rtmp-services/data/services.json,Joan Miquel Fuster,Maya Venkatraman,2020-10-30 02:18:10-07:00,2020-10-30 02:18:43-07:00
+plugins/rtmp-services/data/services.json,jp9000,Avital Yachin,2021-01-02 12:29:13-08:00,2021-01-02 12:31:23-08:00
+plugins/rtmp-services/data/services.json,SCG82,Adrián Pardini,2021-01-07 07:05:56-08:00,2021-01-07 08:46:17-08:00
+plugins/rtmp-services/data/services.json,clone1018,Hernán,2021-01-12 16:43:41-08:00,2021-01-13 09:47:18-08:00
+plugins/rtmp-services/data/services.json,jp9000,Mark Sergienko,2021-01-25 06:50:40-08:00,2021-01-25 07:28:15-08:00
+plugins/rtmp-services/data/services.json,Mark Sergienko,SCG82,2021-01-25 07:28:15-08:00,2021-01-26 03:18:59-08:00
+plugins/rtmp-services/data/services.json,Amin Shayan,Ying Yin,2021-03-12 19:15:44-08:00,2021-03-12 23:48:42-08:00
+plugins/rtmp-services/data/services.json,Joe Flateau,VodBox,2021-04-20 13:34:05+12:00,2021-04-20 13:47:27+12:00
+plugins/rtmp-services/data/services.json,geekenmd,iamflorencejay,2021-05-08 15:14:19-07:00,2021-05-08 15:31:43-07:00
+plugins/rtmp-services/data/services.json,iamflorencejay,jp9000,2021-05-08 15:31:43-07:00,2021-05-09 00:55:16-07:00
+plugins/rtmp-services/data/services.json,sergey,Willy Liu(HQ ENG),2021-08-10 03:26:25-07:00,2021-08-10 03:32:20-07:00
+plugins/rtmp-services/data/services.json,Willy Liu(HQ ENG),Richard Stanway,2021-08-10 03:32:20-07:00,2021-08-10 21:54:11+02:00
+plugins/rtmp-services/data/services.json,jp9000,Ryan Foster,2021-08-16 07:37:38-07:00,2021-08-16 09:48:14-07:00
+plugins/rtmp-services/data/services.json,Thomas Müller,lucha,2021-11-09 13:38:40-08:00,2021-11-09 13:54:57-08:00
+plugins/rtmp-services/data/services.json,lucha,David Plappert,2021-11-09 13:54:57-08:00,2021-11-10 12:42:29-08:00
+plugins/rtmp-services/data/services.json,David Plappert,Guang Zhou,2021-11-10 12:42:29-08:00,2021-11-11 10:10:15-08:00
+plugins/rtmp-services/data/services.json,vasuais,Ryan Foster,2022-03-23 09:16:23-07:00,2022-03-23 12:44:49-04:00
+plugins/rtmp-services/data/services.json,Matt Gajownik,derrod,2022-05-20 20:25:19+10:00,2022-05-20 08:55:56-04:00
+plugins/rtmp-services/data/services.json,wpstream,Be1erafon,2022-07-29 22:30:50+02:00,2022-07-30 12:41:58+02:00
+plugins/rtmp-services/data/services.json,Alex Kosenko,Service Checker,2022-10-09 16:38:05-07:00,2022-10-09 16:54:48-07:00
+plugins/rtmp-services/data/services.json,Kevin Deng,Regan Black,2023-03-01 16:13:38-06:00,2023-03-01 16:15:25-06:00
+plugins/rtmp-services/data/services.json,Regan Black,Tophicles,2023-03-01 16:15:25-06:00,2023-03-01 16:15:45-06:00
+plugins/rtmp-services/data/services.json,Tophicles,Stripchat,2023-03-01 16:15:45-06:00,2023-03-01 16:16:01-06:00
+plugins/rtmp-services/data/services.json,Stripchat,Albert,2023-03-01 16:16:01-06:00,2023-03-01 17:36:58-06:00
+plugins/rtmp-services/data/services.json,Albert,Ryan Foster,2023-03-01 17:36:58-06:00,2023-03-02 13:24:39-05:00
+plugins/rtmp-services/data/services.json,Ryan Foster,Mico Häsänen,2023-03-02 13:24:39-05:00,2023-03-02 18:00:52-05:00
+plugins/rtmp-services/data/services.json,derrod,Yuriy Chumak,2023-03-26 16:37:31+02:00,2023-03-26 16:37:31+02:00
+plugins/rtmp-services/data/services.json,Yuriy Chumak,tt2468,2023-03-26 16:37:31+02:00,2023-03-26 14:23:23-07:00
+plugins/rtmp-services/data/services.json,tt2468,Jeremy Woertink,2023-03-26 14:23:23-07:00,2023-03-26 14:40:57-07:00
+plugins/rtmp-services/data/services.json,Tobias Speicher,Sherwin Dapito,2024-03-06 19:01:59-05:00,2024-03-06 19:25:27-05:00
+plugins/rtmp-services/data/services.json,Sherwin Dapito,WuLongyue,2024-03-06 19:25:27-05:00,2024-03-06 19:52:22-05:00
+plugins/rtmp-services/data/services.json,WuLongyue,Ramjivan Jangid,2024-03-06 19:52:22-05:00,2024-03-07 11:35:50-05:00
+plugins/rtmp-services/data/services.json,Ramjivan Jangid,Bart F,2024-03-07 11:35:50-05:00,2024-03-07 11:50:32-05:00
+plugins/rtmp-services/data/services.json,LightcastMediaCloud,Len,2024-08-22 16:18:33-04:00,2024-08-22 20:33:50-04:00
+plugins/rtmp-services/data/services.json,Len,Michael Gillett,2024-08-22 20:33:50-04:00,2024-08-23 16:31:41-04:00
+plugins/rtmp-services/rtmp-common.c,jp9000,Palana,2014-06-16 21:39:27-07:00,2014-06-17 17:02:41+02:00
+plugins/rtmp-services/rtmp-common.c,Andrei Nistor,jp9000,2016-09-19 07:04:41-07:00,2016-09-19 17:57:59-07:00
+plugins/rtmp-services/rtmp-common.c,Quinn Damerell,jp9000,2017-08-01 02:27:34-07:00,2017-08-01 02:50:26-07:00
+plugins/rtmp-services/rtmp-common.c,jp9000,Faeez Kadiri,2021-03-21 02:46:01-07:00,2021-03-21 22:44:02-07:00
+plugins/rtmp-services/rtmp-common.c,Ruwen Hahn,Alex Luccisano,2024-09-06 13:40:07-04:00,2024-09-06 13:40:07-04:00
+plugins/rtmp-services/rtmp-services-main.c,jp9000,Faeez Kadiri,2021-03-21 02:46:01-07:00,2021-03-21 22:44:02-07:00
+plugins/rtmp-services/rtmp-services-main.c,tt2468,tytan652,2023-04-23 23:47:09-07:00,2023-04-24 12:04:11-07:00
+plugins/rtmp-services/service-specific/twitch.c,Ruwen Hahn,Alex Luccisano,2024-09-06 13:40:07-04:00,2024-09-06 13:40:07-04:00
+plugins/rtmp-services/service-specific/twitch.h,Ruwen Hahn,Alex Luccisano,2024-09-06 13:40:07-04:00,2024-09-06 13:40:07-04:00
+plugins/text-freetype2/CMakeLists.txt,jp9000,benklett,2014-08-19 02:11:37-07:00,2014-08-19 13:57:22+02:00
+plugins/text-freetype2/CMakeLists.txt,benklett,BtbN,2014-08-19 13:57:22+02:00,2014-08-19 14:24:59+02:00
+plugins/text-freetype2/text-freetype2.c,jp9000,Copy Liu,2015-10-04 21:16:31-07:00,2015-10-05 16:00:06-07:00
+plugins/text-freetype2/text-freetype2.c,Copy Liu,jp9000,2015-10-05 16:00:06-07:00,2015-10-05 16:31:35-07:00
+plugins/text-freetype2/text-freetype2.c,Yvo,jp9000,2018-05-08 09:37:39-07:00,2018-05-08 09:39:04-07:00
+plugins/text-freetype2/text-functionality.c,jp9000,Lexsus,2014-11-17 06:47:49-08:00,2014-11-18 04:04:54-08:00
+plugins/vlc-video/CMakeLists.txt,jp9000,Kurt Kartaltepe,2020-05-21 00:03:09-07:00,2020-05-21 18:45:16-07:00
+plugins/vlc-video/vlc-video-source.c,Andreas Reischuck,jp9000,2016-08-20 12:15:22-07:00,2016-08-20 12:15:34-07:00
+plugins/vlc-video/vlc-video-source.c,pkv,Jim,2022-01-29 15:22:29-08:00,2022-01-29 15:28:36-08:00
+plugins/win-capture/data/compatibility.json,Gol-D-Ace,Chris,2024-12-08 12:25:11-06:00,2024-12-09 02:12:54-06:00
+plugins/win-capture/data/locale/en-US.ini,jpark37,jp9000,2020-02-22 21:02:33-08:00,2020-02-22 21:02:33-08:00
+plugins/win-capture/data/package.json,Gol-D-Ace,Chris,2024-12-08 12:25:11-06:00,2024-12-09 02:12:54-06:00
+plugins/win-capture/game-capture-file-init.c,Matthieu Cunzi,jp9000,2020-02-29 04:53:28-08:00,2020-02-29 10:32:20-08:00
+plugins/win-capture/game-capture.c,jp9000,Bl00drav3n,2015-02-09 03:49:45-08:00,2015-02-09 05:02:48-08:00
+plugins/win-capture/game-capture.c,Clayton Groeneveld,Peter Geis,2019-11-24 20:50:42-08:00,2019-11-25 13:04:21-05:00
+plugins/win-capture/game-capture.c,jp9000,Matthieu Cunzi,2020-02-29 00:15:54-08:00,2020-02-29 04:53:28-08:00
+plugins/win-capture/game-capture.c,Matthieu Cunzi,jp9000,2020-02-29 04:53:28-08:00,2020-02-29 04:53:29-08:00
+plugins/win-capture/game-capture.c,craftwar,jpark37,2020-03-06 19:52:02+08:00,2020-03-06 17:02:38-08:00
+plugins/win-capture/graphics-hook-info.h,jpark37,jp9000,2020-02-29 00:15:54-08:00,2020-02-29 04:53:29-08:00
+plugins/win-capture/graphics-hook/CMakeLists.txt,martell,Bl00drav3n,2015-02-09 03:41:53-08:00,2015-02-09 05:02:48-08:00
+plugins/win-capture/graphics-hook/d3d9-capture.cpp,martell,jp9000,2015-02-09 03:41:55-08:00,2015-02-09 03:49:20-08:00
+plugins/win-capture/graphics-hook/dxgi-capture.cpp,Eric Laberge,jpark37,2022-07-29 21:54:07-07:00,2022-07-29 21:54:28-07:00
+plugins/win-capture/graphics-hook/graphics-hook.c,martell,jp9000,2015-02-09 03:41:54-08:00,2015-02-09 03:49:13-08:00
+plugins/win-capture/graphics-hook/graphics-hook.c,jp9000,Bl00drav3n,2015-02-09 03:51:08-08:00,2015-02-09 05:02:48-08:00
+plugins/win-capture/graphics-hook/graphics-hook.c,jp9000,Matthieu Cunzi,2020-02-29 00:15:54-08:00,2020-02-29 04:53:28-08:00
+plugins/win-capture/graphics-hook/graphics-hook.c,Matthieu Cunzi,jp9000,2020-02-29 04:53:28-08:00,2020-02-29 04:53:29-08:00
+plugins/win-capture/graphics-hook/graphics-hook.c,craftwar,jpark37,2020-03-06 19:52:02+08:00,2020-03-06 17:02:38-08:00
+plugins/win-capture/graphics-hook/graphics-hook.c,jpark37,jp9000,2020-03-06 17:02:38-08:00,2020-03-07 07:35:34-08:00
+plugins/win-capture/graphics-hook/graphics-hook.h,martell,jp9000,2015-02-09 03:41:54-08:00,2015-02-09 03:49:18-08:00
+plugins/win-capture/graphics-hook/graphics-hook.h,jp9000,jpark37,2020-02-28 23:48:11-08:00,2020-02-29 00:15:54-08:00
+plugins/win-capture/graphics-hook/graphics-hook.h,jpark37,Matthieu Cunzi,2020-02-29 00:15:54-08:00,2020-02-29 04:53:28-08:00
+plugins/win-capture/graphics-hook/vulkan-capture.c,jpark37,jp9000,2020-03-10 21:31:40-07:00,2020-03-11 02:00:42-07:00
+plugins/win-capture/graphics-hook/vulkan-capture.c,jpark37,jp9000,2020-03-13 04:36:19-07:00,2020-03-13 06:57:16-07:00
+plugins/win-capture/graphics-hook/vulkan-capture.c,Eric Laberge,jpark37,2022-07-29 21:54:07-07:00,2022-07-29 23:22:39-07:00
+plugins/win-capture/graphics-hook/vulkan-capture.h,jpark37,jp9000,2020-03-13 04:36:19-07:00,2020-03-13 06:57:16-07:00
+plugins/win-capture/load-graphics-offsets.c,jp9000,Bl00drav3n,2015-02-09 03:56:06-08:00,2015-02-09 05:02:48-08:00
+plugins/win-capture/window-capture.c,jpark37,jp9000,2020-02-22 21:02:33-08:00,2020-02-22 21:02:33-08:00
+plugins/win-capture/window-capture.c,VodBox,jp9000,2020-03-03 23:06:25+13:00,2020-03-03 21:09:54-08:00
+plugins/win-capture/window-capture.c,jp9000,jpark37,2020-03-17 12:22:20-07:00,2020-03-18 00:33:12-07:00
+plugins/win-capture/window-helpers.c,Richard Stanway,Matt Gajownik,2022-01-18 01:58:45+01:00,2022-01-18 03:42:27-08:00
+plugins/win-dshow/CMakeLists.txt,jp9000,Joel Bethke,2020-09-06 17:04:06-07:00,2020-09-06 18:04:44-07:00
+plugins/win-dshow/libdshowcapture,jp9000,Palana,2015-04-10 07:27:31-07:00,2015-04-10 22:33:43+02:00
+plugins/win-dshow/win-dshow.cpp,martell,jp9000,2015-02-09 03:41:45-08:00,2015-02-09 03:49:13-08:00
+plugins/win-dshow/win-dshow.cpp,wanhongqing,jpark37,2019-11-12 14:37:32-08:00,2019-11-12 17:59:59-08:00
+plugins/win-dshow/win-dshow.cpp,Clayton Groeneveld,jpark37,2019-11-24 20:50:42-08:00,2019-11-24 23:59:27-08:00
+plugins/win-dshow/win-dshow.cpp,jpark37,jp9000,2020-09-06 20:51:28-07:00,2020-09-07 16:12:50-07:00
+plugins/win-dshow/win-dshow.cpp,jpark37,Chris,2022-01-29 15:10:53-08:00,2022-01-29 15:14:58-08:00
+plugins/win-wasapi/win-wasapi.cpp,jpark37,Clayton Groeneveld,2019-11-24 09:43:39-08:00,2019-11-24 20:50:42-08:00
+plugins/win-wasapi/win-wasapi.cpp,Norihiro Kamae,derrod,2023-12-13 16:15:09+01:00,2023-12-13 22:10:53+01:00
+shared/bpm/bpm-internal.h,Alex Luccisano,Ryan Foster,2024-10-04 15:49:44-04:00,2024-10-04 18:19:27-04:00
+shared/bpm/bpm.c,Alex Luccisano,Ryan Foster,2024-10-04 15:49:44-04:00,2024-10-04 18:19:27-04:00
+shared/properties-view/properties-view.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+shared/qt/icon-label/icon-label.hpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+shared/qt/wrappers/qt-wrappers.cpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+shared/qt/wrappers/qt-wrappers.hpp,Warchamp7,Ryan Foster,2024-10-04 15:20:49-04:00,2024-10-04 18:19:27-04:00
+test/linux/xcursor.c,fryshorts,Ziemas,2014-03-11 14:01:10+01:00,2014-03-11 14:01:10+01:00
+test/linux/xcursor.c,Ziemas,fryshorts,2014-03-11 14:01:10+01:00,2014-03-11 14:01:10+01:00
+test/linux/xshm-input.c,fryshorts,Ziemas,2014-03-11 14:01:10+01:00,2014-03-11 14:01:10+01:00
+test/linux/xshm-input.c,Ziemas,fryshorts,2014-03-11 14:01:10+01:00,2014-03-11 14:01:10+01:00
+test/osx/test.mm,Palana,jp9000,2014-04-14 22:55:35+02:00,2014-04-14 14:10:47-07:00
+test/test-input/CMakeLists.txt,jp9000,Palana,2014-01-28 00:06:46-07:00,2014-01-28 23:14:01+01:00
+test/test-input/test-filter.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+test/test-input/test-input.c,jp9000,Palana,2014-01-28 00:06:46-07:00,2014-01-28 23:14:02+01:00
+test/test-input/test-random.h,Peter SZTANOJEV,jp9000,2013-10-14 13:21:15+02:00,2013-10-14 12:37:52-07:00
+test/win/test.cpp,Palana,GoaLitiuM,2015-08-12 15:30:29+02:00,2015-08-13 13:38:04+03:00
+vs/2013/libobs/libobs.vcxproj,jp9000,Palana,2014-04-24 02:19:03-07:00,2014-04-24 16:46:54+02:00
+vs/2013/obs-studio/obs-studio.vcxproj,jp9000,Zachary Lund,2014-01-25 16:43:24-07:00,2014-01-25 23:23:26-06:00
+vs/2013/pthreads/pthreads.vcxproj,jp9000,BtbN,2014-01-23 11:53:55-07:00,2014-01-24 18:56:32+01:00

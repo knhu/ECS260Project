@@ -1,0 +1,873 @@
+file,author1,author2,time1,time2
+.github/ISSUE_TEMPLATE.md,Shree Devi Kumar,Shreeshrii,2017-06-01 14:11:10+05:30,2017-06-01 16:18:10+05:30
+.github/workflows/autotools-macos.yml,Klaus Rettinghaus,Amit D,2022-10-20 10:29:05+02:00,2022-10-20 22:39:17+03:00
+.github/workflows/autotools.yml,Shree Devi Kumar,Shreeshrii,2022-03-26 06:26:38+00:00,2022-03-26 12:00:50+05:30
+.github/workflows/autotools.yml,Stefan Weil,Amit D,2024-03-03 22:02:01+01:00,2024-03-04 16:03:36+02:00
+.github/workflows/cmake-win64.yml,Amit D,zdenop,2022-06-02 10:07:50+03:00,2022-06-02 13:27:33+02:00
+.github/workflows/cmake-win64.yml,Zdenko Podobný,zdenop,2022-06-08 15:09:15+02:00,2022-06-08 15:15:54+02:00
+.github/workflows/cmake-win64.yml,zdenop,Zdenko Podobný,2022-06-08 15:31:57+02:00,2022-06-08 15:49:58+02:00
+.github/workflows/cmake-win64.yml,zdenop,Zdenko Podobný,2022-11-29 19:33:48+01:00,2022-11-30 10:42:39+01:00
+.github/workflows/cmake-win64.yml,Zdenko Podobný,zdenop,2022-11-30 11:34:10+01:00,2022-11-30 14:36:48+01:00
+.github/workflows/cmake.yml,Zdenko Podobný,zdenop,2022-11-09 12:40:48+01:00,2022-11-10 08:58:02+01:00
+.github/workflows/cmake.yml,Stefan Weil,Amit D,2024-03-03 22:02:01+01:00,2024-03-04 16:21:28+02:00
+.github/workflows/cmake.yml,zdenop,Stefan Weil,2024-10-17 07:06:25+02:00,2024-10-17 18:39:46+02:00
+.github/workflows/dailycmake.yml,Shree Devi Kumar,Stefan Weil,2021-01-16 10:27:22+00:00,2021-01-16 11:45:43+00:00
+.github/workflows/dailycmake.yml,Stefan Weil,Shree Devi Kumar,2021-01-17 07:11:33+00:00,2021-01-17 17:13:56+00:00
+.github/workflows/dailycmake.yml,Shree Devi Kumar,Egor Pugin,2021-01-18 06:38:24+00:00,2021-01-18 15:40:17+03:00
+.github/workflows/dailycmake.yml,Shreeshrii,Shree Devi Kumar,2021-01-23 23:24:07+05:30,2021-01-24 11:56:15+00:00
+.github/workflows/msys2.yml,Stefan Weil,Amit D,2024-03-03 22:02:01+01:00,2024-03-04 15:40:36+02:00
+.github/workflows/sw.yml,Egor Pugin,Stefan Weil,2023-11-01 13:49:04+03:00,2023-11-01 18:14:11+01:00
+.github/workflows/unittest-disablelegacy.yml,Shree Devi Kumar,Stefan Weil,2021-01-26 17:02:54+00:00,2021-01-27 09:06:38+01:00
+.github/workflows/unittest-sanitizer.yml,Shree Devi Kumar,Stefan Weil,2021-01-26 17:02:54+00:00,2021-01-27 09:06:38+01:00
+.github/workflows/vcpkg.yml,Shreeshrii,zdenop,2021-09-24 21:35:54+05:30,2021-09-24 20:30:10+02:00
+.gitignore,Zdenko Podobný,Zdenop,2014-08-14 23:37:17+02:00,2014-08-15 23:00:20+02:00
+.gitignore,Egor Pugin,Stefan Weil,2016-12-15 16:04:18+03:00,2016-12-16 08:20:07+01:00
+.gitignore,Shree Devi Kumar,Shreeshrii,2018-06-08 05:34:47+00:00,2018-06-08 15:12:27+05:30
+.gitignore,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 11:47:31+01:00
+.travis.yml,Egor Pugin,egorpugin,2015-09-06 20:54:05+03:00,2015-09-06 20:59:04+03:00
+.travis.yml,egorpugin,Egor Pugin,2015-09-06 22:12:45+03:00,2015-09-06 23:59:54+03:00
+.travis.yml,Shreeshrii,Egor Pugin,2021-03-07 19:31:02+01:00,2021-03-08 03:02:25+03:00
+CMakeLists.txt,Egor Pugin,egorpugin,2015-09-06 20:43:28+03:00,2015-09-06 21:05:05+03:00
+CMakeLists.txt,egorpugin,Egor Pugin,2015-09-06 21:42:47+03:00,2015-09-06 23:59:54+03:00
+CMakeLists.txt,Stefan Weil,Egor Pugin,2016-12-26 15:28:31+01:00,2016-12-26 17:30:41+03:00
+CMakeLists.txt,Egor Pugin,Amit D,2018-01-24 18:45:15+03:00,2018-01-24 19:07:17+02:00
+CMakeLists.txt,Stefan Weil,Egor Pugin,2018-03-22 21:49:47+01:00,2018-03-23 23:28:51+03:00
+CMakeLists.txt,Zdenko PodobnÃ½,Zdenko Podobny,2018-04-02 21:48:29+02:00,2018-04-02 22:30:55+02:00
+CMakeLists.txt,zdenop,Egor Pugin,2018-10-13 20:48:10+02:00,2018-10-14 00:56:42+03:00
+CMakeLists.txt,Stefan Weil,Zdenko Podobný,2018-11-08 18:53:15+01:00,2018-11-08 19:43:46+01:00
+CMakeLists.txt,Stefan Weil,Egor Pugin,2019-01-16 09:25:28+01:00,2019-01-16 13:15:56+03:00
+CMakeLists.txt,Stefan Weil,zdenop,2019-01-29 17:27:36+01:00,2019-01-29 20:01:55+01:00
+CMakeLists.txt,zdenop,Stefan Weil,2019-02-15 17:50:45+01:00,2019-02-16 09:34:17+01:00
+CMakeLists.txt,Stefan Weil,zdenop,2019-02-16 09:34:17+01:00,2019-02-16 17:55:45+01:00
+CMakeLists.txt,zdenop,Egor Pugin,2019-03-10 20:08:19+01:00,2019-03-11 00:03:45+03:00
+CMakeLists.txt,zdenop,Zdenko Podobný,2019-05-08 18:49:48+02:00,2019-05-08 19:19:26+02:00
+CMakeLists.txt,zdenop,Zdenko Podobný,2019-05-16 23:18:13+02:00,2019-05-17 10:51:06+02:00
+CMakeLists.txt,Zdenko Podobný,zdenop,2019-05-17 11:04:42+02:00,2019-05-17 11:19:07+02:00
+CMakeLists.txt,Stefan Weil,zdenop,2019-06-01 17:42:24+02:00,2019-06-01 21:49:30+02:00
+CMakeLists.txt,Stefan Weil,zdenop,2019-07-04 16:03:30+02:00,2019-07-05 14:26:30+02:00
+CMakeLists.txt,theirix,Egor Pugin,2019-07-08 11:34:51+03:00,2019-07-08 18:50:30+03:00
+CMakeLists.txt,Stefan Weil,Zdenko Podobný,2019-07-12 23:18:00+02:00,2019-07-13 20:11:03+02:00
+CMakeLists.txt,zdenop,Stefan Weil,2019-09-28 14:37:05+02:00,2019-09-29 13:53:44+02:00
+CMakeLists.txt,Egor Pugin,zdenop,2020-01-05 23:08:03+03:00,2020-01-05 22:33:24+01:00
+CMakeLists.txt,Matej Knopp,amitdo,2020-06-17 19:42:49+02:00,2020-06-18 18:24:17+03:00
+CMakeLists.txt,zdenop,Stefan Weil,2020-07-01 08:43:55+02:00,2020-07-01 21:54:51+02:00
+CMakeLists.txt,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 18:26:15+03:00
+CMakeLists.txt,Shatur95,Stefan Weil,2021-01-30 23:48:12+02:00,2021-01-31 16:32:24+01:00
+CMakeLists.txt,OgreTransporter,Łukasz Nocuń,2021-06-29 21:06:38+03:00,2021-06-30 00:16:51+03:00
+CMakeLists.txt,zdenop,Stefan Weil,2021-08-05 21:35:54+02:00,2021-08-06 20:55:40+02:00
+CMakeLists.txt,zdenop,Robert Pösel,2021-09-24 20:43:36+02:00,2021-09-24 22:15:46+02:00
+CMakeLists.txt,Robert Pösel,zdenop,2021-09-24 22:15:46+02:00,2021-09-25 10:10:38+02:00
+CMakeLists.txt,Stefan Weil,zdenop,2021-10-27 18:37:27+02:00,2021-10-28 11:56:22+02:00
+CMakeLists.txt,zdenop,Amit D,2021-12-16 17:59:33+01:00,2021-12-17 11:52:47+02:00
+CMakeLists.txt,Amit D,zdenop,2021-12-17 11:52:47+02:00,2021-12-18 09:20:37+01:00
+CMakeLists.txt,zdenop,leleliu008,2021-12-18 09:29:20+01:00,2021-12-19 00:02:28+08:00
+CMakeLists.txt,Piotr Kubaj,Stefan Weil,2022-01-06 17:16:09+01:00,2022-01-06 20:52:49+01:00
+CMakeLists.txt,Zdenko Podobný,zdenop,2022-03-11 07:34:22+01:00,2022-03-11 12:58:03+01:00
+CMakeLists.txt,Stefan Weil,zdenop,2022-04-14 23:47:04+02:00,2022-04-15 14:31:40+02:00
+CMakeLists.txt,Zdenko Podobný,zdenop,2023-03-23 12:55:51+01:00,2023-03-23 20:20:51+01:00
+CMakeLists.txt,zdenop,Zdenko Podobný,2024-06-09 19:27:04+02:00,2024-06-10 12:43:33+02:00
+INSTALL.GIT.md,Zdenko Podobný,zdenop,2015-10-11 17:09:01+02:00,2015-10-11 17:16:42+02:00
+INSTALL.GIT.md,Stefan Weil,zdenop,2024-06-11 17:52:58+02:00,2024-06-11 19:25:15+02:00
+INSTALL.GIT.md,zdenop,Stefan Weil,2024-06-11 19:25:15+02:00,2024-06-11 20:02:39+02:00
+Makefile.am,theraysmith,mezhirov,2008-04-22 00:44:56+00:00,2008-04-22 14:49:14+00:00
+Makefile.am,joregan@gmail.com,theraysmith@gmail.com,2011-08-18 18:09:29+00:00,2011-08-18 19:57:34+00:00
+Makefile.am,theraysmith@gmail.com,zdenop@gmail.com,2011-08-18 19:57:34+00:00,2011-08-18 21:33:28+00:00
+Makefile.am,zdenop@gmail.com,joregan@gmail.com,2011-08-18 21:33:28+00:00,2011-08-18 22:06:01+00:00
+Makefile.am,Stefan Weil,Ray Smith,2016-12-14 14:11:24+01:00,2016-12-14 11:18:52-08:00
+Makefile.am,Stefan Weil,Zdenko Podobný,2018-10-12 11:31:10+02:00,2018-10-12 17:57:27+02:00
+Makefile.am,Stefan Weil,zdenop,2018-11-08 15:14:59+01:00,2018-11-08 22:31:32+01:00
+Makefile.am,amitdo,Stefan Weil,2019-10-28 21:23:58+02:00,2019-10-29 12:01:51+01:00
+Makefile.am,Jörg Mechnich,Stefan Weil,2019-12-04 22:20:25+01:00,2019-12-05 07:59:35+01:00
+Makefile.am,Stefan Weil,Egor Pugin,2020-12-31 17:53:01+01:00,2021-01-01 03:00:15+03:00
+Makefile.am,Egor Pugin,Stefan Weil,2021-03-15 09:47:04+03:00,2021-03-15 09:11:41+01:00
+Makefile.am,Stefan Weil,sunyuechi,2024-11-07 13:40:43+01:00,2024-11-08 08:09:01+01:00
+Makefile.am,Stefan Weil,Egor Pugin,2024-11-22 19:22:03+01:00,2024-11-23 00:25:29+03:00
+README.md,zdenop,Jan Ruzicka,2015-06-02 09:56:55+02:00,2015-06-02 14:12:42-04:00
+README.md,Morten Espersen,Stefan Weil,2016-11-30 12:00:23+01:00,2016-11-30 22:23:46+01:00
+README.md,chongzhe,Egor Pugin,2017-05-10 13:35:10-07:00,2017-05-10 23:50:27+03:00
+README.md,Stefan Weil,Egor Pugin,2017-05-19 16:08:42+02:00,2017-05-19 17:10:52+03:00
+README.md,Shree Devi Kumar,Shreeshrii,2017-06-01 12:34:28+05:30,2017-06-01 16:45:59+05:30
+README.md,Shreeshrii,Shree Devi Kumar,2017-06-01 17:01:57+05:30,2017-06-02 09:14:47+05:30
+README.md,Stefan Weil,zdenop,2020-01-05 11:48:30+01:00,2020-01-05 14:07:52+01:00
+README.md,zdenop,Egor Pugin,2020-01-05 14:07:52+01:00,2020-01-06 03:20:51+03:00
+api/Makefile.am,Ray Smith,Stefan Weil,2016-12-14 11:17:06-08:00,2016-12-15 17:28:01+01:00
+api/baseapi.cpp,theraysmith,zdenop@gmail.com,2010-11-30 00:58:30+00:00,2010-11-30 12:46:41+00:00
+api/baseapi.cpp,david.eger@gmail.com,zdenop@gmail.com,2012-05-27 23:58:09+00:00,2012-05-28 20:44:23+00:00
+api/baseapi.cpp,zdenop@gmail.com,rajesh.katikam@gmail.com,2013-11-10 22:00:54+00:00,2013-11-11 17:43:13+00:00
+api/baseapi.cpp,zdenop,zdenop@gmail.com,2014-05-25 19:58:00+00:00,2014-05-26 06:48:58+00:00
+api/baseapi.cpp,theraysmith@gmail.com,Ray Smith,2014-08-11 23:23:06+00:00,2014-08-12 16:12:46-07:00
+api/baseapi.cpp,Sundar M. Vaidya,Tom Morris,2016-03-01 12:30:39-05:00,2016-03-01 13:41:19-05:00
+api/baseapi.cpp,Egor Pugin,Stefan Weil,2016-11-24 17:32:23+03:00,2016-11-24 17:59:13+01:00
+api/baseapi.cpp,Jeff Breidenbach,James R. Barlow,2016-12-07 22:06:00+01:00,2016-12-07 13:21:05-08:00
+api/baseapi.h,zdenop,theraysmith@gmail.com,2014-02-03 23:32:23+00:00,2014-02-04 02:23:18+00:00
+api/baseapi.h,theraysmith@gmail.com,Ray Smith,2014-08-11 23:23:06+00:00,2014-08-12 16:12:46-07:00
+api/baseapi.h,Zdenko Podobný,Jim O'Regan,2015-05-17 21:55:50+02:00,2015-05-18 12:32:36+01:00
+api/baseapi.h,Sundar M. Vaidya,Tom Morris,2016-03-01 12:13:42-05:00,2016-03-01 13:41:19-05:00
+api/baseapi.h,Ray Smith,James R. Barlow,2016-12-06 13:45:49-08:00,2016-12-07 13:21:05-08:00
+api/pdfrenderer.cpp,Jeff Breidenbach,Zdenko Podobný,2015-08-07 22:18:33+02:00,2015-08-07 23:20:22+02:00
+api/pdfrenderer.cpp,Zdenko Podobný,James R. Barlow,2017-01-20 21:26:34+01:00,2017-01-20 13:36:38-08:00
+api/renderer.cpp,Sundar M. Vaidya,Tom Morris,2016-03-01 12:30:39-05:00,2016-03-01 13:41:19-05:00
+api/renderer.h,Sundar M. Vaidya,Tom Morris,2016-03-01 12:13:42-05:00,2016-03-01 13:41:19-05:00
+api/tess_version.h.in,Zdenko PodobnÃ½,Zdenko Podobný,2018-04-02 19:11:02+02:00,2018-04-02 19:11:46+02:00
+api/tesseractmain.cpp,theraysmith,zdenop@gmail.com,2010-11-30 00:58:30+00:00,2010-11-30 12:46:41+00:00
+api/tesseractmain.cpp,Sundar M. Vaidya,Tom Morris,2016-03-01 12:23:12-05:00,2016-03-01 13:41:19-05:00
+api/tesseractmain.cpp,Stefan Weil,Raf Schietekat,2017-05-13 11:35:30+02:00,2017-05-13 18:02:00+02:00
+api/tesseractmain.cpp,Zdenko Podobný,Stefan Weil,2018-02-18 19:31:09+01:00,2018-02-19 07:30:38+01:00
+appveyor.yml,Egor Pugin,egorpugin,2015-09-06 22:30:11+03:00,2015-09-06 23:35:30+03:00
+appveyor.yml,egorpugin,Egor Pugin,2015-09-07 00:40:24+03:00,2015-09-07 12:50:20+03:00
+appveyor.yml,Stefan Weil,Egor Pugin,2017-05-06 08:43:49+02:00,2017-05-06 12:52:13+03:00
+ccmain/Makefile.am,theraysmith,mezhirov,2008-04-22 00:32:14+00:00,2008-04-22 14:49:14+00:00
+ccmain/equationdetect.cpp,Ray Smith,Stefan Weil,2017-07-14 09:30:14-07:00,2017-07-15 12:40:34+02:00
+ccmain/paragraphs.cpp,theraysmith@gmail.com,zdenop@gmail.com,2013-09-23 15:26:50+00:00,2013-09-23 19:54:06+00:00
+ccmain/tesseractclass.cpp,Ray Smith,Zdenko Podobný,2014-10-07 09:31:00-07:00,2014-10-07 23:37:34+02:00
+ccmain/tesseractclass.cpp,Sundar M. Vaidya,Tom Morris,2016-03-01 12:30:39-05:00,2016-03-01 13:41:19-05:00
+ccmain/tesseractclass.cpp,Ray Smith,Simon Strandgaard,2016-12-14 10:55:15-08:00,2016-12-15 14:58:53+00:00
+ccmain/tesseractclass.cpp,Zdenko Podobný,Wikinaut,2017-01-20 21:26:34+01:00,2017-01-21 10:48:25+01:00
+ccmain/tesseractclass.h,Ray Smith,Zdenko Podobný,2014-10-07 09:31:00-07:00,2014-10-07 23:37:34+02:00
+ccmain/tesseractclass.h,Sundar M. Vaidya,Tom Morris,2016-03-01 12:30:39-05:00,2016-03-01 13:41:19-05:00
+ccmain/tesseractclass.h,Ray Smith,Simon Strandgaard,2016-12-14 10:55:15-08:00,2016-12-15 14:58:53+00:00
+ccmain/tesseractclass.h,Zdenko Podobný,Wikinaut,2017-01-20 21:26:34+01:00,2017-01-21 16:18:53+01:00
+ccmain/thresholder.cpp,Raf Schietekat,Stefan Weil,2017-05-11 01:58:40+02:00,2017-05-11 20:08:27+02:00
+ccstruct/coutln.cpp,Raf Schietekat,Stefan Weil,2017-05-11 01:58:40+02:00,2017-05-11 20:08:27+02:00
+ccstruct/imagedata.cpp,Raf Schietekat,Stefan Weil,2017-05-11 01:58:40+02:00,2017-05-11 19:32:51+02:00
+ccstruct/otsuthr.cpp,Raf Schietekat,Stefan Weil,2017-05-11 01:58:40+02:00,2017-05-11 20:08:27+02:00
+ccstruct/pdblock.cpp,Raf Schietekat,Stefan Weil,2017-05-11 02:02:37+02:00,2017-05-11 19:32:51+02:00
+ccstruct/polyblk.cpp,Raf Schietekat,Stefan Weil,2017-05-11 02:02:37+02:00,2017-05-11 19:32:51+02:00
+ccstruct/publictypes.h,zdenop,Zdenko Podobný,2016-03-09 19:19:45+01:00,2016-03-10 09:42:01+01:00
+ccutil/ambigs.cpp,Ray Smith,Stefan Weil,2017-07-14 09:30:14-07:00,2017-07-15 12:40:34+02:00
+ccutil/ambigs.h,Ray Smith,Stefan Weil,2017-07-14 09:30:14-07:00,2017-07-15 12:40:34+02:00
+ccutil/genericvector.h,Stefan Weil,Ray Smith,2017-05-03 09:49:23+02:00,2017-05-03 16:09:44-07:00
+ccutil/genericvector.h,Raf Schietekat,Stefan Weil,2017-05-11 23:14:52+02:00,2017-05-12 14:15:54+02:00
+ccutil/hashfn.h,theraysmith@gmail.com,zdenop,2014-01-10 01:38:00+00:00,2014-01-10 23:52:04+00:00
+ccutil/params.cpp,theraysmith@gmail.com,zdenop@gmail.com,2013-09-23 15:26:50+00:00,2013-09-23 20:12:43+00:00
+ccutil/scanutils.cpp,zdenop,zdenop@gmail.com,2012-03-01 12:40:04+00:00,2012-03-01 22:43:51+00:00
+ccutil/serialis.cpp,Raf Schietekat,Stefan Weil,2017-05-11 01:58:40+02:00,2017-05-11 20:10:17+02:00
+ccutil/unicharcompress.cpp,Ray Smith,Stefan Weil,2017-07-14 10:58:21-07:00,2017-07-15 09:30:31+02:00
+classify/adaptmatch.cpp,Ray Smith,Zdenko Podobný,2015-05-13 17:07:11-07:00,2015-05-14 14:24:55+02:00
+classify/adaptmatch.cpp,Stefan Weil,Ray Smith,2016-11-07 12:31:20+01:00,2016-11-07 10:46:33-08:00
+classify/mf.cpp,Jim O'Regan,Jim Regan,2015-07-20 18:53:53+01:00,2015-07-20 22:42:58+01:00
+configure,zdenop@gmail.com,theraysmith,2010-11-29 09:32:47+00:00,2010-11-30 01:30:09+00:00
+configure.ac,joregan@gmail.com,zdenop@gmail.com,2011-08-29 21:28:28+00:00,2011-08-30 06:34:41+00:00
+configure.ac,zdenop,zdenop@gmail.com,2012-03-01 12:40:04+00:00,2012-03-01 22:43:51+00:00
+configure.ac,zdenop,zdenop@gmail.com,2014-01-17 20:53:15+00:00,2014-01-18 09:00:54+00:00
+configure.ac,Jim O'Regan,Zdenko Podobný,2015-07-24 00:16:55+01:00,2015-07-24 11:51:44+02:00
+configure.ac,Zdenko Podobný,James R. Barlow,2015-08-25 20:57:49+02:00,2015-08-26 00:10:56-07:00
+configure.ac,Stefan Weil,Ray Smith,2016-12-14 14:51:49+01:00,2016-12-14 10:58:24-08:00
+configure.ac,Shreeshrii,Stefan Weil,2017-08-19 19:01:46+05:30,2017-08-19 21:35:55+02:00
+configure.ac,Stefan Weil,Eric Platon,2018-04-22 16:43:35+02:00,2018-04-23 16:11:24+09:00
+configure.ac,Stefan Weil,Zdenko Podobný,2019-03-26 16:41:52+01:00,2019-03-27 15:37:14+01:00
+configure.ac,Raphael Graf,Stefan Weil,2019-05-25 18:08:55+02:00,2019-05-26 17:46:44+02:00
+configure.ac,Stefan Weil,Zdenko Podobný,2019-07-12 23:18:00+02:00,2019-07-13 20:11:03+02:00
+configure.ac,amitdo,Stefan Weil,2019-10-28 21:23:58+02:00,2019-10-29 11:47:31+01:00
+configure.ac,Stefan Weil,pkubaj,2023-07-11 13:54:45+02:00,2023-07-11 16:02:23+00:00
+configure.ac,Stefan Weil,sunyuechi,2024-11-07 13:40:43+01:00,2024-11-08 08:09:01+01:00
+cppan.yml,Egor Pugin,Stefan Weil,2017-07-15 15:09:00+03:00,2017-07-16 07:16:38+02:00
+dict/dawg_cache.cpp,oriahulrich@microvu.com,Jim O'Regan,2015-05-13 14:53:37+01:00,2015-05-13 14:59:02+01:00
+dict/trie.cpp,Raf Schietekat,Stefan Weil,2017-05-11 01:58:40+02:00,2017-05-11 19:32:51+02:00
+doc/Doxyfile,Jim O'Regan,Zdenko Podobný,2015-07-20 18:48:00+01:00,2015-07-20 20:35:52+02:00
+doc/tesseract.1.asc,Zdenko Podobný,zdenop,2018-02-23 11:19:18+01:00,2018-02-23 11:27:55+01:00
+doc/tesseract.1.asc,zdenop,Shreeshrii,2018-02-23 11:27:55+01:00,2018-02-24 09:37:25+01:00
+doc/tesseract.1.asc,Shree Devi Kumar,Stefan Weil,2018-10-04 04:01:26+00:00,2018-10-04 22:10:22+02:00
+doc/tesseract.natvis,supermouse,zhuangzhuang1988,2019-07-04 07:17:28+02:00,2019-07-04 07:17:28+02:00
+include/tesseract/Makefile.am,amitdo,Stefan Weil,2019-10-28 21:23:58+02:00,2019-10-29 11:47:31+01:00
+include/tesseract/apitypes.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/apitypes.h,Stefan Weil,Egor Pugin,2020-12-30 15:38:11+01:00,2020-12-31 02:05:47+03:00
+include/tesseract/baseapi.h,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 11:47:31+01:00
+include/tesseract/baseapi.h,Stefan Weil,Egor Pugin,2019-10-29 11:47:31+01:00,2019-10-29 14:50:11+03:00
+include/tesseract/baseapi.h,Egor Pugin,Stefan Weil,2020-12-28 04:58:14+03:00,2020-12-28 21:03:29+01:00
+include/tesseract/baseapi.h,Stefan Weil,Egor Pugin,2020-12-30 17:55:40+01:00,2020-12-31 02:05:47+03:00
+include/tesseract/baseapi.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/baseapi.h,Lucas Cimon,Ger Hobbelt,2021-04-29 11:25:40+02:00,2021-04-29 23:27:20+02:00
+include/tesseract/capi.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/capi.h,Stefan Weil,Egor Pugin,2020-12-30 17:55:40+01:00,2020-12-31 02:41:26+03:00
+include/tesseract/capi.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/export.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/genericvector.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/genericvector.h,Egor Pugin,Stefan Weil,2020-12-28 01:09:57+03:00,2020-12-28 21:03:29+01:00
+include/tesseract/ltrresultiterator.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/ltrresultiterator.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+include/tesseract/ltrresultiterator.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/ocrclass.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/osdetect.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/osdetect.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/pageiterator.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/pageiterator.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+include/tesseract/pageiterator.h,Bernhard Liebl,Stefan Weil,2021-11-22 19:47:39+01:00,2021-11-22 19:47:39+01:00
+include/tesseract/platform.h,Egor Pugin,Stefan Weil,2020-12-31 16:32:29+03:00,2020-12-31 17:06:21+01:00
+include/tesseract/publictypes.h,Amit Dovev,Egor Pugin,2021-05-09 18:49:09+03:00,2021-05-10 15:06:27+03:00
+include/tesseract/renderer.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/renderer.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/renderer.h,mcsjosh,Stefan Weil,2022-05-02 22:26:51+03:00,2022-05-03 08:24:04+02:00
+include/tesseract/resultiterator.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/resultiterator.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+include/tesseract/strngs.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/strngs.h,Egor Pugin,Stefan Weil,2020-12-28 01:10:15+03:00,2020-12-28 21:03:29+01:00
+include/tesseract/thresholder.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/unichar.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+include/tesseract/unichar.h,Stefan Weil,Egor Pugin,2021-03-12 13:26:38+01:00,2021-03-12 20:20:34+03:00
+java/com/Makefile.in,theraysmith@gmail.com,joregan@gmail.com,2011-08-18 16:32:44+00:00,2011-08-18 18:40:33+00:00
+lstm/lstm.cpp,Ray Smith,Stefan Weil,2016-11-30 15:51:17-08:00,2016-12-01 14:42:54+01:00
+lstm/lstmtrainer.cpp,Ray Smith,Stefan Weil,2016-11-30 15:51:17-08:00,2016-12-01 14:42:54+01:00
+lstm/lstmtrainer.h,Ray Smith,Stefan Weil,2016-11-30 15:51:17-08:00,2016-12-01 14:42:54+01:00
+lstm/networkio.cpp,Egor Pugin,Stefan Weil,2016-11-24 18:42:49+03:00,2016-11-25 15:43:39+01:00
+makemoredists,zdenop@gmail.com,zdenop,2012-09-25 20:16:42+00:00,2012-09-26 12:37:43+00:00
+nsis/Makefile.am,Stefan Weil,Regina Retter,2024-11-02 07:00:33+01:00,2024-11-02 07:00:33+01:00
+nsis/Makefile.am,Regina Retter,Stefan Weil,2024-11-02 07:00:33+01:00,2024-11-02 07:00:33+01:00
+nsis/tesseract.nsi,Stefan Weil,Regina Retter,2024-11-02 07:00:33+01:00,2024-11-02 07:00:33+01:00
+nsis/tesseract.nsi,Regina Retter,Stefan Weil,2024-11-02 07:00:33+01:00,2024-11-02 07:00:33+01:00
+opencl/opencl_device_selection.h,Stefan Weil,Ray Smith,2016-11-07 09:41:05+01:00,2016-11-07 10:46:33-08:00
+opencl/openclwrapper.cpp,zdenop,zdenop@gmail.com,2014-01-26 17:38:37+00:00,2014-01-26 22:39:20+00:00
+opencl/openclwrapper.cpp,gargrahul,Zdenko Podobný,2015-08-24 15:57:18+05:30,2015-08-24 14:54:13+02:00
+opencl/openclwrapper.cpp,"Wootton, Michael",Stefan Weil,2016-10-27 22:16:22+02:00,2016-10-28 20:04:36+02:00
+opencl/openclwrapper.cpp,Egor Pugin,Stefan Weil,2016-11-24 17:32:23+03:00,2016-11-24 17:59:13+01:00
+opencl/openclwrapper.cpp,Ray Smith,Stefan Weil,2016-11-30 15:44:25-08:00,2016-12-01 14:49:27+01:00
+projects/tesseract-ocr/build.sh,Guido Vranken,jonathanmetzman,2020-05-08 17:37:37+02:00,2020-05-08 17:37:37+02:00
+projects/tesseract-ocr/build.sh,jonathanmetzman,Guido Vranken,2020-05-08 17:37:37+02:00,2020-05-08 17:37:37+02:00
+projects/tesseract-ocr/build.sh,Guido Vranken,Stefan Weil,2020-05-08 17:37:37+02:00,2020-05-08 17:37:37+02:00
+runautoconf,zdenop@gmail.com,joregan@gmail.com,2011-08-18 21:33:28+00:00,2011-08-18 22:02:29+00:00
+snap/snapcraft.yaml,林博仁(Buo-ren Lin),Stefan Weil,2023-04-03 15:05:26+02:00,2023-04-03 15:09:22+02:00
+src/api/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 21:33:28+02:00
+src/api/Makefile.am,Jake Sebright,Stefan Weil,2018-11-30 06:09:36+01:00,2018-12-01 00:19:28+01:00
+src/api/altorenderer.cpp,Jake Sebright,Stefan Weil,2018-11-30 06:09:36+01:00,2018-11-30 06:37:25+01:00
+src/api/altorenderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/baseapi.cpp,Stefan Weil,amitdo,2018-07-02 21:26:53+02:00,2018-07-03 18:49:42+03:00
+src/api/baseapi.cpp,zhuangzhuang1988,Stefan Weil,2019-07-04 12:32:18+08:00,2019-07-04 15:44:07+02:00
+src/api/baseapi.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/baseapi.cpp,Stefan Weil,Egor Pugin,2020-12-30 17:55:40+01:00,2020-12-31 02:50:07+03:00
+src/api/baseapi.cpp,Egor Pugin,Stefan Weil,2020-12-31 03:06:39+03:00,2020-12-31 09:06:16+01:00
+src/api/baseapi.cpp,Stefan Weil,Egor Pugin,2021-03-13 21:15:52+01:00,2021-03-14 17:14:41+03:00
+src/api/baseapi.cpp,Stefan Brechtken,Stefan Weil,2021-03-17 11:07:51+01:00,2021-03-18 08:57:36+01:00
+src/api/baseapi.cpp,Stefan Weil,Egor Pugin,2021-03-24 08:01:59+01:00,2021-03-24 14:36:40+03:00
+src/api/baseapi.cpp,Lucas Cimon,Ger Hobbelt,2021-04-29 11:25:40+02:00,2021-04-29 23:27:20+02:00
+src/api/baseapi.cpp,Amit Dovev,Egor Pugin,2021-05-09 18:49:09+03:00,2021-05-10 15:06:27+03:00
+src/api/capi.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/hocrrenderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/lstmboxrenderer.cpp,Shree,Stefan Weil,2019-03-02 09:11:47+00:00,2019-03-02 20:26:07+01:00
+src/api/lstmboxrenderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/pdfrenderer.cpp,Zdenko Podobný,Stefan Weil,2018-10-16 12:24:10+02:00,2018-10-16 16:53:23+02:00
+src/api/pdfrenderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/pdfrenderer.cpp,Egor Pugin,Stefan Weil,2020-12-31 02:50:07+03:00,2020-12-31 09:06:16+01:00
+src/api/renderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/tesseractmain.cpp,zdenop,Egor Pugin,2018-09-29 08:51:00+02:00,2018-09-29 17:04:25+03:00
+src/api/tesseractmain.cpp,Stefan Weil,Zdenko Podobný,2018-10-22 18:50:47+02:00,2018-10-23 09:26:32+02:00
+src/api/tesseractmain.cpp,Egor Pugin,Jake Sebright,2018-11-29 19:02:54+03:00,2018-11-30 06:09:36+01:00
+src/api/tesseractmain.cpp,Jake Sebright,Stefan Weil,2018-11-30 06:09:36+01:00,2018-11-30 23:36:39+01:00
+src/api/tesseractmain.cpp,zdenop,Stefan Weil,2018-12-29 10:18:27+01:00,2018-12-29 22:17:33+01:00
+src/api/tesseractmain.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/api/tesseractmain.cpp,Robin Watts,Stefan Weil,2020-05-20 18:54:42+01:00,2020-05-21 07:03:37+02:00
+src/api/tesseractmain.cpp,Stefan Weil,Egor Pugin,2020-12-28 21:03:29+01:00,2020-12-29 00:22:28+03:00
+src/api/tesseractmain.cpp,Stefan Weil,Egor Pugin,2021-03-20 20:16:16+01:00,2021-03-21 15:19:21+03:00
+src/api/tesseractmain.cpp,Egor Pugin,Stefan Weil,2021-03-21 15:19:21+03:00,2021-03-22 09:02:13+01:00
+src/api/wordstrboxrenderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/arch/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/arch/dotproductavx.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/arch/dotproductfma.cpp,Stefan Weil,Ger Hobbelt,2021-07-24 15:14:17+02:00,2021-07-24 15:14:17+02:00
+src/arch/dotproductsse.cpp,Stefan Weil,Ger Hobbelt,2021-07-24 15:14:17+02:00,2021-07-24 15:14:17+02:00
+src/arch/dotproductsse.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/arch/intsimdmatrix.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/arch/intsimdmatrix.h,Robin Watts,Stefan Weil,2020-05-20 18:54:42+01:00,2020-05-21 07:03:37+02:00
+src/arch/intsimdmatrix.h,Stefan Weil,Ger Hobbelt,2021-07-24 13:59:37+02:00,2021-07-24 15:14:17+02:00
+src/arch/intsimdmatrixavx2.cpp,Stefan Weil,Ger Hobbelt,2021-07-24 15:14:17+02:00,2021-07-24 15:14:17+02:00
+src/arch/intsimdmatrixneon.cpp,Robin Watts,Stefan Weil,2020-05-20 18:54:42+01:00,2020-05-21 07:03:37+02:00
+src/arch/simddetect.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/arch/simddetect.cpp,Robin Watts,Stefan Weil,2020-05-20 18:54:42+01:00,2020-05-21 07:03:37+02:00
+src/arch/simddetect.cpp,Stefan Weil,Ger Hobbelt,2021-07-20 20:16:49+02:00,2021-07-20 20:40:16+02:00
+src/arch/simddetect.cpp,Ger Hobbelt,Stefan Weil,2021-07-20 20:40:16+02:00,2021-07-20 20:44:29+02:00
+src/arch/simddetect.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/arch/simddetect.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccmain/applybox.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/control.cpp,Stefan Weil,Dmitry Bely,2019-07-04 16:03:30+02:00,2019-07-05 12:36:25+02:00
+src/ccmain/control.cpp,amitdo,Stefan Weil,2019-09-22 20:55:24+03:00,2019-09-23 08:33:08+02:00
+src/ccmain/control.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/control.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/equationdetect.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/equationdetect.cpp,Stefan Weil,Egor Pugin,2021-03-31 07:08:53+02:00,2021-03-31 22:39:43+03:00
+src/ccmain/equationdetect.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/fixspace.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/fixspace.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/ltrresultiterator.cpp,jm server2,Stefan Weil,2019-03-13 12:55:14+01:00,2019-03-13 20:38:38+01:00
+src/ccmain/ltrresultiterator.cpp,Noah Metzger,Stefan Weil,2019-09-24 15:38:28+02:00,2019-09-25 09:43:57+02:00
+src/ccmain/ltrresultiterator.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/ltrresultiterator.h,Noah Metzger,Stefan Weil,2019-09-24 15:38:28+02:00,2019-09-25 09:43:57+02:00
+src/ccmain/mutableiterator.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/mutableiterator.h,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 12:26:41+01:00
+src/ccmain/mutableiterator.h,Stefan Weil,Egor Pugin,2019-10-29 12:26:41+01:00,2019-10-29 14:50:11+03:00
+src/ccmain/mutableiterator.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/ccmain/osdetect.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/osdetect.cpp,Egor Pugin,Stefan Weil,2021-03-12 22:35:02+03:00,2021-03-12 23:11:08+01:00
+src/ccmain/output.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/output.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/pageiterator.cpp,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 12:26:41+01:00
+src/ccmain/pageiterator.cpp,Stefan Weil,Egor Pugin,2019-10-29 12:26:41+01:00,2019-10-29 14:50:11+03:00
+src/ccmain/pageiterator.cpp,Bernhard Liebl,Stefan Weil,2021-11-22 19:47:39+01:00,2021-11-22 19:47:39+01:00
+src/ccmain/pagesegmain.cpp,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 12:26:41+01:00
+src/ccmain/pagesegmain.cpp,Stefan Weil,Egor Pugin,2019-10-29 12:26:41+01:00,2019-10-29 14:50:11+03:00
+src/ccmain/par_control.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccmain/paragraphs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/paragraphs.cpp,Stefan Weil,Egor Pugin,2020-12-31 09:28:35+01:00,2020-12-31 17:26:40+03:00
+src/ccmain/paragraphs.cpp,Egor Pugin,Stefan Weil,2020-12-31 17:26:40+03:00,2020-12-31 17:01:12+01:00
+src/ccmain/paragraphs.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/paragraphs.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/paragraphs_internal.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/paragraphs_internal.h,Stefan Weil,Egor Pugin,2020-12-31 09:28:35+01:00,2020-12-31 16:32:29+03:00
+src/ccmain/paragraphs_internal.h,Egor Pugin,Stefan Weil,2020-12-31 17:26:40+03:00,2020-12-31 15:36:28+01:00
+src/ccmain/paramsd.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/paramsd.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/pgedit.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccmain/pgedit.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/reject.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/reject.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/resultiterator.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/tessbox.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/tessedit.cpp,Stefan Weil,amitdo,2018-07-03 15:54:41+02:00,2018-07-03 18:49:42+03:00
+src/ccmain/tessedit.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/tesseractclass.cpp,Noah Metzger,Stefan Weil,2019-03-11 10:50:56+01:00,2019-03-11 19:01:23+01:00
+src/ccmain/tesseractclass.cpp,Stefan Weil,Noah Metzger,2019-03-11 19:01:23+01:00,2019-03-12 09:15:10+01:00
+src/ccmain/tesseractclass.cpp,Amit Dovev,Egor Pugin,2021-05-09 18:49:09+03:00,2021-05-10 15:06:27+03:00
+src/ccmain/tesseractclass.cpp,Amit Dovev,Amit D,2021-10-14 20:21:28+03:00,2021-10-15 18:14:49+03:00
+src/ccmain/tesseractclass.cpp,Amit D,Amit Dovev,2021-10-15 18:14:49+03:00,2021-10-15 19:34:39+03:00
+src/ccmain/tesseractclass.h,Stefan Weil,amitdo,2019-04-03 21:02:23+02:00,2019-04-04 15:09:08+03:00
+src/ccmain/tesseractclass.h,Noah Metzger,Stefan Weil,2019-07-15 10:05:22+02:00,2019-07-16 07:03:52+02:00
+src/ccmain/tesseractclass.h,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 12:26:41+01:00
+src/ccmain/tesseractclass.h,Stefan Weil,Egor Pugin,2019-10-29 12:26:41+01:00,2019-10-29 14:50:11+03:00
+src/ccmain/tesseractclass.h,Egor Pugin,Amit Dovev,2021-04-01 17:06:30+03:00,2021-04-02 11:12:38+03:00
+src/ccmain/tessvars.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/tessvars.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccmain/thresholder.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccmain/thresholder.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccmain/thresholder.cpp,Amit Dovev,Egor Pugin,2021-05-09 18:49:09+03:00,2021-05-10 15:06:27+03:00
+src/ccmain/thresholder.cpp,Stefan Weil,Amit D,2021-10-10 20:00:31+02:00,2021-10-11 19:29:39+03:00
+src/ccmain/thresholder.cpp,Amit Dovev,Amit D,2021-10-14 20:21:28+03:00,2021-10-14 20:56:48+03:00
+src/ccmain/thresholder.cpp,Amit D,Amit Dovev,2021-10-14 20:56:48+03:00,2021-10-15 19:34:39+03:00
+src/ccmain/thresholder.cpp,zdenop,Stefan Weil,2022-10-23 20:19:54+02:00,2022-10-24 06:25:21+02:00
+src/ccmain/werdit.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 21:33:28+02:00
+src/ccstruct/blamer.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccstruct/blamer.cpp,Ger Hobbelt,Stefan Weil,2021-07-20 20:49:03+02:00,2021-07-20 20:59:15+02:00
+src/ccstruct/blamer.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/blckerr.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/blobbox.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/blobbox.h,Egor Pugin,Stefan Weil,2021-04-27 22:08:06+03:00,2021-04-27 22:15:18+02:00
+src/ccstruct/blobs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/blobs.cpp,Egor Pugin,Stefan Weil,2020-12-31 02:17:54+03:00,2020-12-31 09:06:16+01:00
+src/ccstruct/blobs.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/blread.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/boxread.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccstruct/boxread.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/boxread.cpp,Egor Pugin,Stefan Weil,2020-12-31 03:06:39+03:00,2020-12-31 09:06:16+01:00
+src/ccstruct/boxread.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/boxword.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/boxword.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/ccstruct.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/ccstruct.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/coutln.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/coutln.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/debugpixa.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/detlinefit.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/detlinefit.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/detlinefit.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/dppoint.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccstruct/fontinfo.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccstruct/fontinfo.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/genblob.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/genblob.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/hpdsizes.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/image.h,Amit Dovev,Egor Pugin,2021-05-07 16:48:26+03:00,2021-05-07 21:30:42+03:00
+src/ccstruct/imagedata.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/imagedata.cpp,Stefan Weil,Egor Pugin,2021-03-12 13:10:25+01:00,2021-03-12 22:35:02+03:00
+src/ccstruct/imagedata.cpp,Egor Pugin,Stefan Weil,2021-04-01 01:35:50+03:00,2021-04-01 14:00:08+02:00
+src/ccstruct/imagedata.cpp,Stefan Weil,Egor Pugin,2021-04-01 14:00:08+02:00,2021-04-01 16:55:43+03:00
+src/ccstruct/imagedata.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/imagedata.h,Stefan Weil,Egor Pugin,2021-03-12 13:10:25+01:00,2021-03-12 22:35:02+03:00
+src/ccstruct/matrix.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/normalis.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/ocrpara.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/ocrpara.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/otsuthr.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/otsuthr.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/pageres.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/pageres.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/params_training_featdef.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/params_training_featdef.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/pdblock.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/points.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/points.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/polyaprx.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/polyblk.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/publictypes.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/quadlsq.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/ratngs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/ratngs.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/rect.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/rect.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/statistc.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/stepblob.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/tabletransfer.h,Stefan Brechtken,Sintun,2021-03-16 14:16:02+01:00,2021-03-17 10:36:09+01:00
+src/ccstruct/tabletransfer.h,Sintun,Stefan Brechtken,2021-03-17 10:36:15+01:00,2021-03-17 11:07:51+01:00
+src/ccstruct/vecfuncs.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/vecfuncs.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccstruct/werd.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccstruct/werd.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/Makefile.am,amitdo,Stefan Weil,2019-09-15 19:11:30+02:00,2019-09-15 19:11:30+02:00
+src/ccutil/ambigs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/ambigs.h,amitdo,Stefan Weil,2019-09-15 19:11:30+02:00,2019-09-15 19:11:30+02:00
+src/ccutil/ambigs.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/basedir.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/bits16.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/bitvector.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccutil/bitvector.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/ccutil.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/clst.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:31:38+03:00
+src/ccutil/clst.h,Stefan Weil,Egor Pugin,2020-12-30 17:56:59+01:00,2020-12-31 02:10:46+03:00
+src/ccutil/clst.h,Stefan Weil,Egor Pugin,2021-04-06 15:26:04+02:00,2021-04-06 23:37:14+03:00
+src/ccutil/elst.cpp,Stefan Weil,Egor Pugin,2021-04-06 15:57:12+02:00,2021-04-07 00:15:01+03:00
+src/ccutil/elst.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/elst.h,Stefan Weil,Egor Pugin,2020-12-30 17:56:59+01:00,2020-12-31 02:10:46+03:00
+src/ccutil/elst.h,Stefan Weil,Egor Pugin,2021-04-06 15:57:12+02:00,2021-04-06 23:40:56+03:00
+src/ccutil/elst2.cpp,Stefan Weil,Egor Pugin,2021-04-06 15:57:12+02:00,2021-04-07 00:15:01+03:00
+src/ccutil/elst2.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/elst2.h,Stefan Weil,Egor Pugin,2020-12-30 17:56:59+01:00,2020-12-31 02:10:46+03:00
+src/ccutil/elst2.h,Stefan Weil,Egor Pugin,2021-04-06 15:57:12+02:00,2021-04-06 23:40:56+03:00
+src/ccutil/errcode.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/errcode.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/errcode.h,Stefan Weil,Egor Pugin,2020-12-31 18:26:33+01:00,2021-01-01 00:18:36+03:00
+src/ccutil/fileerr.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/genericheap.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/genericheap.h,Egor Pugin,Stefan Weil,2020-12-26 03:23:09+03:00,2020-12-26 17:41:53+01:00
+src/ccutil/genericheap.h,Egor Pugin,Stefan Weil,2020-12-28 02:31:45+03:00,2020-12-28 21:03:29+01:00
+src/ccutil/genericvector.h,Stefan Weil,Egor Pugin,2020-12-30 10:50:39+01:00,2020-12-31 02:17:54+03:00
+src/ccutil/genericvector.h,Egor Pugin,Stefan Weil,2020-12-31 02:17:54+03:00,2020-12-31 09:06:16+01:00
+src/ccutil/genericvector.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/ccutil/globaloc.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/host.h,Stefan Weil,zdenop,2019-04-22 21:51:07+02:00,2019-04-23 20:45:14+02:00
+src/ccutil/host.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/host.h,Egor Pugin,Stefan Weil,2020-12-31 02:35:28+03:00,2020-12-31 18:26:33+01:00
+src/ccutil/host.h,Stefan Weil,Egor Pugin,2020-12-31 18:26:33+01:00,2021-01-01 00:18:36+03:00
+src/ccutil/indexmapbidi.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccutil/indexmapbidi.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/kdpair.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/kdpair.h,Egor Pugin,Stefan Weil,2020-12-28 02:31:45+03:00,2020-12-28 21:03:29+01:00
+src/ccutil/ndminx.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/object_cache.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/ocrclass.h,Zdenko Podobný,zdenop,2018-11-08 19:43:46+01:00,2018-11-08 20:23:36+01:00
+src/ccutil/params.cpp,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 12:26:41+01:00
+src/ccutil/params.cpp,Stefan Weil,Egor Pugin,2019-10-29 12:26:41+01:00,2019-10-29 14:50:11+03:00
+src/ccutil/params.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:31:38+03:00
+src/ccutil/params.h,Egor Pugin,Stefan Weil,2020-12-26 00:55:30+03:00,2020-12-26 13:44:43+01:00
+src/ccutil/qrsequence.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/scanutils.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/serialis.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/ccutil/serialis.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/serialis.cpp,Stefan Weil,Egor Pugin,2020-12-30 19:15:56+01:00,2020-12-31 03:06:39+03:00
+src/ccutil/serialis.cpp,Egor Pugin,Stefan Weil,2020-12-31 03:06:39+03:00,2020-12-31 09:06:16+01:00
+src/ccutil/serialis.cpp,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 13:20:21+03:00
+src/ccutil/serialis.cpp,Egor Pugin,Stefan Weil,2020-12-31 13:20:21+03:00,2020-12-31 18:26:33+01:00
+src/ccutil/sorthelper.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/stderr.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/strngs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/tessdatamanager.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/tessdatamanager.cpp,Stefan Weil,Egor Pugin,2020-12-30 07:10:29+01:00,2020-12-31 02:50:07+03:00
+src/ccutil/tessdatamanager.cpp,Egor Pugin,Stefan Weil,2020-12-31 02:50:07+03:00,2020-12-31 09:06:16+01:00
+src/ccutil/tessdatamanager.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/tprintf.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/tprintf.cpp,Egor Pugin,Stefan Weil,2021-03-12 22:35:02+03:00,2021-03-12 23:11:08+01:00
+src/ccutil/tprintf.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/tprintf.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unichar.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicharcompress.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicharmap.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicharmap.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/unicharmap.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicharset.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicharset.cpp,Stefan Weil,Egor Pugin,2020-12-29 11:28:50+01:00,2020-12-30 02:11:58+03:00
+src/ccutil/unicharset.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicharset.h,Egor Pugin,Stefan Weil,2019-10-29 14:50:11+03:00,2019-10-30 10:06:31+01:00
+src/ccutil/unicharset.h,Stefan Weil,Egor Pugin,2020-12-29 11:28:50+01:00,2020-12-30 02:11:58+03:00
+src/ccutil/unicharset.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/ccutil/unicity_table.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/ccutil/unicodes.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/universalambigs.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/ccutil/universalambigs.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/classify/adaptmatch.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/blobclass.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/blobclass.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/cluster.cpp,Alexander Zaitsev,Stefan Weil,2018-05-20 01:49:26+03:00,2018-05-20 20:49:08+02:00
+src/classify/cluster.cpp,Stefan Weil,Alexander Zaitsev,2018-05-20 20:49:08+02:00,2018-05-20 22:46:46+03:00
+src/classify/cluster.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/clusttool.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/cutoffs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/errorcounter.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/classify/float2int.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/float2int.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/fpoint.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/fpoint.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/intfeaturedist.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/intfeaturemap.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/intfeaturespace.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/intfx.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/intmatcher.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/intproto.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/intproto.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/intproto.h,Egor Pugin,Stefan Weil,2020-12-31 16:32:29+03:00,2020-12-31 18:23:38+01:00
+src/classify/mf.cpp,Egor Pugin,Stefan Weil,2021-04-07 17:29:46+03:00,2021-04-07 17:30:33+02:00
+src/classify/mf.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/mfdefs.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/mfdefs.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/mfdefs.h,Egor Pugin,Stefan Weil,2021-04-07 17:29:46+03:00,2021-04-07 17:30:33+02:00
+src/classify/mfoutline.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/mfx.cpp,Egor Pugin,Stefan Weil,2021-04-07 17:29:46+03:00,2021-04-07 17:30:33+02:00
+src/classify/mfx.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/normfeat.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/normfeat.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/normmatch.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/normmatch.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/ocrfeatures.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/outfeat.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/picofeat.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/classify/protos.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/sampleiterator.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/classify/shapeclassifier.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/classify/shapeclassifier.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/shapeclassifier.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:31:38+03:00
+src/classify/shapetable.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/shapetable.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/tessclassifier.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/classify/trainingsample.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/classify/trainingsample.cpp,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/cutil/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 21:33:28+02:00
+src/cutil/callcpp.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/cutil/const.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/cutil.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/cutil_class.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/cutil_class.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/danerror.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/efio.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/emalloc.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/globals.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/oldlist.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/structures.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/cutil/structures.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/dict/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/dict/context.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/dict/dawg.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/dawg_cache.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/dict/dawg_cache.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/dawg_cache.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/dict/dawg_cache.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/dict.h,amitdo,Stefan Weil,2019-09-15 19:11:30+02:00,2019-09-15 19:11:30+02:00
+src/dict/dict.h,Stefan Weil,Egor Pugin,2020-12-31 09:28:35+01:00,2020-12-31 16:32:29+03:00
+src/dict/matchdefs.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/stopper.cpp,amitdo,Stefan Weil,2019-09-15 19:11:30+02:00,2019-09-15 19:11:30+02:00
+src/dict/stopper.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/stopper.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/trie.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/dict/trie.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 21:33:28+02:00
+src/lstm/convolve.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/convolve.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/convolve.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/ctc.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/ctc.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/fullyconnected.h,Egor Pugin,Stefan Weil,2021-03-12 22:35:02+03:00,2021-03-13 13:10:37+01:00
+src/lstm/functions.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/functions.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/functions.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/functions.h,Egor Pugin,Stefan Weil,2019-10-29 14:50:11+03:00,2019-10-30 10:09:44+01:00
+src/lstm/input.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/lstmrecognizer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/lstmrecognizer.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/lstmrecognizer.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/lstm/lstmtrainer.cpp,Shree,Stefan Weil,2019-04-04 15:43:29+00:00,2019-04-05 08:29:00+02:00
+src/lstm/maxpool.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/maxpool.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/network.cpp,Egor Pugin,Stefan Weil,2021-03-31 22:39:43+03:00,2021-04-01 14:00:08+02:00
+src/lstm/network.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/network.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/lstm/networkbuilder.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/lstm/networkbuilder.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/networkio.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/networkio.h,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 16:32:29+03:00
+src/lstm/networkscratch.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/parallel.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/plumbing.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/lstm/plumbing.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/lstm/plumbing.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/recodebeam.cpp,Stefan Weil,Noah Metzger,2019-07-10 16:20:50+02:00,2019-07-10 16:34:41+02:00
+src/lstm/recodebeam.cpp,Yu Xiao,Stefan Weil,2024-05-23 16:56:45+02:00,2024-05-23 16:56:45+02:00
+src/lstm/reconfig.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/reconfig.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/reversed.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/static_shape.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/static_shape.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/lstm/stridemap.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/stridemap.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/tfnetwork.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/tfnetwork.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/tfnetwork.proto,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/lstm/weightmatrix.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/opencl/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/opencl/oclkernels.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/opencl/opencl_device_selection.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/opencl/openclwrapper.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/opencl/openclwrapper.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/opencl/openclwrapper.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 21:33:28+02:00
+src/textord/alignedblob.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/textord/alignedblob.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/baselinedetect.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/baselinedetect.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/baselinedetect.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/bbgrid.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/blkocc.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/blobgrid.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/blobgrid.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/cjkpitch.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/cjkpitch.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/colfind.cpp,Stefan Brechtken,Stefan Weil,2021-03-16 14:16:02+01:00,2021-03-16 16:59:12+01:00
+src/textord/colfind.cpp,Stefan Weil,Stefan Brechtken,2021-03-16 16:59:12+01:00,2021-03-17 11:07:51+01:00
+src/textord/colfind.cpp,Egor Pugin,Stefan Weil,2021-04-01 19:10:48+03:00,2021-04-02 16:43:26+02:00
+src/textord/colfind.cpp,Egor Pugin,Stefan Weil,2021-04-27 22:08:06+03:00,2021-04-27 22:15:18+02:00
+src/textord/colpartition.cpp,Stefan Weil,Noah Metzger,2018-05-03 14:26:20+02:00,2018-05-03 14:55:41+02:00
+src/textord/colpartition.cpp,Alexander Zaitsev,Stefan Weil,2018-05-20 17:49:48+03:00,2018-05-20 23:39:18+02:00
+src/textord/colpartitionset.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/drawedg.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/drawedg.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/drawtord.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/textord/edgblob.cpp,Egor Pugin,Stefan Weil,2021-04-12 01:19:00+03:00,2021-04-12 08:03:30+02:00
+src/textord/edgblob.h,Egor Pugin,Stefan Weil,2021-04-12 01:19:00+03:00,2021-04-12 08:03:30+02:00
+src/textord/equationdetectbase.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/imagefind.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/textord/linefind.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/textord/strokewidth.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/tablefind.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/tablerecog.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/tablerecog.h,Stefan Brechtken,Stefan Weil,2021-03-15 17:25:10+01:00,2021-03-16 16:59:12+01:00
+src/textord/tablerecog.h,Stefan Weil,Sintun,2021-03-16 16:59:12+01:00,2021-03-17 10:42:23+01:00
+src/textord/textlineprojection.cpp,Egor Pugin,Stefan Weil,2021-03-31 22:39:43+03:00,2021-04-01 14:00:08+02:00
+src/textord/textord.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/topitch.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/tordmain.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/textord/tordmain.cpp,Stefan Weil,Egor Pugin,2021-03-20 12:37:56+01:00,2021-03-20 16:04:45+03:00
+src/textord/tordmain.cpp,Stefan Weil,Egor Pugin,2021-04-11 11:06:36+02:00,2021-04-12 01:40:40+03:00
+src/textord/tordmain.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/tospace.cpp,Alexander,Stefan Weil,2018-05-26 22:20:45+03:00,2018-05-27 18:49:43+02:00
+src/textord/tovars.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/tovars.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/textord/underlin.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/training/CMakeLists.txt,zdenop,Zdenko Podobný,2024-06-09 19:27:04+02:00,2024-06-10 12:43:33+02:00
+src/training/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 21:33:28+02:00
+src/training/ambiguous_words.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/boxchar.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/boxchar.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/classifier_tester.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:35:33+02:00
+src/training/classifier_tester.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/cntraining.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/commandlineflags.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/common/commontraining.cpp,Egor Pugin,Stefan Weil,2021-01-06 00:30:52+03:00,2021-01-05 23:06:17+01:00
+src/training/common/commontraining.h,Egor Pugin,Stefan Weil,2021-03-15 09:47:04+03:00,2021-03-15 09:11:41+01:00
+src/training/common/errorcounter.cpp,Stefan Weil,Egor Pugin,2021-03-13 23:16:35+01:00,2021-03-14 23:47:42+03:00
+src/training/common/errorcounter.cpp,Egor Pugin,Stefan Weil,2021-03-14 23:54:29+03:00,2021-03-15 09:11:41+01:00
+src/training/commontraining.cpp,Stefan Weil,amitdo,2018-07-03 14:53:00+02:00,2018-07-03 18:49:42+03:00
+src/training/commontraining.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/ctc.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/ctc.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/dawg2wordlist.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/degradeimage.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/degradeimage.cpp,Shree,Shreeshrii,2019-02-22 12:27:27+00:00,2019-02-23 17:54:00+05:30
+src/training/degradeimage.cpp,Shreeshrii,Stefan Weil,2019-02-23 17:59:00+05:30,2019-02-23 17:49:56+01:00
+src/training/degradeimage.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/degradeimage.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/degradeimage.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/degradeimage.h,Egor Pugin,Stefan Weil,2021-03-31 22:39:43+03:00,2021-04-01 14:00:08+02:00
+src/training/errorcounter.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/fileio.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/icuerrorcode.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/intfeaturedist.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/lang_model_helpers.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/language-specific.sh,John Lin,Stefan Weil,2018-11-15 17:43:15+01:00,2018-11-16 11:13:46+01:00
+src/training/ligature_table.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/lstmeval.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/lstmtester.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/lstmtester.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/lstmtraining.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:35:33+02:00
+src/training/lstmtraining.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/mergenf.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/mergenf.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/mftraining.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/mftraining.cpp,Egor Pugin,Stefan Weil,2021-03-14 23:47:42+03:00,2021-03-15 09:11:41+01:00
+src/training/normstrngs.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/pango_font_info.cpp,Zdenko Podobný,zdenop,2018-10-20 11:30:07+02:00,2018-10-20 21:41:09+02:00
+src/training/pango_font_info.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/pango_font_info.h,Zdenko Podobný,zdenop,2018-10-20 11:30:07+02:00,2018-10-20 21:41:09+02:00
+src/training/shapeclustering.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/stringrenderer.cpp,Tom Morris,zdenop,2018-10-13 11:14:26+02:00,2018-10-13 11:20:25+02:00
+src/training/stringrenderer.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/tesstrain.sh,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:35:33+02:00
+src/training/tesstrain_utils.py,Shree,Shreeshrii,2019-03-17 09:58:11+00:00,2019-03-17 15:32:35+05:30
+src/training/tesstrain_utils.py,Shreeshrii,zdenop,2019-03-17 15:32:35+05:30,2019-03-17 15:25:48+01:00
+src/training/tesstrain_utils.sh,zdenop,Matthias Geerdsen,2018-10-21 14:00:06+02:00,2018-10-21 21:30:52+02:00
+src/training/tesstrain_utils.sh,John Lin,Stefan Weil,2018-11-15 10:38:40+08:00,2018-11-15 13:36:52+01:00
+src/training/tesstrain_utils.sh,Shree,Shreeshrii,2019-03-23 12:28:53+00:00,2019-03-23 19:16:49+05:30
+src/training/text2image.cpp,Shree,Shreeshrii,2019-02-22 12:27:27+00:00,2019-02-23 17:56:02+05:30
+src/training/text2image.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/text2image.cpp,Stefan Weil,Egor Pugin,2020-12-31 09:06:16+01:00,2020-12-31 20:16:20+03:00
+src/training/tlog.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/tlog.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/trainingsampleset.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/unicharset/lstmtrainer.cpp,Stefan Weil,Egor Pugin,2021-03-13 23:16:35+01:00,2021-03-14 23:47:42+03:00
+src/training/unicharset/lstmtrainer.cpp,Egor Pugin,Stefan Weil,2021-03-14 23:47:42+03:00,2021-03-15 09:11:41+01:00
+src/training/unicharset/lstmtrainer.h,Stefan Weil,Egor Pugin,2021-03-13 23:16:35+01:00,2021-03-14 23:47:42+03:00
+src/training/unicharset/lstmtrainer.h,Egor Pugin,Stefan Weil,2021-03-14 23:47:42+03:00,2021-03-15 09:11:41+01:00
+src/training/unicharset/normstrngs.cpp,Robert Sachunsky,Stefan Weil,2024-03-05 13:12:10+01:00,2024-03-05 14:05:26+01:00
+src/training/unicharset_extractor.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/unicharset_training_utils.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:35:33+02:00
+src/training/unicharset_training_utils.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/unicharset_training_utils.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/util.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/validate_grapheme.cpp,Shree,Shreeshrii,2019-02-25 18:47:42+00:00,2019-02-26 15:05:51+05:30
+src/training/validate_grapheme.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validate_indic.cpp,Shree,zdenop,2019-03-01 13:21:49+00:00,2019-03-01 14:36:09+01:00
+src/training/validate_indic.cpp,zdenop,Stefan Weil,2019-03-01 14:36:09+01:00,2019-03-02 13:05:03+01:00
+src/training/validate_indic.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validate_khmer.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validate_khmer.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validate_myanmar.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validate_myanmar.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validator.h,Egor Pugin,Stefan Weil,2018-04-25 11:35:26+03:00,2018-04-25 19:04:50+02:00
+src/training/validator.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/training/wordlist2dawg.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/viewer/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/viewer/scrollview.cpp,Zdenko Podobný,Stefan Weil,2018-08-14 13:06:14+02:00,2018-08-14 13:12:51+02:00
+src/viewer/scrollview.cpp,Egor Pugin,Stefan Weil,2021-03-31 22:39:43+03:00,2021-04-01 14:00:08+02:00
+src/viewer/scrollview.h,Egor Pugin,Stefan Weil,2021-03-31 22:39:43+03:00,2021-04-01 14:00:08+02:00
+src/viewer/svmnode.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/viewer/svmnode.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/viewer/svpaint.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/viewer/svutil.cpp,zdenop,Stefan Weil,2019-04-23 23:03:28+02:00,2019-04-24 11:24:47+02:00
+src/viewer/svutil.cpp,Stefan Weil,Zdenko Podobný,2019-04-24 11:24:47+02:00,2019-04-24 14:55:35+02:00
+src/viewer/svutil.h,zdenop,Zdenko Podobný,2019-04-23 23:03:28+02:00,2019-04-24 15:35:22+02:00
+src/vs2010/port/gettimeofday.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/vs2010/tesseract/libtesseract.rc.in,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/vs2010/tesseract/resource.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/vs2010/tesseract/tesseract.rc.in,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/Makefile.am,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 21:33:28+02:00
+src/wordrec/chop.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/drawfx.cpp,Egor Pugin,Stefan Weil,2020-12-26 00:55:30+03:00,2020-12-26 17:36:24+01:00
+src/wordrec/drawfx.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/findseam.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/gradechop.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/gradechop.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/language_model.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/language_model.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/lm_pain_points.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:35:33+02:00
+src/wordrec/lm_pain_points.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/lm_state.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/measure.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/outlines.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/params_model.cpp,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/params_model.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/params_model.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/pieces.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/plotedges.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/render.h,Egor Pugin,Stefan Weil,2018-04-25 11:02:54+03:00,2018-04-25 19:04:50+02:00
+src/wordrec/segsearch.cpp,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/tface.cpp,Stefan Weil,amitdo,2018-07-03 13:21:17+02:00,2018-07-03 18:49:42+03:00
+src/wordrec/wordrec.h,amitdo,Egor Pugin,2019-10-28 19:10:30+02:00,2019-10-29 14:50:11+03:00
+src/wordrec/wordrec.h,Ger Hobbelt,Egor Pugin,2021-03-11 21:43:07+01:00,2021-03-12 22:35:02+03:00
+sw.cpp,Egor Pugin,Stefan Weil,2019-08-06 15:04:32+03:00,2019-08-07 10:24:57+02:00
+sw.cpp,Stefan Weil,Egor Pugin,2019-08-12 14:48:56+02:00,2019-08-12 19:50:22+03:00
+sw.cpp,Egor Pugin,Stefan Weil,2019-08-12 19:50:22+03:00,2019-08-12 19:36:41+02:00
+sw.cpp,Stefan Weil,Egor Pugin,2019-10-29 11:14:37+01:00,2019-10-29 13:27:12+03:00
+sw.cpp,Egor Pugin,Stefan Weil,2019-10-29 13:27:12+03:00,2019-10-29 11:47:31+01:00
+sw.cpp,Stefan Weil,Egor Pugin,2019-10-29 11:47:31+01:00,2019-10-29 14:57:32+03:00
+sw.cpp,Stefan Weil,Egor Pugin,2021-08-06 20:59:10+02:00,2021-08-07 13:40:47+03:00
+tessdata/Makefile.am,zdenop@gmail.com,zdenop,2012-07-03 20:33:28+00:00,2012-07-04 15:35:26+00:00
+tessdata/configs/Makefile.am,Sundar M. Vaidya,Tom Morris,2016-03-01 12:25:15-05:00,2016-03-02 10:46:52-05:00
+tessdata/configs/Makefile.in,theraysmith@gmail.com,joregan@gmail.com,2011-08-18 16:32:44+00:00,2011-08-18 18:40:33+00:00
+tessdata/configs/hocrtsv,Sundar M. Vaidya,Tom Morris,2016-03-01 12:23:12-05:00,2016-03-01 13:41:19-05:00
+tessdata/tessconfigs/Makefile.in,theraysmith@gmail.com,joregan@gmail.com,2011-08-18 16:32:44+00:00,2011-08-18 18:40:33+00:00
+test,Egor Pugin,Stefan Weil,2019-03-11 00:03:45+03:00,2019-03-11 13:00:17+01:00
+textord/bbgrid.h,theraysmith@gmail.com,zdenop@gmail.com,2013-10-31 05:10:48+00:00,2013-10-31 13:02:58+00:00
+training/CMakeLists.txt,Egor Pugin,Stefan Weil,2017-07-15 15:09:00+03:00,2017-07-16 07:16:38+02:00
+training/Makefile.am,Ray Smith,Stefan Weil,2016-12-14 11:17:06-08:00,2016-12-15 17:28:01+01:00
+training/Makefile.am,Stefan Weil,Zdenko Podobný,2016-12-15 17:28:01+01:00,2016-12-15 22:20:35+01:00
+training/Makefile.am,Shreeshrii,Shree Devi Kumar,2017-09-10 21:51:52+05:30,2017-09-11 14:45:25+05:30
+training/Makefile.am,Shree Devi Kumar,amitdo,2017-09-11 14:45:25+05:30,2017-09-11 15:03:53+03:00
+training/classifier_tester.cpp,Ray Smith,Stefan Weil,2016-12-14 10:55:15-08:00,2016-12-14 21:08:36+01:00
+training/combine_tessdata.cpp,zdenop@gmail.com,joregan,2010-09-27 22:30:00+00:00,2010-09-28 01:03:17+00:00
+training/pango_font_info.cpp,Ray Smith,Egor Pugin,2017-07-14 09:30:14-07:00,2017-07-15 15:09:00+03:00
+training/pango_font_info.cpp,Egor Pugin,Stefan Weil,2017-07-15 15:09:00+03:00,2017-07-16 07:16:38+02:00
+training/tesstrain_utils.sh,Ray Smith,Zdenko Podobný,2015-07-10 15:56:33-07:00,2015-07-11 09:43:31+02:00
+training/tesstrain_utils.sh,Shreeshrii,Stefan Weil,2018-04-22 22:19:06+05:30,2018-04-22 20:45:31+02:00
+unittest/Makefile.am,Stefan Weil,Shreeshrii,2018-03-04 14:43:28+01:00,2018-03-04 14:52:27+01:00
+unittest/Makefile.am,Shree Devi Kumar,Stefan Weil,2019-01-19 05:13:03+00:00,2019-01-19 08:34:00+01:00
+unittest/Makefile.am,Shree Devi Kumar,Stefan Weil,2019-01-21 17:36:08+01:00,2019-01-21 17:36:08+01:00
+unittest/Makefile.am,Stefan Weil,Shreeshrii,2019-01-23 13:55:13+01:00,2019-01-24 08:01:19+01:00
+unittest/Makefile.am,Shreeshrii,Stefan Weil,2019-01-24 08:01:19+01:00,2019-01-24 11:23:20+01:00
+unittest/Makefile.am,amitdo,Stefan Weil,2019-10-28 21:23:58+02:00,2019-10-29 12:47:04+01:00
+unittest/apiexample_test.cc,Shree Devi Kumar,Shreeshrii,2018-06-18 18:53:01+00:00,2018-06-19 10:22:46+05:30
+unittest/apiexample_test.cc,Stefan Weil,Egor Pugin,2020-12-27 10:54:43+01:00,2020-12-28 01:11:13+03:00
+unittest/bitvector_test.cc,Egor Pugin,Stefan Weil,2020-12-30 03:39:07+03:00,2020-12-30 18:17:58+01:00
+unittest/dawg_test.cc,Shree Devi Kumar,Stefan Weil,2019-01-21 17:36:08+01:00,2019-01-21 17:36:08+01:00
+unittest/dawg_test.cc,Egor Pugin,Stefan Weil,2020-12-30 03:33:38+03:00,2020-12-30 18:17:58+01:00
+unittest/fileio_test.cc,Stefan Weil,Egor Pugin,2020-12-27 10:54:43+01:00,2020-12-28 01:11:13+03:00
+unittest/fuzzers/fuzzer-api.cpp,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 08:41:47+01:00
+unittest/heap_test.cc,Stefan Weil,Egor Pugin,2020-12-27 18:30:56+01:00,2020-12-28 02:32:27+03:00
+unittest/heap_test.cc,Egor Pugin,Stefan Weil,2020-12-28 02:32:27+03:00,2020-12-28 21:03:29+01:00
+unittest/imagedata_test.cc,Stefan Weil,Egor Pugin,2020-12-30 07:10:29+01:00,2020-12-30 16:44:59+03:00
+unittest/imagedata_test.cc,Egor Pugin,Stefan Weil,2020-12-30 16:44:59+03:00,2020-12-30 18:17:58+01:00
+unittest/imagedata_test.cc,Egor Pugin,Stefan Weil,2021-03-13 00:06:34+03:00,2021-03-13 21:15:52+01:00
+unittest/include_gunit.h,Shree Devi Kumar,Stefan Weil,2019-01-19 05:13:03+00:00,2019-01-19 08:34:00+01:00
+unittest/include_gunit.h,Stefan Weil,Shreeshrii,2019-01-23 13:55:13+01:00,2019-01-24 08:01:19+01:00
+unittest/indexmapbidi_test.cc,Egor Pugin,Stefan Weil,2020-12-30 16:44:59+03:00,2020-12-30 18:17:58+01:00
+unittest/lang_model_test.cc,Stefan Weil,Egor Pugin,2020-12-30 07:10:29+01:00,2020-12-30 16:44:59+03:00
+unittest/lang_model_test.cc,Egor Pugin,Stefan Weil,2020-12-30 16:44:59+03:00,2020-12-30 18:17:58+01:00
+unittest/layout_test.cc,Shree Devi Kumar,Stefan Weil,2019-01-21 17:36:08+01:00,2019-01-21 17:36:08+01:00
+unittest/layout_test.cc,Stefan Weil,Shree Devi Kumar,2019-01-21 17:36:08+01:00,2019-01-21 17:36:08+01:00
+unittest/ligature_table_test.cc,Egor Pugin,Stefan Weil,2020-12-30 16:44:59+03:00,2020-12-30 18:17:58+01:00
+unittest/ligature_table_test.cc,Stefan Weil,Egor Pugin,2020-12-30 18:17:58+01:00,2020-12-31 16:32:29+03:00
+unittest/loadlang_test.cc,Shree Devi Kumar,Shreeshrii,2018-06-18 18:53:01+00:00,2018-06-19 10:23:21+05:30
+unittest/lstm_recode_test.cc,Shreeshrii,Shree Devi Kumar,2019-01-24 08:01:19+01:00,2019-01-24 15:39:37+00:00
+unittest/lstm_squashed_test.cc,Shreeshrii,Shree Devi Kumar,2019-01-24 08:01:19+01:00,2019-01-24 15:39:37+00:00
+unittest/lstm_test.cc,Shreeshrii,Shree Devi Kumar,2019-01-24 08:01:19+01:00,2019-01-24 11:40:53+00:00
+unittest/lstm_test.h,Shreeshrii,Shree Devi Kumar,2019-01-24 08:01:19+01:00,2019-01-24 11:40:53+00:00
+unittest/lstm_test.h,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 18:01:18+01:00
+unittest/lstm_test.h,Stefan Weil,Egor Pugin,2020-12-30 07:10:29+01:00,2020-12-30 15:15:11+03:00
+unittest/lstm_test.h,Egor Pugin,Stefan Weil,2020-12-30 15:15:11+03:00,2020-12-30 18:17:58+01:00
+unittest/lstm_test.h,Egor Pugin,Stefan Weil,2021-03-13 00:06:34+03:00,2021-03-13 21:15:52+01:00
+unittest/lstm_test.h,Stefan Weil,Egor Pugin,2021-03-13 23:16:35+01:00,2021-03-14 23:06:19+03:00
+unittest/lstm_test.h,Egor Pugin,Stefan Weil,2021-03-14 23:47:42+03:00,2021-03-15 09:11:41+01:00
+unittest/normstrngs_test.h,amitdo,Stefan Weil,2019-10-28 19:10:30+02:00,2019-10-29 18:01:18+01:00
+unittest/osd_test.cc,Shree Devi Kumar,Shreeshrii,2018-06-18 18:53:01+00:00,2018-06-19 10:23:48+05:30
+unittest/pango_font_info_test.cc,Egor Pugin,Stefan Weil,2020-12-30 16:44:59+03:00,2020-12-30 18:17:58+01:00
+unittest/pango_font_info_test.cc,Stefan Weil,Egor Pugin,2020-12-30 18:17:58+01:00,2020-12-31 14:23:52+03:00
+unittest/params_model_test.cc,Egor Pugin,Stefan Weil,2020-12-30 14:20:15+03:00,2020-12-30 18:17:58+01:00
+unittest/recodebeam_test.cc,Stefan Weil,Egor Pugin,2020-12-27 10:54:43+01:00,2020-12-28 01:11:13+03:00
+unittest/recodebeam_test.cc,Egor Pugin,Stefan Weil,2020-12-28 01:11:13+03:00,2020-12-28 21:03:29+01:00
+unittest/resultiterator_test.cc,Stefan Weil,Egor Pugin,2020-12-30 18:17:58+01:00,2020-12-31 17:26:40+03:00
+unittest/shapetable_test.cc,Stefan Weil,Egor Pugin,2020-12-27 10:54:43+01:00,2020-12-28 03:24:05+03:00
+unittest/shapetable_test.cc,Egor Pugin,Stefan Weil,2020-12-30 14:16:10+03:00,2020-12-30 18:17:58+01:00
+unittest/stringrenderer_test.cc,Stefan Weil,Egor Pugin,2020-12-30 07:10:29+01:00,2020-12-30 16:44:59+03:00
+unittest/stringrenderer_test.cc,Egor Pugin,Stefan Weil,2020-12-30 16:44:59+03:00,2020-12-30 18:17:58+01:00
+unittest/stringrenderer_test.cc,Stefan Weil,Egor Pugin,2020-12-30 18:17:58+01:00,2020-12-31 14:23:52+03:00
+unittest/stringrenderer_test.cc,Egor Pugin,Stefan Weil,2021-03-13 00:06:34+03:00,2021-03-13 21:15:52+01:00
+unittest/stringrenderer_test.cc,Stefan Weil,Egor Pugin,2021-03-13 21:15:52+01:00,2021-03-14 23:06:19+03:00
+unittest/stringrenderer_test.cc,Egor Pugin,Stefan Weil,2021-03-14 23:06:19+03:00,2021-03-15 09:11:41+01:00
+unittest/tatweel_test.cc,Stefan Weil,Egor Pugin,2021-03-12 13:16:48+01:00,2021-03-13 00:06:34+03:00
+unittest/unichar_test.cc,Shree Devi Kumar,Stefan Weil,2019-01-18 16:41:29+00:00,2019-01-18 21:15:33+01:00
+unittest/unicharcompress_test.cc,Shree Devi Kumar,Stefan Weil,2019-01-19 05:13:03+00:00,2019-01-19 08:34:00+01:00
+unlvtests/Makefile.am,Shree Devi Kumar,Shreeshrii,2018-06-08 08:32:47+00:00,2018-06-08 15:17:05+05:30
+unlvtests/README.md,Shree Devi Kumar,Shreeshrii,2018-06-08 14:28:50+00:00,2018-06-08 21:38:16+05:30
+unlvtests/README.md,Shreeshrii,Shree Devi Kumar,2018-06-08 21:52:25+05:30,2018-06-09 12:47:09+00:00
+unlvtests/counttestset.sh,Shree Devi Kumar,Stefan Weil,2018-06-06 12:20:14+00:00,2018-06-07 07:12:08+02:00
+unlvtests/counttestset.sh,Shree Devi Kumar,Shreeshrii,2018-06-09 12:47:09+00:00,2018-06-09 20:17:51+05:30
+unlvtests/counttestset.sh,Shreeshrii,Shree Devi Kumar,2018-06-09 20:17:51+05:30,2018-06-10 02:49:50+00:00
+unlvtests/runtestset.sh,Shree Devi Kumar,Stefan Weil,2018-06-06 12:20:14+00:00,2018-06-07 07:18:55+02:00
+vs2008/dlltest/Makefile.in,zdenop@gmail.com,joregan,2010-09-29 21:49:36+00:00,2010-09-30 17:24:13+00:00
+vs2008/tesseract-3.02.02.nsi,zdenop@gmail.com,Stefan Weil,2024-11-02 07:00:33+01:00,2024-11-02 07:00:33+01:00
+vs2008/tesseract.sln,zdenop,zdenop@gmail.com,2012-07-31 09:22:26+00:00,2012-07-31 09:32:29+00:00
+wordrec/language_model.cpp,theraysmith@gmail.com,Ray Smith,2014-08-11 23:23:06+00:00,2014-08-12 16:09:12-07:00
+wordrec/language_model.cpp,Egor Pugin,Stefan Weil,2016-11-24 17:32:23+03:00,2016-11-24 17:59:13+01:00
+wordrec/lm_state.h,Ray Smith,Stefan Weil,2017-07-14 09:30:14-07:00,2017-07-15 12:40:34+02:00

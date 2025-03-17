@@ -1,0 +1,657 @@
+file,author1,author2,time1,time2
+.DS_Store,刘一博,khazic,2024-03-20 14:11:28+08:00,2024-03-20 14:38:08+08:00
+.github/ISSUE_TEMPLATE/🐛-bug---help.md,hoshi-hiyouga,hiyouga,2023-11-16 18:56:30+08:00,2023-11-16 19:35:30+08:00
+.github/workflows/label_issue.yml,MengqingCao,hoshi-hiyouga,2024-06-24 12:27:00+00:00,2024-06-24 21:59:39+08:00
+.gitignore,SamgeShao,hiyouga,2023-12-01 16:37:41+08:00,2023-12-01 17:04:37+08:00
+CODE_OF_CONDUCT.md,hoshi-hiyouga,hiyouga,2023-11-15 20:42:15+08:00,2023-11-15 23:51:26+08:00
+CONTRIBUTING.md,hoshi-hiyouga,hiyouga,2024-02-26 18:23:03+08:00,2024-02-26 18:31:07+08:00
+README.md,hiyouga,zxbsmk,2023-07-11 18:57:50+08:00,2023-07-12 17:29:47+08:00
+README.md,hiyouga,mrhan1993,2023-07-20 17:23:16+08:00,2023-07-21 16:57:58+08:00
+README.md,mrhan1993,hiyouga,2023-07-21 16:57:58+08:00,2023-07-22 14:29:22+08:00
+README.md,codemayq,hiyouga,2023-08-07 09:30:23+08:00,2023-08-07 15:02:02+08:00
+README.md,hiyouga,hoshi-hiyouga,2023-10-15 16:01:48+08:00,2023-10-15 20:23:22+08:00
+README.md,hoshi-hiyouga,hiyouga,2023-10-15 20:23:22+08:00,2023-10-15 20:28:14+08:00
+README.md,hiyouga,hoshi-hiyouga,2023-10-15 20:28:14+08:00,2023-10-16 00:23:37+08:00
+README.md,hiyouga,anvie,2023-10-20 23:28:52+08:00,2023-10-21 13:24:10+07:00
+README.md,Yuchen Han,hiyouga,2023-11-17 00:17:36-08:00,2023-11-18 11:09:52+08:00
+README.md,hiyouga,yuze.zyz,2023-12-01 15:34:50+08:00,2023-12-01 16:11:30+08:00
+README.md,yuze.zyz,hiyouga,2023-12-01 16:11:30+08:00,2023-12-01 22:53:15+08:00
+README.md,Junu Moon(Fran),hiyouga,2024-01-15 19:50:35+09:00,2024-01-15 23:34:23+08:00
+README.md,codemayq,hoshi-hiyouga,2024-02-20 11:28:25+08:00,2024-02-20 16:07:55+08:00
+README.md,hiyouga,hoshi-hiyouga,2024-03-02 19:58:21+08:00,2024-03-03 00:48:06+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-03-03 00:48:47+08:00,2024-03-03 01:01:46+08:00
+README.md,hiyouga,S3Studio,2024-03-08 03:06:21+08:00,2024-03-08 10:47:28+08:00
+README.md,S3Studio,hiyouga,2024-03-08 10:47:28+08:00,2024-03-09 00:09:09+08:00
+README.md,刘一博,khazic,2024-03-20 14:11:28+08:00,2024-03-20 14:21:16+08:00
+README.md,khazic,hiyouga,2024-03-20 14:21:16+08:00,2024-03-20 17:59:45+08:00
+README.md,hiyouga,0xez,2024-03-21 17:04:10+08:00,2024-03-21 22:14:48+08:00
+README.md,hiyouga,Tsumugii24,2024-03-25 22:38:56+08:00,2024-03-25 22:54:38+08:00
+README.md,Tsumugii24,hiyouga,2024-03-25 22:54:38+08:00,2024-03-25 23:06:13+08:00
+README.md,hiyouga,hoshi-hiyouga,2024-04-18 15:34:45+08:00,2024-04-19 01:13:50+08:00
+README.md,hoshi-hiyouga,Marco,2024-04-19 01:13:50+08:00,2024-04-18 20:31:24+02:00
+README.md,hiyouga,Katehuuh,2024-05-07 06:19:29+08:00,2024-05-07 06:23:36+02:00
+README.md,Katehuuh,hiyouga,2024-05-07 06:23:36+02:00,2024-05-07 19:03:47+08:00
+README.md,hiyouga,BUAADreamer,2024-05-08 16:37:54+08:00,2024-05-09 13:53:39+08:00
+README.md,BUAADreamer,hiyouga,2024-05-09 13:53:39+08:00,2024-05-09 16:52:27+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-05-11 22:43:04+08:00,2024-05-12 00:33:49+08:00
+README.md,hiyouga,MengqingCao,2024-05-27 19:57:33+08:00,2024-05-28 01:33:54+00:00
+README.md,MengqingCao,hiyouga,2024-05-28 01:33:54+00:00,2024-05-28 13:44:22+08:00
+README.md,hiyouga,MengqingCao,2024-05-28 19:35:52+08:00,2024-05-29 09:53:31+00:00
+README.md,MengqingCao,hiyouga,2024-05-29 09:53:31+00:00,2024-05-29 18:39:11+08:00
+README.md,hiyouga,-.-,2024-06-08 02:42:34+08:00,2024-06-08 23:51:56+08:00
+README.md,hiyouga,Eli Costa,2024-06-16 01:08:12+08:00,2024-06-16 11:19:25-03:00
+README.md,Eli Costa,hiyouga,2024-06-16 11:19:25-03:00,2024-06-17 18:47:24+08:00
+README.md,hiyouga,MengqingCao,2024-06-24 18:22:12+08:00,2024-06-24 10:57:36+00:00
+README.md,MengqingCao,hoshi-hiyouga,2024-06-24 10:57:36+00:00,2024-06-25 01:03:38+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-06-25 01:03:38+08:00,2024-06-25 01:15:19+08:00
+README.md,hzhaoy,hiyouga,2024-06-27 00:13:30+08:00,2024-06-27 00:29:42+08:00
+README.md,hiyouga,fanjunliang,2024-06-27 00:29:42+08:00,2024-06-27 15:25:12+08:00
+README.md,fanjunliang,hoshi-hiyouga,2024-06-27 15:25:12+08:00,2024-06-27 19:17:35+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-06-27 19:17:35+08:00,2024-06-27 20:14:48+08:00
+README.md,wangzhihong,hiyouga,2024-07-03 11:12:20+08:00,2024-07-03 19:39:05+08:00
+README.md,hiyouga,hoshi-hiyouga,2024-07-24 16:20:11+08:00,2024-07-24 21:07:14+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-07-24 21:07:14+08:00,2024-07-24 23:44:00+08:00
+README.md,hiyouga,khazic,2024-07-24 23:44:00+08:00,2024-07-25 09:03:21+08:00
+README.md,khazic,HardAndHeavy,2024-07-25 09:03:21+08:00,2024-07-25 21:29:28+03:00
+README.md,HardAndHeavy,hoshi-hiyouga,2024-07-25 21:29:28+03:00,2024-07-26 11:29:09+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-07-26 11:29:28+08:00,2024-07-26 11:51:00+08:00
+README.md,liudan,hoshi-hiyouga,2024-07-29 10:58:28+08:00,2024-07-30 01:52:35+08:00
+README.md,hiyouga,Byron Hsu,2024-08-30 21:43:19+08:00,2024-08-30 17:16:16-07:00
+README.md,hoshi-hiyouga,menibrief,2024-09-19 02:16:16+08:00,2024-09-18 23:51:36+03:00
+README.md,hiyouga,marko1616,2024-09-25 20:13:04+08:00,2024-09-25 16:08:44-04:00
+README.md,Kingsley,hoshi-hiyouga,2024-09-29 00:00:23+08:00,2024-09-29 05:02:44+00:00
+README.md,hoshi-hiyouga,BUAADreamer,2024-09-29 05:02:44+00:00,2024-09-29 20:45:02+08:00
+README.md,BUAADreamer,hoshi-hiyouga,2024-09-29 21:29:29+08:00,2024-09-29 23:55:21+08:00
+README.md,hoshi-hiyouga,shing100,2024-09-29 23:55:55+08:00,2024-09-30 09:19:27+09:00
+README.md,shing100,"Geun, Lim",2024-09-30 09:19:27+09:00,2024-09-30 09:24:44+09:00
+README.md,"Geun, Lim",shing100,2024-09-30 09:24:44+09:00,2024-09-30 09:44:21+09:00
+README.md,shing100,Kingsley,2024-09-30 09:44:21+09:00,2024-09-30 19:58:34+08:00
+README.md,hoshi-hiyouga,hiyouga,2024-10-29 21:57:28+08:00,2024-10-30 09:14:01+00:00
+README.md,hiyouga,Cuiyn,2024-11-01 08:41:54+00:00,2024-11-02 13:45:27+08:00
+README.md,Cuiyn,hiyouga,2024-11-02 13:45:27+08:00,2024-11-02 21:28:04+08:00
+README.md,zhaohu xing,hiyouga,2024-12-17 12:15:33+00:00,2024-12-17 17:05:10+00:00
+README.md,ZeYi Lin,hiyouga,2024-12-21 20:59:25+08:00,2024-12-21 21:42:45+00:00
+README.md,hiyouga,fzc8578,2025-01-09 18:27:54+00:00,2025-01-10 23:45:44+08:00
+README.md,Zhangchi Feng,codingma,2025-01-13 16:46:48+08:00,2025-01-13 19:43:36+08:00
+README.md,codingma,hoshi-hiyouga,2025-01-13 19:43:36+08:00,2025-01-13 21:34:20+08:00
+README.md,hoshi-hiyouga,Zhangchi Feng,2025-01-13 21:34:20+08:00,2025-01-14 00:26:19+08:00
+README.md,Zhangchi Feng,Haian Huang(深度眸),2025-01-14 00:26:19+08:00,2025-01-14 18:07:27+08:00
+README.md,Haian Huang(深度眸),hoshi-hiyouga,2025-01-14 18:07:27+08:00,2025-01-14 18:40:07+08:00
+README.md,hoshi-hiyouga,Zhangchi Feng,2025-01-14 18:40:07+08:00,2025-01-14 21:22:35+08:00
+README.md,Zhangchi Feng,hoshi-hiyouga,2025-01-14 21:22:35+08:00,2025-01-15 01:42:50+08:00
+README.md,hoshi-hiyouga,neavo,2025-02-01 04:31:38+08:00,2025-02-01 12:43:29+08:00
+README.md,Zhangchi Feng,hoshi-hiyouga,2025-02-11 13:30:44+08:00,2025-02-11 19:52:25+08:00
+README.md,hoshi-hiyouga,leo-pony,2025-02-25 23:22:48+08:00,2025-02-25 23:32:01+08:00
+README.md,Qiaolin Yu,Hertz,2025-03-15 04:37:58+08:00,2025-03-15 20:55:24+08:00
+README_zh.md,mrhan1993,hiyouga,2023-07-21 16:57:58+08:00,2023-07-22 14:29:22+08:00
+README_zh.md,codemayq,hiyouga,2023-08-07 09:30:23+08:00,2023-08-07 15:02:02+08:00
+README_zh.md,hiyouga,hoshi-hiyouga,2023-10-15 20:28:14+08:00,2023-10-16 00:28:27+08:00
+README_zh.md,hiyouga,anvie,2023-10-20 23:28:52+08:00,2023-10-21 13:24:10+07:00
+README_zh.md,Yuchen Han,hiyouga,2023-11-17 00:18:07-08:00,2023-11-18 11:09:52+08:00
+README_zh.md,hiyouga,yuze.zyz,2023-12-01 15:34:50+08:00,2023-12-01 16:11:30+08:00
+README_zh.md,yuze.zyz,hiyouga,2023-12-01 16:11:30+08:00,2023-12-01 22:53:15+08:00
+README_zh.md,codemayq,hoshi-hiyouga,2024-02-20 11:26:22+08:00,2024-02-20 16:06:59+08:00
+README_zh.md,hiyouga,hoshi-hiyouga,2024-03-02 19:58:21+08:00,2024-03-03 00:49:08+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-03-03 00:49:08+08:00,2024-03-03 01:01:46+08:00
+README_zh.md,刘一博,khazic,2024-03-20 14:11:28+08:00,2024-03-20 14:21:16+08:00
+README_zh.md,khazic,hiyouga,2024-03-20 14:21:16+08:00,2024-03-20 17:59:45+08:00
+README_zh.md,hiyouga,0xez,2024-03-21 17:04:10+08:00,2024-03-22 10:41:17+08:00
+README_zh.md,Tsumugii24,hiyouga,2024-03-25 22:31:03+08:00,2024-03-25 22:38:56+08:00
+README_zh.md,hiyouga,Tsumugii24,2024-03-25 22:38:56+08:00,2024-03-25 22:54:26+08:00
+README_zh.md,Tsumugii24,hiyouga,2024-03-25 22:54:26+08:00,2024-03-25 23:06:13+08:00
+README_zh.md,hoshi-hiyouga,Marco,2024-04-19 01:13:50+08:00,2024-04-18 20:31:24+02:00
+README_zh.md,hiyouga,Katehuuh,2024-05-07 06:19:29+08:00,2024-05-07 06:28:48+02:00
+README_zh.md,Katehuuh,hiyouga,2024-05-07 06:28:48+02:00,2024-05-07 19:03:47+08:00
+README_zh.md,hiyouga,BUAADreamer,2024-05-08 16:37:54+08:00,2024-05-09 13:53:39+08:00
+README_zh.md,BUAADreamer,hiyouga,2024-05-09 13:53:39+08:00,2024-05-09 16:52:27+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-05-11 22:44:51+08:00,2024-05-12 00:33:49+08:00
+README_zh.md,hiyouga,MengqingCao,2024-05-27 19:57:33+08:00,2024-05-28 01:33:54+00:00
+README_zh.md,MengqingCao,hiyouga,2024-05-28 01:33:54+00:00,2024-05-28 13:44:22+08:00
+README_zh.md,hiyouga,MengqingCao,2024-05-28 19:35:52+08:00,2024-05-29 09:53:31+00:00
+README_zh.md,MengqingCao,hiyouga,2024-05-29 09:53:31+00:00,2024-05-29 18:39:11+08:00
+README_zh.md,hiyouga,-.-,2024-06-08 02:42:34+08:00,2024-06-08 23:51:56+08:00
+README_zh.md,hiyouga,Eli Costa,2024-06-16 01:08:12+08:00,2024-06-16 11:22:06-03:00
+README_zh.md,Eli Costa,hiyouga,2024-06-16 11:34:31-03:00,2024-06-17 18:47:24+08:00
+README_zh.md,hiyouga,MengqingCao,2024-06-24 18:29:04+08:00,2024-06-24 10:57:36+00:00
+README_zh.md,MengqingCao,hoshi-hiyouga,2024-06-24 10:57:36+00:00,2024-06-25 01:06:59+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-06-25 01:06:59+08:00,2024-06-25 01:15:19+08:00
+README_zh.md,hzhaoy,hiyouga,2024-06-27 00:13:30+08:00,2024-06-27 00:29:42+08:00
+README_zh.md,hiyouga,fanjunliang,2024-06-27 00:29:42+08:00,2024-06-27 15:25:12+08:00
+README_zh.md,fanjunliang,hoshi-hiyouga,2024-06-27 15:25:12+08:00,2024-06-27 19:17:52+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-06-27 19:17:52+08:00,2024-06-27 20:14:48+08:00
+README_zh.md,wangzhihong,hiyouga,2024-07-03 14:59:09+08:00,2024-07-03 19:39:05+08:00
+README_zh.md,hiyouga,hoshi-hiyouga,2024-07-24 16:20:11+08:00,2024-07-24 21:08:42+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-07-24 21:08:42+08:00,2024-07-24 23:44:00+08:00
+README_zh.md,hiyouga,khazic,2024-07-24 23:44:00+08:00,2024-07-25 09:03:21+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-07-26 11:30:57+08:00,2024-07-26 11:51:00+08:00
+README_zh.md,liudan,hoshi-hiyouga,2024-07-29 10:58:28+08:00,2024-07-30 01:55:13+08:00
+README_zh.md,hiyouga,marko1616,2024-09-25 20:13:04+08:00,2024-09-25 16:08:44-04:00
+README_zh.md,Kingsley,hoshi-hiyouga,2024-09-29 00:00:23+08:00,2024-09-29 05:02:44+00:00
+README_zh.md,hoshi-hiyouga,BUAADreamer,2024-09-29 05:02:44+00:00,2024-09-29 20:46:47+08:00
+README_zh.md,BUAADreamer,hoshi-hiyouga,2024-09-29 21:29:29+08:00,2024-09-29 23:56:32+08:00
+README_zh.md,hoshi-hiyouga,shing100,2024-09-29 23:56:32+08:00,2024-09-30 09:19:27+09:00
+README_zh.md,shing100,"Geun, Lim",2024-09-30 09:19:27+09:00,2024-09-30 09:25:02+09:00
+README_zh.md,"Geun, Lim",shing100,2024-09-30 09:25:02+09:00,2024-09-30 09:44:21+09:00
+README_zh.md,shing100,Kingsley,2024-09-30 09:44:21+09:00,2024-09-30 19:58:34+08:00
+README_zh.md,hoshi-hiyouga,hiyouga,2024-10-29 21:58:03+08:00,2024-10-30 09:14:01+00:00
+README_zh.md,hiyouga,Cuiyn,2024-11-01 08:41:54+00:00,2024-11-02 13:45:27+08:00
+README_zh.md,Cuiyn,hiyouga,2024-11-02 13:45:27+08:00,2024-11-02 21:28:04+08:00
+README_zh.md,zhaohu xing,hiyouga,2024-12-17 12:15:33+00:00,2024-12-17 17:05:10+00:00
+README_zh.md,ZeYi Lin,hiyouga,2024-12-21 20:59:25+08:00,2024-12-21 21:42:45+00:00
+README_zh.md,hiyouga,fzc8578,2025-01-09 18:27:54+00:00,2025-01-10 23:45:44+08:00
+README_zh.md,Zhangchi Feng,codingma,2025-01-13 16:46:48+08:00,2025-01-13 19:43:36+08:00
+README_zh.md,codingma,hoshi-hiyouga,2025-01-13 19:43:36+08:00,2025-01-13 21:34:20+08:00
+README_zh.md,hoshi-hiyouga,Zhangchi Feng,2025-01-13 21:34:20+08:00,2025-01-14 00:26:19+08:00
+README_zh.md,Zhangchi Feng,Haian Huang(深度眸),2025-01-14 00:26:19+08:00,2025-01-14 18:07:27+08:00
+README_zh.md,Haian Huang(深度眸),Zhangchi Feng,2025-01-14 18:07:27+08:00,2025-01-14 21:22:35+08:00
+README_zh.md,Zhangchi Feng,hoshi-hiyouga,2025-01-14 21:22:35+08:00,2025-01-15 01:42:50+08:00
+README_zh.md,hoshi-hiyouga,neavo,2025-02-01 04:31:38+08:00,2025-02-01 12:43:29+08:00
+README_zh.md,Zhangchi Feng,hoshi-hiyouga,2025-02-11 13:30:44+08:00,2025-02-11 13:56:26+08:00
+README_zh.md,Qiaolin Yu,Hertz,2025-03-15 04:37:58+08:00,2025-03-15 20:55:24+08:00
+assets/mmqrcode1690193168206.png,hoshi-hiyouga,hiyouga,2023-07-24 18:08:09+08:00,2023-07-24 20:33:40+08:00
+assets/wechat_npu.jpg,codingma,hiyouga,2024-06-12 10:39:05+08:00,2024-06-13 02:31:45+08:00
+data/README.md,Peter Pan,hiyouga,2023-08-22 01:33:59-04:00,2023-08-22 19:46:09+08:00
+data/README_zh.md,mrhan1993,hiyouga,2023-07-21 16:57:58+08:00,2023-07-22 14:29:22+08:00
+data/README_zh.md,Peter Pan,hiyouga,2023-08-22 01:33:59-04:00,2023-08-22 19:46:09+08:00
+data/README_zh.md,khazic,Lao,2024-04-28 14:30:05+08:00,2024-04-28 23:31:37+08:00
+data/belle_multiturn/belle_multiturn.py,SirlyDreamer,hiyouga,2024-03-20 08:31:30+00:00,2024-03-20 20:09:06+08:00
+data/dataset_info.json,Marco,hiyouga,2023-11-30 16:21:34+01:00,2023-12-01 15:34:50+08:00
+data/dataset_info.json,xingjun.wang,hiyouga,2023-12-12 15:00:37+08:00,2023-12-12 18:33:06+08:00
+data/dataset_info.json,BUAADreamer,hoshi-hiyouga,2024-04-25 19:58:47+08:00,2024-04-26 03:03:36+08:00
+data/dataset_info.json,hoshi-hiyouga,hiyouga,2024-04-26 03:03:36+08:00,2024-04-26 05:34:58+08:00
+data/dataset_info.json,hiyouga,BUAADreamer,2024-04-26 23:18:00+08:00,2024-04-26 23:18:58+08:00
+data/dataset_info.json,BUAADreamer,hoshi-hiyouga,2024-04-26 23:18:58+08:00,2024-04-26 23:34:34+08:00
+data/dataset_info.json,hoshi-hiyouga,hiyouga,2024-04-26 23:34:34+08:00,2024-04-26 23:39:19+08:00
+data/dataset_info.json,ZeyuTeng96,hiyouga,2024-05-06 16:44:50+08:00,2024-05-06 22:51:02+08:00
+data/dataset_info.json,hiyouga,hoshi-hiyouga,2024-05-06 22:51:02+08:00,2024-05-07 00:05:45+08:00
+data/dataset_info.json,hoshi-hiyouga,hiyouga,2024-05-07 00:05:45+08:00,2024-05-07 00:41:04+08:00
+data/dataset_info.json,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+data/dataset_info.json,hiyouga,BUAADreamer,2024-05-27 19:57:33+08:00,2024-05-27 20:10:31+08:00
+data/dataset_info.json,BUAADreamer,hiyouga,2024-05-27 20:10:31+08:00,2024-05-27 20:37:57+08:00
+data/hh_rlhf_en/hh_rlhf_en.py,SirlyDreamer,hiyouga,2024-03-20 08:31:30+00:00,2024-03-20 20:09:06+08:00
+data/kto-mix-test.json,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+data/mllm_demo.json,hoshi-hiyouga,hiyouga,2024-04-26 02:58:45+08:00,2024-04-26 05:34:58+08:00
+data/ultra_chat/ultra_chat.py,SirlyDreamer,hiyouga,2024-03-20 08:31:30+00:00,2024-03-20 20:09:06+08:00
+docker/docker-cuda/Dockerfile,MengqingCao,hoshi-hiyouga,2024-06-24 10:57:36+00:00,2024-06-24 23:41:35+08:00
+docker/docker-cuda/Dockerfile,hoshi-hiyouga,hiyouga,2024-06-25 00:46:08+08:00,2024-06-25 01:51:29+08:00
+docker/docker-cuda/Dockerfile,hiyouga,hzhaoy,2024-06-25 01:51:29+08:00,2024-06-25 15:13:07+08:00
+docker/docker-cuda/Dockerfile,hzhaoy,hiyouga,2024-06-27 00:13:30+08:00,2024-06-27 20:14:48+08:00
+docker/docker-cuda/docker-compose.yml,MengqingCao,hoshi-hiyouga,2024-06-24 10:57:36+00:00,2024-06-25 00:46:47+08:00
+docker/docker-cuda/docker-compose.yml,hoshi-hiyouga,hiyouga,2024-06-25 00:46:47+08:00,2024-06-25 01:51:29+08:00
+docker/docker-cuda/docker-compose.yml,MengqingCao,hzhaoy,2024-06-26 02:15:00+00:00,2024-06-27 00:13:30+08:00
+docker/docker-cuda/docker-compose.yml,hzhaoy,hiyouga,2024-06-27 00:13:30+08:00,2024-06-27 20:14:48+08:00
+docker/docker-npu/Dockerfile,MengqingCao,hoshi-hiyouga,2024-06-24 10:57:36+00:00,2024-06-25 00:50:34+08:00
+docker/docker-npu/Dockerfile,hoshi-hiyouga,hiyouga,2024-06-25 00:50:34+08:00,2024-06-25 01:51:29+08:00
+docker/docker-npu/Dockerfile,fanjunliang,hoshi-hiyouga,2024-06-27 15:25:12+08:00,2024-06-27 19:51:25+08:00
+docker/docker-npu/Dockerfile,hoshi-hiyouga,hiyouga,2024-06-27 19:57:40+08:00,2024-06-27 20:14:48+08:00
+docker/docker-npu/docker-compose.yml,MengqingCao,hoshi-hiyouga,2024-06-24 10:57:36+00:00,2024-06-25 00:54:28+08:00
+docker/docker-npu/docker-compose.yml,hoshi-hiyouga,hiyouga,2024-06-25 00:54:28+08:00,2024-06-25 01:51:29+08:00
+docker/docker-rocm/docker-compose.yml,HardAndHeavy,hiyouga,2024-07-25 21:29:28+03:00,2024-07-26 11:51:00+08:00
+examples/extras/apollo/llama3_full_sft.yaml,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+examples/extras/badam/sft.sh,Jonery,hoshi-hiyouga,2024-04-16 12:05:27+08:00,2024-04-16 17:25:40+08:00
+examples/extras/badam/sft.sh,Oscar,hiyouga,2024-05-05 23:35:19+08:00,2024-05-06 21:47:00+08:00
+examples/inference/llava1_5.yaml,codingma,hoshi-hiyouga,2024-07-13 13:16:22+08:00,2024-07-13 20:30:06+08:00
+examples/train_lora/llama3_lora_eval.yaml,codingma,hoshi-hiyouga,2024-07-15 09:55:33+08:00,2024-07-15 22:55:12+08:00
+examples/train_lora/llama3_lora_sft.yaml,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+examples/train_lora/llama3_lora_sft.yaml,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+pyproject.toml,Eric Tang,Noah,2025-02-13 00:38:44+08:00,2025-02-13 01:39:41+08:00
+requirements.txt,jiongxuc,hiyouga,2023-08-10 14:57:12+08:00,2023-08-11 03:02:53+08:00
+requirements.txt,hiyouga,hoshi-hiyouga,2023-12-12 11:39:04+08:00,2023-12-13 10:23:51+08:00
+requirements.txt,Dristanta Das,hiyouga,2024-01-07 21:03:30+05:30,2024-01-08 21:42:25+08:00
+requirements.txt,Jonery,hoshi-hiyouga,2024-04-16 12:25:50+08:00,2024-04-16 17:10:17+08:00
+requirements.txt,hoshi-hiyouga,hiyouga,2024-04-16 17:10:17+08:00,2024-04-16 18:09:16+08:00
+requirements.txt,hiyouga,BUAADreamer,2024-09-09 22:51:08+08:00,2024-09-10 12:31:53+08:00
+requirements.txt,hiyouga,hoshi-hiyouga,2025-03-11 14:49:13+08:00,2025-03-12 00:33:47+08:00
+scripts/cal_mfu.py,-.-,hoshi-hiyouga,2024-09-07 23:21:35+08:00,2024-09-08 00:39:48+08:00
+scripts/cal_mfu.py,hoshi-hiyouga,hiyouga,2024-09-08 00:41:45+08:00,2024-09-08 00:56:56+08:00
+scripts/export_ollama_modelfile.py,codingma,hoshi-hiyouga,2025-02-11 17:52:24+08:00,2025-02-11 19:52:25+08:00
+scripts/stat_utils/cal_ppl.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+scripts/test_ollama_modelfile.py,codingma,hoshi-hiyouga,2025-02-11 17:52:24+08:00,2025-02-11 19:52:25+08:00
+scripts/vllm_infer.py,JieShen,hoshi-hiyouga,2025-02-25 19:44:57+08:00,2025-02-25 23:22:48+08:00
+setup.py,Jonery,hoshi-hiyouga,2024-04-16 12:05:27+08:00,2024-04-16 17:10:02+08:00
+setup.py,MengqingCao,hiyouga,2024-05-28 01:33:54+00:00,2024-05-28 21:27:27+08:00
+setup.py,hiyouga,MengqingCao,2024-05-28 21:27:27+08:00,2024-05-29 09:53:31+00:00
+setup.py,MengqingCao,hiyouga,2024-05-29 10:05:11+00:00,2024-05-29 18:39:11+08:00
+setup.py,fanjunliang,hiyouga,2024-06-26 18:21:42+08:00,2024-06-26 22:11:44+08:00
+setup.py,hiyouga,fanjunliang,2024-06-27 00:29:42+08:00,2024-06-27 15:25:12+08:00
+setup.py,fanjunliang,hoshi-hiyouga,2024-06-27 15:25:12+08:00,2024-06-27 19:16:46+08:00
+setup.py,Johnny,hoshi-hiyouga,2024-10-07 10:16:53+02:00,2024-10-07 16:26:50+08:00
+setup.py,Johnny,hiyouga,2024-10-11 12:29:09+02:00,2024-10-11 23:51:54+08:00
+setup.py,Zhangchi Feng,hoshi-hiyouga,2025-01-14 00:26:19+08:00,2025-01-14 02:44:02+08:00
+setup.py,hoshi-hiyouga,Zhangchi Feng,2025-01-14 02:44:02+08:00,2025-01-14 17:34:58+08:00
+setup.py,Zhangchi Feng,zhuHQ,2025-01-14 17:34:58+08:00,2025-01-15 00:24:56+08:00
+setup.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/__init__.py,hiyouga,huniu20,2024-10-08 17:48:56+08:00,2024-10-09 17:21:37+08:00
+src/llamafactory/api/chat.py,marko1616,hiyouga,2024-08-27 11:30:16+08:00,2024-08-27 12:49:32+08:00
+src/llamafactory/chat/base_engine.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/chat/chat_model.py,ycjcl868,hoshi-hiyouga,2024-05-19 23:17:46+08:00,2024-05-20 00:29:12+08:00
+src/llamafactory/chat/hf_engine.py,hiyouga,hoshi-hiyouga,2024-05-19 19:39:32+08:00,2024-05-20 00:30:45+08:00
+src/llamafactory/chat/hf_engine.py,hoshi-hiyouga,hiyouga,2024-05-20 00:30:45+08:00,2024-05-20 00:36:43+08:00
+src/llamafactory/chat/hf_engine.py,hoshi-hiyouga,Zhangchi Feng,2025-01-13 21:34:20+08:00,2025-01-14 17:34:58+08:00
+src/llamafactory/chat/hf_engine.py,Zhangchi Feng,hoshi-hiyouga,2025-01-14 17:34:58+08:00,2025-01-14 18:40:07+08:00
+src/llamafactory/chat/hf_engine.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/chat/vllm_engine.py,hiyouga,juejuezi,2024-05-16 18:39:08+08:00,2024-05-17 16:07:39+08:00
+src/llamafactory/chat/vllm_engine.py,hoshi-hiyouga,hiyouga,2024-05-20 00:31:04+08:00,2024-05-20 00:36:43+08:00
+src/llamafactory/chat/vllm_engine.py,Arthur Kim,hiyouga,2024-06-12 16:49:12+09:00,2024-06-12 16:50:11+08:00
+src/llamafactory/chat/vllm_engine.py,hiyouga,hzhaoy,2024-06-12 16:50:11+08:00,2024-06-12 18:29:03+08:00
+src/llamafactory/chat/vllm_engine.py,hzhaoy,hiyouga,2024-06-12 18:29:03+08:00,2024-06-13 01:58:16+08:00
+src/llamafactory/chat/vllm_engine.py,hoshi-hiyouga,hiyouga,2024-09-07 01:21:14+08:00,2024-09-08 00:56:56+08:00
+src/llamafactory/chat/vllm_engine.py,hiyouga,JJJJerry,2024-11-08 23:49:16+08:00,2024-11-09 11:45:59+08:00
+src/llamafactory/chat/vllm_engine.py,hoshi-hiyouga,hiyouga,2024-11-10 20:57:00+08:00,2024-11-10 21:28:18+08:00
+src/llamafactory/chat/vllm_engine.py,hiyouga,hoshi-hiyouga,2024-11-10 21:28:18+08:00,2024-11-11 13:57:14+08:00
+src/llamafactory/chat/vllm_engine.py,hiyouga,Yaser Afshar,2024-12-17 10:42:05+00:00,2024-12-17 12:25:12+00:00
+src/llamafactory/chat/vllm_engine.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/cli.py,MengqingCao,hiyouga,2024-06-05 08:03:30+00:00,2024-06-06 01:28:14+08:00
+src/llamafactory/cli.py,hiyouga,hoshi-hiyouga,2024-06-06 01:28:14+08:00,2024-06-06 23:38:09+08:00
+src/llamafactory/cli.py,hoshi-hiyouga,hiyouga,2024-06-06 23:38:09+08:00,2024-06-06 23:44:58+08:00
+src/llamafactory/cli.py,faddddeout,hiyouga,2024-06-27 09:58:00+00:00,2024-06-27 20:14:48+08:00
+src/llamafactory/cli.py,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+src/llamafactory/cli.py,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/data/__init__.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/data/__init__.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/data/aligner.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/data/aligner.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/data/aligner.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/collator.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/data/collator.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/data/collator.py,hiyouga,hzhaoy,2024-07-04 01:52:43+08:00,2024-07-04 10:20:28+08:00
+src/llamafactory/data/collator.py,hiyouga,hoshi-hiyouga,2024-10-29 09:07:46+00:00,2024-10-29 22:03:42+08:00
+src/llamafactory/data/collator.py,fzc8578,hoshi-hiyouga,2025-01-13 14:19:38+08:00,2025-01-13 21:34:20+08:00
+src/llamafactory/data/collator.py,hoshi-hiyouga,Zhangchi Feng,2025-01-13 21:34:20+08:00,2025-01-14 00:26:19+08:00
+src/llamafactory/data/collator.py,hoshi-hiyouga,Ritesh Goru,2025-03-13 02:53:08+08:00,2025-03-13 03:31:12+08:00
+src/llamafactory/data/converter.py,hoshi-hiyouga,Noah,2025-02-13 00:39:20+08:00,2025-02-13 01:39:41+08:00
+src/llamafactory/data/formatter.py,ybyang,hoshi-hiyouga,2024-09-19 15:00:10+08:00,2024-09-19 16:06:00+08:00
+src/llamafactory/data/formatter.py,hiyouga,ylfeng,2024-12-17 17:05:10+00:00,2024-12-17 19:13:26+00:00
+src/llamafactory/data/formatter.py,hoshi-hiyouga,Yueqi Song,2025-02-05 01:53:33+08:00,2025-02-05 02:26:23+08:00
+src/llamafactory/data/loader.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/data/loader.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/data/loader.py,hiyouga,hoshi-hiyouga,2024-09-04 02:27:08+08:00,2024-09-04 19:10:30+08:00
+src/llamafactory/data/loader.py,hoshi-hiyouga,hiyouga,2024-09-04 19:10:30+08:00,2024-09-04 22:36:20+08:00
+src/llamafactory/data/loader.py,hiyouga,wangdepeng,2024-11-26 16:03:02+00:00,2024-11-27 16:44:42+08:00
+src/llamafactory/data/loader.py,hoshi-hiyouga,SrWYG,2025-02-13 00:39:20+08:00,2025-02-13 02:19:03+08:00
+src/llamafactory/data/loader.py,hiyouga,hoshi-hiyouga,2025-03-11 15:08:25+08:00,2025-03-12 00:08:41+08:00
+src/llamafactory/data/mm_plugin.py,hiyouga,BUAADreamer,2024-09-09 22:41:28+08:00,2024-09-10 12:31:53+08:00
+src/llamafactory/data/mm_plugin.py,BUAADreamer,Kingsley,2024-09-28 01:07:38+08:00,2024-09-28 02:14:06+08:00
+src/llamafactory/data/mm_plugin.py,Kingsley,BUAADreamer,2024-09-29 00:00:23+08:00,2024-09-29 12:38:25+08:00
+src/llamafactory/data/mm_plugin.py,BUAADreamer,hoshi-hiyouga,2024-09-29 20:38:46+08:00,2024-09-29 20:53:34+08:00
+src/llamafactory/data/mm_plugin.py,Kingsley,KUANGDD,2024-10-14 16:55:59+08:00,2024-10-14 21:11:09+08:00
+src/llamafactory/data/mm_plugin.py,KUANGDD,BUAADreamer,2024-10-15 12:12:46+08:00,2024-10-15 13:53:33+08:00
+src/llamafactory/data/mm_plugin.py,BUAADreamer,Kingsley,2024-10-15 13:53:33+08:00,2024-10-15 17:09:24+08:00
+src/llamafactory/data/mm_plugin.py,Kingsley,KUANGDD,2024-10-15 17:09:24+08:00,2024-10-16 01:09:33+08:00
+src/llamafactory/data/mm_plugin.py,hiyouga,hoshi-hiyouga,2024-10-29 09:07:46+00:00,2024-10-29 22:16:22+08:00
+src/llamafactory/data/mm_plugin.py,hoshi-hiyouga,hiyouga,2024-10-29 22:16:22+08:00,2024-10-30 08:56:29+00:00
+src/llamafactory/data/mm_plugin.py,marko1616,hiyouga,2024-11-23 16:09:01+00:00,2024-11-23 18:26:02+00:00
+src/llamafactory/data/mm_plugin.py,hiyouga,hoshi-hiyouga,2024-11-25 00:07:24+08:00,2024-11-25 22:22:06+08:00
+src/llamafactory/data/mm_plugin.py,fzc8578,Zhangchi Feng,2025-01-13 15:08:35+08:00,2025-01-13 16:46:48+08:00
+src/llamafactory/data/mm_plugin.py,Zhangchi Feng,hoshi-hiyouga,2025-01-13 16:46:48+08:00,2025-01-13 21:34:20+08:00
+src/llamafactory/data/mm_plugin.py,hoshi-hiyouga,Zhangchi Feng,2025-01-13 21:34:20+08:00,2025-01-14 00:26:19+08:00
+src/llamafactory/data/mm_plugin.py,Zhangchi Feng,hoshi-hiyouga,2025-01-14 00:26:19+08:00,2025-01-14 16:47:58+08:00
+src/llamafactory/data/mm_plugin.py,Zhangchi Feng,HJ,2025-02-11 13:30:44+08:00,2025-02-11 16:14:50+08:00
+src/llamafactory/data/mm_plugin.py,HJ,hoshi-hiyouga,2025-02-11 16:14:50+08:00,2025-02-11 16:34:49+08:00
+src/llamafactory/data/mm_plugin.py,sirui.li,hoshi-hiyouga,2025-03-05 18:03:36+08:00,2025-03-05 23:32:54+08:00
+src/llamafactory/data/parser.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/data/parser.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/data/parser.py,huniu20,hiyouga,2024-10-11 19:56:13+08:00,2024-10-11 23:51:54+08:00
+src/llamafactory/data/parser.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/preprocess.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/data/preprocess.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/data/preprocess.py,ancv,hiyouga,2024-06-12 11:56:01+07:00,2024-06-13 02:48:21+08:00
+src/llamafactory/data/processors/feedback.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/processors/pairwise.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/processors/pretrain.py,d,hoshi-hiyouga,2024-06-11 16:23:40+08:00,2024-06-11 17:02:14+08:00
+src/llamafactory/data/processors/supervised.py,hiyouga,hoshi-hiyouga,2024-06-07 00:09:06+08:00,2024-06-07 03:38:04+08:00
+src/llamafactory/data/processors/supervised.py,hoshi-hiyouga,hiyouga,2024-06-07 03:42:08+08:00,2024-06-07 04:15:40+08:00
+src/llamafactory/data/processors/supervised.py,ancv,hiyouga,2024-06-12 11:56:01+07:00,2024-06-13 02:48:21+08:00
+src/llamafactory/data/processors/supervised.py,hiyouga,ancv,2024-06-15 17:54:33+08:00,2024-06-15 23:00:55+07:00
+src/llamafactory/data/processors/supervised.py,Shiyu Zhang,hiyouga,2024-07-18 15:30:25+08:00,2024-07-18 22:06:12+08:00
+src/llamafactory/data/processors/supervised.py,hoshi-hiyouga,hiyouga,2024-08-30 02:05:26+08:00,2024-08-30 02:14:31+08:00
+src/llamafactory/data/processors/supervised.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/processors/unsupervised.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/template.py,hiyouga,Jianbai Ye,2024-05-27 18:14:02+08:00,2024-05-27 20:42:08+08:00
+src/llamafactory/data/template.py,Jianbai Ye,hoshi-hiyouga,2024-05-27 20:42:08+08:00,2024-05-27 20:51:26+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,hiyouga,2024-05-27 20:51:56+08:00,2024-05-27 20:54:26+08:00
+src/llamafactory/data/template.py,hiyouga,Yimi81,2024-05-27 20:54:26+08:00,2024-05-27 13:11:25+00:00
+src/llamafactory/data/template.py,hzhaoy,hiyouga,2024-05-29 15:00:37+08:00,2024-05-29 18:39:11+08:00
+src/llamafactory/data/template.py,hiyouga,mMrBun,2024-06-22 01:31:32+08:00,2024-06-22 02:13:23+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,hiyouga,2024-06-24 23:12:59+08:00,2024-06-25 01:15:19+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,hiyouga,2024-08-09 16:27:42+08:00,2024-08-09 18:03:00+08:00
+src/llamafactory/data/template.py,hiyouga,liudan,2024-09-04 22:36:20+08:00,2024-09-04 23:10:05+08:00
+src/llamafactory/data/template.py,liudan,hiyouga,2024-09-04 23:10:05+08:00,2024-09-05 02:04:17+08:00
+src/llamafactory/data/template.py,hiyouga,liudan,2024-09-05 02:04:17+08:00,2024-09-05 20:17:55+08:00
+src/llamafactory/data/template.py,liudan,hiyouga,2024-09-05 20:17:55+08:00,2024-09-05 21:52:28+08:00
+src/llamafactory/data/template.py,hiyouga,BUAADreamer,2024-09-09 22:51:08+08:00,2024-09-10 12:31:53+08:00
+src/llamafactory/data/template.py,hiyouga,Kingsley,2024-09-25 23:02:02+08:00,2024-09-26 12:11:58+08:00
+src/llamafactory/data/template.py,BUAADreamer,shing100,2024-09-29 22:56:36+08:00,2024-09-30 09:18:25+09:00
+src/llamafactory/data/template.py,shing100,hoshi-hiyouga,2024-09-30 09:44:21+09:00,2024-09-30 16:39:48+08:00
+src/llamafactory/data/template.py,hiyouga,hoshi-hiyouga,2024-10-29 09:07:46+00:00,2024-10-29 22:11:21+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,hiyouga,2024-10-29 22:11:21+08:00,2024-10-30 08:56:29+00:00
+src/llamafactory/data/template.py,hiyouga,Cuiyn,2024-11-02 13:08:15+08:00,2024-11-02 13:45:27+08:00
+src/llamafactory/data/template.py,Cuiyn,hiyouga,2024-11-02 13:45:27+08:00,2024-11-02 18:31:04+08:00
+src/llamafactory/data/template.py,hiyouga,hoshi-hiyouga,2024-11-02 18:31:04+08:00,2024-11-02 21:21:22+08:00
+src/llamafactory/data/template.py,marko1616,hiyouga,2024-11-23 16:07:35+00:00,2024-11-23 18:26:02+00:00
+src/llamafactory/data/template.py,zhaohu xing,hiyouga,2024-12-17 12:15:33+00:00,2024-12-17 15:52:37+00:00
+src/llamafactory/data/template.py,hiyouga,ylfeng,2024-12-17 17:05:10+00:00,2024-12-17 19:13:26+00:00
+src/llamafactory/data/template.py,ylfeng,hiyouga,2024-12-17 19:13:26+00:00,2024-12-17 19:27:10+00:00
+src/llamafactory/data/template.py,hiyouga,fzc8578,2025-01-09 18:27:54+00:00,2025-01-10 20:27:06+08:00
+src/llamafactory/data/template.py,fzc8578,hiyouga,2025-01-10 20:27:06+08:00,2025-01-10 15:45:48+00:00
+src/llamafactory/data/template.py,fzc8578,Zhangchi Feng,2025-01-13 14:18:06+08:00,2025-01-13 16:46:48+08:00
+src/llamafactory/data/template.py,Zhangchi Feng,hoshi-hiyouga,2025-01-13 16:46:48+08:00,2025-01-13 21:34:20+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,Zhangchi Feng,2025-01-13 21:34:20+08:00,2025-01-14 00:26:19+08:00
+src/llamafactory/data/template.py,Zhangchi Feng,hoshi-hiyouga,2025-01-14 00:26:19+08:00,2025-01-14 16:47:58+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,Haian Huang(深度眸),2025-01-14 16:47:58+08:00,2025-01-14 18:07:27+08:00
+src/llamafactory/data/template.py,Haian Huang(深度眸),hoshi-hiyouga,2025-01-14 18:07:27+08:00,2025-01-14 18:40:07+08:00
+src/llamafactory/data/template.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/data/template.py,Zhangchi Feng,hoshi-hiyouga,2025-02-11 13:30:44+08:00,2025-02-11 17:59:25+08:00
+src/llamafactory/data/tool_utils.py,hiyouga,ylfeng,2024-12-17 17:05:10+00:00,2024-12-17 19:13:26+00:00
+src/llamafactory/data/tool_utils.py,ylfeng,hiyouga,2024-12-17 19:13:26+00:00,2024-12-17 20:12:06+00:00
+src/llamafactory/data/tool_utils.py,Yueqi Song,hoshi-hiyouga,2025-02-05 00:02:00+08:00,2025-02-05 01:53:33+08:00
+src/llamafactory/eval/evaluator.py,hiyouga,codingma,2024-07-15 01:04:56+08:00,2024-07-15 09:55:33+08:00
+src/llamafactory/eval/evaluator.py,codingma,hiyouga,2024-07-15 09:55:33+08:00,2024-07-15 23:09:50+08:00
+src/llamafactory/extras/constants.py,hiyouga,enji.zhou,2024-05-17 00:08:33+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/extras/constants.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-17 13:25:36+08:00
+src/llamafactory/extras/constants.py,hiyouga,Jianbai Ye,2024-05-27 20:23:24+08:00,2024-05-27 20:42:08+08:00
+src/llamafactory/extras/constants.py,Jianbai Ye,hiyouga,2024-05-27 20:42:08+08:00,2024-05-27 20:54:26+08:00
+src/llamafactory/extras/constants.py,hzhaoy,hiyouga,2024-05-29 15:00:37+08:00,2024-05-29 18:39:11+08:00
+src/llamafactory/extras/constants.py,hiyouga,ancv,2024-06-15 17:58:52+08:00,2024-06-16 02:25:47+07:00
+src/llamafactory/extras/constants.py,hzhaoy,hiyouga,2024-07-02 17:49:04+08:00,2024-07-02 22:23:08+08:00
+src/llamafactory/extras/constants.py,liudan,hiyouga,2024-09-04 23:10:05+08:00,2024-09-05 02:04:17+08:00
+src/llamafactory/extras/constants.py,hiyouga,liudan,2024-09-05 03:12:24+08:00,2024-09-05 20:17:55+08:00
+src/llamafactory/extras/constants.py,marko1616,hoshi-hiyouga,2024-09-25 16:08:44-04:00,2024-09-26 11:22:48+08:00
+src/llamafactory/extras/constants.py,hoshi-hiyouga,Kingsley,2024-09-26 11:22:48+08:00,2024-09-26 12:11:58+08:00
+src/llamafactory/extras/constants.py,BUAADreamer,Kingsley,2024-09-28 00:57:03+08:00,2024-09-28 02:14:06+08:00
+src/llamafactory/extras/constants.py,Kingsley,BUAADreamer,2024-09-29 00:00:23+08:00,2024-09-29 21:29:29+08:00
+src/llamafactory/extras/constants.py,BUAADreamer,hoshi-hiyouga,2024-09-29 22:40:43+08:00,2024-09-29 23:45:34+08:00
+src/llamafactory/extras/constants.py,hoshi-hiyouga,shing100,2024-09-29 23:45:34+08:00,2024-09-30 09:18:25+09:00
+src/llamafactory/extras/constants.py,shing100,hoshi-hiyouga,2024-09-30 09:18:25+09:00,2024-09-30 16:47:52+08:00
+src/llamafactory/extras/constants.py,hoshi-hiyouga,Kingsley,2024-09-30 16:47:52+08:00,2024-09-30 19:58:34+08:00
+src/llamafactory/extras/constants.py,Cuiyn,hiyouga,2024-11-02 20:04:14+08:00,2024-11-02 21:31:23+08:00
+src/llamafactory/extras/constants.py,marko1616,hiyouga,2024-11-23 16:07:35+00:00,2024-11-23 18:26:02+00:00
+src/llamafactory/extras/constants.py,hiyouga,zhaohu xing,2024-12-17 10:26:19+00:00,2024-12-17 12:15:33+00:00
+src/llamafactory/extras/constants.py,zhaohu xing,hiyouga,2024-12-17 12:15:33+00:00,2024-12-17 15:52:37+00:00
+src/llamafactory/extras/constants.py,Zhangchi Feng,Haian Huang(深度眸),2025-01-14 00:26:19+08:00,2025-01-14 18:07:27+08:00
+src/llamafactory/extras/constants.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/extras/constants.py,hoshi-hiyouga,Kingsley,2025-02-24 22:05:13+08:00,2025-02-25 18:51:16+08:00
+src/llamafactory/extras/constants.py,Qiaolin Yu,Hertz,2025-03-15 04:37:58+08:00,2025-03-15 20:55:24+08:00
+src/llamafactory/extras/misc.py,Zxilly,Ricardo,2024-08-15 08:30:43+00:00,2024-08-16 02:58:22+00:00
+src/llamafactory/extras/misc.py,hiyouga,huniu20,2024-10-08 17:48:56+08:00,2024-10-09 17:21:37+08:00
+src/llamafactory/extras/misc.py,huniu20,hiyouga,2024-10-11 19:56:13+08:00,2024-10-11 23:51:54+08:00
+src/llamafactory/extras/packages.py,Lian Junhong,hoshi-hiyouga,2024-07-07 15:08:12+08:00,2024-07-07 15:48:29+08:00
+src/llamafactory/extras/packages.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/hparams/data_args.py,hoshi-hiyouga,codingma,2024-07-15 00:56:03+08:00,2024-07-15 09:55:33+08:00
+src/llamafactory/hparams/data_args.py,Shiyu Zhang,hiyouga,2024-07-18 15:30:25+08:00,2024-07-18 22:06:12+08:00
+src/llamafactory/hparams/finetuning_args.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/hparams/finetuning_args.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/hparams/finetuning_args.py,hiyouga,ZeYi Lin,2024-12-19 08:53:21+00:00,2024-12-19 18:47:27+08:00
+src/llamafactory/hparams/finetuning_args.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/hparams/finetuning_args.py,hoshi-hiyouga,Ze-Yi LIN,2025-03-10 23:04:43+08:00,2025-03-11 00:53:07+08:00
+src/llamafactory/hparams/finetuning_args.py,Ze-Yi LIN,hoshi-hiyouga,2025-03-11 00:53:07+08:00,2025-03-12 00:08:41+08:00
+src/llamafactory/hparams/generating_args.py,ycjcl868,hoshi-hiyouga,2024-05-19 23:17:46+08:00,2024-05-20 00:29:31+08:00
+src/llamafactory/hparams/model_args.py,hiyouga,juejuezi,2024-05-16 18:39:08+08:00,2024-05-17 16:07:39+08:00
+src/llamafactory/hparams/model_args.py,juejuezi,hoshi-hiyouga,2024-05-17 16:07:39+08:00,2024-05-17 16:16:41+08:00
+src/llamafactory/hparams/model_args.py,MengqingCao,hiyouga,2024-06-05 07:06:40+00:00,2024-06-06 02:43:19+08:00
+src/llamafactory/hparams/model_args.py,hiyouga,hoshi-hiyouga,2024-06-06 02:53:27+08:00,2024-06-06 03:14:23+08:00
+src/llamafactory/hparams/model_args.py,stceum,hiyouga,2024-06-24 20:39:31+08:00,2024-06-24 22:34:31+08:00
+src/llamafactory/hparams/model_args.py,hiyouga,Yaser Afshar,2024-12-17 11:41:59+00:00,2024-12-17 12:25:12+00:00
+src/llamafactory/hparams/parser.py,hiyouga,hoshi-hiyouga,2024-06-16 01:08:12+08:00,2024-06-16 02:57:00+08:00
+src/llamafactory/hparams/parser.py,Jonery,hiyouga,2024-06-18 12:39:26+08:00,2024-06-18 22:42:45+08:00
+src/llamafactory/hparams/parser.py,hiyouga,Jonery,2024-06-18 22:42:45+08:00,2024-06-19 12:29:40+08:00
+src/llamafactory/hparams/parser.py,stceum,hoshi-hiyouga,2024-06-24 20:39:31+08:00,2024-06-24 21:37:42+08:00
+src/llamafactory/hparams/parser.py,hoshi-hiyouga,hiyouga,2024-06-24 21:37:42+08:00,2024-06-25 01:54:53+08:00
+src/llamafactory/hparams/parser.py,Shiyu Zhang,hiyouga,2024-07-18 15:30:25+08:00,2024-07-18 22:06:12+08:00
+src/llamafactory/hparams/parser.py,hiyouga,Johnny,2024-10-06 10:34:55+08:00,2024-10-06 20:34:19+02:00
+src/llamafactory/hparams/parser.py,Johnny,hoshi-hiyouga,2024-10-07 10:17:45+02:00,2024-10-07 16:27:23+08:00
+src/llamafactory/hparams/parser.py,Johnny,hiyouga,2024-10-11 12:29:33+02:00,2024-10-11 23:51:54+08:00
+src/llamafactory/hparams/parser.py,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+src/llamafactory/hparams/parser.py,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/hparams/parser.py,hiyouga,zhubin,2025-01-08 09:56:10+00:00,2025-01-08 10:06:02+00:00
+src/llamafactory/hparams/parser.py,hoshi-hiyouga,zhuHQ,2025-01-14 02:44:02+08:00,2025-01-15 00:24:56+08:00
+src/llamafactory/hparams/parser.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/integrations/__init__.py,Kourosh Hakhamaneshi,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/integrations/ray/__init__.py,Kourosh Hakhamaneshi,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/integrations/ray/ray_train.py,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+src/llamafactory/integrations/ray/ray_train.py,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/integrations/ray/ray_train_args.py,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+src/llamafactory/integrations/ray/ray_train_args.py,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/integrations/ray/ray_utils.py,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+src/llamafactory/integrations/ray/ray_utils.py,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/model/adapter.py,BUAADreamer,hiyouga,2024-05-27 18:59:00+08:00,2024-05-27 20:37:57+08:00
+src/llamafactory/model/adapter.py,hiyouga,hoshi-hiyouga,2024-06-08 00:22:16+08:00,2024-06-08 00:45:02+08:00
+src/llamafactory/model/adapter.py,hoshi-hiyouga,hiyouga,2024-06-08 00:45:02+08:00,2024-06-08 00:47:23+08:00
+src/llamafactory/model/loader.py,hiyouga,BUAADreamer,2024-09-09 22:33:33+08:00,2024-09-10 12:31:53+08:00
+src/llamafactory/model/loader.py,Chengcheng Pei,Kingsley,2024-09-25 21:07:51-07:00,2024-09-26 12:11:58+08:00
+src/llamafactory/model/loader.py,BUAADreamer,hiyouga,2024-09-29 17:55:40+08:00,2024-09-30 17:07:43+08:00
+src/llamafactory/model/loader.py,hiyouga,huniu20,2024-10-08 17:48:56+08:00,2024-10-09 17:21:37+08:00
+src/llamafactory/model/loader.py,KUANGDD,hoshi-hiyouga,2024-10-23 15:24:07+08:00,2024-10-23 20:49:44+08:00
+src/llamafactory/model/loader.py,fzc8578,hiyouga,2025-01-10 20:55:52+08:00,2025-01-10 15:45:48+00:00
+src/llamafactory/model/loader.py,Xiaosu Zhu,hoshi-hiyouga,2025-01-14 17:35:54+08:00,2025-01-14 18:40:07+08:00
+src/llamafactory/model/loader.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/model/model_utils/attention.py,Amirreza A,hoshi-hiyouga,2024-09-28 19:03:36+03:30,2024-09-29 10:47:41+08:00
+src/llamafactory/model/model_utils/misc.py,fzc8578,hiyouga,2025-01-10 20:01:22+08:00,2025-01-10 15:45:48+00:00
+src/llamafactory/model/model_utils/misc.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/model/model_utils/packing.py,hiyouga,hoshi-hiyouga,2024-07-03 23:29:33+08:00,2024-07-03 23:36:01+08:00
+src/llamafactory/model/model_utils/packing.py,hoshi-hiyouga,hiyouga,2024-07-03 23:36:01+08:00,2024-07-04 01:10:55+08:00
+src/llamafactory/model/model_utils/visual.py,BUAADreamer,Kingsley,2024-09-28 00:57:03+08:00,2024-09-28 22:50:53+08:00
+src/llamafactory/model/model_utils/visual.py,Kingsley,BUAADreamer,2024-09-29 00:00:23+08:00,2024-09-29 17:55:40+08:00
+src/llamafactory/model/model_utils/visual.py,BUAADreamer,Kingsley,2024-09-29 22:00:01+08:00,2024-09-30 19:58:34+08:00
+src/llamafactory/model/model_utils/visual.py,hiyouga,hoshi-hiyouga,2024-10-29 09:07:46+00:00,2024-10-29 22:10:29+08:00
+src/llamafactory/model/model_utils/visual.py,marko1616,hiyouga,2024-11-23 16:09:04+00:00,2024-11-23 18:26:02+00:00
+src/llamafactory/model/model_utils/visual.py,fzc8578,hiyouga,2025-01-10 20:27:06+08:00,2025-01-10 15:45:48+00:00
+src/llamafactory/model/model_utils/visual.py,hiyouga,fzc8578,2025-01-10 15:45:48+00:00,2025-01-11 00:16:34+08:00
+src/llamafactory/model/patcher.py,hiyouga,ancv,2024-06-20 22:56:05+08:00,2024-06-21 00:45:06+07:00
+src/llamafactory/model/patcher.py,hoshi-hiyouga,hiyouga,2024-07-22 11:28:31+08:00,2024-07-22 21:10:15+08:00
+src/llamafactory/model/patcher.py,Zhangchi Feng,Haian Huang(深度眸),2025-01-14 17:34:58+08:00,2025-01-14 18:07:27+08:00
+src/llamafactory/model/patcher.py,Haian Huang(深度眸),hoshi-hiyouga,2025-01-14 18:07:27+08:00,2025-01-14 18:40:07+08:00
+src/llamafactory/model/patcher.py,Zhangchi Feng,hoshi-hiyouga,2025-02-04 21:20:15+08:00,2025-02-05 01:53:33+08:00
+src/llamafactory/model/patcher.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/model/utils/visual.py,BUAADreamer,hiyouga,2024-05-27 18:59:00+08:00,2024-05-27 20:37:57+08:00
+src/llamafactory/train/callbacks.py,-.-,hoshi-hiyouga,2024-07-10 12:05:51+08:00,2024-07-10 13:32:20+08:00
+src/llamafactory/train/dpo/trainer.py,hiyouga,ZeYi Lin,2024-12-19 08:53:21+00:00,2024-12-20 16:43:03+08:00
+src/llamafactory/train/kto/trainer.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/train/kto/trainer.py,enji.zhou,hoshi-hiyouga,2024-06-03 21:32:38+08:00,2024-06-03 22:08:38+08:00
+src/llamafactory/train/kto/trainer.py,hoshi-hiyouga,hiyouga,2024-06-03 22:08:38+08:00,2024-06-03 22:53:54+08:00
+src/llamafactory/train/kto/trainer.py,hiyouga,ZeYi Lin,2024-12-19 08:53:21+00:00,2024-12-20 16:43:03+08:00
+src/llamafactory/train/kto/workflow.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/train/kto/workflow.py,hiyouga,ancv,2024-06-15 17:54:33+08:00,2024-06-15 23:00:55+07:00
+src/llamafactory/train/kto/workflow.py,ancv,hiyouga,2024-06-15 23:00:55+07:00,2024-06-16 01:06:41+08:00
+src/llamafactory/train/pt/trainer.py,hiyouga,ZeYi Lin,2024-12-19 08:53:21+00:00,2024-12-20 16:43:03+08:00
+src/llamafactory/train/rm/trainer.py,hiyouga,ZeYi Lin,2024-12-19 08:53:21+00:00,2024-12-20 16:43:03+08:00
+src/llamafactory/train/sft/metric.py,hoshi-hiyouga,hiyouga,2024-09-02 10:10:53+08:00,2024-09-02 23:56:21+08:00
+src/llamafactory/train/sft/trainer.py,hzhaoy,hiyouga,2024-06-27 13:49:57+08:00,2024-06-28 01:04:24+08:00
+src/llamafactory/train/sft/workflow.py,hiyouga,ancv,2024-06-16 01:06:41+08:00,2024-06-16 02:25:47+07:00
+src/llamafactory/train/trainer_utils.py,Jonery,hiyouga,2024-06-19 12:29:40+08:00,2024-06-19 17:44:05+08:00
+src/llamafactory/train/trainer_utils.py,hiyouga,ZeYi Lin,2024-12-19 07:12:31+00:00,2024-12-19 18:47:27+08:00
+src/llamafactory/train/trainer_utils.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/train/trainer_utils.py,Ze-Yi LIN,hoshi-hiyouga,2025-03-06 00:33:37+08:00,2025-03-06 11:58:36+08:00
+src/llamafactory/train/trainer_utils.py,Ze-Yi LIN,hoshi-hiyouga,2025-03-11 00:53:07+08:00,2025-03-12 00:08:41+08:00
+src/llamafactory/train/tuner.py,hiyouga,enji.zhou,2024-05-16 18:39:08+08:00,2024-05-17 13:09:17+08:00
+src/llamafactory/train/tuner.py,enji.zhou,hiyouga,2024-05-17 13:09:17+08:00,2024-05-18 03:44:56+08:00
+src/llamafactory/train/tuner.py,Kourosh Hakhamaneshi,Eric Tang,2025-01-07 08:55:44+00:00,2025-01-07 08:55:44+00:00
+src/llamafactory/train/tuner.py,Eric Tang,hiyouga,2025-01-07 08:55:44+00:00,2025-01-07 09:39:10+00:00
+src/llamafactory/train/tuner.py,hiyouga,hoshi-hiyouga,2025-03-11 14:49:13+08:00,2025-03-12 00:08:41+08:00
+src/llamafactory/webui/chatter.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/webui/common.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/webui/components/chatbot.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/webui/components/export.py,MengqingCao,hoshi-hiyouga,2024-06-05 09:37:36+00:00,2024-06-06 03:14:46+08:00
+src/llamafactory/webui/components/export.py,Liuww,hiyouga,2024-07-24 14:31:29+08:00,2024-07-24 21:11:51+08:00
+src/llamafactory/webui/components/infer.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+src/llamafactory/webui/components/train.py,hiyouga,hzhaoy,2024-06-03 23:30:37+08:00,2024-06-04 10:33:43+08:00
+src/llamafactory/webui/components/train.py,Shiyu Zhang,hiyouga,2024-07-18 15:30:25+08:00,2024-07-18 22:06:12+08:00
+src/llamafactory/webui/components/train.py,hiyouga,ZeYi Lin,2024-12-19 07:12:31+00:00,2024-12-19 19:04:19+08:00
+src/llamafactory/webui/components/train.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/webui/locales.py,Shiyu Zhang,hiyouga,2024-07-18 15:30:25+08:00,2024-07-18 22:06:12+08:00
+src/llamafactory/webui/locales.py,hiyouga,ZeYi Lin,2024-12-19 07:12:31+00:00,2024-12-19 19:04:19+08:00
+src/llamafactory/webui/locales.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/webui/locales.py,hoshi-hiyouga,steveepreston,2025-01-15 01:42:50+08:00,2025-01-15 16:00:20+08:00
+src/llamafactory/webui/runner.py,hiyouga,faddddeout,2024-05-29 23:55:38+08:00,2024-05-30 08:39:21+00:00
+src/llamafactory/webui/runner.py,hiyouga,faddddeout,2024-06-04 00:10:24+08:00,2024-06-04 11:04:29+00:00
+src/llamafactory/webui/runner.py,Shiyu Zhang,hiyouga,2024-07-18 15:30:25+08:00,2024-07-18 22:06:12+08:00
+src/llamafactory/webui/runner.py,superboy-zjc,hoshi-hiyouga,2024-11-21 01:52:12-05:00,2024-11-21 22:30:23+08:00
+src/llamafactory/webui/runner.py,hiyouga,ZeYi Lin,2024-12-19 07:12:31+00:00,2024-12-19 19:04:19+08:00
+src/llamafactory/webui/runner.py,zhuHQ,hoshi-hiyouga,2025-01-15 00:24:56+08:00,2025-01-15 01:42:50+08:00
+src/llamafactory/webui/utils.py,hiyouga,hzhaoy,2024-06-04 00:10:24+08:00,2024-06-04 10:33:43+08:00
+src/llmtuner/api/app.py,Ehco,hiyouga,2023-07-20 21:49:26+08:00,2023-07-20 22:14:54+08:00
+src/llmtuner/api/app.py,Tendo33,hiyouga,2024-05-09 14:28:01+08:00,2024-05-09 16:52:27+08:00
+src/llmtuner/api/chat.py,zhaonx96,hiyouga,2024-05-06 10:10:00+08:00,2024-05-07 00:41:04+08:00
+src/llmtuner/api/chat.py,Tendo33,hiyouga,2024-05-13 09:40:33+08:00,2024-05-13 18:24:35+08:00
+src/llmtuner/data/aligner.py,BUAADreamer,hoshi-hiyouga,2024-04-25 22:35:17+08:00,2024-04-26 03:48:34+08:00
+src/llmtuner/data/aligner.py,hoshi-hiyouga,hiyouga,2024-04-26 03:48:34+08:00,2024-04-26 18:00:23+08:00
+src/llmtuner/data/loader.py,xingjun.wang,hiyouga,2023-12-12 14:23:05+08:00,2023-12-12 18:33:06+08:00
+src/llmtuner/data/loader.py,BUAADreamer,hoshi-hiyouga,2024-04-25 21:15:16+08:00,2024-04-26 03:33:07+08:00
+src/llmtuner/data/parser.py,BUAADreamer,hoshi-hiyouga,2024-04-25 21:15:16+08:00,2024-04-26 03:35:39+08:00
+src/llmtuner/data/preprocess.py,BUAADreamer,hoshi-hiyouga,2024-04-25 22:59:46+08:00,2024-04-26 04:10:28+08:00
+src/llmtuner/data/preprocess.py,hoshi-hiyouga,hiyouga,2024-04-26 04:10:28+08:00,2024-04-26 05:34:58+08:00
+src/llmtuner/data/template.py,Fallen Angel,Johann-Peter Hartmann,2024-02-02 17:34:48+08:00,2024-02-03 09:01:15+01:00
+src/llmtuner/data/template.py,Johann-Peter Hartmann,hiyouga,2024-02-03 09:01:15+01:00,2024-02-03 22:36:46+08:00
+src/llmtuner/data/template.py,Rayrtfr,hiyouga,2024-02-26 10:44:10+08:00,2024-02-26 17:25:47+08:00
+src/llmtuner/data/template.py,marko1616,hoshi-hiyouga,2024-04-15 20:45:46+08:00,2024-04-15 22:58:01+08:00
+src/llmtuner/data/template.py,hoshi-hiyouga,hiyouga,2024-04-15 22:58:01+08:00,2024-04-16 03:10:02+08:00
+src/llmtuner/data/template.py,hoshi-hiyouga,hiyouga,2024-04-19 01:13:50+08:00,2024-04-19 15:46:51+08:00
+src/llmtuner/data/template.py,hiyouga,hoshi-hiyouga,2024-04-24 05:39:52+08:00,2024-04-24 13:55:14+08:00
+src/llmtuner/data/template.py,hoshi-hiyouga,hiyouga,2024-04-24 13:55:14+08:00,2024-04-25 00:21:34+08:00
+src/llmtuner/data/template.py,hiyouga,BUAADreamer,2024-04-25 00:21:34+08:00,2024-04-25 19:19:59+08:00
+src/llmtuner/data/template.py,BUAADreamer,hoshi-hiyouga,2024-04-25 22:04:09+08:00,2024-04-26 02:20:47+08:00
+src/llmtuner/data/template.py,hiyouga,BUAADreamer,2024-05-13 18:24:35+08:00,2024-05-13 23:28:28+08:00
+src/llmtuner/data/template.py,BUAADreamer,hoshi-hiyouga,2024-05-15 09:54:00+08:00,2024-05-15 14:20:39+08:00
+src/llmtuner/data/template.py,hoshi-hiyouga,hiyouga,2024-05-15 14:20:39+08:00,2024-05-15 19:25:48+08:00
+src/llmtuner/dsets/preprocess.py,hiyouga,lvzi,2023-11-07 16:13:36+08:00,2023-11-08 15:50:46+08:00
+src/llmtuner/extras/constants.py,hiyouga,codemayq,2023-08-11 23:25:57+08:00,2023-08-12 13:53:55+08:00
+src/llmtuner/extras/constants.py,codemayq,hiyouga,2023-08-12 13:53:55+08:00,2023-08-12 20:46:27+08:00
+src/llmtuner/extras/constants.py,codemayq,hiyouga,2023-08-14 20:42:59+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/extras/constants.py,hiyouga,yuze.zyz,2023-11-28 20:52:28+08:00,2023-11-29 20:36:55+08:00
+src/llmtuner/extras/constants.py,yuze.zyz,hiyouga,2023-11-29 21:43:58+08:00,2023-11-30 19:16:13+08:00
+src/llmtuner/extras/constants.py,hiyouga,tastelikefeet,2023-11-30 19:16:13+08:00,2023-12-01 15:06:17+08:00
+src/llmtuner/extras/constants.py,tastelikefeet,yuze.zyz,2023-12-01 15:06:17+08:00,2023-12-01 16:11:30+08:00
+src/llmtuner/extras/constants.py,yuze.zyz,tastelikefeet,2023-12-01 16:11:30+08:00,2023-12-01 17:27:00+08:00
+src/llmtuner/extras/constants.py,tastelikefeet,yuze.zyz,2023-12-01 17:27:00+08:00,2023-12-01 17:28:23+08:00
+src/llmtuner/extras/constants.py,yuze.zyz,hiyouga,2023-12-01 17:28:23+08:00,2023-12-01 22:53:15+08:00
+src/llmtuner/extras/constants.py,Rayrtfr,hiyouga,2024-02-26 10:44:10+08:00,2024-02-26 17:25:47+08:00
+src/llmtuner/extras/constants.py,sliderSun,codingma,2024-04-07 10:59:15+08:00,2024-04-07 11:34:01+08:00
+src/llmtuner/extras/constants.py,hoshi-hiyouga,hiyouga,2024-04-15 22:56:55+08:00,2024-04-15 23:26:42+08:00
+src/llmtuner/extras/constants.py,hoshi-hiyouga,hiyouga,2024-04-19 01:13:50+08:00,2024-04-19 15:46:51+08:00
+src/llmtuner/extras/misc.py,billvsme,hiyouga,2023-11-30 22:40:35+08:00,2023-12-01 15:58:50+08:00
+src/llmtuner/extras/misc.py,yhyu13,hiyouga,2023-12-16 07:15:27+00:00,2023-12-16 16:31:30+08:00
+src/llmtuner/extras/packages.py,Shaowen Wang,hiyouga,2023-11-16 20:12:35-06:00,2023-11-17 16:11:48+08:00
+src/llmtuner/extras/template.py,YC Chen,hiyouga,2023-08-02 14:35:35+08:00,2023-08-02 16:10:31+08:00
+src/llmtuner/extras/template.py,hiyouga,hoshi-hiyouga,2023-08-09 00:26:11+08:00,2023-08-09 00:54:54+08:00
+src/llmtuner/extras/template.py,hoshi-hiyouga,hiyouga,2023-08-09 00:58:27+08:00,2023-08-09 16:23:31+08:00
+src/llmtuner/extras/template.py,codemayq,hiyouga,2023-08-14 20:42:59+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/hparams/data_args.py,hiyouga,BUAADreamer,2024-04-24 23:39:31+08:00,2024-04-25 00:22:43+08:00
+src/llmtuner/hparams/finetuning_args.py,Yanqing,hiyouga,2023-11-09 17:04:40+08:00,2023-11-09 17:20:49+08:00
+src/llmtuner/hparams/finetuning_args.py,齐保元,hiyouga,2024-03-13 19:43:27+08:00,2024-03-13 23:32:51+08:00
+src/llmtuner/hparams/finetuning_args.py,Jonery,hoshi-hiyouga,2024-04-15 23:15:27+08:00,2024-04-16 17:26:30+08:00
+src/llmtuner/hparams/model_args.py,jiongxuc,hiyouga,2023-08-10 14:57:12+08:00,2023-08-11 03:02:53+08:00
+src/llmtuner/hparams/model_args.py,BUAADreamer,hiyouga,2024-04-23 18:45:43+08:00,2024-04-24 02:18:44+08:00
+src/llmtuner/hparams/model_args.py,hiyouga,BUAADreamer,2024-04-24 23:39:31+08:00,2024-04-25 00:22:43+08:00
+src/llmtuner/hparams/model_args.py,BUAADreamer,hiyouga,2024-04-25 08:20:41+08:00,2024-04-25 19:02:32+08:00
+src/llmtuner/hparams/model_args.py,hiyouga,BUAADreamer,2024-04-25 19:02:32+08:00,2024-04-25 19:19:59+08:00
+src/llmtuner/hparams/model_args.py,BUAADreamer,hoshi-hiyouga,2024-04-25 21:27:48+08:00,2024-04-26 02:49:39+08:00
+src/llmtuner/hparams/model_args.py,hoshi-hiyouga,hiyouga,2024-04-26 02:49:39+08:00,2024-04-26 18:00:23+08:00
+src/llmtuner/hparams/model_args.py,BUAADreamer,hoshi-hiyouga,2024-05-11 13:11:00+08:00,2024-05-11 23:57:05+08:00
+src/llmtuner/hparams/parser.py,hiyouga,Jonery,2024-04-15 22:14:34+08:00,2024-04-15 23:15:27+08:00
+src/llmtuner/hparams/parser.py,Jonery,hiyouga,2024-04-15 23:15:27+08:00,2024-04-15 23:26:42+08:00
+src/llmtuner/hparams/parser.py,hiyouga,hoshi-hiyouga,2024-04-15 23:26:42+08:00,2024-04-16 17:27:02+08:00
+src/llmtuner/hparams/parser.py,hoshi-hiyouga,hiyouga,2024-04-16 17:27:25+08:00,2024-04-16 18:09:31+08:00
+src/llmtuner/model/__init__.py,BUAADreamer,hiyouga,2024-04-23 18:45:43+08:00,2024-04-24 01:30:16+08:00
+src/llmtuner/model/adapter.py,Erich Schubert,hoshi-hiyouga,2024-04-09 17:53:40+02:00,2024-04-10 00:57:30+08:00
+src/llmtuner/model/adapter.py,hiyouga,Jonery,2024-04-15 15:32:58+08:00,2024-04-15 23:15:27+08:00
+src/llmtuner/model/adapter.py,Jonery,hiyouga,2024-04-15 23:15:27+08:00,2024-04-16 00:25:03+08:00
+src/llmtuner/model/adapter.py,hiyouga,hoshi-hiyouga,2024-04-16 00:25:03+08:00,2024-04-16 17:28:12+08:00
+src/llmtuner/model/adapter.py,BUAADreamer,hiyouga,2024-04-23 18:45:43+08:00,2024-04-24 03:02:23+08:00
+src/llmtuner/model/adapter.py,hiyouga,BUAADreamer,2024-04-24 23:39:31+08:00,2024-04-25 00:22:43+08:00
+src/llmtuner/model/loader.py,hiyouga,yuze.zyz,2023-11-28 20:52:28+08:00,2023-11-29 20:36:55+08:00
+src/llmtuner/model/loader.py,yuze.zyz,hiyouga,2023-12-01 16:11:30+08:00,2023-12-01 22:53:15+08:00
+src/llmtuner/model/loader.py,hiyouga,hoshi-hiyouga,2023-12-13 01:53:46+08:00,2023-12-13 10:23:51+08:00
+src/llmtuner/model/loader.py,ShaneTian,hiyouga,2023-12-22 16:27:28+08:00,2023-12-23 00:14:33+08:00
+src/llmtuner/model/loader.py,hiyouga,stephen,2024-03-07 16:15:53+08:00,2024-03-08 11:48:26+08:00
+src/llmtuner/model/loader.py,stephen,hiyouga,2024-03-08 11:48:26+08:00,2024-03-09 00:09:09+08:00
+src/llmtuner/model/loader.py,BUAADreamer,hiyouga,2024-04-23 18:45:43+08:00,2024-04-24 01:30:16+08:00
+src/llmtuner/model/loader.py,hiyouga,BUAADreamer,2024-04-24 23:39:31+08:00,2024-04-25 00:22:43+08:00
+src/llmtuner/model/loader.py,BUAADreamer,hoshi-hiyouga,2024-04-25 21:58:18+08:00,2024-04-26 03:22:40+08:00
+src/llmtuner/model/loader.py,BUAADreamer,hoshi-hiyouga,2024-05-11 13:11:00+08:00,2024-05-11 23:58:47+08:00
+src/llmtuner/model/loader.py,hoshi-hiyouga,hiyouga,2024-05-11 23:58:47+08:00,2024-05-12 00:02:49+08:00
+src/llmtuner/model/patcher.py,A-Cepheus,hoshi-hiyouga,2024-01-22 16:04:39+08:00,2024-01-22 23:27:39+08:00
+src/llmtuner/model/patcher.py,hoshi-hiyouga,hiyouga,2024-01-22 23:27:39+08:00,2024-01-22 23:32:01+08:00
+src/llmtuner/model/patcher.py,ldwang,hiyouga,2024-01-24 15:25:31+08:00,2024-01-24 16:19:18+08:00
+src/llmtuner/model/patcher.py,hiyouga,stephen,2024-03-07 16:15:53+08:00,2024-03-08 11:48:26+08:00
+src/llmtuner/model/patcher.py,stephen,stephen_zhu,2024-03-08 11:48:26+08:00,2024-03-08 12:47:44+08:00
+src/llmtuner/model/patcher.py,stephen_zhu,hiyouga,2024-03-08 12:47:44+08:00,2024-03-09 00:09:09+08:00
+src/llmtuner/model/patcher.py,hiyouga,S3Studio,2024-03-14 18:17:01+08:00,2024-03-15 08:59:13+08:00
+src/llmtuner/model/patcher.py,S3Studio,hiyouga,2024-03-15 08:59:13+08:00,2024-03-15 19:18:42+08:00
+src/llmtuner/model/patcher.py,marko1616,hiyouga,2024-03-30 23:46:55+08:00,2024-03-31 00:10:29+08:00
+src/llmtuner/model/patcher.py,liuzc,hiyouga,2024-04-15 12:11:49+08:00,2024-04-15 15:32:58+08:00
+src/llmtuner/model/patcher.py,hiyouga,Jonery,2024-04-15 15:32:58+08:00,2024-04-15 23:15:27+08:00
+src/llmtuner/model/patcher.py,Jonery,hiyouga,2024-04-15 23:15:27+08:00,2024-04-15 23:26:42+08:00
+src/llmtuner/model/patcher.py,hiyouga,hoshi-hiyouga,2024-04-15 23:26:42+08:00,2024-04-16 17:29:19+08:00
+src/llmtuner/model/patcher.py,BUAADreamer,hoshi-hiyouga,2024-05-11 13:11:00+08:00,2024-05-11 23:56:40+08:00
+src/llmtuner/model/patcher.py,hoshi-hiyouga,hiyouga,2024-05-11 23:56:40+08:00,2024-05-12 00:02:49+08:00
+src/llmtuner/model/patcher.py,hiyouga,hoshi-hiyouga,2024-05-14 23:32:53+08:00,2024-05-15 15:37:07+08:00
+src/llmtuner/model/patcher.py,hoshi-hiyouga,hiyouga,2024-05-15 15:37:07+08:00,2024-05-15 16:32:28+08:00
+src/llmtuner/model/utils.py,hiyouga,hoshi-hiyouga,2023-12-12 11:44:30+08:00,2023-12-13 10:14:01+08:00
+src/llmtuner/model/utils.py,Jonery,hoshi-hiyouga,2024-04-16 12:05:27+08:00,2024-04-16 17:29:30+08:00
+src/llmtuner/model/utils/visual.py,BUAADreamer,hoshi-hiyouga,2024-05-15 12:48:18+08:00,2024-05-15 16:39:57+08:00
+src/llmtuner/model/utils/visual.py,hoshi-hiyouga,hiyouga,2024-05-15 16:39:57+08:00,2024-05-15 19:25:48+08:00
+src/llmtuner/train/dpo/trainer.py,hiyouga,hoshi-hiyouga,2024-03-26 17:26:14+08:00,2024-03-26 23:39:56+08:00
+src/llmtuner/train/sft/trainer.py,Jonery,hoshi-hiyouga,2024-04-16 12:05:27+08:00,2024-04-16 17:29:52+08:00
+src/llmtuner/train/sft/trainer.py,BUAADreamer,hoshi-hiyouga,2024-05-15 10:18:10+08:00,2024-05-15 14:13:26+08:00
+src/llmtuner/train/sft/workflow.py,齐保元,hiyouga,2024-03-13 19:43:27+08:00,2024-03-13 23:32:51+08:00
+src/llmtuner/train/sft/workflow.py,BUAADreamer,hoshi-hiyouga,2024-04-25 22:04:09+08:00,2024-04-26 03:29:12+08:00
+src/llmtuner/train/sft/workflow.py,hoshi-hiyouga,hiyouga,2024-04-26 03:29:12+08:00,2024-04-26 05:34:58+08:00
+src/llmtuner/train/tuner.py,hiyouga,fenglui,2024-01-20 20:15:56+08:00,2024-01-21 05:01:53+08:00
+src/llmtuner/train/tuner.py,fenglui,yhyu13,2024-01-21 05:01:53+08:00,2024-01-21 11:12:15+08:00
+src/llmtuner/train/tuner.py,yhyu13,hoshi-hiyouga,2024-01-21 11:12:15+08:00,2024-01-21 12:39:38+08:00
+src/llmtuner/train/tuner.py,marko1616,hiyouga,2024-03-30 23:45:04+08:00,2024-03-31 18:29:50+08:00
+src/llmtuner/train/tuner.py,BUAADreamer,hiyouga,2024-04-25 22:04:09+08:00,2024-04-26 05:34:58+08:00
+src/llmtuner/train/tuner.py,hoshi-hiyouga,hiyouga,2024-05-11 23:55:59+08:00,2024-05-12 00:03:59+08:00
+src/llmtuner/train/utils.py,齐保元,hiyouga,2024-03-13 19:43:27+08:00,2024-03-13 23:32:51+08:00
+src/llmtuner/train/utils.py,hiyouga,Jonery,2024-04-15 22:14:34+08:00,2024-04-15 23:15:27+08:00
+src/llmtuner/train/utils.py,Jonery,hoshi-hiyouga,2024-04-15 23:15:27+08:00,2024-04-16 17:30:12+08:00
+src/llmtuner/tuner/ppo/utils.py,mmbwf,hiyouga,2023-09-14 15:38:04+08:00,2023-09-14 17:56:58+08:00
+src/llmtuner/tuner/sft/workflow.py,niuba,hiyouga,2023-08-09 16:39:27+08:00,2023-08-09 23:00:26+08:00
+src/llmtuner/webui/common.py,hiyouga,codemayq,2023-08-14 10:48:47+08:00,2023-08-14 20:42:59+08:00
+src/llmtuner/webui/common.py,codemayq,hiyouga,2023-08-14 20:56:05+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/webui/common.py,hiyouga,tastelikefeet,2023-12-01 17:13:22+08:00,2023-12-01 17:27:00+08:00
+src/llmtuner/webui/common.py,tastelikefeet,hiyouga,2023-12-01 17:27:00+08:00,2023-12-01 22:53:15+08:00
+src/llmtuner/webui/components/chatbot.py,Liang Ge,hiyouga,2024-02-28 01:17:49+08:00,2024-02-29 00:46:47+08:00
+src/llmtuner/webui/components/data.py,codingma,hiyouga,2024-04-16 10:56:39+08:00,2024-04-16 18:21:09+08:00
+src/llmtuner/webui/components/sft.py,hiyouga,codemayq,2023-08-11 23:25:57+08:00,2023-08-12 13:53:55+08:00
+src/llmtuner/webui/components/sft.py,codemayq,hiyouga,2023-08-12 13:53:55+08:00,2023-08-12 20:46:27+08:00
+src/llmtuner/webui/components/top.py,hiyouga,codemayq,2023-08-14 11:37:01+08:00,2023-08-14 20:56:05+08:00
+src/llmtuner/webui/components/top.py,codemayq,hiyouga,2023-08-14 20:56:05+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/webui/components/top.py,hiyouga,Aleksandr,2024-01-20 20:15:56+08:00,2024-01-21 04:28:14+03:00
+src/llmtuner/webui/components/top.py,Aleksandr,hiyouga,2024-01-21 04:28:14+03:00,2024-01-21 12:34:17+08:00
+src/llmtuner/webui/components/train.py,hiyouga,codemayq,2023-08-14 10:48:47+08:00,2023-08-14 20:42:59+08:00
+src/llmtuner/webui/components/train.py,codemayq,hiyouga,2023-08-14 20:42:59+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/webui/components/train.py,hoshi-hiyouga,hiyouga,2024-05-02 02:21:27+08:00,2024-05-02 02:47:04+08:00
+src/llmtuner/webui/locales.py,hiyouga,codemayq,2023-08-11 23:25:57+08:00,2023-08-12 13:53:55+08:00
+src/llmtuner/webui/locales.py,codemayq,hiyouga,2023-08-12 13:53:55+08:00,2023-08-12 20:46:27+08:00
+src/llmtuner/webui/locales.py,hiyouga,codemayq,2023-08-14 10:48:47+08:00,2023-08-14 20:42:59+08:00
+src/llmtuner/webui/locales.py,codemayq,hiyouga,2023-08-14 20:42:59+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/webui/locales.py,hiyouga,Aleksandr,2024-01-21 01:47:33+08:00,2024-01-21 04:28:14+03:00
+src/llmtuner/webui/locales.py,Aleksandr,hiyouga,2024-01-21 04:28:14+03:00,2024-01-21 12:34:17+08:00
+src/llmtuner/webui/locales.py,Liang Ge,hiyouga,2024-02-28 01:17:49+08:00,2024-02-29 00:34:19+08:00
+src/llmtuner/webui/manager.py,beat4ocean,hiyouga,2023-08-20 15:32:36+08:00,2023-08-20 16:40:00+08:00
+src/llmtuner/webui/runner.py,hiyouga,codemayq,2023-08-11 23:25:57+08:00,2023-08-12 13:53:55+08:00
+src/llmtuner/webui/runner.py,codemayq,hiyouga,2023-08-12 13:53:55+08:00,2023-08-12 20:46:27+08:00
+src/llmtuner/webui/runner.py,hiyouga,codemayq,2023-08-14 10:48:47+08:00,2023-08-14 20:42:59+08:00
+src/llmtuner/webui/runner.py,codemayq,hiyouga,2023-08-14 20:56:05+08:00,2023-08-14 22:45:26+08:00
+src/llmtuner/webui/runner.py,cx2333,hiyouga,2024-03-07 14:28:55+08:00,2024-03-08 03:01:53+08:00
+src/llmtuner/webui/runner.py,hiyouga,hoshi-hiyouga,2024-04-24 02:18:44+08:00,2024-04-24 13:53:39+08:00
+src/llmtuner/webui/utils.py,samge,hiyouga,2023-12-01 11:35:02+08:00,2023-12-01 15:58:50+08:00
+src/train.py,hoshi-hiyouga,hiyouga,2024-05-14 20:47:52+08:00,2024-05-14 23:32:53+08:00
+src/utils/common.py,hiyouga,Jinghuan Shang,2023-07-11 19:50:33+08:00,2023-07-11 18:03:53-04:00
+tests/data/test_formatter.py,hoshi-hiyouga,hiyouga,2024-06-24 23:14:36+08:00,2024-06-25 02:55:50+08:00
+tests/data/test_formatter.py,hiyouga,ylfeng,2024-12-17 17:05:10+00:00,2024-12-17 19:13:26+00:00
+tests/data/test_formatter.py,ylfeng,hiyouga,2024-12-17 19:13:26+00:00,2024-12-17 20:12:06+00:00
+tests/data/test_formatter.py,Yueqi Song,hoshi-hiyouga,2025-02-05 00:02:00+08:00,2025-02-05 01:53:33+08:00
+tests/data/test_mm_plugin.py,BUAADreamer,hoshi-hiyouga,2024-09-29 18:00:45+08:00,2024-09-29 22:59:47+08:00
+tests/data/test_mm_plugin.py,hoshi-hiyouga,hiyouga,2024-09-29 22:59:47+08:00,2024-09-30 17:00:33+08:00
+tests/data/test_mm_plugin.py,KUANGDD,BUAADreamer,2024-10-15 12:12:46+08:00,2024-10-15 13:30:41+08:00
+tests/data/test_mm_plugin.py,BUAADreamer,Kingsley,2024-10-15 13:30:41+08:00,2024-10-15 17:09:24+08:00
+tests/data/test_mm_plugin.py,Kingsley,KUANGDD,2024-10-15 17:09:24+08:00,2024-10-16 01:09:33+08:00
+tests/data/test_mm_plugin.py,KUANGDD,BUAADreamer,2024-10-16 01:14:51+08:00,2024-10-16 15:55:30+08:00
+tests/data/test_mm_plugin.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+tests/data/test_template.py,hiyouga,codingma,2024-07-15 00:49:34+08:00,2024-07-15 10:28:07+08:00
+tests/data/test_template.py,codingma,hoshi-hiyouga,2024-07-15 10:28:07+08:00,2024-07-15 22:52:25+08:00
+tests/data/test_template.py,Zhangchi Feng,hoshi-hiyouga,2025-02-04 21:20:15+08:00,2025-02-05 01:53:33+08:00
+tests/data/test_template.py,hoshi-hiyouga,Zhangchi Feng,2025-02-05 01:53:33+08:00,2025-02-05 04:59:09+08:00
+tests/test_toolcall.py,tao.jun,hoshi-hiyouga,2024-02-05 20:49:23+08:00,2024-02-05 22:50:43+08:00

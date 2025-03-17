@@ -1,0 +1,18 @@
+File,Top Contributor Share (%)
+.gitignore,94.68
+LICENSE,100.00
+README.md,72.62
+test.py,100.00
+data/oui.json,100.00
+oui.py,100.00
+howmanypeoplearearound/__main__.py,58.71
+howmanypeoplearearound/oui.py,81.48
+setup.py,98.04
+analyze.py,100.00
+index.html,81.48
+howmanypeoplearearound/analysis.py,86.26
+howmanypeoplearearound/plotlyjs.py,100.00
+Dockerfile,95.83
+.travis.yml,100.00
+howmanypeoplearearound/colors.py,100.00
+.github/FUNDING.yml,100.00

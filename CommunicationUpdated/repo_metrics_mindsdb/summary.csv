@@ -1,0 +1,776 @@
+Field,Value
+Commits Overview,
+Total Commits,19118
+Total Unique Authors,893
+,
+Top 10 Contributors,
+Author,Commits
+Max Stepanov,6532
+George3d6,4255
+Martyna,3158
+Minura Punchihewa,2304
+andrew,1755
+Jorge Torres,1703
+Zoran Pandovski,1693
+zoran,1252
+Patricio Cerda Mardini,974
+ZoranPandovski,968
+,
+Communication Events,Total: 1842
+"Author1,Author2",Events
+"George3d6,George",108
+"George3d6,Max Stepanov",95
+"Max Stepanov,George3d6",79
+"Max Stepanov,andrew",57
+"George,George3d6",49
+"andrew,Max Stepanov",42
+"Jorge Torres,George3d6",32
+"sid,2170chm",28
+"Max Stepanov,Patricio Cerda Mardini",25
+"Patricio Cerda Mardini,Max Stepanov",25
+"Han Wang,Max Stepanov",24
+"andrew,Patricio Cerda Mardini",22
+"Martyna,Hamish Fagg",21
+"Ilia Tsyplenkov,Max Stepanov",20
+"Patricio Cerda Mardini,andrew",20
+"George3d6,Jorge Torres",19
+"2170chm,sid",19
+"Zoran Pandovski,Martyna",14
+"Daniel Usvyat,Ty",14
+"Zoran Pandovski,Max Stepanov",11
+"Jorge Torres,George",11
+"Ricram2,Martyna",10
+"martyna-mindsdb,Hamish Fagg",10
+"Maxim,George3d6",10
+"Ilia Tsyplenkov,George3d6",9
+"George3d6,maximlopin",8
+"Max Stepanov,Ilia Tsyplenkov",8
+"Zoran Pandovski,Minura Punchihewa",7
+"Tori Green,hamishfagg",7
+"Abhi,Better-Boy",7
+"Hamish Fagg,andrew",7
+"Martyna,Zoran Pandovski",6
+"Martyna,martyna-mindsdb",6
+"ZoranPandovski,Zoran Pandovski",6
+"Dave Lewis,Chandre Van Der Westhuizen",6
+"Olly Styles,Sam Miller",6
+"Salman Sayyed,Zoran Pandovski",5
+"Jorge Torres,zoran",5
+"Sam Miller,Olly Styles",5
+"Jorge Torres,andrew",5
+"Hamish Fagg,Max Stepanov",5
+"Minura Punchihewa,Martyna",5
+"George3d6,Zoran Pandovski",5
+"maximlopin,George3d6",5
+"martyna-mindsdb,Martyna",5
+"Ty,Daniel Usvyat",5
+"maximlopin,Max Stepanov",5
+"Better-Boy,Abhi",5
+"ZoranPandovski,Max Stepanov",5
+"Kenmogne Thimotee,kenmognethimotee",5
+"tmichaeldb,andrew",5
+"Jorge Torres,Zoran Pandovski",4
+"Jorge Torres,Max Stepanov",4
+"dusvyat,Daniel Usvyat",4
+"andrew,ea-rus",4
+"Elkin Andrew,andrew",4
+"Patricio Cerda Mardini,Daniel Usvyat",4
+"Hamish Fagg,Daniel Usvyat",4
+"QuantumPlumber,Daniel Usvyat",4
+"Patricio Cerda Mardini,Ricram2",4
+"Minura Punchihewa,Max Stepanov",4
+"Patricio Cerda Mardini,elkin",4
+"Max Stepanov,Andrey",4
+"Chandre Van Der Westhuizen,ZoranPandovski",4
+"Dave Lewis,Ricram2",4
+"Theodoros Malikourtis,Panagiotis Spanakis",4
+"ZoranPandovski,Hamish Fagg",4
+"andrew,dusvyat",4
+"andrew,Hamish Fagg",4
+"Andrey,Minura Punchihewa",4
+"martyna-mindsdb,Minura Punchihewa",4
+"Zoran Pandovski,zoran",3
+"Andrey,Max Stepanov",3
+"pixpack,ZoranPandovski",3
+"olly-styles,Sam Miller",3
+"andrew,Abhi",3
+"dusvyat,andrew",3
+"Daniel Usvyat,dusvyat",3
+"George3d6,Ilia Tsyplenkov",3
+"Max Stepanov,Hamish Fagg",3
+"Max Stepanov,StpMax",3
+"Issam,Aditya Azad",3
+"Max Stepanov,Minura Punchihewa",3
+"Ty,Patricio Cerda-Mardini",3
+"Daniel Usvyat,Andrey",3
+"Zoran Pandovski,Jorge Torres",3
+"Ty,Max Stepanov",3
+"dusvyat,Yuhui Shi",3
+"hamishfagg,Max Stepanov",3
+"ea-rus,Max Stepanov",3
+"george,Max Stepanov",3
+"martyna-mindsdb,Patricio Cerda Mardini",3
+"Andrey,Ty",3
+"Abhi,Issam",3
+"parthiv11,Parthiv Makwana",3
+"Max Stepanov,Zoran Pandovski",3
+"Meet Rajesh Gor,mr_destructive",3
+"Minura Punchihewa,Patricio Cerda Mardini",3
+"Minura Punchihewa,andrew",3
+"Harsh Deswal,Ajay Ratnam",3
+"Max Stepanov,maximlopin",3
+"Emmanouil Dellatolas,Γιώργος Αρτόπουλος",3
+"Tes-program,Michael Lantz",3
+"Rutam Prita Mishra,Bilal Aamer",3
+"Somesh,andrew",3
+"Patricio Cerda Mardini,ea-rus",3
+"Ricram2,Patricio Cerda Mardini",3
+"Sam Miller,olly-styles",3
+"Sam Miller,andrew",3
+"Minura Punchihewa,Hamish Fagg",3
+"Minura Punchihewa,Zoran Pandovski",3
+"Patricio Cerda Mardini,Ilia Tsyplenkov",3
+"andrew,tmichaeldb",2
+"Darknez07,Rishi Kakkar",2
+"Dhairyashil,Martyna",2
+"Ty,Zoran Pandovski",2
+"Tyler.S,Martyna",2
+"Utkarsh Maurya,parthiv11",2
+"Vineet,Guy David",2
+"Zoran Pandovski,George3d6",2
+"ZoranPandovski,Dave Lewis",2
+"Daniel Usvyat,Max Stepanov",2
+"Zoran Pandovski,George",2
+"Yuhui Shi,Patricio Cerda Mardini",2
+"Vivek N R,Shruti Agarwal",2
+"Vinícius Duarte,Jayesh Parsnani",2
+"fsrur,Vineet",2
+"mr_destructive,Mr-Destructive",2
+"Γιώργος Αρτόπουλος,Emmanouil Dellatolas",2
+"zoran,andrew",2
+"zoran,Minura Punchihewa",2
+"Alissa,Atharva Shirdhankar",2
+"Abhishek vishwakarma,alvarohghg",2
+"sasidhar244,Abhishek vishwakarma",2
+"raghavaraghav3,sasidhar244",2
+"tmichaeldb,Martyna",2
+"mohamed-elfiky,Pranit Yawalkar",2
+"martyna-mindsdb,Max Stepanov",2
+"marios,Rajeev R Sharma",2
+"kenmognethimotee,Thim",2
+"ktyborowski,Kamil Tyborowski",2
+"Alissa Troiano,Odumuyiwa Teslim",2
+"talkshrey,Arman Chand",2
+"hamishfagg,Tori Green",2
+"chandrevdw31,Chandre Van Der Westhuizen",2
+"duanzhihua,Jorge Torres",2
+"dusvyat,Max Stepanov",2
+"Ashutosh Gupta,unnati",2
+"Arman Chand,Emmanuel Aiyenigba",2
+"ea-rus,Patricio Cerda Mardini",2
+"ea-rus,andrew",2
+"hamishfagg,Hamish Fagg",2
+"andrew,Daniel Usvyat",2
+"andrew,Ty",2
+"andrew,Jorge Torres",2
+"Bill Nguyen Ton Hoang,Vinícius Duarte",2
+"Better-Boy,Hamish Fagg",2
+"alvarohghg,OMODING DANIEL",2
+"ZoranPandovski,Ricram2",2
+"Tom Hudson,Patricio Cerda Mardini",2
+"Daniel Usvyat,Patricio Cerda Mardini",2
+"Hamish Fagg,hamishfagg",2
+"Hamish Fagg,ZoranPandovski",2
+"Hamish Fagg,Andrey",2
+"Hamish Fagg,Minura Punchihewa",2
+"George3d6,Ilya Tsyplenkov",2
+"George,Zoran Pandovski",2
+"OMODING DANIEL,Sebastian James",2
+"Patricio Cerda Mardini,Jorge Torres",2
+"Rohan Jacob,raghavaraghav3",2
+"Gabor S,Hilary Y",2
+"Mr-Destructive,mr_destructive",2
+"Minura Punchihewa,Temidayo",2
+"Sebastian James,Harshal Patil",2
+"Sam Miller,sammiller06",2
+"DidierRLopes,Jorge Torres",2
+"Dylan Ketterer,Patricio Cerda Mardini",2
+"Eddy Oyieko,Hamish Fagg",2
+"Sajda Kabir,Adithyanarayanan",2
+"Sumit Sawant,Mohd Talha",2
+"Temidayo,Minura Punchihewa",2
+"Robera Negussie Toye,Avishkar Sonni",2
+"Rutam Prita Mishra,Arman Chand",2
+"Ricram2,zoran",2
+"Ricram2,Prajwal Borkar",2
+"Patricio Cerda-Mardini,Ty",2
+"Pranav,Daniel Usvyat",2
+"Pranit Yawalkar,Rohan Jacob",2
+"Emmanuel Excellent,Better-Boy",2
+"Max Stepanov,ZoranPandovski",2
+"Max Stepanov,Ilya Tsyplenkov",2
+"Ilya Tsyplenkov,George3d6",2
+"Ilia Tsyplenkov,andrew",2
+"Max Stepanov,George",2
+"Maulana Akbar,Martyna",2
+"Harshal Patil,Robera Negussie Toye",2
+"HellFire,Sarvesh S. Kulkarni",2
+"Hilary Y,Jeetesh Gour",2
+"Max Stepanov,Han Wang",2
+"Max Stepanov,tmichaeldb",2
+"Max Stepanov,sebastian tobon",2
+"Michael Lantz,zahyaah",2
+"George3d6,Борис Цейтлин",2
+"Max Stepanov,Mateusz Urbanek",2
+"Joshua Murithi,Maaz Karim",2
+"Martyna,hamishfagg",2
+"Martyna,Ricram2",2
+"Jeetesh Gour,Vivek N R",2
+"Jorge Torres,DidierRLopes",2
+"Jorge Torres,martyna-mindsdb",2
+"Martyna,tmichaeldb",2
+"Martyna,ZoranPandovski",2
+"MOHD NEHAL KHAN,mohamed-elfiky",2
+"Maaz Karim,rodnjes",2
+"Maciej Łotysz,Gabor S",2
+"sebastian tobon,George3d6",2
+"Kamil Tyborowski,pixpack",2
+"Lucas Koontz,Daniel Usvyat",2
+"Alejandro Villegas,George3d6",2
+"unknown,Utsav Paul",2
+"unnati,Joy Almeida",2
+"Akhil,hritik",2
+"Aaron Trinh,fsrur",2
+"tmichaeldb,Ty",1
+"2170chm,Tayyab",1
+"ABHIJIT PAL,Max Stepanov",1
+"ABHIJIT PAL,Sam Miller",1
+"ARYAN AGARWAL,Martyna",1
+"ARYAN AGARWAL,Siddharth Tiwari",1
+"Abhi,Chandre Van Der Westhuizen",1
+"topefolorunso,Tope Folorunso",1
+"vijay kumar,MJMcNazir",1
+"vinmay,Yash Ajgaonkar",1
+"yagueto,Alissa Troiano",1
+"Ajneesh,Minna Yu",1
+"Akhil,Alissa Troiano",1
+"Akhil,Bhavesh Mishra",1
+"saldanha3193,saldanhad",1
+"rzz0,Srinjay Kapri",1
+"rodnjes,Ishan P",1
+"rodnjes,Bill Nguyen Ton Hoang",1
+"rishavganguly007,harshkanani204",1
+"rishabhgurbani,Sid Wang",1
+"Alissa,Michael Lantz",1
+"Alissa,HengKevin",1
+"Alissa,Anant Bansal",1
+"Alimurtuza,dusvyat",1
+"Alejandro Villegas,sebastian tobon",1
+"Alejandro Villegas,Max Stepanov",1
+"Abhi,rojin254",1
+"“Alejo,Pavlo Shushkov",1
+"zoran,Zoran Pandovski",1
+"zahyaah,ahamedafri",1
+"Martyna,Jacob Werner",1
+"Martyna,Ilia Tsyplenkov",1
+"Martyna,Hridya Agrawal",1
+"Martyna,Dhairyashil",1
+"Martyna,Aritra Mallick",1
+"Martyna,Ajneesh",1
+"Marios Ajdini,Tarun Chawla",1
+"Marcel Coetzee,Alissa",1
+"Manul Patel,Dhanush P Sukruth",1
+"MJMcNazir,Chigozie Onyia",1
+"M.SAKSHAM,Sajda Kabir",1
+"Lucas Koontz,Hamish Fagg",1
+"Leonardo Mastra,ghulamali16",1
+"Lakshya Gupta,ZoranPandovski",1
+"L K Livingstone,Samuel Njoroge",1
+"Kshitiz Gupta,Sourav56",1
+"Martyna,idomi",1
+"Martyna,doruky",1
+"Martyna,andrew",1
+"Martyna,Yasir Musa",1
+"Martyna,Vivek Kumar Singh",1
+"Martyna,Saakshi Raut",1
+"Martyna,Minura Punchihewa",1
+"Martyna,Max Stepanov",1
+"Joy Almeida,Aaron Trinh",1
+"Jorge Torres,elkin",1
+"Jorge Torres,dusvyat",1
+"Jorge Torres,Patricio Cerda Mardini",1
+"Jorge Torres,Costa Tin",1
+"Jeremy Zabala,fMurugi",1
+"Martyna,Joshua Murithi",1
+"Martyna,Jorge Torres",1
+"Maulana Akbar,RITWICK RAJ MAKHAL",1
+"Maulana Akbar,Hridya Agrawal",1
+"Mateusz Urbanek,Max Stepanov",1
+"Javier,Martyna",1
+"Israel Abebe,Martyna",1
+"Ishan P,Bill Nguyen Ton Hoang",1
+"Ishaan Adarsh,Debajyati",1
+"Ilya Tsyplenkov,Ryan Russell",1
+"Ilya Tsyplenkov,Max Stepanov",1
+"Ilia Tsyplenkov,maximlopin",1
+"Ilia Tsyplenkov,ZoranPandovski",1
+"Ilia Tsyplenkov,Tsyplenkov Ilia",1
+"Ilia Tsyplenkov,Patricio Cerda Mardini",1
+"Hridya Agrawal,Shobhit Soni",1
+"Mateus Elias,ADITYA DAS",1
+"Martyna,zoran",1
+"Himadri Ganguly,Max Stepanov",1
+"HengKevin,Rutam Prita Mishra",1
+"HellFire,Pritish Sinha",1
+"HellFire,Odumuyiwa Teslim",1
+"HellFire,Artemis6969",1
+"Harun Sokullu,George",1
+"Harsh Mange,sudip",1
+"Harikesh Pratap Singh,Yash Jain",1
+"Han Wang,Martyna",1
+"Max Stepanov,Himadri Ganguly",1
+"Max Stepanov,Elkin Andrew",1
+"Max Stepanov,Dave Lewis",1
+"Max Stepanov,Alissa",1
+"Max Stepanov,Alejandro Villegas",1
+"Max Miller,Saumya",1
+"Maulana Akbar,andrew",1
+"Michael Lantz,p-mishra1",1
+"Michael Lantz,noviicee_U",1
+"Michael Lantz,Ricram2",1
+"Michael Lantz,Minura Punchihewa",1
+"Michael Lantz,Arman Chand",1
+"Michael Lantz,Anurag",1
+"Michael Lantz,Alissa",1
+"Melan Rashitha Dias,garanews",1
+"Meet Zalavadiya,c0d33ngr",1
+"Max Stepanov,martyna-mindsdb",1
+"Max Stepanov,george",1
+"Max Stepanov,Yuhui Shi",1
+"Max Stepanov,Ty",1
+"Max Stepanov,Smyja",1
+"Hridya Agrawal,Maulana Akbar",1
+"Hridya Agrawal,Better-Boy",1
+"Mobasherah Falak,12-malak",1
+"MinuraPunchihewa,Martyna",1
+"Minura Punchihewa,ritwickrajmakhal",1
+"Minura Punchihewa,hamishfagg",1
+"Minura Punchihewa,QuantumPlumber",1
+"Hamish Fagg,Tori-Green",1
+"Hamish Fagg,Lucas Koontz",1
+"Hamish Fagg,Eddy Oyieko",1
+"Hamish Fagg,DidierRLopes",1
+"Guy David,MOHD NEHAL KHAN",1
+"Gloria Okeke,HellFire",1
+"Gitanshu Talwar,Jeramiah",1
+"George3d6,sebastian tobon",1
+"Minna Yu,Sumit Bikram Maity",1
+"MindsDB Infrastructure / DevOps,MindsDB DevOps / Infrastructure",1
+"Michael Lantz,pixpack",1
+"Nishit,Nishit Singh",1
+"Nishant Sapkota,Akhil",1
+"Nelson-He,martyna-mindsdb",1
+"Navin Khandeparkar,Rakesh Kushwaha",1
+"Naren Gogineni,martyna-mindsdb",1
+"NarayanAdithya,Zubeen",1
+"NarayanAdithya,Gloria Okeke",1
+"NarayanAdithya,Akhil",1
+"Mohsin Khan,George3d6",1
+"Mohsin Iqbal,rishabhgurbani",1
+"Mohd Talha,Sumit Sawant",1
+"Mohd Talha,NIKU-SINGH",1
+"Mohd Talha,Deepanshu Vangani",1
+"Mohd Faisal,Shubham Jadhav",1
+"Mohamed Abderrahim,Zoran Pandovski",1
+"Mobasherah Falak,Anant Bansal",1
+"Panagiotis Spanakis,Gitanshu Talwar",1
+"Omokiti,Subhashree Mishra",1
+"Odumuyiwa Teslim,Zubeen",1
+"Odumuyiwa Teslim,Nupoor10",1
+"Odumuyiwa Teslim,HellFire",1
+"Odumuyiwa Teslim,Alissa Troiano",1
+"George3d6,ZoranPandovski",1
+"George,duanzhihua",1
+"George,Max Stepanov",1
+"George,Koray Sarıtaş",1
+"George,Jorge Torres",1
+"George,Ilia Tsyplenkov",1
+"Ganderse,dusvyat",1
+"Nupoor10,Odumuyiwa Teslim",1
+"Nitin,dusvyat",1
+"Nishit Singh,dusvyat",1
+"Pugal,Sujeendra R",1
+"Pritish Sinha,Alissa Troiano",1
+"Prathik Shetty,HellFire",1
+"Prakash Gatiyala,Tushar Sublaik",1
+"Prajwal Borkar,Max Miller",1
+"Posterizedsoul,Arman Chand",1
+"Piyush Yadav,Manul Patel",1
+"Patricio Cerda-Mardini,Minura Punchihewa",1
+"Patricio Cerda-Mardini,Max Stepanov",1
+"Patricio Cerda Mardini,tmichaeldb",1
+"Patricio Cerda Mardini,aditis",1
+"Patricio Cerda Mardini,Hamish Fagg",1
+"Patricio Cerda Mardini,Elkin Andrew",1
+"Patricio Cerda Mardini,Dylan Ketterer",1
+"Parthiv Makwana,parthiv11",1
+"Parthiv Makwana,kavelbaruah",1
+"Ethan Ruhe,EnamAamir",1
+"EnamAamir,yash",1
+"Emmanuel Excellent,Abhi",1
+"Emmanuel Aiyenigba,Alissa",1
+"Revanth Naik,maarioos123",1
+"Rehan Ahmed,Panagiotis Spanakis",1
+"Ramon Saraiva,Arnav Mehta",1
+"Rakesh Kushwaha,Mohd Faisal",1
+"Rajat Dwivedi,chadnewham",1
+"Rainey,Jorge Torres",1
+"Raghav,Ravi Teja Natchireddi",1
+"RITWICK RAJ MAKHAL,martyna-mindsdb",1
+"RITWICK RAJ MAKHAL,Minura Punchihewa",1
+"RITWICK RAJ MAKHAL,Maulana Akbar",1
+"RITWICK RAJ MAKHAL,Martyna",1
+"QuantumPlumber,Ty",1
+"Rohit Rambade,saif-rehman-1",1
+"RodriguezRob,Murtaza rizvi",1
+"Risan,jpw3667",1
+"Ricram2,ZoranPandovski",1
+"Ricram2,Temiloluwa Samuel",1
+"Ricram2,Michael Lantz",1
+"Gabriel Comby,Ashutosh Gupta",1
+"Ferdi Güran,Sarvesh S. Kulkarni",1
+"FedericoGarza,azul",1
+"Fayez,Patricio Cerda Mardini",1
+"Fayez,Fayezkhan1",1
+"Faraz Khan,Zoran Pandovski",1
+"Fabian Jevon,Ton Hoang Nguyen (Bill)",1
+"Ezra Adeyinka,sekhar kumar dash",1
+"Ezra Adeyinka,boomlion8",1
+"Evans,dusvyat",1
+"Rutam Prita Mishra,aayushibansal2001",1
+"Rutam Prita Mishra,Tes-program",1
+"Rutam Prita Mishra,Harikesh Pratap Singh",1
+"Elkin Andrew,Patricio Cerda Mardini",1
+"Ebrahim Kareem,martyna-mindsdb",1
+"Dylan Ketterer,andrew",1
+"Dylan Ketterer,Max Stepanov",1
+"Don Heshanthaka,Tes-program",1
+"DocKenny,Raghav",1
+"DiptoChakrabarty,Dipto Chakrabarty",1
+"Dipti Sengupta,Martyna",1
+"Dipti Sengupta,Alissa",1
+"Dhaval Chaudhari,Piyush Yadav",1
+"Dhanush P Sukruth,Kalp Prajapati",1
+"Rutam Prita Mishra,Chandre Van Der Westhuizen",1
+"Rutam Prita Mishra,Alissa",1
+"Shashwat Sharma,Aditya Pal",1
+"Sekhar-Kumar-Dash,Maulana Akbar",1
+"Sekhar-Kumar-Dash,Ezra Adeyinka",1
+"SebastianJames55,parthiv11",1
+"Saumya,Max Miller",1
+"Sathvik Gilakamsetty,likithkun",1
+"Sarvesh S. Kulkarni,yagueto",1
+"Sarvesh S. Kulkarni,NarayanAdithya",1
+"Samuel kalu,Vinayak_Gavariya",1
+"Samuel Njoroge,Steven Geiger",1
+"Sam Miller,Max Stepanov",1
+"Sam Miller,ABHIJIT PAL",1
+"Saksham093,gantanikhilraj",1
+"Sachin Ghait,Fer-Bar",1
+"Ry Walker,vijay kumar",1
+"Rutam Prita Mishra,munyoudoum",1
+"Sujeendra R,Rehan Ahmed",1
+"Sudipto Ghosh,Shaun-shaju",1
+"Subhashree Mishra,ARYAN AGARWAL",1
+"StpMax,andrew",1
+"Steven Geiger,DocKenny",1
+"Srinjay Kapri,Costa Tin",1
+"Sourav56,subesh k",1
+"Somesh,Olly Styles",1
+"Siddharth Tiwari,Ayaan49",1
+"Sid Wang,Samuel kalu",1
+"Sid Wang,2170chm",1
+"Shyam Tawli,kavelbaruah",1
+"Shruti Agarwal,Tarun Samanta",1
+"Shruti Agarwal,Maciej Łotysz",1
+"Shreya Purohit,eren23",1
+"Shobhit Soni,Hridya Agrawal",1
+"Tomiwa,Omokiti",1
+"TinaSay,Shashwat Sharma",1
+"Tim Gates,George3d6",1
+"Tes-program,Temidayo",1
+"Tes-program,Alissa",1
+"Tes-program,Akhil",1
+"Temidayo,Ilia Tsyplenkov",1
+"Temidayo,Dipti Sengupta",1
+"Tayyab,Yusharth Singh",1
+"Tarun Chawla,andrew",1
+"Tarun Chawla,Martyna",1
+"Tarun Chawla,Marios Ajdini",1
+"Tanishk Agarwal,Aaron Trinh",1
+"TalaatHasanin,andrew",1
+"Susmitha Kodamarthi,garanews",1
+"Sumit Bikram Maity,yenper",1
+"Ty,tmichaeldb",1
+"Ty,ZoranPandovski",1
+"Ty,Tyler.S",1
+"Ty,Minura Punchihewa",1
+"Ty,Lucas Koontz",1
+"Tushar Sublaik,Prathik Shetty",1
+"Tomoya Kuroda,tonyrex99",1
+"Deepanshu Vangani,Mohd Talha",1
+"Debajyati,Saksham093",1
+"David Fraser,david.fraser@mindsdb.com",1
+"Dave Lewis,george",1
+"Dave Lewis,Max Stepanov",1
+"Daniel Usvyat,tmichaeldb",1
+"Daniel Usvyat,martyna-mindsdb",1
+"Daniel Usvyat,andrew",1
+"Daniel Usvyat,Tyler.S",1
+"Chandre Van Der Westhuizen,Rutam Prita Mishra",1
+"Chandre Van Der Westhuizen,Ricram2",1
+"Yusharth Singh,gantanikhilraj",1
+"Yusharth Singh,Ishaan Adarsh",1
+"Yuhui Shi,Tyler.S",1
+"Yash Jain,Tes-program",1
+"Yash,Rohit Rambade",1
+"Yanik Nayee,TATHAGATA ROY",1
+"Vivek Shah,Prathik Shetty",1
+"Vinayak_Gavariya,Rahul Darmula",1
+"Varyd Abe,vinmay",1
+"Utkarsh,Ezra Adeyinka",1
+"Tyler.S,hamishfagg",1
+"Tyler.S,andrew",1
+"Tyler.S,Ty",1
+"Tyler.S,Daniel Usvyat",1
+"Zoran Pandovski,ZoranPandovski",1
+"Zoran Pandovski,Saurav Pant",1
+"Zoran Pandovski,Lucas Koontz",1
+"Zoran Pandovski,Leonardo Mastra",1
+"Zahede,Martyna",1
+"Daniel Usvyat,Minura Punchihewa",1
+"Daniel Usvyat,Hamish Fagg",1
+"Daniel Usvyat,Fedor Shabashev",1
+"Craig Gehrig,talkshrey",1
+"Costa Tin,pixpack",1
+"Costa Tin,Theodoros Malikourtis",1
+"Colby Jax,Maciej Łotysz",1
+"Chirag Arora,Rutam Prita Mishra",1
+"Chigozie Onyia,Mohsin Iqbal",1
+"Chiamaka Nwolisa,sanittawan",1
+"Chandre Van Der Westhuizen,Zoran Pandovski",1
+"ZoranPandovski,hamishfagg",1
+"ZoranPandovski,Tengzhen",1
+"ZoranPandovski,Temidayo",1
+"ZoranPandovski,Rutam Prita Mishra",1
+"ZoranPandovski,Minura Punchihewa",1
+"ZoranPandovski,Michael Lantz",1
+"ZoranPandovski,Martyna",1
+"ZoranPandovski,Jorge Torres",1
+"ZoranPandovski,Ilia Tsyplenkov",1
+"ZoranPandovski,George",1
+"ZoranPandovski,Andrew Kalik",1
+"Zoran Pandovski,tobias-mintlify",1
+"Zoran Pandovski,ritwickrajmakhal",1
+"Zoran Pandovski,maximlopin",1
+"Zoran Pandovski,martyna-mindsdb",1
+"Zoran Pandovski,andrew",1
+"Ayan Das,Martyna",1
+"Ayaan49,Ayaan B. Bordoloi",1
+"Ayaan B. Bordoloi,Revanth Naik",1
+"ancatoza,Aditya Kode",1
+"abhayasr,Zoran Pandovski",1
+"aayushibansal2001,noviicee_U",1
+"aayushibansal2001,Tes-program",1
+"a709838_fidelity,Martyna",1
+"Zubeen,fMurugi",1
+"Zubeen,Vivek Shah",1
+"Zubeen,Odumuyiwa Teslim",1
+"Zubeen,NarayanAdithya",1
+"Zubeen,Jeremy Zabala",1
+"Zubeen,HellFire",1
+"Zubeen,Akhil",1
+"ZoranPandovski,pixpack",1
+"andrew,Sam Miller",1
+"andrew,Minura Punchihewa",1
+"andrew,Martyna",1
+"andrew,Ilia Tsyplenkov",1
+"andrew,Elkin Andrew",1
+"andrew,Dylan Ketterer",1
+"Captain jay,RodriguezRob",1
+"Bill Nguyen Ton Hoang,Yuhui Shi",1
+"Bill Nguyen Ton Hoang,Ishan P",1
+"Bill Nguyen Ton Hoang,Daniel Usvyat",1
+"Bilal Aamer,Tes-program",1
+"Bilal Aamer,Don Heshanthaka",1
+"Bilal Aamer,Alissa",1
+"Better-Boy,Andrey",1
+"Benjie Eisen,Kshitiz Gupta",1
+"Ayush Sharma,Chirag Arora",1
+"Arman Chand,Artemis6969",1
+"Arman Chand,Akhil",1
+"Aritra Mallick,Martyna",1
+"dusvyat,Keerthi",1
+"dusvyat,Jorge Torres",1
+"dusvyat,Dylan Ketterer",1
+"dishantzaveri,Emmanuel Aiyenigba",1
+"dhruv-porwal,botketan",1
+"dhruv-porwal,Anant Bansal",1
+"dhanesh,Posterizedsoul",1
+"chintu-1p,Captain jay",1
+"c0d33ngr,Martyna",1
+"botketan,Alissa",1
+"boomlion8,sekhar kumar dash",1
+"ayush,Gajesh Bhat",1
+"ashish-lgtm,Colby Jax",1
+"elkin,Max Stepanov",1
+"elkin,Martyna",1
+"elkin,Jorge Torres",1
+"dusvyat,tmichaeldb",1
+"dusvyat,mindsdbadmin",1
+"Avishkar Sonni,Yusharth Singh",1
+"Avishkar Sonni,2170chm",1
+"Atharva Shirdhankar,Arman Chand",1
+"Atharva Shirdhankar,Akhil",1
+"Artemis6969,talkshrey",1
+"Artemis6969,Rutam Prita Mishra",1
+"Artemis6969,Craig Gehrig",1
+"Artemis6969,Alissa",1
+"Arman Chand,dhanesh",1
+"Arman Chand,Rutam Prita Mishra",1
+"Arman Chand,Nishant Sapkota",1
+"jpw3667,chintu-1p",1
+"inclinedadarsh,Smyja",1
+"idomi,Martyna",1
+"hritik,Zubeen",1
+"hritik,Rutam Prita Mishra",1
+"hritik,Haseeb Siddiqui",1
+"hritik,Gloria Okeke",1
+"hritik,Ayush Sharma",1
+"hamishfagg,dusvyat",1
+"hamishfagg,Tyler.S",1
+"ghulamali16,Pugal",1
+"gantanikhilraj,Sajda Kabir",1
+"gantanikhilraj,M.SAKSHAM",1
+"eren23,Faraz Khan",1
+"enforcer007,Ilia Tsyplenkov",1
+"elkin,Patricio Cerda Mardini",1
+"marios,Marios Ajdini",1
+"maarioos123,rzz0",1
+"ktyborowski,Niklas Schmidtmer",1
+"Anurag,Alissa",1
+"Anuraag-CH,Martyna",1
+"Andrey,Lucas Koontz",1
+"Anant Bansal,dhruv-porwal",1
+"Anant Bansal,aayushibansal2001",1
+"Anant Bansal,Mobasherah Falak",1
+"Anant Bansal,Marcel Coetzee",1
+"Alissa Troiano,Zubeen",1
+"Alissa Troiano,NarayanAdithya",1
+"Alissa,dhruv-porwal",1
+"Alissa,Rutam Prita Mishra",1
+"Alissa,Mobasherah Falak",1
+"kavelbaruah,sumit shinde ( Roni )",1
+"mindsdbadmin,George3d6",1
+"martyna-mindsdb,zoran",1
+"martyna-mindsdb,wu-ming233",1
+"martyna-mindsdb,tanbirali",1
+"martyna-mindsdb,dusvyat",1
+"martyna-mindsdb,Zoran Pandovski",1
+"martyna-mindsdb,Tung Bui (Leo)",1
+"martyna-mindsdb,Someshwar Tripathi",1
+"martyna-mindsdb,Snorf Yang",1
+"martyna-mindsdb,Mohammed Osama",1
+"martyna-mindsdb,MUHSINeth",1
+"martyna-mindsdb,Harsh Deep",1
+"martyna-mindsdb,Daniel Usvyat",1
+"martyna-mindsdb,Anubhav Adhikari",1
+"martyna-mindsdb,Ambareen Azam",1
+"marios,andrew",1
+"zahyaah,Anurag",1
+"yenper,Martyna",1
+"qianmoQ,george",1
+"pravintargaryen,dusvyat",1
+"pixpack,Kamil Tyborowski",1
+"parthiv11,Zoran Pandovski",1
+"parthiv11,Utkarsh Maurya",1
+"parthiv11,MichaelLantz",1
+"p-mishra1,Rutam Prita Mishra",1
+"olly-styles,Olly Styles",1
+"noviicee_U,Mateus Elias",1
+"noviicee_U,Alissa",1
+"nayangoyal,dusvyat",1
+"nakul010,martyna-mindsdb",1
+"munyoudoum,Alissa",1
+"mindsdbadmin,dusvyat",1
+"Akhil,Odumuyiwa Teslim",1
+"tmichaeldb,Max Stepanov",1
+"“Alejo,andrew",1
+"themoonrider,dusvyat",1
+"tanbirali,Tanbir Ali",1
+"12-malak,Anant Bansal",1
+"sudip,Shreya Purohit",1
+"subesh k,Risan",1
+"2170chm,Captain jay",1
+"Ahmed Hamdy,dusvyat",1
+"Aditya Pal,Gabriel Comby",1
+"Aditya Kode,Javier",1
+"Aditya Azad,abhijitpal1247",1
+"Adithyanarayanan,Sid Wang",1
+"Adithyanarayanan,Kaito",1
+"sebastian tobon,Alejandro Villegas",1
+"Karthik Vaithin,Yash",1
+"Kamil Tyborowski,ktyborowski",1
+"Kamil Tyborowski,Parthiv Makwana",1
+"Kalp Prajapati,ashish-lgtm",1
+"Kaito,Benjie Eisen",1
+"Jsson,dusvyat",1
+"Joy Almeida,Tanishk Agarwal",1
+"setohe0909,sebastian tobon",1
+"setohe0909,Alejo Villegas",1
+"sekhar kumar dash,Sekhar-Kumar-Dash",1
+"sekhar kumar dash,Maulana Akbar",1
+"sebastian tobon,Sebastián Tobón Hernández",1
+"sebastian tobon,Max Stepanov",1
+"Alejandro Rivera,L K Livingstone",1
+"Alejandro Mendoza,Navin Khandeparkar",1
+"Akhil,Zubeen",1
+,
+Committer Timezone Distribution,Unique Timezones: 23
+Timezone,Commits
++00:00,3817
++01:00,2226
++02:00,3538
++03:00,4307
++03:30,9
++04:00,3
++05:00,14
++05:30,2607
++05:45,8
++06:00,1
++07:00,56
++08:00,36
++09:00,59
++10:00,2
++12:00,46
++13:00,116
+-03:00,232
+-04:00,576
+-05:00,410
+-06:00,70
+-07:00,750
+-08:00,232
+-10:00,3
+,
+Contributors Experience,Average across 5079 files: 86.75%
+File,Top Contributor Share (%)
+TECH_DOC.md,100.00
+build/lib/config/__init__.py,100.00
+build/lib/external_libs/mysql_scramble.py,100.00
+build/lib/external_libs/stats.py,100.00
+build/lib/libs/constants/mindsdb.py,100.00
+build/lib/libs/constants/mysql.py,100.00
+build/lib/libs/controllers/session_controller.py,100.00
+build/lib/libs/controllers/transaction_controller.py,100.00
+build/lib/libs/data_models/pytorch/encoders/rnn/rnn.py,100.00
+build/lib/libs/data_models/pytorch/libs/base_model.py,100.00

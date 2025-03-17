@@ -1,0 +1,159 @@
+author,timestamp,file
+sekstini,2025-02-07 01:33:27+01:00,.gitignore
+sekstini,2025-02-07 01:33:27+01:00,.python-version
+sekstini,2025-02-07 01:33:27+01:00,README.md
+sekstini,2025-02-07 01:33:27+01:00,pyproject.toml
+sekstini,2025-02-07 01:33:27+01:00,sample.py
+sekstini,2025-02-07 01:33:27+01:00,uv.lock
+sekstini,2025-02-07 01:33:27+01:00,zaudio/autoencoder.py
+sekstini,2025-02-07 01:33:27+01:00,zaudio/backbone.py
+sekstini,2025-02-07 01:33:27+01:00,zaudio/codebook_pattern.py
+sekstini,2025-02-07 01:33:27+01:00,zaudio/conditioning.py
+sekstini,2025-02-07 01:33:27+01:00,zaudio/config.py
+sekstini,2025-02-07 01:33:27+01:00,zaudio/model.py
+sekstini,2025-02-07 01:33:27+01:00,zaudio/sampling.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,dockerfile
+Gabriel Clark,2025-02-07 02:07:23-08:00,pyproject.toml
+Gabriel Clark,2025-02-07 02:07:23-08:00,sample.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/autoencoder.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/backbone.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/codebook_pattern.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/conditioning.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/config.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/model.py
+Gabriel Clark,2025-02-07 02:07:23-08:00,src/sampling.py
+Gabriel Clark,2025-02-07 02:16:57-08:00,britishmale3.mp3
+Gabriel Clark,2025-02-07 02:16:57-08:00,sample.py
+Gabriel Clark,2025-02-07 02:16:57-08:00,src/model.py
+Gabriel Clark,2025-02-07 02:16:57-08:00,src/speaker_cloning.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/autoencoder.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/backbone.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/codebook_pattern.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/conditioning.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/config.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/model.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/sampling.py
+Gabriel Clark,2025-02-07 02:24:31-08:00,zonos/speaker_cloning.py
+Gabriel Clark,2025-02-07 02:29:07-08:00,sample.py
+Gabriel Clark,2025-02-07 02:29:07-08:00,zonos/backbone.py
+Gabriel Clark,2025-02-07 02:29:07-08:00,zonos/conditioning.py
+Gabriel Clark,2025-02-07 02:29:07-08:00,zonos/model.py
+sekstini,2025-02-07 18:32:02+01:00,.python-version
+sekstini,2025-02-07 18:32:02+01:00,Dockerfile
+sekstini,2025-02-07 18:32:02+01:00,dockerfile
+sekstini,2025-02-07 18:32:02+01:00,pyproject.toml
+sekstini,2025-02-07 18:32:02+01:00,sample.py
+sekstini,2025-02-07 18:32:02+01:00,uv.lock
+sekstini,2025-02-07 18:32:02+01:00,zonos/model.py
+Gabriel Clark,2025-02-07 12:23:42-08:00,README.md
+Gabriel Clark,2025-02-07 12:24:21-08:00,README.md
+Gabriel Clark,2025-02-07 12:27:28-08:00,COPYING.APACHE
+Gabriel Clark,2025-02-07 13:59:38-08:00,exampleaudio.mp3
+Gabriel Clark,2025-02-07 13:59:38-08:00,sample.py
+Gabriel Clark,2025-02-07 13:59:38-08:00,zonos/conditioning.py
+Gabriel Clark,2025-02-08 17:36:59-08:00,zonos/model.py
+Gabriel Clark,2025-02-08 17:36:59-08:00,zonos/speaker_cloning.py
+Gabriel Clark,2025-02-08 17:37:36-08:00,britishmale3.mp3
+Gabriel Clark,2025-02-08 18:28:52-08:00,zonos/model.py
+Gabriel Clark,2025-02-08 18:28:52-08:00,zonos/sampling.py
+Gabriel Clark,2025-02-08 20:12:36-08:00,zonos/conditioning.py
+Gabriel Clark,2025-02-08 20:12:59-08:00,gradio_interface.py
+Gabriel Clark,2025-02-08 20:12:59-08:00,silence_100ms.wav
+Gabriel Clark,2025-02-09 13:00:12-08:00,pyproject.toml
+Gabriel Clark,2025-02-09 16:54:16-08:00,gradio_interface.py
+Gabriel Clark,2025-02-09 16:54:16-08:00,zonos/conditioning.py
+Gabriel Clark,2025-02-09 22:20:10-08:00,zonos/model.py
+Gabriel Clark,2025-02-09 22:42:50-08:00,zonos/model.py
+Gabriel Clark,2025-02-09 22:50:37-08:00,docker-compose.yml
+Gabriel Clark,2025-02-09 23:31:18-08:00,sample.py
+Gabriel Clark,2025-02-09 23:44:09-08:00,content/ArchitectureDiagram.png
+Gabriel Clark,2025-02-09 23:44:09-08:00,content/ZonosHeader.png
+Gabriel Clark,2025-02-09 23:53:00-08:00,content/ArchitectureDiagram.png
+Gabriel Clark,2025-02-10 00:22:08-08:00,README.md
+Gabriel Clark,2025-02-10 01:32:54-08:00,content/ArchitectureDiagram.png
+Gabriel Clark,2025-02-10 01:32:54-08:00,content/ZonosHeader.png
+Gabriel Clark,2025-02-10 01:33:56-08:00,README.md
+Gabriel Clark,2025-02-10 01:37:21-08:00,README.md
+Gabriel Clark,2025-02-10 01:59:21-08:00,README.md
+spaghettiSystems,2025-02-10 05:33:55-05:00,CONDITIONING_README.md
+Gabriel Clark,2025-02-10 08:43:11-08:00,CONDITIONING_README.md
+Gabriel Clark,2025-02-10 08:46:58-08:00,content/ZonosHeader.png
+sekstini,2025-02-10 18:13:54+01:00,Dockerfile
+sekstini,2025-02-10 18:13:54+01:00,LICENSE
+sekstini,2025-02-10 18:13:54+01:00,README.md
+sekstini,2025-02-10 18:13:54+01:00,assets/ArchitectureDiagram.png
+sekstini,2025-02-10 18:13:54+01:00,assets/ZonosHeader.png
+sekstini,2025-02-10 18:13:54+01:00,assets/exampleaudio.mp3
+sekstini,2025-02-10 18:13:54+01:00,assets/silence_100ms.wav
+sekstini,2025-02-10 18:13:54+01:00,gradio_interface.py
+sekstini,2025-02-10 18:13:54+01:00,pyproject.toml
+sekstini,2025-02-10 18:13:54+01:00,sample.py
+sekstini,2025-02-10 18:13:54+01:00,sample.wav
+sekstini,2025-02-10 18:13:54+01:00,uv.lock
+sekstini,2025-02-10 18:13:54+01:00,zonos/model.py
+sekstini,2025-02-10 18:34:32+01:00,sample.wav
+sekstini,2025-02-11 02:04:12+01:00,zonos/model.py
+Lorem Ipsum,2025-02-10 21:54:50-05:00,README.md
+mustninja,2025-02-11 14:10:30+03:00,docker-compose.yml
+mustninja,2025-02-11 14:10:30+03:00,gradio_interface.py
+sekstini,2025-02-11 12:47:23+01:00,README.md
+sekstini,2025-02-11 16:43:39+01:00,zonos/model.py
+sekstini,2025-02-11 16:49:36+01:00,gradio_interface.py
+sekstini,2025-02-11 16:49:36+01:00,zonos/conditioning.py
+sekstini,2025-02-11 17:26:32+01:00,gradio_interface.py
+sekstini,2025-02-11 17:26:32+01:00,zonos/model.py
+Ikko Eltociear Ashimine,2025-02-12 01:44:35+09:00,CONDITIONING_README.md
+sekstini,2025-02-11 18:09:33+01:00,gradio_interface.py
+sekstini,2025-02-11 18:09:33+01:00,zonos/model.py
+sekstini,2025-02-11 18:59:10+01:00,pyproject.toml
+MithrilMan,2025-02-12 12:51:59+01:00,README.md
+sekstini,2025-02-12 19:10:04+01:00,README.md
+sekstini,2025-02-12 19:10:04+01:00,gradio_interface.py
+sekstini,2025-02-12 19:10:04+01:00,pyproject.toml
+sekstini,2025-02-12 19:10:04+01:00,sample.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/backbone/__init__.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/backbone/_mamba_ssm.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/backbone/_torch.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/conditioning.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/config.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/model.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/speaker_cloning.py
+sekstini,2025-02-12 19:10:04+01:00,zonos/utils.py
+sekstini,2025-02-12 20:05:48+01:00,zonos/model.py
+MithrilMan,2025-02-13 00:30:44+01:00,README.md
+sekstini,2025-02-13 00:30:44+01:00,README.md
+sekstini,2025-02-13 00:30:44+01:00,zonos/backbone/__init__.py
+sekstini,2025-02-13 00:30:44+01:00,zonos/backbone/_mamba_ssm.py
+sekstini,2025-02-13 00:30:44+01:00,zonos/backbone/_torch.py
+sekstini,2025-02-13 00:30:44+01:00,zonos/conditioning.py
+sekstini,2025-02-13 00:30:44+01:00,zonos/config.py
+sekstini,2025-02-13 00:30:44+01:00,zonos/model.py
+sekstini,2025-02-13 00:30:44+01:00,zonos/utils.py
+sekstini,2025-02-13 00:58:20+01:00,gradio_interface.py
+sekstini,2025-02-13 00:58:20+01:00,zonos/utils.py
+sekstini,2025-02-13 08:53:12+01:00,gradio_interface.py
+sekstini,2025-02-13 08:53:12+01:00,zonos/backbone/_mamba_ssm.py
+sekstini,2025-02-13 08:53:12+01:00,zonos/backbone/_torch.py
+sekstini,2025-02-13 08:53:12+01:00,zonos/model.py
+sekstini,2025-02-13 09:54:19+01:00,README.md
+sekstini,2025-02-13 16:17:55+01:00,README.md
+Gabriel Clark,2025-02-13 10:48:47-08:00,README.md
+sekstini,2025-02-14 13:10:19+01:00,gradio_interface.py
+sekstini,2025-02-14 16:23:10+01:00,zonos/autoencoder.py
+sekstini,2025-02-14 16:29:46+01:00,zonos/autoencoder.py
+Beren,2025-02-15 02:27:33-08:00,README.md
+Gabriel Clark,2025-02-15 12:51:36+01:00,README.md
+sekstini,2025-02-15 12:51:36+01:00,gradio_interface.py
+sekstini,2025-02-15 12:51:36+01:00,zonos/autoencoder.py
+sekstini,2025-02-15 14:29:34+01:00,zonos/model.py
+Mario Klingemann,2025-02-15 14:38:02+01:00,zonos/sampling.py
+Beren,2025-02-16 15:11:56-08:00,README.md
+Beren,2025-02-16 15:12:12-08:00,README.md
+Darkacorn,2025-02-17 10:51:21+00:00,zonos/sampling.py
+Darkacorn,2025-02-18 06:38:49+00:00,gradio_interface.py
+Darkacorn,2025-02-18 06:38:49+00:00,zonos/sampling.py
+Darkacorn,2025-02-18 06:48:34+00:00,gradio_interface.py
+Gabriel Clark,2025-02-18 03:08:05-08:00,gradio_interface.py
+Christopher Oezbek,2025-03-05 17:00:50+01:00,CONDITIONING_README.md
+Christopher Oezbek,2025-03-05 17:00:50+01:00,zonos/conditioning.py
+Christopher Oezbek,2025-03-05 17:00:50+01:00,zonos/sampling.py

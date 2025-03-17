@@ -1,0 +1,86 @@
+Field,Value
+Commits Overview,
+Total Commits,398
+Total Unique Authors,44
+,
+Top 10 Contributors,
+Author,Commits
+Kenneth Estanislao,211
+KRSHH,164
+Vic P,13
+underlines,9
+pereiraroland26@gmail.com,6
+K,6
+qitian,6
+Makaru,6
+james,6
+Vic P.,4
+,
+Communication Events,Total: 75
+"Author1,Author2",Events
+"KRSHH,Kenneth Estanislao",13
+"Kenneth Estanislao,KRSHH",9
+"james,pereiraroland26@gmail.com",6
+"Kenneth Estanislao,Aleksandr Spiridonov",4
+"Aleksandr Spiridonov,Kenneth Estanislao",4
+"CH. Krish,K",2
+"Gianfranco Palumbo,Kenneth Estanislao",2
+"carpusherw,Kenneth Estanislao",2
+"pereiraroland26@gmail.com,pereiraroland26",2
+"K,Kenneth Estanislao",2
+"David Girón,underlines",1
+"K,KRSHH",1
+"Dmitry Samoylenko,Kenneth Estanislao",1
+"KRSHH,theogbob",1
+"KRSHH,qitian",1
+"Kenneth Estanislao,Saharsha-N",1
+"Kenneth Estanislao,Vic P.",1
+"Kenneth Estanislao,carpusherw",1
+"Kenneth Estanislao,pereiraroland26",1
+"Kenneth Estanislao,unknown",1
+"Kenneth Estanislao,Anant Singh",1
+"Kenneth Estanislao,Makaru",1
+"Kenneth Estanislao,Pedro Santos",1
+"Makaru,qitian",1
+"Makaru,Kenneth Estanislao",1
+"Makaru,KRSHH",1
+"Raymond,Kenneth Estanislao",1
+"Thepathakarpit,Kenneth Estanislao",1
+"Vic P.,Kenneth Estanislao",1
+"Saharsha-N,Kenneth Estanislao",1
+"Roland Pereira,Kenneth Estanislao",1
+"bkosowski,Kenneth Estanislao",1
+"Viet Nguyen,Kenneth Estanislao",1
+"pereiraroland26,Roland Pereira",1
+"pereiraroland26,Kenneth Estanislao",1
+"pereiraroland26@gmail.com,Kenneth Estanislao",1
+"qitian,Kenneth Estanislao",1
+"underlines,Vic P.",1
+"unknown,KRSHH",1
+,
+Committer Timezone Distribution,Unique Timezones: 11
+Timezone,Commits
++00:00,3
++01:00,3
++02:00,17
++03:00,4
++03:30,2
++05:30,148
++07:00,14
++08:00,202
++09:00,1
+-03:00,1
+-04:00,3
+,
+Contributors Experience,Average across 34 files: 80.19%
+File,Top Contributor Share (%)
+.gitattributes,100.00
+LICENSE,100.00
+modules/typing.py,100.00
+modules/ui (2).py,100.00
+modules/ui.json,100.00
+mypi.ini,100.00
+run.py,100.00
+run-laptop-gpu.bat,100.00
+run_with_chocolatey.bat,100.00
+switch_states.json,100.00

@@ -1,0 +1,60 @@
+Field,Value
+Commits Overview,
+Total Commits,209
+Total Unique Authors,38
+,
+Top 10 Contributors,
+Author,Commits
+Andrej Karpathy,165
+Alexander Pivovarov,6
+DG,5
+Otavio Good,4
+Luca Antiga,3
+o,3
+Adam Isakov,2
+Oleksandr Kuvshynov,2
+Akash Mahajan,2
+Yassine Yousfi,2
+,
+Communication Events,Total: 15
+"Author1,Author2",Events
+"Luca Antiga,Andrej Karpathy",2
+"Andrej Karpathy,DG",1
+"Andrej Karpathy,Luca Antiga",1
+"Andrej Karpathy,Nan Yang",1
+"Andrej Karpathy,Ramtin Gharleghi",1
+"Andrej Karpathy,Jonathan Rahn",1
+"Andrej Karpathy,Yassine Yousfi",1
+"Clive Chan,Andrej Karpathy",1
+"DG,venusatuluri",1
+"Jonathan Rahn,Andrej Karpathy",1
+"MicroPanda123,Andrej Karpathy",1
+"Nan Yang,Andrej Karpathy",1
+"Nat Friedman,Andrej Karpathy",1
+"Ramtin Gharleghi,Andrej Karpathy",1
+,
+Committer Timezone Distribution,Unique Timezones: 10
+Timezone,Commits
++00:00,122
++01:00,7
++02:00,3
++03:00,4
++11:00,1
+-03:00,1
+-04:00,4
+-05:00,2
+-07:00,31
+-08:00,34
+,
+Contributors Experience,Average across 24 files: 93.09%
+File,Top Contributor Share (%)
+data/openwebtext/readme.md,100.00
+config/eval_gpt2.py,100.00
+config/eval_gpt2_large.py,100.00
+config/eval_gpt2_medium.py,100.00
+config/eval_gpt2_xl.py,100.00
+LICENSE,100.00
+config/finetune_shakespeare.py,100.00
+data/shakespeare/readme.md,100.00
+configurator.py,100.00
+data/shakespeare_char/readme.md,100.00

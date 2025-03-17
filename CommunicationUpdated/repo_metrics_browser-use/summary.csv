@@ -1,0 +1,131 @@
+Field,Value
+Commits Overview,
+Total Commits,1248
+Total Unique Authors,97
+,
+Top 10 Contributors,
+Author,Commits
+magmueller,961
+Gregor Žunič,702
+Magnus Müller,219
+Matic Zavadlal,86
+Morris Lee,44
+shyam-king,18
+paperboardofficial,18
+XxAlonexX,16
+Sean Gu,10
+Robert Kim,10
+,
+Communication Events,Total: 265
+"Author1,Author2",Events
+"Gregor Žunič,magmueller",78
+"magmueller,Gregor Žunič",76
+"Gregor Žunič,Magnus Müller",6
+"Gregor Žunič,Matic Zavadlal",5
+"magmueller,Magnus Müller",5
+"Magnus Müller,Gregor Žunič",4
+"Robert Kim,magmueller",4
+"Matic Zavadlal,Gregor Žunič",4
+"Matic Zavadlal,Magnus Müller",3
+"Magnus Müller,magmueller",2
+"Malik Talha,magmueller",2
+"Ran Locar,magmueller",2
+"magmueller,Shahar Yair",2
+"magmueller,Robert Kim",2
+"magmueller,j0yk1ll",2
+"magmueller,Takeshi Kishi",2
+"Berkant,magmueller",1
+"Arun Sharma,Sean Gu",1
+"Magnus Müller,Sohaib",1
+"Magnus Müller,Matic Zavadlal",1
+"Jiangzhuo,magmueller",1
+"Jean Weatherwax,Gregor Žunič",1
+"Gregor Žunič,jersobh",1
+"Ivens Joris,Arun Sharma",1
+"Gregor Žunič,Michael Bianco",1
+"Gregor Žunič,gofenix",1
+"EndlessHoper,Jiangzhuo",1
+"Cfomodz,Gregor Žunič",1
+"GODCREATOR333,clates",1
+"Gregor Žunič,Jean Weatherwax",1
+"Marvin,magmueller",1
+"Matic Zavadlal,Lee",1
+"Magnus Müller,jersobh",1
+"Magnus Müller,XxAlonexX",1
+"Michael Bianco,Magnus Müller",1
+"Matic Zavadlal,bab",1
+"Pascal Schärli,magmueller",1
+"Michael Bianco,Nino Risteski",1
+"Pierre Gronlier,Matic Zavadlal",1
+"Ran Locar,Sergey Petrov",1
+"Riddhimaan-Senapati,magmueller",1
+"Morris Lee,paperboardofficial",1
+"Robert Kim,Gregor Žunič",1
+"Saksham Chaudhary,Gregor Žunič",1
+"Matic Zavadlal,Morris Lee",1
+"Matic Zavadlal,Nino Risteski",1
+"Matic Zavadlal,Sam Chaudry",1
+"Matic Zavadlal,WeiBing",1
+"Magnus Müller,paperboardofficial",1
+"Magnus Müller,Tomás",1
+"VATALU,Ivens Joris",1
+"Tomás,Magnus Müller",1
+"Shahar Yair,Gregor Žunič",1
+"Sergey Petrov,Ran Locar",1
+"Sean Gu,magmueller",1
+"Sean,Robert Kim",1
+"Vishal Rao,Magnus Müller",1
+"WeiBing,Gregor Žunič",1
+"jersobh,Magnus Müller",1
+"gofenix,magmueller",1
+"jhachirag7,Matic Zavadlal",1
+"katiue,Sergey Petrov",1
+"codebeaver-ai[bot],magmueller",1
+"erikmuttersbach,yoichiro abe",1
+"XxAlonexX,Gregor Žunič",1
+"bab,Matic Zavadlal",1
+"magmueller,Riddhimaan-Senapati",1
+"magmueller,Marvin",1
+"magmueller,Arun Sharma",1
+"magmueller,Berkant",1
+"magmueller,Sean Gu",1
+"magmueller,VATALU",1
+"magmueller,XxAlonexX",1
+"magmueller,Sean",1
+"magmueller,codebeaver-ai[bot]",1
+"magmueller,shyam-king",1
+"magmueller,vincent",1
+"ok-oldking,magmueller",1
+"takuto yuki,Matic Zavadlal",1
+"vincent,magmueller",1
+"vvincent1234,Ikko Eltociear Ashimine",1
+"yoichiro abe,katiue",1
+,
+Committer Timezone Distribution,Unique Timezones: 13
+Timezone,Commits
++00:00,17
++01:00,556
++02:00,15
++05:00,11
++05:30,35
++07:00,9
++08:00,48
++09:00,8
+-03:00,2
+-05:00,16
+-06:00,4
+-07:00,10
+-08:00,517
+,
+Contributors Experience,Average across 398 files: 92.37%
+File,Top Contributor Share (%)
+agents.ipynb,100.00
+promps.txt,100.00
+src/cleanup/utils.py,100.00
+src/agent_interface/agent.py,100.00
+src/agent_interface/prompts.py,100.00
+src/state_manager/html_cleaner.py,100.00
+src/tests/test_actions.py,100.00
+src/tests/test_agent.py,100.00
+src/tests/test_state_manager.py,100.00
+src/tests/test_utils.py,100.00

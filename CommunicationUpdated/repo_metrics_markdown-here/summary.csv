@@ -1,0 +1,44 @@
+Field,Value
+Commits Overview,
+Total Commits,835
+Total Unique Authors,15
+,
+Top 10 Contributors,
+Author,Commits
+Adam Pritchard,2673
+adam-p,14
+Meng Wang,8
+dugite-code,6
+Shen-Ta Hsieh,5
+engstrom,3
+Michael Stepner,3
+Michael Lynch,2
+Sherozjon,1
+Alfredo Canziani,1
+,
+Communication Events,Total: 1
+"Author1,Author2",Events
+"Meng Wang,Adam Pritchard",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++04:00,1
++08:00,4
+-03:00,36
+-04:00,592
+-05:00,193
+-07:00,7
+-08:00,2
+,
+Contributors Experience,Average across 290 files: 99.10%
+File,Top Contributor Share (%)
+.gitignore,100.00
+background.html,100.00
+github.css.js,100.00
+jquery-1.7.2.min.js,100.00
+jsHtmlToText.js,100.00
+manifest.json,100.00
+markdown-here-listener.js,100.00
+marked.js,100.00
+chrome-store/description.txt,100.00
+chrome-store/makezip.js,100.00

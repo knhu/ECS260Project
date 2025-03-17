@@ -1,0 +1,89 @@
+Field,Value
+Commits Overview,
+Total Commits,4307
+Total Unique Authors,64
+,
+Top 10 Contributors,
+Author,Commits
+Stefan Kögl,8375
+Stefan Koegl,2096
+Josh Clements,501
+Alexander Duml,376
+Thomas Perl,293
+Armin Muellner,138
+dependabot-preview[bot],121
+dependabot[bot],101
+Martin Wieser,90
+Rioting Pacifist,85
+,
+Communication Events,Total: 141
+"Author1,Author2",Events
+"Armin Muellner,Stefan Koegl",18
+"Stefan Kögl,Josh Clements",13
+"Armin Müllner,Armin Muellner",8
+"Martin Wieser,Stefan Koegl",8
+"Thomas Perl,Stefan Koegl",8
+"Stefan Koegl,Thomas Perl",7
+"Armin Muellner,Alexander Duml",6
+"Martin Wieser,Thomas Perl",6
+"Stefan Koegl,Armin Muellner",5
+"Thomas Perl,Martin Wieser",4
+"dependabot[bot],Josh Clements",4
+"Stefan Koegl,Martin Wieser",4
+"Stefan Koegl,Alexander Duml",4
+"Josh Clements,dependabot[bot]",4
+"Alexander Duml,Armin Muellner",3
+"Alexander Duml,Thomas Perl",3
+"Stefan Kögl,dependabot-preview[bot]",3
+"dependabot-preview[bot],Josh Clements",3
+"dependabot-preview[bot],Stefan Kögl",2
+"Stefan Kögl,Stefan Koegl",2
+"Alexander Duml,Stefan Koegl",2
+"dependabot[bot],Stefan Kögl",2
+"Josh Clements,dependabot-preview[bot]",2
+"Stefan Kögl,Thomas Perl",2
+"Thomas Perl,Armin Muellner",2
+"Denis,Hyde46",1
+"Armin Muellner,Thomas Perl",1
+"Alexander Duml,Martin Wieser",1
+"Stefan Koegl,Armin Müllner",1
+"Filip Kłębczyk,Stefan Kögl",1
+"Hyde46,Denis",1
+"Matt Scheirer,Ssuching Yu",1
+"RYoung,dependabot[bot]",1
+"Stefan Kögl,Samim Pezeshki",1
+"Stefan Koegl,Stefan Kögl",1
+"Thomas Perl,Alexander Duml",1
+"Stefan Kögl,dinesh",1
+"Thomas Perl,Stefan Kögl",1
+"Travis Nickles,Josh Clements",1
+"dependabot-preview[bot],dependabot[bot]",1
+"dinesh,Stefan Kögl",1
+,
+Committer Timezone Distribution,Unique Timezones: 12
+Timezone,Commits
++00:00,710
++01:00,1206
++02:00,1966
++03:00,100
++04:00,3
++05:30,1
++08:00,49
++09:00,1
+-04:00,174
+-05:00,81
+-07:00,11
+-08:00,5
+,
+Contributors Experience,Average across 1256 files: 91.93%
+File,Top Contributor Share (%)
+api/models.py,100.00
+api/tests.py,100.00
+api/views.py,100.00
+settings.py,100.00
+urls.py,100.00
+web/models.py,100.00
+web/tests.py,100.00
+web/views.py,100.00
+mygpo/api/views.py,100.00
+mygpo.fcgi,100.00

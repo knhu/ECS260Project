@@ -1,0 +1,100 @@
+Field,Value
+Commits Overview,
+Total Commits,5019
+Total Unique Authors,64
+,
+Top 10 Contributors,
+Author,Commits
+Michael Sherman,14394
+Peter Eastman,1530
+Jack Middleton,1393
+Christopher Dembia,1170
+Christopher Bruns,686
+sherm1,649
+Clay Anderson,265
+Ayman Habib,169
+Jose Luis Rivero,147
+Ajay Seth,117
+,
+Communication Events,Total: 309
+"Author1,Author2",Events
+"Peter Eastman,Michael Sherman",61
+"Michael Sherman,Peter Eastman",53
+"Christopher Dembia,Michael Sherman",23
+"Ian Stavness,Michael Sherman",23
+"Christopher Bruns,Michael Sherman",17
+"Michael Sherman,Ian Stavness",16
+"Michael Sherman,Christopher Dembia",12
+"Michael Sherman,Andreas Scholz",7
+"Jack Middleton,Michael Sherman",6
+"Andreas Scholz,Michael Sherman",6
+"Ian Stavness,Andreas Scholz",5
+"Michael Sherman,Jack Middleton",5
+"Peter Eastman,Christopher Bruns",5
+"Mark Friedrichs,Christopher Bruns",4
+"Christopher Bruns,Peter Eastman",4
+"Michael Sherman,Christopher Bruns",4
+"Jack Middleton,Eran Guendelman",3
+"Christopher Dembia,Tom Uchida",3
+"carmichaelong,Michael Sherman",3
+"Paul Mitiguy,Michael Sherman",3
+"Ajay Seth,Peter Eastman",3
+"Kevin He,Michael Sherman",3
+"Randy Radmer,Christopher Bruns",2
+"Michael Sherman,tbeu",2
+"xantares,Michael Sherman",2
+"John Hsu,Michael Sherman",2
+"Mark Friedrichs,Michael Sherman",2
+"Michael Sherman,Mark Friedrichs",2
+"Thomas Lau,Michael Sherman",2
+"Jack Middleton,Christopher Bruns",2
+"Christopher Dembia,Guillaume Jacquenot",2
+"Andreas Scholz,Ian Stavness",1
+"Christopher Dembia,carmichaelong",1
+"Christopher Dembia,Silvio Traversaro",1
+"Christopher Dembia,Jose Luis Rivero",1
+"Ayman Habib,Kevin Xu",1
+"Ayman Habib,Sherm",1
+"Jack Wang,sherm1",1
+"Elena Ceseracciu,Christopher Dembia",1
+"Guillaume Jacquenot,Christopher Dembia",1
+"Michael Sherman,Tim Dorn",1
+"Jose Luis Rivero,Steven Peters",1
+"Michael Sherman,Shrinidhi KL",1
+"Michael Sherman,Paul Mitiguy",1
+"Michael Sherman,Kevin He",1
+"Peter Eastman,Jack Middleton",1
+"Michael Sherman,Tom Uchida",1
+"Michael Sherman,sherm1",1
+"Michael Sherman,xantares",1
+"Sherm,Ayman Habib",1
+"Peter Eastman,Paul Mitiguy",1
+"Tom Uchida,Christopher Dembia",1
+"tbeu,Michael Sherman",1
+,
+Committer Timezone Distribution,Unique Timezones: 11
+Timezone,Commits
++00:00,3167
++01:00,107
++02:00,71
++03:00,2
++08:00,2
++10:00,8
+-04:00,6
+-05:00,72
+-06:00,73
+-07:00,946
+-08:00,565
+,
+Contributors Experience,Average across 4066 files: 92.64%
+File,Top Contributor Share (%)
+CDSlib/CMakeLists.txt,100.00
+CDSlib/arch.h,100.00
+CDSlib/brent.h,100.00
+CDSlib/cdsAlloc.cpp,100.00
+CDSlib/cdsAlloc.h,100.00
+CDSlib/cdsAuto_arr.h,100.00
+CDSlib/cdsAuto_ptr.cpp,100.00
+CDSlib/cdsAuto_ptr.h,100.00
+CDSlib/cdsComplex.h,100.00
+CDSlib/cdsExcept.cpp,100.00

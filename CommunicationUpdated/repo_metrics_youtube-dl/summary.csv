@@ -1,0 +1,1128 @@
+Field,Value
+Commits Overview,
+Total Commits,18898
+Total Unique Authors,1005
+,
+Top 10 Contributors,
+Author,Commits
+Sergey M․,8880
+Philipp Hagemeister,5006
+Yen Chi Hsuan,1996
+Jaime Marquínez Ferrándiz,1985
+Remita Amine,1743
+remitamine,733
+dirkf,503
+Filippo Valsorda,404
+Ricardo Garcia,343
+Jouke Waleson,282
+,
+Communication Events,Total: 2540
+"Author1,Author2",Events
+"Philipp Hagemeister,Jaime Marquínez Ferrándiz",132
+"Jaime Marquínez Ferrándiz,Philipp Hagemeister",120
+"Yen Chi Hsuan,Sergey M․",100
+"Sergey M․,Yen Chi Hsuan",86
+"Sergey M․,Jaime Marquínez Ferrándiz",60
+"Remita Amine,Sergey M․",59
+"remitamine,Sergey M․",51
+"Sergey M․,Remita Amine",50
+"Sergey M․,Philipp Hagemeister",46
+"Filippo Valsorda,Philipp Hagemeister",43
+"Philipp Hagemeister,Sergey M․",39
+"Jaime Marquínez Ferrándiz,Sergey M․",25
+"Philipp Hagemeister,Filippo Valsorda",22
+"Jouke Waleson,Philipp Hagemeister",21
+"Sergey M․,remitamine",20
+"Yen Chi Hsuan,Remita Amine",13
+"peugeot,Sergey M․",12
+"TRox1972,Sergey M․",10
+"Naglis Jonaitis,Sergey M․",10
+"ping,Sergey M․",10
+"Yen Chi Hsuan,remitamine",10
+"M.Yasoob Khalid,Jaime Marquínez Ferrándiz",10
+"Jaime Marquínez Ferrándiz,Filippo Valsorda",10
+"felix,Sergey M․",9
+"Déstin Reed,Sergey M․",9
+"John Hawkinson,Sergey M․",9
+"Jaime Marquínez Ferrándiz,Yen Chi Hsuan",8
+"Yen Chi Hsuan,Jaime Marquínez Ferrándiz",8
+"gcmalloc,Filippo Valsorda",8
+"Filippo Valsorda,Jaime Marquínez Ferrándiz",8
+"Alex Seiler,Sergey M․",8
+"remitamine,Jaime Marquínez Ferrándiz",8
+"M.Yasoob Khalid,Philipp Hagemeister",8
+"Naglis Jonaitis,Philipp Hagemeister",8
+"Lukáš Lalinský,Sergey M․",7
+"ping,Yen Chi Hsuan",7
+"Philipp Hagemeister,Jouke Waleson",7
+"rzhxeo,Jaime Marquínez Ferrándiz",7
+"Philipp Hagemeister,rzhxeo",7
+"dst,Philipp Hagemeister",7
+"Remita Amine,Yen Chi Hsuan",7
+"Timendum,Sergey M․",7
+"Sergey M․,Naglis Jonaitis",6
+"Sergey M.,Philipp Hagemeister",6
+"Jaime Marquínez Ferrándiz,Ismael Mejia",6
+"Philipp Hagemeister,Ismael Mejia",5
+"Pierre Rudloff,Jaime Marquínez Ferrándiz",5
+"Philipp Hagemeister,M.Yasoob Khalid",5
+"Jeff Buchbinder,Sergey M․",5
+"Ricardo Constantino,Sergey M․",5
+"Kacper Michajłow,Sergey M․",5
+"Johny Mo Swag,Philipp Hagemeister",5
+"Philipp Hagemeister,gcmalloc",5
+"fnord,Sergey M․",5
+"remitamine,Yen Chi Hsuan",5
+"Jaime Marquínez Ferrándiz,remitamine",5
+"Philipp Hagemeister,Sergey M.",5
+"ealgase,Sergey M․",5
+"JChris246,Sergey M․",5
+"Jaime Marquínez Ferrándiz,Pierre Rudloff",5
+"mrBliss,Sergey M․",5
+"Naglis Jonaitis,Jaime Marquínez Ferrándiz",5
+"Sergey M․,Sergey M?",4
+"Adrian Heine né Lang,Remita Amine",4
+"Sergey M․,ping",4
+"pulpe,Sergey M․",4
+"nixxo,Remita Amine",4
+"renalid,Sergey M․",4
+"Andrew ""Akari"" Alexeyew,Sergey M․",4
+"robin,Sergey M․",4
+"Anna Bernardi,Jaime Marquínez Ferrándiz",4
+"singh-pratyush96,Sergey M․",4
+"Hannu Lintala,Sergey M․",4
+"dinesh,Sergey M․",4
+"Filippo Valsorda,gcmalloc",4
+"Rogério Brito,Philipp Hagemeister",4
+"Sergey M․,Sergey M",4
+"Patrick Griffis,Sergey M․",4
+"j,Sergey M․",4
+"Parmjit Virk,Sergey M․",4
+"Philipp Hagemeister,Jeff Crouse",4
+"fiocfun,Philipp Hagemeister",4
+"Jaime Marquínez Ferrándiz,M.Yasoob Khalid",4
+"hojel,Philipp Hagemeister",4
+"Sergey M,Sergey M.",4
+"patrickslin,Jaime Marquínez Ferrándiz",4
+"Jaime Marquínez Ferrándiz,dst",4
+"Andrew Udvare,Sergey M․",4
+"Leslie P. Polzer,Sergey M․",3
+"Jeff Crouse,Philipp Hagemeister",3
+"pukkandan,dirkf",3
+"Andrei Troie,Philipp Hagemeister",3
+"M.Yasoob Ullah Khalid,Philipp Hagemeister",3
+"nyuszika7h,Sergey M․",3
+"remitamine,j",3
+"pulpe,Jaime Marquínez Ferrándiz",3
+"peugeot,Philipp Hagemeister",3
+"phiresky,Jaime Marquínez Ferrándiz",3
+"Mattias Wadman,Sergey M․",3
+"Mike Col,Philipp Hagemeister",3
+"Nehal Patel,Sergey M․",3
+"Ismael Mejia,Jaime Marquínez Ferrándiz",3
+"einstein95,Sergey M․",3
+"felix,Philipp Hagemeister",3
+"Jaime Marquínez Ferrándiz,Sergey M.",3
+"gfabiano,Sergey M․",3
+"j,remitamine",3
+"mcd1992,Philipp Hagemeister",3
+"Petr Novak,Sergey M․",3
+"Philipp Hagemeister,fiocfun",3
+"dst,Jaime Marquínez Ferrándiz",3
+"biwubo,Sergey M․",3
+"Yen Chi Hsuan,Philipp Hagemeister",3
+"Frans de Jonge,Sergey M․",3
+"Philipp Hagemeister,dst",3
+"George Brighton,Sergey M․",3
+"Purdea Andrei,Sergey M․",3
+"Filippo Valsorda,Joel Verhagen",3
+"Sander van den Oever,Sergey M․",3
+"Yen Chi Hsuan,ping",3
+"Enes,Sergey M․",3
+"Sergey M.,Jaime Marquínez Ferrándiz",3
+"Déstin Reed,Remita Amine",3
+"Thomas Christlieb,Sergey M․",3
+"Thomas Jost,Sergey M․",3
+"Juanjo Benages,Sergey M․",3
+"vijayanand nandam,Sergey M․",3
+"Albert Kim,Philipp Hagemeister",3
+"sichuan-pepper,Sergey M․",3
+"Aleksandar Topuzovic,Sergey M․",3
+"Alexander Seiler,Sergey M․",3
+"stepshal,Yen Chi Hsuan",3
+"t0mm0,Sergey M․",3
+"xavier,Philipp Hagemeister",2
+"sprhawk,Remita Amine",2
+"snipem,Sergey M․",2
+"Aleksander Nitecki,Sergey M․",2
+"sh!zeeg,Sergey M․",2
+"sahutd,Philipp Hagemeister",2
+"rzhxeo,Philipp Hagemeister",2
+"Kagami Hiiragi,Yen Chi Hsuan",2
+"Kagami Hiiragi,Sergey M․",2
+"John Hawkinson,Yen Chi Hsuan",2
+"Juan C. Olivares,Philipp Hagemeister",2
+"Joshua Lochner,Remita Amine",2
+"Johny Mo Swag,Jaime Marquínez Ferrándiz",2
+"winwon,Philipp Hagemeister",2
+"venth,Sergey M․",2
+"troywith77,Sergey M․",2
+"tpikonen,Remita Amine",2
+"Sergey M․,felix",2
+"Entropy,Sergey M․",2
+"Sergey M․,Ricardo Constantino",2
+"Sergey M․,Kacper Michajłow",2
+"Sergey M?,Sergey M․",2
+"Sergey M.,pulpe",2
+"Tatsh,Remita Amine",2
+"Takuya Tsuchida,Philipp Hagemeister",2
+"TRox1972,Yen Chi Hsuan",2
+"Devin J. Pohly,Sergey M․",2
+"Stefan Pöschel,Sergey M․",2
+"Stanislav Kupryakhin,Philipp Hagemeister",2
+"Shaya G,Sergey M․",2
+"Shaun Walbridge,Sergey M․",2
+"Sergey M․,rrooij",2
+"Sergey M․,pulpe",2
+"Sergey M․,hassaanaliw",2
+"Sergey M.,Sergey M",2
+"Sergey M,Sergey M․",2
+"Sergey M,Philipp Hagemeister",2
+"Filippo Valsorda,Mark Oteiza",2
+"Filippo Valsorda,M.Yasoob Khalid",2
+"Filippo Valsorda,Anna Bernardi",2
+"Fabian Stahl,Sergey M․",2
+"Sergey,Sergey M․",2
+"Sebastian Leske,Sergey M․",2
+"Sainyam Kapoor,Sergey M․",2
+"Yen Chi Hsuan,rrooij",2
+"Dankryn,Sergey M․",2
+"Vukkk,Remita Amine",2
+"Tom Gijselinck,Sergey M․",2
+"Tobias Gruetzmacher,Sergey M․",2
+"Tithen-Firion,Sergey M․",2
+"Tithen-Firion,Jaime Marquínez Ferrándiz",2
+"Thor77,Sergey M․",2
+"Thomas van der Berg,Sergey M․",2
+"Rob van Bekkum,Sergey M․",2
+"Ricardo Garcia,obeythepenguin@gmail.com",2
+"Ricardo Garcia,Idan Kamara",2
+"Filippo Valsorda - Campagna,Filippo Valsorda",2
+"Ricardo Garcia,Gergely Imreh",2
+"RPing,Sergey M․",2
+"Qijiang Fan,Sergey M․",2
+"Pierre Mdawar,Sergey M․",2
+"Philipp Hagemeister,pulpe",2
+"InfernalUnderling,Sergey M․",2
+"Idan Kamara,Ricardo Garcia",2
+"Gergely Imreh,Ricardo Garcia",2
+"Philipp Hagemeister,mcd1992",2
+"Philipp Hagemeister,mc2avr",2
+"Philipp Hagemeister,Yen Chi Hsuan",2
+"dirkf,Simon Sawicki",2
+"df,dirkf",2
+"dannycolligan,Ricardo Garcia",2
+"Costy Petrisor,Sergey M․",2
+"cryptonaut,Philipp Hagemeister",2
+"codelol,Philipp Hagemeister",2
+"ckuu,Sergey M․",2
+"bopol,Sergey M․",2
+"blissland,Sergey M․",2
+"anovicecodemonkey,Sergey M․",2
+"Zack Fernandes,Sergey M․",2
+"Zack Fernandes,Philipp Hagemeister",2
+"Zach Bruggeman,Sergey M․",2
+"Philipp Hagemeister,Sergey M",2
+"Philipp Hagemeister,Naglis Jonaitis",2
+"Philipp Hagemeister,Mark Schreiber",2
+"Philipp Hagemeister,Johny Mo Swag",2
+"Jai Grimshaw,Philipp Hagemeister",2
+"Itay Brandes,Philipp Hagemeister",2
+"Ismael Mejia,Philipp Hagemeister",2
+"Ismael Mejia,Filippo Valsorda",2
+"Philipp Hagemeister,Itay Brandes",2
+"Brian Marks,Remita Amine",2
+"Brian Foley,Yen Chi Hsuan",2
+"Boris Wachtmeister,Sergey M․",2
+"BlahGeek,Sergey M․",2
+"Benjamin Congdon,Sergey M․",2
+"Ben Rog-Wilhelm,Sergey M․",2
+"epitron,Philipp Hagemeister",2
+"epitron,Jaime Marquínez Ferrándiz",2
+"Philipp Hagemeister,Carlos Ramos",2
+"Philipp Hagemeister,Andreas Schmitz",2
+"Jaime Marquínez Ferrándiz,Johny Mo Swag",2
+"Jaime Marquínez Ferrándiz,Jeff Smith",2
+"Jaime Marquínez Ferrándiz,Craig Markwardt",2
+"Jaime Marquínez Ferrándiz,Allan Zhou",2
+"Philip Xu,Sergey M․",2
+"Petr Zvoníček,Sergey M․",2
+"Paul Hartmann,Sergey M․",2
+"PSJay,Sergey M․",2
+"mutantmonkey,Sergey M․",2
+"Bagira,Sergey M․",2
+"Awal Garg,Sergey M․",2
+"Austin de Coup-Crank,Sergey M․",2
+"Ashutosh Chaudhary,Sergey M․",2
+"Arjan Verwer,Sergey M․",2
+"Anton Larionov,Philipp Hagemeister",2
+"midas02,Sergey M․",2
+"kaspi,Sergey M․",2
+"ispedals,Jaime Marquínez Ferrándiz",2
+"Osama Khalid,Philipp Hagemeister",2
+"Ondřej Caletka,Sergey M․",2
+"Jaime Marquínez Ferrándiz,Naglis Jonaitis",2
+"Nicolas Évrard,Sergey M․",2
+"Nick Daniels,Filippo Valsorda",2
+"NeroBurner,Sergey M․",2
+"Mohamedh Fazal,Philipp Hagemeister",2
+"MikeCol,Philipp Hagemeister",2
+"Mike Fährmann,Sergey M․",2
+"Michal Čihař,Sergey M․",2
+"Jaime Marquínez Ferrándiz,pulpe",2
+"Jaime Marquínez Ferrándiz,patrickslin",2
+"Mattias Harrysson,Philipp Hagemeister",2
+"Matthew Rayermann,Remita Amine",2
+"Mats,Philipp Hagemeister",2
+"Martin Trigaux,Sergey M․",2
+"Mark Schreiber,Philipp Hagemeister",2
+"Marek Rusinowski,Sergey M․",2
+"ping,Remita Amine",2
+"phaer,Sergey M․",2
+"AndroKev,Sergey M․",2
+"obeythepenguin@gmail.com,Ricardo Garcia",2
+"ngld,Sergey M․",2
+"net,Sergey M․",2
+"rrooij,Sergey M․",2
+"Andreas Schmitz,Philipp Hagemeister",2
+"Allan Zhou,Jaime Marquínez Ferrándiz",2
+"reiv,Sergey M․",2
+"pingtux,Sergey M․",2
+"Mamay Alexander,Sergey M․",2
+"M.Yasoob Ullah Khalid ☺,Philipp Hagemeister",2
+"M.Yasoob Khalid,Filippo Valsorda",2
+"Lucas,Sergey M․",2
+"Luca Cherubin,Sergey M․",2
+"Jeff Crouse,Dave Vasilevsky",2
+"Jakub Wilk,remitamine",2
+"Jakub Wilk,Sergey M․",2
+"Ken Swenson,Sergey M․",2
+"thc202,Sergey M․",2
+"Adrian Kretz,Philipp Hagemeister",2
+"zurfyx,Sergey M․",2
+"zx8,Sergey M․",1
+"3risian,Sergey M․",1
+"4rensiker,Sergey M․",1
+"5moufl,Philipp Hagemeister",1
+"5moufl,Sergey M․",1
+"5moufl,naglis",1
+"snipem,Mohammad Teimori Pabandi",1
+"slocum,Sergey M․",1
+"slangangular,Zach Bruggeman",1
+"slangangular,Jaime Marquínez Ferrándiz",1
+"Alexey Trofimov,Sergey M․",1
+"Alexander Seiler,Remita Amine",1
+"Alexander Kirk,Naglis Jonaitis",1
+"Alex Van't Hof,Jaime Marquínez Ferrándiz",1
+"Alex Monk,Sergey M․",1
+"Alex Merkel,Sergey M․",1
+"Alessandro Ghedini,Philipp Hagemeister",1
+"Ales Jirasek,Sergey M․",1
+"Aldo Gunsing,Sergey M․",1
+"Aidan Rowe,Sergey M․",1
+"Adrian Kretz,Sergey M․",1
+"skacurt,Sergey M․",1
+"Joakim Fremstad,Sergey M․",1
+"Jia Rong Yee,Remita Amine",1
+"Jens Wille,Sergey M․",1
+"Jens Rutschmann,Sergey M․",1
+"Juanjo Benages,Déstin Reed",1
+"Juan M,Filippo Valsorda",1
+"Jouke Waleson,Jaime Marquínez Ferrándiz",1
+"Jouke Waleson,Dao Hoang Son",1
+"Josh Soref,Sergey M․",1
+"Josh Soref,Remita Amine",1
+"Joram Schrijver,Yen Chi Hsuan",1
+"Joram Schrijver,Sergey M․",1
+"Joost Verdoorn,Remita Amine",1
+"Johny Mo Swag,tewe",1
+"xantares,yac",1
+"wankerer,Sergey M․",1
+"Khang Nguyen,Remita Amine",1
+"Kfir Breger,Sergey M․",1
+"Kevin Deldycke,Sergey M․",1
+"Keith Beckman,Sergey M․",1
+"Kegan,Dominik Heidler",1
+"Kazuma Takahara,Sergey M․",1
+"Johny Mo Swag,Filippo Valsorda",1
+"Johny Mo Swag,Albert Kim",1
+"John Hawkinson,Random User",1
+"John Hawkinson,Marvin Ewald",1
+"John D,Sergey M․",1
+"John Boehr,Philipp Hagemeister",1
+"John Assael,Sergey M․",1
+"Johannes N,Sergey M․",1
+"Johannes Knoedtel,Sergey M․",1
+"Johan K. Jensen,Philipp Hagemeister",1
+"Jelle van der Waa,Philipp Hagemeister",1
+"Jeff Crouse,atomizer",1
+"Jeff Crouse,Filippo Valsorda",1
+"Jason Terk,Philipp Hagemeister",1
+"Jan Kundrát,Sergey M․",1
+"Jan Friesse,Remita Amine",1
+"Jan 'Yenda' Trmal,Sergey M․",1
+"Jakub Wilk,Khang Nguyen",1
+"Jakub Adam Wieczorek,Yen Chi Hsuan",1
+"Jakub Adam Wieczorek,TRox1972",1
+"Jakub Adam Wieczorek,Sergey M․",1
+"Leslie P. Polzer,Naglis Jonaitis",1
+"Leonardo Taccari,Sergey M․",1
+"Leonardo Taccari,Remita Amine",1
+"Leon Etienne,Ruowang Sun",1
+"Kyle,Sergey M․",1
+"Mark Oteiza,Philipp Hagemeister",1
+"Marian Sigler,Sergey M․",1
+"Marco Ferragina,Yen Chi Hsuan",1
+"Marco Ferragina,Sergey M․",1
+"Marcin Cieślak,Jaime Marquínez Ferrándiz",1
+"Magnus Kolstad,Sergey M․",1
+"Magnus Kolstad,Lovius",1
+"MAA,FooBarQuaxx",1
+"M.Yasoob Ullah Khalid,Jaime Marquínez Ferrándiz",1
+"Lucas,Jaime Marquínez Ferrándiz",1
+"Luca Steeb,Sergey M․",1
+"Lovius,Naglis Jonaitis",1
+"Liu DongMiao,Jaime Marquínez Ferrándiz",1
+"Lionel Elie Mamane,Gergely Imreh",1
+"Li4ick,Philipp Hagemeister",1
+"Lesmiscore (Naoya Ozaki),dirkf",1
+"Michael Kaiser,Sergey M.",1
+"Michael Haggerty,Philipp Hagemeister",1
+"Matěj Cepl,Yen Chi Hsuan",1
+"Matěj Cepl,Xie Yanbo",1
+"Mattias Wadman,Tobias Kunze",1
+"Mattias Wadman,Remita Amine",1
+"Matthieu Muffato,Sergey M․",1
+"Matthew Rayfield,Sergey M․",1
+"Matthew Rayfield,Philipp Hagemeister",1
+"Matt Crupi,Sergey M․",1
+"Mats,Sergey M․",1
+"Mathias Rav,Sergey M․",1
+"Mathias Rav,Naglis Jonaitis",1
+"Marvin Ewald,Sergey M․",1
+"Martin Weinelt,Sergey M․",1
+"Markus Müller,Philipp Hagemeister",1
+"MikeCol,dst",1
+"MikeCol,Jaime Marquínez Ferrándiz",1
+"Mike Col,MikeCol",1
+"Michael Tilbury,Sergey M․",1
+"Jakub Adam Wieczorek,Remita Amine",1
+"Jaime Marquínez Ferrándiz,xavier",1
+"Jaime Marquínez Ferrándiz,xantares",1
+"Jaime Marquínez Ferrándiz,sahutd",1
+"Jaime Marquínez Ferrándiz,rzhxeo",1
+"Jaime Marquínez Ferrándiz,ping",1
+"Jaime Marquínez Ferrándiz,julien",1
+"Jaime Marquínez Ferrándiz,jakeogh",1
+"Jaime Marquínez Ferrándiz,flatgreen",1
+"Jaime Marquínez Ferrándiz,fiocfun",1
+"Jaime Marquínez Ferrándiz,codesparkle",1
+"Jaime Marquínez Ferrándiz,codelol",1
+"Nicolas Kaiser,Philipp Hagemeister",1
+"Nevar Angelo,jamiejones",1
+"Nevar Angelo,Ricardo Garcia",1
+"Nathan Rossi,Sergey M․",1
+"Namnamseo,Sergey M․",1
+"Naglis Jonaitis,t0mm0",1
+"Naglis Jonaitis,felix",1
+"Naglis Jonaitis,Sebastian Haas",1
+"Naglis Jonaitis,Leslie P. Polzer",1
+"Naglis Jonaitis,HanYOLO",1
+"Naglis Jonaitis,Anton Larionov",1
+"Muratcan Simsek,Sergey M?",1
+"Mohammad Teimori Pabandi,Sergey M․",1
+"Mohammad Teimori Pabandi,Naglis Jonaitis",1
+"Mister Hat,Alexander Kirk",1
+"MikeCol,pachacamac",1
+"Ondřej Bárta,Sergey M․",1
+"Olivier Bilodeau,Sergey M․",1
+"Olivier Bilodeau,Juanjo Benages",1
+"Oli Allen,Sergey M․",1
+"Oleg Prutz,dst",1
+"Ole Ernst,Jaime Marquínez Ferrándiz",1
+"Odd Stråbø,Sergey M․",1
+"Jaime Marquínez Ferrándiz,Tim Douglas",1
+"Jaime Marquínez Ferrándiz,Thomas Jost",1
+"Jaime Marquínez Ferrándiz,Stanislav Kupryakhin",1
+"Jaime Marquínez Ferrándiz,Sergey M?",1
+"Jaime Marquínez Ferrándiz,Roman Le Négrate",1
+"Jaime Marquínez Ferrándiz,Remita Amine",1
+"Jaime Marquínez Ferrándiz,Pierre",1
+"Jaime Marquínez Ferrándiz,Philip Huppert",1
+"Jaime Marquínez Ferrándiz,M.Yasoob Ullah Khalid",1
+"Peter Pitzulo,Sergey M․",1
+"Pete Hemery,Sergey M․",1
+"Paul Ivanov,Ricardo Garcia",1
+"Paul Henning,Sergey M․",1
+"Paul Hartmann,Yen Chi Hsuan",1
+"Paul Hartmann,Philipp Hagemeister",1
+"Patrick Dessalle,Sergey M․",1
+"Patrice Levesque,Sergey M․",1
+"Parmjit Virk,Alex Seiler",1
+"PC,Sergey M․",1
+"Oskar Jauch,Sergey M․",1
+"Oskar Jauch,Philipp Hagemeister",1
+"Oskar Jauch,Naglis Jonaitis",1
+"Orn,Sergey M․",1
+"Ori Avtalion,Sergey M․",1
+"Ori Avtalion,Philipp Hagemeister",1
+"Philipp Hagemeister,Anand Babu Periasamy",1
+"Philipp Hagemeister,Allan Zhou",1
+"Philipp Hagemeister,Adrian Kretz",1
+"Philipp Hagemeister,5moufl",1
+"Philip Xu,Yen Chi Hsuan",1
+"Philip Huppert,Yen Chi Hsuan",1
+"Philip Huppert,Sergey M․",1
+"Phil Kulak,Sergey M․",1
+"Petr Zvoníček,Sukhbir Singh",1
+"Petr Novák,Sergey M․",1
+"Petr Kutalek,Sergey M․",1
+"Petr Kutalek,Philipp Hagemeister",1
+"PeterDing,Sergey M․",1
+"PeterDing,Naglis Jonaitis",1
+"Peter Rowlands,remitamine",1
+"Peter Rowlands,Yen Chi Hsuan",1
+"Philipp Hagemeister,Déstin Reed",1
+"Philipp Hagemeister,David-Development",1
+"Philipp Hagemeister,Christopher Neugebauer",1
+"Philipp Hagemeister,Christopher Krooss",1
+"Philipp Hagemeister,Anton Larionov",1
+"Philipp Hagemeister,Andrei Troie",1
+"Jaime Marquínez Ferrándiz,Leslie P. Polzer",1
+"Jaime Marquínez Ferrándiz,Juan M",1
+"Jaime Marquínez Ferrándiz,Janez Troha",1
+"Jaime Marquínez Ferrándiz,Finn Petersen",1
+"Jaime Marquínez Ferrándiz,David-Development",1
+"Jaime Marquínez Ferrándiz,David Wagner",1
+"Jaime Marquínez Ferrándiz,Aurélio A. Heckert",1
+"Jaime Marquínez Ferrándiz,Anton Larionov",1
+"Jaime Marquínez Ferrándiz,Anna Bernardi",1
+"Jaime Marquínez Ferrándiz,Anisse Astier",1
+"Philipp Hagemeister,Laurent Raufaste",1
+"Philipp Hagemeister,Kegan",1
+"Philipp Hagemeister,John Boehr",1
+"Jaime Marquínez Ferrándiz,Alexander van Gessel",1
+"Jaime Marquínez Ferrándiz,Adam Mesha",1
+"Jaime Marquínez Ferrándiz,Adam Glenn",1
+"Jacob Kaplan-Moss,Jaime Marquínez Ferrándiz",1
+"JChris246,TheRealDude2",1
+"J,Sergey M․",1
+"J,Philipp Hagemeister",1
+"Ivan Kozik,Philipp Hagemeister",1
+"Ismaël Mejía,Jaime Marquínez Ferrándiz",1
+"Ismael Mejia,patrickslin",1
+"Philipp Hagemeister,Ismaël Mejía",1
+"Philipp Hagemeister,Grom PE",1
+"Philipp Hagemeister,Francois du Toit",1
+"Philipp Hagemeister,Ryan Schmidt",1
+"Philipp Hagemeister,Ricardo Garcia",1
+"Philipp Hagemeister,Remita Amine",1
+"Philipp Hagemeister,Pierre Rudloff",1
+"Philipp Hagemeister,Petr Kutalek",1
+"Philipp Hagemeister,Patrick Griffis",1
+"Philipp Hagemeister,Ori Avtalion",1
+"Philipp Hagemeister,Ole Ernst",1
+"Philipp Hagemeister,Nick Daniels",1
+"Philipp Hagemeister,MikeCol",1
+"Philipp Hagemeister,Mike Col",1
+"Philipp Hagemeister,Michael Käufl",1
+"Philipp Hagemeister,Michael Haggerty",1
+"Philipp Hagemeister,Mark Lee",1
+"Philipp Hagemeister,Marco Ferragina",1
+"Philipp Hagemeister,Liu DongMiao",1
+"Gaurav,Sergey M․",1
+"Philipp Hagemeister,nto",1
+"Philipp Hagemeister,niebles",1
+"Philipp Hagemeister,marcwebbie",1
+"Philipp Hagemeister,julien",1
+"Philipp Hagemeister,jakeogh",1
+"Philipp Hagemeister,felix",1
+"Philipp Hagemeister,epitron",1
+"Philipp Hagemeister,cryptonaut",1
+"Philipp Hagemeister,anovicecodemonkey",1
+"Philipp Hagemeister,alimirjamali",1
+"Philipp Hagemeister,Your Name",1
+"Philipp Hagemeister,Tithen-Firion",1
+"Philipp Hagemeister,Takuya Tsuchida",1
+"Philipp Hagemeister,Tailszefox",1
+"Philipp Hagemeister,Stanislav Kupryakhin",1
+"Philipp Stehle,Sergey M․",1
+"Philipp Hagemeister,xavier",1
+"Philipp Hagemeister,testbonn",1
+"Philipp Hagemeister,rupertbaxter2",1
+"Philipp Hagemeister,robbie",1
+"Philipp Hagemeister,nulloz",1
+"Irfan Charania,Sergey M․",1
+"Hormoz K,Sergey M․",1
+"Hongjie Dong,Sergey M․",1
+"Hendrik v. Raven,Sergey M․",1
+"Haricharan Padmanaban,Philipp Hagemeister",1
+"Haricharan Padmanaban,Naglis Jonaitis",1
+"HanYOLO,Sergey M․",1
+"Grzegorz P,Sergey M․",1
+"Gjorgji Jankovski,Philipp Hagemeister",1
+"Giedrius Statkevičius,Sergey M․",1
+"Remita Amine,Jakub Adam Wieczorek",1
+"Remita Amine,J",1
+"Remita Amine,Déstin Reed",1
+"Remita Amine,Andrey Smirnoff",1
+"Remita Amine,Alex Seiler",1
+"Reino17,Sergey M․",1
+"Rasmus Rendal,Sergey M․",1
+"Ralf Haring,Tobias Bell",1
+"Quan Hua,Sergey M․",1
+"Puck Meerburg,Sergey M․",1
+"Protuhj,Sergey M․",1
+"Pornophage,Jaime Marquínez Ferrándiz",1
+"PishPosh.McGee,pishposhmcgee",1
+"Pierre Rudloff,Ruirize",1
+"Pierre Fenoll,Sergey M․",1
+"Phạm Ngọc Quang Nam,Sergey M․",1
+"Filippo Valsorda,rzhxeo",1
+"Ricardo Garcia,Archanamiya",1
+"RiCON,remitamine",1
+"Remita Amine,ping",1
+"Remita Amine,mrBliss",1
+"Remita Amine,geditorit",1
+"Remita Amine,felix",1
+"Remita Amine,Yurii H",1
+"Remita Amine,Timendum",1
+"Remita Amine,Tatsh",1
+"Remita Amine,Stephen Stair",1
+"Remita Amine,Roman Sebastian Karwacik",1
+"Remita Amine,Mattias Wadman",1
+"Remita Amine,LangerJan",1
+"Remita Amine,John Hawkinson",1
+"Remita Amine,Jia Rong Yee",1
+"Ricardo Garcia,dannycolligan",1
+"Ricardo Garcia,dannyc@omega",1
+"Ricardo Garcia,Witold Baryluk",1
+"Ricardo Garcia,Rogério Brito",1
+"Ricardo Garcia,Paul Ivanov",1
+"GDR!,Sergey M․",1
+"Frederic Bournival,slocum",1
+"Frederic Bournival,Sergey M․",1
+"François Revol,Sergey M․",1
+"François Charlier,Sergey M․",1
+"FraFraFra-LongD,dirkf",1
+"Founder Fang,remitamine",1
+"FooBarQuaxx,Yen Chi Hsuan",1
+"FireDart,Yen Chi Hsuan",1
+"FireDart,Sergey M․",1
+"Finn Petersen,Philipp Hagemeister",1
+"Santiago Calcagno,Sergey M․",1
+"Sander,Sergey M․",1
+"Saimadhav Heblikar,sahutd",1
+"Sahebjot singh,Philipp Hagemeister",1
+"Ryan Schmidt,Sergey M․",1
+"Ryan Schmidt,Sergey M",1
+"Ruowang Sun,Epsilonator",1
+"Ruirize,Philipp Hagemeister",1
+"Roman Le Négrate,tiktok",1
+"Roman Le Négrate,Jaime Marquínez Ferrándiz",1
+"Roman Beránek,Sergey M․",1
+"Rogério Brito,Ricardo Garcia",1
+"Robin Neatherway,Sergey M․",1
+"Robin Houtevelts,Sergey M․",1
+"Robert Smith,Sergey M․",1
+"Richard Clamp,Philipp Hagemeister",1
+"Sergey M.,Alex Vong",1
+"Sergey M.,AGSPhoenix",1
+"Sergey M,Tobias Salzmann",1
+"Filippo Valsorda,Ole Ernst",1
+"Filippo Valsorda,Jeff Crouse",1
+"Filippo Valsorda,Cyril Roelandt",1
+"Filippo Valsorda,Andras Elso",1
+"Filip B,Philipp Hagemeister",1
+"Erwin de Haan,Sergey M․",1
+"Erik Johnson,SyxbEaEQ2",1
+"Erik,Sergey M․",1
+"Eric Wong,Sergey M․",1
+"Epsilonator,dirkf",1
+"Sebastian Haas,Sergey M․",1
+"Sebastian Blunt,Sergey M․",1
+"Scott Leggett,Sergey M․",1
+"Sergey M․,Chih-Hsuan Yen",1
+"Sergey M․,Boris Wachtmeister",1
+"Sergey M․,Ben Rog-Wilhelm",1
+"Sergey M․,Andrzej Lichnerowicz",1
+"Sergey M․,Andrew Bottom",1
+"Sergey M․,Andrew ""Akari"" Alexeyew",1
+"Sergey M․,Alpesh Valia",1
+"Sergey M․,Alexander Seiler",1
+"Sergey M․,Alex Seiler",1
+"Sergey M․,Alessandro Ghedini",1
+"Sergey M․,Ales Jirasek",1
+"Sergey M․,Aleksander Nitecki",1
+"Sergey M․,Adrian Kretz",1
+"Sergey M․,Aaron Zeng",1
+"Sergey M?,Jaime Marquínez Ferrándiz",1
+"Sergey M.,Niklas Laxström",1
+"Sergey M․,Jakub Wilk",1
+"Sergey M․,Ivan Kozik",1
+"Sergey M․,Grzegorz Ruciński",1
+"Sergey M․,George Brighton",1
+"Sergey M․,Frederic Bournival",1
+"Sergey M․,Filippo Valsorda",1
+"Sergey M․,Entropy",1
+"Sergey M․,Duncan Keall",1
+"Sergey M․,Duncan",1
+"Sergey M․,Dracony",1
+"Sergey M․,Devin J. Pohly",1
+"Sergey M․,David Fabijan",1
+"Sergey M․,Daniel Peukert",1
+"Sergey M․,Cássio Ávila",1
+"Sergey M․,Costy Petrisor",1
+"Sergey M․,Cory Hall",1
+"Duncan,Sergey M․",1
+"Dracony,venth",1
+"Sergey M․,Purdea Andrei",1
+"Sergey M․,PrinceOfPuppers",1
+"Sergey M․,Petr Zvoníček",1
+"Sergey M․,Oskar Cieslik",1
+"Sergey M․,Ondřej Caletka",1
+"Sergey M․,MikeCol",1
+"Sergey M․,Martin Trigaux",1
+"Sergey M․,Lukáš Lalinský",1
+"Sergey M․,Kagami Hiiragi",1
+"Sergey M․,Juan C. Olivares",1
+"Sergey M․,Jouke Waleson",1
+"Sergey M․,Joost Verdoorn",1
+"Sergey M․,John Hawkinson",1
+"Sergey M․,Johannes Knoedtel",1
+"Sergey M․,Tim Broder",1
+"Sergey M․,Thomas Jost",1
+"Sergey M․,TRox1972",1
+"Sergey M․,Soneé John",1
+"Sergey M․,Slava Shklyaev",1
+"Sergey M․,Sergey M.",1
+"Emmanuel Froissart,Sergey M․",1
+"Emilien Kenler,Jaime Marquínez Ferrándiz",1
+"Elias Probst,Sergey M․",1
+"Eitan Postavsky,Sergey M․",1
+"Eduardo Ferro,felix",1
+"Eduardo Ferro,Jaime Marquínez Ferrándiz",1
+"Déstin Reed,Yen Chi Hsuan",1
+"Déstin Reed,Nehal Patel",1
+"Duncan Keall,Leslie P. Polzer",1
+"Duncan,Yen Chi Hsuan",1
+"Sergey M․,snipem",1
+"Sergey M․,skacurt",1
+"Sergey M․,scil",1
+"Sergey M․,random-nick",1
+"Sergey M․,phaer",1
+"Sergey M․,motophil",1
+"Sergey M․,mars67857",1
+"Sergey M․,j",1
+"Sergey M․,gfabiano",1
+"Sergey M․,fnord",1
+"Sergey M․,fiocfun",1
+"Sergey M․,einstein95",1
+"Sergey M․,charon2019",1
+"Sergey M․,bpfoley",1
+"Sergey M․,biwubo",1
+"Sergey M․,atomic83",1
+"David Haberthür,Sergey M․",1
+"David Haberthür,Fabian Stahl",1
+"SyxbEaEQ2,Philipp Hagemeister",1
+"Surya Oktafendri,Sergey M․",1
+"Sukhbir Singh,Sergey M․",1
+"Sukhbir Singh,Remita Amine",1
+"Steven Gosseling,Sergey M․",1
+"Stephen Stair,dmsummers",1
+"Soneé John,Sergey M․",1
+"Slava Shklyaev,Sergey M․",1
+"Simon Sawicki,bashonly",1
+"Shadab Zafar,remitamine",1
+"Serkora,Sergey M․",1
+"Sergey M․,zx8",1
+"Sergey M․,troywith77",1
+"Sergey M․,thc202",1
+"Tatsh,Sergey M․",1
+"Tailszefox,Sergey M․",1
+"TRox1972,Aleksandar Topuzovic",1
+"Dracony,Sergey M․",1
+"DrWursterich,Remita Amine",1
+"Dominik Heidler,Philipp Hagemeister",1
+"Dimitre Liotev,Sergey M․",1
+"Devon Meunier,Sergey M․",1
+"DesweR,Sergey M․",1
+"Derek Land,Sergey M․",1
+"Delon,Sergey M․",1
+"David-Development,Philipp Hagemeister",1
+"David-Development,David Development",1
+"David Wagner,Sergey M.",1
+"David Triendl,Johny Mo Swag",1
+"David Rabinowitz,Sergey M․",1
+"Tobias Florek,Sergey M․",1
+"Tobias Bell,Sergey M․",1
+"Tithen-Firion,Zack Fernandes",1
+"Tithen-Firion,Remita Amine",1
+"Timmy,Sergey M․",1
+"Timendum,Remita Amine",1
+"Tim Landscheidt,Sergey M․",1
+"Tim Douglas,Johny Mo Swag",1
+"Tim Broder,Sergey M․",1
+"Throaway,Sergey M․",1
+"Thomas Christlieb,Yen Chi Hsuan",1
+"Thomas Christlieb,Ricardo Constantino",1
+"Thijs Vermeir,Sergey M․",1
+"TheRealDude2,Sergey M․",1
+"Tatsuyuki Ishi,Sergey M․",1
+"Tatsuyuki Ishi,Sergey M",1
+"Witold Baryluk,Filippo Valsorda",1
+"WassimAttar,Sergey M.",1
+"Wandang,Sergey M․",1
+"Vobe,Sergey M․",1
+"Vitaliy Syrchikov,Sergey M․",1
+"Viren Rajput,Remita Amine",1
+"Viktor Szakats,Sergey M․",1
+"Vijay Singh,Sergey M․",1
+"Vignesh Venkat,Sergey M․",1
+"Vid,Allan Daemon",1
+"Vasyl' Vavrychuk,Ricardo Garcia",1
+"Varun,Sergey M․",1
+"Valentin Metz,fonkap",1
+"Tomáš Čech,Sergey M․",1
+"Tobias Kunze,Tobias Gruetzmacher",1
+"Tobias Kunze,Remita Amine",1
+"Daniel Twardowski,Remita Amine",1
+"Daniel Peukert,Sergey M․",1
+"Daniel Höpfl,Sergey M․",1
+"Dan Weber,Sergey M․",1
+"Yen Chi Hsuan,Sergey M.",1
+"Yen Chi Hsuan,Philip Huppert",1
+"Yen Chi Hsuan,Peter Rowlands",1
+"Yen Chi Hsuan,Paul Hartmann",1
+"Yen Chi Hsuan,N1k145",1
+"Yen Chi Hsuan,Kacper Michajłow",1
+"Yen Chi Hsuan,Chih-Hsuan Yen",1
+"Yen Chi Hsuan,Alex Seiler",1
+"Xuan Hu (Sean),Sergey M․",1
+"Xie Yanbo,Remita Amine",1
+"Xiao Di Guan,Sergey M․",1
+"Witold Baryluk,Ricardo Garcia",1
+"Yen Chi Hsuan,fnord",1
+"Yen Chi Hsuan,bzc6p",1
+"Yen Chi Hsuan,Vijay Singh",1
+"Yen Chi Hsuan,Tjark Saul",1
+"Yen Chi Hsuan,TRox1972",1
+"David Fabijan,Sergey M․",1
+"David Fabijan,Philipp Hagemeister",1
+"David Fabijan,Naglis Jonaitis",1
+"David Development,Philipp Hagemeister",1
+"Dave Vasilevsky,Philipp Hagemeister",1
+"Dave Loyall,Sergey M․",1
+"Dave,Sergey M․",1
+"Dario Guarascio,Philipp Hagemeister",1
+"Dao Hoang Son,Philipp Hagemeister",1
+"Dao Hoang Son,Oskar Jauch",1
+"Danko Alexeyev,cryzed",1
+"bonfy,Sergey M․",1
+"bitraid,Sergey M․",1
+"beefchop,Remita Amine",1
+"bashonly,dirkf",1
+"aystroganov@gmail.com,Sergey M․",1
+"atomic83,Sergey M․",1
+"anovicecodemonkey,Naglis Jonaitis",1
+"alimirjamali,Philipp Hagemeister",1
+"aerworker,Sergey M․",1
+"aegamesi,Sergey M․",1
+"Zhong Jianxin,Thor77",1
+"Zhong Jianxin,Sergey M․",1
+"Your Name,Thijs Vermeir",1
+"Yen Chi Hsuan,venth",1
+"Yen Chi Hsuan,stepshal",1
+"Yen Chi Hsuan,robin",1
+"Christopher Krooss,Philipp Hagemeister",1
+"Christoph Döpmann,Sergey M․",1
+"Chirantan Ekbote,Filippo Valsorda",1
+"cpm,Sergey M․",1
+"corone17,Sergey M․",1
+"coreynicholson,Sergey M․",1
+"coolsa,Sergey M․",1
+"codesparkle,Sergey M․",1
+"codesparkle,Philipp Hagemeister",1
+"clauderains,Sergey M․",1
+"cladmi,Sergey M․",1
+"chaoskagami,Sergey M․",1
+"chaos33,Sergey M․",1
+"catlover999,Sergey M․",1
+"cant-think-of-a-name,Sergey M․",1
+"bpfoley,Sergey M․",1
+"danut007ro,Philipp Hagemeister",1
+"danut007ro,Danko Alexeyev",1
+"dannyc@omega,dannycolligan",1
+"d2au,Sergey M․",1
+"Dan Weber,Namnamseo",1
+"Daan van Vugt,Sergey M․",1
+"Cássio Ávila,zraktvor",1
+"Cyril Roelandt,Filippo Valsorda",1
+"Craig Markwardt,Jaime Marquínez Ferrándiz",1
+"Cory Hall,Sergey M․",1
+"Corey Nicholson,Sergey M․",1
+"Cian Ruane,Sergey M․",1
+"Christopher Smith,luboss",1
+"Christopher Smith,Sergey M․",1
+"Christopher Neugebauer,Philipp Hagemeister",1
+"Christopher Neugebauer,Filippo Valsorda",1
+"dwemthy,Sergey M․",1
+"dundua,Sergey M․",1
+"dubber0,Sergey M․",1
+"dubber0,John D",1
+"dst,Sergey M.",1
+"dmsummers,Remita Amine",1
+"dirkf,pukkandan",1
+"dirkf,hatsomatt",1
+"dirkf,df",1
+"dirkf,bashonly",1
+"dirkf,Sergey M․",1
+"dirkf,Remita Amine",1
+"dirkf,Aaron Tan",1
+"dinesh,winwon",1
+"dinesh,Philipp Hagemeister",1
+"dequis,Philipp Hagemeister",1
+"fnord,Yen Chi Hsuan",1
+"fluks,Sergey M․",1
+"flatgreen,Sergey M․",1
+"fiocfun,Sergey M․",1
+"Charles Chen,Sergey M․",1
+"Charles Chen,Philipp Hagemeister",1
+"Cédric Luthi,Sergey M․",1
+"Celthi,Yen Chi Hsuan",1
+"Carlos Ramos,Philipp Hagemeister",1
+"Camillo Dell'mour,Jaime Marquínez Ferrándiz",1
+"Brian Foley,remitamine",1
+"Benjamin Congdon,remitamine",1
+"Behrooz,Sergey M․",1
+"Batuhan's Unmaintained Account,Sergey M․",1
+"felix,Ondřej Caletka",1
+"felix,Jeff Buchbinder",1
+"igv,Sergey M․",1
+"hurda,Philipp Hagemeister",1
+"huohuarong,Jaime Marquínez Ferrándiz",1
+"hub2git,Sergey M․",1
+"hojel,Sergey M․",1
+"hcwhan,Sergey M․",1
+"hassaanaliw,Jaime Marquínez Ferrándiz",1
+"gritstub,Sergey M․",1
+"gkoelln,Remita Amine",1
+"geditorit,Sergey M․",1
+"geditorit,Remita Amine",1
+"gdzx,Remita Amine",1
+"gcmalloc,Philipp Hagemeister",1
+"gam2046,forDream",1
+"forDream,Yen Chi Hsuan",1
+"fnord,ping",1
+"logon84,Sergey M․",1
+"lkho,Yen Chi Hsuan",1
+"kkalpakloglou,Filippo Valsorda",1
+"kitty,Sergey M․",1
+"kinetoskombi,Sergey M․",1
+"kikuyan,dirkf",1
+"kidol,Sergey M․",1
+"kennell,Sergey M․",1
+"kaspi,remitamine",1
+"julien,Philipp Hagemeister",1
+"jomo,Sergey M․",1
+"jjatria,Sergey M․",1
+"jhwgh1968,Anthony Fok",1
+"james,Sergey M․",1
+"jahudka,Sergey M․",1
+"iwconfig,v-delta",1
+"Anton Larionov,Sergey M․",1
+"mrBliss,Alex Seiler",1
+"motophil,Yen Chi Hsuan",1
+"motophil,Sergey M․",1
+"mjdubell,Sergey M․",1
+"minusf,Sergey M․",1
+"migbac,Jelle van der Waa",1
+"mexican porn commits,Sergey M․",1
+"mc2avr,Philipp Hagemeister",1
+"mc2avr,M.Yasoob Khalid",1
+"mars67857,Sergey M․",1
+"mars67857,Remita Amine",1
+"m0viefreak,Sergey M.",1
+"luceatnobis,Sergey M․",1
+"luboss,coreynicholson",1
+"luboss,Sergey M․",1
+"newtonelectron,Sergey M․",1
+"net,Naglis Jonaitis",1
+"net,Mats",1
+"nawl,Sergey M․",1
+"naglis,Sergey M․",1
+"mttronc,Sergey M․",1
+"mrkrossxdx,Sergey M․",1
+"Barbara Miller,Sergey M․",1
+"Austin Adams,Sergey M․",1
+"Aurélien Grosdidier,Sergey M․",1
+"Aurélien Dunand,Sergey M․",1
+"Arjun Sreedharan,Jaime Marquínez Ferrándiz",1
+"Ariset Llerena,pulpe",1
+"Archanamiya,Ricardo Garcia",1
+"Anton Novosyolov,Philipp Hagemeister",1
+"Anton Larionov,net",1
+"Andrew Udvare,Tatsh",1
+"phaer,Philipp Hagemeister",1
+"peugeot,t0mm0",1
+"peugeot,Naglis Jonaitis",1
+"pachacamac,Philipp Hagemeister",1
+"pachacamac,Jaime Marquínez Ferrándiz",1
+"ozburo,Sergey M․",1
+"ovitei,Sergey M․",1
+"oteng,Philipp Hagemeister",1
+"nyorain,Sergey M․",1
+"nulloz,Philipp Hagemeister",1
+"nmrugg,Sergey M․",1
+"niebles,Philipp Hagemeister",1
+"ngld,remitamine",1
+"ngld,nyuszika7h",1
+"newtonelectron,felix",1
+"ping,Philip Xu",1
+"ping,Mister Hat",1
+"phlip,Sergey M․",1
+"phaer,Timendum",1
+"Anton Larionov,Naglis Jonaitis",1
+"Anthony Weems,Philipp Hagemeister",1
+"Anthony Weems,Jaime Marquínez Ferrándiz",1
+"Anthony Fok,Sergey M․",1
+"Anssi Hannula,Sergey M․",1
+"Anna Bernardi,Filippo Valsorda",1
+"Anisse Astier,Philipp Hagemeister",1
+"Andy Savicki,Sergey M․",1
+"András Veres-Szentkirályi,Sergey M․",1
+"Andrzej Lichnerowicz,Sergey M․",1
+"AndroKev,Jaime Marquínez Ferrándiz",1
+"AndrewMBL,Sergey M․",1
+"remitamine,Founder Fang",1
+"remitamine,Brian Foley",1
+"reddraggone9,Yen Chi Hsuan",1
+"reddraggone9,Sergey M․",1
+"quinlander,Remita Amine",1
+"pyed,Sergey M․",1
+"pyed,Abdulelah Alfntokh",1
+"pulpe,Sergey M.",1
+"pulpe,Sergey M",1
+"pulpe,Philipp Hagemeister",1
+"pulpe,Anthony J. Bentley",1
+"pulpe,Adam Malcontenti-Wilson",1
+"pukkandan,df",1
+"plroman,Sergey M․",1
+"pishposhmcgee,Sergey M․",1
+"piplongrun,Sergey M․",1
+"remitamine,Sergey M?",1
+"remitamine,Sergey M.",1
+"remitamine,Remita Amine",1
+"Andrew J. Erickson,Sergey M․",1
+"Andrew Bottom,Sergey M․",1
+"Andrew ""Akari"" Alexeyew,Dankryn",1
+"AndreiArba,patrickslin",1
+"Andreas Schmitz,Sergey M.",1
+"Andras Elso,Philipp Hagemeister",1
+"Anarky,Sergey M․",1
+"Anand Babu Periasamy,Philipp Hagemeister",1
+"Amish Bhadeshia,Sergey M․",1
+"Amish Bhadeshia,Mohammad Teimori Pabandi",1
+"Alpesh Valia,Sergey M․",1
+"Ali Irani,Sergey M․",1
+"remitamine,Lucas",1
+"sh!zeeg,Philipp Hagemeister",1
+"sceext,Yen Chi Hsuan",1
+"sceext,Sergey M․",1
+"rzhxeo,Pierre Rudloff",1
+"rzhxeo,Filippo Valsorda",1
+"rupertbaxter2,Philipp Hagemeister",1
+"runningbits,Sergey M․",1
+"rrooij,ping",1
+"rrooij,Yen Chi Hsuan",1
+"rr-,Sergey M․",1
+"renalid,Remita Amine",1
+"remitamine,slangangular",1
+"remitamine,pingtux",1
+"remitamine,flatgreen",1
+"remitamine,ckuu",1
+"remitamine,TRox1972",1
+"AGSPhoenix,Philipp Hagemeister",1
+"zx8,Roman Le Négrate",1
+"0x9fff00,Sergey M․",1
+"zraktvor,Sergey M․",1
+"zouhair,Jaime Marquínez Ferrándiz",1
+"xuhaomin,Sergey M․",1
+"xavier,dinesh",1
+"23rd,Sergey M․",1
+"tetra-eder,Sergey M․",1
+"teemuy,Sergey M․",1
+"t0mm0,Philipp Hagemeister",1
+"t0mm0,Matthew Rayfield",1
+"t0mm0,Jaime Marquínez Ferrándiz",1
+"steven7851,Yen Chi Hsuan",1
+"spvkgn,Sergey M․",1
+"sourcerect,Sergey M․",1
+"vobe,Sergey M․",1
+"tsia,Remita Amine",1
+"tom,Sergey M․",1
+"tinybug,Sergey M․",1
+"tiktok,Philipp Hagemeister",1
+"theychx,Sergey M․",1
+"theGeekPirate,remitamine",1
+"theGeekPirate,Sergey M․",1
+"Adrian Kretz,Jaime Marquínez Ferrándiz",1
+"Adrian Heine,Sergey M․",1
+"Adam Voss,Sergey M․",1
+"Adam Mesha,Philipp Hagemeister",1
+"Adam Malcontenti-Wilson,Keith Beckman",1
+"Adam Glenn,Jaime Marquínez Ferrándiz",1
+"Abhishek Kedia,Sergey M․",1
+"Abdulelah Alfntokh,Philipp Hagemeister",1
+,
+Committer Timezone Distribution,Unique Timezones: 26
+Timezone,Commits
++00:00,327
++01:00,5604
++02:00,3004
++03:00,123
++03:30,1
++04:00,18
++04:30,5
++05:00,77
++05:30,38
++06:00,2898
++07:00,4665
++08:00,1568
++09:00,19
++09:30,5
++10:00,23
++10:30,6
++11:00,12
++12:00,6
++13:00,5
+-02:00,22
+-03:00,45
+-04:00,66
+-05:00,102
+-06:00,13
+-07:00,155
+-08:00,91
+,
+Contributors Experience,Average across 1231 files: 69.99%
+File,Top Contributor Share (%)
+.hgignore,100.00
+index.html.in,100.00
+generate-index,100.00
+youtube-dl.dev,100.00
+test/test_div.py,100.00
+devscripts/posix-locale.sh,100.00
+youtube_dl/PostProcessing.py,100.00
+devscripts/wine-py2exe.sh,100.00
+youtube_dl/trivialjson.py,100.00
+a.c,100.00

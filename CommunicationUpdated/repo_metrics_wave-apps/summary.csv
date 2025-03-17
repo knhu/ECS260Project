@@ -1,0 +1,64 @@
+Field,Value
+Commits Overview,
+Total Commits,690
+Total Unique Authors,35
+,
+Top 10 Contributors,
+Author,Commits
+Dulaj Atapattu,491
+VijithaEkanayake,374
+Michelle Tanco,144
+srini-x,102
+chathurinda,70
+Uri Smashnov,61
+mturoci,57
+Joe G,49
+ASHISH LAMSAL,20
+Martin Turoci,19
+,
+Communication Events,Total: 142
+"Author1,Author2",Events
+"Dulaj Atapattu,VijithaEkanayake",62
+"VijithaEkanayake,Dulaj Atapattu",56
+"Vijitha Ekanayake,VijithaEkanayake",3
+"VijithaEkanayake,Vijitha Ekanayake",3
+"VijithaEkanayake,Michelle Tanco",2
+"SudalaiRajkumar,Michelle Tanco",2
+"Dulaj Atapattu,Martin Turoci",1
+"Martin Turoci,Dulaj Atapattu",1
+"Michelle Tanco,Rohan Rao",1
+"Michelle Tanco,srini-x",1
+"Nayananga,VijithaEkanayake",1
+"Michelle Tanco,VijithaEkanayake",1
+"SudalaiRajkumar,Trushant",1
+"Trushant,tkmaker",1
+"VijithaEkanayake,Martin Turoci",1
+"VijithaEkanayake,Nayananga",1
+"VijithaEkanayake,srini-x",1
+"lo5,Michelle Tanco",1
+"srini-x,VijithaEkanayake",1
+"tkmaker,Michelle Tanco",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++01:00,13
++02:00,19
++05:30,525
+-03:00,1
+-04:00,7
+-05:00,11
+-07:00,49
+-08:00,65
+,
+Contributors Experience,Average across 240 files: 88.77%
+File,Top Contributor Share (%)
+data/churnTest.csv,100.00
+src/utils.py,100.00
+src/h2o.py,100.00
+LICENSE,100.00
+getting-started-with-nlp/README.md,100.00
+churn-risk/src/h2o.py,100.00
+sales-forecasting/data/walmart_test.csv,100.00
+sales-forecasting/data/walmart_test_preds.csv,100.00
+sales-forecasting/data/walmart_train.csv,100.00
+getting-started-with-nlp/sample_code.py,100.00

@@ -1,0 +1,43 @@
+Field,Value
+Commits Overview,
+Total Commits,57
+Total Unique Authors,12
+,
+Top 10 Contributors,
+Author,Commits
+Alisa Mylnikova,48
+Daniil Manin,42
+AlisaMylnikova,22
+Dmitry Shipinev,6
+mylnikova.alisa,5
+Jaype Sison,2
+Brendan Kirchner,1
+fjsw,1
+Yi-Hsiu Lee,1
+CheolHyun Mun,1
+,
+Communication Events,Total: 3
+"Author1,Author2",Events
+"Alisa Mylnikova,Brendan Kirchner",1
+"Alisa Mylnikova,Dmitry Shipinev",1
+"Daniil Manin,Alisa Mylnikova",1
+,
+Committer Timezone Distribution,Unique Timezones: 4
+Timezone,Commits
++07:00,50
++08:00,3
++09:00,3
+-04:00,1
+,
+Contributors Experience,Average across 40 files: 90.32%
+File,Top Contributor Share (%)
+.travis.yml,100.00
+ActivityIndicatorView.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+ActivityIndicatorView.xcodeproj/xcuserdata/f3dm76.xcuserdatad/xcschemes/xcschememanagement.plist,100.00
+Example/Example.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+Example/Example.xcodeproj/xcuserdata/f3dm76.xcuserdatad/xcschemes/xcschememanagement.plist,100.00
+Example/Example/AppDelegate.swift,100.00
+Example/Example/Base.lproj/LaunchScreen.storyboard,100.00
+Example/Example/Info.plist,100.00
+Example/Example/SceneDelegate.swift,100.00
+Example/Podfile,100.00

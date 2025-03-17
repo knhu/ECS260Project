@@ -1,0 +1,146 @@
+Field,Value
+Commits Overview,
+Total Commits,2799
+Total Unique Authors,105
+,
+Top 10 Contributors,
+Author,Commits
+Saad Khalid,7415
+Rupert Swarbrick,2116
+Greg Chadwick,1348
+Philipp Wagner,1093
+udinator,1075
+Pascal Nasahl,871
+Pirmin Vogel,846
+Tom Roberts,824
+Markus Wegmann,686
+Andreas Traber,621
+,
+Communication Events,Total: 341
+"Author1,Author2",Events
+"Philipp Wagner,Alex Bradbury",31
+"Alex Bradbury,Philipp Wagner",20
+"Philipp Wagner,Scott Johnson",20
+"Canberk Topal,Greg Chadwick",18
+"Sven Stucki,Andreas Traber",16
+"Andreas Traber,Sven Stucki",15
+"udinator,taoliug",15
+"Scott Johnson,Philipp Wagner",13
+"Saad Khalid,Harry Callahan",8
+"taoliug,udinator",8
+"Greg Chadwick,Tom Roberts",7
+"Greg Chadwick,Canberk Topal",7
+"Philipp Wagner,Pirmin Vogel",6
+"Scott Johnson,Alex Bradbury",5
+"Tobias Wölfel,Pirmin Vogel",5
+"Greg Chadwick,Rupert Swarbrick",5
+"Canberk Topal,Andreas Kurth",4
+"Ivan Ribeiro,Tom Roberts",4
+"Rupert Swarbrick,Canberk Topal",4
+"Rupert Swarbrick,Philipp Wagner",4
+"Rahul Behl,Greg Chadwick",4
+"Pirmin Vogel,Tobias Wölfel",4
+"Tom Roberts,Philipp Wagner",4
+"Tom Roberts,Pirmin Vogel",4
+"Canberk Topal,Harry Callahan",3
+"Bert Pieters,Michael Schaffner",3
+"Greg Chadwick,ganoam",3
+"Noam Gallmann,Greg Chadwick",3
+"Timothy Chen,Tom Roberts",3
+"Rupert Swarbrick,Harry Callahan",3
+"Harry Callahan,Greg Chadwick",2
+"Flo Zaruba,Andreas Traber",2
+"Gary Guo,James Wainwright",2
+"Greg Chadwick,Rahul Behl",2
+"Greg Chadwick,Pascal Nasahl",2
+"Greg Chadwick,Philipp Wagner",2
+"Greg Chadwick,Harry Callahan",2
+"Alex Bradbury,Scott Johnson",2
+"Pasquale Davide Schiavone,Andreas Traber",2
+"Philipp Wagner,Greg Chadwick",2
+"Harry Callahan,Rupert Swarbrick",2
+"Rupert Swarbrick,Tom Roberts",2
+"Udi,Greg Chadwick",2
+"Stefan Mach,ganoam",2
+"Rupert Swarbrick,Greg Chadwick",2
+"Nils Graf,NilsGraf",2
+"danghai,Rupert Swarbrick",2
+"Tobias Wölfel,Tom Roberts",2
+"Pirmin Vogel,Ivan Ribeiro",2
+"Pirmin Vogel,Tom Roberts",2
+"Ivan Ribeiro,Pirmin Vogel",1
+"Harry Callahan,Saad Khalid",1
+"Greg Chadwick,Andreas Kurth",1
+"Andreas Traber,Flo Zaruba",1
+"Andreas Kurth,Saad Khalid",1
+"Andreas Kurth,Harry Callahan",1
+"Harry Callahan,Canberk Topal",1
+"Greg Chadwick,Tobias Wölfel",1
+"Greg Chadwick,Pirmin Vogel",1
+"Greg Chadwick,Marno van der Maas",1
+"Germain Haugou,Pasquale Davide Schiavone",1
+"Canberk Topal,Marno van der Maas",1
+"Daniel Mlynek,Philipp Wagner",1
+"Canberk Topal,Saad Khalid",1
+"Canberk Topal,Rupert Swarbrick",1
+"Daniel Mlynek,udinator",1
+"Francesco Conti,Andreas Traber",1
+"Eunchan Kim,Philipp Wagner",1
+"Noah Huesser,Markus Wegmann",1
+"NilsGraf,Tom Roberts",1
+"Robert Schilling,Gautschi",1
+"Rahul Behl,Udi",1
+"Pirmin Vogel,Philipp Wagner",1
+"Pirmin Vogel,ganoam",1
+"Philipp Wagner,udinator",1
+"Pirmin Vogel,Greg Chadwick",1
+"Pirmin Vogel,Harry Callahan",1
+"Pirmin Vogel,Ioannis Karageorgos",1
+"Philipp Wagner,Tobias Wölfel",1
+"Philipp Wagner,ganoam",1
+"Michael Schaffner,Rupert Swarbrick",1
+"Mehrdad Biglari,Tobias Wölfel",1
+"Markus Wegmann,Noah Huesser",1
+"Pasquale Davide Schiavone,Germain Haugou",1
+"Philipp Wagner,Nils Graf",1
+"Philipp Wagner,Rupert Swarbrick",1
+"Marek Pikuła,Tom Roberts",1
+"Markus Wegmann,Pasquale Davide Schiavone",1
+"Stefan Wallentowitz,Rupert Swarbrick",1
+"Rupert Swarbrick,udinator",1
+"Rupert Swarbrick,Paul OKeeffe",1
+"Rupert Swarbrick,Tobias Wölfel",1
+"Rupert Swarbrick,danghai",1
+"Tobias Wölfel,Rupert Swarbrick",1
+"Tudor Timi,Tom Roberts",1
+"Tudor Timi,Philipp Wagner",1
+"Tobias Wölfel,Tobias Woelfel",1
+"Tom Roberts,Greg Chadwick",1
+"Udi Jonnalagadda,CathalMCrevinn",1
+"taoliug,{“Tao",1
+"udinator,Greg Chadwick",1
+"{“Tao,taoliug",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++00:00,640
++01:00,1497
++02:00,419
++03:00,8
+-04:00,1
+-05:00,1
+-07:00,171
+-08:00,62
+,
+Contributors Experience,Average across 6825 files: 94.80%
+File,Top Contributor Share (%)
+docs/datasheet/Makefile,100.00
+docs/datasheet/content/csr.tex,100.00
+docs/datasheet/content/if.tex,100.00
+docs/datasheet/content/lsu.tex,100.00
+docs/datasheet/content/mac.tex,100.00
+docs/datasheet/content/overview.tex,100.00
+docs/datasheet/content/perfcounters.tex,100.00
+docs/datasheet/datasheet.tex,100.00
+docs/datasheet/figures_raw/events.obj,100.00
+docs/datasheet/figures_raw/ri5cy_overview.obj,100.00

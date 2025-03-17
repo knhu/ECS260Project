@@ -1,0 +1,2951 @@
+author,timestamp,file
+Sukeesh,2017-03-11 03:39:15+05:30,README.md
+sukeesh,2017-03-11 03:41:42+05:30,audioHandler.py
+sukeesh,2017-03-11 03:41:42+05:30,evaluator.py
+sukeesh,2017-03-11 03:41:42+05:30,main.py
+sukeesh,2017-03-11 03:41:42+05:30,mapps.py
+sukeesh,2017-03-11 03:41:42+05:30,newws.py
+sukeesh,2017-03-11 03:41:42+05:30,picshow.py
+sukeesh,2017-03-11 03:41:42+05:30,record.py
+sukeesh,2017-03-11 03:41:42+05:30,requirements.txt
+sukeesh,2017-03-11 03:41:42+05:30,todo.py
+Sukeesh,2017-03-11 04:06:26+05:30,README.md
+x1ah,2017-03-13 23:55:13+08:00,audioHandler.py
+x1ah,2017-03-13 23:55:13+08:00,evaluator.py
+x1ah,2017-03-13 23:55:13+08:00,main.py
+x1ah,2017-03-13 23:55:13+08:00,mapps.py
+x1ah,2017-03-13 23:55:13+08:00,newws.py
+x1ah,2017-03-13 23:55:13+08:00,picshow.py
+x1ah,2017-03-13 23:55:13+08:00,record.py
+x1ah,2017-03-13 23:55:13+08:00,todo.py
+x1ah,2017-03-13 23:55:59+08:00,requirements.txt
+x1ah,2017-03-14 00:02:47+08:00,main.py
+x1ah,2017-03-14 00:03:47+08:00,requirements.txt
+dengelt,2017-03-13 19:44:06+01:00,mapps.py
+abrahammurciano,2017-03-14 16:26:26+01:00,mapps.py
+sukeesh,2017-03-14 21:18:06+05:30,.gitignore
+sukeesh,2017-03-14 21:18:06+05:30,audioHandler.py
+sukeesh,2017-03-14 21:18:06+05:30,evaluator.py
+sukeesh,2017-03-14 21:18:06+05:30,main.py
+sukeesh,2017-03-14 21:18:06+05:30,mapps.py
+sukeesh,2017-03-14 21:18:06+05:30,newws.py
+sukeesh,2017-03-14 21:18:06+05:30,picshow.py
+sukeesh,2017-03-14 21:18:06+05:30,record.py
+sukeesh,2017-03-14 21:18:06+05:30,todo.py
+sukeesh,2017-03-14 21:18:06+05:30,todolist.txt
+Sukeesh,2017-03-14 21:20:28+05:30,todolist.txt
+Akshay Sharma,2017-03-17 01:08:53+05:30,requirements.txt
+Stefanos,2017-03-17 01:13:32+02:00,main.py
+Stefanos,2017-03-17 10:02:20+02:00,main.py
+StefanosChaliasos,2017-03-17 10:07:14+02:00,main.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/.DS_Store
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/__main__.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/audioHandler.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/evaluator.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/mapps.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/newws.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/picshow.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/record.py
+StefanosChaliasos,2017-03-17 14:41:07+02:00,Jarvis/todo.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,.DS_Store
+StefanosChaliasos,2017-03-17 14:43:41+02:00,audioHandler.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,evaluator.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,main.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,mapps.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,newws.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,picshow.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,record.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,todo.py
+StefanosChaliasos,2017-03-17 14:43:41+02:00,todolist.txt
+StefanosChaliasos,2017-03-17 14:44:10+02:00,.DS_Store
+StefanosChaliasos,2017-03-17 14:44:23+02:00,Jarvis/.DS_Store
+StefanosChaliasos,2017-03-17 14:46:29+02:00,README.md
+Kevin Schellenberg,2017-03-17 09:09:31-04:00,LICENSE
+Sukeesh,2017-03-17 18:41:18+05:30,LICENSE
+sukeesh,2017-03-17 18:45:50+05:30,Jarvis/audioHandler.pyc
+sukeesh,2017-03-17 18:45:50+05:30,Jarvis/evaluator.pyc
+sukeesh,2017-03-17 18:45:50+05:30,Jarvis/mapps.pyc
+sukeesh,2017-03-17 18:45:50+05:30,Jarvis/newws.pyc
+sukeesh,2017-03-17 18:45:50+05:30,Jarvis/picshow.pyc
+sukeesh,2017-03-17 18:45:50+05:30,Jarvis/todo.pyc
+sukeesh,2017-03-17 18:45:50+05:30,todolist.txt
+sukeesh,2017-03-17 18:46:41+05:30,Jarvis/audioHandler.pyc
+sukeesh,2017-03-17 18:46:41+05:30,Jarvis/evaluator.pyc
+sukeesh,2017-03-17 18:46:41+05:30,Jarvis/mapps.pyc
+sukeesh,2017-03-17 18:46:41+05:30,Jarvis/newws.pyc
+sukeesh,2017-03-17 18:46:41+05:30,Jarvis/picshow.pyc
+sukeesh,2017-03-17 18:46:41+05:30,Jarvis/todo.pyc
+Lucas Keune,2017-03-17 16:29:31+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-17 16:52:59+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-17 16:52:59+01:00,Jarvis/mapps.py
+kennymccormick3,2017-03-17 18:59:50+03:00,Jarvis/__main__.py
+kennymccormick3,2017-03-17 18:59:50+03:00,Jarvis/music.py
+Lucas Keune,2017-03-17 17:06:43+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-17 17:06:43+01:00,Jarvis/mapps.py
+Lucas Keune,2017-03-17 17:18:37+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-17 17:18:37+01:00,Jarvis/mapps.py
+kennymccormick3,2017-03-18 00:35:57+03:00,Jarvis/music.py
+Sukeesh,2017-03-18 10:10:34+05:30,Jarvis/music.py
+Lucas Keune,2017-03-18 09:41:09+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-18 11:37:16+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-18 12:02:25+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-18 12:02:25+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-18 12:22:39+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-18 12:22:39+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-18 13:34:29+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-18 13:34:29+01:00,Jarvis/todo.py
+kennymccormick3,2017-03-19 00:00:15+03:00,Jarvis/newws.py
+kennymccormick3,2017-03-19 07:33:52+03:00,Jarvis/music.py
+sukeesh,2017-03-20 12:41:26+05:30,Jarvis/.gitignore
+sukeesh,2017-03-20 12:41:26+05:30,Jarvis/mapps.py
+sukeesh,2017-03-20 12:41:26+05:30,Jarvis/picshow.py
+sukeesh,2017-03-20 12:41:26+05:30,README.md
+Lucas Keune,2017-03-20 11:48:13+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 13:47:28+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 14:09:42+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 14:43:39+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 15:02:11+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 15:10:06+01:00,.gitignore
+Lucas Keune,2017-03-20 15:10:06+01:00,Jarvis/.gitignore
+Lucas Keune,2017-03-20 20:34:41+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 21:30:35+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-20 21:39:46+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-21 03:20:06+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-21 03:20:06+01:00,Jarvis/fileHandler.py
+Lucas Keune,2017-03-21 03:20:06+01:00,Jarvis/reminder.py
+Lucas Keune,2017-03-21 03:20:06+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-21 04:09:57+01:00,Jarvis/__main__.py
+Lucas Keune,2017-03-21 04:09:57+01:00,Jarvis/fileHandler.py
+Lucas Keune,2017-03-21 04:09:57+01:00,Jarvis/reminder.py
+Lucas Keune,2017-03-21 04:09:57+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-21 16:15:35+01:00,.gitignore
+Lucas Keune,2017-03-21 16:15:35+01:00,Jarvis/reminder.py
+Lucas Keune,2017-03-21 16:15:35+01:00,Jarvis/todo.py
+Lucas Keune,2017-03-21 16:32:05+01:00,Jarvis/reminder.py
+Lucas Keune,2017-03-21 18:00:29+01:00,Jarvis/reminder.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/.gitignore
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/__main__.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/__init__.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/audioHandler.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/evaluator.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/mapps.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/music.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/newws.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/picshow.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/record.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/packages/todo.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/utilities/GeneralUtilities.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,Jarvis/utilities/__init__.py
+StefanosChaliasos,2017-03-22 13:08:11+02:00,README.md
+StefanosChaliasos,2017-03-22 13:53:47+02:00,README.md
+StefanosChaliasos,2017-03-22 13:55:13+02:00,README.md
+Lucas Keune,2017-03-22 15:57:27+01:00,Jarvis/Jarvis.py
+Lucas Keune,2017-03-22 15:57:27+01:00,Jarvis/packages/reminder.py
+Lucas Keune,2017-03-22 19:48:51+01:00,Jarvis/packages/fileHandler.py
+Lucas Keune,2017-03-22 19:58:43+01:00,Jarvis/packages/reminder.py
+Lucas Keune,2017-03-22 20:07:25+01:00,Jarvis/packages/reminder.py
+RottenCrab,2017-03-22 22:54:23+02:00,Jarvis/Jarvis.py
+RottenCrab,2017-03-22 22:54:47+02:00,Jarvis/utilities/voice.py
+RottenCrab,2017-03-22 22:58:51+02:00,requirements.txt
+Lucas Keune,2017-03-22 22:27:45+01:00,Jarvis/packages/reminder.py
+StefanosChaliasos,2017-03-23 02:56:55+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-23 03:04:43+02:00,Jarvis/Jarvis.py
+Brent,2017-03-23 00:50:28-04:00,Jarvis/Jarvis.py
+Brent,2017-03-23 00:50:28-04:00,Jarvis/Jarvis.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/__pycache__/__main__.cpython-35.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/__init__.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/evaluator.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/mapps.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/music.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/newws.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/picshow.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/packages/todo.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/utilities/GeneralUtilities.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/utilities/__init__.pyc
+Brent,2017-03-23 00:50:28-04:00,Jarvis/utilities/voice.pyc
+Brent,2017-03-23 00:50:28-04:00,todolist.txt
+Brent,2017-03-23 09:01:09-04:00,Jarvis/__pycache__/__main__.cpython-35.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/__init__.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/evaluator.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/mapps.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/music.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/newws.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/picshow.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/packages/todo.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/utilities/GeneralUtilities.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/utilities/__init__.pyc
+Brent,2017-03-23 09:01:09-04:00,Jarvis/utilities/voice.pyc
+Brent,2017-03-23 09:07:47-04:00,Jarvis/Jarvis.pyc
+Brent,2017-03-23 09:09:28-04:00,todolist.txt
+RottenCrab,2017-03-23 20:42:03+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-24 01:02:13+02:00,Jarvis/__main__.py
+RottenCrab,2017-03-24 02:32:07+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-24 02:40:00+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-24 13:00:10+02:00,.gitignore
+StefanosChaliasos,2017-03-24 13:00:10+02:00,Jarvis/.gitignore
+StefanosChaliasos,2017-03-24 13:00:10+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-24 13:00:10+02:00,Jarvis/packages/fileHandler.py
+StefanosChaliasos,2017-03-24 13:00:10+02:00,Jarvis/packages/reminder.py
+StefanosChaliasos,2017-03-24 13:00:10+02:00,Jarvis/packages/todo.py
+5n8ke,2017-03-24 23:03:02+02:00,.gitignore
+5n8ke,2017-03-24 23:03:02+02:00,Jarvis/.gitignore
+5n8ke,2017-03-24 23:03:02+02:00,Jarvis/Jarvis.py
+5n8ke,2017-03-24 23:03:02+02:00,Jarvis/packages/fileHandler.py
+5n8ke,2017-03-24 23:03:02+02:00,Jarvis/packages/reminder.py
+5n8ke,2017-03-24 23:03:02+02:00,Jarvis/packages/todo.py
+Brent,2017-03-24 17:07:16-04:00,Jarvis/Jarvis.py
+Brent,2017-03-24 17:07:16-04:00,Jarvis/packages/aiml/__init__.py
+Brent,2017-03-24 17:07:16-04:00,Jarvis/packages/aiml/__init__.pyc
+Brent,2017-03-24 17:07:16-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-03-24 17:07:16-04:00,Jarvis/packages/aiml/brain.pyc
+Brent,2017-03-24 17:07:16-04:00,Jarvis/packages/aiml/chat.aiml
+Brent,2017-03-24 17:07:16-04:00,Jarvis/packages/aiml/jarvis.aiml
+Brent,2017-03-24 17:16:16-04:00,Jarvis/Jarvis.py
+Brent,2017-03-24 17:17:23-04:00,Jarvis/packages/aiml/__init__.pyc
+Brent,2017-03-24 17:17:23-04:00,Jarvis/packages/aiml/brain.pyc
+Brent,2017-03-24 17:17:23-04:00,Jarvis/packages/aiml/jarvis.aiml
+Brent,2017-03-24 17:19:22-04:00,Jarvis/Jarvis.py
+Brent,2017-03-24 17:20:51-04:00,Jarvis/Jarvis.py
+Brent,2017-03-24 17:25:40-04:00,requirements.txt
+StefanosChaliasos,2017-03-25 02:03:17+02:00,Jarvis/Jarvis.py
+sukeesh,2017-03-25 17:43:33+05:30,Jarvis/Jarvis.py
+sukeesh,2017-03-25 17:43:33+05:30,Jarvis/packages/aiml/chat.aiml
+sukeesh,2017-03-25 17:43:33+05:30,requirements.txt
+Stefanos,2017-03-26 06:18:31+03:00,Jarvis/Jarvis.py
+Stefanos,2017-03-26 06:21:50+03:00,Jarvis/Jarvis.py
+Stefanos,2017-03-26 06:29:33+03:00,Jarvis/packages/fileHandler.py
+Stefanos,2017-03-26 06:29:33+03:00,Jarvis/packages/mapps.py
+Stefanos,2017-03-26 06:29:33+03:00,Jarvis/packages/todo.py
+Brent,2017-03-26 01:28:07-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-03-26 01:28:07-04:00,Jarvis/packages/aiml/std-startup.xml
+Brent,2017-03-26 01:32:49-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-03-26 01:32:49-04:00,Jarvis/packages/aiml/std-startup.xml
+Brent,2017-03-26 02:33:33-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-03-26 02:40:47-04:00,Jarvis/packages/aiml/chat.aiml
+Brent,2017-03-26 02:40:47-04:00,Jarvis/packages/aiml/default.aiml
+Brent,2017-03-26 02:40:47-04:00,Jarvis/packages/aiml/emotion.aiml
+Brent,2017-03-26 02:40:47-04:00,Jarvis/packages/aiml/std-startup.xml
+Pedro José Anula,2017-03-28 18:54:29+02:00,Jarvis/Jarvis.py
+Pedro José Anula,2017-03-28 18:54:29+02:00,Jarvis/packages/shutdown.py
+Pedro José Anula,2017-03-29 00:00:45+02:00,Jarvis/Jarvis.py
+Pedro José Anula,2017-03-29 00:00:45+02:00,Jarvis/packages/shutdown.py
+Pedro José Anula,2017-03-29 16:35:33+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-03-30 01:28:18+03:00,contributors.md
+StefanosChaliasos,2017-03-30 01:28:45+03:00,contributors.md
+Brent,2017-03-30 00:10:10-04:00,Jarvis/packages/memory/__init__.py
+Brent,2017-03-30 00:10:10-04:00,Jarvis/packages/memory/memory.py
+Brent,2017-03-30 00:19:14-04:00,Jarvis/packages/memory/memory.py
+Brent,2017-03-30 00:20:13-04:00,Jarvis/Jarvis.py
+Sukeesh,2017-03-30 17:18:43+05:30,contributors.md
+Brent,2017-03-30 12:09:35-04:00,Jarvis/Jarvis.py
+Brent,2017-03-30 12:09:35-04:00,Jarvis/packages/memory/memory.py
+Brent,2017-03-30 16:19:44-04:00,Jarvis/Jarvis.py
+Brent,2017-03-30 16:23:12-04:00,Jarvis/packages/memory/memory.py
+Ander Raso Vázquez,2017-04-05 18:47:03+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-05 21:55:11+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-05 21:57:30+02:00,Jarvis/Jarvis.py
+Pedro José Anula,2017-04-06 01:53:03+02:00,Jarvis/Jarvis.py
+Pedro José Anula,2017-04-06 01:53:03+02:00,Jarvis/packages/systemOptions.py
+Pedro José Anula,2017-04-06 02:04:52+02:00,Jarvis/Jarvis.py
+Pedro José Anula,2017-04-06 02:04:52+02:00,Jarvis/packages/systemOptions.py
+Brent,2017-04-06 00:13:24-04:00,Jarvis/packages/memory/memory.py
+Brent,2017-04-06 00:52:35-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-04-06 00:53:55-04:00,Jarvis/tests/__init__.py
+Brent,2017-04-06 00:53:55-04:00,Jarvis/tests/test_brain.py
+Brent,2017-04-06 00:53:55-04:00,Jarvis/tests/test_memory.py
+Brent,2017-04-06 01:03:43-04:00,README.md
+Brent,2017-04-06 01:03:43-04:00,contributors.md
+Ander Raso Vázquez,2017-04-06 15:25:43+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-07 11:42:22+02:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-04-07 20:13:44+03:00,Jarvis/tests/test_brain.py
+Brent,2017-04-08 02:06:58-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-04-08 02:06:58-04:00,Jarvis/packages/aiml/default.aiml
+Brent,2017-04-08 02:06:58-04:00,Jarvis/tests/test_brain.py
+Brent,2017-04-08 02:09:35-04:00,Jarvis/packages/aiml/brain.py
+Brent,2017-04-08 02:09:35-04:00,Jarvis/tests/test_brain.py
+StefanosChaliasos,2017-04-08 13:07:04+03:00,Jarvis/Jarvis.py
+StefanosChaliasos,2017-04-08 13:07:04+03:00,Jarvis/packages/directions_to.py
+StefanosChaliasos,2017-04-08 13:07:04+03:00,Jarvis/packages/near_me.py
+StefanosChaliasos,2017-04-08 13:07:04+03:00,Jarvis/packages/weather_pinpoint.py
+StefanosChaliasos,2017-04-08 13:10:29+03:00,Jarvis/packages/chat.py
+StefanosChaliasos,2017-04-08 13:11:25+03:00,Jarvis/packages/chuck.py
+StefanosChaliasos,2017-04-08 13:25:25+03:00,Jarvis/packages/aiml/brain.py
+Ander Raso Vázquez,2017-04-08 16:08:51+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-08 16:12:54+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-08 17:15:05+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-08 17:17:02+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-08 17:25:59+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-08 20:16:02+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-08 20:30:11+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 11:27:40+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 11:44:51+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 11:47:17+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 12:29:40+02:00,Jarvis/CmdInterpreter.py
+Ander Raso Vázquez,2017-04-09 12:29:40+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 12:29:40+02:00,Jarvis/__init__.py
+Ander Raso Vázquez,2017-04-09 12:41:04+02:00,Jarvis/CmdInterpreter.py
+Ander Raso Vázquez,2017-04-09 12:41:04+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 12:41:51+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 13:12:13+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 13:27:07+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 13:37:06+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 13:45:24+02:00,Jarvis/CmdInterpreter.py
+StefanosChaliasos,2017-04-09 15:28:43+03:00,README.md
+Ander Raso Vázquez,2017-04-09 16:26:25+02:00,README.md
+Ander Raso Vázquez,2017-04-09 17:24:54+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-09 17:24:54+02:00,Jarvis/tests/test_parser.py
+Ander Raso Vázquez,2017-04-09 17:25:22+02:00,Jarvis/tests/test_parser.py
+Ander Raso Vázquez,2017-04-09 17:27:49+02:00,Jarvis/tests/test_parser.py
+Ander Raso Vázquez,2017-04-09 21:03:37+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-10 10:21:32+02:00,Jarvis/Jarvis.py
+Ander Raso Vázquez,2017-04-10 10:31:08+02:00,contributors.md
+Ander Raso Vázquez,2017-04-10 12:10:21+02:00,Jarvis/CmdInterpreter.py
+Ander Raso Vázquez,2017-04-10 12:15:09+02:00,Jarvis/utilities/voice.py
+Ander Raso Vázquez,2017-04-10 12:29:35+02:00,Jarvis/packages/near_me.py
+Ander Raso Vázquez,2017-04-10 12:55:34+02:00,Jarvis/packages/reminder.py
+Brent Hand,2017-04-11 03:48:47+03:00,Jarvis/CmdInterpreter.py
+Brent Hand,2017-04-11 03:48:47+03:00,Jarvis/packages/news.py
+Brent Hand,2017-04-11 03:48:47+03:00,Jarvis/tests/test_news.py
+StefanosChaliasos,2017-04-11 03:50:36+03:00,Jarvis/packages/newws.py
+StefanosChaliasos,2017-04-11 04:06:27+03:00,NEW_FUNCTIONALITIES.md
+StefanosChaliasos,2017-04-11 04:11:39+03:00,README.md
+StefanosChaliasos,2017-04-11 04:13:03+03:00,Jarvis/packages/news.py
+StefanosChaliasos,2017-04-11 04:18:24+03:00,Jarvis/CmdInterpreter.py
+Stefanos,2017-04-11 05:30:26+03:00,Jarvis/CmdInterpreter.py
+Stefanos,2017-04-11 05:31:10+03:00,Jarvis/utilities/GeneralUtilities.py
+Stefanos,2017-04-11 21:21:41+03:00,Jarvis/CmdInterpreter.py
+Stefanos,2017-04-11 21:21:41+03:00,Jarvis/packages/chat.py
+Stefanos,2017-04-11 21:29:50+03:00,Jarvis/packages/chuck.py
+Stefanos,2017-04-11 21:38:17+03:00,Jarvis/CmdInterpreter.py
+Stefanos,2017-04-11 21:38:17+03:00,Jarvis/packages/evaluator.py
+Stefanos,2017-04-11 21:46:30+03:00,Jarvis/CmdInterpreter.py
+Stefanos,2017-04-11 21:46:30+03:00,Jarvis/packages/weather_pinpoint.py
+StefanosChaliasos,2017-04-11 22:15:20+03:00,Jarvis/utilities/GeneralUtilities.py
+Stefanos,2017-04-18 00:29:50+03:00,Jarvis/CmdInterpreter.py
+Stefanos,2017-04-18 00:29:50+03:00,Jarvis/packages/evaluator.py
+Luis Silva,2017-05-07 21:42:10+01:00,Jarvis/packages/mapps.py
+Luis Silva,2017-05-08 19:16:19+01:00,Jarvis/packages/mapps.py
+Luis Silva,2017-05-08 19:33:46+01:00,Jarvis/CmdInterpreter.py
+Luis Silva,2017-05-08 23:26:06+01:00,Jarvis/CmdInterpreter.py
+Luis Silva,2017-05-08 23:26:06+01:00,Jarvis/packages/mapps.py
+Luis Silva,2017-05-08 23:26:06+01:00,Jarvis/packages/umbrella.py
+Luis Silva,2017-05-08 23:26:06+01:00,Jarvis/packages/weather_pinpoint.py
+Luis Silva,2017-05-08 23:26:06+01:00,NEW_FUNCTIONALITIES.md
+Luis Silva,2017-05-08 23:59:54+01:00,contributors.md
+Luis Silva,2017-05-10 01:27:04+03:00,Jarvis/CmdInterpreter.py
+Luis Silva,2017-05-10 01:27:04+03:00,Jarvis/packages/umbrella.py
+Luis Silva,2017-05-10 01:27:04+03:00,Jarvis/packages/weatherIn.py
+Luis Silva,2017-05-10 01:27:04+03:00,NEW_FUNCTIONALITIES.md
+5n8ke,2017-05-12 00:42:16+03:00,Jarvis/CmdInterpreter.py
+5n8ke,2017-05-12 00:42:16+03:00,Jarvis/packages/reminder.py
+5n8ke,2017-05-12 00:42:16+03:00,Jarvis/packages/todo.py
+5n8ke,2017-05-12 00:42:16+03:00,Jarvis/utilities/GeneralUtilities.py
+5n8ke,2017-05-12 00:42:16+03:00,Jarvis/utilities/lexicalSimilarity.py
+5n8ke,2017-05-12 00:42:16+03:00,Jarvis/utilities/textParser.py
+5n8ke,2017-05-12 00:42:16+03:00,NEW_FUNCTIONALITIES.md
+Luis Silva,2017-05-12 13:20:22+03:00,Jarvis/CmdInterpreter.py
+Luis Silva,2017-05-12 13:20:22+03:00,Jarvis/packages/timeIn.py
+Luis Silva,2017-05-12 13:20:22+03:00,NEW_FUNCTIONALITIES.md
+Luis Silva,2017-05-12 23:36:17+03:00,Jarvis/packages/mapps.py
+Luis Silva,2017-05-12 23:36:17+03:00,Jarvis/packages/weatherIn.py
+Ryan Arredondo,2017-05-26 17:35:12-06:00,Jarvis/tests/test_evaluator.py
+Timoteo,2017-05-29 22:43:57-04:00,Jarvis/tests/test_timeIn.py
+Timoteo,2017-05-30 13:43:43-04:00,Jarvis/tests/test_timeIn.py
+Timoteo,2017-05-30 13:46:34-04:00,Jarvis/tests/test_timeIn.py
+Ana Isabel,2017-05-31 12:25:44+02:00,Jarvis/tests/test_parser.py
+Muhammad Shehriyar Qureshi,2017-06-02 03:53:39+03:00,Jarvis/packages/systemOptions.py
+Timoteo,2017-06-01 21:10:50-04:00,Jarvis/tests/test_timeIn.py
+Timoteo,2017-06-01 21:28:30-04:00,Jarvis/tests/test_timeIn.py
+Timoteo,2017-06-02 19:25:43-04:00,Jarvis/tests/test_timeIn.py
+Timoteo,2017-06-02 19:29:02-04:00,Jarvis/tests/test_timeIn.py
+Tim Phillips,2017-06-04 14:13:58-04:00,contributors.md
+Ana Isabel,2017-06-07 20:06:35+02:00,Jarvis/Jarvis.py
+Ana Isabel,2017-06-07 20:06:35+02:00,Jarvis/packages/near_me.py
+Ana Isabel,2017-06-07 20:41:41+02:00,Jarvis/tests/test_near_me.py
+Ana Isabel,2017-06-07 20:41:41+02:00,Jarvis/tests/test_parser.py
+Ana Isabel,2017-06-16 18:37:16+03:00,Jarvis/Jarvis.py
+Ana Isabel,2017-06-16 18:37:16+03:00,Jarvis/tests/test_default.py
+Ana Isabel,2017-06-16 18:37:16+03:00,requirements.txt
+Ana Isabel,2017-06-16 18:37:36+03:00,Jarvis/packages/weatherIn.py
+Ana Isabel,2017-06-16 18:37:36+03:00,Jarvis/tests/test_weatherIn.py
+Ana Isabel,2017-06-16 18:37:36+03:00,contributors.md
+Ana Isabel,2017-06-16 18:38:11+03:00,Jarvis/packages/music.py
+Ana Isabel,2017-06-16 18:38:11+03:00,Jarvis/tests/test_music.py
+Ana Isabel,2017-06-16 18:38:11+03:00,requirements.txt
+Ryan Arredondo,2017-06-16 18:38:46+03:00,Jarvis/CmdInterpreter.py
+Ryan Arredondo,2017-06-16 18:38:46+03:00,Jarvis/Jarvis.py
+Ana Isabel,2017-06-16 18:39:14+03:00,Jarvis/CmdInterpreter.py
+Ana Isabel,2017-06-16 18:39:14+03:00,Jarvis/tests/test_help.py
+Ana Isabel,2017-06-16 18:39:14+03:00,README.md
+StefanosChaliasos,2017-06-16 18:45:49+03:00,Jarvis/Jarvis.py
+Ana Isabel,2017-06-26 18:18:35+03:00,README.md
+Ana Isabel,2017-06-26 18:18:35+03:00,Setup
+Ana Isabel,2017-06-26 18:18:49+03:00,Jarvis/CmdInterpreter.py
+Ana Isabel,2017-06-26 18:18:49+03:00,Jarvis/packages/forecast.py
+Ana Isabel,2017-06-26 18:18:49+03:00,Jarvis/tests/test_forecast.py
+Ana Isabel,2017-06-26 18:18:49+03:00,Jarvis/utilities/dateTime.py
+=,2017-06-26 23:08:06+05:30,Jarvis/CmdInterpreter.py
+=,2017-06-26 23:08:06+05:30,Jarvis/Jarvis.py
+=,2017-06-26 23:08:06+05:30,Jarvis/__main__.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/audioHandler.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/directions_to.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/evaluator.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/fileHandler.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/forecast.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/mapps.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/music.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/near_me.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/news.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/picshow.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/record.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/reminder.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/shutdown.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/systemOptions.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/timeIn.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/todo.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/weatherIn.py
+=,2017-06-26 23:08:06+05:30,Jarvis/packages/weather_pinpoint.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_brain.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_default.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_evaluator.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_help.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_memory.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_music.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_near_me.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_news.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_parser.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_timeIn.py
+=,2017-06-26 23:08:06+05:30,Jarvis/tests/test_weatherIn.py
+=,2017-06-26 23:08:06+05:30,Jarvis/utilities/GeneralUtilities.py
+=,2017-06-26 23:08:06+05:30,Jarvis/utilities/dateTime.py
+=,2017-06-26 23:08:06+05:30,Jarvis/utilities/lexicalSimilarity.py
+=,2017-06-26 23:08:06+05:30,Jarvis/utilities/textParser.py
+=,2017-06-26 23:08:06+05:30,Jarvis/utilities/voice.py
+=,2017-06-27 05:04:55+05:30,Jarvis/CmdInterpreter.py
+=,2017-06-27 05:04:55+05:30,Jarvis/packages/music.py
+=,2017-06-27 05:04:55+05:30,Jarvis/packages/todo.py
+Prakash Rai,2017-06-28 01:00:43+05:30,README.md
+Tim Phillips,2017-06-28 07:44:05+03:00,Jarvis/tests/test_timeIn.py
+appi,2017-06-28 12:09:53+05:30,.gitignore
+appi,2017-06-28 12:09:53+05:30,.pypirc
+appi,2017-06-28 12:09:53+05:30,MANIFEST.in
+appi,2017-06-28 12:09:53+05:30,setup.cfg
+appi,2017-06-28 12:09:53+05:30,setup.py
+appi,2017-06-28 21:10:29+05:30,setup.py
+appi,2017-06-28 22:10:07+05:30,.pypirc
+Arpit Choudhary,2017-06-28 20:53:03+03:00,Jarvis/CmdInterpreter.py
+Arpit Choudhary,2017-06-28 20:53:03+03:00,contributors.md
+appi,2017-06-29 08:51:18+05:30,.pypirc
+appi,2017-06-29 08:51:18+05:30,setup.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/.gitignore
+appi,2017-06-29 11:57:06+05:30,jarviscli/CmdInterpreter.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/Jarvis.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/__init__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/__main__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/__init__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/aiml/__init__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/aiml/brain.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/aiml/chat.aiml
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/aiml/default.aiml
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/aiml/emotion.aiml
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/aiml/std-startup.xml
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/audioHandler.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/chat.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/chuck.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/directions_to.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/evaluator.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/fileHandler.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/forecast.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/mapps.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/memory/__init__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/memory/memory.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/music.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/near_me.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/news.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/picshow.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/record.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/reminder.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/shutdown.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/systemOptions.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/timeIn.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/todo.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/umbrella.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/weatherIn.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/__init__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_brain.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_default.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_evaluator.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_forecast.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_help.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_memory.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_music.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_near_me.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_news.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_parser.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_timeIn.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/tests/test_weatherIn.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/utilities/GeneralUtilities.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/utilities/__init__.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/utilities/dateTime.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/utilities/lexicalSimilarity.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/utilities/textParser.py
+appi,2017-06-29 11:57:06+05:30,jarviscli/utilities/voice.py
+alokst,2017-06-29 20:29:42+03:00,Jarvis/packages/reminder.py
+alokst,2017-06-29 20:29:42+03:00,Setup
+StefanosChaliasos,2017-07-01 18:28:21+03:00,README.md
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/packages/aiml/bot_brain.brn
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/packages/memory/memory.json
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_brain.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_default.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_evaluator.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_help.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_memory.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_music.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_near_me.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_news.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_parser.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_timeIn.py
+Stefanos,2017-07-01 19:07:04+03:00,jarviscli/tests/test_weatherIn.py
+Stefanos,2017-07-01 19:13:54+03:00,jarviscli/packages/aiml/.gitignore
+Stefanos,2017-07-01 19:13:54+03:00,jarviscli/packages/aiml/bot_brain.brn
+Stefanos,2017-07-01 19:13:54+03:00,jarviscli/packages/memory/.gitignore
+Stefanos,2017-07-01 19:13:54+03:00,jarviscli/packages/memory/memory.json
+Monal Shadi,2017-07-01 19:26:05+03:00,.coafile
+Monal Shadi,2017-07-01 19:26:05+03:00,.travis.yml
+Yash Ladha,2017-07-01 19:27:52+03:00,.gitignore
+Yash Ladha,2017-07-01 20:18:15+03:00,jarviscli/CmdInterpreter.py
+Yash Ladha,2017-07-01 21:55:23+03:00,setup.sh
+appi,2017-07-02 08:13:02+05:30,.travis.yml
+appi,2017-07-02 08:30:51+05:30,.travis.yml
+appi,2017-07-02 10:24:48+05:30,jarviscli/CmdInterpreter.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/Jarvis.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/aiml/brain.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/audioHandler.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/fileHandler.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/forecast.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/mapps.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/memory/memory.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/news.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/record.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/reminder.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/shutdown.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/timeIn.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/todo.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/umbrella.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/weatherIn.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/tests/test_default.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/tests/test_forecast.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/tests/test_help.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/tests/test_memory.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/tests/test_parser.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/tests/test_timeIn.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/utilities/lexicalSimilarity.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/utilities/textParser.py
+appi,2017-07-02 10:24:48+05:30,jarviscli/utilities/voice.py
+appi,2017-07-02 10:24:48+05:30,setup.py
+Sukeesh,2017-07-02 10:46:45+05:30,README.md
+Arpit Choudhary,2017-07-02 09:05:09+03:00,README.md
+Arpit Choudhary,2017-07-02 09:05:09+03:00,Setup
+Arpit Choudhary,2017-07-02 09:05:09+03:00,setup.sh
+appi,2017-07-02 13:14:22+05:30,.gitignore
+appi,2017-07-02 13:14:22+05:30,MANIFEST.in
+sukeesh,2017-07-02 15:29:49+05:30,setup.py
+Sukeesh,2017-07-02 15:33:23+05:30,README.md
+Ana Isabel,2017-07-06 15:37:42+03:00,jarviscli/tests/test_forecast.py
+Ana Isabel,2017-07-06 15:37:42+03:00,jarviscli/tests/test_music.py
+Ana Isabel,2017-07-06 15:37:42+03:00,jarviscli/tests/test_near_me.py
+Kaustav Banerjee,2017-07-08 15:30:18+03:00,setup.sh
+Daniel Corin,2017-07-17 21:45:41-07:00,.gitignore
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/CmdInterpreter.py
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/Jarvis.py
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/packages/reminder.py
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/packages/systemOptions.py
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/tests/test_help.py
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/utilities/GeneralUtilities.py
+Daniel Corin,2017-07-17 21:45:41-07:00,jarviscli/utilities/voice.py
+Daniel Corin,2017-07-17 21:45:41-07:00,requirements.txt
+Daniel Corin,2017-07-17 21:45:41-07:00,setup.sh
+Daniel Corin,2017-07-19 20:12:32-07:00,jarviscli/CmdInterpreter.py
+Daniel Corin,2017-07-19 20:12:32-07:00,jarviscli/packages/evaluator.py
+Daniel Corin,2017-07-19 20:12:32-07:00,jarviscli/packages/picshow.py
+Daniel Corin,2017-07-19 20:24:11-07:00,jarviscli/CmdInterpreter.py
+Daniel Corin,2017-07-19 20:24:11-07:00,jarviscli/Jarvis.py
+Daniel Corin,2017-07-19 20:24:11-07:00,jarviscli/packages/reminder.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,.travis.yml
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/packages/timeIn.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/__init__.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_brain.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_memory.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_music.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_near_me.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_news.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_timeIn.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_auto/test_weatherIn.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_manual/test_default.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_manual/test_evaluator.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_manual/test_forecast.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_manual/test_help.py
+Arpit Choudhary,2017-07-23 11:46:46+03:00,jarviscli/tests/test_manual/test_parser.py
+Roberto Oliveira,2017-07-23 11:47:02+03:00,requirements.txt
+Roberto Oliveira,2017-07-23 11:47:14+03:00,jarviscli/packages/near_me.py
+Gopalakrishnan.V,2017-07-23 11:47:33+03:00,jarviscli/packages/systemOptions.py
+Gopalakrishnan.V,2017-07-23 11:47:33+03:00,setup.sh
+Gopalakrishnan.V,2017-07-23 11:48:06+03:00,README.md
+Ayush Aggarwal,2017-07-23 11:48:48+03:00,jarviscli/CmdInterpreter.py
+yashLadha,2017-07-23 17:43:54+05:30,jarviscli/CmdInterpreter.py
+appi,2017-07-24 19:56:56+05:30,README.md
+appi,2017-07-25 12:20:54+05:30,.travis.yml
+appi,2017-07-25 12:43:35+05:30,jarviscli/tests/test_manual/test_near_me.py
+appi,2017-07-25 14:09:32+05:30,README.md
+appi,2017-07-25 14:18:33+05:30,README.md
+Roberto Oliveira,2017-07-25 21:48:21+03:00,jarviscli/CmdInterpreter.py
+Roberto Oliveira,2017-07-25 21:48:21+03:00,setup.sh
+Roberto Oliveira,2017-07-25 22:00:22+03:00,jarviscli/Jarvis.py
+siddardhaks,2017-07-26 13:13:30+03:00,jarviscli/Jarvis.py
+StefanosChaliasos,2017-07-26 13:26:11+03:00,.gitignore
+StefanosChaliasos,2017-07-26 13:26:25+03:00,.DS_Store
+StefanosChaliasos,2017-07-26 13:38:16+03:00,.gitignore
+StefanosChaliasos,2017-07-26 13:39:19+03:00,audioHandler.pyc
+StefanosChaliasos,2017-07-26 13:39:19+03:00,evaluator.pyc
+StefanosChaliasos,2017-07-26 13:39:19+03:00,mapps.pyc
+StefanosChaliasos,2017-07-26 13:39:19+03:00,newws.pyc
+StefanosChaliasos,2017-07-26 13:39:19+03:00,picshow.pyc
+StefanosChaliasos,2017-07-26 13:39:19+03:00,todo.pyc
+Arpit Choudhary,2017-07-26 21:09:39+03:00,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2017-07-26 21:09:39+03:00,jarviscli/Jarvis.py
+Arpit Choudhary,2017-07-26 21:09:39+03:00,jarviscli/packages/plot.py
+Arpit Choudhary,2017-07-26 21:09:39+03:00,setup.sh
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/.DS_Store
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/CmdInterpreter.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/Jarvis.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/audioHandler.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/evaluator.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/mapps.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/music.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/newws.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/.DS_Store
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/__init__.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/evaluator.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/mapps.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/music.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/newws.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/picshow.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/reminder.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/packages/todo.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/picshow.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/todo.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/utilities/GeneralUtilities.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/utilities/__init__.pyc
+Stefanos,2017-07-26 21:17:24+03:00,Jarvis/utilities/voice.pyc
+Sukeesh,2017-07-27 06:56:24+05:30,README.md
+Umang Ahuja,2017-07-28 11:04:14+03:00,.gitignore
+Umang Ahuja,2017-07-28 11:04:14+03:00,.idea/Jarvis.iml
+Umang Ahuja,2017-07-28 11:04:14+03:00,.idea/misc.xml
+Umang Ahuja,2017-07-28 11:04:14+03:00,.idea/modules.xml
+Umang Ahuja,2017-07-28 11:04:14+03:00,.idea/vcs.xml
+Umang Ahuja,2017-07-28 11:04:14+03:00,.idea/workspace.xml
+Umang Ahuja,2017-07-28 11:04:14+03:00,jarviscli/CmdInterpreter.py
+Umang Ahuja,2017-07-28 11:04:14+03:00,jarviscli/packages/clear.py
+StefanosChaliasos,2017-07-28 11:04:52+03:00,requirements.txt
+appi,2017-07-28 17:27:54+05:30,.idea/Jarvis.iml
+appi,2017-07-28 17:27:54+05:30,.idea/misc.xml
+appi,2017-07-28 17:27:54+05:30,.idea/modules.xml
+appi,2017-07-28 17:27:54+05:30,.idea/vcs.xml
+appi,2017-07-28 17:27:54+05:30,.idea/workspace.xml
+appi,2017-07-28 18:31:58+05:30,jarviscli/tests/test_auto/test_timeIn.py
+The Gitter Badger,2017-07-29 07:00:44+00:00,README.md
+Sukeesh,2017-07-29 12:36:15+05:30,README.md
+Arpit Choudhary,2017-07-29 10:33:25+03:00,jarviscli/CmdInterpreter.py
+jlvivero,2017-07-29 22:47:11-07:00,jarviscli/CmdInterpreter.py
+jlvivero,2017-07-29 22:47:11-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-29 22:47:11-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-29 22:47:11-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-29 23:00:52-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-29 23:00:52-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-29 23:20:29-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-29 23:23:36-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-29 23:23:36-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-29 23:34:14-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-29 23:42:01-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-29 23:50:13-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-30 00:13:19-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-30 00:13:19-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-30 00:13:19-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-30 00:31:35-07:00,jarviscli/CmdInterpreter.py
+jlvivero,2017-07-30 00:31:35-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-30 00:31:35-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-30 00:31:35-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-30 00:41:33-07:00,jarviscli/packages/lyrics.py
+jlvivero,2017-07-30 00:41:33-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-30 00:41:33-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-30 00:49:10-07:00,jarviscli/tests/test_auto/test_lyrics.py
+jlvivero,2017-07-30 00:49:10-07:00,jarviscli/utilities/PyLyricsClone.py
+jlvivero,2017-07-30 00:55:00-07:00,jarviscli/utilities/PyLyricsClone.py
+Arpit Choudhary,2017-07-30 19:33:30+03:00,README.md
+Arpit Choudhary,2017-07-30 19:33:30+03:00,setup.sh
+Arpit Choudhary,2017-07-30 19:37:59+03:00,jarviscli/packages/picshow.py
+umangahuja1,2017-07-31 07:55:27+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-07-31 07:55:27+05:30,jarviscli/packages/file_organise.py
+umangahuja1,2017-07-31 07:59:35+05:30,jarviscli/packages/file_organise.py
+umangahuja1,2017-07-31 08:07:28+05:30,jarviscli/packages/file_organise.py
+Umang Ahuja,2017-07-31 14:12:07+05:30,NEW_FUNCTIONALITIES.md
+Umang Ahuja,2017-07-31 14:12:07+05:30,jarviscli/CmdInterpreter.py
+Umang Ahuja,2017-07-31 14:12:07+05:30,jarviscli/packages/fb.py
+Umang Ahuja,2017-07-31 14:12:07+05:30,setup.sh
+Sudharsanaraj R,2017-07-31 23:11:42+05:30,setup.sh
+shivankar-madaan,2017-08-03 05:36:56+05:30,requirements.txt
+appi,2017-08-04 18:58:38+05:30,setup.sh
+Alexander Furst,2017-08-16 16:00:30-04:00,jarviscli/packages/mapps.py
+Alexander Furst,2017-08-16 16:00:30-04:00,jarviscli/packages/weather_pinpoint.py
+umangahuja1,2017-08-20 00:18:13+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-08-20 00:18:13+05:30,jarviscli/packages/twitter.py
+umangahuja1,2017-08-20 00:18:13+05:30,requirements.txt
+Raz1990,2017-08-27 05:22:30+03:00,.editorconfig
+appi,2017-09-06 19:44:21+05:30,jarviscli/tests/test_auto/test_weatherIn.py
+umangahuja1,2017-09-06 23:46:20+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-09-06 23:46:20+05:30,jarviscli/packages/twitter.py
+umangahuja1,2017-09-06 23:46:20+05:30,requirements.txt
+Alexander Furst,2017-09-07 16:35:27-04:00,jarviscli/CmdInterpreter.py
+Alexander Furst,2017-09-07 16:35:27-04:00,jarviscli/Jarvis.py
+Alexander Furst,2017-09-07 17:46:20-04:00,jarviscli/CmdInterpreter.py
+Alexander Furst,2017-09-07 17:46:20-04:00,jarviscli/Jarvis.py
+Alexander Furst,2017-09-07 17:51:55-04:00,jarviscli/CmdInterpreter.py
+Alexander Furst,2017-09-07 17:51:55-04:00,jarviscli/Jarvis.py
+Alexander Furst,2017-09-07 17:53:34-04:00,jarviscli/Jarvis.py
+appi,2017-09-11 18:31:11+05:30,.coafile
+appi,2017-09-11 18:31:11+05:30,.travis.yml
+appi,2017-09-11 18:31:11+05:30,README.md
+appi,2017-09-11 20:44:40+05:30,NEW_FUNCTIONALITIES.md
+appi,2017-09-11 20:44:40+05:30,jarviscli/CmdInterpreter.py
+appi,2017-09-11 20:44:40+05:30,jarviscli/packages/movie.py
+appi,2017-09-11 20:44:40+05:30,jarviscli/packages/plot.py
+appi,2017-09-11 20:44:40+05:30,jarviscli/tests/test_auto/test_movie.py
+appi,2017-09-15 10:24:00+05:30,jarviscli/CmdInterpreter.py
+appi,2017-09-19 13:47:52+05:30,setup.sh
+umangahuja1,2017-09-30 01:22:10+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-09-30 01:22:10+05:30,jarviscli/packages/cricket.py
+umangahuja1,2017-09-30 01:22:10+05:30,requirements.txt
+Daniel Kulangiev,2017-10-04 02:15:38-04:00,jarviscli/tests/test_manual/test_parser.py
+Umang Ahuja,2017-10-07 19:11:25+00:00,NEW_FUNCTIONALITIES.md
+Umang Ahuja,2017-10-08 14:28:36+00:00,NEW_FUNCTIONALITIES.md
+sola,2017-10-09 14:28:37-04:00,jarviscli/packages/wiki.py
+sola,2017-10-09 14:28:37-04:00,jarviscli/tests/test_auto/test_wiki.py
+sola,2017-10-09 15:40:19-04:00,jarviscli/CmdInterpreter.py
+sola,2017-10-10 18:39:32-04:00,jarviscli/CmdInterpreter.py
+sola,2017-10-10 18:39:32-04:00,jarviscli/packages/wiki.py
+sola,2017-10-10 18:39:32-04:00,jarviscli/tests/test_auto/test_wiki.py
+sola,2017-10-10 18:39:32-04:00,requirements.txt
+appi,2017-10-11 12:24:25+05:30,.gitignore
+appi,2017-10-11 13:16:04+05:30,contributors.md
+appi,2017-10-11 13:25:41+05:30,MANIFEST.in
+appi,2017-10-11 13:25:41+05:30,setup.cfg
+appi,2017-10-11 13:25:41+05:30,setup.py
+sola,2017-10-11 12:44:25-04:00,NEW_FUNCTIONALITIES.md
+appi,2017-10-13 16:46:56+05:30,.travis.yml
+appi,2017-10-13 17:06:08+05:30,.travis.yml
+appi,2017-10-13 17:06:08+05:30,requirements.txt
+appi,2017-10-13 17:15:38+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/packages/cricket.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/packages/movie.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/packages/music.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/packages/timeIn.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/packages/wiki.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/tests/test_auto/test_movie.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/tests/test_auto/test_timeIn.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/tests/test_auto/test_wiki.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/tests/test_manual/test_evaluator.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/tests/test_manual/test_forecast.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/utilities/dateTime.py
+appi,2017-10-13 17:15:38+05:30,jarviscli/utilities/lexicalSimilarity.py
+appi,2017-10-13 17:47:20+05:30,.travis.yml
+appi,2017-10-13 17:47:38+05:30,jarviscli/packages/systemOptions.py
+appi,2017-10-13 17:47:38+05:30,jarviscli/packages/todo.py
+appi,2017-10-13 17:47:38+05:30,jarviscli/utilities/PyLyricsClone.py
+umangahuja1,2017-10-13 22:46:48+05:30,jarviscli/packages/quote.py
+umangahuja1,2017-10-13 22:57:58+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-10-13 23:03:10+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-10-13 23:07:02+05:30,jarviscli/CmdInterpreter.py
+Grant Parajuli,2017-10-13 12:41:04-05:00,setup.sh
+appi,2017-10-13 23:52:09+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-13 23:52:09+05:30,jarviscli/packages/quote.py
+Umang Ahuja,2017-10-13 18:41:58+00:00,NEW_FUNCTIONALITIES.md
+StefanosChaliasos,2017-10-14 00:40:42+03:00,README.md
+appi,2017-10-14 13:11:22+05:30,test.sh
+appi,2017-10-14 13:12:21+05:30,README.md
+appi,2017-10-14 13:12:47+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-14 13:12:47+05:30,jarviscli/tests/test_manual/test_parser.py
+appi,2017-10-14 13:14:18+05:30,.editorconfig
+appi,2017-10-14 13:26:45+05:30,jarviscli/packages/movie.py
+appi,2017-10-14 13:39:17+05:30,README.md
+appi,2017-10-14 16:43:18+05:30,setup.sh
+appi,2017-10-14 16:54:00+05:30,.travis.yml
+appi,2017-10-14 16:54:00+05:30,requirements.txt
+appi,2017-10-14 17:07:27+05:30,setup.sh
+appi,2017-10-14 22:12:57+05:30,setup.sh
+eudescar,2017-10-17 21:39:40+03:00,setup.sh
+appi,2017-10-19 12:42:34+05:30,setup.sh
+appi,2017-10-19 16:47:33+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-19 16:47:33+05:30,requirements.txt
+appi,2017-10-19 16:47:33+05:30,setup.sh
+appi,2017-10-19 16:58:18+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-19 16:58:18+05:30,jarviscli/packages/cricket.py
+appi,2017-10-19 16:58:18+05:30,jarviscli/packages/fb.py
+appi,2017-10-19 16:58:18+05:30,jarviscli/packages/file_organise.py
+appi,2017-10-19 16:58:18+05:30,jarviscli/packages/twitter.py
+appi,2017-10-19 22:49:45+05:30,jarviscli/packages/audioHandler.py
+appi,2017-10-19 22:49:45+05:30,requirements.txt
+appi,2017-10-19 23:00:39+05:30,jarviscli/utilities/voice.py
+appi,2017-10-19 23:00:39+05:30,requirements.txt
+appi,2017-10-19 23:34:33+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-19 23:34:33+05:30,jarviscli/packages/forecast.py
+appi,2017-10-19 23:34:33+05:30,jarviscli/packages/reminder.py
+appi,2017-10-19 23:34:33+05:30,jarviscli/packages/todo.py
+appi,2017-10-19 23:36:08+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-19 23:40:23+05:30,jarviscli/packages/directions_to.py
+appi,2017-10-19 23:40:23+05:30,jarviscli/packages/near_me.py
+appi,2017-10-19 23:40:23+05:30,jarviscli/packages/news.py
+appi,2017-10-19 23:40:23+05:30,jarviscli/packages/weatherIn.py
+appi,2017-10-19 23:40:23+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-10-19 23:48:05+05:30,jarviscli/Jarvis.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/Jarvis.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/packages/chat.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/packages/fb.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/packages/file_organise.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/packages/twitter.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/packages/weatherIn.py
+appi,2017-10-20 00:11:19+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-10-20 00:20:12+05:30,test.sh
+appi,2017-10-20 00:30:13+05:30,jarviscli/tests/test_auto/test_brain.py
+appi,2017-10-20 00:30:13+05:30,jarviscli/tests/test_auto/test_movie.py
+appi,2017-10-20 00:43:24+05:30,jarviscli/packages/news.py
+appi,2017-10-20 00:43:58+05:30,jarviscli/tests/test_auto/test_timeIn.py
+appi,2017-10-20 00:43:58+05:30,jarviscli/tests/test_auto/test_wiki.py
+appi,2017-10-20 00:43:58+05:30,jarviscli/tests/test_manual/test_evaluator.py
+appi,2017-10-20 00:43:58+05:30,jarviscli/tests/test_manual/test_help.py
+appi,2017-10-20 00:56:15+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-20 00:56:15+05:30,jarviscli/packages/news.py
+appi,2017-10-20 00:56:15+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-10-20 00:56:15+05:30,jarviscli/tests/test_auto/test_timeIn.py
+appi,2017-10-20 00:56:15+05:30,jarviscli/tests/test_manual/test_evaluator.py
+appi,2017-10-20 01:17:51+05:30,jarviscli/tests/test_auto/test_wiki.py
+appi,2017-10-20 01:20:49+05:30,.travis.yml
+appi,2017-10-20 01:28:23+05:30,.travis.yml
+appi,2017-10-20 01:45:42+05:30,requirements.txt
+appi,2017-10-20 01:45:42+05:30,setup.sh
+appi,2017-10-20 01:52:57+05:30,setup.sh
+appi,2017-10-20 01:56:55+05:30,NEW_FUNCTIONALITIES.md
+appi,2017-10-20 02:45:53+05:30,.travis.yml
+eudescar,2017-10-19 22:33:10-03:00,setup.sh
+eudescar,2017-10-19 22:36:17-03:00,setup.sh
+eudescar,2017-10-19 22:36:39-03:00,requirements.txt
+gilgemer,2017-10-21 17:58:01+03:00,jarviscli/CmdInterpreter.py
+appi,2017-10-23 10:56:10+05:30,.travis.yml
+appi,2017-10-23 10:56:10+05:30,setup.sh
+appi,2017-10-23 11:29:46+05:30,jarviscli/packages/news.py
+appi,2017-10-23 11:29:46+05:30,jarviscli/tests/test_auto/test_timeIn.py
+appi,2017-10-23 11:29:46+05:30,jarviscli/tests/test_auto/test_wiki.py
+appi,2017-10-23 11:29:46+05:30,jarviscli/tests/test_manual/test_evaluator.py
+appi,2017-10-23 12:13:12+05:30,.travis.yml
+appi,2017-10-24 09:31:11+05:30,setup.sh
+appi,2017-10-24 10:16:00+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/chat.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/cricket.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/fb.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/file_organise.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/news.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/twitter.py
+appi,2017-10-24 10:16:00+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-10-24 10:48:32+05:30,.travis.yml
+appi,2017-10-24 10:48:32+05:30,jarviscli/packages/cricket.py
+appi,2017-10-24 10:48:32+05:30,jarviscli/packages/fb.py
+appi,2017-10-24 10:48:32+05:30,jarviscli/packages/news.py
+appi,2017-10-24 10:48:32+05:30,jarviscli/packages/weather_pinpoint.py
+appi,2017-10-24 10:48:32+05:30,jarviscli/utilities/GeneralUtilities.py
+appi,2017-10-24 10:48:32+05:30,jarviscli/utilities/PyLyricsClone.py
+appi,2017-10-24 10:48:32+05:30,test.sh
+appi,2017-10-26 10:21:24+05:30,jarviscli/packages/cricket.py
+appi,2017-10-26 10:48:56+05:30,.travis.yml
+appi,2017-10-26 10:48:56+05:30,jarviscli/utilities/GeneralUtilities.py
+appi,2017-10-26 10:48:56+05:30,jarviscli/utilities/PyLyricsClone.py
+appi,2017-10-26 10:54:14+05:30,setup.sh
+appi,2017-10-27 10:52:33+05:30,.travis.yml
+appi,2017-10-27 11:09:18+05:30,.travis.yml
+appi,2017-10-27 11:18:42+05:30,.travis.yml
+appi,2017-10-27 11:18:42+05:30,requirements.txt
+appi,2017-10-27 11:18:42+05:30,setup.sh
+appi,2017-10-27 11:36:32+05:30,README.md
+appi,2017-10-27 11:51:16+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-27 11:54:12+05:30,.travis.yml
+appi,2017-10-27 12:04:55+05:30,jarviscli/CmdInterpreter.py
+appi,2017-10-27 12:04:55+05:30,requirements.txt
+appi,2017-10-27 12:13:58+05:30,jarviscli/CmdInterpreter.py
+Sukeesh,2017-10-27 20:57:45+05:30,_config.yml
+appi,2017-10-28 20:30:38+05:30,setup.sh
+appi,2017-10-31 21:00:33+05:30,setup.sh
+sola,2017-11-03 19:49:18-04:00,jarviscli/CmdInterpreter.py
+Lucas Pedro Bordignon,2017-11-04 10:37:48+02:00,setup.sh
+eudescar,2017-11-09 19:30:11-03:00,setup.sh
+appi,2017-11-18 01:38:07+05:30,requirements.txt
+appi,2017-11-18 02:27:47+05:30,setup.sh
+appi,2017-11-18 02:39:08+05:30,test.sh
+appi,2017-11-18 16:47:53+05:30,jarviscli/CmdInterpreter.py
+appi,2017-11-18 16:47:53+05:30,requirements.txt
+appi,2017-11-18 17:02:14+05:30,.travis.yml
+appi,2017-11-18 17:02:14+05:30,README.md
+umangahuja1,2017-12-01 16:13:35+05:30,.gitignore
+umangahuja1,2017-12-01 16:13:35+05:30,jarviscli/CmdInterpreter.py
+umangahuja1,2017-12-01 16:13:35+05:30,jarviscli/packages/hackathon.py
+appi147,2017-12-12 16:11:49+05:30,.gitignore
+appi147,2017-12-12 16:11:49+05:30,jarviscli/packages/hackathon.py
+appi147,2017-12-12 16:11:49+05:30,setup.sh
+umang,2017-12-14 05:30:32+05:30,.gitignore
+umang,2017-12-14 05:30:32+05:30,requirements.txt
+appi147,2017-12-14 11:44:57+05:30,.travis.yml
+appi147,2017-12-14 11:44:57+05:30,.travis/install.sh
+appi147,2017-12-14 11:48:57+05:30,.travis/install.sh
+appi147,2017-12-14 12:03:05+05:30,.travis.yml
+appi147,2017-12-14 12:03:05+05:30,.travis/install.sh
+appi147,2017-12-14 12:21:01+05:30,requirements.txt
+GrantFleming,2017-12-14 19:50:00+00:00,jarviscli/packages/hackathon.py
+GrantFleming,2017-12-15 12:17:28+00:00,jarviscli/packages/hackathon.py
+mohit17067,2017-12-17 22:28:21+05:30,jarviscli/CmdInterpreter.py
+mohit17067,2017-12-17 22:28:21+05:30,jarviscli/packages/translate.py
+mohit17067,2017-12-17 22:28:21+05:30,requirements.txt
+appi147,2017-12-18 16:28:50+05:30,jarviscli/packages/hackathon.py
+mohit17067,2017-12-18 18:07:42+05:30,jarviscli/CmdInterpreter.py
+mohit17067,2017-12-18 18:07:42+05:30,jarviscli/packages/translate.py
+mohit17067,2017-12-18 22:52:02+05:30,jarviscli/packages/translate.py
+mohit17067,2017-12-19 00:03:15+05:30,jarviscli/packages/translate.py
+mohit17067,2017-12-19 11:54:34+05:30,jarviscli/packages/translate.py
+mohit17067,2017-12-19 18:22:52+05:30,jarviscli/CmdInterpreter.py
+appi147,2017-12-19 20:31:40+05:30,jarviscli/packages/translate.py
+appi147,2017-12-19 20:51:47+05:30,jarviscli/packages/hackathon.py
+appi147,2017-12-22 16:02:04+05:30,.travis.yml
+mohit17067,2017-12-24 00:44:47+05:30,jarviscli/CmdInterpreter.py
+mohit17067,2017-12-24 00:44:47+05:30,jarviscli/packages/dictionary.py
+mohit17067,2017-12-24 00:44:47+05:30,requirements.txt
+appi147,2017-12-26 14:36:38+05:30,.travis.yml
+appi147,2017-12-26 14:58:13+05:30,.travis.yml
+appi147,2017-12-26 15:10:03+05:30,.travis.yml
+appi147,2017-12-26 15:41:09+05:30,.travis.yml
+Saurabh Sameer,2017-12-28 21:40:28+05:30,jarviscli/packages/cricket.py
+Saurabh Sameer,2017-12-28 22:34:58+05:30,jarviscli/packages/cricket.py
+Saurabh Sameer,2017-12-28 22:44:17+05:30,jarviscli/packages/cricket.py
+Saurabh Sameer,2017-12-29 03:37:11+05:30,jarviscli/packages/cricket.py
+aswanipranjal,2018-01-13 17:56:37+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2018-01-16 17:29:48+05:30,setup.sh
+BradleyWalker,2018-02-07 22:47:35-06:00,setup.sh
+CTapas,2018-02-09 17:24:27+05:30,jarviscli/CmdInterpreter.py
+CTapas,2018-02-09 17:24:27+05:30,jarviscli/packages/file_organise.py
+AmirNaghibi,2018-03-07 11:06:38-08:00,README.md
+Seth Wilson,2018-03-09 10:56:17-06:00,jarviscli/CmdInterpreter.py
+Seth Wilson,2018-03-09 10:56:17-06:00,jarviscli/packages/tempconv.py
+Seth Wilson,2018-03-09 10:56:17-06:00,jarviscli/tests/test_auto/test_tempconv.py
+Seth Wilson,2018-03-17 09:12:49-05:00,jarviscli/packages/tempconv.py
+Sanjay Prajapat,2018-03-31 23:17:09+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-01 00:25:30+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-01 00:25:30+05:30,setup.sh
+Arpit Choudhary,2018-04-01 01:50:33+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-01 13:49:32+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-01 14:46:41+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-01 14:46:41+05:30,jarviscli/packages/ip.py
+Sanjay Prajapat,2018-04-01 23:17:13+05:30,jarviscli/packages/ip.py
+Arpit Choudhary,2018-04-02 21:50:17+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-02 23:41:26+05:30,jarviscli/CmdInterpreter.py
+Sanjay Prajapat,2018-04-02 23:41:26+05:30,requirements.txt
+Cheuk Yin Ng,2018-04-29 14:50:10+03:00,jarviscli/packages/dictionary.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/CmdInterpreter.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/chat.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/cricket.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/dice.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/dictionary.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/fb.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/file_organise.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/news.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/systemOptions.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/translate.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/twitter.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/packages/weather_pinpoint.py
+pnhofmann,2018-04-29 14:55:48+03:00,jarviscli/tests/test_auto/test_dice.py
+pnhofmann,2018-04-29 14:55:48+03:00,setup.sh
+Adelin,2018-05-20 03:33:14+03:00,jarviscli/CmdInterpreter.py
+Adelin,2018-05-20 03:33:14+03:00,jarviscli/packages/imgur.py
+dixi3,2018-05-20 04:47:57+03:00,jarviscli/CmdInterpreter.py
+dixi3,2018-05-20 05:12:41+03:00,jarviscli/packages/imgur.py
+dixi3,2018-05-20 05:23:47+03:00,jarviscli/packages/imgur.py
+dixi3,2018-05-20 12:33:09+03:00,jarviscli/packages/imgur.py
+Kleio(Claire) Fragkedaki,2018-06-01 14:58:11+05:30,jarviscli/CmdInterpreter.py
+Kleio(Claire) Fragkedaki,2018-06-01 14:58:11+05:30,jarviscli/data/currencies.csv
+Kleio(Claire) Fragkedaki,2018-06-01 14:58:11+05:30,jarviscli/packages/currencyconv.py
+Kleio(Claire) Fragkedaki,2018-06-01 14:58:11+05:30,jarviscli/tests/test_manual/test_currencyconv.py
+Kleio(Claire) Fragkedaki,2018-06-01 14:58:11+05:30,jarviscli/utilities/GeneralUtilities.py
+Kleio(Claire) Fragkedaki,2018-06-01 14:58:11+05:30,requirements.txt
+Kleio(Claire) Fragkedaki,2018-06-01 15:13:59+05:30,jarviscli/CmdInterpreter.py
+Kleio(Claire) Fragkedaki,2018-06-01 15:13:59+05:30,jarviscli/packages/quote.py
+Kleio(Claire) Fragkedaki,2018-06-01 15:13:59+05:30,jarviscli/tests/test_manual/test_quote.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/Jarvis.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/packages/dice.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/plugins/dice.py
+Philipp Hofmann,2018-06-02 15:03:43+02:00,jarviscli/tests/test_auto/test_dice.py
+Philipp Hofmann,2018-06-02 15:03:54+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-06-02 15:03:54+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-06-02 16:15:33+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-06-02 16:15:33+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,PLUGINS.md
+Philipp Hofmann,2018-06-02 16:15:42+02:00,README.md
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/alias/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/alias/plugin0123.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/alias/plugin4567.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/composed/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/composed/plugin0.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/decorator/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/decorator/plugin0.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/filter/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/filter/native.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/filter/network.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/filter/plattform.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/filter/python.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/simple/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/simple/plugin0.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/plugins/simple/plugin12.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/exit.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/packages/wiki.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/wiki.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_auto/test_wiki.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/shutdown.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/volume.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/packages/evaluator.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_manual/test_evaluator.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/packages/ip.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/clock.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/ip.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/packages/chuck.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/chuck.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,custom/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/Jarvis.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/plugins/__init__.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_manual/test_help.py
+Philipp Hofmann,2018-06-02 16:15:42+02:00,jarviscli/tests/test_manual/test_parser.py
+Arpit Choudhary,2018-07-02 22:56:24+05:30,requirements.txt
+Sean West,2018-07-04 01:15:55+01:00,jarviscli/plugin.py
+Arpit Choudhary,2018-07-15 16:25:22+05:30,setup.sh
+William Timimi,2018-07-19 15:22:12+02:00,jarviscli/packages/mapps.py
+Philipp Hofmann,2018-09-11 19:48:46+02:00,PLUGINS.md
+Philipp Hofmann,2018-09-11 19:48:46+02:00,README.md
+Philipp Hofmann,2018-09-12 10:43:58+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-09-12 10:43:58+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-09-12 10:43:58+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-09-12 11:23:53+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-09-12 11:23:53+02:00,jarviscli/plugin.py
+pnhofmann,2018-09-13 18:07:57+03:00,jarviscli/tests/test_manual/test_quote.py
+Philipp Hofmann,2018-10-09 19:01:43+02:00,jarviscli/plugins/shutdown.py
+Philipp Hofmann,2018-10-09 21:41:16+02:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2018-10-09 21:41:16+02:00,requirements.txt
+Philipp Hofmann,2018-10-11 14:00:20+02:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2018-10-13 14:04:14+02:00,jarviscli/Jarvis.py
+Philipp Hofmann,2018-10-13 17:45:00+02:00,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2018-10-15 14:24:11+05:30,jarviscli/plugins/shutdown.py
+Arpit Choudhary,2018-10-15 16:15:27+05:30,.travis.yml
+Arpit Choudhary,2018-10-15 16:15:27+05:30,jarviscli/plugins/evaluator.py
+Arpit Choudhary,2018-10-15 16:15:27+05:30,jarviscli/tests/test_manual/test_timeIn.py
+Arpit Choudhary,2018-10-16 09:18:50+05:30,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2018-10-16 10:06:41+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-10-16 10:06:41+02:00,requirements.txt
+Philipp Hofmann,2018-10-16 11:15:14+02:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2018-10-16 11:15:14+02:00,jarviscli/tests/test_manual/test_evaluator.py
+Philipp Hofmann,2018-10-16 11:16:30+02:00,jarviscli/tests/test_manual/test_help.py
+Philipp Hofmann,2018-10-16 11:16:30+02:00,jarviscli/tests/test_manual/test_parser.py
+Philipp Hofmann,2018-10-17 11:20:41+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:20:41+02:00,jarviscli/packages/hackathon.py
+Philipp Hofmann,2018-10-17 11:20:41+02:00,jarviscli/plugins/hackathon.py
+Philipp Hofmann,2018-10-17 11:20:41+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:20:41+02:00,jarviscli/utilities/voice.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/packages/fb.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/packages/music.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/plugins/music.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,music/.gitignore
+Philipp Hofmann,2018-10-17 11:21:15+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/PluginManager.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/utilities/GeneralUtilities.py
+Philipp Hofmann,2018-10-17 11:21:15+02:00,jarviscli/utilities/notification.py
+Philipp Hofmann,2018-10-17 11:21:41+02:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2018-10-17 11:21:41+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 11:21:41+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:21:41+02:00,jarviscli/packages/twitter.py
+Philipp Hofmann,2018-10-17 11:21:41+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:22:57+02:00,PLUGINS.md
+Philipp Hofmann,2018-10-17 11:22:57+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:22:57+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-10-17 11:23:01+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:23:01+02:00,jarviscli/utilities/GeneralUtilities.py
+Philipp Hofmann,2018-10-17 11:23:01+02:00,jarviscli/utilities/schedule.py
+Philipp Hofmann,2018-10-17 11:23:01+02:00,jarviscli/plugin.py
+Philipp Hofmann,2018-10-17 11:23:01+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:23:01+02:00,jarviscli/utilities/schedule.py
+Philipp Hofmann,2018-10-17 11:23:02+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:23:02+02:00,jarviscli/packages/reminder.py
+Philipp Hofmann,2018-10-17 11:23:02+02:00,jarviscli/packages/todo.py
+Philipp Hofmann,2018-10-17 11:23:02+02:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2018-10-17 11:23:02+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 11:23:02+02:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2018-10-17 11:23:02+02:00,setup.sh
+StefanosChaliasos,2018-10-17 11:23:03+02:00,README.md
+StefanosChaliasos,2018-10-17 11:23:03+02:00,jarviscli/utilities/voice.py
+StefanosChaliasos,2018-10-17 11:23:03+02:00,setup.sh
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/plugins/hackathon.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/utilities/notification.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/utilities/voice.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/tests/test_auto/test_music.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2018-10-17 11:23:03+02:00,jarviscli/utilities/notification.py
+Philipp Hofmann,2018-10-17 11:23:04+02:00,README.md
+Philipp Hofmann,2018-10-17 11:23:04+02:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2018-10-17 11:54:54+02:00,custom/hello_world.py
+Philipp Hofmann,2018-10-17 11:54:54+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:54:54+02:00,jarviscli/plugins/ask.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/packages/clear.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/clear.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/dice.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/cricket.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/currencyconv.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/file_organise.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/imgur.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/lyrics.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/news.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/picshow.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/tempconv.py
+Philipp Hofmann,2018-10-17 11:55:13+02:00,jarviscli/plugins/translate.py
+Philipp Hofmann,2018-10-17 11:55:30+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:55:30+02:00,jarviscli/plugins/cricket.py
+Philipp Hofmann,2018-10-17 11:56:18+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:56:18+02:00,jarviscli/plugins/currencyconv.py
+Philipp Hofmann,2018-10-17 11:56:54+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:56:54+02:00,jarviscli/plugins/file_organise.py
+Philipp Hofmann,2018-10-17 11:57:10+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:57:10+02:00,jarviscli/plugins/imgur.py
+Philipp Hofmann,2018-10-17 11:57:22+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:57:22+02:00,jarviscli/plugins/lyrics.py
+Philipp Hofmann,2018-10-17 11:57:47+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:57:47+02:00,jarviscli/packages/movie.py
+Philipp Hofmann,2018-10-17 11:57:47+02:00,jarviscli/plugins/movie.py
+Philipp Hofmann,2018-10-17 11:57:47+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 11:58:32+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:58:32+02:00,jarviscli/plugins/hotspot.py
+Philipp Hofmann,2018-10-17 11:58:32+02:00,jarviscli/plugins/match.py
+Philipp Hofmann,2018-10-17 11:58:32+02:00,jarviscli/plugins/picshow.py
+Philipp Hofmann,2018-10-17 11:59:21+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:59:21+02:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2018-10-17 11:59:55+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 11:59:55+02:00,jarviscli/plugins/tempconv.py
+Philipp Hofmann,2018-10-17 13:21:47+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 13:21:47+02:00,jarviscli/plugins/translate.py
+Philipp Hofmann,2018-10-17 13:21:47+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/news.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/packages/systemOptions.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/cricket.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/currencyconv.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/file_organise.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/movie.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2018-10-17 13:22:24+02:00,jarviscli/plugins/tempconv.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/tests/test_auto/test_lyrics.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/tests/test_auto/test_news.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/tests/test_auto/test_tempconv.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/tests/test_manual/test_currencyconv.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/tests/test_manual/test_quote.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/data/nltk/.gitignore
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/packages/dictionary.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,jarviscli/plugins/dictionary.py
+Philipp Hofmann,2018-10-17 13:22:25+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 13:22:25+02:00,setup.sh
+Philipp Hofmann,2018-10-17 13:33:54+02:00,requirements.txt
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/plugins/hackathon.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/plugins/movies.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/plugins/open.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/plugins/voice.py
+Philipp Hofmann,2018-10-17 13:34:02+02:00,jarviscli/tests/test_manual/test_default.py
+Arpit Choudhary,2018-10-17 18:38:44+05:30,.gitignore
+Arpit Choudhary,2018-10-17 18:38:44+05:30,requirements.txt
+Arpit Choudhary,2018-10-17 18:38:44+05:30,setup.sh
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/packages/aiml/__init__.py
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/packages/aiml/brain.py
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/plugins/ask.py
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/plugins/brain/.gitignore
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/plugins/brain/chat.aiml
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/plugins/brain/default.aiml
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/plugins/brain/emotion.aiml
+Arpit Choudhary,2018-10-18 10:26:07+05:30,jarviscli/plugins/brain/std-startup.xml
+Arpit Choudhary,2018-10-18 10:26:07+05:30,requirements.txt
+Arpit Choudhary,2018-10-18 10:35:30+05:30,jarviscli/plugins/ask.py
+Arpit Choudhary,2018-10-18 12:00:27+05:30,jarviscli/data/keys.json
+Arpit Choudhary,2018-10-18 13:04:57+05:30,.gitignore
+Arpit Choudhary,2018-10-18 13:04:57+05:30,jarviscli/data/keys.json
+Arpit Choudhary,2018-10-18 13:04:57+05:30,jarviscli/data/samplekeys.json
+Arpit Choudhary,2018-10-18 13:04:57+05:30,jarviscli/packages/timeIn.py
+Arpit Choudhary,2018-10-18 13:24:32+05:30,jarviscli/packages/timeIn.py
+Arpit Choudhary,2018-10-18 13:24:32+05:30,jarviscli/tests/test_auto/test_timeIn.py
+Arpit Choudhary,2018-10-18 13:30:11+05:30,jarviscli/tests/test_manual/test_timeIn.py
+pnhofmann,2018-10-19 10:59:35+05:30,jarviscli/packages/timeIn.py
+Arpit Choudhary,2018-10-20 09:10:41+05:30,.gitignore
+Arpit Choudhary,2018-10-20 09:10:41+05:30,jarviscli/data/samplekey_timein.json
+Arpit Choudhary,2018-10-20 09:10:41+05:30,jarviscli/data/samplekeys.json
+Arpit Choudhary,2018-10-20 09:10:41+05:30,jarviscli/packages/timeIn.py
+Philipp Hofmann,2018-10-20 17:12:03+02:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-20 17:12:03+02:00,jarviscli/packages/timeIn.py
+Unknown,2018-10-21 12:30:54+03:00,jarviscli/plugins/imgur.py
+Unknown,2018-10-21 12:37:35+03:00,jarviscli/plugins/imgur.py
+Unknown,2018-10-21 16:30:42+03:00,jarviscli/plugins/imgur.py
+Unknown,2018-10-21 23:34:44+03:00,jarviscli/plugins/imgur.py
+Arpit Choudhary,2018-10-23 22:16:55+05:30,test.sh
+InEdited,2018-10-28 01:42:31+02:00,jarviscli/plugins/movie.py
+InEdited,2018-10-28 01:42:31+02:00,jarviscli/plugins/music.py
+Benjamin Nichols-Farquhar,2018-10-28 16:03:30-04:00,jarviscli/plugins/imgur.py
+Philipp Hofmann,2018-10-29 17:09:08+01:00,custom/.gitignore
+Philipp Hofmann,2018-10-29 17:09:08+01:00,custom/hello_world.py
+Philipp Hofmann,2018-10-29 20:56:13+01:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-10-29 20:56:13+01:00,jarviscli/PluginManager.py
+nnewhart,2018-10-31 15:19:36-07:00,jarviscli/data/currencies.csv
+Sreekanth T M,2018-11-05 13:42:17+00:00,jarviscli/plugins/cricket.py
+pnhofmann,2018-11-05 13:42:17+00:00,jarviscli/plugins/cricket.py
+SerDoggo,2018-11-09 06:04:29-08:00,jarviscli/CmdInterpreter.py
+SerDoggo,2018-11-09 06:04:29-08:00,jarviscli/packages/weatherIn.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/Jarvis.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/packages/mapps.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/packages/timeIn.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/packages/weatherIn.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/packages/weather_pinpoint.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/ip.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/music.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/news.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/open.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/plugins/tempconv.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/tests/test_manual/test_quote.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/utilities/GeneralUtilities.py
+Philipp Hofmann,2018-11-11 14:07:56+00:00,jarviscli/utilities/textParser.py
+Juan Daniel Amparan,2018-11-11 14:28:54+00:00,jarviscli/plugins/wiki.py
+Juan Daniel Amparan,2018-11-11 14:28:54+00:00,jarviscli/plugins/wiki.py
+mayank-kapur,2018-11-14 13:27:48+00:00,jarviscli/plugins/gmail.py
+mayank-kapur,2018-11-14 13:27:48+00:00,jarviscli/plugins/gmail.py
+mayank-kapur,2018-11-14 13:27:48+00:00,jarviscli/plugins/gmail.py
+Sainadh Devireddy,2018-12-16 10:24:33+00:00,jarviscli/plugins/ask.py
+Sainadh Devireddy,2018-12-16 10:24:33+00:00,jarviscli/plugins/dice.py
+Sainadh Devireddy,2018-12-16 10:24:33+00:00,jarviscli/plugins/exit.py
+Sainadh Devireddy,2018-12-16 10:24:33+00:00,jarviscli/plugins/ip.py
+Philipp Hofmann,2018-12-16 10:46:57+00:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2018-12-16 10:46:57+00:00,jarviscli/packages/weatherIn.py
+Philipp Hofmann,2018-12-16 10:46:57+00:00,jarviscli/plugins/quote.py
+Arpit Choudhary,2018-12-17 21:08:30+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/packages/umbrella.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/plugins/systemOptions.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/plugins/voice.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/tests/test_manual/test_evaluator.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/tests/test_manual/test_forecast.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,jarviscli/tests/test_manual/test_quote.py
+Arpit Choudhary,2018-12-18 15:04:09+05:30,requirements.txt
+Arpit Choudhary,2018-12-18 15:18:26+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2018-12-18 18:50:08+05:30,jarviscli/PluginManager.py
+Arpit Choudhary,2018-12-18 18:50:08+05:30,jarviscli/plugins/match.py
+Arpit Choudhary,2018-12-18 18:50:08+05:30,jarviscli/utilities/GeneralUtilities.py
+Arpit Choudhary,2018-12-18 19:44:33+05:30,jarviscli/utilities/PyLyricsClone.py
+Arpit Choudhary,2018-12-18 19:45:32+05:30,jarviscli/packages/record.py
+Arpit Choudhary,2018-12-18 19:45:32+05:30,requirements.txt
+Philipp Hofmann,2018-12-18 16:03:34+01:00,jarviscli/plugins/lyrics.py
+Philipp Hofmann,2018-12-18 16:03:34+01:00,jarviscli/utilities/PyLyricsClone.py
+Arpit Choudhary,2018-12-18 21:23:59+05:30,jarviscli/plugins/lyrics.py
+Arpit Choudhary,2018-12-22 19:07:37+05:30,requirements.txt
+Arpit Choudhary,2018-12-26 11:28:17+05:30,jarviscli/plugins/ask.py
+Philipp Hofmann,2019-01-10 18:24:49+00:00,jarviscli/Jarvis.py
+Sushmith Bhatta,2019-01-11 10:36:08+00:00,jarviscli/plugins/ip.py
+Sushmith,2019-01-11 10:36:08+00:00,jarviscli/plugins/clear.py
+Philipp Hofmann,2019-01-12 12:23:54+01:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2019-01-12 12:23:54+01:00,requirements.txt
+bsushmith,2019-01-12 11:29:42+00:00,jarviscli/plugins/speedtest.py
+bsushmith,2019-01-12 11:29:42+00:00,requirements.txt
+bsushmith,2019-01-21 14:46:05+00:00,jarviscli/plugins/systemOptions.py
+bsushmith,2019-01-23 13:49:28+00:00,jarviscli/CmdInterpreter.py
+bsushmith,2019-01-23 13:49:28+00:00,jarviscli/plugins/currencyconv.py
+bsushmith,2019-01-23 13:49:28+00:00,jarviscli/plugins/gmail.py
+bsushmith,2019-01-23 13:49:28+00:00,jarviscli/plugins/lyrics.py
+bsushmith,2019-01-23 13:49:28+00:00,jarviscli/plugins/speedtest.py
+pnhofmann,2019-01-23 13:49:28+00:00,jarviscli/plugins/speedtest.py
+bsushmith,2019-01-23 21:00:38+05:30,jarviscli/plugins/movie.py
+bsushmith,2019-01-24 00:15:19+05:30,jarviscli/plugins/movie.py
+Sushmith,2019-01-24 00:42:58+05:30,jarviscli/plugins/movie.py
+bsushmith,2019-01-24 01:38:55+05:30,jarviscli/plugins/movie.py
+Jonathan Pigrée,2019-01-24 15:36:41+02:00,Dockerfile
+Jonathan Pigrée,2019-01-24 15:36:41+02:00,Makefile
+bsushmith,2019-01-29 10:18:44+00:00,jarviscli/plugins/movie.py
+pnhofmann,2019-01-29 12:48:57+01:00,requirements.txt
+pnhofmann,2019-01-29 16:23:41+01:00,requirements.txt
+ApostPap,2019-01-31 03:50:24+02:00,jarviscli/plugins/health.py
+ApostPap,2019-01-31 20:23:59+02:00,jarviscli/plugins/health.py
+ApostPap,2019-01-31 21:18:36+02:00,jarviscli/plugins/health.py
+Shahlin Ibrahim,2019-02-02 10:48:09+00:00,jarviscli/plugins/coin_flip.py
+Shahlin Ibrahim,2019-02-02 10:48:09+00:00,jarviscli/plugins/evaluator.py
+Shahlin Ibrahim,2019-02-02 10:48:09+00:00,jarviscli/plugins/music.py
+Mukesh Kumar,2019-02-03 23:43:22+05:30,jarviscli/plugins/stt.py
+Mukesh Kumar,2019-02-03 23:43:22+05:30,requirements.txt
+M. Mukesh Kumar,2019-02-04 00:01:02+05:30,requirements.txt
+Mukesh Kumar,2019-02-04 00:16:56+05:30,jarviscli/plugins/stt.py
+M. Mukesh Kumar,2019-02-04 00:19:26+05:30,jarviscli/plugins/stt.py
+Mukesh Kumar,2019-02-04 16:33:39+05:30,jarviscli/plugins/stt.py
+Mukesh Kumar,2019-02-05 23:03:32+05:30,jarviscli/plugins/stt.py
+Shahlin Ibrahim,2019-02-07 09:22:58+01:00,jarviscli/plugins/battery.py
+pnhofmann,2019-02-07 09:22:58+01:00,jarviscli/plugins/battery.py
+jay4563,2019-02-08 16:50:12+01:00,jarviscli/plugins/news.py
+Mukesh Kumar,2019-02-09 22:25:36+05:30,jarviscli/plugins/camera.py
+Mukesh Kumar,2019-02-09 22:25:36+05:30,jarviscli/plugins/stt.py
+Mukesh Kumar,2019-02-09 22:25:36+05:30,jarviscli/plugins/switchingwin.py
+Mukesh Kumar,2019-02-10 23:19:21+05:30,jarviscli/plugins/stt.py
+Mukesh Kumar,2019-02-10 23:19:21+05:30,jarviscli/plugins/switchingwin.py
+Mukesh Kumar,2019-02-10 23:19:21+05:30,requirements.txt
+pnhofmann,2019-02-11 09:56:55+01:00,jarviscli/plugins/voice_control.py
+pnhofmann,2019-02-11 09:57:51+01:00,jarviscli/plugins/voice_control.py
+pnhofmann,2019-02-11 10:39:48+01:00,README.md
+pnhofmann,2019-02-11 10:39:48+01:00,jarviscli/plugins/voice_control.py
+pnhofmann,2019-02-11 10:39:48+01:00,requirements.txt
+pnhofmann,2019-02-11 10:39:48+01:00,requirements_voice_control.txt
+pnhofmann,2019-02-11 10:39:48+01:00,setup.sh
+Mukesh Kumar,2019-02-12 16:41:39+05:30,jarviscli/plugins/stt.py
+Mukesh Kumar,2019-02-12 17:16:35+05:30,installpyaudio.py
+Mukesh Kumar,2019-02-12 17:16:35+05:30,jarviscli/plugins/voice_control.py
+Mukesh Kumar,2019-02-12 17:16:35+05:30,setup.sh
+pnhofmann,2019-02-12 18:53:19+01:00,installpyaudio.py
+pnhofmann,2019-02-12 18:53:19+01:00,requirements.txt
+pnhofmann,2019-02-12 18:53:19+01:00,setup.sh
+joseph simmons III,2019-02-13 08:55:40+00:00,README.md
+Philipp Hofmann,2019-02-25 21:29:46+00:00,PLUGINS.md
+Philipp Hofmann,2019-02-25 21:29:46+00:00,README.md
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/CmdInterpreter.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/PluginManager.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugin.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/ask.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/battery.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/camera.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/chuck.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/clear.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/clock.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/coin_flip.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/cricket.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/currencyconv.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/dice.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/dictionary.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/exit.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/file_organise.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/gmail.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/hackathon.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/health.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/hotspot.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/imgur.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/ip.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/lyrics.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/match.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/movie.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/movies.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/music.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/news.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/picshow.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/shutdown.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/speedtest.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/switchingwin.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/tempconv.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/translate.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/voice.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/voice_control.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/volume.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/wiki.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/plugins/decorator/plugin0.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/plugins/filter/platform.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,PLUGINS.md
+Philipp Hofmann,2019-02-25 21:29:46+00:00,README.md
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugin.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/ask.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/battery.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/camera.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/chuck.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/clear.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/clock.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/coin_flip.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/cricket.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/currencyconv.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/dice.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/dictionary.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/evaluator.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/exit.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/file_organise.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/gmail.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/hackathon.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/health.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/hotspot.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/imgur.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/ip.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/lyrics.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/match.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/movie.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/movies.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/music.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/news.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/picshow.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/quote.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/reminder.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/shutdown.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/speedtest.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/switchingwin.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/systemOptions.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/tempconv.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/translate.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/voice.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/voice_control.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/volume.py
+Philipp Hofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/wiki.py
+pnhofmann,2019-02-25 21:29:46+00:00,PLUGINS.md
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/Jarvis.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/PluginManager.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugin.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/PluginManager.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/packages/chat.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugin.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/ask.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/converted.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/Jarvis.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/packages/forecast.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugin.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/converted.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/lyrics.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/systemOptions.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/__init__.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_dice.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_lyrics.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_music.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_news.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_tempconv.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_weatherIn.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_auto/test_wiki.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_currencyconv.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_default.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_evaluator.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_forecast.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_help.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_near_me.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_parser.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_quote.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/test_manual/test_timeIn.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugin.py
+pnhofmann,2019-02-25 21:29:46+00:00,README.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/API.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/PLUGINS.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/TESTING.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/TEST_API.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/build.sh
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/__init__.py
+pnhofmann,2019-02-25 21:29:46+00:00,requirements.txt
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/__init__.py
+pnhofmann,2019-02-25 21:29:46+00:00,README.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/API.md
+pnhofmann,2019-02-25 21:29:46+00:00,doc/TEST_API.md
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/converted.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/cricket.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/evaluator.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/voice_control.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/tests/__init__.py
+pnhofmann,2019-02-25 21:29:46+00:00,jarviscli/plugins/voice_control.py
+pnhofmann,2019-02-27 15:06:42+01:00,.dockerignore
+pnhofmann,2019-02-27 15:06:42+01:00,README.md
+Arpit Choudhary,2019-02-28 14:39:34+05:30,NEW_FUNCTIONALITIES.md
+Arpit Choudhary,2019-02-28 14:39:34+05:30,_config.yml
+Arpit Choudhary,2019-02-28 14:39:34+05:30,jarviscli/plugins/ask.py
+Arpit Choudhary,2019-02-28 14:39:34+05:30,jarviscli/plugins/brain/.gitignore
+Arpit Choudhary,2019-02-28 14:39:34+05:30,jarviscli/plugins/brain/chat.aiml
+Arpit Choudhary,2019-02-28 14:39:34+05:30,jarviscli/plugins/brain/default.aiml
+Arpit Choudhary,2019-02-28 14:39:34+05:30,jarviscli/plugins/brain/emotion.aiml
+Arpit Choudhary,2019-02-28 14:39:34+05:30,jarviscli/plugins/brain/std-startup.xml
+Arpit Choudhary,2019-03-01 03:39:29+05:30,jarviscli/plugins/cricket.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/Jarvis.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/evaluator.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/ip.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/music.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/picshow.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugin.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/converted.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/converted.py
+pnhofmann,2019-03-02 16:36:30+00:00,jarviscli/plugins/system_update.py
+Adrien KELLER,2019-03-17 17:04:51+00:00,jarviscli/plugins/cricket.py
+Konstantinos,2019-03-19 01:00:31+00:00,jarviscli/plugins/stock.py
+Konstantinos,2019-03-19 01:00:31+00:00,music/.gitignore
+Konstantinos,2019-03-19 01:09:30+00:00,jarviscli/plugins/stock.py
+Konstantinos,2019-03-19 10:50:46+00:00,jarviscli/plugins/stock.py
+Konstantinos,2019-03-22 04:10:29+00:00,jarviscli/plugins/news.py
+Konstantinos,2019-03-22 04:18:27+00:00,jarviscli/plugins/news.py
+Konstantinos,2019-03-22 15:34:25+00:00,jarviscli/plugins/news.py
+Konstantinos,2019-03-23 01:58:31+00:00,jarviscli/plugins/news.py
+Arpit Choudhary,2019-03-24 12:10:55+05:30,jarviscli/plugins/news.py
+Arpit Choudhary,2019-03-24 12:13:57+05:30,jarviscli/plugins/news.py
+Arpit Choudhary,2019-03-24 17:26:06+05:30,jarviscli/plugins/news.py
+Arpit Choudhary,2019-03-24 17:26:06+05:30,jarviscli/tests/__init__.py
+Arpit Choudhary,2019-03-24 17:26:06+05:30,jarviscli/tests/test_auto/test_news.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,installpyaudio.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/Jarvis.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/PluginManager.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/camera.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/chuck.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/clear.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/clock.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/coin_flip.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/converted.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/cricket.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/currencyconv.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/dice.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/dictionary.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/gmail.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/hotspot.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/imgur.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/lyrics.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/match.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/movie.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/movies.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/music.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/news.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/speedtest.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/stock.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/tempconv.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/translate.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/voice_control.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/plugins/wiki.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,jarviscli/utilities/lexicalSimilarity.py
+Arpit Choudhary,2019-03-25 18:56:24+05:30,requirements.txt
+Jon Ander Oribe,2019-03-26 00:50:37+05:30,jarviscli/plugins/currencyconv.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,.travis.yml
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/alias/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/alias/plugin0123.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/alias/plugin4567.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/composed/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/composed/plugin0.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/decorator/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/decorator/plugin0.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/filter/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/filter/native.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/filter/network.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/filter/platform.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/filter/python.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/simple/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/simple/plugin0.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/plugins/simple/plugin12.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_auto/plugins/simple/__init__.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_currencyconv.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_dice.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_evaluator.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_forecast.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_lyrics.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_memory.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_music.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_near_me.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_news.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_parser.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_quote.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_tempconv.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_weatherIn.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,jarviscli/tests/test_wiki.py
+Arpit Choudhary,2019-03-26 01:08:07+05:30,test.sh
+Arpit Choudhary,2019-03-26 01:25:33+05:30,.travis.yml
+Arpit Choudhary,2019-03-26 01:32:15+05:30,requirements.txt
+Dissa,2019-03-26 21:42:29+06:00,jarviscli/plugins/movie.py
+Dissa,2019-03-26 22:40:57+06:00,jarviscli/plugins/movie.py
+Dissa,2019-03-26 22:55:54+06:00,jarviscli/plugins/movie.py
+Dissa,2019-03-27 12:08:52+06:00,jarviscli/plugins/movie.py
+Jon Ander Oribe,2019-03-27 23:14:52+01:00,jarviscli/plugins/evaluator.py
+Jon Ander Oribe,2019-03-27 23:26:35+01:00,jarviscli/plugins/translate.py
+Arpit Choudhary,2019-03-28 11:19:03+05:30,doc/TESTING.md
+Madhava Kulkarni,2019-03-29 16:41:35+05:30,jarviscli/plugins/news.py
+Jon Ander Oribe,2019-03-29 16:45:19+05:30,jarviscli/plugins/random_password.py
+Jon Ander Oribe,2019-03-29 16:48:29+05:30,jarviscli/plugins/write_agenda.py
+pnhofmann,2019-03-31 12:10:15+00:00,jarviscli/plugins/evaluator.py
+Anthony Luc,2019-04-03 21:34:38+05:30,installpyaudio.py
+Madhava Kulkarni,2019-04-09 19:11:44+05:30,jarviscli/plugins/movie.py
+Madhava Kulkarni,2019-04-09 19:12:48+05:30,jarviscli/plugins/news.py
+Michael Wang,2019-04-09 19:13:22+05:30,jarviscli/plugins/random_password.py
+Mian Usman Naeem Kakakhel,2019-04-10 18:12:24+00:00,jarviscli/data/mips_coms.txt
+Mian Usman Naeem Kakakhel,2019-04-10 18:12:24+00:00,jarviscli/data/mips_regs.txt
+Mian Usman Naeem Kakakhel,2019-04-10 18:12:24+00:00,jarviscli/plugins/MipsConverter.py
+Madhav Kulkarni,2019-04-11 12:44:13+05:30,jarviscli/plugins/stock.py
+Madhav Kulkarni,2019-04-11 13:07:58+05:30,jarviscli/plugins/stock.py
+Ion Petropoulos,2019-04-11 10:45:57+00:00,jarviscli/plugins/bmi.py
+Ion Petropoulos,2019-04-11 10:45:57+00:00,jarviscli/plugins/calories.py
+Ion Petropoulos,2019-04-11 10:45:57+00:00,jarviscli/tests/test_bmi.py
+Dissa,2019-04-14 01:03:38+06:00,jarviscli/plugins/game.py
+Dissa,2019-04-14 01:21:55+06:00,jarviscli/plugins/game.py
+Dissa,2019-04-14 01:31:11+06:00,jarviscli/plugins/game.py
+Dissa,2019-04-14 01:37:25+06:00,jarviscli/plugins/game.py
+pnhofmann,2019-04-14 10:35:19+00:00,jarviscli/plugins/bmi.py
+Dissa,2019-04-14 17:11:54+06:00,jarviscli/plugins/game.py
+Madhav Kulkarni,2019-04-26 04:46:10-07:00,jarviscli/plugins/stock.py
+Madhav Kulkarni,2019-04-26 04:55:46-07:00,jarviscli/plugins/stock.py
+=,2019-04-26 16:18:19-03:00,jarviscli/plugins/random_number.py
+=,2019-04-26 16:48:47-03:00,jarviscli/plugins/random_number.py
+=,2019-04-26 20:16:01-03:00,jarviscli/plugins/random_number.py
+=,2019-04-26 20:17:04-03:00,jarviscli/plugins/random_number.py
+=,2019-04-26 20:23:32-03:00,jarviscli/plugins/random_number.py
+=,2019-04-26 20:32:01-03:00,jarviscli/plugins/random_number.py
+Sukeesh,2019-04-27 15:33:10+09:00,jarviscli/plugins/animations.py
+Sukeesh,2019-04-27 15:33:10+09:00,jarviscli/plugins/calories.py
+Sukeesh,2019-04-27 15:33:10+09:00,jarviscli/plugins/cricket.py
+Sukeesh,2019-04-27 15:33:10+09:00,jarviscli/plugins/random_password.py
+Sukeesh,2019-04-27 15:33:10+09:00,jarviscli/plugins/speedtest.py
+Sukeesh,2019-04-27 16:43:20+09:00,.travis.yml
+Sukeesh,2019-04-27 16:43:20+09:00,Makefile
+Sukeesh,2019-04-27 16:43:20+09:00,installpyaudio.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/CmdInterpreter.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/Jarvis.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/PluginManager.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/packages/fileHandler.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/packages/memory/memory.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/packages/timeIn.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/packages/umbrella.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/packages/weatherIn.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/packages/weather_pinpoint.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugin.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/MipsConverter.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/animations.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/bmi.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/calories.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/cricket.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/currencyconv.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/dice.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/dictionary.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/evaluator.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/file_organise.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/game.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/gmail.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/hackathon.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/imgur.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/ip.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/lyrics.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/movie.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/music.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/news.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/quote.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/random_password.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/reminder.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/stock.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/systemOptions.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/tempconv.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/translate.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/voice_control.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/wiki.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/plugins/write_agenda.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/__init__.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/alias/plugin0123.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/alias/plugin4567.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/composed/plugin0.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/filter/native.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/filter/network.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/filter/platform.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/filter/python.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/simple/plugin0.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/plugins/simple/plugin12.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/test_currencyconv.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/test_forecast.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/test_lyrics.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/test_music.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/tests/test_quote.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/utilities/dateTime.py
+Sukeesh,2019-04-27 16:43:20+09:00,jarviscli/utilities/voice.py
+Sukeesh,2019-04-27 14:24:34+05:30,jarviscli/CmdInterpreter.py
+=,2019-04-27 10:46:14-03:00,jarviscli/plugins/random_number.py
+PUNEET JAIN,2019-04-29 05:23:40+00:00,jarviscli/plugin.py
+Panagiotis Skias,2019-05-06 20:42:24+03:00,jarviscli/plugins/lengthconv.py
+Panagiotis Skias,2019-05-06 20:42:24+03:00,jarviscli/plugins/timeconv.py
+Panagiotis Skias,2019-05-06 20:42:24+03:00,jarviscli/tests/test_lengthconv.py
+Panagiotis Skias,2019-05-06 20:42:24+03:00,jarviscli/tests/test_timeconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/Jarvis.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/bmi.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/converted.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/cricket.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/currencyconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/dictionary.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/evaluator.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/file_organise.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/game.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/gmail.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/imgur.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/lengthconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/match.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/movie.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/movies.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/news.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/quote.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/random_number.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/random_password.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/reminder.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/shutdown.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/stock.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/timeconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/translate.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/write_agenda.py
+pnhofmann,2019-05-14 15:00:17+00:00,doc/API.md
+pnhofmann,2019-05-14 15:00:17+00:00,doc/TEST_API.md
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/currencyconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/lengthconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/random_number.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/timeconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/tests/__init__.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/tests/test_currencyconv.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/tests/test_jarvis_api.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/tests/test_quote.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/utilities/GeneralUtilities.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/tests/__init__.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/file_organise.py
+pnhofmann,2019-05-14 15:00:17+00:00,jarviscli/plugins/movies.py
+Panagiotis Skias,2019-05-15 14:53:22+03:00,jarviscli/plugins/rockpaperscissors.py
+Panagiotis Skias,2019-05-15 14:53:22+03:00,jarviscli/tests/test_rockpaperscissors.py
+pnhofmann,2019-06-12 08:08:38+00:00,jarviscli/Jarvis.py
+pnhofmann,2019-06-12 08:08:38+00:00,jarviscli/utilities/voice.py
+minki kim,2019-06-25 21:31:14-07:00,jarviscli/plugins/calories.py
+ApostPap,2019-06-27 16:32:01+00:00,jarviscli/plugins/buy.py
+ApostPap,2019-06-27 16:32:01+00:00,jarviscli/plugins/buy.py
+ApostPap,2019-06-27 16:32:01+00:00,jarviscli/plugins/buy.py
+minki kim,2019-06-27 13:49:18-07:00,jarviscli/plugins/calories.py
+minki kim,2019-06-27 13:57:20-07:00,jarviscli/plugins/calories.py
+minki kim,2019-06-27 14:02:47-07:00,jarviscli/plugins/calories.py
+MINKI KIM,2019-06-27 21:17:21+00:00,jarviscli/plugins/calories.py
+Ian Gabaraev,2019-06-28 10:50:19+00:00,jarviscli/plugins/cryptotracker.py
+minki kim,2019-07-16 21:50:45-07:00,jarviscli/plugins/bmi.py
+minki kim,2019-07-17 08:10:08-07:00,jarviscli/plugins/bmi.py
+minki kim,2019-07-17 08:19:48-07:00,jarviscli/plugins/bmi.py
+pnhofmann,2019-07-18 13:23:36+02:00,jarviscli/plugins/bmi.py
+pnhofmann,2019-07-18 13:23:36+02:00,jarviscli/tests/test_bmi.py
+pnhofmann,2019-07-18 13:36:07+02:00,jarviscli/plugins/bmi.py
+Matthew237,2019-07-18 11:37:50+00:00,jarviscli/plugins/translate.py
+Aecio Cavalcanti,2019-07-23 10:15:17+00:00,jarviscli/CmdInterpreter.py
+Aecio Cavalcanti,2019-07-23 10:15:17+00:00,jarviscli/Jarvis.py
+Aecio Cavalcanti,2019-07-23 10:15:17+00:00,jarviscli/__main__.py
+Aecio Cavalcanti,2019-07-23 10:15:17+00:00,setup.sh
+Aecio Cavalcanti,2019-07-23 10:15:17+00:00,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2019-07-27 14:35:11+05:30,jarviscli/plugins/bmi.py
+Arpit Choudhary,2019-07-27 14:35:11+05:30,jarviscli/plugins/calories.py
+Arpit Choudhary,2019-07-27 14:35:11+05:30,jarviscli/plugins/lengthconv.py
+Arpit Choudhary,2019-07-27 14:35:11+05:30,jarviscli/plugins/rockpaperscissors.py
+Arpit Choudhary,2019-07-27 14:35:11+05:30,jarviscli/plugins/switchingwin.py
+Arpit Choudhary,2019-07-27 14:35:11+05:30,jarviscli/plugins/timeconv.py
+Arpit Choudhary,2019-07-27 19:04:10+05:30,jarviscli/PluginManager.py
+Arpit Choudhary,2019-07-27 19:04:10+05:30,jarviscli/plugin.py
+pnhofmann,2019-07-27 16:13:27+02:00,doc/PLUGINS.md
+pnhofmann,2019-07-27 16:13:27+02:00,jarviscli/PluginManager.py
+pnhofmann,2019-07-27 16:13:27+02:00,jarviscli/plugin.py
+Arpit Choudhary,2019-07-27 21:37:34+05:30,jarviscli/plugins/shutdown.py
+Arpit Choudhary,2019-07-27 21:49:58+05:30,jarviscli/plugins/systemOptions.py
+Arpit Choudhary,2019-07-27 21:56:28+05:30,jarviscli/plugins/file_organise.py
+Arpit Choudhary,2019-07-27 21:56:28+05:30,jarviscli/plugins/ip.py
+Shreyash Agarwal,2019-07-28 02:10:45+05:30,jarviscli/packages/memory/memory.py
+Shreyash Agarwal,2019-07-28 02:10:45+05:30,jarviscli/tests/test_memory.py
+Arpit Choudhary,2019-07-29 23:04:28+05:30,.travis.yml
+Arpit Choudhary,2019-07-29 23:04:51+05:30,.travis.yml
+Jon Ander Oribe,2019-07-30 21:42:37+05:30,.gitignore
+Jon Ander Oribe,2019-07-30 21:42:37+05:30,jarviscli/plugins/myinfo.py
+Alexandr Alexeenko,2019-07-31 18:52:28+05:30,jarviscli/plugins/game.py
+Arpit Choudhary,2019-07-31 23:03:24+05:30,jarviscli/plugins/news.py
+Arpit Choudhary,2019-07-31 23:35:48+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2019-07-31 23:47:34+05:30,.travis.yml
+Arpit Choudhary,2019-07-31 23:53:11+05:30,requirements.txt
+Arpit Choudhary,2019-08-01 00:02:53+05:30,.gitignore
+Arpit Choudhary,2019-08-01 00:02:53+05:30,.travis.yml
+Arpit Choudhary,2019-08-01 00:02:53+05:30,README.md
+Arpit Choudhary,2019-08-01 00:02:53+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2019-08-01 00:02:53+05:30,jarviscli/__main__.py
+Arpit Choudhary,2019-08-01 00:02:53+05:30,jarviscli/plugins/imgur.py
+Arpit Choudhary,2019-08-01 00:02:53+05:30,jarviscli/utilities/GeneralUtilities.py
+Arpit Choudhary,2019-08-01 00:02:53+05:30,jarviscli/utilities/voice.py
+Arpit Choudhary,2019-08-01 00:02:53+05:30,requirements.txt
+Arpit Choudhary,2019-08-01 00:02:53+05:30,setup.bat
+Arpit Choudhary,2019-08-01 00:02:53+05:30,setup.sh
+Arpit Choudhary,2019-08-01 00:35:02+05:30,.travis.yml
+Arpit Choudhary,2019-08-01 00:44:28+05:30,.travis.yml
+Alexandr Alexeenko,2019-08-02 12:51:29+05:30,jarviscli/data/dial_codes.json
+Alexandr Alexeenko,2019-08-02 12:51:29+05:30,jarviscli/plugins/dial_code.py
+sravanjosh,2019-08-02 12:51:43+05:30,jarviscli/utilities/voice.py
+Alexandr Alexeenko,2019-08-02 19:59:26+05:30,jarviscli/utilities/voice.py
+Dastar,2019-08-16 12:22:43+05:30,jarviscli/plugins/game.py
+Dastar,2019-08-16 12:22:43+05:30,jarviscli/plugins/gmail.py
+Dastar,2019-08-16 12:22:43+05:30,jarviscli/plugins/random_password.py
+notAmine,2019-09-12 18:06:36+01:00,Makefile
+Michael Kossowsky,2019-10-02 16:15:17+00:00,jarviscli/plugins/website_status.py
+Michael Kossowsky,2019-10-02 16:15:17+00:00,setup.sh
+Nataw,2019-10-02 20:15:35+00:00,jarviscli/plugins/binary.py
+Nataw,2019-10-02 20:15:35+00:00,jarviscli/plugins/binary.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,README.md
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/CmdInterpreter.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/PluginManager.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/plugins/battery.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/plugins/clock.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/plugins/ip.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/plugins/shutdown.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,jarviscli/plugins/systemOptions.py
+Arpit Choudhary,2019-10-03 13:18:10+05:30,requirements.txt
+moksh-shukla,2019-10-04 16:01:09+00:00,jarviscli/plugins/countryinfo.py
+moksh-shukla,2019-10-04 16:01:09+00:00,jarviscli/plugins/countryinfo.py
+Nilay Majorwar,2019-10-04 16:04:17+00:00,jarviscli/plugins/football.py
+Nilay Majorwar,2019-10-04 16:04:17+00:00,requirements.txt
+Nilay Majorwar,2019-10-04 16:04:17+00:00,jarviscli/plugins/football.py
+pnhofmann,2019-10-04 22:42:01+02:00,README.md
+pnhofmann,2019-10-04 22:42:01+02:00,installer/__main__.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/installer.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/requirements.txt
+pnhofmann,2019-10-04 22:42:01+02:00,installpyaudio.py
+pnhofmann,2019-10-04 22:42:01+02:00,requirements_voice_control.txt
+pnhofmann,2019-10-04 22:42:01+02:00,installer/installer.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/__main__.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/helper.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/installer.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/installer.py
+pnhofmann,2019-10-04 22:42:01+02:00,test.sh
+pnhofmann,2019-10-04 22:42:01+02:00,installer/__main__.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/helper.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/installer.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/unix_windows.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/__main__.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/helper.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/installer.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/__init__.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/b_pip.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/c_nltk.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/d_optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/e_launcher.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/e_launcher.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/PluginManager.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/plugin.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/plugins/systemOptions.py
+pnhofmann,2019-10-04 22:42:01+02:00,requirements.txt
+pnhofmann,2019-10-04 22:42:01+02:00,installer/helper.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/d_optional.py
+pnhofmann,2019-10-04 22:42:01+02:00,.travis.yml
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/PluginManager.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/__main__.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/packages/weather_pinpoint.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/plugins/movie.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/utilities/GeneralUtilities.py
+pnhofmann,2019-10-04 22:42:01+02:00,jarviscli/utilities/notification.py
+pnhofmann,2019-10-04 22:42:01+02:00,requirements.txt
+pnhofmann,2019-10-04 22:42:01+02:00,setup.bat
+pnhofmann,2019-10-04 22:42:01+02:00,setup.sh
+pnhofmann,2019-10-04 22:42:01+02:00,.travis.yml
+pnhofmann,2019-10-04 22:42:01+02:00,installer/helper.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-04 22:42:01+02:00,test.sh
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/e_launcher.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-04 22:42:01+02:00,installer/unix_windows.py
+pnhofmann,2019-10-04 22:42:30+02:00,Dockerfile
+pnhofmann,2019-10-04 22:42:30+02:00,installer/requirements.txt
+pnhofmann,2019-10-04 22:42:30+02:00,requirements.txt
+Alexandr Alexeenko,2019-10-06 16:40:51+00:00,jarviscli/CmdInterpreter.py
+Alexandr Alexeenko,2019-10-06 16:42:11+00:00,jarviscli/plugins/bmi.py
+pnhofmann,2019-10-07 16:57:49+00:00,jarviscli/PluginManager.py
+pnhofmann,2019-10-07 16:57:49+00:00,jarviscli/plugin.py
+pnhofmann,2019-10-07 19:27:09+02:00,jarviscli/CmdInterpreter.py
+Michael Kossowsky,2019-10-07 19:48:48+00:00,.gitignore
+Michael Kossowsky,2019-10-07 19:48:48+00:00,jarviscli/plugins/dns_lookup.py
+pnhofmann,2019-10-09 19:17:33+00:00,installer/steps/e_launcher.py
+pnhofmann,2019-10-09 19:17:33+00:00,installer/steps/e_launcher.py
+Arpit Choudhary,2019-10-10 03:29:19+05:30,.travis.yml
+pnhofmann,2019-10-11 13:04:37+00:00,installer/requirements.txt
+pnhofmann,2019-10-11 13:04:37+00:00,jarviscli/plugins/systemOptions.py
+phinum,2019-10-11 19:03:20+05:30,jarviscli/plugins/location.py
+nataw,2019-10-11 16:00:57+00:00,jarviscli/plugins/whoami.py
+Arpit Choudhary,2019-10-11 21:53:26+05:30,jarviscli/plugins/location.py
+Nilay Majorwar,2019-10-13 09:05:25+00:00,doc/API.md
+Nilay Majorwar,2019-10-13 09:05:25+00:00,jarviscli/CmdInterpreter.py
+Alexandr Alexeenko,2019-10-17 20:57:51+00:00,jarviscli/plugins/project_euler.py
+Arpit Choudhary,2019-10-18 13:34:57+05:30,.travis.yml
+pnhofmann,2019-10-18 09:58:30+00:00,installer/helper.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/optional.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/steps/a_setup_virtualenv.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/steps/b_pip.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/steps/c_nltk.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/steps/d_optional.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/steps/e_launcher.py
+pnhofmann,2019-10-18 09:58:30+00:00,installer/unix_windows.py
+pnhofmann,2019-10-18 09:58:30+00:00,setup.sh
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+=,2019-10-18 11:27:36+00:00,jarviscli/data/websites.csv
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+=,2019-10-18 11:27:36+00:00,jarviscli/data/websites.csv
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+Roger Vieira,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+=,2019-10-18 11:27:36+00:00,jarviscli/data/websites.csv
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+=,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+pnhofmann,2019-10-18 11:27:36+00:00,jarviscli/Jarvis.py
+pnhofmann,2019-10-18 11:27:36+00:00,jarviscli/plugins/OpenWebsite.py
+moksh-shukla,2019-10-21 09:20:49+00:00,jarviscli/plugins/joke_of_day.py
+moksh-shukla,2019-10-21 09:20:49+00:00,jarviscli/plugins/chuck.py
+moksh-shukla,2019-10-21 09:20:49+00:00,jarviscli/plugins/joke_of_day.py
+moksh-shukla,2019-10-21 09:20:49+00:00,jarviscli/tests/test_parser.py
+Madhava Kulkarni,2019-10-26 11:05:17+00:00,jarviscli/plugins/stock.py
+Madhava Kulkarni,2019-10-26 11:05:17+00:00,jarviscli/plugins/stock.py
+pnhofmann,2019-10-26 11:05:17+00:00,jarviscli/plugins/stock.py
+pnhofmann,2019-10-26 11:05:17+00:00,jarviscli/plugins/stock.py
+Sanil,2019-10-29 15:54:19+00:00,jarviscli/data/typing_test_data.csv
+Sanil,2019-10-29 15:54:19+00:00,jarviscli/plugins/typingtest.py
+Sanil,2019-10-29 15:54:19+00:00,jarviscli/plugins/typingtest.py
+pnhofmann,2019-10-29 15:54:19+00:00,jarviscli/plugins/typingtest.py
+Matthew237,2019-10-29 16:03:22+00:00,translate.py
+Matthew237,2019-10-29 16:03:22+00:00,translate.py
+Matthew237,2019-10-29 16:03:22+00:00,jarviscli/plugins/translate.py
+Matthew237,2019-10-29 16:03:22+00:00,jarviscli/Jarvis.py
+Matthew237,2019-10-29 16:03:22+00:00,jarviscli/plugins/translate.py
+Matthew237,2019-10-29 16:03:22+00:00,jarviscli/plugins/translate.py
+Matthew237,2019-10-29 16:03:22+00:00,jarviscli/plugins/translate.py
+pnhofmann,2019-10-29 16:03:22+00:00,installer/steps/c_nltk.py
+pnhofmann,2019-10-29 16:03:22+00:00,jarviscli/plugins/translate.py
+theViz343,2019-10-29 16:09:25+00:00,jarviscli/plugins/blackjack.py
+gmitchell,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+gmitchell,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+PappaStalin,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+PappaStalin,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+PappaStalin,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+PappaStalin,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+PappaStalin,2019-10-30 09:33:23+00:00,jarviscli/plugins/google.py
+Hannan Satopay,2019-11-04 11:32:04+00:00,jarviscli/plugins/cat_fact.py
+akshgpt7,2019-11-04 11:34:30+00:00,jarviscli/plugins/OpenWebsite.py
+akshgpt7,2019-11-04 11:34:30+00:00,jarviscli/data/websites.csv
+xenakal,2019-11-08 11:07:32+00:00,installer/steps/e_launcher.py
+akshgpt7,2019-11-08 11:11:09+00:00,jarviscli/plugins/OpenWebsite.py
+akshgpt7,2019-11-08 11:11:09+00:00,jarviscli/plugins/search.py
+akshgpt7,2019-11-08 11:11:09+00:00,jarviscli/plugins/search.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/CmdInterpreter.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/cricket.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/football.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/speedtest.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/voice.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/utilities/animations.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/CmdInterpreter.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/cricket.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/football.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/speedtest.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/voice.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/CmdInterpreter.py
+Jay Rajput,2019-11-11 12:41:08+00:00,jarviscli/plugins/voice.py
+pnhofmann,2019-11-13 12:21:08+00:00,jarviscli/plugins/joke_of_day.py
+akshgpt7,2019-11-14 17:58:19+00:00,jarviscli/plugins/calculator.py
+akshgpt7,2019-11-14 17:58:19+00:00,jarviscli/plugins/calculator.py
+akshgpt7,2019-11-14 17:58:19+00:00,jarviscli/plugins/calculator.py
+akshgpt7,2019-11-14 17:58:19+00:00,jarviscli/plugins/calculator.py
+akshgpt7,2019-11-14 17:58:19+00:00,jarviscli/plugins/calculator.py
+pnhofmann,2019-11-14 17:58:19+00:00,jarviscli/plugins/calculator.py
+xenakal,2019-11-14 18:09:38+00:00,jarviscli/plugins/akinator.py
+xenakal,2019-11-14 18:09:38+00:00,installer/requirements.txt
+xenakal,2019-11-14 18:09:38+00:00,installer/requirements.txt
+xenakal,2019-11-14 18:09:38+00:00,jarviscli/plugins/akinator.py
+xenakal,2019-11-14 18:09:38+00:00,jarviscli/plugins/akinator.py
+xenakal,2019-11-14 18:09:38+00:00,jarviscli/plugins/akinator.py
+xenakal,2019-11-14 18:09:38+00:00,jarviscli/plugins/akinator.py
+pnhofmann,2019-11-15 16:59:27+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2019-11-15 16:59:27+00:00,jarviscli/plugins/akinator.py
+pnhofmann,2019-11-15 16:59:27+00:00,jarviscli/plugins/evaluator.py
+Baptiste Gautier,2019-11-22 13:21:46+05:30,jarviscli/plugins/calories.py
+ADARSH C,2019-11-25 21:22:47+05:30,jarviscli/plugins/spinthewheel.py
+ADARSH C,2019-11-26 10:19:23+05:30,jarviscli/plugins/spinthewheel.py
+ADARSH C,2019-11-26 10:26:39+05:30,jarviscli/plugins/spinthewheel.py
+ADARSH C,2019-11-26 22:24:27+05:30,jarviscli/plugins/spinthewheel.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugin.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/movie.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/systemOptions.py
+pnhofmann,2019-11-27 20:49:12+01:00,Makefile
+pnhofmann,2019-11-27 20:49:12+01:00,installer/__main__.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/OpenWebsite.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/countryinfo.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/dial_code.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/google.py
+pnhofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/typingtest.py
+pnhofmann,2019-11-27 20:49:12+01:00,test.sh
+Philipp Hofmann,2019-11-27 20:49:12+01:00,setup.bat
+Philipp Hofmann,2019-11-27 20:49:12+01:00,jarviscli/plugins/typingtest.py
+pnhofmann,2019-11-27 20:49:12+01:00,installer/helper.py
+pnhofmann,2019-11-27 20:49:12+01:00,setup.sh
+ADARSH C,2019-12-01 14:29:53+05:30,jarviscli/plugins/spinthewheel.py
+ADARSH C,2019-12-01 18:17:08+05:30,jarviscli/plugins/spinthewheel.py
+ADARSH C,2019-12-03 07:21:12+05:30,jarviscli/plugins/spinthewheel.py
+pnhofmann,2019-12-10 11:40:59+00:00,setup.bat
+brennop,2019-12-12 15:38:52+00:00,jarviscli/plugins/battery.py
+pnhofmann,2019-12-12 15:38:52+00:00,jarviscli/PluginManager.py
+pnhofmann,2019-12-12 15:38:52+00:00,jarviscli/plugins/battery.py
+pnhofmann,2019-12-12 15:38:52+00:00,jarviscli/plugins/battery.py
+Mohd Huzaifa,2019-12-14 20:21:18+00:00,test.sh
+pnhofmann,2019-12-17 19:48:15+00:00,jarviscli/Jarvis.py
+Baptiste Gautier,2019-12-21 15:09:31+00:00,installer/optional.py
+Baptiste Gautier,2019-12-21 15:12:37+00:00,custom/test.py
+Baptiste Gautier,2019-12-21 15:12:37+00:00,installer/requirements.txt
+Baptiste Gautier,2019-12-21 15:12:37+00:00,jarviscli/plugins/htmltopdf.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-06 20:15:29+00:00,jarviscli/plugins/geocode.py
+aazuspan,2020-01-07 11:44:12+00:00,jarviscli/tests/test_geocode.py
+aazuspan,2020-01-11 16:13:50+00:00,jarviscli/CmdInterpreter.py
+aazuspan,2020-01-11 16:13:50+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-11 16:13:50+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-11 16:13:50+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-11 16:13:50+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-11 16:13:50+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/CmdInterpreter.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/plugins/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/CmdInterpreter.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/plugins/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/CmdInterpreter.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/Jarvis.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/plugins/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/plugins/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/CmdInterpreter.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/plugins/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/utilities/voice.py
+aazuspan,2020-01-20 18:40:35+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2020-01-25 09:20:14+00:00,installer/requirements.txt
+pnhofmann,2020-02-15 13:43:33+00:00,installer/helper.py
+pnhofmann,2020-02-15 13:43:33+00:00,jarviscli/plugins/evaluator.py
+ADARSH C,2020-02-26 15:02:49+00:00,installer/requirements.txt
+ADARSH C,2020-02-26 15:02:49+00:00,jarviscli/plugins/bulkresize.py
+northernSage,2020-03-09 19:42:36+00:00,test.sh
+northernSage,2020-03-09 19:42:36+00:00,test.sh
+Philipp Hofmann,2020-03-12 20:41:18+00:00,installer/steps/a_setup_virtualenv.py
+Philipp Hofmann,2020-03-12 20:41:18+00:00,installer/unix_windows.py
+Dann,2020-03-12 20:48:51+00:00,jarviscli/plugins/workout.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+CSenshi,2020-04-04 09:54:27+00:00,jarviscli/plugins/history.py
+Dann,2020-04-11 17:18:59+00:00,jarviscli/plugins/tic_tac_toe.py
+noam-stein,2020-04-14 19:25:00+00:00,jarviscli/plugins/corona.py
+gkodosis,2020-04-23 16:22:22+00:00,installer/optional.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/Jarvis.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/plugins/cat_history.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/Jarvis.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/plugins/cat_history.py
+gkodosis,2020-04-23 16:22:22+00:00,installer/optional.py
+gkodosis,2020-04-23 16:22:22+00:00,installer/optional.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/Jarvis.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/plugins/cat_history.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/Jarvis.py
+gkodosis,2020-04-23 16:22:22+00:00,jarviscli/Jarvis.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/__init__.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/directions_to.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/fileHandler.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/forecast.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/mapps.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/memory/.gitignore
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/memory/__init__.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/memory/memory.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/near_me.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/timeIn.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/umbrella.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/weatherIn.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/tests/packages/weather_pinpoint.py
+Methenitis,2020-04-29 16:03:25+03:00,jarviscli/utilities/voice.py
+Shubham Nimbhore,2020-04-30 13:10:07+00:00,jarviscli/plugins/corona.py
+shoniavika,2020-04-30 13:13:46+00:00,jarviscli/packages/forecast.py
+Methenitis,2020-05-08 12:29:53+03:00,jarviscli/CmdInterpreter.py
+Methenitis,2020-05-08 12:33:57+03:00,jarviscli/plugins/voice.py
+Methenitis,2020-05-08 12:36:19+03:00,jarviscli/utilities/voice.py
+Methenitis,2020-05-08 12:38:55+03:00,jarviscli/utilities/voice.py
+Methenitis,2020-05-08 13:43:33+03:00,installer/requirements.txt
+Methenitis,2020-05-10 19:44:24+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-10 19:48:23+03:00,jarviscli/plugins/voice.py
+Methenitis,2020-05-10 19:49:38+03:00,jarviscli/utilities/voice.py
+Methenitis,2020-05-10 20:46:10+03:00,jarviscli/CmdInterpreter.py
+Methenitis,2020-05-10 20:46:10+03:00,jarviscli/Jarvis.py
+Methenitis,2020-05-10 20:46:10+03:00,jarviscli/plugins/voice.py
+Methenitis,2020-05-10 20:46:10+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-10 20:46:10+03:00,jarviscli/utilities/voice.py
+Methenitis,2020-05-11 10:54:58+03:00,installer/requirements.txt
+Methenitis,2020-05-11 11:10:49+03:00,installer/requirements.txt
+Methenitis,2020-05-11 14:05:32+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-11 15:13:40+03:00,jarviscli/plugins/voice.py
+Methenitis,2020-05-11 15:42:40+03:00,jarviscli/CmdInterpreter.py
+Methenitis,2020-05-11 15:56:01+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-11 15:59:40+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-11 16:03:34+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-11 18:02:10+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-12 16:06:04+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-12 16:26:48+03:00,jarviscli/tests/test_voice.py
+Methenitis,2020-05-12 16:27:07+03:00,jarviscli/plugins/voice.py
+Methenitis,2020-05-12 16:32:25+03:00,jarviscli/plugins/history.py
+Methenitis,2020-05-12 16:33:18+03:00,jarviscli/plugins/cat_history.py
+Methenitis,2020-05-12 16:34:54+03:00,jarviscli/plugins/tic_tac_toe.py
+Methenitis,2020-05-12 16:37:42+03:00,jarviscli/plugins/cat_history.py
+Methenitis,2020-05-12 16:39:56+03:00,jarviscli/utilities/lexicalSimilarity.py
+Methenitis,2020-05-12 20:14:02+03:00,jarviscli/CmdInterpreter.py
+Methenitis,2020-05-12 20:14:02+03:00,jarviscli/plugins/voice.py
+Methenitis,2020-05-12 20:14:02+03:00,jarviscli/utilities/voice.py
+gianniskokkosis,2020-05-12 21:33:37+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-12 22:19:16+03:00,jarviscli/plugins/bulkresize.py
+KonstantinosL,2020-05-13 10:38:00+00:00,jarviscli/plugins/create_plugin.py
+KonstantinosL,2020-05-13 10:38:00+00:00,jarviscli/plugins/create_plugin.py
+KonstantinosL,2020-05-13 10:38:00+00:00,jarviscli/plugins/create_plugin.py
+KonstantinosL,2020-05-13 10:38:00+00:00,jarviscli/plugins/create_plugin.py
+KonstantinosL,2020-05-13 10:38:00+00:00,jarviscli/plugins/create_plugin.py
+KonstantinosL,2020-05-13 10:38:00+00:00,jarviscli/plugins/create_plugin.py
+Anna Kotsa,2020-05-13 16:49:41+03:00,jarviscli/plugins/voice.py
+Anna Kotsa,2020-05-13 17:36:16+03:00,jarviscli/utilities/GeneralUtilities.py
+KonstantinosL,2020-05-13 16:17:44+00:00,jarviscli/plugins/create_plugin.py
+KonstantinosL,2020-05-13 16:17:44+00:00,jarviscli/Jarvis.py
+KonstantinosL,2020-05-13 16:17:44+00:00,jarviscli/plugins/cat_history.py
+KonstantinosL,2020-05-13 16:17:44+00:00,jarviscli/plugins/history.py
+KonstantinosL,2020-05-13 16:17:44+00:00,jarviscli/plugins/tic_tac_toe.py
+KonstantinosL,2020-05-13 16:17:44+00:00,jarviscli/utilities/lexicalSimilarity.py
+gianniskokkosis,2020-05-14 11:48:53+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-14 12:18:59+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-14 12:29:18+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-14 19:27:26+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-14 21:31:18+03:00,jarviscli/plugins/bulkresize.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/__init__.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/directions_to.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/fileHandler.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/forecast.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/mapps.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/memory/.gitignore
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/memory/__init__.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/memory/memory.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/near_me.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/timeIn.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/umbrella.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/weatherIn.py
+pnhofmann,2020-05-15 13:48:54+02:00,jarviscli/tests/packages/weather_pinpoint.py
+pnhofmann,2020-05-15 13:51:24+02:00,installer/optional.py
+Madhava Kulkarni,2020-05-16 17:02:05+00:00,jarviscli/plugins/corona.py
+Madhava Kulkarni,2020-05-16 17:02:05+00:00,jarviscli/plugins/corona.py
+pnhofmann,2020-05-16 19:15:29+02:00,jarviscli/CmdInterpreter.py
+pnhofmann,2020-05-16 19:15:29+02:00,jarviscli/Jarvis.py
+pnhofmann,2020-05-16 20:04:25+02:00,installer/requirements.txt
+pnhofmann,2020-05-16 20:04:25+02:00,jarviscli/utilities/voice.py
+gianniskokkosis,2020-05-17 00:12:19+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 00:33:31+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 00:42:22+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 00:54:05+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 01:01:40+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 01:35:13+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 01:36:29+03:00,jarviscli/plugins/bulkresize.py
+evamy,2020-05-17 07:49:03+00:00,jarviscli/plugins/volume.py
+gianniskokkosis,2020-05-17 18:44:46+03:00,jarviscli/plugins/bulkresize.py
+gianniskokkosis,2020-05-17 19:06:16+03:00,jarviscli/plugins/bulkresize.py
+pnhofmann,2020-05-18 22:13:15+02:00,jarviscli/plugins/bulkresize.py
+Konstantinos Lolos,2020-05-24 16:55:58+00:00,jarviscli/plugins/create_plugin.py
+Konstantinos Lolos,2020-05-24 16:55:58+00:00,jarviscli/tests/test_create_plugin.py
+KonstantinosL,2020-05-25 14:25:22+00:00,jarviscli/tests/__init__.py
+shoniavika,2020-06-06 16:14:09+00:00,jarviscli/plugins/massconv.py
+shoniavika,2020-06-06 16:14:09+00:00,jarviscli/tests/test_massconv.py
+pnhofmann,2020-06-06 16:14:09+00:00,jarviscli/plugins/massconv.py
+Darin Rawson,2020-06-11 19:46:17+00:00,jarviscli/plugins/OpenWebsite.py
+Darin Rawson,2020-06-11 19:46:17+00:00,jarviscli/plugins/open.py
+Darin Rawson,2020-06-11 19:46:17+00:00,VisitWebsite.py
+Darin Rawson,2020-06-11 19:46:17+00:00,jarviscli/plugins/open.py
+Darin755,2020-06-11 19:46:17+00:00,jarviscli/plugins/VisitWebsite.py
+Darin755,2020-06-11 19:46:17+00:00,jarviscli/plugins/open.py
+Darin755,2020-06-11 19:46:17+00:00,VisitWebsite.py
+Darin Rawson,2020-06-11 19:46:17+00:00,jarviscli/plugins/open.py
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/plugins/test_bulkresize.py
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/plugins/test_bulkresize.py
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/plugins/test_bulkresize.py
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/data/images/dummy-man.jpg
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/tests/test_bulkresize.py
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/tests/test_bulkresize.py
+gianniskokkosis,2020-06-12 14:54:50+00:00,jarviscli/tests/test_bulkresize.py
+Arjun Khanna,2020-06-13 13:22:24+00:00,jarviscli/CmdInterpreter.py
+Arjun Khanna,2020-06-13 13:22:24+00:00,jarviscli/CmdInterpreter.py
+Arjun Khanna,2020-06-13 13:22:24+00:00,jarviscli/CmdInterpreter.py
+Arjun Khanna,2020-06-13 13:22:24+00:00,jarviscli/CmdInterpreter.py
+Arjun Khanna,2020-06-13 13:22:24+00:00,jarviscli/CmdInterpreter.py
+Arjun Khanna,2020-06-15 08:42:31+00:00,jarviscli/plugins/stateinfo.py
+Arjun Khanna,2020-06-15 08:42:31+00:00,jarviscli/plugins/stateinfo.py
+Arjun Khanna,2020-06-15 08:42:31+00:00,jarviscli/plugins/stateinfo.py
+Arjun Khanna,2020-06-15 08:43:42+00:00,installer/steps/e_launcher.py
+Gega Darakhvelidze,2020-06-15 19:38:44+00:00,jarviscli/plugins/numbersapi.py
+Gega Darakhvelidze,2020-06-15 19:38:44+00:00,jarviscli/plugins/numbersapi.py
+npb,2020-06-16 18:26:05+00:00,icons/default.ico
+npb,2020-06-16 18:26:05+00:00,icons/red.jpg
+npb,2020-06-16 18:26:05+00:00,installer/requirements.txt
+npb,2020-06-16 18:26:05+00:00,jarviscli/utilities/GeneralUtilities.py
+npb,2020-06-16 18:26:05+00:00,jarviscli/utilities/notification.py
+npb,2020-06-16 18:26:05+00:00,icons/red.jpg
+npb,2020-06-16 18:26:05+00:00,icons/warn.ico
+npb,2020-06-16 18:26:05+00:00,jarviscli/utilities/GeneralUtilities.py
+npb,2020-06-16 18:26:05+00:00,jarviscli/utilities/notification.py
+Arjun Khanna,2020-06-19 10:08:17+00:00,jarviscli/plugins/trivia.py
+Arjun Khanna,2020-06-19 10:08:17+00:00,jarviscli/plugins/trivia.py
+arjunk2004,2020-06-19 10:08:17+00:00,jarviscli/plugins/trivia.py
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/data/personality_analysis.tsv
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/data/personality_questions.tsv
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/plugins/personality.py
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/data/LICENSE
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/data/personality_analysis.tsv
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/plugins/personality.py
+Yiming Zhang,2020-06-25 10:21:21+00:00,jarviscli/plugins/personality.py
+KrishnaSai2020,2020-06-25 10:24:02+00:00,jarviscli/Jarvis.py
+KrishnaSai2020,2020-06-25 10:24:02+00:00,jarviscli/plugin.py
+KrishnaSai2020,2020-06-25 10:24:02+00:00,jarviscli/utilities/GeneralUtilities.py
+KrishnaSai2020,2020-06-25 10:24:02+00:00,jarviscli/utilities/voice.py
+Alexandr Alexeenko,2020-07-02 14:57:36+00:00,installer/steps/e_launcher.py
+Davit Popkhadze,2020-07-02 15:00:34+00:00,jarviscli/plugins/basketball.py
+Davit Popkhadze,2020-07-02 15:00:34+00:00,jarviscli/tests/test_basketball.py
+Jay Rajput,2020-07-03 09:17:06+00:00,installer/requirements.txt
+Jay Rajput,2020-07-03 09:17:06+00:00,jarviscli/CmdInterpreter.py
+Jay Rajput,2020-07-03 09:17:06+00:00,jarviscli/plugins/imgtopdf.py
+Jay Rajput,2020-07-03 09:17:06+00:00,jarviscli/plugins/pdftoimg.py
+Jay Rajput,2020-07-03 09:17:06+00:00,jarviscli/utilities/GeneralUtilities.py
+Gega Darakhvelidze,2020-07-08 08:54:37+00:00,doc/TESTING.md
+Gega Darakhvelidze,2020-07-08 08:54:37+00:00,jarviscli/tests/test_binary.py
+shotanozadze,2020-07-09 15:42:25+00:00,jarviscli/plugins/random_list.py
+shotanozadze,2020-07-09 15:42:25+00:00,jarviscli/plugins/random_list.py
+Dudu Popkhadze,2020-07-09 15:50:38+00:00,jarviscli/tests/test_football.py
+enqidu,2020-07-13 10:07:34+00:00,jarviscli/plugins/upside-down.py
+pnhofmann,2020-07-13 10:07:34+00:00,jarviscli/plugins/upside-down.py
+Dudu Popkhadze,2020-07-13 19:28:49+00:00,jarviscli/plugins/tasks.py
+Dudu Popkhadze,2020-07-13 19:28:49+00:00,jarviscli/plugins/tasks.py
+Dudu Popkhadze,2020-07-13 19:28:49+00:00,jarviscli/plugins/tasks.py
+Dudu Popkhadze,2020-07-13 19:28:49+00:00,jarviscli/tests/test_tasks.py
+Dudu Popkhadze,2020-07-13 19:48:08+00:00,jarviscli/tests/test_joke_of_day.py
+Dudu Popkhadze,2020-07-13 19:48:08+00:00,jarviscli/tests/test_cat_fact.py
+Dudu Popkhadze,2020-07-13 19:48:08+00:00,jarviscli/tests/test_chuck.py
+Dudu Popkhadze,2020-07-13 19:48:08+00:00,jarviscli/tests/test_corona.py
+shotanozadze,2020-07-13 19:56:45+00:00,jarviscli/plugins/asteroids_neows.py
+shotanozadze,2020-07-13 20:10:37+00:00,jarviscli/plugins/caesar_cipher.py
+shotanozadze,2020-07-13 20:10:37+00:00,jarviscli/plugins/caesar_cipher.py
+vakhokoto,2020-07-14 09:48:51+00:00,jarviscli/plugins/new_year.py
+enqidu,2020-07-14 09:49:35+00:00,jarviscli/data/pi.txt
+enqidu,2020-07-14 09:49:35+00:00,jarviscli/plugins/pi.py
+shotanozadze,2020-07-14 09:50:39+00:00,jarviscli/plugins/mars_weather.py
+shotanozadze,2020-07-14 09:50:39+00:00,jarviscli/plugins/mars_weather.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/packages/directions_to.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/packages/near_me.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/asteroids_neows.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/corona.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/create_plugin.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/history.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/htmltopdf.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/new_year.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/open.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/pi.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/stateinfo.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/plugins/tasks.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/tests/test_basketball.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/tests/test_geocode.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/tests/test_tasks.py
+pnhofmann,2020-07-14 10:05:24+00:00,jarviscli/utilities/voice.py
+sprintyaf,2020-07-14 13:47:24+00:00,installer/requirements.txt
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/data/code_to_lang.json
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/data/lid.176.ftz
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/detect_language.py
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/detect_language.py
+sprintyaf,2020-07-14 13:47:24+00:00,installer/requirements.txt
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/antonyms.py
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/synonyms.py
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/word_meaning.py
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/data/LICENSE
+sprintyaf,2020-07-14 13:47:24+00:00,installer/requirements.txt
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/antonyms.py
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/synonyms.py
+sprintyaf,2020-07-14 13:47:24+00:00,jarviscli/plugins/word_meaning.py
+sprintyaf,2020-07-14 13:47:24+00:00,installer/requirements.txt
+pnhofmann,2020-07-14 13:47:24+00:00,installer/optional.py
+pnhofmann,2020-07-14 13:47:24+00:00,installer/requirements.txt
+pnhofmann,2020-07-14 13:47:24+00:00,jarviscli/PluginManager.py
+pnhofmann,2020-07-14 13:47:24+00:00,jarviscli/plugins/detect_language.py
+enqidu,2020-07-14 16:41:55+00:00,jarviscli/plugins/motivate.py
+enqidu,2020-07-14 16:41:55+00:00,jarviscli/plugins/pi.py
+Devansh,2020-07-26 08:33:09+00:00,jarviscli/data/websites.csv
+shoniavika,2020-07-26 08:35:58+00:00,jarviscli/plugins/matrix_add.py
+Adarsh Trivedi,2020-07-26 08:45:21+00:00,.gitignore
+Adarsh Trivedi,2020-07-26 08:45:21+00:00,jarviscli/plugins/curl.py
+vvash17,2020-07-26 09:11:45+00:00,jarviscli/plugins/hangman.py
+vvash17,2020-07-26 09:11:45+00:00,jarviscli/plugins/hangman.py
+vvash17,2020-07-26 09:11:45+00:00,jarviscli/plugins/hangman.py
+vvash17,2020-07-26 09:11:45+00:00,jarviscli/plugins/hangman.py
+pnhofmann,2020-07-26 09:11:45+00:00,installer/requirements.txt
+pnhofmann,2020-07-26 09:11:45+00:00,jarviscli/plugins/hangman.py
+pnhofmann,2020-07-26 09:11:45+00:00,jarviscli/plugins/motivate.py
+pnhofmann,2020-07-26 09:11:45+00:00,jarviscli/plugins/pi.py
+npb,2020-07-29 15:14:21+00:00,jarviscli/CmdInterpreter.py
+npb,2020-07-29 15:14:21+00:00,jarviscli/plugins/routine.py
+npb,2020-07-29 15:14:21+00:00,jarviscli/plugins/routine.py
+npb,2020-07-29 15:14:21+00:00,jarviscli/CmdInterpreter.py
+npb,2020-07-29 15:14:21+00:00,jarviscli/plugins/routine.py
+shotanozadze,2020-07-29 15:17:13+00:00,jarviscli/plugins/roulette.py
+vvash17,2020-07-29 15:34:15+00:00,jarviscli/plugins/expression_checker.py
+vvash17,2020-07-29 15:44:13+00:00,jarviscli/plugins/advice_giver.py
+O-T-O-Z,2020-08-28 19:41:39+00:00,README.md
+dbherol,2020-08-28 19:53:11+00:00,installer/steps/e_launcher.py
+dbherol,2020-08-28 19:53:11+00:00,jarviscli/plugins/get_host_info.py
+pnhofmann,2020-08-28 19:53:11+00:00,installer/requirements.txt
+pnhofmann,2020-08-28 19:53:11+00:00,jarviscli/plugins/get_host_info.py
+npb,2020-09-01 15:02:30-04:00,jarviscli/plugins/reminder.py
+npb,2020-09-01 15:07:37-04:00,jarviscli/plugins/reminder.py
+npb,2020-09-07 11:28:37-04:00,jarviscli/plugins/reminder.py
+pnhofmann,2020-09-23 09:48:01+02:00,installer/requirements.txt
+pnhofmann,2020-09-23 09:48:01+02:00,setup.sh
+Christian Clauss,2020-10-01 11:06:22+02:00,.travis.yml
+nindroz,2020-10-01 15:24:44+00:00,jarviscli/plugins/bmr.py
+Bersam Karbasion,2020-10-02 12:26:33+00:00,jarviscli/CmdInterpreter.py
+Bersam Karbasion,2020-10-02 12:26:33+00:00,jarviscli/utilities/GeneralUtilities.py
+Bersam Karbasion,2020-10-02 12:26:33+00:00,jarviscli/packages/forecast.py
+pnhofmann,2020-10-02 12:26:33+00:00,jarviscli/CmdInterpreter.py
+Lona.exe,2020-10-07 13:10:51+00:00,jarviscli/plugins/get_joke.py
+pnhofmann,2020-10-07 13:10:51+00:00,installer/requirements.txt
+pnhofmann,2020-10-07 13:12:05+00:00,installer/helper.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/CmdInterpreter.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/advice_giver.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/battery.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/bmi.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/bmr.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/bulkresize.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/buy.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/caesar_cipher.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/cat_history.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/clock.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/cricket.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/dns_lookup.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/expression_checker.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/football.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/game.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/hangman.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/history.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/imgur.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/joke_of_day.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/location.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/project_euler.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/rockpaperscissors.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/roulette.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/routine.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/speedtest.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/tasks.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/timeconv.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/trivia.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/voice.py
+pnhofmann,2020-10-07 13:12:05+00:00,jarviscli/plugins/workout.py
+AltheusV,2020-10-07 13:14:29+00:00,jarviscli/plugins/football.py
+menachem,2020-10-13 14:52:08+00:00,jarviscli/plugins/change_mac.py
+menachem,2020-10-13 14:52:08+00:00,jarviscli/plugins/change_mac.py
+menachem,2020-10-13 14:52:08+00:00,jarviscli/plugins/change_mac.py
+menachem,2020-10-13 14:52:08+00:00,jarviscli/plugins/change_mac.py
+pnhofmann,2020-10-13 14:52:08+00:00,jarviscli/plugins/change_mac.py
+Michael Kossowsky,2020-10-18 11:04:17+00:00,jarviscli/plugins/wifi_password_getter.py
+SanvikaSinghania,2020-10-21 14:33:34+00:00,jarviscli/plugins/akinator.py
+Shreyas Maheshwari,2020-11-02 15:24:48+05:30,CmdInterpreter.py
+Shreyas Maheshwari,2020-11-02 15:26:17+05:30,CmdInterpreter.py
+Shreyas Maheshwari,2020-11-02 15:27:01+05:30,jarviscli/CmdInterpreter.py
+Shreyas Maheshwari,2020-11-02 15:31:37+05:30,jarviscli/CmdInterpreter.py
+npb,2020-11-02 16:16:11-05:00,jarviscli/plugins/reminder.py
+pnhofmann,2020-11-09 12:58:51+01:00,installer/requirements.txt
+pnhofmann,2020-11-09 12:58:51+01:00,jarviscli/plugins/music.py
+npb,2020-11-12 20:41:34-05:00,jarviscli/plugins/reminder.py
+abcumm,2020-11-20 20:59:39-05:00,jarviscli/plugins/voter_info.py
+abcumm,2020-11-20 21:02:30-05:00,jarviscli/plugins/voter_info.py
+abcumm,2020-11-20 21:18:25-05:00,installer/requirements.txt
+abcumm,2020-11-20 23:45:11-05:00,jarviscli/plugins/voter_info.py
+abcumm,2020-11-21 00:33:50-05:00,jarviscli/plugins/workspace.py
+abcumm,2020-11-21 02:30:17-05:00,jarviscli/tests/test_music.py
+abcumm,2020-11-21 02:39:50-05:00,jarviscli/plugins/wifi_password_getter.py
+abcumm,2020-11-21 19:45:21-05:00,installer/requirements.txt
+abcumm,2020-11-21 19:45:21-05:00,jarviscli/plugins/workspace.py
+abcumm,2020-11-22 15:34:10-05:00,jarviscli/data/workspaces/cpp_template/Makefile
+abcumm,2020-11-22 15:34:10-05:00,jarviscli/data/workspaces/cpp_template/build.sh
+abcumm,2020-11-22 15:34:10-05:00,jarviscli/data/workspaces/cpp_template/hello_world.cpp
+abcumm,2020-11-22 15:34:10-05:00,jarviscli/data/workspaces/java_template/HelloWorld.java
+abcumm,2020-11-22 15:34:10-05:00,jarviscli/data/workspaces/java_template/build.sh
+abcumm,2020-11-22 15:34:10-05:00,jarviscli/plugins/workspace.py
+Ian Zhang,2020-11-26 19:01:33-05:00,jarviscli/plugins/hex.py
+Ian Zhang,2020-11-26 19:01:33-05:00,jarviscli/tests/test_hex.py
+Ian Zhang,2020-11-26 19:02:13-05:00,jarviscli/tests/test_hex.py
+Ian Zhang,2020-11-26 19:03:52-05:00,jarviscli/plugins/hex.py
+Ian Zhang,2020-11-26 19:03:52-05:00,jarviscli/tests/test_hex.py
+Ian Zhang,2020-11-26 19:04:38-05:00,jarviscli/plugins/hex.py
+abcumm,2020-11-26 22:42:49-05:00,jarviscli/plugins/workspace.py
+pnhofmann,2020-11-27 13:20:19+01:00,jarviscli/tests/test_hex.py
+abcumm,2020-11-27 22:04:08-05:00,.gitignore
+abcumm,2020-11-27 22:04:08-05:00,jarviscli/data/sampleGoogle_api_key.json
+abcumm,2020-11-27 22:04:08-05:00,jarviscli/plugins/voter_info.py
+siderishub,2020-12-26 13:33:43+00:00,jarviscli/plugins/morse_code.py
+siderishub,2020-12-26 13:33:43+00:00,jarviscli/plugins/speedconv.py
+Harshith-KN,2020-12-27 09:30:26+00:00,jarviscli/plugins/natoalphabet.py
+Harshith-KN,2020-12-27 09:30:26+00:00,jarviscli/plugins/natoalphabet.py
+Metodi,2021-02-01 10:53:47+00:00,installer/requirements.txt
+Metodi,2021-02-01 10:53:47+00:00,jarviscli/plugins/scan_network.py
+Metodi,2021-02-01 10:53:47+00:00,jarviscli/plugins/scan_network.py
+Metodi,2021-02-01 10:53:47+00:00,jarviscli/tests/test_scan_network.py
+Metodi,2021-02-01 10:53:47+00:00,jarviscli/plugins/scan_network.py
+Metodi,2021-02-01 10:53:47+00:00,jarviscli/plugins/scan_network.py
+Metodi,2021-02-01 10:53:47+00:00,jarviscli/plugins/scan_network.py
+Akshit1510,2021-02-01 10:56:37+00:00,jarviscli/plugins/matrix_add.py
+Akshit1510,2021-02-01 10:56:37+00:00,jarviscli/plugins/matrix_add.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/plugins/matrix_add.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/plugins/morse_code.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/plugins/natoalphabet.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/plugins/speedconv.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/plugins/scan_network.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/tests/__init__.py
+pnhofmann,2021-02-02 15:40:43+00:00,jarviscli/tests/test_scan_network.py
+KonstPap,2021-02-08 17:48:30+00:00,jarviscli/plugins/memory.py
+pierre,2021-03-10 15:39:27+01:00,jarviscli/plugins/nationalize.py
+pierre,2021-03-18 08:59:37+01:00,jarviscli/plugins/nationalize.py
+pierre,2021-03-22 08:50:17+00:00,jarviscli/plugins/agify.py
+pierre,2021-03-22 08:50:17+00:00,jarviscli/plugins/nationalize.py
+pierre,2021-03-22 08:58:49+00:00,jarviscli/plugins/activity.py
+pierre,2021-03-22 09:26:40+00:00,jarviscli/plugins/nationalize.py
+pierre,2021-03-22 09:26:40+00:00,jarviscli/plugins/nationalize.py
+pnhofmann,2021-03-22 09:26:40+00:00,jarviscli/plugins/activity.py
+pnhofmann,2021-03-22 09:26:40+00:00,jarviscli/plugins/agify.py
+pnhofmann,2021-03-22 09:26:40+00:00,jarviscli/plugins/nationalize.py
+chaitanyakasaraneni,2021-03-23 08:19:42+00:00,installer/optional.py
+chaitanyakasaraneni,2021-03-23 08:19:42+00:00,jarviscli/plugins/performance.py
+chaitanyakasaraneni,2021-03-23 08:19:42+00:00,jarviscli/plugins/performance.py
+Alireza Rahimi,2021-03-26 14:32:00+00:00,jarviscli/plugins/newyear.py
+Fleoid,2021-03-29 17:18:21+00:00,jarviscli/data/websites.csv
+Fleoid,2021-03-29 17:18:21+00:00,jarviscli/data/websites.csv
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/visit_website.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/currency_conv.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/length_conv.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/mass_conv.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/mips_conv.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/numbers_api.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/speed_conv.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/speed_test.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/system_options.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/temp_conv.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/typing_test.py
+Alireza Rahimi,2021-03-29 17:19:29+00:00,jarviscli/plugins/upside_down.py
+Ryan Bartusek,2021-03-31 12:34:56+00:00,installer/optional.py
+nmoatsos,2021-04-29 18:25:30+00:00,jarviscli/packages/directions_to.py
+nmoatsos,2021-04-29 18:25:30+00:00,jarviscli/plugins/converted.py
+Tpool1,2021-05-02 11:55:34+00:00,custom/test.py
+Tpool1,2021-05-02 11:55:34+00:00,custom/file_manager.py
+Tpool1,2021-05-02 11:55:34+00:00,custom/file_manager.py
+Tpool1,2021-05-02 11:55:34+00:00,custom/file_manager.py
+Tpool1,2021-05-02 11:55:34+00:00,jarviscli/plugins/file_manager.py
+Tpool1,2021-05-02 11:55:34+00:00,jarviscli/plugins/file_manager.py
+nmoatsos,2021-05-02 11:57:29+00:00,jarviscli/packages/mapps.py
+nmoatsos,2021-05-02 11:57:29+00:00,jarviscli/packages/near_me.py
+nmoatsos,2021-05-02 11:57:29+00:00,jarviscli/packages/near_me.py
+nmoatsos,2021-05-02 11:57:29+00:00,jarviscli/packages/near_me.py
+nmoatsos,2021-05-07 17:04:27+00:00,custom/test.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/plugins/file_manager.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/plugins/newyear.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/tests/test_currencyconv.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/tests/test_lengthconv.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/tests/test_massconv.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/tests/test_tempconv.py
+nmoatsos,2021-05-07 17:04:27+00:00,.travis.yml
+nmoatsos,2021-05-07 17:04:27+00:00,installer/requirements.txt
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/tests/test_directions_to.py
+nmoatsos,2021-05-07 17:04:27+00:00,jarviscli/tests/test_near_me.py
+IriannaPapoutsi,2021-05-10 13:46:13+00:00,jarviscli/plugins/bmr.py
+Tristen Pool,2021-05-13 21:05:37+00:00,installer/optional.py
+Tristen Pool,2021-05-13 21:05:37+00:00,jarviscli/plugins/file_manager.py
+IriannaPapoutsi,2021-05-14 09:51:17+00:00,agenda.csv
+IriannaPapoutsi,2021-05-14 09:51:17+00:00,jarviscli/plugins/write_agenda.py
+pnhofmann,2021-05-14 12:03:59+02:00,.gitignore
+pnhofmann,2021-05-14 12:03:59+02:00,agenda.csv
+nikiboura,2021-05-14 11:16:03+01:00,jarviscli/plugins/clear.py
+pnhofmann,2021-05-14 11:16:03+01:00,jarviscli/plugins/clear.py
+pnhofmann,2021-05-14 18:00:23+00:00,installer/steps/e_launcher.py
+nmoatsos,2021-06-16 15:30:46+03:00,jarviscli/plugins/cryptotracker.py
+nmoatsos,2021-06-16 15:38:01+03:00,jarviscli/tests/test_cryptotracker.py
+nmoatsos,2021-06-16 15:48:09+03:00,jarviscli/plugins/cryptotracker.py
+nmoatsos,2021-06-16 15:48:09+03:00,jarviscli/tests/test_cryptotracker.py
+IriannaPapoutsi,2021-06-17 14:15:56+03:00,jarviscli/plugins/mood_music.py
+pnhofmann,2021-06-22 10:16:56+02:00,installer/requirements.txt
+IriannaPapoutsi,2021-06-27 17:07:30+02:00,jarviscli/plugins/calories.py
+IriannaPapoutsi,2021-06-27 17:07:30+02:00,jarviscli/tests/test_calories.py
+nmoatsos,2021-06-27 17:32:13+02:00,jarviscli/plugins/wifi_password_getter.py
+nmoatsos,2021-06-27 17:32:13+02:00,jarviscli/tests/test_wifi_password_getter.py
+nmoatsos,2021-06-27 17:32:13+02:00,jarviscli/plugins/wifi_password_getter.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/pep8speaks.yml
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/battery.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/blackjack.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/bmi.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/bmr.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/bulkresize.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/buy.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/caesar_cipher.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/calories.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/change_mac.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/coin_flip.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/converted.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/corona.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/create_plugin.py
+KrishnaSai2020,2021-08-05 14:26:04+02:00,jarviscli/plugins/cricket.py
+Krishna Chivukula,2021-08-05 14:26:04+02:00,jarviscli/pep8speaks.yml
+pnhofmann,2021-08-05 14:26:04+02:00,jarviscli/plugins/caesar_cipher.py
+AhmetFurkann,2021-08-18 17:55:35+02:00,jarviscli/CmdInterpreter.py
+singh-prabhdeep,2021-08-28 21:12:03+02:00,jarviscli/plugins/top_movies.py
+singh-prabhdeep,2021-08-28 21:12:03+02:00,jarviscli/plugins/top_media.py
+singh-prabhdeep,2021-08-28 21:12:03+02:00,jarviscli/plugins/top_movies.py
+singh-prabhdeep,2021-08-28 21:12:03+02:00,jarviscli/tests/test_bulkresize.py
+shreyan1999,2021-10-14 17:09:34+02:00,jarviscli/plugins/readpdf.py
+Vinicius,2021-11-05 21:50:06+01:00,jarviscli/plugins/evaluator.py
+Milind Sharma,2021-11-07 14:41:32+01:00,installer/steps/b_pip.py
+Milind Sharma,2021-11-07 14:41:32+01:00,installer/steps/c_nltk.py
+Milind Sharma,2021-11-07 14:41:32+01:00,installer/steps/d_optional.py
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Milind Sharma,2021-11-18 16:52:02+01:00,README.md
+pnhofmann,2021-11-18 16:52:02+01:00,CONTRIBUTING.md
+Riju,2021-11-27 16:43:01+01:00,installer/helper.py
+Riju,2021-11-27 16:43:01+01:00,installer/steps/e_launcher.py
+Riju,2021-11-27 16:43:01+01:00,installer/helper.py
+Riju,2021-11-27 16:43:01+01:00,installer/steps/e_launcher.py
+Ritik Ranjan,2022-01-18 13:30:46+01:00,jarviscli/plugins/screen_capture.py
+pnhofmann,2022-01-18 13:30:46+01:00,installer/optional.py
+pnhofmann,2022-01-18 13:30:46+01:00,jarviscli/plugins/screen_capture.py
+Troy,2022-02-20 15:04:20+01:00,TEST.md
+Troy Phillips,2022-02-20 15:04:20+01:00,TEST.md
+Troy Dejesus Phillips,2022-02-20 15:04:20+01:00,jarviscli/plugins/tic_tac_toe.py
+Troy Dejesus Phillips,2022-02-20 15:04:20+01:00,jarviscli/plugins/connect_four.py
+Coşkun Deniz,2022-02-20 15:06:41+01:00,jarviscli/plugins/hackernews.py
+Coşkun Deniz,2022-02-20 15:06:41+01:00,jarviscli/tests/test_hackernews.py
+Edric Antoine,2022-03-05 11:37:52+01:00,installer/requirements.txt
+Edric Antoine,2022-03-14 21:04:32+01:00,README.md
+Edric Antoine,2022-03-14 21:04:32+01:00,jarviscli/plugins/weather_report.py
+Edric Antoine,2022-03-14 21:04:32+01:00,jarviscli/plugins/weather_report.py
+hugofpaiva,2022-03-22 19:00:58+00:00,.gitignore
+hugofpaiva,2022-03-22 19:01:26+00:00,jarviscli/plugins/imgcompressor.py
+hugofpaiva,2022-03-22 21:41:42+00:00,jarviscli/plugins/imgcompressor.py
+hugofpaiva,2022-03-22 21:50:47+00:00,jarviscli/plugins/imgcompressor.py
+Orlando-pt,2022-03-23 23:32:24+00:00,jarviscli/plugins/imgcompressor.py
+Orlando-pt,2022-03-24 00:32:23+00:00,jarviscli/plugins/imgcompressor.py
+Orlando-pt,2022-03-24 13:32:36+00:00,jarviscli/plugins/imgcompressor.py
+Orlando-pt,2022-03-24 13:32:36+00:00,jarviscli/tests/test_imgcompressor.py
+Orlando-pt,2022-03-24 18:21:46+00:00,jarviscli/plugins/imgcompressor.py
+Orlando-pt,2022-03-24 18:21:46+00:00,jarviscli/tests/test_imgcompressor.py
+Orlando-pt,2022-03-24 18:32:24+00:00,jarviscli/plugins/imgcompressor.py
+Alex Doganis,2022-03-26 17:37:15+01:00,jarviscli/plugins/activity.py
+Orlando-pt,2022-03-28 18:20:36+01:00,jarviscli/plugins/imgcompressor.py
+Orlando-pt,2022-03-28 18:20:36+01:00,jarviscli/tests/test_imgcompressor.py
+hugofpaiva,2022-03-30 22:27:37+01:00,installer/optional.py
+hugofpaiva,2022-03-30 22:27:37+01:00,installer/requirements.txt
+hugofpaiva,2022-03-30 22:27:37+01:00,jarviscli/plugins/music_recognition.py
+hugofpaiva,2022-03-30 23:30:38+01:00,jarviscli/plugins/music_recognition.py
+hugofpaiva,2022-03-31 22:49:46+01:00,jarviscli/plugins/music_recognition.py
+John Papadatos,2022-04-02 17:38:19+02:00,jarviscli/plugins/advice_giver.py
+hugofpaiva,2022-04-02 19:59:15+01:00,installer/requirements.txt
+hugofpaiva,2022-04-02 19:59:15+01:00,jarviscli/plugins/music_recognition.py
+hugofpaiva,2022-04-02 23:13:49+01:00,installer/requirements.txt
+hugofpaiva,2022-04-02 23:13:49+01:00,jarviscli/plugins/music_recognition.py
+hugofpaiva,2022-04-02 23:13:49+01:00,jarviscli/tests/test_music_recognition.py
+John Papadatos,2022-04-06 20:15:55+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-06 20:23:29+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-06 20:47:03+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-06 21:01:28+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-06 21:32:29+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-06 21:44:47+03:00,jarviscli/plugins/calories_macros.py
+AirlineDog,2022-04-12 20:15:02+01:00,jarviscli/plugins/connect_four.py
+AirlineDog,2022-04-12 20:17:07+01:00,jarviscli/plugins/readpdf.py
+AirlineDog,2022-04-12 20:19:03+01:00,jarviscli/plugins/top_media.py
+AirlineDog,2022-04-12 20:23:46+01:00,installer/helper.py
+AirlineDog,2022-04-12 20:23:46+01:00,installer/steps/e_launcher.py
+AirlineDog,2022-04-12 20:23:46+01:00,jarviscli/CmdInterpreter.py
+John Papadatos,2022-04-17 15:05:19+03:00,jarviscli/tests/test_calories.py
+John Papadatos,2022-04-17 15:05:19+03:00,jarviscli/tests/test_calories_macros.py
+John Papadatos,2022-04-17 21:06:06+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-17 21:06:06+03:00,jarviscli/tests/test_calories_macros.py
+John Papadatos,2022-04-17 21:23:30+03:00,jarviscli/tests/test_calories_macros.py
+John Papadatos,2022-04-17 23:46:53+03:00,jarviscli/tests/test_calories_macros.py
+John Papadatos,2022-04-18 00:08:31+03:00,jarviscli/tests/test_calories_macros.py
+John Papadatos,2022-04-18 12:16:14+03:00,jarviscli/plugins/calories_macros.py
+John Papadatos,2022-04-18 12:16:14+03:00,jarviscli/tests/test_calories_macros.py
+John Papadatos,2022-04-18 13:02:04+03:00,jarviscli/tests/test_calories_macros.py
+pnhofmann,2022-04-18 16:56:36+02:00,installer/steps/e_launcher.py
+pnhofmann,2022-04-18 16:59:33+02:00,installer/steps/e_launcher.py
+Dustin Nguyen,2022-04-18 17:30:28+02:00,jarviscli/plugins/magic_8_ball.py
+george-kakavas,2022-05-10 10:53:05+02:00,jarviscli/plugins/taste_dive.py
+John Papadatos,2022-05-10 10:59:21+02:00,jarviscli/plugins/balut.py
+John Papadatos,2022-05-10 10:59:21+02:00,jarviscli/tests/test_balut.py
+John Papadatos,2022-05-10 10:59:21+02:00,jarviscli/plugins/balut.py
+John Papadatos,2022-05-10 10:59:21+02:00,jarviscli/tests/test_balut.py
+John Papadatos,2022-05-10 10:59:21+02:00,jarviscli/plugins/balut.py
+John Papadatos,2022-05-10 10:59:21+02:00,jarviscli/tests/test_balut.py
+Anastasis Bakaros,2022-05-11 09:56:05+02:00,jarviscli/plugins/moon_phase.py
+LeonidhaMara,2022-05-11 10:01:01+02:00,jarviscli/plugins/twitter_trends.py
+LeonidhaMara,2022-05-11 10:01:01+02:00,jarviscli/plugins/twitter_trends.py
+Manousakis01,2022-05-11 10:01:01+02:00,jarviscli/tests/test_twitter_trends.py
+pnhofmann,2022-05-27 13:29:38+02:00,jarviscli/plugins/twitter_trends.py
+george-kakavas,2022-05-27 17:56:22+02:00,jarviscli/plugins/qr_generator.py
+george-kakavas,2022-05-27 17:56:22+02:00,jarviscli/plugins/qr_generator.py
+AirlineDog,2022-05-28 12:38:15+02:00,jarviscli/plugins/name_day.py
+AirlineDog,2022-05-28 12:38:15+02:00,jarviscli/plugins/name_day.py
+AirlineDog,2022-05-28 12:38:15+02:00,jarviscli/plugins/name_day.py
+AirlineDog,2022-05-28 12:38:15+02:00,jarviscli/tests/test_name_day.py
+AirlineDog,2022-05-28 12:38:15+02:00,jarviscli/plugins/name_day.py
+AirlineDog,2022-05-28 12:38:15+02:00,jarviscli/tests/test_name_day.py
+Manousakis01,2022-06-04 22:22:40+02:00,jarviscli/plugins/cocktail.py
+LeonidhaMara,2022-06-04 22:22:40+02:00,jarviscli/plugins/cocktail.py
+Manos Manousakis,2022-06-04 22:22:40+02:00,jarviscli/tests/test_cocktail.py
+Manos Manousakis,2022-06-04 22:22:40+02:00,jarviscli/plugins/cocktail.py
+Manos Manousakis,2022-07-27 15:03:23+02:00,jarviscli/plugins/yeelight.py
+Manos Manousakis,2022-07-27 15:03:23+02:00,installer/requirements.txt
+LeonidhaMara,2022-07-27 15:03:23+02:00,jarviscli/plugins/yeelight.py
+Manos Manousakis,2022-07-27 15:03:23+02:00,jarviscli/plugins/yeelight.py
+LeonidhaMara,2022-07-27 15:17:13+02:00,jarviscli/plugins/twitter_trends.py
+Lallybroch,2022-07-27 15:25:07+02:00,jarviscli/data/prompts.json
+Lallybroch,2022-07-27 15:25:07+02:00,jarviscli/plugins/artprompts.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/advice_giver.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/converted.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/create_plugin.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/morse_code.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/open.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/spinthewheel.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/trivia.py
+bailee1531,2022-11-06 09:45:10+01:00,jarviscli/plugins/typing_test.py
+lstgl,2022-11-10 18:55:14+01:00,jarviscli/plugins/akinator.py
+pnhofmann,2022-11-10 19:00:32+01:00,jarviscli/plugins/akinator.py
+pnhofmann,2022-11-12 10:09:42+01:00,jarviscli/plugins/akinator.py
+pnhofmann,2022-11-12 10:09:42+01:00,installer/requirements.txt
+mathieuca,2022-12-21 10:59:57+01:00,jarviscli/plugins/age.py
+PauloMRocha,2022-12-21 11:07:44+01:00,jarviscli/plugins/weekday.py
+Victor,2022-12-21 16:21:27+01:00,jarviscli/plugins/world_cup.py
+vrrusso,2022-12-21 16:33:20+01:00,jarviscli/plugins/random_fact.py
+ApostolidouK,2022-12-22 11:04:19+01:00,jarviscli/plugins/goodreads.py
+pnhofmann,2022-12-22 19:42:05+01:00,Dockerfile
+Syed Zaidi,2023-02-02 13:03:37+01:00,jarviscli/plugins/tic_tac_toe.py
+aampatzid,2023-02-02 13:07:41+01:00,jarviscli/plugins/guess_number_game.py
+benibuehler,2023-02-02 13:10:00+01:00,jarviscli/plugins/endofyear_timer.py
+benibuehler,2023-02-02 13:10:00+01:00,jarviscli/plugins/endofyear_timer.py
+mkatsara,2023-02-09 15:00:15+01:00,jarviscli/plugins/kaprekar.py
+argyro2,2023-02-09 15:03:30+01:00,jarviscli/plugins/element.py
+benibuehler,2023-02-18 11:58:18+01:00,jarviscli/plugins/christmas_timer.py
+benibuehler,2023-02-18 11:58:18+01:00,jarviscli/plugins/endofyear_timer.py
+benibuehler,2023-02-18 11:58:18+01:00,jarviscli/utilities/timedeltaUtilities.py
+vargemig,2023-02-18 11:59:24+01:00,jarviscli/plugins/leap_year.py
+Flynn Owen,2023-02-18 12:00:38+01:00,installer/requirements.txt
+Flynn Owen,2023-02-18 12:00:38+01:00,jarviscli/plugins/distance.py
+Flynn Owen,2023-02-18 12:00:38+01:00,jarviscli/plugins/distance.py
+giorgos pappas,2023-02-18 12:49:55+01:00,jarviscli/plugins/armstrong_numbers.py
+pnhofmann,2023-02-18 12:49:55+01:00,jarviscli/plugins/armstrong_numbers.py
+Dimitra Pazouli,2023-02-19 11:19:36+02:00,jarviscli/plugins/drink.py
+Deborah Lawrence,2023-03-23 16:23:07+01:00,jarviscli/plugins/christmas_timer.py
+Deborah Lawrence,2023-03-23 16:23:07+01:00,jarviscli/plugins/endofyear_timer.py
+Deborah Lawrence,2023-03-23 16:23:07+01:00,jarviscli/plugins/event_timer.py
+Deborah Lawrence,2023-03-23 16:23:07+01:00,jarviscli/tests/test_event_timer.py
+World,2023-03-23 16:24:20+01:00,doc/TEST_API.md
+World,2023-03-23 16:24:20+01:00,jarviscli/tests/__init__.py
+World (Gi-hyeon),2023-03-23 16:24:20+01:00,doc/TEST_API.md
+bsrecker,2023-03-23 16:28:31+01:00,jarviscli/plugins/quote.py
+janicethomas,2023-03-23 16:33:20+01:00,jarviscli/plugins/personality.py
+malhaar2002,2023-03-28 18:20:39+02:00,jarviscli/plugins/quote.py
+malhaar2002,2023-04-05 20:17:07+02:00,jarviscli/plugins/typing_test.py
+TirumanidasKarthik,2023-04-05 20:18:00+02:00,jarviscli/plugins/rockpaperscissors.py
+prophecyprogrammer,2023-04-11 21:18:40+05:30,jarviscli/plugins/spinthewheel.py
+Ekansh Talwar,2023-04-14 20:43:48+02:00,installer/requirements.txt
+Ekansh Talwar,2023-04-14 20:43:48+02:00,jarviscli/plugins/flightradar.py
+Ekansh Talwar,2023-04-14 21:53:31+02:00,installer/requirements.txt
+Ekansh Talwar,2023-04-14 21:53:31+02:00,jarviscli/plugins/flightradar.py
+Modi08,2023-04-15 00:09:08+02:00,jarviscli/plugins/flightradar.py
+Diana Zhao,2023-04-15 10:40:17+02:00,README.md
+jhutchings99,2023-04-15 10:46:38+02:00,jarviscli/plugins/fruit.py
+jhutchings99,2023-04-15 10:46:38+02:00,jarviscli/tests/test_fruit.py
+prophecyprogrammer,2023-04-16 21:52:19+05:30,jarviscli/plugins/spinthewheel.py
+Mike Roditis,2023-04-24 22:33:49+02:00,jarviscli/plugins/boredAPI.py
+Mike Roditis,2023-04-24 22:33:49+02:00,jarviscli/plugins/dad_jokes.py
+Amando Xu,2023-04-24 22:35:31+02:00,jarviscli/plugins/shutdown.py
+Diana Zhao,2023-04-24 22:37:16+02:00,jarviscli/CmdInterpreter.py
+Diana Zhao,2023-04-24 22:37:16+02:00,jarviscli/Jarvis.py
+Phoebus,2023-05-14 20:32:58+02:00,jarviscli/plugins/countryinfo.py
+dinanz,2023-05-14 20:50:08+02:00,jarviscli/plugins/string_converter.py
+dinanz,2023-05-14 20:50:08+02:00,jarviscli/plugins/trivia.py
+phoebusyip,2023-05-14 20:54:25+02:00,jarviscli/plugins/top_media.py
+Krish Kapoor,2023-06-21 17:05:11-04:00,installer/requirements.txt
+Krish Kapoor,2023-06-26 15:49:53-04:00,installer/requirements.txt
+Krish Kapoor,2023-06-26 15:49:53-04:00,jarviscli/plugins/evaluator.py
+Krish Kapoor,2023-06-26 16:10:03-04:00,jarviscli/plugins/evaluator.py
+AgentXMan,2023-07-20 21:12:46+04:00,jarviscli/plugins/food_recipe.py
+Krish Kapoor,2023-07-27 15:33:52-04:00,jarviscli/plugins/age.py
+Cole Ramey,2023-08-13 12:08:40-05:00,installer/helper.py
+Cole Ramey,2023-08-13 12:08:40-05:00,installer/steps/e_launcher.py
+daredevil0905,2023-08-26 20:05:53+05:30,jarviscli/plugins/connect_four.py
+daredevil0905,2023-08-27 22:13:42+05:30,jarviscli/plugins/evaluator.py
+raccoote,2023-09-10 20:57:43+03:00,jarviscli/plugins/factor.py
+niljub,2023-09-13 18:25:19+02:00,jarviscli/plugins/cryptotracker.py
+Allison Reilly,2023-09-28 13:12:47-07:00,jarviscli/plugins/calculator.py
+harshita280904,2023-10-17 20:29:00+11:00,README.md
+Harshitha Thoram,2023-10-26 12:29:21+11:00,jarviscli/plugins/fruit_nutriton.py
+Peiyuan Yu,2023-10-26 15:46:39+11:00,jarviscli/plugins/fruit_nutrition.py
+Jackson Wagner,2023-10-29 20:51:33-07:00,jarviscli/plugins/notes.py
+Aaron Marmolejos,2023-12-11 18:03:07-05:00,jarviscli/plugins/tennis.py
+Aaron Marmolejos,2023-12-11 18:03:07-05:00,jarviscli/tests/test_tennis.py
+Andrew Chung,2023-12-11 19:06:10-05:00,jarviscli/plugins/hash.py
+Andrew Chung,2023-12-11 19:06:10-05:00,jarviscli/tests/test_hash.py
+Philipp Hofmann,2023-12-27 18:36:57+01:00,installer/helper.py
+Philipp Hofmann,2023-12-27 18:36:57+01:00,installer/optional.py
+Philipp Hofmann,2023-12-27 18:36:57+01:00,installer/requirements.txt
+Philipp Hofmann,2023-12-28 10:46:34+01:00,README.md
+Philipp Hofmann,2023-12-28 11:03:25+01:00,jarviscli/PluginManager.py
+Philipp Hofmann,2023-12-28 11:03:25+01:00,jarviscli/plugins/calculator.py
+Philipp Hofmann,2023-12-28 11:03:25+01:00,jarviscli/utilities/voice.py
+MakisEu,2023-12-31 18:38:32+02:00,installer/requirements.txt
+MakisEu,2023-12-31 18:38:32+02:00,jarviscli/plugins/random_repo.py
+Om  Patil,2024-01-07 16:10:54+05:30,installer/__main__.py
+Om  Patil,2024-01-07 16:12:25+05:30,installer/helper.py
+Om  Patil,2024-01-07 16:13:31+05:30,installer/unix_windows.py
+Dimitris,2024-02-03 22:06:04+02:00,jarviscli/plugins/Wordgame.py
+MakisEu,2024-02-04 13:48:15+02:00,jarviscli/plugins/check_if_game_runs_on_linux.py
+jimnt,2024-02-05 12:12:23+02:00,installer/requirements.txt
+jimnt,2024-02-07 12:19:04+02:00,jarviscli/plugins/Wordgame.py
+JimNtantakas,2024-02-08 17:19:53+02:00,jarviscli/plugins/wordgame.py
+JimNtantakas,2024-02-08 17:21:31+02:00,installer/requirements.txt
+pnhofmann,2024-02-26 21:45:43+01:00,installer/__main__.py
+pnhofmann,2024-02-26 21:45:43+01:00,installer/helper.py
+pnhofmann,2024-02-26 21:45:43+01:00,installer/unix_windows.py
+lipinsks,2024-04-09 01:43:55+02:00,installer/requirements.txt
+lipinsks,2024-04-09 01:43:55+02:00,jarviscli/plugins/roulette.py
+lipinsks,2024-04-10 15:54:00+02:00,jarviscli/data/wordle_files/answers.txt
+lipinsks,2024-04-10 15:54:00+02:00,jarviscli/data/wordle_files/guesses.txt
+lipinsks,2024-04-10 15:54:00+02:00,jarviscli/plugins/wordle.py
+Christopher Förster,2024-04-22 13:50:07+02:00,installer/optional.py
+shabazzj,2024-04-29 15:13:17-05:00,README.md
+Timothy Ponce,2024-05-24 17:35:11-07:00,jarviscli/plugins/leap_year.py
+Timothy Ponce,2024-05-24 17:35:44-07:00,jarviscli/tests/test_leap_year.py
+Lucas Watkins,2024-07-05 17:18:36-04:00,jarviscli/plugins/boredAPI.py
+duncandonuts,2024-07-07 23:56:13+08:00,README.md
+MonnTheBoss,2024-08-04 16:28:21-04:00,setup.sh
+B Sai Sannidh Rayalu,2024-09-03 05:18:58+05:30,jarviscli/plugins/caesar_cipher.py
+kartik-199,2024-09-13 12:41:56-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-13 14:24:37-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-13 21:53:54-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-13 22:57:49-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-14 23:45:45-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-15 00:49:59-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-15 12:48:40-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-15 15:02:01-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-16 20:04:08-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-18 10:38:21-04:00,jarviscli/plugins/soccer.py
+kartik-199,2024-09-18 12:28:59-04:00,jarviscli/plugins/soccer.py
+Jiabao Han,2024-10-06 17:36:04+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-06 17:55:21+11:00,jarviscli/plugins/jarvis_tour.py
+pnhofmann,2024-10-06 11:08:18+02:00,README.md
+Leonardo Scarlato,2024-10-07 15:50:19-03:00,README.md
+Jiabao Han,2024-10-12 16:03:05+11:00,jarviscli/plugins/jarvis_tour.py
+u7726387,2024-10-12 16:28:30+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-12 16:28:40+11:00,jarviscli/plugins/jarvis_tour.py
+u7041989,2024-10-12 16:30:40+11:00,jarviscli/plugins/jarvis_tour.py
+Hongyu Li,2024-10-12 16:32:19+11:00,jarviscli/plugins/jarvis_tour.py
+Hongyu Li,2024-10-12 16:39:24+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-12 16:50:19+11:00,jarviscli/plugins/jarvis_tour.py
+u7726387,2024-10-12 16:55:52+11:00,jarviscli/plugins/jarvis_tour.py
+u7041989,2024-10-12 17:50:04+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-14 12:41:08+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-14 12:43:58+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-14 13:03:35+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-14 13:15:13+11:00,jarviscli/plugins/jarvis_tour.py
+Jiabao Han,2024-10-14 13:43:47+11:00,jarviscli/plugins/jarvis_tour.py
+Jaroslav Mathes,2024-10-14 19:34:15+02:00,jarviscli/data/dnd_files/loots.txt
+Jaroslav Mathes,2024-10-14 19:34:15+02:00,jarviscli/plugins/dnd.py
+Jaroslav Mathes,2024-10-14 19:39:34+02:00,jarviscli/plugins/dnd.py
+Leonardo Scarlato,2024-10-15 15:04:06-03:00,jarviscli/CmdInterpreter.py
+Jakub-Haus,2024-10-16 13:18:07+02:00,jarviscli/plugins/numbers_api.py
+pnhofmann,2024-10-16 15:47:48+02:00,jarviscli/CmdInterpreter.py
+Paulo,2024-10-16 16:16:50-03:00,jarviscli/plugin.py
+era,2024-10-18 14:22:33+02:00,jarviscli/plugins/ecofriendly.py
+Nicolas Gomes,2024-11-04 08:57:31+01:00,jarviscli/plugins/colorconverter.py
+Leonardo Scarlato,2024-11-06 14:12:26-03:00,installer/helper.py
+ip2location,2024-12-06 14:58:53+08:00,jarviscli/plugins/geolocation.py
+khunya22,2024-12-06 21:23:48-08:00,installer/requirements.txt
+khunya22,2024-12-06 21:23:48-08:00,jarviscli/plugins/mdtopdf.py
+Jacob,2024-12-20 12:04:24-06:00,installer/requirements.txt
+Jacob,2024-12-20 12:04:24-06:00,jarviscli/plugins/imgur.py
+evidencebp,2024-12-21 18:53:34+02:00,jarviscli/plugins/agify.py
+evidencebp,2024-12-21 19:02:42+02:00,installer/unix_windows.py
+evidencebp,2024-12-21 19:47:44+02:00,jarviscli/plugins/write_agenda.py
+evidencebp,2024-12-21 20:22:06+02:00,jarviscli/plugins/hangman.py
+evidencebp,2024-12-21 21:21:47+02:00,jarviscli/plugins/tic_tac_toe.py
+evidencebp,2024-12-22 09:56:46+02:00,jarviscli/plugins/file_organise.py
+evidencebp,2024-12-22 09:59:13+02:00,jarviscli/plugins/trivia.py
+evidencebp,2024-12-22 10:14:50+02:00,jarviscli/packages/memory/memory.py
+evidencebp,2024-12-22 10:54:07+02:00,jarviscli/plugins/pi.py
+evidencebp,2024-12-22 11:02:14+02:00,jarviscli/plugins/blackjack.py
+evidencebp,2024-12-22 11:19:24+02:00,jarviscli/plugins/fruit_nutrition.py
+evidencebp,2024-12-22 12:45:07+02:00,jarviscli/plugins/rockpaperscissors.py
+evidencebp,2024-12-22 12:52:50+02:00,installer/steps/a_setup_virtualenv.py
+evidencebp,2024-12-22 13:06:17+02:00,jarviscli/plugins/element.py
+evidencebp,2024-12-22 13:11:00+02:00,jarviscli/plugins/taste_dive.py
+evidencebp,2024-12-22 13:50:52+02:00,jarviscli/plugins/bulkresize.py
+evidencebp,2024-12-22 14:00:31+02:00,jarviscli/plugins/guess_number_game.py
+evidencebp,2024-12-22 14:09:26+02:00,jarviscli/plugins/memory.py
+evidencebp,2024-12-22 14:24:32+02:00,jarviscli/plugins/spinthewheel.py
+evidencebp,2024-12-22 14:29:03+02:00,jarviscli/packages/weather_pinpoint.py
+evidencebp,2024-12-22 14:34:14+02:00,jarviscli/plugins/currency_conv.py
+evidencebp,2024-12-22 14:52:32+02:00,jarviscli/plugins/lyrics.py
+evidencebp,2024-12-22 14:58:03+02:00,jarviscli/plugins/temp_conv.py
+evidencebp,2024-12-22 15:11:42+02:00,installer/__main__.py
+evidencebp,2024-12-22 15:25:59+02:00,jarviscli/plugins/buy.py
+evidencebp,2024-12-22 15:26:46+02:00,jarviscli/plugins/open.py
+evidencebp,2024-12-22 15:39:30+02:00,jarviscli/plugins/flightradar.py
+evidencebp,2024-12-22 15:47:54+02:00,jarviscli/plugins/get_host_info.py
+evidencebp,2024-12-22 15:58:10+02:00,jarviscli/plugins/yeelight.py
+evidencebp,2024-12-22 16:20:50+02:00,installer/steps/d_optional.py
+evidencebp,2024-12-22 16:40:58+02:00,jarviscli/plugins/history.py
+evidencebp,2024-12-22 16:46:35+02:00,installer/steps/c_nltk.py
+evidencebp,2024-12-22 16:55:00+02:00,jarviscli/plugins/food_recipe.py
+evidencebp,2024-12-22 17:06:15+02:00,jarviscli/plugins/file_manager.py
+evidencebp,2024-12-22 17:17:37+02:00,jarviscli/plugins/top_media.py
+evidencebp,2024-12-22 17:20:51+02:00,jarviscli/plugins/speed_conv.py
+evidencebp,2024-12-22 18:41:25+02:00,jarviscli/plugins/dictionary.py
+evidencebp,2024-12-22 19:07:54+02:00,jarviscli/plugins/website_status.py
+evidencebp,2024-12-22 19:23:41+02:00,jarviscli/plugins/get_host_info.py
+evidencebp,2024-12-22 19:35:55+02:00,jarviscli/plugins/gmail.py
+evidencebp,2024-12-22 20:42:13+02:00,jarviscli/plugins/matrix_add.py
+evidencebp,2024-12-23 18:24:03+02:00,installer/steps/b_pip.py
+evidencebp,2024-12-24 18:55:34+02:00,jarviscli/plugins/balut.py
+evidencebp,2024-12-25 14:56:50+02:00,jarviscli/plugins/voice_control.py
+evidencebp,2024-12-25 15:10:00+02:00,jarviscli/plugins/workout.py
+evidencebp,2024-12-25 15:43:12+02:00,jarviscli/plugins/stock.py
+evidencebp,2024-12-25 15:52:45+02:00,jarviscli/plugins/create_plugin.py
+evidencebp,2024-12-25 18:19:18+02:00,jarviscli/plugins/bmr.py
+evidencebp,2024-12-25 18:24:54+02:00,jarviscli/plugins/project_euler.py
+evidencebp,2024-12-25 21:07:40+02:00,jarviscli/plugins/imgur.py
+evidencebp,2024-12-26 14:19:55+02:00,jarviscli/plugins/morse_code.py
+evidencebp,2024-12-26 14:46:26+02:00,jarviscli/plugins/qr_generator.py
+evidencebp,2024-12-26 14:52:14+02:00,jarviscli/plugins/converted.py
+evidencebp,2024-12-26 15:00:01+02:00,jarviscli/plugins/news.py
+evidencebp,2024-12-26 15:06:14+02:00,installer/steps/e_launcher.py
+evidencebp,2024-12-26 16:00:30+02:00,jarviscli/plugins/weekday.py
+evidencebp,2024-12-26 19:43:36+02:00,jarviscli/utilities/textParser.py
+evidencebp,2024-12-26 19:47:52+02:00,jarviscli/plugins/wordgame.py
+evidencebp,2024-12-26 20:04:35+02:00,jarviscli/plugins/expression_checker.py
+evidencebp,2024-12-26 20:06:11+02:00,jarviscli/plugins/motivate.py
+evidencebp,2024-12-26 20:53:15+02:00,jarviscli/plugins/mips_conv.py
+evidencebp,2024-12-26 21:01:09+02:00,jarviscli/plugins/check_if_game_runs_on_linux.py
+evidencebp,2024-12-26 21:07:24+02:00,jarviscli/plugins/wiki.py
+evidencebp,2024-12-26 21:15:01+02:00,jarviscli/plugins/cricket.py
+evidencebp,2024-12-26 21:27:40+02:00,jarviscli/plugins/battery.py
+evidencebp,2024-12-27 14:09:07+02:00,jarviscli/packages/timeIn.py
+evidencebp,2024-12-27 14:12:53+02:00,jarviscli/plugins/curl.py
+evidencebp,2024-12-27 14:16:49+02:00,jarviscli/plugins/quote.py
+evidencebp,2024-12-27 14:33:20+02:00,jarviscli/plugins/connect_four.py
+evidencebp,2024-12-27 14:37:44+02:00,jarviscli/plugins/goodreads.py
+evidencebp,2024-12-27 15:01:13+02:00,jarviscli/plugins/akinator.py
+evidencebp,2024-12-27 15:04:00+02:00,jarviscli/plugins/distance.py
+evidencebp,2024-12-28 07:28:22+02:00,jarviscli/plugins/cocktail.py
+evidencebp,2024-12-28 07:38:33+02:00,jarviscli/plugins/countryinfo.py
+evidencebp,2024-12-28 07:38:33+02:00,jarviscli/plugins/twitter_trends.py
+evidencebp,2024-12-28 07:46:35+02:00,jarviscli/plugins/routine.py
+evidencebp,2024-12-28 07:50:26+02:00,jarviscli/plugins/moon_phase.py
+evidencebp,2024-12-28 07:55:44+02:00,jarviscli/plugins/pdftoimg.py
+evidencebp,2024-12-28 08:09:32+02:00,jarviscli/plugins/wifi_password_getter.py
+evidencebp,2024-12-28 08:20:32+02:00,jarviscli/plugins/reminder.py
+evidencebp,2024-12-28 08:23:40+02:00,jarviscli/plugins/weather_report.py
+evidencebp,2024-12-28 08:26:38+02:00,jarviscli/utilities/notification.py
+evidencebp,2024-12-28 10:54:48+02:00,jarviscli/plugins/imgcompressor.py
+evidencebp,2024-12-28 10:59:32+02:00,jarviscli/plugins/bmi.py
+evidencebp,2024-12-28 11:05:12+02:00,jarviscli/plugins/timeconv.py
+evidencebp,2024-12-28 11:52:51+02:00,jarviscli/plugins/evaluator.py
+evidencebp,2024-12-28 11:57:17+02:00,jarviscli/plugins/ip.py
+evidencebp,2024-12-28 12:02:43+02:00,jarviscli/plugins/upside_down.py
+git-akispa,2025-01-07 01:46:17+02:00,jarviscli/plugins/translate.py
+era,2025-01-27 09:48:43+01:00,jarviscli/plugins/connect_four.py
+era,2025-01-27 09:58:01+01:00,jarviscli/plugins/connect_four.py
+Jonas Weirauch,2025-02-03 22:56:51+01:00,installer/requirements.txt
+Jack,2025-02-17 00:34:12-05:00,jarviscli/plugins/check_link.py
+Jack,2025-02-17 00:42:33-05:00,jarviscli/plugins/check_link.py
+mittvansh,2025-02-17 11:51:36-05:00,custom/word_chain_game.py
+mittvansh,2025-02-17 11:53:05-05:00,jarviscli/plugins/word_chain_game.py
+mittvansh,2025-02-17 11:54:59-05:00,custom/word_chain_game.py
+mittvansh,2025-02-17 11:57:17-05:00,jarviscli/plugins/word_chain_game.py
+javia,2025-02-17 19:21:20-05:00,jarviscli/plugins/hockey.py

@@ -1,0 +1,105 @@
+Field,Value
+Commits Overview,
+Total Commits,1925
+Total Unique Authors,87
+,
+Top 10 Contributors,
+Author,Commits
+Kingkor Roy Tirtho,10309
+KRTirtho,568
+dependabot[bot],125
+powen,81
+KR Tirtho,69
+krtirtho,53
+Piotr Rogowski,49
+Josu Igoa,35
+Blake Leonard,19
+meenbeese,17
+,
+Communication Events,Total: 118
+"Author1,Author2",Events
+"Kingkor Roy Tirtho,dependabot[bot]",16
+"Josu Igoa,Kingkor Roy Tirtho",10
+"dependabot[bot],Kingkor Roy Tirtho",10
+"meenbeese,Kingkor Roy Tirtho",4
+"Kingkor Roy Tirtho,meenbeese",4
+"tiaxter,Kingkor Roy Tirtho",4
+"Kingkor Roy Tirtho,Piotr Rogowski",3
+"Blake Leonard,Kingkor Roy Tirtho",3
+"Kingkor Roy Tirtho,KR Tirtho",3
+"Kingkor Roy Tirtho,tiaxter",3
+"powen,Kingkor Roy Tirtho",3
+"Omari Sopromadze,ctih",2
+"Muhammad Brian Abdillah,Kingkor Roy Tirtho",2
+"Justin May,VARUN M",2
+"KR Tirtho,Kingkor Roy Tirtho",2
+"ctih,Yusril Rapsanjani",2
+"siggi1984,Kingkor Roy Tirtho",2
+"Piotr Rogowski,Kingkor Roy Tirtho",2
+"Josu Igoa,Omari Sopromadze",2
+"Ice Year,Kingkor Roy Tirtho",2
+"Kingkor Roy Tirtho,0x00646f616e6e63",1
+"Kingkor Roy Tirtho,Kuyumee",1
+"Kingkor Roy Tirtho,Marcos Marado",1
+"AdrienC,Kingkor Roy Tirtho",1
+"Demizo,Kingkor Roy Tirtho",1
+"Kingkor Roy Tirtho,olivier2",1
+"Kingkor Roy Tirtho,maboroshin",1
+"Kingkor Roy Tirtho,highjeans",1
+"Kingkor Roy Tirtho,arenekosreal",1
+"Kingkor Roy Tirtho,RaptaG",1
+"Kingkor Roy Tirtho,RustyApple",1
+"Kingkor Roy Tirtho,Muhammad Brian Abdillah",1
+"Kingkor Roy Tirtho,Poussinou",1
+"Kingkor Roy Tirtho,Demizo",1
+"Kingkor Roy Tirtho,Josu Igoa",1
+"Meenbeese,Nabraj Khadka",1
+"RomanJos,Kingkor Roy Tirtho",1
+"Marcos Marado,Kingkor Roy Tirtho",1
+"Marat Budkevich,Kingkor Roy Tirtho",1
+"MerkomassDev,firapinch",1
+"Kingkor Roy Tirtho,siggi1984",1
+"Victor Tinoco,Kingkor Roy Tirtho",1
+"VARUN M,Kingkor Roy Tirtho",1
+"Souda,Kingkor Roy Tirtho",1
+"Ryze,Kingkor Roy Tirtho",1
+"RustyApple,meenbeese",1
+"RustyApple,Kingkor Roy Tirtho",1
+"Yusril Rapsanjani,W͏ I͏ N͏ Z͏ O͏ R͏ T͏",1
+"Xavi Fortes,Kingkor Roy Tirtho",1
+"muhammadbahaa2001,Kingkor Roy Tirtho",1
+"maboroshin,Kingkor Roy Tirtho",1
+"Yaroslav Dmitriev,Kingkor Roy Tirtho",1
+"olivier2,dependabot[bot]",1
+"nexpid,Kingkor Roy Tirtho",1
+"watchakorn-18k,Karim",1
+"watchakorn-18k,Kingkor Roy Tirtho",1
+"watchakorn-18k,ＷＩＮＺＯＲＴ",1
+,
+Committer Timezone Distribution,Unique Timezones: 12
+Timezone,Commits
++00:00,40
++01:00,6
++02:00,16
++03:00,10
++04:00,1
++05:30,3
++06:00,1817
++08:00,1
+-04:00,2
+-05:00,14
+-07:00,12
+-08:00,3
+,
+Contributors Experience,Average across 1356 files: 97.31%
+File,Top Contributor Share (%)
+.babelrc,100.00
+.directory,100.00
+assets.d.ts,100.00
+assets/angle-left-solid.svg,100.00
+assets/backward-solid.svg,100.00
+assets/forward-solid.svg,100.00
+assets/heart-regular.svg,100.00
+assets/heart-solid.svg,100.00
+assets/pause-solid.svg,100.00
+assets/play-solid.svg,100.00

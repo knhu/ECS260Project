@@ -1,0 +1,7 @@
+file,author1,author2,time1,time2
+README.md,Robin Rombach,ablattmann,2021-12-21 01:59:06+01:00,2021-12-21 03:23:41+01:00
+README.md,ablattmann,Patrick Esser,2021-12-21 03:38:17+01:00,2021-12-21 11:35:45+00:00
+README.md,Patrick Esser,rromb,2021-12-21 11:35:45+00:00,2021-12-22 11:16:26+01:00
+README.md,rromb,ablattmann,2021-12-22 11:16:26+01:00,2021-12-22 15:57:23+01:00
+README.md,apolinario,Patrick Esser,2022-08-16 21:08:28+02:00,2022-08-16 23:13:39+02:00
+scripts/download_models.sh,ablattmann,Patrick Esser,2021-12-21 03:23:41+01:00,2021-12-21 11:35:45+00:00

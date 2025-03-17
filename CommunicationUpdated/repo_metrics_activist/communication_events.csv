@@ -1,0 +1,724 @@
+file,author1,author2,time1,time2
+.env.dev,wkyoshida,Andrew Tavis McAllister,2024-04-27 21:09:48-03:00,2024-04-28 19:03:58+02:00
+.env.dev,Andrew Tavis McAllister,wkyoshida,2024-04-28 19:03:58+02:00,2024-04-28 21:17:08-03:00
+.env.dev,wkyoshida,Andrew Tavis McAllister,2024-04-28 21:17:08-03:00,2024-04-29 23:32:24+02:00
+.env.example,Vinny,tosta,2023-08-25 10:05:03-03:00,2023-08-26 14:05:10+02:00
+.github/COC_CONTACT.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/ISSUE_TEMPLATE/bug_report.yml,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/ISSUE_TEMPLATE/design_improvement.yml,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/ISSUE_TEMPLATE/feature_request.yml,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/ISSUE_TEMPLATE/localization.yml,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/ISSUE_TEMPLATE/question.yml,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/PULL_REQUEST_TEMPLATE.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.github/workflows/check_dependency_updates.yaml,Abhi-Bohora,Andrew Tavis McAllister,2025-02-26 11:32:47+00:00,2025-02-26 22:46:24+01:00
+.github/workflows/pr_ci_backend.yaml,Andrew Tavis McAllister,tosta,2023-10-31 09:17:19+01:00,2023-10-31 11:45:27+01:00
+.github/workflows/pr_ci_backend.yaml,tosta,wkyoshida,2023-10-31 11:48:19+01:00,2023-10-31 21:37:42-03:00
+.github/workflows/pr_ci_backend.yaml,Abhi-Bohora,Andrew Tavis McAllister,2025-02-03 19:30:37+05:45,2025-02-03 22:46:16+01:00
+.github/workflows/pr_ci_backend.yaml,Andrew Tavis McAllister,tosta,2025-02-22 20:00:09+01:00,2025-02-23 18:00:34+01:00
+.github/workflows/pr_ci_backend.yaml,Andrew Tavis McAllister,tosta,2025-02-26 20:51:45+01:00,2025-02-27 18:54:53+01:00
+.github/workflows/pr_ci_backend.yaml,tosta,Andrew Tavis McAllister,2025-02-27 18:54:53+01:00,2025-02-27 23:21:56+01:00
+.github/workflows/pr_ci_frontend.yaml,CaioCintra,Andrew Tavis McAllister,2023-10-15 17:03:21-03:00,2023-10-15 23:10:10+02:00
+.github/workflows/pr_ci_frontend.yaml,Andrew Tavis McAllister,tosta,2023-10-15 23:10:10+02:00,2023-10-16 20:44:41+02:00
+.github/workflows/pr_ci_frontend.yaml,Abhi-Bohora,Andrew Tavis McAllister,2025-02-03 19:30:37+05:45,2025-02-03 22:46:16+01:00
+.github/workflows/pr_ci_license_header_check.yaml,haripatel,Andrew Tavis McAllister,2025-02-17 14:50:46-05:00,2025-02-18 03:09:28+01:00
+.github/workflows/pr_ci_playwright_e2e.yaml,Aasim Syed,aasim,2024-05-04 13:54:54+02:00,2024-05-04 12:48:36-04:00
+.github/workflows/pr_frontend_formatting_check.yaml,tosta,Andrew Tavis McAllister,2023-08-31 16:03:06+02:00,2023-08-31 20:42:20+02:00
+.github/workflows/pr_frontend_formatting_check.yaml,Andrew Tavis McAllister,tosta,2023-08-31 20:42:20+02:00,2023-09-01 17:05:14+02:00
+.github/workflows/pr_frontend_formatting_check.yaml,Louis Lambrecht,tosta,2023-09-11 11:23:47+02:00,2023-09-11 18:55:01+02:00
+.github/workflows/pr_frontend_formatting_check.yaml,tosta,Louis Lambrecht,2023-09-11 19:02:18+02:00,2023-09-11 23:34:08+02:00
+.github/workflows/pr_maintainer_checklist.yaml,TeddyGavi,Andrew Tavis McAllister,2023-08-30 09:19:07-07:00,2023-08-30 22:47:34+02:00
+.github/workflows/pr_maintainer_checklist.yaml,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+.licenserc.yaml,Abhi-Bohora,Andrew Tavis McAllister,2025-02-03 19:30:37+05:45,2025-02-03 22:46:16+01:00
+.pre-commit-config.yaml,tosta,Daniyar Bekmagambetov,2025-01-06 18:34:24+01:00,2025-01-07 00:18:49+01:00
+.prettierrc,lucianmurmurache,Andrew Tavis McAllister,2024-03-23 14:57:44+01:00,2024-03-23 22:07:13+01:00
+.vscode/extensions.json,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+CHANGELOG.md,Zwnow,momanyisamuel,2023-05-04 14:12:26+02:00,2023-05-05 06:35:45+03:00
+CHANGELOG.md,momanyisamuel,Andrew Tavis McAllister,2023-05-05 15:30:03+03:00,2023-05-05 18:41:46+02:00
+CHANGELOG.md,Andrew Tavis McAllister,anthonyshibitov,2023-06-18 00:37:10+02:00,2023-06-18 12:07:01-04:00
+CONTRIBUTING.md,TeddyGavi,Andrew Tavis McAllister,2023-06-28 09:59:04-07:00,2023-06-29 09:24:49+02:00
+CONTRIBUTING.md,TeddyGavi,Andrew Tavis McAllister,2023-07-07 10:36:15-07:00,2023-07-08 12:14:11+02:00
+CONTRIBUTING.md,Vinny,Andrew Tavis McAllister,2023-08-25 10:05:03-03:00,2023-08-25 18:02:00+02:00
+CONTRIBUTING.md,Iago Carmona,Andrew Tavis McAllister,2023-10-10 14:04:54-03:00,2023-10-10 22:11:06+02:00
+CONTRIBUTING.md,Andrew Tavis McAllister,tosta,2023-10-10 22:11:06+02:00,2023-10-11 10:06:10+02:00
+CONTRIBUTING.md,tosta,Andrew Tavis McAllister,2023-10-11 10:44:18+02:00,2023-10-11 19:21:25+02:00
+CONTRIBUTING.md,wkyoshida,Andrew Tavis McAllister,2023-10-30 22:27:05-03:00,2023-10-31 09:17:19+01:00
+CONTRIBUTING.md,rstfari,tosta,2024-01-06 23:00:30-05:00,2024-01-07 14:32:01+01:00
+CONTRIBUTING.md,tosta,Andrew Tavis McAllister,2024-01-07 14:39:43+01:00,2024-01-07 22:19:42+01:00
+CONTRIBUTING.md,lucianmurmurache,wkyoshida,2024-03-23 13:07:09+01:00,2024-03-23 13:41:16-03:00
+CONTRIBUTING.md,cquinn540,Andrew Tavis McAllister,2024-10-30 15:38:37-04:00,2024-10-31 02:45:50+01:00
+CONTRIBUTING.md,Andrew Tavis McAllister,cquinn540,2024-11-07 01:26:40+01:00,2024-11-07 14:45:19-05:00
+CONTRIBUTING.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+CONTRIBUTING.md,cquinn540,Andrew Tavis McAllister,2024-12-04 15:00:58-05:00,2024-12-04 21:45:22+01:00
+CONTRIBUTING.md,Andrew Tavis McAllister,Matt Burnett,2024-12-07 12:52:32+01:00,2024-12-07 14:41:37+01:00
+CONTRIBUTING.md,Matt Burnett,Andrew Tavis McAllister,2024-12-07 14:41:37+01:00,2024-12-07 15:20:57+01:00
+CONTRIBUTING.md,Fowlerz,Andrew Tavis McAllister,2025-01-28 00:11:05+01:00,2025-01-28 02:43:42+01:00
+CONTRIBUTING.md,cquinn540,Andrew Tavis McAllister,2025-02-11 12:41:10-05:00,2025-02-11 23:44:35+01:00
+FRONTEND_TESTING.md,cquinn540,Andrew Tavis McAllister,2024-11-22 19:10:32-05:00,2024-11-23 18:37:34+01:00
+FRONTEND_TESTING.md,cquinn540,Andrew Tavis McAllister,2025-02-11 12:47:05-05:00,2025-02-11 23:44:35+01:00
+README.md,Andrew Tavis McAllister,Sam.Donovan,2023-05-20 15:08:37+02:00,2023-05-20 18:24:41+01:00
+README.md,sath000007,Andrew Tavis McAllister,2023-07-01 22:54:53+05:30,2023-07-02 00:57:26+02:00
+README.md,Andrew Tavis McAllister,sath000007,2023-07-02 00:57:26+02:00,2023-07-02 17:10:17+05:30
+README.md,Matthew Topping,Andrew Tavis McAllister,2023-07-25 21:16:23+01:00,2023-07-25 22:36:48+02:00
+README.md,Vinny,Andrew Tavis McAllister,2023-08-25 10:05:03-03:00,2023-08-25 18:02:00+02:00
+README.md,Iago Carmona,Andrew Tavis McAllister,2023-10-10 14:04:54-03:00,2023-10-10 22:11:06+02:00
+README.md,wkyoshida,Andrew Tavis McAllister,2023-10-30 22:27:05-03:00,2023-10-31 09:17:19+01:00
+README.md,rstfari,Andrew Tavis McAllister,2024-01-06 23:00:30-05:00,2024-01-07 22:19:42+01:00
+README.md,lucianmurmurache,wkyoshida,2024-03-23 13:07:09+01:00,2024-03-23 13:41:16-03:00
+README.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+README/README_DE.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+README/README_FR.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+STYLEGUIDE.md,TeddyGavi,Andrew Tavis McAllister,2023-06-28 09:59:04-07:00,2023-06-29 09:24:49+02:00
+STYLEGUIDE.md,TeddyGavi,Andrew Tavis McAllister,2023-07-07 10:36:15-07:00,2023-07-08 12:14:11+02:00
+STYLEGUIDE.md,TeddyGavi,Andrew Tavis McAllister,2023-08-18 09:56:41-07:00,2023-08-18 23:31:55+02:00
+STYLEGUIDE.md,lucianmurmurache,Andrew Tavis McAllister,2024-03-23 13:07:09+01:00,2024-03-23 22:07:13+01:00
+STYLEGUIDE.md,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+assets/yarn.lock,Andrew Tavis McAllister,dependabot[bot],2022-07-08 22:50:23+02:00,2022-07-08 20:51:11+00:00
+backend/apps/models.py,momanyisamuel,Andrew Tavis McAllister,2023-07-20 11:31:32+03:00,2023-07-20 11:26:48+02:00
+backend/apps/models.py,kurtisolo,tosta,2023-08-26 09:43:03+02:00,2023-08-26 20:11:37+02:00
+backend/apps/models.py,Andrew Tavis McAllister,kurtisolo,2023-08-31 09:06:02+02:00,2023-08-31 16:25:31+02:00
+backend/authentication/admin.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:54:52+02:00,2023-08-31 22:16:33+02:00
+backend/authentication/admin.py,Andrew Tavis McAllister,tosta,2024-06-29 15:43:22+02:00,2024-06-30 10:49:39+02:00
+backend/authentication/admin.py,Andrew Tavis McAllister,Mahendra sai Divi,2025-01-14 01:42:42+01:00,2025-01-15 01:18:56+01:00
+backend/authentication/models.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:54:52+02:00,2023-08-31 22:16:33+02:00
+backend/authentication/models.py,Andrew Tavis McAllister,kurtisolo,2023-08-31 22:16:33+02:00,2023-09-01 17:10:30+02:00
+backend/authentication/models.py,kurtisolo,tosta,2023-09-01 17:10:30+02:00,2023-09-01 19:00:39+02:00
+backend/authentication/models.py,tosta,Andrew Tavis McAllister,2023-09-01 19:00:39+02:00,2023-09-01 19:46:48+02:00
+backend/authentication/models.py,Andrew Tavis McAllister,tosta,2023-09-01 19:46:48+02:00,2023-09-01 21:53:15+02:00
+backend/authentication/models.py,Bharathkumarramesh,tosta,2023-11-29 22:13:41+05:30,2023-11-29 22:37:49+01:00
+backend/authentication/models.py,tosta,thiagogquinto,2024-03-16 20:14:26+01:00,2024-03-16 19:50:50-03:00
+backend/authentication/models.py,thiagogquinto,tosta,2024-03-16 19:50:50-03:00,2024-03-17 11:22:12+01:00
+backend/authentication/models.py,Andrew Tavis McAllister,tosta,2024-06-29 15:43:22+02:00,2024-06-30 10:05:41+02:00
+backend/authentication/serializers.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:54:52+02:00,2023-08-31 22:16:33+02:00
+backend/authentication/serializers.py,thiagogquinto,tosta,2023-09-09 17:28:50-03:00,2023-09-10 16:43:50+02:00
+backend/authentication/serializers.py,tosta,thiagogquinto,2023-09-10 16:43:50+02:00,2023-09-10 11:52:59-03:00
+backend/authentication/serializers.py,Andrew Tavis McAllister,thiagogquinto,2023-09-14 14:45:00+03:00,2023-09-14 18:03:41-03:00
+backend/authentication/serializers.py,Andrew Tavis McAllister,tosta,2023-10-15 22:57:21+02:00,2023-10-16 22:09:36+02:00
+backend/authentication/serializers.py,tosta,thiagogquinto,2024-03-23 21:06:03+01:00,2024-03-23 17:30:05-03:00
+backend/authentication/serializers.py,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+backend/authentication/tests.py,tosta,Andrew Tavis McAllister,2024-04-20 21:46:43+02:00,2024-04-21 21:15:51+02:00
+backend/authentication/views.py,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+backend/backend/asgi.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 16:25:31+02:00,2023-08-31 22:16:33+02:00
+backend/backend/management/commands/populate_db.py,Andrew Tavis McAllister,tosta,2024-09-21 23:02:51+02:00,2024-09-22 21:43:57+02:00
+backend/backend/management/commands/populate_db.py,tosta,Andrew Tavis McAllister,2024-12-01 13:13:36+01:00,2024-12-01 22:20:30+01:00
+backend/backend/management/commands/populate_db.py,Andrew Tavis McAllister,Tobias,2024-12-20 00:40:53+01:00,2024-12-20 01:09:40+01:00
+backend/backend/mixins/models.py,Bharathkumarramesh,tosta,2023-11-29 22:13:41+05:30,2023-11-29 22:37:49+01:00
+backend/backend/settings.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 21:00:27+02:00,2023-08-31 22:16:33+02:00
+backend/backend/settings.py,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 22:57:21+02:00
+backend/backend/settings.py,momanyisamuel,tosta,2023-10-17 19:01:42+03:00,2023-10-18 10:38:36+02:00
+backend/backend/settings.py,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+backend/backend/settings.py,Andrew Tavis McAllister,cquinn540,2024-11-07 01:26:40+01:00,2024-11-07 14:41:33-05:00
+backend/backend/settings.py,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+backend/backend/urls.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:16:55+02:00,2023-08-31 22:16:33+02:00
+backend/backend/urls.py,tosta,Andrew Tavis McAllister,2023-09-13 17:30:46+02:00,2023-09-14 15:50:04+03:00
+backend/backend/urls.py,Andrew Tavis McAllister,kurtisolo,2023-09-14 15:50:04+03:00,2023-09-14 16:32:17+02:00
+backend/backend/wsgi.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 16:25:31+02:00,2023-08-31 22:16:33+02:00
+backend/communities/groups/models.py,Andrew Tavis McAllister,tosta,2025-01-12 02:18:07+01:00,2025-01-12 11:51:52+01:00
+backend/communities/groups/models.py,tosta,Andrew Tavis McAllister,2025-01-12 11:51:52+01:00,2025-01-12 18:38:09+01:00
+backend/communities/groups/serializers.py,Andrew Tavis McAllister,tosta,2025-01-12 02:18:07+01:00,2025-01-12 11:51:52+01:00
+backend/communities/groups/serializers.py,tosta,Andrew Tavis McAllister,2025-01-12 12:14:48+01:00,2025-01-12 18:38:09+01:00
+backend/communities/groups/tests/test_group.py,tosta,Andrew Tavis McAllister,2025-01-12 12:14:48+01:00,2025-01-12 18:38:09+01:00
+backend/communities/groups/tests/test_group_text.py,tosta,Andrew Tavis McAllister,2025-01-12 12:14:48+01:00,2025-01-12 18:38:09+01:00
+backend/communities/groups/views.py,Andrew Tavis McAllister,Mahendra sai Divi,2025-01-14 01:42:42+01:00,2025-01-15 01:18:56+01:00
+backend/communities/organizations/models.py,Andrew Tavis McAllister,tosta,2025-01-12 02:18:07+01:00,2025-01-12 11:51:52+01:00
+backend/communities/organizations/models.py,tosta,Andrew Tavis McAllister,2025-01-12 11:51:52+01:00,2025-01-12 18:38:09+01:00
+backend/communities/organizations/views.py,Andrew Tavis McAllister,Mahendra sai Divi,2025-01-14 01:42:42+01:00,2025-01-15 01:18:56+01:00
+backend/communities/organizations/views.py,Andrew Tavis McAllister,Matt Burnett,2025-01-19 10:47:32+01:00,2025-01-19 16:19:35+01:00
+backend/communities/organizations/views.py,Matt Burnett,Andrew Tavis McAllister,2025-01-27 21:23:49+01:00,2025-01-27 23:06:52+01:00
+backend/communities/organizations/views.py,Matt Burnett,Andrew Tavis McAllister,2025-01-29 19:43:09+01:00,2025-01-29 23:58:36+01:00
+backend/communities/serializers.py,Andrew Tavis McAllister,tosta,2025-01-09 00:02:29+01:00,2025-01-09 23:17:29+01:00
+backend/communities/urls.py,Andrew Tavis McAllister,Matt Burnett,2025-01-19 10:47:32+01:00,2025-01-19 16:19:35+01:00
+backend/content/models.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 21:00:27+02:00,2023-08-31 22:16:33+02:00
+backend/content/models.py,Andrew Tavis McAllister,kurtisolo,2023-08-31 22:16:33+02:00,2023-09-01 17:10:30+02:00
+backend/content/models.py,kurtisolo,tosta,2023-09-01 17:10:30+02:00,2023-09-01 19:00:39+02:00
+backend/content/models.py,tosta,Andrew Tavis McAllister,2023-09-01 19:00:39+02:00,2023-09-01 19:46:48+02:00
+backend/content/models.py,Andrew Tavis McAllister,tosta,2023-09-01 19:46:48+02:00,2023-09-01 21:53:15+02:00
+backend/content/models.py,Bharathkumarramesh,tosta,2023-11-29 22:13:41+05:30,2023-11-29 22:37:49+01:00
+backend/content/models.py,tosta,thiagogquinto,2024-03-16 20:14:26+01:00,2024-03-16 19:50:50-03:00
+backend/content/models.py,thiagogquinto,tosta,2024-03-16 19:50:50-03:00,2024-03-17 16:17:28+01:00
+backend/content/serializers.py,Andrew Tavis McAllister,thiagogquinto,2023-09-14 14:45:00+03:00,2023-09-14 18:03:41-03:00
+backend/content/serializers.py,Andrew Tavis McAllister,tosta,2023-10-15 22:57:21+02:00,2023-10-16 22:09:36+02:00
+backend/content/serializers.py,rigojr,José Rigoberto Salas Chacón,2023-12-28 15:53:08-05:00,2023-12-28 16:37:12-05:00
+backend/content/serializers.py,Andrew Tavis McAllister,Mahendra sai Divi,2025-01-14 01:42:42+01:00,2025-01-15 01:18:56+01:00
+backend/content/views.py,rigojr,José Rigoberto Salas Chacón,2023-12-28 15:57:04-05:00,2023-12-28 16:37:12-05:00
+backend/content/views.py,Andrew Tavis McAllister,tosta,2024-02-18 22:44:36+01:00,2024-02-19 08:56:57+01:00
+backend/content/views.py,Andrew Tavis McAllister,Mahendra sai Divi,2025-01-14 01:42:42+01:00,2025-01-15 01:18:56+01:00
+backend/core/management/commands/populate_db.py,Andrew Tavis McAllister,tosta,2025-01-12 02:18:07+01:00,2025-01-12 11:51:52+01:00
+backend/core/management/commands/populate_db.py,tosta,Andrew Tavis McAllister,2025-01-12 11:51:52+01:00,2025-01-12 18:38:09+01:00
+backend/entities/admin.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:54:52+02:00,2023-08-31 22:16:33+02:00
+backend/entities/admin.py,cquinn540,Andrew Tavis McAllister,2024-11-07 17:11:57-05:00,2024-11-08 19:44:34+01:00
+backend/entities/factories.py,tosta,Andrew Tavis McAllister,2024-12-01 13:13:36+01:00,2024-12-01 19:22:20+01:00
+backend/entities/models.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:54:52+02:00,2023-08-31 22:16:33+02:00
+backend/entities/models.py,Andrew Tavis McAllister,kurtisolo,2023-08-31 22:16:33+02:00,2023-09-01 17:10:30+02:00
+backend/entities/models.py,kurtisolo,tosta,2023-09-01 17:28:39+02:00,2023-09-01 19:00:39+02:00
+backend/entities/models.py,tosta,Andrew Tavis McAllister,2023-09-01 19:00:39+02:00,2023-09-01 19:46:48+02:00
+backend/entities/models.py,Andrew Tavis McAllister,tosta,2023-09-01 19:46:48+02:00,2023-09-01 21:53:15+02:00
+backend/entities/models.py,Bharathkumarramesh,tosta,2023-11-29 22:13:41+05:30,2023-11-29 22:37:49+01:00
+backend/entities/models.py,tosta,thiagogquinto,2024-03-16 20:14:26+01:00,2024-03-16 19:50:50-03:00
+backend/entities/models.py,thiagogquinto,tosta,2024-03-16 19:50:50-03:00,2024-03-17 14:44:43+01:00
+backend/entities/models.py,tosta,thiagogquinto,2024-03-23 21:06:03+01:00,2024-03-23 17:30:05-03:00
+backend/entities/models.py,tosta,Andrew Tavis McAllister,2024-12-01 13:13:36+01:00,2024-12-01 19:22:20+01:00
+backend/entities/serializers.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:13:52+02:00,2023-08-31 22:16:33+02:00
+backend/entities/serializers.py,thiagogquinto,kurtisolo,2023-09-09 17:28:50-03:00,2023-09-10 11:27:21+02:00
+backend/entities/serializers.py,kurtisolo,tosta,2023-09-10 11:27:21+02:00,2023-09-10 16:43:50+02:00
+backend/entities/serializers.py,tosta,thiagogquinto,2023-09-10 16:43:50+02:00,2023-09-10 11:52:59-03:00
+backend/entities/serializers.py,Andrew Tavis McAllister,thiagogquinto,2023-09-14 14:45:00+03:00,2023-09-14 18:03:41-03:00
+backend/entities/serializers.py,Andrew Tavis McAllister,tosta,2023-10-15 22:57:21+02:00,2023-10-16 22:09:36+02:00
+backend/entities/serializers.py,tosta,momanyisamuel,2023-10-16 22:09:36+02:00,2023-10-17 19:01:42+03:00
+backend/entities/serializers.py,tosta,thiagogquinto,2024-03-23 21:06:03+01:00,2024-03-23 17:30:05-03:00
+backend/entities/serializers.py,Andrew Tavis McAllister,tosta,2024-06-29 15:43:22+02:00,2024-06-30 10:50:09+02:00
+backend/entities/serializers.py,Andrew Tavis McAllister,cquinn540,2024-11-07 01:26:40+01:00,2024-11-07 17:11:57-05:00
+backend/entities/serializers.py,cquinn540,Andrew Tavis McAllister,2024-11-07 17:11:57-05:00,2024-11-08 19:44:34+01:00
+backend/entities/serializers.py,tosta,Andrew Tavis McAllister,2024-12-01 13:13:36+01:00,2024-12-01 19:22:20+01:00
+backend/entities/urls.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:16:55+02:00,2023-08-31 22:16:33+02:00
+backend/entities/views.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:13:52+02:00,2023-08-31 22:16:33+02:00
+backend/entities/views.py,kurtisolo,tosta,2023-09-10 11:55:24+02:00,2023-09-10 16:43:50+02:00
+backend/entities/views.py,Andrew Tavis McAllister,kurtisolo,2023-09-14 14:45:00+03:00,2023-09-14 16:32:17+02:00
+backend/entities/views.py,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+backend/entities/views.py,Andrew Tavis McAllister,tosta,2024-06-29 15:43:22+02:00,2024-06-29 17:49:39+02:00
+backend/events/factories.py,Andrew Tavis McAllister,tosta,2025-01-12 02:18:07+01:00,2025-01-12 12:14:48+01:00
+backend/events/factories.py,tosta,Andrew Tavis McAllister,2025-01-12 12:14:48+01:00,2025-01-12 18:38:09+01:00
+backend/events/models.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:43:48+02:00,2023-08-31 22:16:33+02:00
+backend/events/models.py,Andrew Tavis McAllister,kurtisolo,2023-08-31 22:16:33+02:00,2023-09-01 17:10:30+02:00
+backend/events/models.py,kurtisolo,tosta,2023-09-01 17:10:30+02:00,2023-09-01 19:00:39+02:00
+backend/events/models.py,tosta,Andrew Tavis McAllister,2023-09-01 19:00:39+02:00,2023-09-01 19:46:48+02:00
+backend/events/models.py,Andrew Tavis McAllister,tosta,2023-09-01 19:46:48+02:00,2023-09-01 21:53:15+02:00
+backend/events/models.py,Andrew Tavis McAllister,tosta,2023-11-18 00:49:00+01:00,2023-11-18 19:39:34+01:00
+backend/events/models.py,Bharathkumarramesh,tosta,2023-11-29 22:13:41+05:30,2023-11-29 22:37:49+01:00
+backend/events/models.py,tosta,Andrew Tavis McAllister,2024-03-23 21:06:03+01:00,2024-03-23 22:07:13+01:00
+backend/events/models.py,Andrew Tavis McAllister,tosta,2025-01-11 20:18:36+01:00,2025-01-12 11:51:52+01:00
+backend/events/models.py,tosta,Andrew Tavis McAllister,2025-01-12 11:51:52+01:00,2025-01-12 18:38:09+01:00
+backend/events/serializers.py,kurtisolo,Andrew Tavis McAllister,2023-08-31 17:13:52+02:00,2023-08-31 22:16:33+02:00
+backend/events/serializers.py,thiagogquinto,tosta,2023-09-09 17:28:50-03:00,2023-09-10 16:43:50+02:00
+backend/events/serializers.py,tosta,thiagogquinto,2023-09-10 16:43:50+02:00,2023-09-10 11:52:59-03:00
+backend/events/serializers.py,Andrew Tavis McAllister,thiagogquinto,2023-09-14 14:45:00+03:00,2023-09-14 18:03:41-03:00
+backend/events/serializers.py,Andrew Tavis McAllister,tosta,2023-10-15 22:57:21+02:00,2023-10-16 22:09:36+02:00
+backend/events/serializers.py,Andrew Tavis McAllister,tosta,2025-01-12 02:18:07+01:00,2025-01-12 11:51:52+01:00
+backend/events/serializers.py,tosta,Andrew Tavis McAllister,2025-01-12 11:51:52+01:00,2025-01-12 18:38:09+01:00
+backend/events/views.py,Andrew Tavis McAllister,Mahendra sai Divi,2025-01-14 01:42:42+01:00,2025-01-15 01:18:56+01:00
+backend/pyproject.toml,tosta,Andrew Tavis McAllister,2023-10-27 22:11:08+02:00,2023-10-28 13:43:56+02:00
+backend/pyproject.toml,Ebrar Karadeniz,Andrew Tavis McAllister,2023-10-30 23:21:16+03:00,2023-10-30 23:40:16+01:00
+backend/pyproject.toml,Andrew Tavis McAllister,tosta,2025-02-26 20:51:45+01:00,2025-02-27 18:54:53+01:00
+backend/requirements-dev.txt,dependabot[bot],tosta,2024-03-23 21:35:50+00:00,2024-03-24 18:55:04+01:00
+backend/requirements-dev.txt,dependabot[bot],Andrew Tavis McAllister,2024-04-15 23:15:44+00:00,2024-04-17 00:16:31+02:00
+backend/requirements-dev.txt,Andrew Tavis McAllister,dependabot[bot],2024-04-17 00:16:31+02:00,2024-04-17 02:39:17+00:00
+backend/requirements-dev.txt,dependabot[bot],Andrew Tavis McAllister,2024-07-06 00:45:42+00:00,2024-07-06 02:48:42+02:00
+backend/requirements-dev.txt,Andrew Tavis McAllister,tosta,2024-07-27 10:01:20-06:00,2024-07-28 10:35:05+02:00
+backend/requirements-dev.txt,dependabot[bot],Andrew Tavis McAllister,2024-08-07 19:29:30+00:00,2024-08-07 23:09:16+02:00
+backend/requirements-dev.txt,Andrew Tavis McAllister,dependabot[bot],2025-01-14 00:26:45+01:00,2025-01-14 22:25:24+00:00
+backend/requirements.txt,tosta,Andrew Tavis McAllister,2023-09-13 17:30:46+02:00,2023-09-14 15:50:04+03:00
+backend/requirements.txt,momanyisamuel,tosta,2023-10-17 19:01:42+03:00,2023-10-18 16:15:33+02:00
+backend/requirements.txt,dependabot[bot],tosta,2024-03-23 21:35:50+00:00,2024-03-24 18:55:04+01:00
+backend/requirements.txt,dependabot[bot],Andrew Tavis McAllister,2024-04-15 23:15:44+00:00,2024-04-17 00:16:31+02:00
+backend/requirements.txt,Andrew Tavis McAllister,dependabot[bot],2024-04-17 00:16:31+02:00,2024-04-17 02:39:17+00:00
+backend/requirements.txt,dependabot[bot],Andrew Tavis McAllister,2024-08-07 19:29:30+00:00,2024-08-07 23:09:16+02:00
+backend/requirements.txt,Andrew Tavis McAllister,dependabot[bot],2025-01-14 00:18:20+01:00,2025-01-14 22:25:24+00:00
+backend/utils/utils.py,Andrew Tavis McAllister,thiagogquinto,2023-09-14 13:39:08+03:00,2023-09-14 18:03:41-03:00
+docker-compose.yml,Vinny,Andrew Tavis McAllister,2023-10-17 15:20:03-03:00,2023-10-18 19:56:27+02:00
+docker-compose.yml,Andrew Tavis McAllister,tosta,2024-06-29 15:43:22+02:00,2024-06-30 10:49:15+02:00
+docker-compose.yml,Andrew Tavis McAllister,tosta,2024-08-11 14:27:46+02:00,2024-08-11 16:14:00+02:00
+docs/.gitbook/assets/activist_github_org_banner.png,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/SUMMARY.md,hoppi,andrewtavis,2024-11-07 19:46:07+00:00,2024-11-07 23:15:10+00:00
+docs/SUMMARY.md,andrewtavis,Andrew Tavis McAllister,2024-11-07 23:15:10+00:00,2024-11-08 00:25:34+01:00
+docs/organization/community/code-of-conduct.md,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/organization/community/supporters.md,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/organization/legal/copyright.md,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/product/about/README.md,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/product/about/README.md,andrewtavis,Andrew Tavis McAllister,2024-11-07 23:15:10+00:00,2024-11-08 00:25:34+01:00
+docs/product/about/editor.md,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/product/about/roadmap.md,hoppi,Andrew Tavis McAllister,2024-11-07 16:50:27+00:00,2024-11-08 00:23:20+01:00
+docs/product/mvp/README.md,hoppi,andrewtavis,2024-11-07 19:18:05+00:00,2024-11-07 23:15:10+00:00
+docs/product/mvp/faq.md,hoppi,andrewtavis,2024-11-07 19:15:07+00:00,2024-11-07 23:15:10+00:00
+docs/product/mvp/groups.md,hoppi,andrewtavis,2024-11-07 19:15:07+00:00,2024-11-07 23:15:10+00:00
+docs/product/mvp/home.md,hoppi,andrewtavis,2024-11-07 19:15:07+00:00,2024-11-07 23:15:10+00:00
+docs/product/mvp/markdown.md,hoppi,andrewtavis,2024-11-07 19:15:07+00:00,2024-11-07 23:15:10+00:00
+docs/product/mvp/resources.md,hoppi,andrewtavis,2024-11-07 19:15:07+00:00,2024-11-07 23:15:10+00:00
+docs/welcome/connect-with-us.md,hoppi,andrewtavis,2024-11-07 16:50:27+00:00,2024-11-07 23:15:10+00:00
+docs/welcome/request-access.md,hoppi,andrewtavis,2024-11-07 18:12:39+00:00,2024-11-07 23:15:10+00:00
+docs/welcome/support-us.md,hoppi,andrewtavis,2024-11-07 18:02:10+00:00,2024-11-07 23:15:10+00:00
+docs/welcome/support-us.md,andrewtavis,Andrew Tavis McAllister,2024-11-07 23:15:10+00:00,2024-11-08 00:23:20+01:00
+frontend/.eslintrc.js,Ahmet,Andrew Tavis McAllister,2023-10-11 01:47:15+03:00,2023-10-11 19:10:12+02:00
+frontend/app.vue,Matt Burnett,Andrew Tavis McAllister,2024-07-04 19:41:40+02:00,2024-07-04 21:46:08+02:00
+frontend/assets/css/tailwind.css,Rufaida,Andrew Tavis McAllister,2023-04-04 21:00:36-04:00,2023-04-05 09:00:08+02:00
+frontend/assets/css/tailwind.css,lguaregua,Andrew Tavis McAllister,2023-05-17 08:13:30-04:00,2023-05-17 17:14:14+02:00
+frontend/assets/css/tailwind.css,Vidhanvyrs,Andrew Tavis McAllister,2023-08-12 12:17:33+05:30,2023-08-12 13:54:08+02:00
+frontend/assets/css/tailwind.css,Andrew Tavis McAllister,Krallowski,2023-12-25 17:04:09+01:00,2023-12-26 12:24:06+01:00
+frontend/assets/css/tailwind.css,bharath637462,Andrew Tavis McAllister,2023-12-28 16:26:08+05:30,2023-12-28 14:20:42+01:00
+frontend/components/Card/CardConnect.vue,lguaregua,Andrew Tavis McAllister,2023-05-17 08:13:30-04:00,2023-05-17 17:43:06+02:00
+frontend/components/Card/CardSearchResult.vue,Andrew Tavis McAllister,anthonyshibitov,2023-06-18 00:39:32+02:00,2023-06-17 21:10:42-04:00
+frontend/components/Card/CardSearchResult.vue,anthonyshibitov,Andrew Tavis McAllister,2023-06-17 21:13:03-04:00,2023-06-18 23:43:34+02:00
+frontend/components/Cards/CardsConnect.vue,Andrew Tavis McAllister,matthias.polkehn,2023-05-20 12:25:33+02:00,2023-05-21 09:13:41+02:00
+frontend/components/Cards/CardsSearchResult.vue,Andrew Tavis McAllister,James Jenkinson,2023-05-17 17:14:14+02:00,2023-05-17 22:27:57+02:00
+frontend/components/EmptyState.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-05 15:33:11-05:00,2025-02-05 22:52:28+01:00
+frontend/components/EmptyState.vue,Andrew Tavis McAllister,github-actions[bot],2025-02-05 22:52:28+01:00,2025-02-05 17:37:51-05:00
+frontend/components/Grid/GridGithubShields.vue,Rohith Ramanathan,Andrew Tavis McAllister,2023-06-07 00:34:48-04:00,2023-06-08 00:45:47+02:00
+frontend/components/Grid/GridGithubShields.vue,luuu-xu,Andrew Tavis McAllister,2023-07-05 16:12:15-04:00,2023-07-06 00:17:56+02:00
+frontend/components/Icon/IconGithubShield.vue,Rohith Ramanathan,Andrew Tavis McAllister,2023-06-07 00:32:00-04:00,2023-06-08 00:45:47+02:00
+frontend/components/LabeledBtn.vue,Tarun Samanta,Andrew Tavis McAllister,2023-06-12 23:27:02+05:30,2023-06-12 21:30:30+02:00
+frontend/components/Loading.vue,henrque,Andrew Tavis McAllister,2023-08-31 15:02:50-03:00,2023-09-01 00:29:15+02:00
+frontend/components/Media/Calendar.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 19:12:31-05:00,2023-10-11 02:50:06+02:00
+frontend/components/Media/MediaMap.vue,Andrew Tavis McAllister,momanyisamuel,2023-06-12 21:30:30+02:00,2023-06-13 17:15:48+03:00
+frontend/components/MenuSelector.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:47:18+02:00,2023-03-29 05:01:08+03:00
+frontend/components/PasswordStrengthIndicator.vue,Ahmet,Andrew Tavis McAllister,2023-12-02 16:20:23+03:00,2023-12-02 14:49:14+01:00
+frontend/components/Popup/PopupNewField.vue,Andrew Tavis McAllister,matthias.polkehn,2023-05-20 12:25:33+02:00,2023-05-21 09:13:41+02:00
+frontend/components/ProgressBar.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/components/ProgressBar.vue,lucianmurmurache,Andrew Tavis McAllister,2024-03-23 14:59:17+01:00,2024-03-23 22:07:13+01:00
+frontend/components/SearchBar.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:47:18+02:00,2023-03-29 05:01:08+03:00
+frontend/components/SearchBar.vue,Andrew Tavis McAllister,muditagarwalna@gmail.comx,2023-04-13 21:48:25+02:00,2023-04-14 22:17:00+05:30
+frontend/components/SearchBar.vue,Sam.Donovan,Andrew Tavis McAllister,2023-05-15 12:35:21+01:00,2023-05-15 21:13:25+02:00
+frontend/components/SearchBar.vue,tosta,Andrew Tavis McAllister,2023-08-11 16:33:37+02:00,2023-08-12 00:41:22+02:00
+frontend/components/SearchBar.vue,Andrew Tavis McAllister,tosta,2023-08-12 00:41:22+02:00,2023-08-12 21:18:02+02:00
+frontend/components/SearchBar.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/SearchBar.vue,Andrew Tavis McAllister,hoon610,2023-10-08 18:42:32+02:00,2023-10-08 15:15:46-04:00
+frontend/components/SearchBar.vue,Matt Burnett,Andrew Tavis McAllister,2024-01-07 14:42:45+01:00,2024-01-08 01:44:47+01:00
+frontend/components/SearchBar.vue,Tanya Kharitonovich,Burak Özmen,2024-03-04 10:36:06+01:00,2024-03-04 20:05:43+01:00
+frontend/components/SearchBar.vue,Andrew Tavis McAllister,Thomas,2025-01-16 21:15:43+01:00,2025-01-17 11:53:16-06:00
+frontend/components/Sidebar/Sidebar.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:21:01+02:00,2023-03-29 05:01:08+03:00
+frontend/components/Sidebar/SidebarFooter.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:21:01+02:00,2023-03-29 05:01:08+03:00
+frontend/components/Sidebar/SidebarHeader.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:21:01+02:00,2023-03-29 05:01:08+03:00
+frontend/components/Sidebar/SidebarHeader.vue,Andrew Tavis McAllister,Connor Lunsford,2023-05-01 02:26:00+02:00,2023-04-30 18:54:04-07:00
+frontend/components/Sidebar/SidebarHeader.vue,Connor Lunsford,Andrew Tavis McAllister,2023-04-30 18:54:04-07:00,2023-05-01 21:14:39+02:00
+frontend/components/Sidebar/SidebarMainSectionSelectors.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:21:01+02:00,2023-03-29 05:01:08+03:00
+frontend/components/TopicMarker.vue,Sam.Donovan,James Jenkinson,2023-05-17 18:25:44+01:00,2023-05-17 22:27:57+02:00
+frontend/components/TopicMarker.vue,James Jenkinson,Andrew Tavis McAllister,2023-05-17 22:27:57+02:00,2023-05-18 16:12:38+02:00
+frontend/components/WebsiteFooter.vue,tosta,Andrew Tavis McAllister,2023-07-30 13:41:46+02:00,2023-07-30 21:02:54+02:00
+frontend/components/WebsiteHeader.vue,purupurupu,Andrew Tavis McAllister,2023-02-04 00:19:50+09:00,2023-02-03 18:54:37+01:00
+frontend/components/WebsiteHeader.vue,purupurupu,Andrew Tavis McAllister,2023-02-06 00:23:45+09:00,2023-02-05 18:09:51+01:00
+frontend/components/WebsiteHeader.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/components/btn/BtnLabeled.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/btn/BtnShareIcon.vue,Mahendra sai Divi,Sean Leong,2025-01-15 01:18:56+01:00,2025-01-15 01:20:18+01:00
+frontend/components/card/CardAbout.vue,Tanya Kharitonovich,Andrew Tavis McAllister,2024-01-24 09:24:52+01:00,2024-01-25 00:50:42+01:00
+frontend/components/card/CardConnect.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/components/card/CardConnect.vue,Andrew Tavis McAllister,Matt Burnett,2024-12-07 15:20:57+01:00,2024-12-07 16:00:09+01:00
+frontend/components/card/CardConnect.vue,Andrew Tavis McAllister,Matt Burnett,2025-01-19 12:52:41+01:00,2025-01-19 16:19:35+01:00
+frontend/components/card/CardDangerZone.vue,tosta,Andrew Tavis McAllister,2023-08-17 14:22:16+02:00,2023-08-17 23:41:57+02:00
+frontend/components/card/CardDatePicker.vue,Pablo Sena,Andrew Tavis McAllister,2023-12-08 17:23:17-03:00,2023-12-09 11:47:40+01:00
+frontend/components/card/CardFAQEntry.vue,Matt Burnett,Andrew Tavis McAllister,2023-12-04 05:27:10+01:00,2023-12-05 00:45:31+01:00
+frontend/components/card/CardGetInvolved.vue,Felipe Archanjo,tosta,2023-08-25 21:20:26-03:00,2023-08-26 14:05:10+02:00
+frontend/components/card/CardGetInvolved.vue,tosta,Andrew Tavis McAllister,2023-08-26 14:05:10+02:00,2023-08-26 20:51:33+02:00
+frontend/components/card/CardGetInvolved.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-08-26 20:51:33+02:00,2023-08-27 12:16:51-03:00
+frontend/components/card/CardGetInvolved.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/components/card/CardGetInvolved.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:54:43+03:00,2023-10-26 02:15:49+02:00
+frontend/components/card/CardLegalDisclaimer.vue,Felipe Archanjo,tosta,2023-08-25 21:20:26-03:00,2023-08-26 14:05:10+02:00
+frontend/components/card/CardLegalDisclaimer.vue,tosta,Andrew Tavis McAllister,2023-08-26 18:50:25+02:00,2023-08-26 20:51:33+02:00
+frontend/components/card/CardLegalDisclaimer.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-08-26 20:51:33+02:00,2023-08-27 11:44:40-03:00
+frontend/components/card/CardLegalDisclaimer.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/components/card/CardLegalDisclaimer.vue,Andrew Tavis McAllister,dinabandhu,2023-08-28 03:03:48+02:00,2023-08-28 08:40:42+05:30
+frontend/components/card/CardLegalDisclaimer.vue,bmartins,Andrew Tavis McAllister,2023-10-26 12:50:03+02:00,2023-10-26 17:06:12+02:00
+frontend/components/card/CardTextEntry.vue,tosta,Andrew Tavis McAllister,2023-08-18 15:17:59+02:00,2023-08-18 23:47:56+02:00
+frontend/components/card/CardTopicSelection.vue,Andrew Tavis McAllister,Sean Leong,2024-01-08 01:44:47+01:00,2024-01-08 03:43:47+00:00
+frontend/components/card/discussion/CardDiscussionInput.vue,Shahad,mahasultan,2023-11-28 16:46:49+03:00,2023-11-28 19:14:12+03:00
+frontend/components/card/discussion/CardDiscussionInput.vue,mahasultan,Ali Q,2023-11-28 19:23:30+03:00,2023-11-28 21:14:26+03:00
+frontend/components/card/discussion/CardDiscussionInput.vue,Ali Q,mahasultan,2023-11-28 21:24:34+03:00,2023-11-29 01:33:00+03:00
+frontend/components/card/discussion/CardDiscussionInput.vue,mahasultan,Andrew Tavis McAllister,2023-11-30 01:59:22+03:00,2023-11-30 00:59:36+01:00
+frontend/components/card/discussion/CardDiscussionInput.vue,mahasultan,Andrew Tavis McAllister,2023-12-03 04:27:19+03:00,2023-12-03 13:16:11+01:00
+frontend/components/card/get-involved/CardGetInvolvedOrganization.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-05 15:33:11-05:00,2025-02-05 22:52:28+01:00
+frontend/components/card/get-involved/CardGetInvolvedOrganization.vue,Andrew Tavis McAllister,github-actions[bot],2025-02-05 22:52:28+01:00,2025-02-05 17:37:51-05:00
+frontend/components/card/search-result/CardDiscussionEntry.vue,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-20 16:12:48+05:30,2023-10-21 12:32:58+02:00
+frontend/components/card/search-result/CardSearchResult.vue,Andrew Tavis McAllister,anthonyshibitov,2023-08-12 16:08:17+02:00,2023-08-12 13:10:07-04:00
+frontend/components/card/search-result/CardSearchResult.vue,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-20 16:12:48+05:30,2023-10-21 12:32:58+02:00
+frontend/components/card/search-result/CardSearchResult.vue,Andrew Tavis McAllister,GOWTHAM2K1,2023-10-21 12:32:58+02:00,2023-10-21 23:36:37+05:30
+frontend/components/card/search-result/CardSearchResultEvent.vue,bharath637462,Andrew Tavis McAllister,2023-12-28 11:22:07+05:30,2023-12-28 13:56:50+01:00
+frontend/components/card/search-result/CardSearchResultOrganization.vue,anthonyshibitov,Andrew Tavis McAllister,2023-12-16 10:53:55-05:00,2023-12-17 15:47:11+01:00
+frontend/components/card/search-result/CardSearchResultOrganization.vue,bharath637462,Andrew Tavis McAllister,2023-12-28 11:22:07+05:30,2023-12-28 13:56:50+01:00
+frontend/components/card/search-result/CardSearchResultResource.vue,anthonyshibitov,Andrew Tavis McAllister,2023-12-16 10:53:55-05:00,2023-12-17 15:47:11+01:00
+frontend/components/card/search-result/CardSearchResultResource.vue,bharath637462,Andrew Tavis McAllister,2023-12-28 11:22:07+05:30,2023-12-28 13:56:50+01:00
+frontend/components/card/search-result/CardSearchResultUser.vue,anthonyshibitov,Andrew Tavis McAllister,2023-08-12 13:10:07-04:00,2023-08-13 02:55:45+02:00
+frontend/components/card/search-result/CardSearchResultUser.vue,bharath637462,Andrew Tavis McAllister,2023-12-28 11:22:07+05:30,2023-12-28 13:56:50+01:00
+frontend/components/dropdown/DropdownBase.vue,Andrew Tavis McAllister,Burak Özmen,2024-03-03 22:10:30+01:00,2024-03-04 20:05:43+01:00
+frontend/components/dropdown/DropdownBase.vue,lucianmurmurache,Tanya Kharitonovich,2024-03-21 11:31:47+01:00,2024-03-21 21:27:03+01:00
+frontend/components/dropdown/DropdownBase.vue,Tanya Kharitonovich,lucianmurmurache,2024-03-21 21:27:03+01:00,2024-03-22 13:56:51+01:00
+frontend/components/dropdown/DropdownBase.vue,lucianmurmurache,Andrew Tavis McAllister,2024-03-23 14:59:17+01:00,2024-03-23 22:07:13+01:00
+frontend/components/dropdown/DropdownBase.vue,Amelia,Andrew Tavis McAllister,2024-04-29 18:45:32-07:00,2024-04-30 12:12:06+02:00
+frontend/components/dropdown/DropdownUserOptions.vue,Amelia,Andrew Tavis McAllister,2024-04-29 18:45:32-07:00,2024-04-30 12:12:06+02:00
+frontend/components/feed/Feed.vue,cquinn540,Andrew Tavis McAllister,2024-12-11 16:15:10-05:00,2024-12-12 01:13:09+01:00
+frontend/components/footer/Footer.vue,luuu-xu,Andrew Tavis McAllister,2023-08-11 00:29:40-04:00,2023-08-12 00:41:22+02:00
+frontend/components/footer/Footer.vue,Andrew Tavis McAllister,Tarun Samanta,2023-08-12 16:08:17+02:00,2023-08-13 00:49:57+05:30
+frontend/components/footer/Footer.vue,Vidhanvyrs,Andrew Tavis McAllister,2023-08-24 14:48:22+05:30,2023-08-24 22:30:24+02:00
+frontend/components/footer/Footer.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-08-24 22:30:24+02:00,2023-08-24 22:37:56-03:00
+frontend/components/footer/Footer.vue,Andrew Tavis McAllister,Burak Özmen,2024-03-04 02:45:26+01:00,2024-03-04 20:05:43+01:00
+frontend/components/footer/FooterFlex.vue,luuu-xu,Andrew Tavis McAllister,2023-08-11 00:29:40-04:00,2023-08-12 00:41:22+02:00
+frontend/components/footer/FooterFlex.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-08-24 22:30:24+02:00,2023-08-24 22:21:34-03:00
+frontend/components/footer/FooterFlex.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/footer/FooterFlexCol.vue,luuu-xu,Andrew Tavis McAllister,2023-08-11 00:29:40-04:00,2023-08-12 00:41:22+02:00
+frontend/components/footer/FooterFlexCol.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/footer/flex/FooterFlex.vue,progressive-galib,Mahfuzullah Galib,2024-12-11 01:45:28+06:00,2024-12-11 10:47:28+06:00
+frontend/components/form/FormButtonStyledCheckbox.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/form/FormButtonStyledRadio.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/form/FormCheckbox.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-09-22 18:00:18-05:00,2023-09-23 16:08:23+02:00
+frontend/components/form/FormCheckbox.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormCheckboxButton.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormCheckboxGroup.vue,Andrew Tavis McAllister,Rengaraj R,2023-10-07 11:15:35+02:00,2023-10-08 14:04:01+05:30
+frontend/components/form/FormCheckboxGroup.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormRadio.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormRadioButton.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormRadioGroup.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/form/FormRadioGroup.vue,Andrew Tavis McAllister,Rengaraj R,2023-10-07 11:15:35+02:00,2023-10-08 14:04:01+05:30
+frontend/components/form/FormRadioGroup.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormSearch.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-09-22 18:00:18-05:00,2023-09-23 16:08:23+02:00
+frontend/components/form/FormSearch.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormSearch.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 19:45:28+02:00
+frontend/components/form/FormSearch.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:56:27+03:00,2023-10-26 02:15:49+02:00
+frontend/components/form/FormTextField.vue,Andrew Tavis McAllister,thiagogquinto,2023-10-07 22:39:18+02:00,2023-10-07 17:40:50-03:00
+frontend/components/form/FormTextField.vue,thiagogquinto,Rengaraj R,2023-10-07 17:40:50-03:00,2023-10-08 14:04:01+05:30
+frontend/components/form/FormTextField.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/form/FormTextField.vue,thiagogquinto,José Rigoberto Salas Chacón,2023-10-10 18:18:13-03:00,2023-10-10 18:28:50-05:00
+frontend/components/form/FormTextField.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 19:45:28+02:00
+frontend/components/form/FormTextField.vue,Andrew Tavis McAllister,Ahmet,2023-10-25 00:59:35+02:00,2023-10-26 00:56:27+03:00
+frontend/components/form/FormTextField.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:56:27+03:00,2023-10-26 02:15:49+02:00
+frontend/components/form/checkbox/FormCheckbox.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 19:45:28+02:00
+frontend/components/form/checkbox/FormCheckbox.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:57:40+03:00,2023-10-26 02:15:49+02:00
+frontend/components/form/checkbox/FormCheckboxBtn.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 19:45:28+02:00
+frontend/components/form/checkbox/FormCheckboxBtn.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/components/form/checkbox/FormCheckboxBtn.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:56:27+03:00,2023-10-26 02:15:49+02:00
+frontend/components/form/radio/FormRadio.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 19:45:28+02:00
+frontend/components/form/radio/FormRadio.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:56:27+03:00,2023-10-26 02:15:49+02:00
+frontend/components/form/radio/FormRadioBtn.vue,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 19:45:28+02:00
+frontend/components/form/radio/FormRadioBtn.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/components/form/radio/FormRadioBtn.vue,Ahmet,Andrew Tavis McAllister,2023-10-26 00:56:27+03:00,2023-10-26 02:15:49+02:00
+frontend/components/grid/GridAppShields.vue,Esslam,Andrew Tavis McAllister,2023-10-25 19:40:34+01:00,2023-10-26 01:27:23+02:00
+frontend/components/grid/GridDocEntries.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/components/grid/GridGitHubContributors.vue,luuu-xu,Andrew Tavis McAllister,2023-09-20 17:05:31-04:00,2023-09-20 23:21:43+02:00
+frontend/components/grid/GridGithubShields.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/components/grid/GridGithubShields.vue,Esslam,Andrew Tavis McAllister,2023-10-25 19:40:34+01:00,2023-10-26 01:27:23+02:00
+frontend/components/grid/GridSearchTags.vue,sayi,Andrew Tavis McAllister,2023-09-24 00:54:12+05:30,2023-09-23 21:55:01+02:00
+frontend/components/header/HeaderAppPage.vue,luuu-xu,Andrew Tavis McAllister,2023-09-04 23:44:17-04:00,2023-09-05 09:09:50+03:00
+frontend/components/header/HeaderAppPage.vue,lucianmurmurache,Sean Leong,2024-03-08 12:35:27+01:00,2024-03-09 00:53:12+00:00
+frontend/components/header/HeaderAppPage.vue,Sean Leong,Andrew Tavis McAllister,2024-03-09 00:53:12+00:00,2024-03-09 13:00:27+01:00
+frontend/components/header/HeaderMobile.vue,Andrew Tavis McAllister,Tanya Kharitonovich,2024-03-03 22:15:02+01:00,2024-03-04 10:36:06+01:00
+frontend/components/header/HeaderMobile.vue,Tanya Kharitonovich,Burak Özmen,2024-03-04 10:36:06+01:00,2024-03-04 20:05:43+01:00
+frontend/components/header/HeaderWebsite.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/header/HeaderWebsite.vue,Andrew Tavis McAllister,github-actions[bot],2024-07-05 01:57:59+02:00,2024-07-05 16:05:22-04:00
+frontend/components/header/HeaderWebsite.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-06 09:18:43-05:00,2025-02-06 20:16:39+01:00
+frontend/components/icon/IconActivist.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/icon/IconActivist.vue,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-18 20:30:01+05:30,2023-10-18 23:38:43+02:00
+frontend/components/icon/IconOrganizationStatus.vue,tosta,Andrew Tavis McAllister,2023-08-16 15:50:55+02:00,2023-08-17 10:24:39+02:00
+frontend/components/icon/IconOrganizationStatus.vue,Sean Leong,Andrew Tavis McAllister,2024-03-09 00:53:12+00:00,2024-03-09 13:00:27+01:00
+frontend/components/landing/LandingContent.vue,Andrew Tavis McAllister,Iago Carmona,2023-10-07 13:03:33+02:00,2023-10-07 13:30:31-03:00
+frontend/components/landing/LandingSplash.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/components/landing/LandingTechBanner.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/components/logo/LogoActivist.vue,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-18 20:30:01+05:30,2023-10-18 23:38:43+02:00
+frontend/components/media/MediaImageCarousel.vue,luuu-xu,Andrew Tavis McAllister,2023-08-25 15:14:52-04:00,2023-08-26 20:51:33+02:00
+frontend/components/media/MediaImageCarousel.vue,Andrew Tavis McAllister,lucianmurmurache,2024-03-23 14:27:34+01:00,2024-03-23 14:59:17+01:00
+frontend/components/media/MediaImageCarousel.vue,lucianmurmurache,Nicholas Vecchio,2024-03-23 14:59:17+01:00,2024-03-24 13:47:03+11:00
+frontend/components/media/MediaMap.vue,Nicholas Vecchio,Andrew Tavis McAllister,2024-04-07 16:20:30+10:00,2024-04-07 10:35:00+02:00
+frontend/components/media/MediaMap.vue,Rabel Mervin,Tessa,2024-06-13 18:10:25+05:30,2024-06-14 02:04:23-05:00
+frontend/components/media/MediaMap.vue,Andrew Tavis McAllister,Matt Burnett,2025-03-08 13:04:39+01:00,2025-03-08 19:53:31+01:00
+frontend/components/media/image-carousel/MediaImageCarouselFull.vue,Andrew Tavis McAllister,Matt Burnett,2024-08-11 15:07:06+02:00,2024-08-11 18:27:43+02:00
+frontend/components/menu/MenuItemLabel.vue,Andrew Tavis McAllister,Sean Leong,2024-03-03 22:10:30+01:00,2024-03-04 03:51:42+00:00
+frontend/components/menu/MenuItemLabel.vue,Sean Leong,Tanya Kharitonovich,2024-03-04 03:51:42+00:00,2024-03-04 10:51:21+01:00
+frontend/components/menu/MenuItemLabel.vue,Andrew Tavis McAllister,cquinn540,2024-11-07 01:26:40+01:00,2024-11-07 17:11:57-05:00
+frontend/components/menu/MenuMobileHeader.vue,tosta,Andrew Tavis McAllister,2023-08-11 16:33:37+02:00,2023-08-12 13:54:08+02:00
+frontend/components/menu/MenuNavigationDropdown.vue,Kyrylo Karalyus,Andrew Tavis McAllister,2023-11-03 16:42:31+01:00,2023-11-04 00:52:01+01:00
+frontend/components/menu/MenuSearchResult.vue,Ahmet,Andrew Tavis McAllister,2023-12-24 08:37:02+03:00,2023-12-24 13:01:11+01:00
+frontend/components/menu/MenuSearchResult.vue,bharath637462,Andrew Tavis McAllister,2023-12-28 16:26:08+05:30,2023-12-28 13:56:50+01:00
+frontend/components/menu/MenuSubPageSelector.vue,Andrew Tavis McAllister,Matt Burnett,2025-03-08 13:04:39+01:00,2025-03-08 19:53:31+01:00
+frontend/components/modal/ModalBase.vue,lucianmurmurache,Nicholas Vecchio,2024-03-23 14:59:17+01:00,2024-03-24 13:52:43+11:00
+frontend/components/modal/ModalCommandPalette.vue,Matt Burnett,Andrew Tavis McAllister,2024-01-07 14:42:45+01:00,2024-01-08 01:44:47+01:00
+frontend/components/modal/ModalCommandPalette.vue,Andrew Tavis McAllister,Matt Burnett,2024-08-11 15:07:06+02:00,2024-08-11 18:27:43+02:00
+frontend/components/modal/ModalOrganizationStatus.vue,Sean Leong,Andrew Tavis McAllister,2024-03-09 00:53:12+00:00,2024-03-09 13:00:27+01:00
+frontend/components/modal/ModalQRCode.vue,Vinny,Andrew Tavis McAllister,2023-10-17 15:13:08-03:00,2023-10-18 19:56:27+02:00
+frontend/components/modal/ModalQRCode.vue,anthonyshibitov,mjiruobe,2023-12-02 14:42:51-05:00,2023-12-03 00:37:18+01:00
+frontend/components/modal/ModalSharePage.vue,Andrew Tavis McAllister,Sean Leong,2024-03-04 02:45:26+01:00,2024-03-04 03:51:42+00:00
+frontend/components/modal/ModalSharePage.vue,Sean Leong,Tanya Kharitonovich,2024-03-04 03:51:42+00:00,2024-03-04 10:51:21+01:00
+frontend/components/modal/ModalSharePage.vue,Sukh Oberoi,lucianmurmurache,2024-03-10 17:15:45+05:30,2024-03-10 16:00:08+01:00
+frontend/components/modal/ModalSharePage.vue,Andrew Tavis McAllister,jakinw58,2024-04-30 03:19:43+02:00,2024-04-30 00:16:27-05:00
+frontend/components/modal/ModalSharePage.vue,jakinw58,Andrew Tavis McAllister,2024-04-30 00:16:27-05:00,2024-05-01 00:40:59+02:00
+frontend/components/modal/ModalSharePage.vue,Sean Leong,Andrew Tavis McAllister,2024-08-31 12:44:03+02:00,2024-08-31 15:55:58+02:00
+frontend/components/modal/ModalSharePage.vue,Mahendra sai Divi,Sean Leong,2025-01-15 01:18:56+01:00,2025-01-15 01:20:18+01:00
+frontend/components/modal/command-palette/ModalCommandPalette.vue,Andrew Tavis McAllister,Matt Burnett,2024-06-29 22:48:25+02:00,2024-06-30 22:12:49+02:00
+frontend/components/modal/command-palette/ModalCommandPalette.vue,Matt Burnett,Andrew Tavis McAllister,2024-06-30 22:12:49+02:00,2024-07-01 00:25:05+02:00
+frontend/components/modal/command-palette/ModalCommandPalette.vue,Matt Burnett,Andrew Tavis McAllister,2024-07-02 18:59:53+02:00,2024-07-03 18:37:36+02:00
+frontend/components/modal/command-palette/ModalCommandPalette.vue,Andrew Tavis McAllister,Matt Burnett,2024-07-03 18:37:36+02:00,2024-07-04 13:59:33+02:00
+frontend/components/modal/command-palette/ModalCommandPaletteItem.vue,Andrew Tavis McAllister,Matt Burnett,2024-06-29 22:48:25+02:00,2024-06-30 22:12:49+02:00
+frontend/components/modal/edit/ModalEditSocialLinks.vue,Matt Burnett,Andrew Tavis McAllister,2025-01-27 21:23:49+01:00,2025-01-27 23:06:52+01:00
+frontend/components/modal/edit/about/ModalEditAboutOrganization.vue,Matt Burnett,Andrew Tavis McAllister,2024-12-07 13:48:51+01:00,2024-12-07 15:20:57+01:00
+frontend/components/modal/upload-images/ModalUploadImages.vue,Andrew Tavis McAllister,Matt Burnett,2024-08-11 15:07:06+02:00,2024-08-11 18:27:43+02:00
+frontend/components/page/PageBreadcrumbs.vue,Haya,Andrew Tavis McAllister,2024-12-11 14:12:36+03:00,2024-12-11 23:10:29+01:00
+frontend/components/page/PageBreadcrumbs.vue,Andrew Tavis McAllister,Ashwaq Taib,2024-12-11 23:10:29+01:00,2024-12-12 01:23:49+03:00
+frontend/components/page/PageBreadcrumbs.vue,Ashwaq Taib,Andrew Tavis McAllister,2024-12-12 01:23:49+03:00,2024-12-12 01:13:09+01:00
+frontend/components/page/PageSubPageSelector.vue,Nicholas Vecchio,Andrew Tavis McAllister,2023-11-15 14:22:00+11:00,2023-11-15 20:01:03+01:00
+frontend/components/page/PageSubPageSelector.vue,lucianmurmurache,Andrew Tavis McAllister,2024-03-23 14:59:17+01:00,2024-03-23 22:07:13+01:00
+frontend/components/popup/PopupNewField.vue,Andrew Tavis McAllister,Matt Burnett,2024-12-07 15:20:57+01:00,2024-12-07 16:01:34+01:00
+frontend/components/selector/SelectorLanguage.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/selector/SelectorLanguage.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/selector/SelectorTheme.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/selector/SelectorTheme.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/shield/ShieldTopic.vue,Andrew Tavis McAllister,Sean Leong,2024-01-07 10:18:55+01:00,2024-01-08 03:43:47+00:00
+frontend/components/sidebar/left/SidebarLeft.vue,Andrew Tavis McAllister,luuu-xu,2023-08-24 22:30:24+02:00,2023-08-25 00:25:45-04:00
+frontend/components/sidebar/left/SidebarLeft.vue,Tanya Kharitonovich,Burak Özmen,2024-03-04 10:36:06+01:00,2024-03-04 19:54:14+01:00
+frontend/components/sidebar/left/SidebarLeftFilters.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/sidebar/left/SidebarLeftFilters.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/components/sidebar/left/SidebarLeftFooter.vue,luuu-xu,Felipe Archanjo,2023-08-25 00:25:45-04:00,2023-08-25 21:20:26-03:00
+frontend/components/sidebar/left/SidebarLeftFooter.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/components/sidebar/left/SidebarLeftFooter.vue,Andrew Tavis McAllister,dinabandhu,2023-08-28 03:03:48+02:00,2023-08-28 08:40:42+05:30
+frontend/components/sidebar/left/SidebarLeftFooter.vue,luuu-xu,Andrew Tavis McAllister,2023-09-04 23:44:17-04:00,2023-09-05 17:46:28+03:00
+frontend/components/sidebar/left/SidebarLeftFooter.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/sidebar/left/SidebarLeftFooter.vue,Andrew Tavis McAllister,luuu-xu,2023-09-14 18:36:56+03:00,2023-09-14 15:34:24-04:00
+frontend/components/sidebar/left/SidebarLeftFooter.vue,luuu-xu,Andrew Tavis McAllister,2023-09-14 15:34:24-04:00,2023-09-15 08:07:01+03:00
+frontend/components/sidebar/left/SidebarLeftHeader.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/sidebar/left/SidebarLeftHeader.vue,Andrew Tavis McAllister,Burak Özmen,2024-03-03 22:35:20+01:00,2024-03-04 19:54:14+01:00
+frontend/components/sidebar/left/SidebarLeftHeader.vue,Andrew Tavis McAllister,lucianmurmurache,2024-03-07 02:28:48+01:00,2024-03-07 20:21:07+01:00
+frontend/components/sidebar/left/SidebarLeftIndex.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/components/sidebar/left/SidebarLeftIndex.vue,Andrew Tavis McAllister,dinabandhu,2023-08-28 03:03:48+02:00,2023-08-28 08:40:42+05:30
+frontend/components/sidebar/left/SidebarLeftIndex.vue,luuu-xu,Andrew Tavis McAllister,2023-09-04 23:43:26-04:00,2023-09-05 17:46:28+03:00
+frontend/components/sidebar/left/SidebarLeftSelector.vue,Tanya Kharitonovich,lucianmurmurache,2024-02-15 09:43:59+01:00,2024-02-15 14:27:41+01:00
+frontend/components/sidebar/left/SidebarLeftSelector.vue,lucianmurmurache,Tanya Kharitonovich,2024-02-15 14:27:41+01:00,2024-02-15 17:40:28+01:00
+frontend/components/sidebar/right/SidebarRight.vue,tosta,Andrew Tavis McAllister,2023-08-11 16:33:37+02:00,2023-08-12 12:07:49+02:00
+frontend/components/sidebar/right/SidebarRight.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/components/sidebar/right/SidebarRight.vue,lucianmurmurache,Andrew Tavis McAllister,2024-02-20 14:43:00+01:00,2024-02-21 02:22:11+01:00
+frontend/components/sidebar/right/SidebarRightHamburger.vue,Rengaraj R,Andrew Tavis McAllister,2023-10-08 14:04:01+05:30,2023-10-08 18:42:32+02:00
+frontend/components/tooltip/Tooltip.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/components/tooltip/TooltipDiscussionWarning.vue,mahasultan,Shahad,2023-12-02 03:39:41+03:00,2023-12-02 04:03:22+03:00
+frontend/components/tooltip/TooltipDiscussionWarning.vue,Shahad,mahasultan,2023-12-02 04:03:22+03:00,2023-12-02 04:09:37+03:00
+frontend/components/tooltip/TooltipDiscussionWarning.vue,mahasultan,Andrew Tavis McAllister,2023-12-03 04:27:19+03:00,2023-12-03 13:16:11+01:00
+frontend/components/tooltip/menu-search-result/TooltipMenuSearchResultEvent.vue,Ahmet,Andrew Tavis McAllister,2023-12-24 08:37:02+03:00,2023-12-24 13:01:11+01:00
+frontend/components/tooltip/menu-search-result/TooltipMenuSearchResultOrganization.vue,Ahmet,Andrew Tavis McAllister,2023-12-24 08:37:02+03:00,2023-12-24 13:01:11+01:00
+frontend/components/tooltip/menu-search-result/TooltipMenuSearchResultResource.vue,Ahmet,Andrew Tavis McAllister,2023-12-24 08:37:02+03:00,2023-12-24 13:01:11+01:00
+frontend/components/tooltip/menu-search-result/TooltipMenuSearchResultUser.vue,Ahmet,Andrew Tavis McAllister,2023-12-24 08:37:02+03:00,2023-12-24 13:01:11+01:00
+frontend/composables/fetch.ts,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+frontend/composables/useAuth.ts,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+frontend/composables/useAuth.ts,cquinn540,Andrew Tavis McAllister,2024-11-22 19:10:32-05:00,2024-11-23 18:37:34+01:00
+frontend/composables/useFormSetup.ts,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-09-22 18:08:53-05:00,2023-09-23 16:08:23+02:00
+frontend/composables/useMenuEntriesState.ts,Andrew Tavis McAllister,jennethydyrova,2024-09-02 22:55:29+02:00,2024-09-03 14:51:35+01:00
+frontend/composables/usePasswordRules.ts,Ahmet,Andrew Tavis McAllister,2023-10-26 00:58:05+03:00,2023-10-26 22:05:19+02:00
+frontend/error.vue,5ud03r5,Andrew Tavis McAllister,2023-03-15 14:15:51+01:00,2023-03-15 17:53:24+01:00
+frontend/error.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/i18n/check/run_i18n_checks.py,Andrew Tavis McAllister,Thomas,2025-01-16 21:15:43+01:00,2025-01-17 11:53:16-06:00
+frontend/i18n/de.json,Ettore Atalan,Natalia N,2024-08-11 21:09:23+02:00,2024-08-11 21:09:24+02:00
+frontend/i18n/de.json,Natalia N,Ettore Atalan,2024-08-11 21:09:24+02:00,2024-08-11 21:09:25+02:00
+frontend/i18n/de.json,Ettore Atalan,Natalia N,2024-08-11 21:09:25+02:00,2024-08-11 21:09:25+02:00
+frontend/i18n/de.json,Natalia N,Ettore Atalan,2024-08-21 18:09:12+00:00,2024-08-21 18:09:13+00:00
+frontend/i18n/de.json,Ettore Atalan,Natalia N,2024-08-21 18:09:13+00:00,2024-08-21 20:26:28+02:00
+frontend/i18n/de.json,Natalia N,hoppi,2024-08-21 20:26:28+02:00,2024-08-21 20:26:28+02:00
+frontend/i18n/de.json,Ettore Atalan,ssantos,2024-10-23 18:21:03+00:00,2024-10-23 18:21:04+00:00
+frontend/i18n/de.json,ssantos,Andrew McAllister,2024-10-23 18:21:04+00:00,2024-10-23 18:21:04+00:00
+frontend/i18n/de.json,Hasteerp,progressive-galib,2024-12-10 04:50:37+01:00,2024-12-11 01:55:38+06:00
+frontend/i18n/de.json,progressive-galib,Mahfuzullah Galib,2024-12-11 01:55:38+06:00,2024-12-11 11:50:57+06:00
+frontend/i18n/en-US.json,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/i18n/en-US.json,luuu-xu,Andrew Tavis McAllister,2023-09-20 17:05:31-04:00,2023-09-20 23:21:43+02:00
+frontend/i18n/en-US.json,Hariharan,Ahmet,2023-09-27 22:37:56+05:30,2023-09-28 08:49:58+03:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,thiagogquinto,2023-10-07 22:39:18+02:00,2023-10-07 17:40:50-03:00
+frontend/i18n/en-US.json,thiagogquinto,Andrew Tavis McAllister,2023-10-07 17:40:50-03:00,2023-10-08 00:08:23+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,tosta,2023-10-08 00:08:23+02:00,2023-10-08 13:22:12+02:00
+frontend/i18n/en-US.json,tosta,Andrew Tavis McAllister,2023-10-08 13:22:12+02:00,2023-10-08 16:20:55+02:00
+frontend/i18n/en-US.json,Marcos Quadros,Andrew Tavis McAllister,2023-10-10 18:51:31-03:00,2023-10-11 02:50:06+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,Vinny,2023-10-15 14:31:51+02:00,2023-10-15 16:39:05-03:00
+frontend/i18n/en-US.json,Vinny,Andrew Tavis McAllister,2023-10-17 15:13:08-03:00,2023-10-18 19:56:27+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,GOWTHAM2K1,2023-10-18 19:56:27+02:00,2023-10-19 19:39:13+05:30
+frontend/i18n/en-US.json,GOWTHAM2K1,Ahmet,2023-10-19 19:39:13+05:30,2023-10-19 19:41:02+03:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,Esslam,2023-10-21 13:29:14+02:00,2023-10-21 23:20:17+01:00
+frontend/i18n/en-US.json,Esslam,Andrew Tavis McAllister,2023-10-23 19:50:36+01:00,2023-10-24 00:32:48+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,Iago Carmona,2023-10-24 02:28:30+02:00,2023-10-24 18:00:05-03:00
+frontend/i18n/en-US.json,Iago Carmona,Andrew Tavis McAllister,2023-10-24 18:00:05-03:00,2023-10-24 23:37:58+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,bmartins,2023-10-25 00:59:35+02:00,2023-10-25 10:24:54+02:00
+frontend/i18n/en-US.json,bmartins,Esslam,2023-10-25 10:24:54+02:00,2023-10-25 19:40:34+01:00
+frontend/i18n/en-US.json,Esslam,Andrew Tavis McAllister,2023-10-25 19:40:34+01:00,2023-10-26 02:15:49+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,bmartins,2023-11-02 23:17:34+01:00,2023-11-03 09:37:16+01:00
+frontend/i18n/en-US.json,bmartins,Andrew Tavis McAllister,2023-11-03 09:37:16+01:00,2023-11-03 10:52:59+01:00
+frontend/i18n/en-US.json,mahasultan,Pablo Sena,2023-11-30 01:59:22+03:00,2023-11-30 00:54:08-03:00
+frontend/i18n/en-US.json,Ahmet,Andrew Tavis McAllister,2023-12-02 15:32:04+03:00,2023-12-02 13:59:19+01:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,mahasultan,2023-12-02 14:49:14+01:00,2023-12-02 22:57:11+03:00
+frontend/i18n/en-US.json,mahasultan,Andrew Tavis McAllister,2023-12-02 23:09:38+03:00,2023-12-03 13:16:11+01:00
+frontend/i18n/en-US.json,IsaacDMz,Andrew Tavis McAllister,2023-12-06 21:23:18-03:00,2023-12-07 22:58:39+01:00
+frontend/i18n/en-US.json,Matt Burnett,Andrew Tavis McAllister,2024-01-06 18:46:47+01:00,2024-01-07 10:18:55+01:00
+frontend/i18n/en-US.json,lucianmurmurache,Andrew Tavis McAllister,2024-02-20 14:41:57+01:00,2024-02-21 02:22:11+01:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,Amelia,2024-04-30 02:38:46+02:00,2024-04-29 18:45:32-07:00
+frontend/i18n/en-US.json,Amelia,Andrew Tavis McAllister,2024-04-29 18:45:32-07:00,2024-04-30 12:12:06+02:00
+frontend/i18n/en-US.json,Andrew Tavis McAllister,Robot8lover,2024-05-22 22:08:16+02:00,2024-05-22 19:52:59-07:00
+frontend/i18n/en-US.json,Matt Burnett,Andrew Tavis McAllister,2024-06-01 18:21:10+02:00,2024-06-01 20:34:24+02:00
+frontend/i18n/en-US.json,Hasteerp,progressive-galib,2024-12-10 04:50:37+01:00,2024-12-11 01:49:54+06:00
+frontend/i18n/en-US.json,progressive-galib,Mahfuzullah Galib,2024-12-11 01:49:54+06:00,2024-12-11 11:50:57+06:00
+frontend/i18n/en-US.json,Sean Leong,Andrew Tavis McAllister,2024-12-20 02:18:21+08:00,2024-12-20 00:40:53+01:00
+frontend/i18n/es.json,Shih Chung Loh,progressive-galib,2024-12-10 18:00:43+01:00,2024-12-11 02:01:53+06:00
+frontend/i18n/es.json,progressive-galib,Mahfuzullah Galib,2024-12-11 02:01:53+06:00,2024-12-11 11:50:57+06:00
+frontend/i18n/es.json,Mahfuzullah Galib,Shih Chung Loh,2024-12-11 11:50:57+06:00,2024-12-11 18:51:28+01:00
+frontend/i18n/es.json,Shih Chung Loh,Andrew Tavis McAllister,2024-12-11 21:03:14+01:00,2024-12-11 21:16:28+01:00
+frontend/i18n/es.json,Andrew Tavis McAllister,Shih Chung Loh,2024-12-13 11:25:22+01:00,2024-12-13 23:00:51+00:00
+frontend/i18n/es.json,Weblate (bot),Sean Leong,2024-12-18 19:59:39+01:00,2024-12-20 02:18:21+08:00
+frontend/i18n/fr.json,David D,Andrew Tavis McAllister,2024-08-29 12:09:17+02:00,2024-08-30 03:42:06+02:00
+frontend/i18n/fr.json,David D,jennethydyrova,2024-09-03 12:09:25+02:00,2024-09-03 14:51:35+01:00
+frontend/i18n/fr.json,Hasteerp,progressive-galib,2024-12-10 04:50:37+01:00,2024-12-11 02:04:13+06:00
+frontend/i18n/fr.json,progressive-galib,Mahfuzullah Galib,2024-12-11 02:04:13+06:00,2024-12-11 11:50:57+06:00
+frontend/i18n/pt.json,Hasteerp,progressive-galib,2024-12-10 04:50:37+01:00,2024-12-11 02:06:03+06:00
+frontend/i18n/pt.json,progressive-galib,Mahfuzullah Galib,2024-12-11 02:06:03+06:00,2024-12-11 11:50:57+06:00
+frontend/layouts/auth.vue,Andrew Tavis McAllister,thiagogquinto,2023-10-07 15:38:12+02:00,2023-10-07 17:40:50-03:00
+frontend/layouts/auth.vue,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-18 20:30:01+05:30,2023-10-18 23:18:22+02:00
+frontend/layouts/sidebar.vue,Kyrylo Karalyus,Andrew Tavis McAllister,2023-11-03 16:42:31+01:00,2023-11-04 00:52:01+01:00
+frontend/nuxt.config.ts,5ud03r5,Andrew Tavis McAllister,2023-03-23 11:44:11+01:00,2023-03-23 18:46:03+01:00
+frontend/nuxt.config.ts,luuu-xu,Andrew Tavis McAllister,2023-09-04 23:44:17-04:00,2023-09-05 17:46:28+03:00
+frontend/nuxt.config.ts,Vinny,Andrew Tavis McAllister,2023-10-17 20:05:37-03:00,2023-10-18 23:18:22+02:00
+frontend/nuxt.config.ts,Roshanjossey,Andrew Tavis McAllister,2023-12-27 01:33:24+01:00,2023-12-27 08:59:33+01:00
+frontend/nuxt.config.ts,progressive-galib,Mahfuzullah Galib,2024-12-11 02:49:54+06:00,2024-12-11 10:51:03+06:00
+frontend/package-lock.json,Matt Burnett,Andrew Tavis McAllister,2024-07-04 13:59:33+02:00,2024-07-04 21:46:08+02:00
+frontend/package.json,nikhilagastya,Sam.Donovan,2023-05-19 23:52:19+05:30,2023-05-20 18:24:41+01:00
+frontend/package.json,Sam.Donovan,matthias.polkehn,2023-05-20 18:24:41+01:00,2023-05-21 09:13:41+02:00
+frontend/package.json,Mradosi,Rohith Ramanathan,2023-07-13 13:16:00+02:00,2023-07-13 12:07:35-04:00
+frontend/package.json,Andrew Tavis McAllister,Ahmet,2023-10-10 23:07:55+02:00,2023-10-11 01:47:15+03:00
+frontend/package.json,Ahmet,José Rigoberto Salas Chacón,2023-10-11 01:47:15+03:00,2023-10-10 18:28:50-05:00
+frontend/package.json,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 02:50:06+02:00
+frontend/package.json,tosta,Vinny,2023-10-15 18:19:48+02:00,2023-10-15 16:39:05-03:00
+frontend/package.json,Ares,Andrew Tavis McAllister,2024-01-16 01:02:49-08:00,2024-01-17 00:21:14+01:00
+frontend/package.json,Aasim Syed,aasim,2024-05-04 13:54:54+02:00,2024-05-04 14:01:03-04:00
+frontend/package.json,github-actions[bot],tosta,2024-07-05 15:23:40-04:00,2024-07-05 23:32:46+02:00
+frontend/package.json,dependabot[bot],Ares,2024-08-30 00:06:26+00:00,2024-08-30 14:39:57-07:00
+frontend/package.json,Ares,dependabot[bot],2024-08-30 14:39:57-07:00,2024-08-31 21:01:52+00:00
+frontend/package.json,cquinn540,github-actions[bot],2024-12-04 14:53:17-05:00,2024-12-05 13:16:57-05:00
+frontend/package.json,github-actions[bot],Andrew Tavis McAllister,2025-02-06 10:06:58-05:00,2025-02-06 20:16:39+01:00
+frontend/package.json,Andrew Tavis McAllister,Matt Burnett,2025-03-08 14:24:30+01:00,2025-03-08 19:53:31+01:00
+frontend/package.json,Matt Burnett,Andrew Tavis McAllister,2025-03-08 19:53:31+01:00,2025-03-09 02:05:35+01:00
+frontend/pages/about.vue,Rufaida,Andrew Tavis McAllister,2023-04-04 21:00:36-04:00,2023-04-05 09:00:08+02:00
+frontend/pages/about/activism-network.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/about/connect.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/about/impress.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/about/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/about/roadmap.vue,luuu-xu,Andrew Tavis McAllister,2023-07-05 16:12:15-04:00,2023-07-06 00:17:56+02:00
+frontend/pages/about/roadmap.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/auth/sign-in.vue,Andrew Tavis McAllister,thiagogquinto,2023-10-07 15:38:12+02:00,2023-10-07 17:40:50-03:00
+frontend/pages/auth/sign-in.vue,thiagogquinto,Andrew Tavis McAllister,2023-10-10 18:24:54-03:00,2023-10-11 21:56:01+02:00
+frontend/pages/auth/sign-in.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/pages/auth/sign-in.vue,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+frontend/pages/auth/sign-up.vue,thiagogquinto,Andrew Tavis McAllister,2023-10-10 18:24:54-03:00,2023-10-11 21:56:01+02:00
+frontend/pages/auth/sign-up.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/pages/auth/sign-up.vue,Andrew Tavis McAllister,Ahmet,2023-10-25 01:51:30+02:00,2023-10-26 00:56:27+03:00
+frontend/pages/blog/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/careers/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/contact.vue,YoSoyAlexElPine,Andrew Tavis McAllister,2024-11-26 16:28:06+01:00,2024-11-27 00:43:45+01:00
+frontend/pages/contact.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-06 09:18:43-05:00,2025-02-06 20:16:39+01:00
+frontend/pages/docs/get-active.vue,Rufaida,Andrew Tavis McAllister,2023-04-04 21:00:36-04:00,2023-04-05 08:24:49+02:00
+frontend/pages/docs/get-active.vue,Andrew Tavis McAllister,Zwnow,2023-05-04 00:17:47+02:00,2023-05-04 14:04:35+02:00
+frontend/pages/docs/get-active.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/docs/get-organized.vue,Rufaida,Andrew Tavis McAllister,2023-04-04 21:00:36-04:00,2023-04-05 09:00:08+02:00
+frontend/pages/docs/get-organized.vue,Andrew Tavis McAllister,Zwnow,2023-05-04 00:17:47+02:00,2023-05-04 14:04:35+02:00
+frontend/pages/docs/get-organized.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/docs/grow-organization.vue,Rufaida,Andrew Tavis McAllister,2023-04-04 21:00:36-04:00,2023-04-05 09:00:08+02:00
+frontend/pages/docs/grow-organization.vue,Andrew Tavis McAllister,Zwnow,2023-05-04 00:17:47+02:00,2023-05-04 14:04:35+02:00
+frontend/pages/docs/grow-organization.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/docs/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/docs/roadmap.vue,Rufaida,Andrew Tavis McAllister,2023-04-04 21:00:36-04:00,2023-04-05 09:00:08+02:00
+frontend/pages/events/[id]/about.vue,tosta,Andrew Tavis McAllister,2023-08-26 14:05:10+02:00,2023-08-26 20:51:33+02:00
+frontend/pages/events/[id]/about.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-08-26 20:51:33+02:00,2023-08-27 12:16:51-03:00
+frontend/pages/events/[id]/about.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/events/[id]/about.vue,Andrew Tavis McAllister,Tessa,2024-01-22 03:37:38+01:00,2024-01-22 00:01:55-06:00
+frontend/pages/events/[id]/about.vue,hoang227,Andrew Tavis McAllister,2024-03-19 14:53:18+08:00,2024-03-20 00:05:17+01:00
+frontend/pages/events/[id]/about.vue,Andrew Tavis McAllister,nicoMaz,2024-04-30 21:10:27+02:00,2024-05-01 17:31:37+01:00
+frontend/pages/events/[id]/about.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-06 09:18:43-05:00,2025-02-06 20:16:39+01:00
+frontend/pages/events/[id]/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-09-07 14:36:22-03:00,2023-09-08 10:28:13+03:00
+frontend/pages/events/[id]/index.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-09-14 18:36:56+03:00,2023-09-14 19:42:09-03:00
+frontend/pages/events/[id]/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-09-14 20:10:09-03:00,2023-09-15 08:26:21+03:00
+frontend/pages/events/[id]/index.vue,Andrew Tavis McAllister,nicoMaz,2024-04-30 22:28:04+02:00,2024-05-01 15:51:53+01:00
+frontend/pages/events/demo-at-brandenburg-gate.vue,Andrew Tavis McAllister,Sam.Donovan,2023-05-24 02:26:57+02:00,2023-05-24 16:53:38+01:00
+frontend/pages/events/index.vue,Pablo Sena,Andrew Tavis McAllister,2023-11-21 11:00:14-03:00,2023-11-21 18:44:20-07:00
+frontend/pages/events/search.vue,Andrew Tavis McAllister,sayi,2023-09-23 16:08:23+02:00,2023-09-24 00:54:12+05:30
+frontend/pages/finances/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/help/contact.vue,5ud03r5,Andrew Tavis McAllister,2023-03-23 11:44:11+01:00,2023-03-24 02:05:12+01:00
+frontend/pages/help/contact.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/help/contact.vue,Andrew Tavis McAllister,luuu-xu,2023-09-06 00:33:47+03:00,2023-09-06 14:13:04-04:00
+frontend/pages/help/contact.vue,Andrew Tavis McAllister,tosta,2023-10-08 00:08:23+02:00,2023-10-08 13:22:12+02:00
+frontend/pages/help/contact.vue,tosta,Andrew Tavis McAllister,2023-10-08 13:28:19+02:00,2023-10-08 16:20:55+02:00
+frontend/pages/help/contact.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/pages/help/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/help/press.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/help/status.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/home.vue,Andrew Tavis McAllister,momanyisamuel,2023-03-28 14:21:01+02:00,2023-03-29 05:01:08+03:00
+frontend/pages/home.vue,Andrew Tavis McAllister,momanyisamuel,2023-05-16 00:20:41+02:00,2023-05-16 16:14:30+03:00
+frontend/pages/home.vue,Andrew Tavis McAllister,momanyisamuel,2023-05-17 17:14:14+02:00,2023-05-17 23:28:40+03:00
+frontend/pages/home.vue,momanyisamuel,Andrew Tavis McAllister,2023-05-18 00:29:36+03:00,2023-05-18 17:34:45+02:00
+frontend/pages/home.vue,Andrew Tavis McAllister,momanyisamuel,2023-05-18 17:34:45+02:00,2023-05-18 21:49:22+03:00
+frontend/pages/home/index.vue,anthonyshibitov,Andrew Tavis McAllister,2023-06-18 11:57:40-04:00,2023-06-18 23:43:34+02:00
+frontend/pages/home/index.vue,Andrew Tavis McAllister,anthonyshibitov,2023-08-12 16:08:17+02:00,2023-08-12 13:10:07-04:00
+frontend/pages/home/index.vue,Andrew Tavis McAllister,Ryan Gannon,2023-09-05 09:09:50+03:00,2023-09-05 08:56:53+01:00
+frontend/pages/home/index.vue,tosta,Andrew Tavis McAllister,2023-10-15 18:19:48+02:00,2023-10-15 18:36:18+02:00
+frontend/pages/home/index.vue,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-20 16:12:48+05:30,2023-10-21 12:32:58+02:00
+frontend/pages/home/index.vue,Andrew Tavis McAllister,GOWTHAM2K1,2023-10-21 12:32:58+02:00,2023-10-21 23:36:37+05:30
+frontend/pages/home/index.vue,Andrew Tavis McAllister,Iago Carmona,2023-10-24 02:28:30+02:00,2023-10-24 17:53:17-03:00
+frontend/pages/home/index.vue,Iago Carmona,Andrew Tavis McAllister,2023-10-24 18:00:05-03:00,2023-10-24 23:37:58+02:00
+frontend/pages/impress.vue,Rufaida,Andrew Tavis McAllister,2023-04-04 21:01:25-04:00,2023-04-05 09:00:08+02:00
+frontend/pages/legal/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/legal/legal-support.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 11:44:40-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/legal/privacy-policy.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/legal/trademark-policy.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/organizations/[id]/about.vue,tosta,Andrew Tavis McAllister,2023-08-16 15:50:55+02:00,2023-08-17 10:24:39+02:00
+frontend/pages/organizations/[id]/about.vue,Andrew Tavis McAllister,tosta,2023-08-17 10:24:39+02:00,2023-08-17 14:22:16+02:00
+frontend/pages/organizations/[id]/about.vue,tosta,Andrew Tavis McAllister,2023-08-17 14:22:16+02:00,2023-08-17 23:41:57+02:00
+frontend/pages/organizations/[id]/about.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-08-27 12:16:51-03:00,2023-08-28 03:03:48+02:00
+frontend/pages/organizations/[id]/about.vue,Andrew Tavis McAllister,José Rigoberto Salas Chacón,2023-12-17 18:42:23+01:00,2023-12-17 12:52:26-05:00
+frontend/pages/organizations/[id]/about.vue,Burak Özmen,Sean Leong,2024-03-03 20:46:54+01:00,2024-03-04 03:44:31+00:00
+frontend/pages/organizations/[id]/about.vue,Sean Leong,Andrew Tavis McAllister,2024-03-09 00:53:12+00:00,2024-03-09 13:00:27+01:00
+frontend/pages/organizations/[id]/about.vue,Andrew Tavis McAllister,lucianmurmurache,2024-03-23 14:08:26+01:00,2024-03-23 14:59:17+01:00
+frontend/pages/organizations/[id]/about.vue,Andrew Tavis McAllister,nicoMaz,2024-04-30 21:10:27+02:00,2024-05-01 17:41:07+01:00
+frontend/pages/organizations/[id]/about.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-06 09:18:43-05:00,2025-02-06 20:16:39+01:00
+frontend/pages/organizations/[id]/events.vue,Andrew Tavis McAllister,Alex Pineño Sanchez,2024-12-20 00:40:53+01:00,2024-12-20 01:35:30+01:00
+frontend/pages/organizations/[id]/events.vue,Alex Pineño Sanchez,Sean Leong,2024-12-20 01:35:30+01:00,2024-12-20 15:46:40+08:00
+frontend/pages/organizations/[id]/faq.vue,Matt Burnett,Andrew Tavis McAllister,2023-12-04 05:27:10+01:00,2023-12-05 00:45:31+01:00
+frontend/pages/organizations/[id]/groups/[group-id]/about.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-06 09:18:43-05:00,2025-02-06 20:16:39+01:00
+frontend/pages/organizations/[id]/groups/[id]/about.vue,Andrew Tavis McAllister,nicoMaz,2024-04-30 21:10:27+02:00,2024-05-01 17:40:52+01:00
+frontend/pages/organizations/[id]/groups/index.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-05 15:33:11-05:00,2025-02-05 22:52:28+01:00
+frontend/pages/organizations/[id]/groups/index.vue,Andrew Tavis McAllister,github-actions[bot],2025-02-05 22:52:28+01:00,2025-02-05 17:37:51-05:00
+frontend/pages/organizations/[id]/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-09-07 14:36:22-03:00,2023-09-08 10:28:13+03:00
+frontend/pages/organizations/[id]/index.vue,Andrew Tavis McAllister,Felipe Archanjo,2023-09-14 18:36:56+03:00,2023-09-14 19:42:09-03:00
+frontend/pages/organizations/[id]/index.vue,Felipe Archanjo,Andrew Tavis McAllister,2023-09-14 20:10:09-03:00,2023-09-15 08:26:21+03:00
+frontend/pages/organizations/[id]/index.vue,Andrew Tavis McAllister,nicoMaz,2024-05-01 00:40:59+02:00,2024-05-01 15:54:04+01:00
+frontend/pages/organizations/[id]/index.vue,nicoMaz,Andrew Tavis McAllister,2024-05-01 15:54:04+01:00,2024-05-01 21:17:05+02:00
+frontend/pages/organizations/[id]/resources.vue,github-actions[bot],Andrew Tavis McAllister,2025-02-05 15:33:11-05:00,2025-02-05 22:52:28+01:00
+frontend/pages/organizations/[id]/resources.vue,Andrew Tavis McAllister,github-actions[bot],2025-02-05 22:52:28+01:00,2025-02-05 17:37:51-05:00
+frontend/pages/organizations/create.vue,bmartins,Andrew Tavis McAllister,2023-11-03 09:30:23+01:00,2023-11-03 10:52:59+01:00
+frontend/pages/organizations/create.vue,tosta,Andrew Tavis McAllister,2024-07-27 17:51:09+02:00,2024-07-27 10:32:44-06:00
+frontend/pages/organizations/index.vue,Andrew Tavis McAllister,luuu-xu,2023-07-27 21:45:15+02:00,2023-07-27 21:02:29-04:00
+frontend/pages/organizations/index.vue,momanyisamuel,Andrew Tavis McAllister,2024-05-31 12:55:30-04:00,2024-05-31 23:16:50+02:00
+frontend/pages/organizations/search.vue,Andrew Tavis McAllister,sayi,2023-09-23 16:08:23+02:00,2023-09-24 00:54:12+05:30
+frontend/pages/organizations/tech-from-below.vue,Andrew Tavis McAllister,James Jenkinson,2023-05-17 17:43:06+02:00,2023-05-17 22:27:57+02:00
+frontend/pages/organizations/tech-from-below.vue,James Jenkinson,Andrew Tavis McAllister,2023-05-17 22:27:57+02:00,2023-05-18 12:11:34+02:00
+frontend/pages/organizations/tech-from-below.vue,Andrew Tavis McAllister,nikhilagastya,2023-05-18 12:11:34+02:00,2023-05-18 18:47:18+05:30
+frontend/pages/organizations/tech-from-below.vue,matthias.polkehn,Andrew Tavis McAllister,2023-05-21 09:13:41+02:00,2023-05-21 18:27:42+02:00
+frontend/pages/resources/create.vue,IsaacDMz,Andrew Tavis McAllister,2023-12-06 21:23:18-03:00,2023-12-07 22:58:39+01:00
+frontend/pages/search/index.vue,Andrew Tavis McAllister,sayi,2023-09-23 16:08:23+02:00,2023-09-24 00:54:12+05:30
+frontend/playwright.config.ts,Aasim Syed,Andrew Tavis McAllister,2024-05-04 13:54:54+02:00,2024-05-04 14:24:52+02:00
+frontend/playwright.config.ts,cquinn540,Andrew Tavis McAllister,2024-12-08 10:56:49-05:00,2024-12-08 19:25:29+01:00
+frontend/public/icon.png,Roshanjossey,Andrew Tavis McAllister,2023-12-27 01:33:24+01:00,2023-12-27 08:59:33+01:00
+frontend/stores/group.ts,cquinn540,Andrew Tavis McAllister,2024-12-11 16:15:10-05:00,2024-12-11 23:10:29+01:00
+frontend/stores/organization.ts,Matt Burnett,Andrew Tavis McAllister,2024-12-03 20:57:27+01:00,2024-12-04 19:27:52+01:00
+frontend/stores/organization.ts,Andrew Tavis McAllister,Matt Burnett,2024-12-07 15:20:57+01:00,2024-12-07 16:00:09+01:00
+frontend/stores/organization.ts,cquinn540,Andrew Tavis McAllister,2024-12-11 16:15:10-05:00,2024-12-11 23:10:29+01:00
+frontend/stores/organization.ts,Andrew Tavis McAllister,Matt Burnett,2025-01-19 12:52:41+01:00,2025-01-19 16:19:35+01:00
+frontend/stores/organization.ts,Matt Burnett,Andrew Tavis McAllister,2025-01-27 21:23:49+01:00,2025-01-27 23:06:52+01:00
+frontend/stores/organization.ts,Matt Burnett,Andrew Tavis McAllister,2025-01-29 19:41:58+01:00,2025-01-29 23:58:36+01:00
+frontend/tailwind.config.ts,Andrew Tavis McAllister,matthias.polkehn,2023-05-20 12:25:33+02:00,2023-05-21 09:13:41+02:00
+frontend/test-e2e/specs/desktop/landing-page.spec.ts,Andrew Tavis McAllister,Abhi-Bohora,2025-02-18 02:24:17+01:00,2025-02-18 09:44:35+05:45
+frontend/test-e2e/specs/mobile/landing-page.spec.ts,Andrew Tavis McAllister,Abhi-Bohora,2025-02-18 02:24:17+01:00,2025-02-18 09:44:35+05:45
+frontend/tests/specs/landing-page.spec.ts,Aasim Syed,Andrew Tavis McAllister,2024-05-04 13:54:54+02:00,2024-05-04 14:24:52+02:00
+frontend/tests/specs/organizationLogic.test.ts,Haya,Andrew Tavis McAllister,2024-12-11 14:24:27+03:00,2024-12-11 23:10:29+01:00
+frontend/tsconfig.json,Mradosi,Andrew Tavis McAllister,2023-07-22 20:14:30+02:00,2023-07-22 20:42:49+02:00
+frontend/types/card-faq-entry.d.ts,Matt Burnett,Andrew Tavis McAllister,2023-12-04 05:27:10+01:00,2023-12-05 00:45:31+01:00
+frontend/types/discussion.d.ts,GOWTHAM2K1,Andrew Tavis McAllister,2023-10-20 16:12:48+05:30,2023-10-21 12:32:58+02:00
+frontend/types/social-links-payload.ts,Andrew Tavis McAllister,Matt Burnett,2024-12-07 15:20:57+01:00,2024-12-07 16:26:39+01:00
+frontend/types/topics.ts,bmartins,Andrew Tavis McAllister,2023-11-03 09:30:23+01:00,2023-11-03 10:52:59+01:00
+frontend/types/user.d.ts,anthonyshibitov,Andrew Tavis McAllister,2023-08-12 13:10:07-04:00,2023-08-13 02:55:45+02:00
+frontend/utils/routeUtils.ts,aaditya nair,Andrew Tavis McAllister,2024-12-11 21:55:15+03:00,2024-12-11 23:10:29+01:00
+frontend/utils/routeUtils.ts,Mohtelsayed,Andrew Tavis McAllister,2024-12-13 12:02:04+01:00,2024-12-13 12:15:55+01:00
+frontend/yarn.lock,nikhilagastya,Sam.Donovan,2023-05-19 23:52:19+05:30,2023-05-20 18:24:41+01:00
+frontend/yarn.lock,Sam.Donovan,matthias.polkehn,2023-05-20 18:24:41+01:00,2023-05-21 09:13:41+02:00
+frontend/yarn.lock,Mradosi,Rohith Ramanathan,2023-07-13 13:16:00+02:00,2023-07-13 12:07:35-04:00
+frontend/yarn.lock,José Rigoberto Salas Chacón,Andrew Tavis McAllister,2023-10-10 18:28:50-05:00,2023-10-11 02:50:06+02:00
+frontend/yarn.lock,tosta,Vinny,2023-10-15 18:19:48+02:00,2023-10-15 16:39:05-03:00
+frontend/yarn.lock,Vinny,dependabot[bot],2023-10-15 16:39:05-03:00,2023-10-16 16:35:30+00:00
+frontend/yarn.lock,dependabot[bot],Burak Özmen,2024-04-07 11:20:23+00:00,2024-04-07 21:25:40+02:00
+frontend/yarn.lock,Andrew Tavis McAllister,dependabot[bot],2024-04-14 18:05:58+02:00,2024-04-14 16:11:08+00:00
+frontend/yarn.lock,Andrew Tavis McAllister,Aasim Syed,2024-05-03 22:25:07+02:00,2024-05-04 13:54:54+02:00
+frontend/yarn.lock,Aasim Syed,aasim,2024-05-04 13:54:54+02:00,2024-05-04 14:01:03-04:00
+frontend/yarn.lock,tosta,Amelia,2024-06-09 18:59:36+02:00,2024-06-09 15:37:48-07:00
+frontend/yarn.lock,github-actions[bot],tosta,2024-07-05 15:23:40-04:00,2024-07-05 23:32:46+02:00
+frontend/yarn.lock,tosta,Andrew Tavis McAllister,2024-07-27 18:10:53+02:00,2024-07-27 10:48:54-06:00
+frontend/yarn.lock,dependabot[bot],Ares,2024-08-30 00:06:43+00:00,2024-08-30 14:39:57-07:00
+frontend/yarn.lock,Ares,dependabot[bot],2024-08-30 14:39:57-07:00,2024-08-31 21:01:52+00:00
+frontend/yarn.lock,cquinn540,dependabot[bot],2024-12-02 09:56:18-05:00,2024-12-02 17:31:41+00:00
+frontend/yarn.lock,cquinn540,Andrew Tavis McAllister,2024-12-04 14:53:17-05:00,2024-12-05 02:25:36+01:00
+frontend/yarn.lock,Andrew Tavis McAllister,github-actions[bot],2024-12-05 02:25:36+01:00,2024-12-05 13:16:57-05:00
+frontend/yarn.lock,Andrew Tavis McAllister,dependabot[bot],2025-01-28 04:00:36+01:00,2025-01-28 03:02:16+00:00
+frontend/yarn.lock,dependabot[bot],Andrew Tavis McAllister,2025-01-28 03:02:24+00:00,2025-01-28 22:04:38+01:00
+frontend/yarn.lock,dependabot[bot],Andrew Tavis McAllister,2025-03-07 16:01:39+00:00,2025-03-08 13:04:39+01:00
+frontend/yarn.lock,Andrew Tavis McAllister,dependabot[bot],2025-03-08 15:29:08+01:00,2025-03-08 16:08:12+00:00
+frontend/yarn.lock,dependabot[bot],Matt Burnett,2025-03-08 16:08:12+00:00,2025-03-08 19:53:31+01:00
+frontend/yarn.lock,Matt Burnett,Andrew Tavis McAllister,2025-03-08 19:53:31+01:00,2025-03-09 02:05:35+01:00
+package-lock.json,Mradosi,Rohith Ramanathan,2023-07-13 13:16:00+02:00,2023-07-13 12:07:35-04:00
+package.json,Mradosi,Rohith Ramanathan,2023-07-13 13:16:00+02:00,2023-07-13 12:07:35-04:00
+requirements.txt,dependabot[bot],Andrew Tavis McAllister,2022-07-05 22:38:09+00:00,2022-07-06 14:35:02+02:00

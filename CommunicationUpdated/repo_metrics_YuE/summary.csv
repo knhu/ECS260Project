@@ -1,0 +1,45 @@
+Field,Value
+Commits Overview,
+Total Commits,120
+Total Unique Authors,7
+,
+Top 10 Contributors,
+Author,Commits
+hf-lin,222
+Ruibin Yuan,57
+a43992899,48
+Liang Yiming,4
+Yizhi Li,1
+askmyteapot,1
+Manal ML,1
+,
+Communication Events,Total: 17
+"Author1,Author2",Events
+"hf-lin,Ruibin Yuan",4
+"hf-lin,a43992899",3
+"Liang Yiming,hf-lin",2
+"Ruibin Yuan,hf-lin",2
+"hf-lin,Liang Yiming",2
+"a43992899,askmyteapot",1
+"a43992899,Ruibin Yuan",1
+"Ruibin Yuan,a43992899",1
+"a43992899,hf-lin",1
+,
+Committer Timezone Distribution,Unique Timezones: 3
+Timezone,Commits
++00:00,2
++08:00,117
++10:00,1
+,
+Contributors Experience,Average across 101 files: 98.73%
+File,Top Contributor Share (%)
+README_EN.md,100.00
+inference/codecmanipulator.py,100.00
+inference/input.jsonl,100.00
+inference/mmtokenizer.py,100.00
+inference/readme.md,100.00
+inference/reconstruct.sh,100.00
+.gitattributes,100.00
+inference/xcodec_mini_infer/RepCodec/.gitignore,100.00
+inference/xcodec_mini_infer/RepCodec/LICENSE,100.00
+inference/xcodec_mini_infer/RepCodec/README.md,100.00

@@ -1,0 +1,168 @@
+File,Top Contributor Share (%)
+BAPhotosViewController.xcodeproj/project.pbxproj,100.00
+BAPhotosViewController.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/BAPhotosViewController.xcscheme,100.00
+BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/xcschememanagement.plist,100.00
+BAPhotosViewController/AppDelegate.swift,100.00
+BAPhotosViewController/Assets.xcassets/AppIcon.appiconset/Contents.json,100.00
+BAPhotosViewController/Base.lproj/LaunchScreen.storyboard,100.00
+BAPhotosViewController/Base.lproj/Main.storyboard,100.00
+BAPhotosViewController/Info.plist,100.00
+BAPhotosViewController/ViewController.swift,100.00
+.gitignore,100.00
+BAPPhotosViewController.podspec,100.00
+Example/BAPPhotosViewControllerExample.xcodeproj/project.pbxproj,100.00
+Example/BAPPhotosViewControllerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+Example/BAPPhotosViewControllerExample.xcworkspace/contents.xcworkspacedata,100.00
+Example/BAPPhotosViewControllerExample/AppDelegate.swift,100.00
+Example/BAPPhotosViewControllerExample/Assets.xcassets/AppIcon.appiconset/Contents.json,100.00
+Example/BAPPhotosViewControllerExample/Info.plist,100.00
+Example/BAPPhotosViewControllerExample/ViewController.swift,100.00
+Example/Podfile,100.00
+Example/Podfile.lock,100.00
+Source/Classes/LoadingView.swift,100.00
+Source/Classes/Photo.swift,100.00
+Source/Classes/PhotoViewController.swift,100.00
+Source/Classes/PhotosViewController.swift,100.00
+LICENSE.md,100.00
+README.md,95.45
+Source/Integrations/AFNetworkingIntegration.swift,100.00
+Source/Integrations/NetworkIntegration.swift,100.00
+Source/Integrations/SDWebImageIntegration.swift,100.00
+Example/BAPPhotosViewControllerExample/Model/ExamplePhoto.swift,100.00
+Source/Extensions/UIImage+GIF.swift,100.00
+Source/Classes/ZoomingScrollView.swift,100.00
+Source/Classes/Recyclable.swift,100.00
+Source/Classes/ZoomingImageView.swift,100.00
+Source/Classes/PhotoInternal.swift,100.00
+Source/Classes/CaptionView.swift,100.00
+Source/Classes/OverlayView.swift,100.00
+Source/Classes/PhotoProtocol+Internal.swift,100.00
+Source/Extensions/PhotoProtocol+Internal.swift,100.00
+Source/Protocols/CaptionViewProtocol.swift,100.00
+Source/Protocols/LoadingViewProtocol.swift,100.00
+Source/Protocols/PhotoProtocol.swift,100.00
+Source/Extensions/Array+Sorted.swift,100.00
+AXPhotoViewer.podspec,89.86
+Example/AXPhotoViewerExample.xcodeproj/project.pbxproj,100.00
+Example/AXPhotoViewerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+Example/AXPhotoViewerExample.xcworkspace/contents.xcworkspacedata,100.00
+Example/AXPhotoViewerExample/AppDelegate.swift,100.00
+Example/AXPhotoViewerExample/Info.plist,100.00
+Example/AXPhotoViewerExample/Model/ExamplePhoto.swift,100.00
+Source/Classes/PagingConfig.swift,100.00
+Source/Classes/PhotosDataSource.swift,100.00
+Source/Classes/TransitionInfo.swift,100.00
+Source/Protocols/OverlayTitleViewProtocol.swift,100.00
+Source/Integrations/PINRemoteImageIntegration.swift,100.00
+Example/AXPhotoViewerExample/ViewController.swift,100.00
+Source/Protocols/PageableViewControllerProtocol.swift,100.00
+Source/Classes/PhotosViewControllerTransitionAnimator.swift,100.00
+Source/Extensions/FLAnimatedImageView+AXExtensions.h,100.00
+Source/Extensions/FLAnimatedImageView+AXExtensions.m,100.00
+Source/Extensions/UIImageView+NSCopying.swift,100.00
+Source/Extensions/UIView+Animations.swift,98.08
+Example/AXPhotoViewerExample/TableViewController.swift,100.00
+Source/Extensions/Data+GIF.swift,100.00
+Source/Integrations/SimpleNetworkIntegration.swift,100.00
+Source/Classes/PhotosViewControllerTransitionController.swift,100.00
+Source/Classes/PhotosTransitionController.swift,100.00
+Source/Extensions/UIInterfaceOrientation+Transform.swift,100.00
+.travis.yml,100.00
+Example/AXPhotoViewerExample.xcworkspace/xcshareddata/xcschemes/AXPhotoViewerExample.xcscheme,100.00
+Example/AXPhotoViewerExample/CustomLoadingView.swift,100.00
+Source/Protocols/NetworkIntegrationProtocol.swift,100.00
+CHANGELOG.md,100.00
+Source/Classes/Models/PagingConfig.swift,100.00
+Source/Classes/Models/Photo.swift,100.00
+Source/Classes/Models/PhotosDataSource.swift,100.00
+Source/Classes/Models/TransitionInfo.swift,100.00
+Source/Classes/View Controllers/PhotoViewController.swift,100.00
+Source/Classes/View Controllers/PhotosPreviewingViewController.swift,100.00
+Source/Classes/View Controllers/PhotosViewController.swift,80.04
+Source/Classes/Views/LoadingView.swift,100.00
+Source/Classes/Views/ZoomingImageView.swift,100.00
+Source/Classes/Views/CaptionView.swift,100.00
+Source/Classes/Views/OverlayView.swift,100.00
+Source/Constants.swift,100.00
+Source/Classes/Transition Controllers/PhotosTransitionController.swift,100.00
+Source/Classes/View Controllers/PreviewingPhotosViewController.swift,86.36
+Source/Integrations/KingfisherIntegration.swift,41.55
+Assets/AXPhotoViewer.xcassets/Contents.json,100.00
+Assets/AXPhotoViewer.xcassets/error.imageset/Contents.json,100.00
+.swift-version,83.33
+Source/Classes/Views/StackableViewContainer.swift,100.00
+Source/AXBundle.swift,100.00
+Source/AXConstants.swift,100.00
+Source/Classes/Models/AXPagingConfig.swift,62.50
+Source/Classes/Models/AXPhoto.swift,100.00
+Source/Classes/Models/AXPhotosDataSource.swift,100.00
+Source/Classes/Models/AXTransitionInfo.swift,100.00
+Source/Classes/Transition Controllers/AXPhotosTransitionController.swift,100.00
+Source/Classes/View Controllers/AXPhotoViewController.swift,100.00
+Source/Classes/View Controllers/AXPhotosViewController.swift,97.94
+Source/Classes/View Controllers/AXPreviewingPhotosViewController.swift,95.56
+Source/Classes/Views/AXCaptionView.swift,96.59
+Source/Classes/Views/AXLoadingView.swift,89.16
+Source/Classes/Views/AXOverlayView.swift,95.37
+Source/Classes/Views/AXStackableViewContainer.swift,100.00
+Source/Classes/Views/AXZoomingImageView.swift,96.77
+Source/Extensions/AXPhotoProtocol+Internal.swift,100.00
+Source/Protocols/AXCaptionViewProtocol.swift,100.00
+Source/Protocols/AXLoadingViewProtocol.swift,100.00
+Source/Protocols/AXNetworkIntegrationProtocol.swift,100.00
+Source/Protocols/AXOverlayTitleViewProtocol.swift,100.00
+Source/Protocols/AXPageableViewControllerProtocol.swift,100.00
+Source/Protocols/AXPhotoProtocol.swift,100.00
+Source/Extensions/UIImageView+AXExtensions.h,100.00
+Source/Extensions/UIImageView+AXExtensions.m,100.00
+Example/iOS/AXPhotoViewerExample.xcodeproj/project.pbxproj,100.00
+Example/iOS/AXPhotoViewerExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,100.00
+Example/iOS/AXPhotoViewerExample.xcworkspace/xcshareddata/xcschemes/AXPhotoViewerExample.xcscheme,100.00
+Example/iOS/AXPhotoViewerExample/AppDelegate.swift,100.00
+Example/iOS/AXPhotoViewerExample/Assets.xcassets/AppIcon.appiconset/Contents.json,100.00
+Example/iOS/AXPhotoViewerExample/TableViewController.swift,100.00
+Example/iOS/Podfile,100.00
+Example/iOS/Podfile.lock,100.00
+Source/Classes/Controls/AXButton.swift,96.88
+Example/tvOS/AXPhotoViewerExample.xcodeproj/project.pbxproj,100.00
+Example/tvOS/AXPhotoViewerExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+Example/tvOS/AXPhotoViewerExample.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,100.00
+Example/tvOS/AXPhotoViewerExample.xcworkspace/contents.xcworkspacedata,100.00
+Example/tvOS/AXPhotoViewerExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,100.00
+Example/tvOS/AXPhotoViewerExample/AppDelegate.swift,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Content.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Content.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Content.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Content.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/LaunchImage.launchimage/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Info.plist,100.00
+Example/tvOS/AXPhotoViewerExample/TableViewController.swift,100.00
+Example/tvOS/Podfile,100.00
+Example/tvOS/Podfile.lock,100.00
+Example/iOS/AXPhotoViewerExample/Assets.xcassets/Contents.json,100.00
+Example/iOS/AXPhotoViewerExample/Assets.xcassets/niagara-falls.imageset/Contents.json,100.00
+Example/tvOS/AXPhotoViewerExample/Assets.xcassets/niagara-falls.imageset/Contents.json,100.00
+Source/Integrations/NukeIntegration.swift,63.49
+Example/iOS/AXPhotoViewerExample/Assets.xcassets/burj-khalifa.imageset/Contents.json,100.00
+Source/Classes/Transition Controller + Animators/AXPhotosDismissalAnimator.swift,98.32
+Source/Classes/Transition Controller + Animators/AXPhotosPresentationAnimator.swift,100.00
+Source/Classes/Transition Controller + Animators/AXPhotosTransitionAnimator.swift,100.00
+Source/Classes/Transition Controller + Animators/AXPhotosTransitionController.swift,98.88
+Source/Classes/Views/AXImageViewTransitionContainer.swift,99.00
+Source/Utilities/AXDispatchUtils.swift,100.00
+Source/Utilities/AXTransitionUtils.swift,100.00

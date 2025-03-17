@@ -1,0 +1,355 @@
+Field,Value
+Commits Overview,
+Total Commits,10892
+Total Unique Authors,565
+,
+Top 10 Contributors,
+Author,Commits
+Maximilian Hils,14108
+Aldo Cortesi,10421
+Thomas Kriechbaumer,3245
+Manuel Meitinger,609
+Matthew Shao,484
+autofix-ci[bot],473
+Jason,381
+dependabot[bot],376
+Shadab Zafar,368
+Clemens,252
+,
+Communication Events,Total: 1292
+"Author1,Author2",Events
+"Aldo Cortesi,Maximilian Hils",143
+"Maximilian Hils,Aldo Cortesi",114
+"Aldo Cortesi,Thomas Kriechbaumer",112
+"Maximilian Hils,Thomas Kriechbaumer",86
+"Thomas Kriechbaumer,Maximilian Hils",71
+"Thomas Kriechbaumer,Aldo Cortesi",57
+"Ujjwal Verma,Maximilian Hils",25
+"Maximilian Hils,Manuel Meitinger",23
+"Maximilian Hils,mitmproxy release bot",22
+"Shadab Zafar,Maximilian Hils",19
+"Clemens,Maximilian Hils",17
+"Maximilian Hils,autofix-ci[bot]",16
+"Maximilian Hils,Shadab Zafar",12
+"Robert Xiao,Maximilian Hils",12
+"Matthew Shao,Maximilian Hils",12
+"Maximilian Hils,Ujjwal Verma",11
+"Maximilian Hils,Matthew Shao",10
+"Manuel Meitinger,Maximilian Hils",10
+"Martin Plattner,Maximilian Hils",10
+"Maximilian Hils,Clemens",9
+"Maximilian Hils,dependabot[bot]",9
+"Aldo Cortesi,Jim Shaver",8
+"Shadab Zafar,Thomas Kriechbaumer",8
+"Maximilian Hils,Jason",8
+"mitmproxy release bot,Maximilian Hils",7
+"Maximilian Hils,gorogoroumaru",7
+"sanlengjingvv,Maximilian Hils",6
+"dependabot[bot],Maximilian Hils",6
+"Henrique,Maximilian Hils",6
+"David Shaw,davidpshaw",6
+"Shadab Zafar,Aldo Cortesi",6
+"Chris Czub,Maximilian Hils",5
+"Maximilian Hils,Martin Plattner",5
+"Stephen Altamirano,Aldo Cortesi",5
+"Maximilian Hils,Fabio Valentini",5
+"Marcelo Glezer,Maximilian Hils",5
+"Henrik Nordstrom,Aldo Cortesi",5
+"Brad Peabody,Maximilian Hils",5
+"requires.io,Maximilian Hils",5
+"Aldo Cortesi,luz.paz",4
+"Thomas Kriechbaumer,Kyle Morton",4
+"Rouli,Aldo Cortesi",4
+"Thomas Kriechbaumer,Ujjwal Verma",4
+"Thomas Kriechbaumer,requires.io",4
+"BkPHcgQL3V,Jesson Soto Ventura",4
+"Ujjwal Verma,Thomas Kriechbaumer",4
+"luz.paz,Aldo Cortesi",4
+"Aldo Cortesi,Henrik Nordstrom",4
+"sanlengjingvv,Thomas Kriechbaumer",4
+"alts,Aldo Cortesi",4
+"Matteo Luppi,Maximilian Hils",4
+"root,Maximilian Hils",4
+"Anne Borcherding,Thomas Kriechbaumer",4
+"Brad Dixon,Maximilian Hils",3
+"Alexander Prinzhorn,Maximilian Hils",3
+"Marcelo Glezer,Shadab Zafar",3
+"Youhei Sakurai,Maximilian Hils",3
+"Maximilian Hils,Legend Tang",3
+"vzvu3k6k,Maximilian Hils",3
+"Jakub Wądołowski,Matteo Luppi",3
+"Sahn Lam,Aldo Cortesi",3
+"Shiva,Thomas Kriechbaumer",3
+"Thomas Kriechbaumer,Will Coster",3
+"Gaurav Jain,Maximilian Hils",3
+"Peter Dave Hello,Maximilian Hils",3
+"Michael McKeirnan,Maximilian Hils",3
+"HereC,Maximilian Hils",3
+"Maximilian Hils,Henrique",3
+"oscure76,Aldo Cortesi",3
+"Kyle Morton,Thomas Kriechbaumer",3
+"MatthewShao,Matthew Shao",3
+"Alex Gershberg,Alexander Prinzhorn",3
+"Maximilian Hils,Matteo Luppi",3
+"Sachin Kelkar,Maximilian Hils",3
+"Ryan Welton,Marcelo Glezer",3
+"Thomas Kriechbaumer,Shadab Zafar",3
+"Nikos Filippakis,Aldo Cortesi",3
+"Ulrich Petri,Aldo Cortesi",3
+"nish21,Thomas Kriechbaumer",2
+"Aldo Cortesi,Ulrich Petri",2
+"Aldo Cortesi,Thomas Roth",2
+"Aldo Cortesi,Shadab Zafar",2
+"Aldo Cortesi,Chandler Abraham",2
+"Yoann L,Maximilian Hils",2
+"kjy00302,Maximilian Hils",2
+"Peter Dave Hello,Anatoli Babenia",2
+"Maximilian Hils,kjy00302",2
+"israel,Aldo Cortesi",2
+"elitest,Maximilian Hils",2
+"lymanZerga11,Thomas Kriechbaumer",2
+"lymanZerga11,Maximilian Hils",2
+"Sujal Singh,Maximilian Hils",2
+"David Weinstein,Thomas Kriechbaumer",2
+"Denis Stanishevsky,dependabot[bot]",2
+"outlaws-bai,Maximilian Hils",2
+"Maximilian Hils,Marcus Vogel",2
+"Daniel Lenski,Maximilian Hils",2
+"Jim Shaver,elitest",2
+"Matthew Shao,Chris Czub",2
+"Clemens,Jason",2
+"Maximilian Hils,Michael McKeirnan",2
+"Maximilian Hils,Samoilenko Roman",2
+"Maximilian Hils,Gaurav Jain",2
+"Chandler Abraham,Aldo Cortesi",2
+"Jesson Soto Ventura,BkPHcgQL3V",2
+"Matthew Shao,Aldo Cortesi",2
+"Marcelo Glezer,Tarashish Mishra",2
+"Anatoli Babenia,Maximilian Hils",2
+"András Veres-Szentkirályi,Aldo Cortesi",2
+"smill@cuckoo.sh,Maximilian Hils",2
+"Aaron Tan,Maximilian Hils",2
+"Wouter Visser,Maximilian Hils",1
+"Aldo Cortesi,Doug Freed",1
+"依云,Thomas Kriechbaumer",1
+"xBZZZZ,Emanuele Micheletti",1
+"sanlengjingvv,Martin Plattner",1
+"Aldo Cortesi,Rune Halvorsen",1
+"@Ga_ryo_,Maximilian Hils",1
+"Aldo Cortesi,Matthew Shao",1
+"Aldo Cortesi,Manuel Meitinger",1
+"Aldo Cortesi,Kyle Morton",1
+"Aldo Cortesi,Justus Wingert",1
+"pogzyb,autofix-ci[bot]",1
+"jackfromeast,Gaurav Jain",1
+"Anne Borcherding,Maximilian Hils",1
+"Angelo Agatino Nicolosi,Shadab Zafar",1
+"Andras Spitzer,Maximilian Hils",1
+"Alexander Prinzhorn,rugk",1
+"Alexander Prinzhorn,Robert Xiao",1
+"beth92,beth",1
+"basedBaba,Maximilian Hils",1
+"Zanie Blue,Maximilian Hils",1
+"Matteo Luppi,Jakub Wądołowski",1
+"Matt Weidner,Matthew Shao",1
+"Mathis Hesse,Manuel Meitinger",1
+"Martin Plattner,sanlengjingvv",1
+"Marius,Maximilian Hils",1
+"Marcus Vogel,Jay Malhotra",1
+"Marcelo Glezer,Aldo Cortesi",1
+"Manuel Meitinger,Denis",1
+"Lucas Ficheux,rosydawn6",1
+"Louis,mitmproxy release bot",1
+"Maximilian Hils,Christian Frichot",1
+"Maximilian Hils,Agustin Bacigalup",1
+"EndUser509,Alexander Prinzhorn",1
+"Llama,Maximilian Hils",1
+"Legend Tang,Suyash",1
+"Justus Wingert,Maximilian Hils",1
+"Jurriaan Bremer,Maximilian Hils",1
+"John Lyu,Aldo Cortesi",1
+"Jim Higson,Thomas Kriechbaumer",1
+"Jeremy Lainé,Maximilian Hils",1
+"Jay Malhotra,Maximilian Hils",1
+"Jason,Maximilian Hils",1
+"Jakub Wądołowski,Gaurav Jain",1
+"Matthew Shao,Ujjwal Verma",1
+"Matthew Shao,MatthewShao",1
+"Matthew Shao,Matt Weidner",1
+"Matthew Leather,dependabot[bot]",1
+"Matthew Leather,Sujal Singh",1
+"Matteo Luppi,mitmproxy release bot",1
+"Matteo Luppi,jaywor1",1
+"Matteo Luppi,dependabot[bot]",1
+"Matteo Luppi,Pet Sneakers",1
+"Maximilian Hils,Linmiao Xu",1
+"Maximilian Hils,Kyle Morton",1
+"Maximilian Hils,Kirill A. Korinsky",1
+"Maximilian Hils,Jon Brown",1
+"Maximilian Hils,Jesson Soto Ventura",1
+"Maximilian Hils,James Billingham",1
+"Maximilian Hils,Gabriel Corona",1
+"Maximilian Hils,Esther Roth",1
+"Maximilian Hils,EndUser509",1
+"Maximilian Hils,Denis Stanishevsky",1
+"Maximilian Hils,Tai Dickerson",1
+"Maximilian Hils,Samhita-sopho",1
+"Maximilian Hils,Peter Dave Hello",1
+"Maximilian Hils,Miguel Guarniz",1
+"Maximilian Hils,Matthias Urlichs",1
+"Alexander Prinzhorn,Denis Kasak",1
+"Alessandro Surace,Matteo Luppi",1
+"Aldo Cortesi,starenka",1
+"Aldo Cortesi,requires.io",1
+"Aldo Cortesi,oscure76",1
+"Aldo Cortesi,lymanZerga11",1
+"Clemens,Thomas Kriechbaumer",1
+"Clemens,Aldo Cortesi",1
+"Chris Czub,Michael J. Bazzinotti",1
+"Chase Kelley,Miro Karvonen",1
+"Maximilian Hils,Marcelo Glezer",1
+"Colin Bendell,Maximilian Hils",1
+"Henrik Nordström,Aldo Cortesi",1
+"Gergely Nagy,Maximilian Hils",1
+"Gaurav Jain,winy",1
+"Gaurav Jain,mitmproxy release bot",1
+"Gaurav Jain,Michele Russo",1
+"Gabriel Corona,Maximilian Hils",1
+"Fred Miller,Maximilian Hils",1
+"Fenil Gandhi,Maximilian Hils",1
+"Felix Yan,requires.io",1
+"Farid Rener,Matteo Luppi",1
+"Fabio Valentini,Maximilian Hils",1
+"Esther Roth,Sujal Singh",1
+"EndUser509,Vinayak Khandelwal",1
+"Maximilian Hils,Lucas Ficheux",1
+"Maximilian Hils,Louis",1
+"Miguel Guarniz,Maximilian Hils",1
+"Maximilian Hils,xBZZZZ",1
+"Maximilian Hils,stephenspol",1
+"Maximilian Hils,requires.io",1
+"Maximilian Hils,deployable",1
+"Maximilian Hils,capt8bit",1
+"Maximilian Hils,Will Coster",1
+"Maximilian Hils,Terry Long",1
+"Remigiusz Żętkowski,Robert Xiao",1
+"Pet Sneakers,Maximilian Hils",1
+"Pet Sneakers,Gaurav Jain",1
+"Pedro Worcel,Maximilian Hils",1
+"Paulo Romeira,Maximilian Hils",1
+"Parth Ganatra,Thomas Kriechbaumer",1
+"Nikita Stupin,| |三 \/ | |\|",1
+"Nikita Stupin,Maximilian Hils",1
+"Nikhil Soni,Thomas Kriechbaumer",1
+"Nick HS,Maximilian Hils",1
+"Miroslav,Maximilian Hils",1
+"Miro Karvonen,chase",1
+"Stanley Good,TWY",1
+"Stanley Good,Maximilian Hils",1
+"Slobodan Mišković,Maximilian Hils",1
+"Seppo Yli-Olli,Maximilian Hils",1
+"Semnodime,Pradyot Ranjan",1
+"Sahil Chelaramani,Maximilian Hils",1
+"Rūdolfs Bundulis,Nicolai Søborg",1
+"Thomas Kriechbaumer,Felix Yan",1
+"Thomas Kriechbaumer,Daniel Lenski",1
+"Thomas Kriechbaumer,Clemens Brunner",1
+"Thomas Kriechbaumer,Blake Burkhart",1
+"Tero Saaristo,Maximilian Hils",1
+"Tedd Johnson,Maximilian Hils",1
+"Sujal Singh,dependabot[bot]",1
+"Sujal Singh,basedBaba",1
+"Sujal Singh,Xiao Wang",1
+"Steven Van Acker,Maximilian Hils",1
+"Will Monge,EndUser509",1
+"Will Coster,Thomas Kriechbaumer",1
+"Will Coster,Thiago Arrais",1
+"Will Coster,Shadab Zafar",1
+"Wes Turner,BSalita",1
+"Vinayak Khandelwal,Alexander Prinzhorn",1
+"Ujjwal Verma,Aldo Cortesi",1
+"Thung Han,Maximilian Hils",1
+"Thomas Taschauer,Maximilian Hils",1
+"Biping Meng,Maximilian Hils",1
+"Anthony Sottile,requires.io",1
+"Emanuele Micheletti,Maximilian Hils",1
+"Emanuele Micheletti,Llama",1
+"DenizenB,Maximilian Hils",1
+"Denis Stanishevsky,Matteo Luppi",1
+"Denis Stanishevsky,Gaurav Jain",1
+"Denis,Maximilian Hils",1
+"Deepesh Pathak,Miroslav",1
+"David Dworken,Maximilian Hils",1
+"Dave T,Teddy Xinyuan Chen",1
+"Daniel López Guimaraes,Maximilian Hils",1
+"Daniel Lenski,Thomas Kriechbaumer",1
+"Thomas Kriechbaumer,gorogoroumaru",1
+"Thomas Kriechbaumer,Zohar Lorberbaum",1
+"iroiro123,Thomas Kriechbaumer",1
+"harsh vijay,Maximilian Hils",1
+"dufferzafar,Clemens",1
+"dependabot[bot],Daniel Karandikar",1
+"chase,Maximilian Hils",1
+"m4ci3k2,inceabdullah",1
+"林玮 (Jade Lin),Maximilian Hils",1
+"Aldo Cortesi,Alexis Hildebrandt",1
+"phackt,Maximilian Hils",1
+"Aldo Cortesi,iroiro123",1
+"Aldo Cortesi,Sahn Lam",1
+"Aldo Cortesi,Sachin Kelkar",1
+"Brett Randall,Miro Karvonen",1
+"Brad Dixon,mitmproxy release bot",1
+"Brad Dixon,Alexander Prinzhorn",1
+"jimhigson,Maximilian Hils",1
+"jannst,Maximilian Hils",1
+"Aidan Cyr,Ujjwal Verma",1
+"Aldo Cortesi,Clemens",1
+"Aldo Cortesi,CorTal",1
+"Aldo Cortesi,Cory Benfield",1
+"mitmproxy release bot,pogzyb",1
+"mitmproxy release bot,Justin Su",1
+"mitmproxy release bot,Andras Spitzer",1
+"mame82,Maximilian Hils",1
+"mame82,Brad Dixon",1
+"madt1m,Pietro Francesco Tirenna",1
+"rugk,Alexander Prinzhorn",1
+"root,Pedro Worcel",1
+"Aldo Cortesi,András Veres-Szentkirályi",1
+"Xiao Wang,Maximilian Hils",1
+,
+Committer Timezone Distribution,Unique Timezones: 21
+Timezone,Commits
++00:00,425
++01:00,2546
++02:00,2919
++03:00,54
++04:00,2
++05:30,427
++06:00,1
++07:00,13
++08:00,421
++09:00,61
++09:30,2
++10:00,16
++11:00,38
++12:00,1528
++13:00,1312
+-03:00,89
+-04:00,96
+-05:00,154
+-06:00,42
+-07:00,683
+-08:00,63
+,
+Contributors Experience,Average across 3332 files: 85.56%
+File,Top Contributor Share (%)
+doc-src/01-reset-fonts-grids-base.css,100.00
+doc-src/admin.html,100.00
+doc-src/faq.html,100.00
+doc-src/index.html,100.00
+doc-src/library.html,100.00
+doc-src/syntax.css,100.00
+examples/stickycookies.py,100.00
+libmproxy/pyparsing.py,100.00
+libmproxy/resources/bogus_template,100.00
+test/.pry,100.00

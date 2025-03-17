@@ -1,0 +1,218 @@
+Field,Value
+Commits Overview,
+Total Commits,1328
+Total Unique Authors,69
+,
+Top 10 Contributors,
+Author,Commits
+Green Baneling,4186
+Brandon Kite,2533
+Mitchell Turner,1262
+Hannes Karppila,818
+AurelienFT,725
+Aaryamann Challani,573
+Elvis,543
+Tom,523
+Brandon Vrooman,518
+Rafał Chabowski,436
+,
+Communication Events,Total: 1074
+"Author1,Author2",Events
+"Green Baneling,Brandon Kite",61
+"Hannes Karppila,Green Baneling",46
+"Brandon Kite,Green Baneling",36
+"Brandon Vrooman,Green Baneling",33
+"Tom,Green Baneling",33
+"Mitchell Turner,Green Baneling",32
+"Green Baneling,Ahmed Sagdati",29
+"Green Baneling,Hannes Karppila",28
+"Mårten Blankfors,Green Baneling",27
+"Green Baneling,Mårten Blankfors",22
+"Green Baneling,Mitchell Turner",21
+"John Adler,Brandon Kite",19
+"Hannes Karppila,Brandon Kite",19
+"Brandon Vrooman,Brandon Kite",18
+"rakita,Brandon Kite",17
+"Aaryamann Challani,Mitchell Turner",17
+"Hannes Karppila,Mitchell Turner",15
+"Elvis,Brandon Kite",15
+"Brandon Kite,Tom",15
+"Mitchell Turner,Aaryamann Challani",15
+"Rafał Chabowski,Aaryamann Challani",14
+"Mitchell Turner,AurelienFT",14
+"Mitchell Turner,Brandon Vrooman",14
+"Rafał Chabowski,Mårten Blankfors",14
+"AurelienFT,Aaryamann Challani",14
+"Ahmed Sagdati,Green Baneling",13
+"Mitchell Turner,Hannes Karppila",13
+"Mitchell Turner,Rafał Chabowski",12
+"Mitchell Turner,Brandon Kite",11
+"Tom,Hannes Karppila",11
+"Hannes Karppila,Tom",10
+"Mårten Blankfors,AurelienFT",10
+"Hannes Karppila,Mårten Blankfors",10
+"Green Baneling,Brandon Vrooman",9
+"Green Baneling,Elvis",9
+"Elvis,Green Baneling",9
+"Rafał Chabowski,Chad Nehemiah",9
+"AurelienFT,Green Baneling",9
+"Tom,Brandon Kite",9
+"Brandon Kite,John Adler",8
+"Green Baneling,Rafał Chabowski",8
+"Elvis,Tom",8
+"Aaryamann Challani,Green Baneling",7
+"Elvis,Brandon Vrooman",7
+"ControlCplusControlV,Tom",7
+"Mårten Blankfors,Mitchell Turner",7
+"ControlCplusControlV,Brandon Kite",7
+"AurelienFT,Mårten Blankfors",7
+"Tom,Elvis",6
+"Emir,Green Baneling",6
+"Green Baneling,Tom",6
+"Hannes Karppila,Aaryamann Challani",6
+"AurelienFT,Rafał Chabowski",6
+"Brandon Kite,Mitchell Turner",6
+"Hannes Karppila,Rafał Chabowski",6
+"Green Baneling,Aaryamann Challani",5
+"Andrea Cerone,AurelienFT",5
+"Brandon Kite,Brandon Vrooman",5
+"Aaryamann Challani,AurelienFT",5
+"Brandon Kite,ControlCplusControlV",5
+"rakita,John Adler",5
+"Tom,Ahmed Mujkic",5
+"Rafał Chabowski,Andrea Cerone",4
+"Aaryamann Challani,Rafał Chabowski",4
+"Aaryamann Challani,Mårten Blankfors",4
+"Green Baneling,Matt",4
+"Green Baneling,AurelienFT",4
+"Elvis,ControlCplusControlV",4
+"Rafał Chabowski,Green Baneling",4
+"Mitchell Turner,Mårten Blankfors",4
+"Rafał Chabowski,Mitchell Turner",4
+"Brandon Kite,Hannes Karppila",3
+"Rafał Chabowski,AurelienFT",3
+"Oleksii Filonenko,Hannes Karppila",3
+"Mårten Blankfors,Andrea Cerone",3
+"hal3e,Hannes Karppila",3
+"Brandon Kite,Emir",3
+"Ahmed Mujkic,Green Baneling",3
+"roy_fuel,Brandon Kite",3
+"github-actions[bot],Green Baneling",3
+"Hannes Karppila,Brandon Vrooman",3
+"Hannes Karppila,ControlCplusControlV",3
+"Green Baneling,MujkicA",3
+"Green Baneling,Cesar",3
+"Brandon Vrooman,Mitchell Turner",3
+"Emir,Tom",3
+"Green Baneling,Andrea Cerone",3
+"Brandon Kite,Elvis",3
+"Andrea Cerone,Ahmet Yazıcı",3
+"AurelienFT,Andrea Cerone",3
+"AurelienFT,Mitchell Turner",3
+"Andrea Cerone,Mårten Blankfors",3
+"Green Baneling,ControlCplusControlV",3
+"Kaya Gökalp,Brandon Kite",2
+"github-actions[bot],Aaryamann Challani",2
+"github-actions[bot],AurelienFT",2
+"Mitch Martin,Tom",2
+"Hannes Karppila,Elvis",2
+"AurelienFT,hal3e",2
+"Brandon Kite,Elliot",2
+"Brandon Kite,Ahmed Mujkic",2
+"Andrea Cerone,Aaryamann Challani",2
+"Aaryamann Challani,Chad Nehemiah",2
+"hal3e,Aaryamann Challani",2
+"Hannes Karppila,Matt",2
+"Elvis,Victor Nepveu",2
+"Emir,Brandon Kite",2
+"ControlCplusControlV,rakita",2
+"Cesar,Brandon Kite",2
+"Mårten Blankfors,Aaryamann Challani",2
+"Mårten Blankfors,Chad Nehemiah",2
+"Mårten Blankfors,Rafał Chabowski",2
+"Mitchell Turner,Andrea Cerone",2
+"ControlCplusControlV,Green Baneling",2
+"Cesar,Green Baneling",2
+"AJ,Green Baneling",1
+"Andrea Cerone,Rafał Chabowski",1
+"AurelienFT,Hannes Karppila",1
+"AurelienFT,Oleksii Filonenko",1
+"Brandon Kite,AJ",1
+"Brandon Kite,roy_fuel",1
+"Brandon Kite,rakita",1
+"Brandon Kite,Oleksii Filonenko",1
+"Brandon Kite,Ahmed Sagdati",1
+"Brandon Kite,Alican Çubukçuoğlu",1
+"Brandon Vrooman,Ahmed Sagdati",1
+"Brandon Vrooman,Hannes Karppila",1
+"Chad Nehemiah,AurelienFT",1
+"Brandon Vrooman,ControlCplusControlV",1
+"Cesar,Hannes Karppila",1
+"Chad Nehemiah,Aaryamann Challani",1
+"Elliot,GreenBaneling | Supercolony",1
+"Elvis,Hannes Karppila",1
+"Elliot,Brandon Kite",1
+"Elliot,Green Baneling",1
+"Elvis,Mitch Martin",1
+"Hannes Karppila,MujkicA",1
+"Hannes Karppila,Joshua Batty",1
+"Green Baneling,github-actions[bot]",1
+"Hannes Karppila,Cesar",1
+"Hannes Karppila,Andrea Cerone",1
+"Green Baneling,hal3e",1
+"Green Baneling,Kaya Gökalp",1
+"Green Baneling,Mad",1
+"ControlCplusControlV,Mitch Martin",1
+"John Adler,roy_fuel",1
+"Mitch Martin,ControlCplusControlV",1
+"John Cub,Brandon Kite",1
+"Mitchell Turner,Matt",1
+"Matt,Green Baneling",1
+"Mad,Green Baneling",1
+"Mitchell Turner,Ahmed Sagdati",1
+"Mårten Blankfors,Money Bund",1
+"Mårten Blankfors,Hannes Karppila",1
+"MujkicA,Brandon Vrooman",1
+"Money Bund,AurelienFT",1
+"Victor Nepveu,Elvis",1
+"Victor Lopes,Kaya Gökalp",1
+"Tom,ControlCplusControlV",1
+"Sophie Dankel,Tom",1
+"github-actions[bot],Cesar",1
+"github-actions[bot],Brandon Vrooman",1
+"github-actions[bot],Brandon Kite",1
+"WokingHard!!!!,Mitchell Turner",1
+"bing,Brandon Kite",1
+"github-actions[bot],Mitchell Turner",1
+"rakita,Elliot",1
+"rakita,ControlCplusControlV",1
+,
+Committer Timezone Distribution,Unique Timezones: 14
+Timezone,Commits
++00:00,473
++01:00,149
++02:00,176
++03:00,34
++05:30,32
++07:00,1
++10:00,1
++11:00,14
+-03:00,3
+-04:00,64
+-05:00,92
+-06:00,23
+-07:00,172
+-08:00,94
+,
+Contributors Experience,Average across 1775 files: 81.56%
+File,Top Contributor Share (%)
+.appveyor.yml,100.00
+.travis.yml,100.00
+tests/web.rs,100.00
+Makefile,100.00
+rustfmt.toml,100.00
+src/bin/interpreter.rs,100.00
+src/crypto.rs,100.00
+src/interpreter/alu.rs,100.00
+src/interpreter/contract.rs,100.00
+src/interpreter/crypto.rs,100.00

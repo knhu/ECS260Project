@@ -1,0 +1,52 @@
+Field,Value
+Commits Overview,
+Total Commits,334
+Total Unique Authors,28
+,
+Top 10 Contributors,
+Author,Commits
+Michele Tessaro,398
+Michele,13
+Paul Harrison,6
+Bharat Rajagopalan,5
+Ihsan Topaloglu,3
+Stéphane MORI,3
+Nick Boldt,3
+Nejc Habjan,3
+Kian-Meng Ang,3
+Jean Jordaan,2
+,
+Communication Events,Total: 10
+"Author1,Author2",Events
+"Stéphane MORI,Michele Tessaro",2
+"Michele Tessaro,Michele",2
+"Chalmela, Ravi,Michele Tessaro",1
+"Jean Jordaan,Michele Tessaro",1
+"Michele Tessaro,Bharat Rajagopalan",1
+"Mathias Lüdtke,Michele Tessaro",1
+"Michele Tessaro,Sebastian Jegerås",1
+"Spencer Gilson,Michele Tessaro",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++00:00,5
++01:00,124
++02:00,196
++03:00,1
++08:00,1
++09:00,2
+-04:00,2
+-05:00,3
+,
+Contributors Experience,Average across 50 files: 94.93%
+File,Top Contributor Share (%)
+LICENSE,100.00
+.travis.yml,100.00
+tests/data/code_and_diag.html,100.00
+tests/data/multiple_diag.html,100.00
+tests/data/png_diag.html,100.00
+tests/data/svg_diag.html,100.00
+tests/data/txt_diag.html,100.00
+tests/markdown_builder.py,100.00
+tests/test_plantuml.py,100.00
+tests/test_plantuml_fenced.py,100.00

@@ -1,0 +1,21 @@
+File,Top Contributor Share (%)
+.gitignore,100.00
+CODE_OF_CONDUCT.md,100.00
+CONTRIBUTING.md,77.50
+LICENSE,84.36
+MODEL_CARD.md,59.40
+README.md,34.85
+download.sh,60.38
+example.py,100.00
+llama/__init__.py,66.67
+llama/generation.py,59.13
+llama/model.py,43.99
+llama/tokenizer.py,56.34
+requirements.txt,80.00
+setup.py,68.42
+FAQ.md,35.80
+USE_POLICY.md,100.00
+example_chat_completion.py,83.33
+example_text_completion.py,77.46
+UPDATES.md,86.36
+.github/ISSUE_TEMPLATE/bug_report.md,100.00

@@ -1,0 +1,55 @@
+Field,Value
+Commits Overview,
+Total Commits,123
+Total Unique Authors,14
+,
+Top 10 Contributors,
+Author,Commits
+Zack Scholl,86
+Zack,25
+cclauss,13
+Andrei Kovrov,4
+Asutosh Palai,3
+Taylor Smith,3
+Yuchen Sun,2
+mangogao,2
+Peter Ansell,1
+Stuart Powers,1
+,
+Communication Events,Total: 19
+"Author1,Author2",Events
+"Zack Scholl,Zack",4
+"Zack,Zack Scholl",3
+"Andrei Kovrov,Asutosh Palai",2
+"cclauss,Zack",2
+"mangogao,cclauss",2
+"Peter Ansell,Zack Scholl",1
+"Andrei Kovrov,Zack Scholl",1
+"Zack Scholl,Taylor Smith",1
+"Zack,mangogao",1
+"Taylor Smith,Zack Scholl",1
+"Zack Scholl,Yuchen Sun",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++02:00,13
++08:00,1
++10:00,1
+-04:00,1
+-05:00,3
+-06:00,96
+-07:00,3
+-08:00,5
+,
+Contributors Experience,Average across 17 files: 92.30%
+File,Top Contributor Share (%)
+LICENSE,100.00
+test.py,100.00
+data/oui.json,100.00
+oui.py,100.00
+analyze.py,100.00
+howmanypeoplearearound/plotlyjs.py,100.00
+.travis.yml,100.00
+howmanypeoplearearound/colors.py,100.00
+.github/FUNDING.yml,100.00
+setup.py,98.04

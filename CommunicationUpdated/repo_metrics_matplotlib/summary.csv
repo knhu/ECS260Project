@@ -1,0 +1,2134 @@
+Field,Value
+Commits Overview,
+Total Commits,52191
+Total Unique Authors,1808
+,
+Top 10 Contributors,
+Author,Commits
+Michael Droettboom,20478
+Antony Lee,12937
+John Hunter,11431
+Thomas A Caswell,10008
+Elliott Sales de Andrade,7804
+Tim Hoffmann,5801
+Jody Klymak,3882
+Eric Firing,3428
+David Stansby,2903
+Darren Dale,2541
+,
+Communication Events,Total: 9949
+"Author1,Author2",Events
+"Víctor Zabalza,Michael Droettboom",618
+"Antony Lee,Tim Hoffmann",357
+"Elliott Sales de Andrade,Thomas A Caswell",347
+"Michael Droettboom,Thomas A Caswell",259
+"Tim Hoffmann,Jody Klymak",241
+"Antony Lee,Thomas A Caswell",193
+"Tim Hoffmann,Antony Lee",182
+"Antony Lee,Elliott Sales de Andrade",150
+"David Stansby,Thomas A Caswell",138
+"Thomas A Caswell,Elliott Sales de Andrade",128
+"Jody Klymak,Thomas A Caswell",127
+"Elliott Sales de Andrade,Tim Hoffmann",124
+"Antony Lee,Jody Klymak",120
+"John Hunter,Michael Droettboom",118
+"Elliott Sales de Andrade,Antony Lee",102
+"Tim Hoffmann,Elliott Sales de Andrade",89
+"Tim Hoffmann,Thomas A Caswell",88
+"Thomas A Caswell,Tim Hoffmann",87
+"Michael Droettboom,John Hunter",87
+"Thomas A Caswell,Antony Lee",86
+"Antony Lee,David Stansby",81
+"David Stansby,Tim Hoffmann",79
+"Nelle Varoquaux,Thomas A Caswell",74
+"Elliott Sales de Andrade,Oscar Gustafsson",71
+"Jody Klymak,Antony Lee",68
+"John Hunter,Eric Firing",65
+"Darren Dale,John Hunter",59
+"Eric Firing,John Hunter",55
+"David Stansby,Antony Lee",55
+"John Hunter,Steve Chaplin",55
+"Thomas A Caswell,Jody Klymak",54
+"Elliott Sales de Andrade,Jody Klymak",53
+"Thomas A Caswell,Michael Droettboom",51
+"Jody Klymak,Elliott Sales de Andrade",48
+"Eric Firing,Michael Droettboom",47
+"Elliott Sales de Andrade,Kyle Sunden",45
+"Thomas A Caswell,David Stansby",44
+"Norbert Nemec,John Hunter",43
+"Tim Hoffmann,David Stansby",43
+"Steve Chaplin,John Hunter",42
+"John Hunter,Darren Dale",41
+"Oscar Gustafsson,Tim Hoffmann",41
+"Michael Droettboom,Jens Hedegaard Nielsen",40
+"Darren Dale,Michael Droettboom",40
+"paul,Thomas A Caswell",39
+"limtaesu,solvents",38
+"Kevin Chan,solvents",38
+"Jody Klymak,Tim Hoffmann",38
+"John Hunter,Norbert Nemec",36
+"hannah,Tim Hoffmann",35
+"Thomas A Caswell,Eric Firing",35
+"Michael Droettboom,Eric Firing",34
+"Gaute Hope,Michael Droettboom",33
+"solvents,Per Parker",31
+"Elliott Sales de Andrade,David Stansby",30
+"Andrew Straw,John Hunter",29
+"Oscar Gustafsson,Kyle Sunden",28
+"Oscar Gustafsson,Elliott Sales de Andrade",27
+"Eric Firing,Thomas A Caswell",27
+"ianhi,Jody Klymak",26
+"Michael Droettboom,Benjamin Root",26
+"Ruth Comer,Tim Hoffmann",25
+"Tim Hoffmann,hannah",24
+"Thomas A Caswell,Oscar Gustafsson",24
+"Antony Lee,Oscar Gustafsson",24
+"Antony Lee,Eric Firing",23
+"hannah,Elliott Sales de Andrade",23
+"Michael Droettboom,Darren Dale",22
+"John Hunter,Andrew Straw",22
+"Phil Elson,Michael Droettboom",21
+"Phil Elson,pelson",21
+"Jody Klymak,David Stansby",21
+"Oscar Gustafsson,Thomas A Caswell",21
+"Jouni K. Seppänen,Michael Droettboom",19
+"Thomas A Caswell,Jens Hedegaard Nielsen",19
+"Antony Lee,Kyle Sunden",19
+"Eric Firing,Antony Lee",19
+"Antony Lee,hannah",19
+"Michael Droettboom,Phil Elson",19
+"Elliott Sales de Andrade,Greg Lucas",18
+"Paul Hobson,Nelle Varoquaux",18
+"Trish Gillett-Kawamoto,Eric Firing",17
+"John Hunter,Charles Moad",17
+"Jae-Joon Lee,Michael Droettboom",17
+"Andrew Straw,Michael Droettboom",17
+"Kyle Sunden,Elliott Sales de Andrade",17
+"Greg Lucas,Elliott Sales de Andrade",16
+"Tim Hoffmann,Ruth Comer",16
+"Paul Hobson,Thomas A Caswell",16
+"Kyle Sunden,Thomas A Caswell",16
+"Jens Hedegaard Nielsen,Thomas A Caswell",16
+"David Stansby,Elliott Sales de Andrade",16
+"Nelle Varoquaux,Antony Lee",15
+"Norbert Nemec,Eric Firing",15
+"Elliott Sales de Andrade,hannah",15
+"Chris Holdgraf,Christopher Holdgraf",15
+"James Evans,Michael Droettboom",14
+"Dora Fraeman Caswell,Thomas A Caswell",14
+"Todd Miller,John Hunter",14
+"Kyle Sunden,Tim Hoffmann",14
+"Oscar Gustafsson,Antony Lee",14
+"Antony Lee,Nelle Varoquaux",14
+"dependabot[bot],Elliott Sales de Andrade",13
+"Adrien F Vincent,Thomas A Caswell",13
+"Charles Moad,John Hunter",13
+"Nelle Varoquaux,Elliott Sales de Andrade",13
+"David Stansby,Jody Klymak",13
+"Tim Hoffmann,Paul Hobson",12
+"David Stansby,Nelle Varoquaux",12
+"Jody Klymak,hannah",12
+"Michael Droettboom,Jouni K. Seppänen",12
+"John Hunter,Jouni K. Seppänen",12
+"Greg Lucas,Jody Klymak",11
+"Chris Holdgraf,Thomas A Caswell",11
+"John Hunter,Todd Miller",11
+"John Hunter,Paul Barret",11
+"John Hunter,Jae-Joon Lee",11
+"hannah,Thomas A Caswell",11
+"Ryan May,Thomas A Caswell",11
+"Hassan Kibirige,Thomas A Caswell",11
+"Ruth Comer,Jody Klymak",11
+"Eric Firing,Jae-Joon Lee",10
+"Paul Hobson,Elliott Sales de Andrade",10
+"Ryan May,Eric Firing",10
+"Ryan May,Jody Klymak",10
+"Jody Klymak,Kyle Sunden",10
+"Darren Dale,Eric Firing",10
+"Chris Holdgraf,Nelle Varoquaux",10
+"Manuel Metz,Michael Droettboom",10
+"Steffen Rehberg,Tim Hoffmann",10
+"Nelle Varoquaux,Eric Firing",10
+"Nikita Kniazev,Thomas A Caswell",10
+"Nelle Varoquaux,Paul Hobson",10
+"Antony Lee,Greg Lucas",10
+"Tim Hoffmann,MeeseeksMachine",9
+"switham,Thomas Hisch",9
+"E. G. Patrick Bos,Thomas A Caswell",9
+"Tim Hoffmann,Nelle Varoquaux",9
+"John Hunter,pkienzle",9
+"Jouni K. Seppänen,Eric Firing",9
+"Charles Moad,Darren Dale",9
+"Thomas A Caswell,Kyle Sunden",9
+"Nicolas P. Rougier,Thomas A Caswell",9
+"Ruth Comer,Thomas A Caswell",9
+"Scott Shambaugh,Tim Hoffmann",9
+"Eric Firing,Darren Dale",8
+"Federico Ariza,Thomas A Caswell",8
+"Steven Silvester,Thomas A Caswell",8
+"Antony Lee,Ruth Comer",8
+"Steffen Rehberg,Oscar Gustafsson",8
+"Jens Hedegaard Nielsen,Michael Droettboom",8
+"Thomas A Caswell,Jan Schulz",8
+"Michael Droettboom,Manuel Metz",8
+"Manuel Metz,John Hunter",8
+"Bruno Beltran,Elliott Sales de Andrade",8
+"Michael Droettboom,James Evans",8
+"Kyle Sunden,Antony Lee",8
+"Kyle Sunden,Jody Klymak",8
+"Kyle Sunden,Ruth Comer",8
+"Naoya Kanai,Paul Hobson",8
+"chaoyi1,Thomas A Caswell",8
+"hannah,Jody Klymak",8
+"Tim Hoffmann,Kyle Sunden",8
+"Thomas A Caswell,hannah",8
+"Christoph Gohlke,Eric Firing",7
+"Antony Lee,MeeseeksMachine",7
+"Cimarron Mittelsteadt,Thomas A Caswell",7
+"Nelle Varoquaux,David Stansby",7
+"Nic Eggert,Michael Droettboom",7
+"Jouni K. Seppänen,Elliott Sales de Andrade",7
+"Thomas A Caswell,Nelle Varoquaux",7
+"Tim Hoffmann,Oscar Gustafsson",7
+"Eric Firing,Manuel Metz",7
+"Manuel Metz,Eric Firing",7
+"Eric Firing,Tim Hoffmann",7
+"Eric Firing,Jouni K. Seppänen",7
+"Michael Droettboom,Jae-Joon Lee",7
+"pelson,Phil Elson",7
+"Kyle Sunden,Oscar Gustafsson",7
+"Jody Klymak,Ruth Comer",7
+"Thomas A Caswell,Benjamin Root",7
+"Paul Ivanov,Michael Droettboom",7
+"Jody Klymak,Eric Firing",7
+"Greg Lucas,Antony Lee",7
+"Elliott Sales de Andrade,Ryan May",7
+"yinleon,Leon Yin",7
+"Greg Lucas,Kyle Sunden",7
+"Ryan May,Michael Droettboom",7
+"Jae-Joon Lee,John Hunter",7
+"ImportanceOfBeingErnest,Antony Lee",7
+"Divyam Madaan,Nelle Varoquaux",7
+"Jeff Whitaker,John Hunter",6
+"Peter Würtz,Thomas A Caswell",6
+"Phil Elson,Thomas A Caswell",6
+"Holger Peters,Jens Hedegaard Nielsen",6
+"hannah,Kyle Sunden",6
+"Eric Firing,Ryan May",6
+"Thomas A Caswell,Matthew Brett",6
+"Michael Droettboom,Tobias Megies",6
+"Thomas A Caswell,Steven Silvester",6
+"Jouni K. Seppänen,John Hunter",6
+"Michael Grupp,Elliott Sales de Andrade",6
+"Thomas A Caswell,Phil Elson",6
+"Thomas A Caswell,Paul Hobson",6
+"Antony Lee,Federico Ariza",6
+"John Hunter,Manuel Metz",6
+"Ryan May,Antony Lee",6
+"Oscar Gustafsson,Ruth Comer",6
+"Tim Hoffmann,Greg Lucas",6
+"Antony Lee,Bruno Beltran",6
+"Tim Hoffmann,Eric Firing",6
+"Elliott Sales de Andrade,Eric Firing",6
+"Elliott Sales de Andrade,Ruth Comer",6
+"Jan Schulz,Thomas A Caswell",6
+"Antony Lee,Thomas Robitaille",6
+"Ruth Comer,hannah",6
+"Ruth Comer,Oscar Gustafsson",6
+"Steffen Rehberg,Thomas A Caswell",5
+"Alejandro García,Thomas A Caswell",5
+"stevezhang,stevezhang1999",5
+"Eric Firing,Andrew Straw",5
+"Elliott Sales de Andrade,Nelle Varoquaux",5
+"Greg Lucas,Thomas A Caswell",5
+"Scott Shambaugh,Oscar Gustafsson",5
+"Antony Lee,cclauss",5
+"Jae-Joon Lee,Ryan May",5
+"Antony Lee,Scott Shambaugh",5
+"Jody Klymak,Oscar Gustafsson",5
+"Jody Klymak,Nikita Kniazev",5
+"Jody Klymak,MeeseeksMachine",5
+"Jochen Voss,John Hunter",5
+"Darren Dale,Manuel Metz",5
+"David Kaplan,John Hunter",5
+"David Kaplan,pkienzle",5
+"Darren Dale,Charles Moad",5
+"Ryan May,John Hunter",5
+"Greg Lucas,Tim Hoffmann",5
+"Ian Thomas,Elliott Sales de Andrade",5
+"Aseem Bansal,Michael Droettboom",5
+"Antony Lee,Benjamin Root",5
+"Paul Barret,John Hunter",5
+"dependabot[bot],Oscar Gustafsson",5
+"hannah,Antony Lee",5
+"Thomas A Caswell,Nikita Kniazev",5
+"John Hunter,Ryan May",5
+"John Vandenberg,Thomas A Caswell",5
+"Jody Klymak,Ryan May",5
+"Antony Lee,Nikita Kniazev",5
+"Leo Singer,Benjamin Root",5
+"Thomas A Caswell,Jouni K. Seppänen",5
+"Leo Singer,Michael Droettboom",5
+"Michael Droettboom,Ryan May",5
+"Michael Droettboom,Nelle Varoquaux",5
+"Matthias Bussonnier,Antony Lee",5
+"Michael Droettboom,Cameron Bates",5
+"Bruno Beltran,Antony Lee",5
+"Matthew Brett,Thomas A Caswell",5
+"Eric Firing,Jens Hedegaard Nielsen",5
+"Eero Vaher,Kyle Sunden",5
+"kolibril13,Elliott Sales de Andrade",4
+"Michael Droettboom,Ben Root",4
+"luz.paz,Antony Lee",4
+"Eric Firing,Nelle Varoquaux",4
+"Eric Wieser,Antony Lee",4
+"Andrew Straw,Darren Dale",4
+"Eric Firing,Jody Klymak",4
+"Andrew Straw,Charles Moad",4
+"Matthew Brett,Federico Ariza",4
+"Yi Wei,Oscar Gustafsson",4
+"Thomas A Caswell,Greg Lucas",4
+"Michael Droettboom,Matt Giuca",4
+"Matthew Brett,Olga Botvinnik",4
+"MalikIdreesHasa,MeeseeksMachine",4
+"Kyle Sunden,hannah",4
+"Thomas A Caswell,Tony S Yu",4
+"Charles Moad,Michael Droettboom",4
+"Thomas A Caswell,Ryan May",4
+"Elliott Sales de Andrade,Eric Prestat",4
+"Elliott Sales de Andrade,MeeseeksMachine",4
+"Alberto,Thomas A Caswell",4
+"Erik M. Bray,Antony Lee",4
+"Siddhesh Poyarekar,Thomas A Caswell",4
+"Fernando Perez,John Hunter",4
+"Federico Ariza,OceanWolf",4
+"Steven Silvester,Phil Elson",4
+"Stefanie Molin,Thomas A Caswell",4
+"Eric Firing,Charles Moad",4
+"Eric Firing,Elliott Sales de Andrade",4
+"Víctor Zabalza,Jens Hedegaard Nielsen",4
+"Truong Pham,Thomas A Caswell",4
+"Tony S Yu,Michael Droettboom",4
+"Jens Hedegaard Nielsen,paul",4
+"ImportanceOfBeingErnest,Tim Hoffmann",4
+"Jae-Joon Lee,Eric Firing",4
+"ImportanceOfBeingErnest,Jody Klymak",4
+"Ruth Comer,Kyle Sunden",4
+"David Stansby,ImportanceOfBeingErnest",4
+"Jody Klymak,ImportanceOfBeingErnest",4
+"Darren Dale,Edin Salkovic",4
+"Przemysław Dąbek,Benjamin Root",4
+"Per Parker,Kevin Chan",4
+"Jody Klymak,Elan Ernest",4
+"Thomas Robitaille,Thomas A Caswell",4
+"Tim Hoffmann,Erik M. Bray",4
+"Antony Lee,Matthias Bussonnier",4
+"Oscar Gustafsson,Jody Klymak",4
+"OceanWolf,Federico Ariza",4
+"Zair Mubashar,David Kua",4
+"afvincent,Adrien F Vincent",4
+"Phil Elson,Wes Campaigne",4
+"John Hunter,Jeff Whitaker",4
+"John Hunter,Fernando Perez",4
+"Christoph Gohlke,Michael Droettboom",4
+"Jouni K. Seppänen,Michael Droettboom",4
+"Thomas A Caswell,MeeseeksMachine",4
+"Michael Droettboom,Víctor Zabalza",4
+"Benjamin Root,Thomas A Caswell",4
+"Michael Droettboom,switham",4
+"Nelle Varoquaux,Jody Klymak",4
+"Benjamin Congdon,Thomas A Caswell",4
+"Adrien F. Vincent,David Stansby",4
+"Antony Lee,ImportanceOfBeingErnest",3
+"Kyle Sunden,Aditi Gautam",3
+"Thomas Hisch,Jens Hedegaard Nielsen",3
+"Charles Moad,Steve Chaplin",3
+"Larry Bradley,Thomas A Caswell",3
+"Christian Mattsson,Ruth Comer",3
+"Christian Brueffer,Thomas A Caswell",3
+"Martin Fitzpatrick,Thomas A Caswell",3
+"LindyBalboa,Thomas A Caswell",3
+"Leon Yin,Thomas A Caswell",3
+"Kyle Martin,Thomas A Caswell",3
+"Xianxiang Li,Tim Hoffmann",3
+"Xianxiang Li,Elliott Sales de Andrade",3
+"Chahak Mehta,Ruth Comer",3
+"Matt Shen,Thomas A Caswell",3
+"Matthias Bussonnier,Tim Hoffmann",3
+"Matthew Brett,Nelle Varoquaux",3
+"Matthias Bussonnier,Elliott Sales de Andrade",3
+"Thomas A Caswell,Lennart Fricke",3
+"Michael Droettboom,Michiel de Hoon",3
+"Thomas A Caswell,Federico Ariza",3
+"Egor Panfilov,Nelle Varoquaux",3
+"Andrew Straw,Jouni K. Seppänen",3
+"Eric Firing,Travis Oliphant",3
+"Eric Larson,Jody Klymak",3
+"Eric Prestat,Tim Hoffmann",3
+"Tim Hoffmann,Ryan May",3
+"Andrew Straw,Ryan May",3
+"martinRenou,Thomas A Caswell",3
+"Andrew Fennell,Thomas A Caswell",3
+"Michael Droettboom,Jouni K. Seppänen",3
+"patquem,Scott Shambaugh",3
+"Elliott Sales de Andrade,Matthias Bussonnier",3
+"mattip,Elliott Sales de Andrade",3
+"melissawm,Melissa Weber Mendonça",3
+"Elan Ernest,MeeseeksMachine",3
+"ianhi,Ian Hunt-Isaak",3
+"hannah,Ruth Comer",3
+"hannah,Oscar Gustafsson",3
+"ilivni,Thomas A Caswell",3
+"Adrien VINCENT,Adrien F Vincent",3
+"Aitik Gupta,Elliott Sales de Andrade",3
+"Thomas A Caswell,Gaute Hope",3
+"Kevin Chan,Per Parker",3
+"Jouni K. Seppänen,Nelle Varoquaux",3
+"Julian Mehne,Thomas A Caswell",3
+"John Hunter,Jochen Voss",3
+"Antony Lee,Paul Hobson",3
+"cclauss,Antony Lee",3
+"cclauss,Elliott Sales de Andrade",3
+"cgohlke,Eric Firing",3
+"esibinga,Eva Sibinga",3
+"Alice Descoeudres,hannah",3
+"Alistair Muldal,Thomas A Caswell",3
+"Michael Droettboom,Tony S Yu",3
+"Kjell Le,Antony Lee",3
+"Kristen M. Thyng,Thomas A Caswell",3
+"Nathan Hansen,Scott Shambaugh",3
+"Michael Droettboom,klaus",3
+"Nathan Goldbaum,Ryan May",3
+"Nathan Goldbaum,Thomas A Caswell",3
+"Nelle Varoquaux,MeeseeksMachine",3
+"Thomas A Caswell,Ruth Comer",3
+"Pete Huang,Benjamin Root",3
+"Darren Dale,Jeff Whitaker",3
+"Tim Hoffmann,Carsten",3
+"Daniel C. Marcu,Benjamin Congdon",3
+"Till Stensitzki,Thomas A Caswell",3
+"Till Stensitzki,Michael Droettboom",3
+"Thomas Robitaille,Antony Lee",3
+"Thomas Hisch,switham",3
+"Ocean Wolf,Federico Ariza",3
+"Osarumwense,Benjamin Root",3
+"Norbert Nemec,pkienzle",3
+"Norbert Nemec,Michael Droettboom",3
+"andrzejnovak,Thomas A Caswell",3
+"apodemus,astromancer",3
+"John Hunter,David Kaplan",3
+"John Hoffman,Nelle Varoquaux",3
+"Paul Hobson,Jens Hedegaard Nielsen",3
+"Paul Ganssle,Thomas A Caswell",3
+"Oscar Gustafsson,David Stansby",3
+"Benjamin Root,Michael Droettboom",3
+"Jouni K. Seppänen,Thomas A Caswell",3
+"James Evans,John Hunter",3
+"David,Zair Mubashar",3
+"Scott Shambaugh,Antony Lee",3
+"Jean-Benoist Leger,jb-leger",3
+"Tim Hoffmann,y1thof",3
+"Andrew Fennell,Elliott Sales de Andrade",3
+"Darren Dale,Andrew Straw",3
+"Jeff Whitaker,Darren Dale",3
+"Todd Jennings,Thomas A Caswell",3
+"Ulrich J. Herter,ulijh",3
+"Paul Hobson,Tim Hoffmann",3
+"David Stansby,Ryan May",3
+"David Stansby,hannah",3
+"Ian Hunt-Isaak,Oscar Gustafsson",3
+"Ian Thomas,Benjamin Root",3
+"David Poznik,Tim Hoffmann",3
+"ImportanceOfBeingErnest,David Stansby",3
+"Ruth Comer,Scott Shambaugh",3
+"Ram Rachum,Antony Lee",3
+"Sameer D'Costa,John Hunter",3
+"Ryan May,Jae-Joon Lee",3
+"Antony Lee,Zac Hatfield-Dodds",3
+"Antony Lee,fredrik-1",3
+"Steffen Rehberg,Elliott Sales de Andrade",3
+"Steffen Rehberg,hannah",3
+"Gleb Fedorov,Thomas A Caswell",3
+"Eric Firing,Benjamin Root",3
+"Frank Sauerburger,Jouni K. Seppänen",3
+"Frank Sauerburger,Elliott Sales de Andrade",3
+"Antony Lee,Ram Rachum",3
+"Geoffroy Billotey,Michael Droettboom",3
+"Srihitha Maryada,Elliott Sales de Andrade",3
+"Dylan Evans,Thomas A Caswell",3
+"Edin Salkovic,Darren Dale",3
+"Federico Ariza,Ocean Wolf",3
+"pkienzle,Eric Firing",3
+"Andy Mastbaum,David Stansby",3
+"Adam Williamson,Michael Droettboom",3
+"pkienzle,Michael Droettboom",3
+"u55,Benjamin Root",3
+"richardsheridan,Antony Lee",3
+"Adrien F. Vincent,Antony Lee",3
+"Adrien F Vincent,Adrien F. VINCENT",3
+"Adrien F. VINCENT,Eric Firing",2
+"Abhinuv Nitin Pitale,Antony Lee",2
+"ultra-andy,Thomas A Caswell",2
+"Adrian Price-Whelan,Thomas A Caswell",2
+"Aditi Gautam,Elliott Sales de Andrade",2
+"Elliott Sales de Andrade,Benjamin Root",2
+"yinleon,Thomas A Caswell",2
+"vivekvedant,Jody Klymak",2
+"ryanbelt,leeonadoh",2
+"rhoef,Thomas Hisch",2
+"pwuertz,Peter Würtz",2
+"pwuertz,Eric Firing",2
+"pkienzle,John Hunter",2
+"pharshalp,Jody Klymak",2
+"myyc,Antony Lee",2
+"mlub,Thomas A Caswell",2
+"melissawm,Thomas A Caswell",2
+"mbyt,Thomas A Caswell",2
+"mattip,David Stansby",2
+"luzpaz,Jody Klymak",2
+"luz.paz,Tim Hoffmann",2
+"luz.paz,David Stansby",2
+"Adrien F. Vincent,Thomas A Caswell",2
+"luz paz,Jody Klymak",2
+"ksunden,David Stansby",2
+"klaus,Michael Droettboom",2
+"klaus,Julian Mehne",2
+"klaus,Benjamin Root",2
+"klaragerlei,Klara Gerlei",2
+"joaonsg,MeeseeksMachine",2
+"jeffreypaul15,Oscar Gustafsson",2
+"itziakos,Thomas A Caswell",2
+"iofall,Thomas A Caswell",2
+"ianhi,Tim Hoffmann",2
+"iamfaham,hannah",2
+"Elliott Sales de Andrade,Ratnabali Dutta",2
+"Elliott Sales de Andrade,Pranav",2
+"Elliott Sales de Andrade,Paul Ganssle",2
+"Elliott Sales de Andrade,Lumberbot (aka Jack)",2
+"Ali Meshkat,Antony Lee",2
+"Alex Henrie,David Stansby",2
+"fredrik-1,Tim Hoffmann",2
+"fredrik-1,Thomas A Caswell",2
+"fredrik-1,Antony Lee",2
+"erykoff,Jakub Klus",2
+"chelseatroy,David Stansby",2
+"cgohlke,Elliott Sales de Andrade",2
+"cgohlke,Antony Lee",2
+"btang02,Eric Firing",2
+"bcongdon,Ben Congdon",2
+"baharev,Thomas A Caswell",2
+"andrzejnovak,Greg Lucas",2
+"andrzejnovak,Antony Lee",2
+"alvarosg,Alvaro Sanchez",2
+"Elliott Sales de Andrade,sasoripathos",2
+"Elliott Sales de Andrade,Stefanie Molin",2
+"Zac-HD,Tim Hoffmann",2
+"Zac-HD,ImportanceOfBeingErnest",2
+"Zac-HD,Antony Lee",2
+"Zac Hatfield-Dodds,Antony Lee",2
+"Yong Cho Yin,Tim Hoffmann",2
+"Yannic Schroeder,Jody Klymak",2
+"Andrew Fennell,Oscar Gustafsson",2
+"Alvaro Sanchez,alvarosg",2
+"Warren Weckesser,Tim Hoffmann",2
+"Vladimir Ilievski,Jonathan Wheeler",2
+"Vincent Cuenca,ItsRLuo",2
+"Vincent Cuenca,Elliott Sales de Andrade",2
+"Victor Liu,Scott Shambaugh",2
+"Vedant Nanda,Julien Lhermitte",2
+"Dora Fraeman Caswell,hannah",2
+"Dora Fraeman,Thomas A Caswell",2
+"Eric Firing,Benjamin Congdon",2
+"Tuan333,Tuan",2
+"Tuan,Thomas A Caswell",2
+"Trish Gillett-Kawamoto,Thomas A Caswell",2
+"Tortar,Elliott Sales de Andrade",2
+"Tony S Yu,Thomas A Caswell",2
+"Tony S Yu,Adrian Price-Whelan",2
+"Tom Sarantis,Elliott Sales de Andrade",2
+"Tom Neep,Jouni K. Seppänen",2
+"Todd Miller,Steve Chaplin",2
+"Tobias Megies,Michael Droettboom",2
+"Tim Hoffmann,pharshalp",2
+"Eric Firing,Steve Chaplin",2
+"Tim Hoffmann,lganic",2
+"Tim Hoffmann,dependabot[bot]",2
+"Tim Hoffmann,Steffen Rehberg",2
+"Andrew Straw,Norbert Nemec",2
+"Andrew Straw,Jae-Joon Lee",2
+"Tim Hoffmann,Oriol Abril",2
+"Tim Hoffmann,Harshal Prakash Patankar",2
+"Tim Hoffmann,Eric Prestat",2
+"Antony Lee,Alvaro Sanchez",2
+"Till Stensitzki,Damon McDougall",2
+"Tian Xia,Paul Hobson",2
+"Thomas Spura,Elliott Sales de Andrade",2
+"Thomas Levine,hannah",2
+"Thomas A Caswell,shawnchen",2
+"Eric Prestat,Elliott Sales de Andrade",2
+"Eric Ma,Jens Hedegaard Nielsen",2
+"Eric Larson,Tim Hoffmann",2
+"Eric Larson,Thomas A Caswell",2
+"Eric Larson,Elliott Sales de Andrade",2
+"Eric Firing,pkienzle",2
+"Eric Firing,pharshalp",2
+"Thomas A Caswell,hershen",2
+"Thomas A Caswell,Víctor Zabalza",2
+"Antony Lee,Frank Sauerburger",2
+"Antony Lee,Jouni K. Seppänen",2
+"Thomas A Caswell,Mad Physicist",2
+"Thomas A Caswell,Julian Mehne",2
+"Thomas A Caswell,Jens H Nielsen",2
+"Thomas A Caswell,ImportanceOfBeingErnest",2
+"Thomas A Caswell,Ian Thomas",2
+"Thomas A Caswell,Cimarron Mittelsteadt",2
+"Divyam Madaan,David Stansby",2
+"Dietrich Brunn,Eric Firing",2
+"Antony Lee,Paul Gierz",2
+"Antony Lee,Olivier C",2
+"Taehoon Lee,Elliott Sales de Andrade",2
+"Taehoon Lee,David Stansby",2
+"Stuart Mumford,Thomas A Caswell",2
+"Steve Chaplin,Norbert Nemec",2
+"Steve Chaplin,Jochen Voss",2
+"Steve Chaplin,Darren Dale",2
+"Steffen Rehberg,MeeseeksMachine",2
+"Steffen Rehberg,Jody Klymak",2
+"Stefan van der Walt,Christoph Gohlke",2
+"Stefan Mitic,Antony Lee",2
+"Antony Lee,Stefan Mitic",2
+"Antony Lee,Ryan May",2
+"SnorfYang,Ruth Comer",2
+"Felix Goudreault,Thomas A Caswell",2
+"Felipe,Michael Droettboom",2
+"Fabien Maussion,Eric Firing",2
+"Scott Shambaugh,LemonBoy",2
+"Salil Vanvari,Elliott Sales de Andrade",2
+"Ryan May,nemanja",2
+"Ryan May,Manuel Metz",2
+"Antony Lee,andrzejnovak",2
+"Antony Lee,Yong Cho Yin",2
+"Antony Lee,Thomas Hisch",2
+"Ruth Comer,Lucx33",2
+"Ruth Comer,Elliott Sales de Andrade",2
+"Richard Sheridan,richardsheridan",2
+"ResidentMario,hannah",2
+"Ratnabali Dutta,Oscar Gustafsson",2
+"Ratnabali Dutta,Kyle Sunden",2
+"Raphael,Raphael Quast",2
+"Frank Yu,Benjamin Root",2
+"Fernando Perez,Eric Firing",2
+"QiCuiHub,btang02",2
+"Anubhav Shrimal,MeeseeksMachine",2
+"Antony Lee,yeo",2
+"Antony Lee,tillsten",2
+"Antony Lee,myyc",2
+"Antony Lee,luz.paz",2
+"Photoniker,Johann Krauter",2
+"Phil Elson,Nelle Varoquaux",2
+"Peter Iannucci,Elliott Sales de Andrade",2
+"Pete Peterson,Thomas A Caswell",2
+"Pete Huang,Thomas A Caswell",2
+"Pete Huang,David Stansby",2
+"David Stansby,patniharshit",2
+"David Stansby,Scott Shambaugh",2
+"David Stansby,Ryan",2
+"Paul Ivanov,Damon McDougall",2
+"Paul Hobson,Naoya Kanai",2
+"Paul Hobson,Michael Droettboom",2
+"Paul Hobson,Eric Firing",2
+"Paul Hobson,Antony Lee",2
+"Paul,Antony Lee",2
+"Oscar Gustafsson,trananso",2
+"Oscar Gustafsson,saranti",2
+"Oscar Gustafsson,hannah",2
+"Oscar Gustafsson,Stefanie Molin",2
+"Oscar Gustafsson,Ratnabali Dutta",2
+"Oscar Gustafsson,MeeseeksMachine",2
+"Haoying Zhang,Oscar Gustafsson",2
+"Grégory Lielens,John Hunter",2
+"Greg Lucas,Ruth Comer",2
+"Augusto Borges,Ruth Comer",2
+"Atharva Khare,Thomas A Caswell",2
+"Benjamin Root,Elliott Sales de Andrade",2
+"Benjamin Congdon,Daniel C. Marcu",2
+"Benjamin Bengfort,Jody Klymak",2
+"Nikita Kniazev,Elliott Sales de Andrade",2
+"Nikita Kniazev,Antony Lee",2
+"Nicolas P. Rougier,Nelle Varoquaux",2
+"Nickolaos Giannatos,Anna Mastori",2
+"Nelle Varoquaux,Tim Hoffmann",2
+"Nelle Varoquaux,Damon McDougall",2
+"Nelle Varoquaux,Chris Holdgraf",2
+"Neil,Christoph Gohlke",2
+"Nathan Musoke,Elliott Sales de Andrade",2
+"Mykola Dvornik,Elliott Sales de Andrade",2
+"Ian Hunt-Isaak,ianhi",2
+"Ian Hunt-Isaak,Tim Hoffmann",2
+"Ian Hunt-Isaak,Elliott Sales de Andrade",2
+"Moritz Boehle,chelseatroy",2
+"Min RK,Thomas A Caswell",2
+"Mike Kaufman,Jae-Joon Lee",2
+"Mike Jarvis,Eric Firing",2
+"Michael Welter,Michael Droettboom",2
+"Blaise Thompson,Antony Lee",2
+"Bingyao Liu,Jody Klymak",2
+"Big Data Tech. Lab 이태훈,Antony Lee",2
+"Benjamin Root,Matthew Brett",2
+"Benjamin Root,Jens Hedegaard Nielsen",2
+"Michael Droettboom,Sameer D'Costa",2
+"Michael Droettboom,Robert Johansson",2
+"Michael Droettboom,Paul Ivanov",2
+"Michael Droettboom,Paul Hobson",2
+"Michael Droettboom,Nic Eggert",2
+"Michael Droettboom,Joel B. Mohler",2
+"David Stansby,Eric Firing",2
+"Ian Thomas,Thomas A Caswell",2
+"CJ Carey,Michael Droettboom",2
+"Bussonnier Matthias,Thomas A Caswell",2
+"Bruno Beltran,Tim Hoffmann",2
+"Michael Droettboom,David Kaplan",2
+"Michael Droettboom,Daniel Hyams",2
+"Michael Droettboom,Damon McDougall",2
+"Michael Droettboom,Christoph Gohlke",2
+"Michael Droettboom,Andrew Straw",2
+"Melissa Weber Mendonça,melissawm",2
+"Melissa Weber Mendonça,hannah",2
+"Jae-Joon Lee,Andrew Straw",2
+"ItsRLuo,Elliott Sales de Andrade",2
+"ImportanceOfBeingErnest,Zac Hatfield-Dodds",2
+"Importance of Being Ernest,Thomas A Caswell",2
+"MeeseeksMachine,Antony Lee",2
+"Maximilian Nöthe,David Stansby",2
+"Maximilian Maahn,Thomas A Caswell",2
+"Max Chen,andrzejnovak",2
+"Max Chen,Thomas A Caswell",2
+"Matthias Bussonnier,Thomas A Caswell",2
+"Matthias Bussonnier,Oscar Gustafsson",2
+"Matthias Bussonnier,David Stansby",2
+"Matthias Bussonnier,Bruno Beltran",2
+"Matthew Morrison,Kyle Sunden",2
+"Matthew Brett,Jens Hedegaard Nielsen",2
+"Matthew Brett,Holger Peters",2
+"Jake VanderPlas,Thomas A Caswell",2
+"Jae-Joon Lee,Thomas A Caswell",2
+"Jae-Joon Lee,Phil Elson",2
+"Chaoyi Hu,Kyle Sunden",2
+"Cameron Davidson-Pilon,Thomas A Caswell",2
+"Matt Giuca,Thomas A Caswell",2
+"Matt Giuca,Cimarron Mittelsteadt",2
+"Marvvxi,Tim Hoffmann",2
+"Martin Spacek,pelson",2
+"Manuel Metz,Darren Dale",2
+"Mad Physicist,Thomas A Caswell",2
+"Leon Yin,Nelle Varoquaux",2
+"Leo Singer,Thomas A Caswell",2
+"Lennart Fricke,Thomas A Caswell",2
+"Kyle Sunden,Chahak Mehta",2
+"Jan-Philip Gehrcke,Damon McDougall",2
+"Jan-Hendrik Müller,kolibril13",2
+"James Evans,Eric Firing",2
+"Charles Moad,Eric Firing",2
+"Kieran Ramos,Thomas A Caswell",2
+"Christopher Holdgraf,Chris Holdgraf",2
+"Christopher Holdgraf,Antony Lee",2
+"Christoph Gohlke,Thomas A Caswell",2
+"Christoph Gohlke,Nelle Varoquaux",2
+"Jun Tan,Eric Firing",2
+"Julien Lhermitte,Julien L",2
+"Jouni K. Seppänen,Jae-Joon Lee",2
+"Jouni K. Seppänen,Darren Dale",2
+"Joseph Fox-Rabinovitz,Víctor Zabalza",2
+"John Hunter,Sameer D'Costa",2
+"Colin,MeeseeksMachine",2
+"John Hunter,James Evans",2
+"John Hunter,Grégory Lielens",2
+"Johann Krauter,Photoniker",2
+"Jason Grout,Phil Elson",2
+"Damon McDougall,Thomas A Caswell",2
+"Damon McDougall,Phil Elson",2
+"Johan von Forstner,Max Chen",2
+"Joel B. Mohler,Michael Droettboom",2
+"Jody Klymak,root",2
+"Jody Klymak,pharshalp",2
+"Jody Klymak,melissawm",2
+"Jody Klymak,j1642",2
+"Jody Klymak,Paul Ivanov",2
+"Jody Klymak,Léonard Gérard",2
+"Jody Klymak,Jouni K. Seppänen",2
+"Jody Klymak,Benjamin Root",2
+"Darren Dale,Steve Chaplin",2
+"Darren Dale,Jae-Joon Lee",2
+"David Kua,Zair Mubashar",2
+"David Kua,Thomas A Caswell",2
+"David Kua,David",2
+"David Chudzicki,Tim Hoffmann",2
+"David,David Kua",2
+"Jens Hedegaard Nielsen,AbdealiJK",2
+"Jens Hedegaard Nielsen,Gaute Hope",2
+"Jens Hedegaard Nielsen,Cimarron Mittelsteadt",2
+"Adrien F. VINCENT,Adrien F. Vincent",2
+"Adrien F Vincent,afvincent",2
+"Adrien F Vincent,Jens Hedegaard Nielsen",2
+"Adrien F Vincent,Adrien VINCENT",2
+"switham,Jens H. Nielsen",2
+"sveneschlbeck,Sven Eschlbeck",2
+"story645,Thomas A Caswell",2
+"AbdealiJK,Thomas A Caswell",1
+"Elliott Sales de Andrade,Chahak Mehta",1
+"Elliott Sales de Andrade,Byron Boulton",1
+"Elliott Sales de Andrade,Anthony Lee",1
+"zhoubecky,Antony Lee",1
+"zhangeugenia,Tim Hoffmann",1
+"yuanx749,Steffen Rehberg",1
+"yangyangdotcom,Kyle Sunden",1
+"xbtsw,Ryan D'Souza",1
+"wsykala,Antony Lee",1
+"vraelvrangr,Thomas A Caswell",1
+"Adam Ginsburg,Damon McDougall",1
+"مهدي شينون (Mehdi Chinoune),Elliott Sales de Andrade",1
+"zoehcycy,Cyril Gadal",1
+"shaunwbell,Thomas A Caswell",1
+"sasoripathos,Jody Klymak",1
+"saranti,haaris",1
+"Jens Hedegaard Nielsen,Víctor Zabalza",1
+"Jens Hedegaard Nielsen,Thomas Hisch",1
+"Jens Hedegaard Nielsen,Piti Ongmongkolkul",1
+"Jens Hedegaard Nielsen,Paul Hobson",1
+"Jens Hedegaard Nielsen,Matthew Brett",1
+"Jens Hedegaard Nielsen,Holger Peters",1
+"Jens Hedegaard Nielsen,Eric Firing",1
+"Jens Hedegaard Nielsen,Elliott Sales de Andrade",1
+"Abhinuv Nitin Pitale,Paul",1
+"Adrien F. VINCENT,Adrien F Vincent",1
+"Adrien F Vincent,David Stansby",1
+"Adrien F Vincent,Benjamin Root",1
+"Adrien Chardon,Sterling Smith",1
+"Adrian Price-Whelan,Tony S Yu",1
+"solvents,Kevin Chan",1
+"slackline,Oscar Gustafsson",1
+"Jens Hedegaard Nielsen,Benjamin Root",1
+"David Matos,Thomas A Caswell",1
+"David Matos,Eric Prestat",1
+"David Matos,Antony Lee",1
+"David Kaplan,Jeff Whitaker",1
+"David Huard,Michael Droettboom",1
+"David Haberthür,Antony Lee",1
+"David Gilbertson,Thomas A Caswell",1
+"David Gilbertson,Jody Klymak",1
+"Jens H. Nielsen,Thomas A Caswell",1
+"Danny Hermes,Elliott Sales de Andrade",1
+"Danny,Daniel Weiss",1
+"Daniele Nicolodi,Thomas A Caswell",1
+"Daniel Weiss,Tim Hoffmann",1
+"Jiahao Chen,Elliott Sales de Andrade",1
+"Jeroonk,Thomas A Caswell",1
+"Jody Klymak,Rob Righter",1
+"Jody Klymak,Richard Sheridan",1
+"Jody Klymak,Paul Hobson",1
+"Jody Klymak,Lee Johnston",1
+"Jody Klymak,Larry Bradley",1
+"Jody Klymak,Kevin Ji",1
+"Jody Klymak,Josh Soref",1
+"Jody Klymak,HHest",1
+"Jody Klymak,Greg Lucas",1
+"Jody Klymak,Eric Wieser",1
+"Jody Klymak,Colin",1
+"Jody Klymak,Bruno Beltran",1
+"Jody Klymak,Adrien F. Vincent",1
+"Jochen Voss,Steve Chaplin",1
+"Darren Dale,Travis Oliphant",1
+"Darren Dale,Norbert Nemec",1
+"Damon McDougall,gitj",1
+"Damon McDougall,Tony S Yu",1
+"Damon McDougall,Piti Ongmongkolkul",1
+"Damon McDougall,Paul Ivanov",1
+"Damon McDougall,Nic Eggert",1
+"Damon McDougall,Michael Droettboom",1
+"Damon McDougall,Matthew Brett",1
+"Damon McDougall,Christoph Dann",1
+"Joel Wanner,Elan Ernest",1
+"Joel B. Mohler,Thomas A Caswell",1
+"Joe Kington,Phil Elson",1
+"Jody Klymak,sasoripathos",1
+"Jody Klymak,chuanzhu xu",1
+"Jody Klymak,Xianxiang Li",1
+"Jody Klymak,Taehoon Lee",1
+"Jody Klymak,Ruoyi Xie",1
+"Jens H. Nielsen,JulianCienfuegos",1
+"Jens H. Nielsen,Joe Kington",1
+"Jens H. Nielsen,Jens Hedegaard Nielsen",1
+"Jens H Nielsen,Joel B. Mohler",1
+"Jens H Nielsen,Jens Hedegaard Nielsen",1
+"JelsB,Ryan May",1
+"Jeff Whitaker,jdh2358",1
+"Jeff Whitaker,Michael Droettboom",1
+"Jeff Whitaker,Eric Firing",1
+"Jeff Beck,Thomas A Caswell",1
+"Jeff Beck,Jody Klymak",1
+"JayP16,Francesco Montesano",1
+"Jay Joshi,jayjoshi112711",1
+"Jason Neal,David Stansby",1
+"Daniel C. Marcu,Thomas A Caswell",1
+"Daniel,Tim Hoffmann",1
+"CozyFrog,Ant Lockyer",1
+"ConstableCatnip,Shriya Kalakata",1
+"ConstableCatnip,Koustav Ghosh",1
+"Clément Phan,Tim Hoffmann",1
+"Clement Gilli,saranti",1
+"ClarkeAC,Kyle Sunden",1
+"Cimarron Mittelsteadt,Slav",1
+"John Hunter,Edin Salkovic",1
+"John Hunter,Ben Root",1
+"Johannes Wienke,Thomas A Caswell",1
+"Johannes Kopton,Scott Shambaugh",1
+"Johan von Forstner,johan12345",1
+"Daniel Hyams,Thomas A Caswell",1
+"Daniel Hyams,Michael Droettboom",1
+"Daniel Hitchcock,Kyle Sunden",1
+"Jens H. Nielsen,Leo Singer",1
+"Joseph Fox-Rabinovitz,Thomas A Caswell",1
+"Joseph Fox-Rabinovitz,Elliott Sales de Andrade",1
+"Joseph Fox-Rabinovitz,Benjamin Root",1
+"Joseph Albert,Tim Hoffmann",1
+"Joseph Albert,David Stansby",1
+"Joscha Reimer,David Stansby",1
+"Jonas Camillus Jeppesen,Antony Lee",1
+"John Hunter,Perry Greenfield",1
+"John Hunter,Michiel de Hoon",1
+"Damon McDougall,Anton Akhmerov",1
+"Dale Dai,hannah",1
+"Dakota Blair,Ryan May",1
+"Cyril Gadal,Tim Hoffmann",1
+"CozyFrog,danielcobej",1
+"CozyFrog,Koustav Ghosh",1
+"CozyFrog,Junpei Ota",1
+"Joy Bhalla,Alexander Rudy",1
+"Jouni K. Seppänen,Travis Oliphant",1
+"Jouni K. Seppänen,Thomas Spura",1
+"Jouni K. Seppänen,Ryan May",1
+"Jouni K. Seppänen,Jeff Whitaker",1
+"Jouni K. Seppänen,Fernando Perez",1
+"Jouni K. Seppänen,Charles Moad",1
+"Jouni K. Seppänen,Andrew Straw",1
+"Jouni K. Seppänen,Thomas A Caswell",1
+"Jouni K. Seppänen,Eric Firing",1
+"Joshua Taillon,Thomas A Caswell",1
+"Joshua Stevenson,judfs",1
+"Joshua Stevenson,hannah",1
+"Joshua Stevenson,Thomas A Caswell",1
+"Joshua Barrass,Elliott Sales de Andrade",1
+"Joseph Fox-Rabinovitz,hannah",1
+"Kanchana Ranasinghe,Paul Hobson",1
+"Kaidong Hu,Thomas A Caswell",1
+"Kacper Kowalik (Xarthisius),Tim Hoffmann",1
+"KIU Shueng Chuan,Thomas A Caswell",1
+"K900,Thomas A Caswell",1
+"Junaid Khan,David Stansby",1
+"Junaid Khan,Antony Lee",1
+"Julien Schueller,jschueller",1
+"Julien Lhermitte,Ryan May",1
+"Julien Lhermitte,Antony Lee",1
+"Julien L,Antony Lee",1
+"Julian V. Modesto,Jens Hedegaard Nielsen",1
+"Julian Chen,Oscar Gustafsson",1
+"Julia Sprenger,Nelle Varoquaux",1
+"Juanjo Bazán,Tim Hoffmann",1
+"Juan Nunez-Iglesias,Nelle Varoquaux",1
+"Christoph Gohlke,Jens Hedegaard Nielsen",1
+"Christoph Deil,Thomas A Caswell",1
+"Christoph Dann,Phil Elson",1
+"Christoph Dann,Michael Droettboom",1
+"Christine P. Chai,Lumberbot (aka Jack)",1
+"KheshavKumar,Shriya Kalakata",1
+"Kevin Rose,Thomas A Caswell",1
+"Kevin Mader,Antony Lee",1
+"Kevin Ji,Eric Firing",1
+"Kevin Davies,Damon McDougall",1
+"Kevin Davies,Ben Root",1
+"Kent,kentcr",1
+"Ken McIvor,Michael Droettboom",1
+"Kaustbh,Ruth Comer",1
+"Katy Huff,Thomas A Caswell",1
+"Kanwar245,Christian Stade-Schuldt",1
+"Charles Moad,Manuel Metz",1
+"Kyle Sunden,BuildTools",1
+"Kristen Thyng,Thomas A Caswell",1
+"Koustav Ghosh,ifEricReturnTrue",1
+"Koustav Ghosh,danielcobej",1
+"Koustav Ghosh,CozyFrog",1
+"Konrad Förstner,Thomas A Caswell",1
+"Klara Gerlei,klaragerlei",1
+"Klara Gerlei,Nelle Varoquaux",1
+"Kjell Le,David Stansby",1
+"Kinshuk Dua,Vlad Korolev",1
+"Cimarron Mittelsteadt,MirandaXM",1
+"Cimarron Mittelsteadt,Kimmo Palin",1
+"Cimarron Mittelsteadt,Jens H Nielsen",1
+"Christopher Holdgraf,patniharshit",1
+"Christopher Bradshaw,Tobia De Koninck",1
+"Chris Holdgraf,Moritz Boehle",1
+"Charlie LeWarne,hannah",1
+"Jason Grout,Eric Firing",1
+"Jarrod Millman,Matthew Feickert",1
+"Jarrod Millman,Darren Dale",1
+"Janakarajan Natarajan,Elliott Sales de Andrade",1
+"Jan-Hendrik Müller,Jody Klymak",1
+"Jan Schulz,Vlad Seghete",1
+"Jan Schulz,Michael Droettboom",1
+"Jan Schlüter,Thomas A Caswell",1
+"Jan S. (Milania1),Thomas A Caswell",1
+"James Evans,Thomas A Caswell",1
+"James Evans,Andrew Straw",1
+"James Braza,Elliott Sales de Andrade",1
+"James Addison,David Stansby",1
+"Charles Moad,Norbert Nemec",1
+"Larry Bradley,hannah",1
+"Larry Bradley,Tim Hoffmann",1
+"Larry Bradley,David Stansby",1
+"Laptop11_ASPP2016,Nelle Varoquaux",1
+"Kyra Cho,Elliott Sales de Andrade",1
+"Kyler Brown,Thomas A Caswell",1
+"Kyle Sunden,shriyakalakata",1
+"Kyle Sunden,saikarna913",1
+"Kyle Sunden,devRD",1
+"Kyle Sunden,Pranav",1
+"Kyle Sunden,Prajwal Agrawal",1
+"Kyle Sunden,Greg Lucas",1
+"Kyle Sunden,Felix Goudreault",1
+"Kyle Sunden,Daniel Hitchcock",1
+"Chris Zimmerman,Tim Hoffmann",1
+"Chris Holdgraf,s0vereign",1
+"Maarten Baert,Antony Lee",1
+"MAKOMO,Thomas A Caswell",1
+"Lumberbot (aka Jack),Elliott Sales de Andrade",1
+"Luke Davis,Elliott Sales de Andrade",1
+"Luis Pedro Coelho,Eric Firing",1
+"Lucy Liu,Tim Hoffmann",1
+"Lucy Liu,Johan von Forstner",1
+"Lucx33,litchi",1
+"Loïc Estève,Jens Hedegaard Nielsen",1
+"Liam Toney,Thomas A Caswell",1
+"Lennart Fricke,Alistair Muldal",1
+"LemonBoy,Scott Shambaugh",1
+"Leeh Peter,Péter Leéh",1
+"Lee Johnston,Tim Hoffmann",1
+"Lee Johnston,Thomas A Caswell",1
+"Lee Johnston,Jody Klymak",1
+"Martin Fitzpatrick,Phil Elson",1
+"Mark Wolf,Elliott Sales de Andrade",1
+"Mark Harfouche,Jody Klymak",1
+"Marianne Corvellec,Johan von Forstner",1
+"MarcoGorelli,Elliott Sales de Andrade",1
+"Marcin Swaltek,Elliott Sales de Andrade",1
+"Marcel Martin,David Stansby",1
+"Marat K,Ram Rachum",1
+"Maoz Gelbart,Antony Lee",1
+"Manuel Metz,Ryan May",1
+"Manthan Nagvekar,Tim Hoffmann",1
+"Manish Devgan,Jody Klymak",1
+"Manan,Manan Kevadiya",1
+"Maik Riechert,David Stansby",1
+"Magnus Nord,Michael Droettboom",1
+"Maggie Liu,rawwash",1
+"Chahak Mehta,Tim Hoffmann",1
+"Chahak Mehta,Kyle Sunden",1
+"Chahak Mehta,Elliott Sales de Andrade",1
+"Casper van der Wel,caspervdw",1
+"Carsten Schnober,hannah",1
+"Carsten,Tim Hoffmann",1
+"Carlos Cerqueira,Jody Klymak",1
+"Carlos Cerqueira,Elliott Sales de Andrade",1
+"Cameron Bates,Michael Droettboom",1
+"Cameron,danielcobej",1
+"Matthew Brett,Benjamin Root",1
+"Matt Terry,Julian Taylor",1
+"Matt Giuca,Phil Elson",1
+"Mary Chris Go,Tim Hoffmann",1
+"Martin Spacek,Jody Klymak",1
+"Martin Fitzpatrick,fardal",1
+"Charles,CharlesHe16",1
+"James Adams,Tim Hoffmann",1
+"James A. Bednar,David Stansby",1
+"Jakub Klus,David Stansby",1
+"Jake Vanderplas,Michael Droettboom",1
+"Jake Li,Antony Lee",1
+"Jake Bowhay,Tim Hoffmann",1
+"Jaime Fernandez,jaimefrio",1
+"Jae-Joon Lee,Wes Campaigne",1
+"Jae-Joon Lee,Tim Hoffmann",1
+"Jae-Joon Lee,Sameer D'Costa",1
+"Jae-Joon Lee,Oscar Gustafsson",1
+"Jae-Joon Lee,Jouni K. Seppänen",1
+"Jae-Joon Lee,Jody Klymak",1
+"Charisma Kausar,Antony Lee",1
+"Chaoyi Hu,Thomas A Caswell",1
+"Maximilian Albert,Benjamin Root",1
+"Max,Thomas A Caswell",1
+"Matthias Bussonnier,paul",1
+"Matthias Bussonnier,Samson",1
+"Matthias Bussonnier,Phil Elson",1
+"Matthias Bussonnier,Nikita Kniazev",1
+"Matthias Bussonnier,Jens Hedegaard Nielsen",1
+"Matthew Petroff,Thomas A Caswell",1
+"Matthew Petroff,Matthias Bussonnier",1
+"Matthew Newville,Antony Lee",1
+"Matthew Feickert,Elliott Sales de Andrade",1
+"Matthew Emmett,pwuertz",1
+"Matthew Emmett,Eric Firing",1
+"Matthew Brett,Tobias Megies",1
+"Matthew Brett,Michael Droettboom",1
+"Matthew Brett,Eric Firing",1
+"Melissa Weber Mendonça,Elliott Sales de Andrade",1
+"Jae-Joon Lee,Darren Dale",1
+"JGoutin,Thomas A Caswell",1
+"Isuru Fernando,Ryan May",1
+"Ismo Toijala,Michael Droettboom",1
+"Isaac Schwabacher,Elliott Sales de Andrade",1
+"ImportanceOfBeingErnest,nathan78906",1
+"ImportanceOfBeingErnest,Thomas A Caswell",1
+"ImportanceOfBeingErnest,Elliott Sales de Andrade",1
+"Importance of Being Ernest,David Stansby",1
+"Importance of Being Ernest,Antony Lee",1
+"Ilya V. Schurov,Tim Hoffmann",1
+"Ilya Flyamer,Paul Hobson",1
+"MeeseeksMachine,joaonsg",1
+"MeeseeksMachine,Thomas A Caswell",1
+"MeeseeksMachine,Roman Yurchak",1
+"Bruno Pagani,Antony Lee",1
+"Bruno Beltran,Pratyush Raj",1
+"Brigitta Sipőcz,Ruth Comer",1
+"Brendan Zhang,Thomas A Caswell",1
+"Bradley M. Froehle,Ryan May",1
+"Michael Droettboom,Jeff Whitaker",1
+"Michael Droettboom,Ian Thomas",1
+"Michael Droettboom,Felipe",1
+"Michael Droettboom,Devashish Deshpande",1
+"Michael Droettboom,Cimarron Mittelsteadt",1
+"Michael Droettboom,Brian Mattern",1
+"Michael Droettboom,Bradley M. Froehle",1
+"Michael Droettboom,Benjamin Berg",1
+"Mher Kazandjian,Nelle Varoquaux",1
+"Melissa Weber Mendonça,MeeseeksMachine",1
+"Melissa Weber Mendonça,Kyle Sunden",1
+"David Stansby,Federico Ariza",1
+"David Stansby,Eric Wieser",1
+"David Stansby,Big Data Tech. Lab 이태훈",1
+"David Stansby,Alex Rudy",1
+"David Stansby,Adrien F. Vincent",1
+"David Poznik,Elliott Sales de Andrade",1
+"David Poznik,David Stansby",1
+"Ildar Akhmetgaleev,Tim Hoffmann",1
+"Ian Thomas,Stephan Erb",1
+"Ian Thomas,OceanWolf",1
+"Ian Thomas,Michael Droettboom",1
+"CJ Carey,Cimarron Mittelsteadt",1
+"Bussonnier Matthias,Matthias BUSSONNIER",1
+"BuildTools,Oscar Gustafsson",1
+"Bryan Kok,Tim Hoffmann",1
+"Bruno Zohreh,Zohreh",1
+"Michael Droettboom,dhyams",1
+"Michael Droettboom,Zac-HD",1
+"Michael Droettboom,Till Stensitzki",1
+"Michael Droettboom,Thomas Robitaille",1
+"Michael Droettboom,Thomas Kluyver",1
+"Michael Droettboom,Steven Silvester",1
+"Michael Droettboom,Ryan Blomberg",1
+"Michael Droettboom,MinRK",1
+"Michael Droettboom,Maximilian Albert",1
+"Michael Droettboom,Marc Abramowitz",1
+"Michael Droettboom,Ken McIvor",1
+"Michael Droettboom,Julian Taylor",1
+"Caitlin Hathaway,Tim Hoffmann",1
+"David Stansby,Kyle Sunden",1
+"David Stansby,Kjell Le",1
+"David Stansby,Junaid Khan",1
+"Molly Rossow,Antony Lee",1
+"Mihai Anton,Jody Klymak",1
+"Michiel de Hoon,Phil Elson",1
+"Michał Górny,Thomas A Caswell",1
+"Michaël Defferrard,Jody Klymak",1
+"Michael Jancsy,Jody Klymak",1
+"Michael Droettboom,pelson",1
+"Boaz Mohar,Tim Hoffmann",1
+"Bingyao Liu,Elliott Sales de Andrade",1
+"Bingyao Liu,David Stansby",1
+"Binaya Sharma,hannah",1
+"Binaya Sharma,Thomas A Caswell",1
+"Bharat123rox,Tim Hoffmann",1
+"Benjamin Root,Till Stensitzki",1
+"Benjamin Root,Olga Botvinnik",1
+"Benjamin Root,Jan-Philip Gehrcke",1
+"Ian Thomas,Eric Firing",1
+"Ian Thomas,Antony Lee",1
+"Hugues Hoppe,Kyle Sunden",1
+"Hugo van Kemenade,Thomas A Caswell",1
+"Hubert Holin,endolith",1
+"Hood,Tim Hoffmann",1
+"Herbert Kruitbosch,Benjamin Root",1
+"Heiko Oberdiek,Thomas A Caswell",1
+"Heath Henley,Nelle Varoquaux",1
+"Hastings Greer,Adrien Chardon",1
+"Harutaka Kawamura,harupy",1
+"Harshal Prakash Patankar (pharshalp),Thomas A Caswell",1
+"Harsh Sharma,Tim Hoffmann",1
+"Moritz Wolter,Elliott Sales de Andrade",1
+"Moritz Boehle,David Stansby",1
+"Molly Rossow,David Stansby",1
+"Nelle Varoquaux,Heath Henley",1
+"Nelle Varoquaux,Hakan Kucukdereli",1
+"Nelle Varoquaux,Bruno Zohreh",1
+"Neil,Michael Droettboom",1
+"Navid C. Constantinou,Tim Hoffmann",1
+"Nathaniel M. Beaver,Antony Lee",1
+"Nathan Musoke,Benjamin Root",1
+"Nathan Goldbaum,Jody Klymak",1
+"Nathan Goldbaum,Adam Gomaa",1
+"Nathan G. Wiseman,Ruth Comer",1
+"Nathan G. Wiseman,Pranav",1
+"Naoya Kanai,Elliott Sales de Andrade",1
+"NISHANT KUMAR,Kyle Sunden",1
+"Muhammad Abdur Rakib,Tim Hoffmann",1
+"Muhammad Abdur Rakib,Oscar Gustafsson",1
+"Mudit Surana,David Stansby",1
+"Nikita Kniazev,Daniel C. Marcu",1
+"Nik Quibin,Jody Klymak",1
+"Nicolas Rougier,Thomas A Caswell",1
+"Nicolas P. Rougier,Nikita Kniazev",1
+"Nico Schlömer,Thomas A Caswell",1
+"Nickolaos Giannatos,Oscar Gustafsson",1
+"Nick Papior,David Stansby",1
+"Nick Garvey,David Stansby",1
+"Niall Robinson,Michael Droettboom",1
+"Nelle Varoquaux,sindunuragarp",1
+"Nelle Varoquaux,Tobias Megies",1
+"Nelle Varoquaux,Phil Elson",1
+"Nelle Varoquaux,Nicolas P. Rougier",1
+"Nelle Varoquaux,Nic Eggert",1
+"Nelle Varoquaux,Matthew Brett",1
+"Nelle Varoquaux,Manuel GOACOLOU",1
+"Benjamin Reedlunn,Chris G",1
+"Benjamin Congdon,Viraj Mohile",1
+"Benjamin Congdon,Eric Firing",1
+"Benedikt Daurer,Thomas A Caswell",1
+"Benedikt Daurer,Seraphim Alvanides",1
+"Benedikt Daurer,Nelle Varoquaux",1
+"Ben Root,Michael Droettboom",1
+"Ben Root,Jouni K. Seppänen",1
+"Ben Root,Jae-Joon Lee",1
+"Ben Root,Eric Firing",1
+"Nikita Kniazev,Paul Hobson",1
+"Nikita Kniazev,Michael Droettboom",1
+"Nikita Kniazev,Jens Hedegaard Nielsen",1
+"Nikita Kniazev,Jan Schulz",1
+"Nikita Kniazev,Eric Firing",1
+"Nikita Kniazev,David Stansby",1
+"Oscar Gustafsson,Aitik Gupta",1
+"Olivier,Tim Hoffmann",1
+"Oliver Natt,Thomas A Caswell",1
+"Olga Botvinnik,Marin Gilles",1
+"OceanWolf,Thomas A Caswell",1
+"Obliman,Nathan Hansen",1
+"O. Castany,Olivier",1
+"Norbert Nemec,Darren Dale",1
+"Norbert Nemec,Charles Moad",1
+"Norbert Nemec,Andrew Straw",1
+"Niyas Sait,Thomas A Caswell",1
+"Niyas Sait,Antony Lee",1
+"Nils Werner,Michael Droettboom",1
+"Nikita Kniazev,cgohlke",1
+"Benjamin Root,Bradley M. Froehle",1
+"Benjamin Reedlunn,Francesco Montesano",1
+"Behram Mistree,Thomas A Caswell",1
+"Bastian Bechtold,Tim Hoffmann",1
+"Bastian Bechtold,ImportanceOfBeingErnest",1
+"BHT,Robin Dunn",1
+"Atharva Khare,Nelle Varoquaux",1
+"Atharva Khare,Antony Lee",1
+"Astra,Tim Hoffmann",1
+"Arvind,Paul Hobson",1
+"Artyom Romanov,hannah",1
+"Arthur Paulino,Jody Klymak",1
+"Oscar Gustafsson,Joshua Barrass",1
+"Oscar Gustafsson,Jae-Joon Lee",1
+"Oscar Gustafsson,Jacob Stevens-Haas",1
+"Oscar Gustafsson,Ian Hunt-Isaak",1
+"Oscar Gustafsson,David Poznik",1
+"Oscar Gustafsson,David Gilbertson",1
+"Ben Greiner,Tim Hoffmann",1
+"Ben Gamari,Ryan May",1
+"Harnesser,David Stansby",1
+"Hanno Rein,Jody Klymak",1
+"Hakan Kucukdereli,Nelle Varoquaux",1
+"Hajoon Choi,roonjoot",1
+"HHest,Eric Firing",1
+"Guillermo Breto,David Stansby",1
+"Guillaume Gay,Michael Droettboom",1
+"Greg Lucas,Tobias Hangleiter",1
+"Greg Lucas,Raphael",1
+"Greg Lucas,PIotr Strzelczyk",1
+"Greg Lucas,Matthew Feickert",1
+"Graham Poulter,Stefan van der Walt",1
+"Graham Poulter,Simon Cross",1
+"Ben,Thomas A Caswell",1
+"Paul Hobson,Jake VanderPlas",1
+"Paul Hobson,Elan Ernest",1
+"Paul Gierz,Antony Lee",1
+"Paul Ganssle,Eric Firing",1
+"Paul Barret,Todd Miller",1
+"Paul Barret,Andrew Straw",1
+"Patrick Marsh,Martin Spacek",1
+"Pastafarianist,Lionel Miller",1
+"Pankaj Pandey,Michael Droettboom",1
+"Pamela Wu,Thomas A Caswell",1
+"Owl,Thomas A Caswell",1
+"Oscar Gustafsson,tfpf",1
+"Oscar Gustafsson,patquem",1
+"Oscar Gustafsson,Yi Wei",1
+"Oscar Gustafsson,Scott Jones",1
+"Oscar Gustafsson,Rob Righter",1
+"Pedro Peçanha,Pedro",1
+"Pedro Peçanha,Antony Lee",1
+"Pedro,Pedro Peçanha",1
+"Pavel Grunt,Tim Hoffmann",1
+"Paul Seyfert,David Stansby",1
+"Paul Romano,Michael Droettboom",1
+"Paul Kirow,Kyle Bridgemohansingh",1
+"Paul J. Koprowski,Antony Lee",1
+"Paul Ivanov,ugurthemaster",1
+"Paul Ivanov,jdh2358",1
+"Paul Ivanov,William Granados",1
+"Paul Ivanov,Paul Hobson",1
+"Paul Ivanov,Antony Lee",1
+"Paul Hobson,vagrant",1
+"Paul Hobson,hannah",1
+"Paul Hobson,Paul Ivanov",1
+"Per Parker,solvents",1
+"Deng Tian,Tim Hoffmann",1
+"David Stansby,Viraj Mohile",1
+"David Stansby,Tom Dupré la Tour",1
+"David Stansby,Ruth Comer",1
+"David Stansby,Paul Hobson",1
+"David Stansby,Paul Ganssle",1
+"David Stansby,MeeseeksMachine",1
+"David Stansby,Maximilian Nöthe",1
+"Gokberk Gunes,Antony Lee",1
+"Geoffrey Spear,Steven Tilley",1
+"GavinZhang,Thomas A Caswell",1
+"Gavin S,Ruth Comer",1
+"Galen Lynch,Elan Ernest",1
+"Per Parker,kelsiegr",1
+"Per,Kevin Chan",1
+"Phil Elson,pwuertz",1
+"Phil Elson,kcrisman",1
+"Phil Elson,Steven Silvester",1
+"Phil Elson,Richard Hattersley",1
+"Phil Elson,Peter Würtz",1
+"Phil Elson,Paul Ivanov",1
+"Phil Elson,Matt Giuca",1
+"Phil Elson,Martin Spacek",1
+"Phil Elson,Damon McDougall",1
+"Petros Tzathas,Elliott Sales de Andrade",1
+"Peter Talley,Tim Hoffmann",1
+"Peter Mortensen,Benjamin Root",1
+"Peter Mackenzie-Helnwein,Jody Klymak",1
+"Pete Huang,Nelle Varoquaux",1
+"Pete Huang,Antony Lee",1
+"Perry Greenfield,Todd Miller",1
+"Antony Lee,stone",1
+"Antony Lee,richardsheridan",1
+"Antony Lee,pharshalp",1
+"Antony Lee,neok-m4700",1
+"Antony Lee,nemanja",1
+"Antony Lee,miquelastein",1
+"Antony Lee,luz paz",1
+"Antony Lee,ksafran",1
+"Pieter Eendebak,Tim Hoffmann",1
+"Pieter Eendebak,Oscar Gustafsson",1
+"Pierre de Buyl,Thomas A Caswell",1
+"Pierre Thibault,David Stansby",1
+"Pierre Haessig,Big Data Tech. Lab 이태훈",1
+"Philipp Rohde,Antony Lee",1
+"Philipp Nagel,Elliott Sales de Andrade",1
+"Philipp Arras,Antony Lee",1
+"Ram Rachum,Thomas A Caswell",1
+"Ram Rachum,Omar Chehab",1
+"Ram Rachum,Marat K",1
+"Ram Rachum,Elliott Sales de Andrade",1
+"Raghuram Sirigiri,hannah",1
+"Quentin Peter,Thomas A Caswell",1
+"Quentin Peter,Jody Klymak",1
+"Qingpeng ""Q.P."" Zhang,Thomas A Caswell",1
+"Péter Leéh,Tim Hoffmann",1
+"Pranav,Ruth Comer",1
+"Pranav,Kyle Sunden",1
+"Pranav,Elliott Sales de Andrade",1
+"Pieter P,Tim Hoffmann",1
+"Ariel Hernán Curiale,curiale",1
+"Arie,Thomas A Caswell",1
+"Ardie Orden,Tim Hoffmann",1
+"Franco Vaccari,Elliott Sales de Andrade",1
+"Francesco Montesano,JayP16",1
+"Francesco Montesano,Giovanni",1
+"Francesco Montesano,Cimarron Mittelsteadt",1
+"Francesco Montesano,Benjamin Reedlunn",1
+"Forrest,Jody Klymak",1
+"Florian Rhiem,Thomas A Caswell",1
+"Florencia Noriega,Nelle Varoquaux",1
+"Filippo Balzaretti,Tim Hoffmann",1
+"Filipe,Maksym P",1
+"Filip Dimitrovski,Antony Lee",1
+"Fernando Perez,Jouni K. Seppänen",1
+"Fernando,David Stansby",1
+"Randy Olson,Thomas A Caswell",1
+"Randolf Scholz,Kyle Sunden",1
+"Ramiro Gómez,Thomas A Caswell",1
+"Robin Wilson,Thomas A Caswell",1
+"Robin Dunn,Michael Droettboom",1
+"Robert Johansson,Michael Droettboom",1
+"Rike-Benjamin Schuppner,Tim Hoffmann",1
+"Richard Sheridan,Thomas A Caswell",1
+"Richard Sheridan,Jody Klymak",1
+"Richard Ji-Cathriner,Thomas A Caswell",1
+"Ricardo Mendes,Antony Lee",1
+"Reinier Heeres,John Hunter",1
+"Ratnabali Dutta,devRD",1
+"Ratnabali Dutta,Elliott Sales de Andrade",1
+"Ratin_Kumar,gwin-zegal",1
+"Raphael Quast,Elliott Sales de Andrade",1
+"Raphael,n-aswin",1
+"Raphael,Thomas A Caswell",1
+"Frank Sauerburger,Antony Lee",1
+"Antony Lee,Vishal Chandratreya",1
+"Ryan May,David Stansby",1
+"Ryan May,Ben Gamari",1
+"Ryan May,Adam Williamson",1
+"Ryan Blomberg,Michael Droettboom",1
+"Ruth Comer,kjain",1
+"Ruth Comer,Mario Sergio Valdés Tresanco",1
+"Ruth Comer,Antony Lee",1
+"Ruth Comer,Andrew Landau",1
+"Ruth Comer,Adam J. Stewart",1
+"Ruoyi Xie,madisonwong210",1
+"Roy Smith,Thomas A Caswell",1
+"RoryIAngus,Tim Hoffmann",1
+"Roman Yurchak,Tim Hoffmann",1
+"Roland Wirth,Wieland Hoffmann",1
+"Rohan Walker,Thomas A Caswell",1
+"Salganos,Antony Lee",1
+"Saket Choudhary,Nelle Varoquaux",1
+"Sai Chaitanya, Sanivada,Tim Hoffmann",1
+"Ryan Nelson,François Magimel",1
+"Ryan Morshead,Thomas A Caswell",1
+"Ryan May,Phil Elson",1
+"Ryan May,Pavol Juhas",1
+"Ryan May,MeeseeksMachine",1
+"Ryan May,Jens Hedegaard Nielsen",1
+"Ryan May,Elliott Sales de Andrade",1
+"Antony Lee,donchanee",1
+"Antony Lee,dabana",1
+"Antony Lee,chuanzhu xu",1
+"Antony Lee,ZWL",1
+"Antony Lee,Xianxiang Li",1
+"Antony Lee,Vlas Sokolov",1
+"Scott Shambaugh,Thomas A Caswell",1
+"Scott Shambaugh,Obliman",1
+"Scott Shambaugh,Manthan Nagvekar",1
+"Scott Lasley,Michael Droettboom",1
+"Scott Jones,Oscar Gustafsson",1
+"Sander,Benjamin Root",1
+"Samuel St-Jean,Thomas A Caswell",1
+"Samson,Salil Vanvari",1
+"Samson,Dietrich Brunn",1
+"Sameer D'Costa,James Evans",1
+"SamSchott,Thomas A Caswell",1
+"Sam Van Kooten,Antony Lee",1
+"Sam Tygier,Tim Hoffmann",1
+"Sam Tygier,Antony Lee",1
+"Salil Vanvari,Samson",1
+"Salil Vanvari,Nelle Varoquaux",1
+"Sidharth Bansal,Antony Lee",1
+"Sidharth,Sidharth Bansal",1
+"Siddhesh Poyarekar,Tim Hoffmann",1
+"Shriya Kalakata,Tim Hoffmann",1
+"Shriya Kalakata,ConstableCatnip",1
+"Sheepfan0828,CozyFrog",1
+"ShawnChen1996,shawnchen1996",1
+"Shawn Zhong,j1642",1
+"Sergey Kholodilov,Nelle Varoquaux",1
+"Sergey B Kirpichev,David Stansby",1
+"Seraphim Alvanides,Benedikt Daurer",1
+"Seohyeon Lee,danielcobej",1
+"Sean Smith,Elliott Sales de Andrade",1
+"Scott Shambaugh,patquem",1
+"Scott Shambaugh,krassowski",1
+"Scott Shambaugh,hannah",1
+"Felix Yan,Matthias Bussonnier",1
+"Felix,V. R",1
+"Federico Ariza,patchen",1
+"Federico Ariza,Elliott Sales de Andrade",1
+"Federico Ariza,DietmarSchwertberger",1
+"Federico Ariza,Benjamin Root",1
+"Federico Ariza,Antony Lee",1
+"FedeMiorelli,Thomas A Caswell",1
+"Fabio Zanini,ryanbelt",1
+"Evgenii Radchenko,Kyle Sunden",1
+"Eugene Yurtsev,Steven Silvester",1
+"Eugene Yurtsev,Nelle Varoquaux",1
+"Erin Pintozzi,David Stansby",1
+"Simon Legner,Antony Lee",1
+"Simon Cross,Graham Poulter",1
+"Sidharth Bansal,Sidharth",1
+"Stanley, Simon,Niall Robinson",1
+"Spencer McCoubrey,Elliott Sales de Andrade",1
+"Sourav Singh,David Stansby",1
+"Antony Lee,Takafumi Arakaki",1
+"Antony Lee,Steven G. Johnson",1
+"Antony Lee,Sterling Smith",1
+"Antony Lee,Stefanie Molin",1
+"Antony Lee,Sidharth Bansal",1
+"Antony Lee,ShawnChen1996",1
+"Antony Lee,Saket Choudhary",1
+"Antony Lee,Richard Penney",1
+"Antony Lee,Raphael",1
+"Antony Lee,Pete Huang",1
+"SnorfYang,devRD",1
+"Slav,basharovV",1
+"Slav,Thomas A Caswell",1
+"Stephane Raynaud,Elliott Sales de Andrade",1
+"Steffen Rehberg,Ruth Comer",1
+"Steffen Rehberg,David Stansby",1
+"Steffen Rehberg,Antony Lee",1
+"Stefano Rivera,Neil",1
+"Stefanie Molin,tsumli",1
+"Stefanie Molin,Tim Hoffmann",1
+"Stefanie Molin,Oscar Gustafsson",1
+"Stefanie Molin,Elliott Sales de Andrade",1
+"Stefanie Molin,Antony Lee",1
+"Stefan van der Walt,Michael Droettboom",1
+"Stefan van der Walt,Graham Poulter",1
+"Stefan Pfenninger,Thomas A Caswell",1
+"Stefan Mitic,Tim Hoffmann",1
+"Stefan Mitic,Elliott Sales de Andrade",1
+"Stefan Lehmann,Thomas A Caswell",1
+"Ted Drain,Tim Hoffmann",1
+"Tanuj,Zac-HD",1
+"Tamas Gal,Slav",1
+"Takumasa N.,Takumasa N",1
+"Takafumi Arakaki,Thomas A Caswell",1
+"Taehoon Lee,Tim Hoffmann",1
+"Tadeo Corradi,Florencia Noriega",1
+"Sven Eschlbeck,MeeseeksMachine",1
+"Stuart Mumford,Stefan van der Walt",1
+"Steven Tilley,Nelle Varoquaux",1
+"Steven Tilley,Geoffrey Spear",1
+"Steven Silvester,Erik M. Bray",1
+"Steve Dower,Antony Lee",1
+"Stephen Sinclair,Elliott Sales de Andrade",1
+"Stephen Sinclair,Antony Lee",1
+"Stephane Raynaud,MuhammadFarooq1234",1
+"Antony Lee,Pavel Fedin",1
+"Antony Lee,Paul J. Koprowski",1
+"Antony Lee,Paul Ivanov",1
+"Antony Lee,Nick Papior",1
+"Antony Lee,Naoya Kanai",1
+"Antony Lee,NISHANT KUMAR",1
+"Antony Lee,Michaël Defferrard",1
+"Antony Lee,Max Chen",1
+"Thomas A Caswell,Atharva Khare",1
+"Thomas A Caswell,Andrew Dawson",1
+"Thomas A Caswell,Aitik Gupta",1
+"Thomas A Caswell,Adrien F Vincent",1
+"Thomas A Caswell,Adam Turner",1
+"Terrence Katzenbaer,David Stansby",1
+"Terrence J. Katzenbaer,Thomas A Caswell",1
+"Terence Honles,Elliott Sales de Andrade",1
+"Thomas A Caswell,Bradley Dice",1
+"Erik M. Bray,Thomas A Caswell",1
+"Diogo Cardoso,saranti",1
+"Dimitri Papadopoulos,Antony Lee",1
+"Dietrich Brunn,Ryan May",1
+"Dietrich Brunn,Nathan Musoke",1
+"DietmarSchwertberger,Thomas A Caswell",1
+"DietmarSchwertberger,Antony Lee",1
+"Diego Mora Cespedes,Thomas A Caswell",1
+"Devilsaint,hannah",1
+"Devashish Deshpande,Thomas A Caswell",1
+"Devashish Deshpande,Michael Droettboom",1
+"Derek Tropf,Jody Klymak",1
+"Derek Tropf,Elliott Sales de Andrade",1
+"DerWeh,Oscar Gustafsson",1
+"Thomas A Caswell,Benjamin Congdon",1
+"Thomas A Caswell,James Evans",1
+"Thomas A Caswell,Jae-Joon Lee",1
+"Thomas A Caswell,J. Goutin",1
+"Thomas A Caswell,Hassan Kibirige",1
+"Thomas A Caswell,Francesco Montesano",1
+"Thomas A Caswell,Florian Rhiem",1
+"Thomas A Caswell,Felix Yan",1
+"Thomas A Caswell,Erik Bray",1
+"Thomas A Caswell,Eric Wieser",1
+"Thomas A Caswell,Eric Prestat",1
+"Thomas A Caswell,Dr. Thomas A Caswell",1
+"Thomas A Caswell,DoriekeMG",1
+"Thomas A Caswell,Dora Fraeman",1
+"Thomas A Caswell,DietmarSchwertberger",1
+"Thomas A Caswell,Daniel C. Marcu",1
+"Thomas A Caswell,Christoph Gohlke",1
+"Antony Lee,Joshua Barrass",1
+"Antony Lee,Joseph Fox-Rabinovitz",1
+"Antony Lee,Jens Hedegaard Nielsen",1
+"Antony Lee,Jean-Benoist Leger",1
+"Antony Lee,Jason Neal",1
+"Antony Lee,Jann Paul Mattern",1
+"Thomas A Caswell,Matt Giuca",1
+"Thomas A Caswell,Martin Dengler",1
+"Thomas A Caswell,Leo Singer",1
+"Thomas A Caswell,Lee Johnston",1
+"Thomas A Caswell,Kevin Rose",1
+"Thomas A Caswell,Julia Sprenger",1
+"Thomas A Caswell,Joy Bhalla",1
+"Thomas A Caswell,Joseph Jon Booker",1
+"Thomas A Caswell,John Vandenberg",1
+"Thomas A Caswell,Jens H. Nielsen",1
+"Antony Lee,Christopher Holdgraf",1
+"Thomas A Caswell,Rohan Walker",1
+"Thomas A Caswell,Richard Sheridan",1
+"Thomas A Caswell,Remi Rampin",1
+"Thomas A Caswell,Peter Würtz",1
+"Thomas A Caswell,Pete Huang",1
+"Thomas A Caswell,Niyas Sait",1
+"Thomas A Caswell,Maximilian Maahn",1
+"Thomas A Caswell,Matthias Bussonnier",1
+"Antony Lee,Matthew Brett",1
+"Antony Lee,MarcoGorelli",1
+"Antony Lee,Leo Singer",1
+"Antony Lee,Kjell Le",1
+"Antony Lee,Kian Eliasi",1
+"Antony Lee,Kevin Mader",1
+"Antony Lee,Kanchana Ranasinghe",1
+"Thomas A Caswell,cclauss",1
+"Thomas A Caswell,captainwhippet",1
+"Thomas A Caswell,Yuval Langer",1
+"Thomas A Caswell,Wen Li",1
+"Thomas A Caswell,Stuart Mumford",1
+"Thomas A Caswell,Slav",1
+"Thomas A Caswell,Simon Legner",1
+"Thomas A Caswell,Ryan Morshead",1
+"Antony Lee,Jan Schlüter",1
+"Antony Lee,James Adams",1
+"Antony Lee,Jake Li",1
+"Antony Lee,Erik M. Bray",1
+"Antony Lee,Eric Wieser",1
+"Antony Lee,Elan Ernest",1
+"Antony Lee,Deng Tian",1
+"Antony Lee,DWesl",1
+"Thomas A Caswell,luzpaz",1
+"Thomas A Caswell,luz paz",1
+"Erik Bray,Thomas A Caswell",1
+"Eric Wieser,Zac-HD",1
+"Eric Wieser,MeeseeksMachine",1
+"Eric Relson,Antony Lee",1
+"Eric Prestat,Tortar",1
+"Eric Prestat,David Stansby",1
+"Eric Prestat,Aitik Gupta",1
+"Eric Firing,sasoripathos",1
+"Eric Firing,pwuertz",1
+"Thomas A Caswell,kshramt",1
+"Thomas A Caswell,jeffreypaul15",1
+"Thomas A Caswell,fredrik-1",1
+"Thomas A Caswell,daniilS",1
+"Thomas A Caswell,dabana",1
+"Anthony Lee,Tim Hoffmann",1
+"Till Stensitzki,Richard Hattersley",1
+"Till Hoffmann,Tim Hoffmann",1
+"Till Hoffmann,Thomas A Caswell",1
+"Tigran Khachatryan,Ruth Comer",1
+"Thorsten Liebig,Eric Firing",1
+"Thomas Robitaille,Sandro Tosi",1
+"Thomas Robitaille,Michael Droettboom",1
+"Thomas Robitaille,David Stansby",1
+"Thomas Kluyver,Michael Droettboom",1
+"Thomas Hisch,Jens H Nielsen",1
+"Thomas A Caswell,zhoubecky",1
+"Thomas A Caswell,zhangeugenia",1
+"Thomas A Caswell,saranti",1
+"Thomas A Caswell,pharshalp",1
+"Thomas A Caswell,pelson",1
+"Tim Hoffmann,Doron Behar",1
+"Tim Hoffmann,David Poznik",1
+"Tim Hoffmann,Cody Scot",1
+"Tim Hoffmann,Alexander Schlüter",1
+"Antony Lee,Christoph Deil",1
+"Antony Lee,Chahak Mehta",1
+"Antony Lee,Bruno Pagani",1
+"Antony Lee,Bingyao Liu",1
+"Antony Lee,Benjamin Congdon",1
+"Antony Lee,Bastian Bechtold",1
+"Antony Lee,Alon Hershenhorn",1
+"Antony Lee,Akshay Nair",1
+"Antony Lee,Adrien F. Vincent",1
+"Antony Lee,Adrien F Vincent",1
+"Antony Lee,Abhinuv Nitin Pitale",1
+"Anthony Scopatz,Naoya Kanai",1
+"Tim Hoffmann,Leo Singer",1
+"Tim Hoffmann,Lee Johnston",1
+"Tim Hoffmann,Kevin Rose",1
+"Tim Hoffmann,Jeff Beck",1
+"Tim Hoffmann,Jean-Benoist Leger",1
+"Tim Hoffmann,James Salsman",1
+"Tim Hoffmann,Jakub Klus",1
+"Tim Hoffmann,Jake Bowhay",1
+"Tim Hoffmann,Inception95",1
+"Tim Hoffmann,ImportanceOfBeingErnest",1
+"Tim Hoffmann,Illviljan",1
+"Tim Hoffmann,Ildar Akhmetgaleev",1
+"Tim Hoffmann,Ian Thomas",1
+"Tim Hoffmann,Ian Hunt-Isaak",1
+"Tim Hoffmann,Harry Knight",1
+"Tim Hoffmann,HHest",1
+"Anna Mastori,Nickolaos Giannatos",1
+"Anna Mastori,Antony Lee",1
+"Ankur Dedania,MeeseeksMachine",1
+"Andrew Straw,Steve Chaplin",1
+"Andrew Straw,Manuel Metz",1
+"Andrew Straw,Eric Firing",1
+"Tim Hoffmann,Scott Shambaugh",1
+"Tim Hoffmann,Roman Yurchak",1
+"Tim Hoffmann,Ricardo Mendes",1
+"Tim Hoffmann,Raphael Quast",1
+"Tim Hoffmann,Raphael",1
+"Tim Hoffmann,Pieter Eendebak",1
+"Tim Hoffmann,Paul Ivanov",1
+"Tim Hoffmann,Olin Johnson",1
+"Tim Hoffmann,Nathan G. Wiseman",1
+"Tim Hoffmann,MischaMegens2",1
+"Tim Hoffmann,jerrylui803",1
+"Tim Hoffmann,jayjoshi112711",1
+"Tim Hoffmann,hershen",1
+"Tim Hoffmann,cclauss",1
+"Tim Hoffmann,bakes",1
+"Tim Hoffmann,astromancer",1
+"Tim Hoffmann,Yong Cho Yin",1
+"Tim Hoffmann,Trygve Magnus Ræder",1
+"Tim Hoffmann,Till Hoffmann",1
+"Tim Hoffmann,Takumasa N.",1
+"Tim Hoffmann,Taehoon Lee",1
+"Tim Hoffmann,Stefan Mitic",1
+"Tim Hoffmann,Spencer McCoubrey",1
+"Ante Sikic,Thomas A Caswell",1
+"Ant Lockyer,Koustav Ghosh",1
+"Anselm Hahn,Tim Hoffmann",1
+"Tim Hoffmann,melissawm",1
+"Eric Firing,jdh2358",1
+"Eric Firing,butterw",1
+"Eric Firing,Piti Ongmongkolkul",1
+"Eric Firing,Phil Elson",1
+"Eric Firing,Martin Spacek",1
+"Eric Firing,Jun Tan",1
+"Eric Firing,Jeff Whitaker",1
+"Eric Firing,James Evans",1
+"Eric Firing,Ian Thomas",1
+"Eric Firing,HHest",1
+"Eric Firing,Elan Ernest",1
+"Eric Firing,David Stansby",1
+"Eric Firing,Daniel Hyams",1
+"Eric Firing,Damon McDougall",1
+"Dylan Cutler,Elliott Sales de Andrade",1
+"Tony S Yu,Phil Elson",1
+"Tony S Yu,John Hunter",1
+"Tony S Yu,Damon McDougall",1
+"Tomas Hrnciar,Elliott Sales de Andrade",1
+"Tom Sarantis,Tim Hoffmann",1
+"Tom Sarantis,Pranav Raghu",1
+"Tom Dupré la Tour,Nelle Varoquaux",1
+"Tom Augspurger,Thomas A Caswell",1
+"Todd Miller,Andrew Straw",1
+"Tobias Megies,Piti Ongmongkolkul",1
+"Tobias Megies,Matt Terry",1
+"Tobia De Koninck,Jody Klymak",1
+"Tim Hoffmann,zhangeugenia",1
+"Tim Hoffmann,sveneschlbeck",1
+"Tim Hoffmann,saranti",1
+"Tim Hoffmann,noatamir",1
+"Dusch4593,Brandon Dusch",1
+"Duncan Macleod,Tim Hoffmann",1
+"Duncan Macleod,Matthew Brett",1
+"Duncan Macleod,Antony Lee",1
+"Drew Kinneer,Jody Klymak",1
+"Doug Blank,Antony Lee",1
+"Doron Behar,Antony Lee",1
+"DoriekeMG,klaragerlei",1
+"DonaldSeo,limtaesu",1
+"Dmitry Shachnev,Thomas A Caswell",1
+"Dmitriy Fishman,Thomas A Caswell",1
+"Eric Firing,Carlos Cerqueira",1
+"Trevor Bekolay,Damon McDougall",1
+"Travis Oliphant,Eric Firing",1
+"Travis Oliphant,Darren Dale",1
+"Tortar,Eric Prestat",1
+"Víctor Zabalza,rebot",1
+"Víctor Zabalza,Ryan May",1
+"Víctor Zabalza,Benjamin Root",1
+"Víctor Zabalza,Adrien F. Vincent",1
+"Víctor Terrón,Nelle Varoquaux",1
+"Vlad Seghete,Michael Droettboom",1
+"Vishal Chandratreya,Antony Lee",1
+"Viraj Mohile,David Stansby",1
+"Viraj Mohile,Antony Lee",1
+"Vincent L.M. Mazoyer,Thomas A Caswell",1
+"Vincent L.M. Mazoyer,Antony Lee",1
+"Valentin Valls,Thomas A Caswell",1
+"Uwe Hubert,Oscar Gustafsson",1
+"Umair Idris,Yunfei Yang",1
+"Umair Idris,Francesco Montesano",1
+"Dylan Cutler,David Stansby",1
+"Will Handley,Tim Hoffmann",1
+"Wieland Hoffmann,Thomas A Caswell",1
+"Wieland Hoffmann,Paul Hobson",1
+"Wieland Hoffmann,Michael Droettboom",1
+"Wes Campaigne,Michael Droettboom",1
+"Werner F Bruhin,Thomas A Caswell",1
+"Andrew Landau,Thomas A Caswell",1
+"Andrew Dawson,Nelle Varoquaux",1
+"Andrew Dawson,Eric Firing",1
+"Andreas Mayer,Orso Meneghini",1
+"Andreas Gustafsson,Thomas A Caswell",1
+"Andreas C Mueller,Elliott Sales de Andrade",1
+"Andrea PIERRÉ,Aitik Gupta",1
+"Andras Deak,Jody Klymak",1
+"AndersonDaniel,Thomas A Caswell",1
+"Ananya Devarakonda,Kyle Sunden",1
+"Zach Champion,Tim Hoffmann",1
+"Zac-HD,Eric Wieser",1
+"Zac-HD,David Stansby",1
+"Zac Hatfield-Dodds,Zac-HD",1
+"Zac Hatfield-Dodds,Michael Droettboom",1
+"ZWL,luz.paz",1
+"ZWL,Jody Klymak",1
+"ZWL,Antony Lee",1
+"Yuya,Antony Lee",1
+"Yuxin Wu,Jody Klymak",1
+"Yuval Langer,Thomas Robitaille",1
+"Yun Liu,Antony Lee",1
+"Yu Feng,Michael Droettboom",1
+"William Granados,Steven Tilley",1
+"William Granados,Nelle Varoquaux",1
+"Will Silva,Thomas A Caswell",1
+"Eric Dill,Thomas A Caswell",1
+"Emlyn Price,MeeseeksMachine",1
+"Emlyn Price,Jody Klymak",1
+"Emily FY,Antony Lee",1
+"Elvis Stansvik,Thomas A Caswell",1
+"Elliott Sales de Andrade,yuzie007",1
+"Elliott Sales de Andrade,saranti",1
+"Elliott Sales de Andrade,richardsheridan",1
+"Elliott Sales de Andrade,pre-commit-ci[bot]",1
+"Elliott Sales de Andrade,luz paz",1
+"Elliott Sales de Andrade,kate-perkins",1
+"Elliott Sales de Andrade,Xianxiang Li",1
+"Elliott Sales de Andrade,Srihitha Maryada",1
+"Zohreh,Nelle Varoquaux",1
+"Zhili (Jerry) Pan,sasoripathos",1
+"Zhili (Jerry) Pan,Tim Hoffmann",1
+"cclauss,David Stansby",1
+"blah blah,grdlok",1
+"bblay,Nic Eggert",1
+"bakes,Tim Hoffmann",1
+"azure-pipelines[bot],Antony Lee",1
+"avramid9,0taj",1
+"arokem,Michael Droettboom",1
+"aneda,Paul Ivanov",1
+"aneda,Paul Hobson",1
+"aneda,Federico Ariza",1
+"andrzejnovak,Daniel",1
+"alex,Thomas A Caswell",1
+"alex,Paul G",1
+"akrherz,David Stansby",1
+"ahed87,David Stansby",1
+"Eric Firing,Andrew Dawson",1
+"danielcobej,Seohyeon Lee",1
+"danielcobej,Koustav Ghosh",1
+"danielcobej,Junpei Ota",1
+"danielcobej,Cameron",1
+"danielballan,Thomas A Caswell",1
+"danielballan,Danny Hermes",1
+"dahlbaek,Thomas A Caswell",1
+"dabana,Antony Lee",1
+"chuanzhu xu,Tim Hoffmann",1
+"chuanzhu xu,Thomas A Caswell",1
+"chuanzhu xu,David Stansby",1
+"chrissshe,Chris",1
+"cgohlke,Thomas A Caswell",1
+"cgohlke,Phil Elson",1
+"cclauss,luz.paz",1
+"cclauss,Jouni K. Seppänen",1
+"eindH,Thomas A Caswell",1
+"dsquareindia,Thomas A Caswell",1
+"dsquareindia,Devashish Deshpande",1
+"donchanee,Tim Hoffmann",1
+"donald,Kevin Chan",1
+"domspad,Jens Hedegaard Nielsen",1
+"djdt,Antony Lee",1
+"devRD,Thomas A Caswell",1
+"devRD,Ratnabali Dutta",1
+"dependabot[bot],Thomas A Caswell",1
+"dependabot[bot],Matthew Feickert",1
+"dependabot[bot],Kyle Sunden",1
+"dependabot[bot],David Stansby",1
+"deeenes,Thomas A Caswell",1
+"ddale1128@gmail.com,Dale Dai",1
+"daniilS,Elliott Sales de Andrade",1
+"Alistair Muldal,Slav",1
+"Ali Uneri,Christoph Gohlke",1
+"Alexander Volkov,Kyle Sunden",1
+"Alexander Harnisch,Tim Hoffmann",1
+"Alex Rudy,Thomas A Caswell",1
+"Alex Rudy,Paul Ivanov",1
+"Alex Rudy,Antony Lee",1
+"Alex Rothberg,Thomas A Caswell",1
+"Alex Loew,Michael Droettboom",1
+"goldstarwebs,Nelle Varoquaux",1
+"gitj,Damon McDougall",1
+"gitj,Anton Akhmerov",1
+"fuzzythecat,David Stansby",1
+"fourpoints,Tim Hoffmann",1
+"endolith,Michael Droettboom",1
+"endolith,Brett Graham",1
+"harupy,Harutaka Kawamura",1
+"hannah,znstrider",1
+"hannah,melissawm",1
+"hannah,kate-perkins",1
+"hannah,Thomas Levine",1
+"hannah,Nikita Kniazev",1
+"hannah,Michael Droettboom",1
+"hannah,MeeseeksMachine",1
+"hannah,LindyBalboa",1
+"gwin-zegal,Jody Klymak",1
+"gregorybchris,Jody Klymak",1
+"grdlok,Per Parker",1
+"grdlok,Kevin Chan",1
+"Alon Hershenhorn,Antony Lee",1
+"Allan Haldane,Elliott Sales de Andrade",1
+"Allan Haldane,Antony Lee",1
+"ikhebgeenaccount,Jody Klymak",1
+"hugadams,Jens Hedegaard Nielsen",1
+"Elliott Sales de Andrade,Spencer McCoubrey",1
+"Elliott Sales de Andrade,Sandro Tosi",1
+"Elliott Sales de Andrade,Paul Hobson",1
+"Elliott Sales de Andrade,Nico Schlömer",1
+"Elliott Sales de Andrade,MischaMegens2",1
+"Elliott Sales de Andrade,Matthew Feickert",1
+"Elliott Sales de Andrade,Lee Johnston",1
+"Elliott Sales de Andrade,Kjell Le",1
+"Elliott Sales de Andrade,Jouni K. Seppänen",1
+"Elliott Sales de Andrade,Felix Kohlgrüber",1
+"Elliott Sales de Andrade,Aitik Gupta",1
+"Elliott Sales de Andrade,Adrien F. Vincent",1
+"hershen,esvhd",1
+"hershen,Jody Klymak",1
+"judfs,Joshua Stevenson",1
+"jonchar,Thomas A Caswell",1
+"johnthagen,Ryan May",1
+"johan12345,Tim Hoffmann",1
+"johan12345,Johan von Forstner",1
+"johan12345,Antony Lee",1
+"joelostblom,Jody Klymak",1
+"jlutgen,Jeff Lutgen",1
+"jfbu,Nelle Varoquaux",1
+"jfbu,Elliott Sales de Andrade",1
+"jdh2358,Michael Droettboom",1
+"jbhopkins,Ryan May",1
+"jb-leger,Jean-Benoist Leger",1
+"jayjoshi112711,Antony Lee",1
+"jacob-on-github,David Stansby",1
+"intellizEHL,EunHo Lee",1
+"limtaesu,DonaldSeo",1
+"lboogaard,Thomas A Caswell",1
+"ksunden,Kyle Sunden",1
+"ksafran,Antony Lee",1
+"kramer65,Thomas A Caswell",1
+"kolibril13,Jan-Hendrik Müller",1
+"klaus,Thomas A Caswell",1
+"klaus,Eric Firing",1
+"kjain,Mario Sergio Valdés Tresanco",1
+"kislovskiy,David Stansby",1
+"khyox,Thomas A Caswell",1
+"khyox,Gregory Ashton",1
+"kentcr,Kent",1
+"kelsiegr,grdlok",1
+"katotaisei,Tim Hoffmann",1
+"kalagau,Antony Lee",1
+"Akshay Nair,zhangeugenia",1
+"Akiomi Kamakura,Thomas A Caswell",1
+"AkM-2018,Jody Klymak",1
+"AkM-2018,Ian Thomas",1
+"Aitik Gupta,Thomas A Caswell",1
+"Aitik Gupta,Oscar Gustafsson",1
+"Aitik Gupta,Antony Lee",1
+"Aishling Cooke,Tim Hoffmann",1
+"Ahoy Ahoy,Ruth Comer",1
+"Adrien VINCENT,Thomas A Caswell",1
+"luftek,David Stansby",1
+"lspvic,Thomas A Caswell",1
+"lkkmpn,Ruth Comer",1
+"linyilily,avramid9",1
+"linchiwei123,Elliott Sales de Andrade",1
+"limtaesu,Per Parker",1
+"Elliott Sales de Andrade,Adam J. Stewart",1
+"ElisaHeck,rawwash",1
+"Elan Ernest,Thomas A Caswell",1
+"Elan Ernest,David Stansby",1
+"Elan Ernest,Antony Lee",1
+"Edouard Berthe,Tim Hoffmann",1
+"Edin Salkovic,Andrew Straw",1
+"Elliott Sales de Andrade,Elan Ernest",1
+"Elliott Sales de Andrade,Dr. Thomas A Caswell",1
+"Elliott Sales de Andrade,DietmarSchwertberger",1
+"Elliott Sales de Andrade,Diego Leal Petrola",1
+"Elliott Sales de Andrade,Daniele Nicolodi",1
+"Elliott Sales de Andrade,Dan Zimmerman",1
+"Elliott Sales de Andrade,DWesl",1
+"Elliott Sales de Andrade,Christian Brodbeck",1
+"Albert Y. Shih,Kyle Sunden",1
+"mnmelo,Manuel Nuno Melo",1
+"mitch,David Stansby",1
+"miquelastein,Tim Hoffmann",1
+"mikhailov,Thomas A Caswell",1
+"melissawm,Jody Klymak",1
+"melissawm,Elliott Sales de Andrade",1
+"mattip,Federico Ariza",1
+"mattip,Antony Lee",1
+"matthias,Benedikt Daurer",1
+"marbled-toast,Oscar Gustafsson",1
+"malhar2460,Ruth Comer",1
+"madisonwong210,KheshavKumar",1
+"lzkelley,Eric Firing",1
+"luzpaz,Antony Lee",1
+"luz paz,Oscar Gustafsson",1
+"Elliott Sales de Andrade,Aditya Vidyadhar Kamath",1
+"pelson,endolith",1
+"pelson,Matthew Emmett",1
+"pelson,Damon McDougall",1
+"pelson,Benjamin Root",1
+"paul,Jens Hedegaard Nielsen",1
+"patniharshit,Thomas A Caswell",1
+"patniharshit,David Stansby",1
+"patniharshit,Antony Lee",1
+"parthpankajtiwary,cargobuild",1
+"noatamir,Thomas A Caswell",1
+"noatamir,Elliott Sales de Andrade",1
+"nickystringer,Thomas A Caswell",1
+"nbarlowATI,Antony Lee",1
+"nathan78906,Thomas A Caswell",1
+"myyc,Thomas A Caswell",1
+"musvaage,Tim Hoffmann",1
+"ramvikrams,hannah",1
+"pwuertz,Tony S Yu",1
+"pwuertz,Phil Elson",1
+"pwuertz,Nelle Varoquaux",1
+"pwuertz,Michiel de Hoon",1
+"pwuertz,Michael Droettboom",1
+"pwuertz,Jae-Joon Lee",1
+"pwuertz,Ben Gamari",1
+"pwohlhart,Elliott Sales de Andrade",1
+"pupssman,Thomas A Caswell",1
+"pkienzle,Norbert Nemec",1
+"pibion,Amy Roberts",1
+"photoniker,Johann Krauter",1
+"pharshalp,Tim Hoffmann",1
+"pharshalp,Thomas A Caswell",1
+"pharshalp,Antony Lee",1
+"saranti,Yi Wei",1
+"saranti,Tim Hoffmann",1
+"saranti,Elliott Sales de Andrade",1
+"saranti,David Stansby",1
+"saranti,Antony Lee",1
+"sandipanpanda,Jody Klymak",1
+"s0vereign,Taehoon Lee",1
+"s0vereign,Chris Holdgraf",1
+"root,Petros Tzathas",1
+"roonjoot,Jody Klymak",1
+"richardsheridan,Thomas A Caswell",1
+"richardsheridan,Richard Sheridan",1
+"richardsheridan,Kyle Sunden",1
+"rgbmrc,Marco Rigobello",1
+"rawwash,Drew Kinneer",1
+"rasbt,Thomas A Caswell",1
+"sindunuragarp,Nelle Varoquaux",1
+"Adrien F. Vincent,Nelle Varoquaux",1
+"Adrien F. VINCENT,Thomas A Caswell",1
+"vab9,Thomas A Caswell",1
+"ulijh,Ulrich J. Herter",1
+"Aditi Gautam,Oscar Gustafsson",1
+"Adeel Hassan,Tim Hoffmann",1
+"Adam Williamson,Ryan May",1
+"Adam Turner,Melissa Weber Mendonça",1
+"Adam Paszke,Antony Lee",1
+"Adam J. Stewart,Oscar Gustafsson",1
+"Adam Gomaa,Antony Lee",1
+"solvents,donald",1
+"simond07,Tim Hoffmann",1
+"simon-kraeusel,Jody Klymak",1
+"shawnchen1996,ShawnChen1996",1
+"渡邉 美希,Elliott Sales de Andrade",1
+"0taj,Maggie Liu",1
+"vidursatija,Vidur Satija",1
+"vagrant,Phil Elson",1
+"znstrider,hannah",1
+"znstrider,Tim Hoffmann",1
+"trananso,Elliott Sales de Andrade",1
+"tonyyli,Dana",1
+"tohc1,Thomas A Caswell",1
+"thoo,Elan Ernest",1
+"switham,Thomas A Caswell",1
+"sveneschlbeck,Jody Klymak",1
+"stonebig,Jody Klymak",1
+"Aashil Patel,Thomas A Caswell",1
+"spiessbuerger,Benjamin Root",1
+"vittoboa,Thomas A Caswell",1
+,
+Committer Timezone Distribution,Unique Timezones: 29
+Timezone,Commits
++00:00,10931
++01:00,6882
++02:00,6291
++03:00,476
++03:30,1
++04:00,10
++04:30,1
++05:00,6
++05:30,429
++05:45,7
++06:00,9
++07:00,3
++08:00,204
++09:00,261
++09:30,4
++10:00,103
++11:00,89
++12:00,2
++13:00,3
+-02:00,1
+-03:00,66
+-04:00,10857
+-05:00,6836
+-06:00,1285
+-07:00,4301
+-08:00,2238
+-09:00,1
+-10:00,892
+-11:00,2
+,
+Contributors Experience,Average across 7183 files: 82.18%
+File,Top Contributor Share (%)
+LICENSE,100.00
+examples/__init__.py,100.00
+examples/multiple_figs_demo.py,100.00
+examples/scatter_demo.py,100.00
+examples/subplot_demo.py,100.00
+docs/artist.html,100.00
+docs/cbook.html,100.00
+docs/colors.html,100.00
+docs/figure.html,100.00
+docs/gtkutils.html,100.00

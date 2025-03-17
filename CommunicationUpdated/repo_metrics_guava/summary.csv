@@ -1,0 +1,241 @@
+Field,Value
+Commits Overview,
+Total Commits,6843
+Total Unique Authors,484
+,
+Top 10 Contributors,
+Author,Commits
+cpovirk,24483
+Chris Povirk,3604
+guava.mirrorbot@gmail.com,3112
+Charles Fry,2071
+Kurt Kluever,1768
+cgdecker,1690
+Colin Decker,1462
+kak,1420
+zhenghua,1382
+lowasser,1298
+,
+Communication Events,Total: 853
+"Author1,Author2",Events
+"kak,cpovirk",46
+"zhenghua,ronshapiro",45
+"cpovirk,Martin Kretzschmar",44
+"Martin Kretzschmar,cpovirk",32
+"chrisn,poddark",26
+"cushon,cpovirk",25
+"lowasser,kevinb",18
+"tomxlee,zlt",18
+"lowasser,cpovirk",17
+"cgruberatgoog,guava.mirrorbot@gmail.com",17
+"guava.mirrorbot@gmail.com,cgruberatgoog",15
+"cpovirk,Google Java Core Libraries",14
+"Louis Wasserman,Chris Povirk",12
+"kevinb,lowasser",12
+"Andrei Korzhevskii,moz",12
+"Chris Povirk,Louis Wasserman",12
+"mboyington,cpovirk",11
+"Google Java Core Libraries,cpovirk",11
+"mfboulos,cpovirk",10
+"Kurt Alfred Kluever,cpovirk",9
+"cpovirk,lowasser",9
+"lukes,cpovirk",9
+"clm,cpovirk",8
+"cpovirk,jijiang",8
+"jasexton,jrtom",8
+"Stefan Haustein,cpovirk",8
+"cedric.ai,cpovirk",8
+"cgdecker,cpovirk",7
+"cpovirk,Éamonn McManus",7
+"cpovirk,cgdecker",7
+"cpovirk,gridman",7
+"cushon,kevinb",6
+"Oleksii Bondar,cushon",6
+"Éamonn McManus,cpovirk",6
+"kevinb@google.com,guava.mirrorbot@gmail.com",6
+"kak,kevinb",5
+"xingx,tomxlee",5
+"Charles Fry,Kurt Kluever",5
+"cgdecker,kak",5
+"cpovirk,lukes",5
+"jijiang,cpovirk",5
+"lowasser,cnsun",5
+"goktug,tap-prod",5
+"eaftan,cpovirk",4
+"cpovirk,jonathansun",4
+"dlorant,cpovirk",4
+"jrtom,kak",4
+"Julien Dramaix,cpovirk",4
+"clm,binxu",4
+"Nhat Dinh,Hari Menon",4
+"kevinb,cpovirk",4
+"jrtom,jasexton",4
+"kak,lowasser",4
+"jonathansun,cpovirk",4
+"jnyman,jrtom",4
+"lowasser,kak",4
+"moodysalem,kak",4
+"lukes,aravinds",3
+"kak,cgdecker",3
+"cpovirk,kevinb",3
+"haustein,cpovirk",3
+"haustein,dshaffer",3
+"nharmata,cpovirk",3
+"cpovirk,cgruber",3
+"kevinb,kak",3
+"lukes,cgdecker",3
+"aravinds,lukes",3
+"cgdecker,lowasser",3
+"cpovirk,kak",3
+"Chris Povirk,Colin Decker",2
+"chrisn,cpovirk",2
+"zhenghua,clawr",2
+"yorick,cpovirk",2
+"Éamonn McManus,Google Java Core Libraries",2
+"xingx,cushon",2
+"tap-prod,goktug",2
+"karthik.bhat,David P. Baker",2
+"lowasser,Google Java Core Libraries",2
+"lowasser,cushon",2
+"kak,svas",2
+"kak,jasexton",2
+"mscherer,cgdecker",2
+"wanyingd,cpovirk",2
+"paulduffin,cpovirk",2
+"mkbehr,kak",2
+"lukes,sumir",2
+"lukes,gridman",2
+"tobe,cpovirk",2
+"sumir,sergeyv",2
+"cushon,lukes",2
+"dpb,glorioso",2
+"cushon,lowasser",2
+"edric,cpovirk",2
+"fry@google.com,cgruberatgoog",2
+"benyu,glorioso",2
+"cgdecker,ralucaradu",2
+"cgdecker,mscherer",2
+"cgruber,cpovirk",2
+"cnsun,cpovirk",2
+"clm,sergeyv",2
+"clm,cgdecker",2
+"XenoAmess,cpovirk",2
+"cpovirk,Chaoren Lin",2
+"Colin Decker,Christian Edward Gruber",2
+"Google Java Core Libraries,Andrey Turbanov",2
+"Colin Decker,Andrey Turbanov",2
+"XenoAmess,Google Java Core Libraries",2
+"Vincent Privat,https://github.com/WilliamCollishaw",2
+"William Collishaw,Vincent Privat",2
+"Google Java Core Libraries,lowasser",2
+"Liam Miller-Cushon,Sam Gammon",2
+"cgdecker,jnyman",2
+"cgdecker,kevinb",2
+"cgdecker,William Collishaw",2
+"cgruberatgoog,Charles Fry",2
+"Tiramisu Mokka,cpovirk",2
+"cgdecker,Chris Povirk",2
+"William Collishaw,cgdecker",2
+"clap,Tiago Grosso",2
+"Chris Povirk,Kurt Kluever",2
+"gridman,cpovirk",2
+"ghm,cpovirk",2
+"glorioso,diamondm",2
+"irogers,cpovirk",2
+"cpovirk,Colin Decker",2
+"cpovirk,Stephan Schroevers",2
+"cpovirk,benyu",2
+"cpovirk,tobe",2
+"cpovirk,yorick",2
+"cpovirk,diamondm",2
+"cpovirk,dpb",2
+"cpovirk,chriscallahan",2
+"cpovirk,Stefan Haustein",2
+"cpovirk,Jonathan Bluett-Duncan",2
+"cpovirk,Kurt Alfred Kluever",2
+"diamondm,cgdecker",2
+"cpovirk,sergeyv",2
+"dpb,moodysalem",2
+"dpb,cgdecker",2
+"jrtom,jnyman",2
+"jnyman,madrake",2
+"kak,dpb",2
+"fry@google.com,guava.mirrorbot@gmail.com",2
+"lowasser,cgdecker",2
+"components-release,components-build",1
+"cgdecker,Joshua O'Madadhain",1
+"cnsun,lowasser",1
+"cgdecker,Arend v. Reinersdorff",1
+"cberry,jart",1
+"cgdecker,Liam Miller-Cushon",1
+"bhagwani,lowasser",1
+"Grzegorz Rożniecki,turbanoff",1
+"Elliotte Rusty Harold,cpovirk",1
+"Jonathan Bluett-Duncan,cpovirk",1
+"Jochen Schalanda,cgdecker",1
+"Joshua O'Madadhain,cgdecker",1
+"Chris Povirk,cpovirk",1
+"Certseeds,dependabot[bot]",1
+"Jendrik Johannes,cpovirk",1
+"Sean C. Sullivan,elharo",1
+"Sam Gammon,dependabot[bot]",1
+"Michael Vorburger,Chaoren Lin",1
+"Milan Mimica,cushon",1
+"Michael Ernst,diamondm",1
+"Varun Sharma,dependabot[bot]",1
+"Tanghd,cgdecker",1
+"Thomas Beutler,cpovirk",1
+"jasexton,kak",1
+"jasexton,dpb",1
+"jart,cberry",1
+"guava.mirrorbot@gmail.com,kevinb@google.com",1
+"glorioso,cushon",1
+"gak,kak",1
+"gridman,lukes",1
+"emcmanus,cpovirk",1
+"diamondm,cpovirk",1
+"dependabot[bot],cpovirk",1
+"eaftan,ronshapiro",1
+"dependabot[bot],Sam Gammon",1
+"cpovirk,michaelthomas",1
+"cpovirk,kstanger",1
+"cpovirk,svas",1
+"cushon,Michael Ernst",1
+"cpovirk,jasexton",1
+"cpovirk,dependabot[bot]",1
+"lowasser,Jonathan Bluett-Duncan",1
+"kak,glorioso",1
+"jasexton,ronshapiro",1
+"kstanger,cgdecker",1
+"kevinb,cgdecker",1
+"lukes,benyu",1
+"peteg,cpovirk",1
+"peteg,cgdecker",1
+"moffitt,jasexton",1
+"martinrb,kak",1
+"sunxin,cpovirk",1
+"ronshapiro,kevinb",1
+"svas,cpovirk",1
+"xingx,magdaz",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++00:00,490
+-04:00,2037
+-05:00,1387
+-06:00,2
+-07:00,1970
+-08:00,957
+,
+Contributors Experience,Average across 4877 files: 79.03%
+File,Top Contributor Share (%)
+COPYING,100.00
+src/com/google/common/util/concurrent/DaemonThreadFactory.java,100.00
+src/com/google/common/util/concurrent/Executors.java,100.00
+src/com/google/common/util/concurrent/NamingThreadFactory.java,100.00
+src/com/google/common/annotations/VisibleForTesting.java,100.00
+src/com/google/common/collect/ConstrainedMap.java,100.00
+src/com/google/common/collect/ExpirationTimer.java,100.00
+src/com/google/common/collect/NullOutputException.java,100.00
+guava.iml,100.00
+guava.ipr,100.00

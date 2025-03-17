@@ -1,0 +1,443 @@
+Field,Value
+Commits Overview,
+Total Commits,13621
+Total Unique Authors,666
+,
+Top 10 Contributors,
+Author,Commits
+Jeremy Tuloup,4400
+Jonathan Frederic,3393
+Min RK,2481
+MinRK,2031
+Brian E. Granger,1517
+Thomas Kluyver,1130
+jtpio,964
+Matthias Bussonnier,810
+Matthias BUSSONNIER,790
+Brian Granger,454
+,
+Communication Events,Total: 1925
+"Author1,Author2",Events
+"Jeremy Tuloup,jtpio",437
+"jdfreder,Matthias Bussonnier",58
+"Jeremy Tuloup,GitHub Action",56
+"Jonathan Frederic,Jason Grout",35
+"Brian E. Granger,MinRK",34
+"Jonathan Frederic,Matthias Bussonnier",31
+"Jason Grout,Jonathan Frederic",30
+"Jonathan Frederic,jon",26
+"jon,Jonathan Frederic",23
+"Min RK,Matthias Bussonnier",22
+"Min RK,Thomas Kluyver",21
+"MinRK,Brian E. Granger",19
+"Zachary Sailer,MinRK",19
+"jtpio,Jeremy Tuloup",19
+"GitHub Action,Jeremy Tuloup",18
+"jtpio,brichet",17
+"Afshin T. Darian,Jeremy Tuloup",17
+"Matthias BUSSONNIER,Brian Granger",17
+"Brian Granger,Brian E. Granger",16
+"Min RK,Jonathan Frederic",16
+"MinRK,Min RK",16
+"Matthias BUSSONNIER,Matthias Bussonnier",16
+"Matthias Bussonnier,Jonathan Frederic",15
+"jdfreder,Jonathan Frederic",15
+"MinRK,Thomas Kluyver",15
+"Nicolas Brichet,jtpio",15
+"Bussonnier Matthias,Matthias BUSSONNIER",15
+"github-actions[bot],jtpio",15
+"Brian E. Granger,Jonathan Frederic",14
+"Thomas Kluyver,MinRK",14
+"KesterTong,Jeff Hemmelgarn",13
+"Matthias BUSSONNIER,MinRK",12
+"Jonathan Frederic,Thomas Kluyver",12
+"Matthias Bussonnier,Bussonnier Matthias",12
+"Thomas Kluyver,Min RK",11
+"Brian E. Granger,Brian Granger",11
+"MinRK,Matthias BUSSONNIER",10
+"Paul Ivanov,MinRK",10
+"Jonathan Frederic,Min RK",10
+"Nicolas Brichet,foo",9
+"Jonathan Frederic,Sylvain Corlay",9
+"Jonathan Frederic,Brian E. Granger",9
+"Zachary Sailer,Thomas Kluyver",9
+"Min RK,Jason Grout",8
+"Thomas Kluyver,Matthias Bussonnier",8
+"Paul Ivanov,Zachary Sailer",8
+"Brian Granger,Matthias BUSSONNIER",8
+"MinRK,Paul Ivanov",8
+"Fernando Perez,MinRK",8
+"Brian Granger,MinRK",8
+"Celina Kilcrease,Ashley Teoh",7
+"Brian E. Granger,Stefan van der Walt",7
+"Nicolas Brichet,Jeremy Tuloup",7
+"Matthias Bussonnier,Min RK",7
+"Jonathan Frederic,MinRK",7
+"Jeff Hemmelgarn,Thomas Kluyver",7
+"Pierre Gerold,Matthias Bussonnier",6
+"Paul Ivanov,Thomas Kluyver",6
+"Thomas Kluyver,Matthias BUSSONNIER",6
+"Thomas Kluyver,Jonathan Frederic",6
+"Matthias Bussonnier,Matthias BUSSONNIER",6
+"Thomas Kluyver,Paul Ivanov",6
+"Zachary Sailer,Paul Ivanov",6
+"Bussonnier Matthias,Min RK",6
+"Ashley Teoh,Celina Kilcrease",6
+"Jason Grout,Sylvain Corlay",6
+"MinRK,Jason Grout",6
+"Min RK,Scott Sanderson",6
+"Jonathan Frederic,Nicholas Bollweg (Nick)",5
+"Loic Huder,Jeremy Tuloup",5
+"Matthias Bussonnier,Pierre Gerold",5
+"Kester Tong,Thomas Kluyver",5
+"Thomas Kluyver,Kester Tong",5
+"Steven Silvester,GitHub Action",5
+"Grant Nestor,Thomas Kluyver",5
+"Sylvain Corlay,Jonathan Frederic",5
+"Jeff Hemmelgarn,KesterTong",5
+"Jason Grout,MinRK",5
+"Bussonnier Matthias,Thomas Kluyver",5
+"Bussonnier Matthias,Matthias Bussonnier",5
+"Simon Vurens,Matthias Bussonnier",5
+"Thomas Spura,Matthias BUSSONNIER",4
+"Zachary Sailer,Brian E. Granger",4
+"Thomas Kluyver,Brian E. Granger",4
+"Nathan Heijermans,Jonathan Frederic",4
+"Bussonnier Matthias,Jonathan Frederic",4
+"Matthias BUSSONNIER,Thomas Kluyver",4
+"Matthias Bussonnier,Carol Willing",4
+"Jonathan Frederic,Mathieu",4
+"MinRK,Jonathan Frederic",4
+"Min RK,Nicholas Bollweg",4
+"MinRK,Matthias Bussonnier",4
+"Jason Weill,Nicolas Brichet",4
+"Min RK,Bussonnier Matthias",4
+"Stefan van der Walt,Brian E. Granger",4
+"Paul Ivanov,Jonathan Frederic",4
+"Afshin Taylor Darian,GitHub Action",4
+"Jonathan Frederic,Paul Ivanov",4
+"Matthias BUSSONNIER,Bussonnier Matthias",4
+"Grant Nestor,Matthias Bussonnier",3
+"Steven Silvester,Jeremy Tuloup",3
+"Scott Sanderson,Min RK",3
+"Grant Nestor,Min RK",3
+"Phil Elson,Min RK",3
+"Thomas Kluyver,Bussonnier Matthias",3
+"Brian E. Granger,Fernando Perez",3
+"Brian E. Granger,Matthias BUSSONNIER",3
+"Brian Granger,Administrator",3
+"github-actions[bot],Jeremy Tuloup",3
+"dependabot[bot],Jeremy Tuloup",3
+"Safia Abdalla,Matthias Bussonnier",3
+"Pierre Gerold,Peter Parente",3
+"Nicholas Bollweg (Nick),Min RK",3
+"Matthias Bussonnier,Simon Vurens",3
+"Matthias Bussonnier,Thomas Kluyver",3
+"Jeremy Tuloup,Nicolas Brichet",3
+"Jessica B. Hamrick,Matthias Bussonnier",3
+"Jonathan Frederic,Matthias BUSSONNIER",3
+"Min RK,Mathieu",3
+"MinRK,Fernando Perez",3
+"Matthias Bussonnier,Safia Abdalla",3
+"Joshua Zeltser,韩韬",3
+"Matthias Bussonnier,MinRK",3
+"Matthias Bussonnier,Jessica B. Hamrick",3
+"Jonathan Frederic,jdfreder",3
+"Matthias BUSSONNIER,Brian E. Granger",3
+"Alexander Belopolsky,Min RK",3
+"Administrator,Brian Granger",3
+"Afshin Taylor Darian,Steven Silvester",2
+"samarsultan,Samar Sultan",2
+"sylvain.corlay,Sylvain Corlay",2
+"stuntgoat,Matthias Bussonnier",2
+"M Pacer,Thomas Kluyver",2
+"wordofglass,Grant Nestor",2
+"Mathieu,Min RK",2
+"Mathieu,Jonathan Frederic",2
+"Kyle Kelley,Jason Grout",2
+"Kyle Kelley,Jonathan Frederic",2
+"Matthias BUSSONNIER,damianavila",2
+"Matthias BUSSONNIER,Paul Ivanov",2
+"Matt Riedemann,Sai Rahul Poruri",2
+"Nicholas Bollweg,Min RK",2
+"Nicholas Bollweg,Jonathan Frederic",2
+"MinRK,Zachary Sailer",2
+"Jeremy Tuloup,Dan Lester",2
+"MinRK,David Wyde",2
+"MinRK,Kyle Kelley",2
+"Jonathan Frederic,Bussonnier Matthias",2
+"Jason Grout,Min RK",2
+"Min RK,Preston Holmes",2
+"Min RK,Nicholas Bollweg (Nick)",2
+"Min RK,Nathan Heijermans",2
+"Jessica B. Hamrick,MinRK",2
+"Min RK,Grant Nestor",2
+"Jeremy Tuloup,github-actions[bot]",2
+"Jeremy Tuloup,dependabot[bot]",2
+"Jeremy Tuloup,pre-commit-ci[bot]",2
+"Min RK,Gustavo Efeiche",2
+"Michael Droettboom,Brian Granger",2
+"Matthias Geier,Carol Willing",2
+"Toon Baeyens,Mohammad Mostafa Farzan",2
+"Sylvain Corlay,sylvain.corlay",2
+"Fernando Perez,Thomas Kluyver",2
+"Evan Patterson,epatters",2
+"Erwin,Berend-Jan Lange",2
+"Sylvain Corlay,Jason Grout",2
+"Stefan van der Walt,MinRK",2
+"YuviPanda,Jeremy Tuloup",2
+"pre-commit-ci[bot],Jeremy Tuloup",2
+"Brian E. Granger,Zachary Sailer",2
+"Carol Willing,Min RK",2
+"Brian Granger,Fernando Perez",2
+"foo,Jeremy Tuloup",2
+"jdfreder,Kyle Kelley",2
+"Brian E. Granger,Thomas Kluyver",2
+"fabihaahmed,Joshua Zeltser",2
+"Rosa Swaby,danagilliann",2
+"Srinivas Reddy Thatiparthy,Min RK",2
+"Peter Parente,Min RK",2
+"Peter Parente,Jonathan Frederic",2
+"Nicolas Brichet,pre-commit-ci[bot]",2
+"Paul Ivanov,Matthias BUSSONNIER",2
+"Jason Goad,Thomas Kluyver",2
+"Stefan van der Walt,Fernando Perez",2
+"Greg Mooney,jtpio",2
+"Mateusz Paprocki,Jessica B. Hamrick",1
+"Luciano Resende,bermani",1
+"Lumír 'Frenzy' Balhar,Jeremy Tuloup",1
+"韩韬,ednut15",1
+"Kyle Kelley,jdfreder",1
+"韩韬,Norah Abanumay",1
+"Lorenzo Gasparini,Michael Pacer",1
+"Matthias Bussonnier,Philipp A",1
+"Matthias Bussonnier,Josh Barnes",1
+"Matthias Bussonnier,Arjun Radhakrishna",1
+"Joshua Zeltser,norah",1
+"Joshua Zeltser,ednut15",1
+"Joshua Zeltser,fabihaahmed",1
+"Jonathan Frederic,Safia Abdalla",1
+"Jonathan Frederic,Steven Silvester",1
+"Kyle Kelley,MinRK",1
+"Kyle Kelley,Bussonnier Matthias",1
+"Jonathan Frederic,Pierre Gerold",1
+"Jonathan Frederic,Nathan Heijermans",1
+"Kevin Bates,Thomas Kluyver",1
+"Kevin Bates,Zachary Sailer",1
+"Kostya Farber,Jeremy Tuloup",1
+"Kyle Cutler,Jeremy Tuloup",1
+"Julia Evans,MinRK",1
+"Juergen Hasch,Min RK",1
+"Matthias BUSSONNIER,Jonathan Frederic",1
+"Jeremy Tuloup,Michael Barry",1
+"Jeremy Tuloup,Mieju",1
+"Mikhail Korobov,Brian E. Granger",1
+"Min RK,KesterTong",1
+"Jonathan Frederic,Gordon Ball",1
+"Min RK,Peter Parente",1
+"Min RK,MinRK",1
+"Min RK,Carol Willing",1
+"Michael Heilman,Min RK",1
+"Mieju,Jeremy Tuloup",1
+"Min RK,Andrew Shaffer",1
+"Min RK,Brookie Guzder-Williams",1
+"Michael Barry,Mike",1
+"Jason Grout,Thomas Kluyver",1
+"Jason Grout,Nicholas Bollweg (Nick)",1
+"Min RK,Weston Hunter",1
+"Min RK,Sylvain Corlay",1
+"Min RK,Philipp A.",1
+"Min RK,Pierre Gerold",1
+"Jeff Hemmelgarn,jhemmelg",1
+"Mathieu,Matthias Bussonnier",1
+"Justin Tyberg,Matthias Bussonnier",1
+"Jörgen Stenarson,MinRK",1
+"Kent Inverarity,MinRK",1
+"Kevin Bates,Min RK",1
+"Matthias BUSSONNIER,Fernando Perez",1
+"Babatunde Adeola,Min ho Kim",1
+"Alberto Valverde,Paul Ivanov",1
+"Afshin T. Darian,Afshin Taylor Darian",1
+"sheshtawy,hkshesht",1
+"sd,Dvoiak Stepan",1
+"samarsultan,Thomas Kluyver",1
+"samarsultan,Grant Nestor",1
+"tobaeyen,Toon Baeyens",1
+"unknown,Sylvain Corlay",1
+"v923z,Jonathan Frederic",1
+"tao,Joshua Zeltser",1
+"韩韬,Joshua Zeltser",1
+"Berend-Jan Lange,Erwin",1
+"pre-commit-ci[bot],Steven Silvester",1
+"Bradley M. Froehle,MinRK",1
+"Andrea Bedini,Matthias BUSSONNIER",1
+"Andrii Ieroshenko,Rosio",1
+"Ashley Teoh,Thomas Kluyver",1
+"Anastasis Germanidis,Min RK",1
+"Grant Nestor,Joshua Zeltser",1
+"Grant Nestor,Josh Barnes",1
+"Grant Nestor,Jason Grout",1
+"Gordon Ball,MinRK",1
+"Gordon Ball,Jonathan Frederic",1
+"Nick Tarleton,Brian Granger",1
+"Nicholas Bollweg,pre-commit-ci[bot]",1
+"Nathan Heijermans,Thomas Kluyver",1
+"MinRK,Thomas Weißschuh",1
+"Nathan Heijermans,Nicholas Bollweg (Nick)",1
+"Nathan Daly,nvdv",1
+"Mohammad Mostafa Farzan,Steinar Sturlaugsson",1
+"Mohammad Mostafa Farzan,Christophe Cadilhac",1
+"MinRK,Jessica B. Hamrick",1
+"MinRK,Stefan van der Walt",1
+"MinRK,Sylvain Corlay",1
+"Jason Weill,pre-commit-ci[bot]",1
+"Jaymin Shah,Jason Weill",1
+"Jeremy Tuloup,Kian Eliasi",1
+"MinRK,Brian Granger",1
+"Min RK,v923z",1
+"MinRK,Aaron Meurer",1
+"Jeremy Tuloup,Kostya Farber",1
+"Min RK,stuntgoat",1
+"Jason Weill,Jeremy Tuloup",1
+"Peter Parente,Carol Willing",1
+"Pierre Gerold,Jonathan Frederic",1
+"Paul Ivanov,Brian E. Granger",1
+"Reece Hart,Steven Silvester",1
+"Preston Holmes,Carl Karsten",1
+"Norah Abanumay,韩韬",1
+"Ioannis Papadopoulos,Michael Pacer",1
+"Solaris,Kevin Bates",1
+"Safia Abdalla,jdfreder",1
+"Satrajit Ghosh,MinRK",1
+"Scott Sanderson,Thomas Kluyver",1
+"Safia Abdalla,Min RK",1
+"Steven Silvester,dependabot[bot]",1
+"Steven Silvester,Afshin Taylor Darian",1
+"Steven Silvester,Kevin Bates",1
+"Susan Tan,Matthias BUSSONNIER",1
+"Steven Silvester,pre-commit-ci[bot]",1
+"Sylvain Corlay,Min RK",1
+"Sylvain Corlay,Brian Drawert",1
+"Sylvain Corlay,MinRK",1
+"Steven Silvester,michaelpacer",1
+"Steven Silvester,Matthias Bussonnier",1
+"Steven Silvester,Min RK",1
+"Takafumi Arakaki,Brian Granger",1
+"TPartida,Thomas Kluyver",1
+"Sylvain Corlay,unknown",1
+"Thomas Kluyver,Carol Willing",1
+"Diogo Teles Sant'Anna,dependabot[bot]",1
+"Thomas Kluyver,Fernando Perez",1
+"RRosio,pre-commit-ci[bot]",1
+"Puneeth Chaganti,MinRK",1
+"Roy Hyunjin Han,Grant Nestor",1
+"Rosa Swaby,Celina Kilcrease",1
+"Robert Kern,Thomas Kluyver",1
+"Grant Nestor,wordofglass",1
+"Nicolas Brichet,brichet",1
+"Jason Grout,Mathieu",1
+"Grant Nestor,Roy Hyunjin Han",1
+"Grant Nestor,Paul Ivanov",1
+"Frédéric Collonval,Jeremy Tuloup",1
+"Fernando Perez,Brian Granger",1
+"Fernando Perez,Brian E. Granger",1
+"Felix Werner,Fernando Perez",1
+"Felix Mönckemeyer,David Lukes",1
+"Doug Blank,Grant Nestor",1
+"Doug Blank,MinRK",1
+"Doug Hanley,Douglas Hanley",1
+"David P. Sanders,Paul Ivanov",1
+"Thomas Kluyver,Grant Nestor",1
+"Tim Head,Min RK",1
+"GitHub Action,Nicolas Brichet",1
+"Thomas Kluyver,Steve (Gadget) Barnes",1
+"Thomas Kluyver,Zachary Sailer",1
+"Thomas Kluyver,Phil Elson",1
+"Thomas Kluyver,Kyle Kelley",1
+"W. Trevor King,Bussonnier Matthias",1
+"VladMironov,Nathan Daly",1
+"Yung Siang Liau,Blake Griffith",1
+"Yanqing Dai,Jeremy Tuloup",1
+"damianavila,Bussonnier Matthias",1
+"damianavila,Jonathan Frederic",1
+"damianavila,Matthias Bussonnier",1
+"bxy007,Thomas Kluyver",1
+"Brian Granger,Takafumi Arakaki",1
+"Toon Baeyens,tobaeyen",1
+"Tres DuBiel,Thomas Kluyver",1
+"Victor Zverovich,Thomas Kluyver",1
+"Vishnutheep B,Jeremy Tuloup",1
+"Vivian Fang,Bernd Schwarzenbacher",1
+"Thomas Spura,MinRK",1
+"Thomas Kluyver,Simon Vurens",1
+"Daniel Krenn,Paul Ivanov",1
+"Christopher Wilcox,Min RK",1
+"Carol Willing,Peter Parente",1
+"Carol Willing,Matthias Bussonnier",1
+"Brookie Guzder-Williams,Min RK",1
+"Bussonnier Matthias,Nathan Heijermans",1
+"Brian Granger,Thomas Kluyver",1
+"ednut15,Joshua Zeltser",1
+"fabihaahmed,ednut15",1
+"epifanio,Brian E. Granger",1
+"ednut15,韩韬",1
+"fawce,Brian Granger",1
+"hkshesht,sheshtawy",1
+"David Neto,Min RK",1
+"danagilliann,Rosa Swaby",1
+"damianavila,Peter Parente",1
+"Brian E. Granger,Paul Ivanov",1
+"Brian E. Granger,Matthias Bussonnier",1
+"Brian E. Granger,Jessica B. Hamrick",1
+"Brian Granger,Min RK",1
+"jhemmelg,Thomas Kluyver",1
+"jslmann,Matthias Bussonnier",1
+"jtpio,Nicolas Brichet",1
+"jhemmelg,KesterTong",1
+"jtpio,dependabot[bot]",1
+"lmcdon14,Thomas Kluyver",1
+"mcelrath,MinRK",1
+"marcelo-ramires,Matthias Bussonnier",1
+"michaelpacer,Carol Willing",1
+"norah,Joshua Zeltser",1
+"nsonnad,Nikhil S",1
+"pre-commit-ci[bot],Nicolas Brichet",1
+,
+Committer Timezone Distribution,Unique Timezones: 23
+Timezone,Commits
++00:00,1127
++01:00,1954
++02:00,1696
++03:00,44
++03:30,2
++05:00,1
++05:30,63
++06:00,2
++07:00,4
++08:00,42
++09:00,18
++09:30,2
++10:00,11
++11:00,5
++13:00,1
+-02:00,2
+-03:00,32
+-04:00,427
+-05:00,597
+-06:00,192
+-07:00,4516
+-08:00,2873
+-10:00,10
+,
+Contributors Experience,Average across 1723 files: 82.89%
+File,Top Contributor Share (%)
+IPython/frontend/html/notebook/notebook.py,100.00
+IPython/frontend/html/notebook/static/css/nbbrowser.css,100.00
+IPython/frontend/html/notebook/static/js/nbbrowser_main.js,100.00
+IPython/frontend/html/notebook/static/js/header.js,100.00
+IPython/frontend/html/notebook/static/js/login_main.js,100.00
+docs/examples/notebooks/python-logo.svg,100.00
+IPython/frontend/html/notebook/static/js/events.js,100.00
+IPython/frontend/html/notebook/static/js/pagemain.js,100.00
+IPython/frontend/html/notebook/static/css/alternate_uploadform.css,100.00
+IPython/frontend/html/notebook/static/css/alternateuploadform.css,100.00

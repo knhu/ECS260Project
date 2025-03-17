@@ -1,0 +1,318 @@
+file,author1,author2,time1,time2
+.env.template,OriAshkenazi,Anton Osika,2023-08-13 11:09:32+02:00,2023-08-13 11:18:28+02:00
+.env.template,Krish Dholakia,Anton Osika,2023-09-07 21:48:36+02:00,2023-09-07 22:05:25+02:00
+.github/CONTRIBUTING.md,Axel Theorell,ATheorell,2023-12-25 19:19:13+01:00,2023-12-26 14:48:04+01:00
+.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md,aroramrinaal,Anton Osika,2023-06-19 13:28:49-07:00,2023-06-20 22:21:29+02:00
+.github/ISSUE_TEMPLATE/sweep-bugfix.yml,sweep-ai[bot],Anton Osika,2023-08-16 21:55:52+02:00,2023-08-16 21:56:48+02:00
+.github/ISSUE_TEMPLATE/sweep-feature.yml,sweep-ai[bot],Anton Osika,2023-08-16 21:55:52+02:00,2023-08-16 21:56:48+02:00
+.github/ISSUE_TEMPLATE/sweep-refactor.yml,sweep-ai[bot],Anton Osika,2023-08-16 21:55:52+02:00,2023-08-16 21:56:48+02:00
+.github/PULL_REQUEST_TEMPLATE/PULL_REQUEST_TEMPLATE.md,aroramrinaal,Anton Osika,2023-06-19 13:28:49-07:00,2023-06-20 22:21:29+02:00
+.github/workflows/automation.yml,sweep-ai[bot],Anton Osika,2023-08-19 08:41:31+02:00,2023-08-19 08:45:54+02:00
+.gitignore,Anton Osika,PatillaCode,2023-06-17 12:06:50+02:00,2023-06-17 16:39:22+02:00
+.gitignore,PatillaCode,Philipp Kohler,2023-06-17 16:39:22+02:00,2023-06-17 17:53:03+02:00
+.gitignore,Philipp Kohler,Anton Osika,2023-06-17 17:53:03+02:00,2023-06-17 21:18:07+02:00
+.gitignore,Anton Osika,Enzo Martin,2023-06-17 21:18:07+02:00,2023-06-18 10:05:45+02:00
+.gitignore,Enzo Martin,Carl Thomé,2023-06-18 10:05:45+02:00,2023-06-18 14:52:42+02:00
+.gitignore,Romain d'Esparbès,Anton Osika,2023-06-20 11:50:48+02:00,2023-06-21 00:37:18+02:00
+.gitignore,Artem Moskvin,Anton Osika,2023-07-02 15:14:33+02:00,2023-07-02 19:17:15+02:00
+.gitignore,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+.langchain.db,Anton Osika,Erik Bjäreholt,2023-11-30 19:37:55+01:00,2023-12-01 12:04:48+01:00
+.pre-commit-config.yaml,Romain d'Esparbès,Patilla Code,2023-06-20 11:50:48+02:00,2023-06-20 11:56:57+02:00
+.pre-commit-config.yaml,Artem Moskvin,Yaroslav Halchenko,2023-07-02 15:14:33+02:00,2023-07-02 16:47:31+02:00
+.pre-commit-config.yaml,Yaroslav Halchenko,Patilla Code,2023-07-02 16:47:31+02:00,2023-07-02 19:14:05+02:00
+.pre-commit-config.yaml,Patilla Code,Anton Osika,2023-07-02 19:14:05+02:00,2023-07-02 19:17:15+02:00
+.readthedocs.yaml,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+Makefile,Anton Osika,Patilla Code,2023-06-18 23:30:15+02:00,2023-06-19 15:01:34+02:00
+Makefile,Plamen Ivanov,Shubham Attri,2023-07-02 15:22:06+02:00,2023-07-02 17:33:06+02:00
+Makefile,OriAshkenazi,Anton Osika,2023-08-13 11:09:32+02:00,2023-08-13 11:12:40+02:00
+Makefile,Erik Bjäreholt,captivus,2023-12-03 15:55:21+01:00,2023-12-03 14:39:43-06:00
+README.md,Michael Rowan,Anton Osika,2023-06-14 04:33:47-07:00,2023-06-14 15:48:34+02:00
+README.md,PatillaCode,Jack Eadie,2023-06-16 03:20:22+02:00,2023-06-16 13:25:29+02:00
+README.md,Jack Eadie,Patilla Code,2023-06-16 13:25:29+02:00,2023-06-16 14:26:41+02:00
+README.md,Patilla Code,Anton Osika,2023-06-16 14:26:41+02:00,2023-06-16 22:26:27+02:00
+README.md,Anton Osika,Vicente Reyes,2023-06-17 13:40:17+02:00,2023-06-17 18:11:15+02:00
+README.md,Vicente Reyes,Anton Osika,2023-06-17 18:11:15+02:00,2023-06-17 22:21:10+02:00
+README.md,Anton Osika,Enzo Martin,2023-06-17 22:50:52+02:00,2023-06-18 10:05:45+02:00
+README.md,Enzo Martin,PatillaCode,2023-06-18 10:05:45+02:00,2023-06-18 16:23:55+02:00
+README.md,PatillaCode,Anton Osika,2023-06-18 16:30:51+02:00,2023-06-18 22:34:31+02:00
+README.md,Anton Osika,Plamen Ivanov,2023-06-23 00:59:24+02:00,2023-06-23 12:01:29+02:00
+README.md,Anton Osika,Sibo Van Gool,2023-06-24 17:53:04+02:00,2023-06-25 16:43:01+02:00
+README.md,Sibo Van Gool,Anton Osika,2023-06-25 16:43:01+02:00,2023-06-25 20:33:58+02:00
+README.md,Anton Osika,David Verzolla,2023-06-25 20:34:58+02:00,2023-06-25 21:00:07+02:00
+README.md,David Verzolla,Anton Osika,2023-06-25 21:00:07+02:00,2023-06-26 19:55:43+02:00
+README.md,Ashish,Shubham Attri,2023-07-02 17:28:17+02:00,2023-07-02 17:33:06+02:00
+README.md,Shubham Attri,Patilla Code,2023-07-02 17:33:06+02:00,2023-07-02 19:14:05+02:00
+README.md,Patilla Code,Anton Osika,2023-07-02 19:14:05+02:00,2023-07-02 19:17:15+02:00
+README.md,Jesus Salomon,Ayoub Fletcher,2023-08-13 10:10:30+02:00,2023-08-13 10:30:49+02:00
+README.md,Ayoub Fletcher,Anton Osika,2023-08-13 10:30:49+02:00,2023-08-13 11:05:36+02:00
+README.md,Anton Osika,OriAshkenazi,2023-08-13 11:05:36+02:00,2023-08-13 11:09:32+02:00
+README.md,umarmnaq,lukas,2023-09-22 19:26:33+05:00,2023-09-22 20:49:12+02:00
+README.md,lukas,Anton Osika,2023-09-22 20:49:12+02:00,2023-09-22 22:32:36+02:00
+README.md,Axel Theorell,saschalalala,2023-09-25 21:09:06+02:00,2023-09-25 21:34:40+02:00
+README.md,saschalalala,ATheorell,2023-09-25 21:34:40+02:00,2023-09-26 19:53:33+02:00
+README.md,Anton Osika,TheoMcCabe,2023-10-20 15:52:47-04:00,2023-10-20 21:07:06+01:00
+README.md,captivus,rjsenanayaka,2023-12-03 14:24:03-06:00,2023-12-04 22:49:37+05:30
+README.md,Eric Leijonmarck,Axel Theorell,2024-01-04 17:18:35+01:00,2024-01-05 13:34:48+01:00
+ROADMAP.md,Anton Osika,Plamen Ivanov,2023-06-22 23:47:43+02:00,2023-06-23 12:01:29+02:00
+WINDOWS_README.md,Anton Osika,Timothy Sturm,2023-08-13 10:09:31+02:00,2023-08-13 10:29:57+02:00
+ai.py,jnichols0,PatillaCode,2023-06-15 01:10:42-04:00,2023-06-15 18:33:52+02:00
+benchmark/RESULTS.md,Plamen Ivanov,Philipp Kohler,2023-06-23 12:01:29+02:00,2023-06-23 10:17:52+00:00
+docker-compose.yml,Ayoub Fletcher,Anton Osika,2023-08-13 10:30:49+02:00,2023-08-13 10:32:44+02:00
+docs/DOCS_BUILDING.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/DOCS_BUILDING.md,Erik Bjäreholt,kristiankyvik,2024-01-23 14:23:54+01:00,2024-01-23 16:23:42+02:00
+docs/RESULTS.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 09:41:03+02:00
+docs/api_reference.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/code_conduct_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/conf.py,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/contributing_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/create_api_rst.py,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/disclaimer_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/index.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 09:41:03+02:00
+docs/intro/# Table of Contents.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/ai_class.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/chat_parsing.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/db_class.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/harmony_db_ai_steps.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/main_script.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/preprompts.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/quick_overview.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/repository_stats.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 09:34:55+02:00
+docs/intro/scripts.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/intro/steps_module.md,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/readme_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/requirements.txt,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/results_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/roadmap_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/tesrms_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/usage.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+docs/windows_readme_link.rst,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:32:44+02:00
+entrypoint.sh,Ayoub Fletcher,Anton Osika,2023-08-13 10:30:49+02:00,2023-08-13 10:32:44+02:00
+gpt_engineer/__init__.py,OriAshkenazi,Anton Osika,2023-08-13 11:09:32+02:00,2023-08-13 11:12:40+02:00
+gpt_engineer/ai.py,Anton Osika,Patilla Code,2023-06-18 08:36:34+02:00,2023-06-18 14:46:03+02:00
+gpt_engineer/ai.py,Patilla Code,Carl Thomé,2023-06-18 14:46:03+02:00,2023-06-18 16:21:16+02:00
+gpt_engineer/ai.py,Carl Thomé,Anton Osika,2023-06-18 16:42:53+02:00,2023-06-18 22:34:31+02:00
+gpt_engineer/ai.py,Anton Osika,LopeKinz,2023-06-18 22:34:31+02:00,2023-06-19 13:26:55+02:00
+gpt_engineer/ai.py,Anton Osika,Nitaym,2023-07-02 16:43:13+02:00,2023-07-02 17:05:09+02:00
+gpt_engineer/ai.py,sweep-ai[bot],Anton Osika,2023-08-19 08:38:38+02:00,2023-08-19 08:40:04+02:00
+gpt_engineer/ai.py,Krish Dholakia,Anton Osika,2023-09-07 21:48:36+02:00,2023-09-07 22:05:25+02:00
+gpt_engineer/ai.py,Anton Osika,ATheorell,2023-09-07 22:05:25+02:00,2023-09-07 23:42:04+02:00
+gpt_engineer/api.py,Axel Theorell,Peter Harrington,2023-09-26 19:06:12+02:00,2023-09-26 15:09:36-07:00
+gpt_engineer/api/main.py,captivus,Axel Theorell,2023-10-04 11:09:49-05:00,2023-10-05 14:34:11+02:00
+gpt_engineer/applications/cli/cli_agent.py,Anton Osika,Axel Theorell,2023-11-29 22:00:45+01:00,2023-11-30 10:01:13+01:00
+gpt_engineer/applications/cli/cli_agent.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+gpt_engineer/applications/cli/file_selector.py,Anton Osika,Talion,2024-01-19 01:20:48+01:00,2024-01-19 20:16:15-04:00
+gpt_engineer/applications/cli/learning.py,M. Verbeek,kristiankyvik,2024-02-09 18:37:04+01:00,2024-02-10 13:17:41+01:00
+gpt_engineer/applications/cli/main.py,Axel Theorell,Theo McCabe,2023-11-21 13:22:51+01:00,2023-11-21 21:44:22+00:00
+gpt_engineer/applications/cli/main.py,Theo McCabe,Axel Theorell,2023-11-21 21:44:22+00:00,2023-11-22 13:44:24+01:00
+gpt_engineer/applications/cli/main.py,Anton Osika,Axel Theorell,2023-11-29 22:13:40+01:00,2023-11-30 10:14:37+01:00
+gpt_engineer/applications/cli/main.py,Erik Bjäreholt,Axel Theorell,2023-12-03 13:36:21+01:00,2023-12-04 11:44:27+01:00
+gpt_engineer/applications/cli/main.py,Talion,Theo McCabe,2024-03-18 21:37:42-03:00,2024-03-19 20:07:27+01:00
+gpt_engineer/applications/cli/main.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+gpt_engineer/applications/cli/main.py,Axel Theorell,Antti Kaihola,2024-03-19 20:08:52+01:00,2024-03-19 22:26:47+02:00
+gpt_engineer/applications/cli/main.py,Antti Kaihola,hmasdev,2024-03-19 22:26:47+02:00,2024-03-19 22:28:28+02:00
+gpt_engineer/applications/cli/main.py,hmasdev,Theo McCabe,2024-03-19 22:28:28+02:00,2024-03-20 08:32:16+00:00
+gpt_engineer/applications/cli/main.py,Anton Osika,Ziga Brencic,2024-03-21 09:44:26+01:00,2024-03-21 18:44:33+01:00
+gpt_engineer/chat_to_files.py,Anton Osika,Enzo Martin,2023-06-17 14:10:29+02:00,2023-06-18 10:06:36+02:00
+gpt_engineer/chat_to_files.py,Enzo Martin,Gonçalo Moita,2023-06-18 10:34:35+02:00,2023-06-18 14:10:08+02:00
+gpt_engineer/chat_to_files.py,Gonçalo Moita,Anton Osika,2023-06-18 14:10:08+02:00,2023-06-18 14:25:49+02:00
+gpt_engineer/chat_to_files.py,Anton Osika,Emil Ahlbäck,2023-06-18 14:25:49+02:00,2023-06-18 14:54:06+02:00
+gpt_engineer/chat_to_files.py,Emil Ahlbäck,Carl Thomé,2023-06-18 14:54:06+02:00,2023-06-18 15:04:30+02:00
+gpt_engineer/chat_to_files.py,Carl Thomé,Anton Osika,2023-06-18 15:04:30+02:00,2023-06-18 22:34:31+02:00
+gpt_engineer/chat_to_files.py,Anton Osika,David Cameron,2023-06-18 22:34:31+02:00,2023-06-19 07:07:59-04:00
+gpt_engineer/chat_to_files.py,Peter Harrington,AJ,2023-08-16 10:35:30-07:00,2023-08-16 22:16:43+02:00
+gpt_engineer/chat_to_files.py,AJ,Anton Osika,2023-08-16 22:16:43+02:00,2023-08-16 22:17:39+02:00
+gpt_engineer/chat_to_files.py,Anton Osika,Peter Harrington,2023-08-16 22:17:39+02:00,2023-08-16 15:04:23-07:00
+gpt_engineer/chat_to_files.py,UmerHA,Anton Osika,2023-09-19 12:28:47+02:00,2023-09-19 23:49:03+02:00
+gpt_engineer/collect.py,Anton Osika,sweep-ai[bot],2023-08-19 00:50:49+02:00,2023-08-19 08:38:38+02:00
+gpt_engineer/core/ai.py,kristiankyvik,Ernie Massei,2024-02-12 11:47:29+01:00,2024-02-12 13:59:11-05:00
+gpt_engineer/core/ai.py,Theo McCabe,Anton Osika,2024-03-20 15:31:50+00:00,2024-03-21 09:44:26+01:00
+gpt_engineer/core/chat_to_files.py,sweep-ai[bot],theo,2023-10-08 09:47:14+00:00,2023-10-08 20:52:21+01:00
+gpt_engineer/core/chat_to_files.py,theo,Theo Mc,2023-10-16 13:34:39+01:00,2023-10-16 14:47:15+01:00
+gpt_engineer/core/chat_to_files.py,Talion,Axel Theorell,2024-01-20 00:27:54-04:00,2024-01-20 13:37:53+01:00
+gpt_engineer/core/chat_to_files.py,Axel Theorell,Talion,2024-01-20 13:37:53+01:00,2024-01-20 22:58:05-04:00
+gpt_engineer/core/chat_to_files.py,Talion,Axel Theorell,2024-02-05 01:13:56-04:00,2024-02-05 19:42:17+01:00
+gpt_engineer/core/chat_to_files.py,kristiankyvik,Talion,2024-02-10 13:17:41+01:00,2024-02-10 23:09:03-04:00
+gpt_engineer/core/chat_to_files.py,Anton Osika,azrv,2024-03-21 09:44:26+01:00,2024-03-21 21:10:43+02:00
+gpt_engineer/core/default/lean_agent.py,Anton Osika,Axel Theorell,2023-11-29 21:31:22+01:00,2023-11-30 10:01:13+01:00
+gpt_engineer/core/default/lean_agent.py,Axel Theorell,Anton Osika,2023-11-30 10:01:13+01:00,2023-11-30 19:31:21+01:00
+gpt_engineer/core/default/lean_agent.py,Anton Osika,Axel Theorell,2023-11-30 19:33:08+01:00,2023-12-01 10:48:55+01:00
+gpt_engineer/core/default/on_disk_execution_env.py,Anton Osika,Axel Theorell,2023-11-30 09:44:19+01:00,2023-11-30 10:01:13+01:00
+gpt_engineer/core/default/on_disk_repository.py,Anton Osika,Axel Theorell,2023-11-29 21:31:22+01:00,2023-11-30 10:01:13+01:00
+gpt_engineer/core/default/simple_agent.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+gpt_engineer/core/default/steps.py,Anton Osika,Axel Theorell,2023-11-29 21:31:22+01:00,2023-11-30 10:01:13+01:00
+gpt_engineer/core/default/steps.py,Axel Theorell,Anton Osika,2023-11-30 10:01:13+01:00,2023-11-30 19:31:21+01:00
+gpt_engineer/core/default/steps.py,Anton Osika,Axel Theorell,2023-11-30 19:31:21+01:00,2023-12-01 10:48:55+01:00
+gpt_engineer/core/default/steps.py,Talion,kristiankyvik,2024-02-10 02:53:17-04:00,2024-02-10 13:17:41+01:00
+gpt_engineer/core/default/steps.py,azrv,Talion,2024-03-07 19:18:44+02:00,2024-03-07 21:24:53-04:00
+gpt_engineer/core/default/steps.py,Axel Theorell,Talion,2024-03-09 13:42:12+01:00,2024-03-09 17:58:32-04:00
+gpt_engineer/core/default/steps.py,Talion,Theo McCabe,2024-03-18 21:37:42-03:00,2024-03-19 20:07:27+01:00
+gpt_engineer/core/default/steps.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+gpt_engineer/core/default/steps.py,Anton Osika,azrv,2024-03-21 09:44:26+01:00,2024-03-21 21:10:43+02:00
+gpt_engineer/core/diff.py,Talion,Axel Theorell,2024-02-02 23:28:03-04:00,2024-02-03 19:54:35+01:00
+gpt_engineer/core/diff.py,Axel Theorell,Talion,2024-02-03 19:54:35+01:00,2024-02-03 23:34:32-04:00
+gpt_engineer/core/diff.py,Talion,Axel Theorell,2024-02-03 23:34:32-04:00,2024-02-04 12:20:15+01:00
+gpt_engineer/core/diff.py,Axel Theorell,Talion,2024-02-04 12:20:15+01:00,2024-02-05 01:13:49-04:00
+gpt_engineer/core/files_dict.py,kristiankyvik,Talion,2024-02-10 13:17:41+01:00,2024-02-11 00:23:37-04:00
+gpt_engineer/core/prompt.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+gpt_engineer/core/steps.py,Anton Osika,theo,2023-10-07 13:02:26-07:00,2023-10-08 20:52:21+01:00
+gpt_engineer/db.py,Jack Eadie,Ryan Jalynski,2023-06-16 13:25:29+02:00,2023-06-16 19:01:27-04:00
+gpt_engineer/db.py,Ryan Jalynski,Anton Osika,2023-06-16 23:36:08-04:00,2023-06-17 12:03:19+02:00
+gpt_engineer/db.py,Anton Osika,Enzo Martin,2023-06-17 12:03:19+02:00,2023-06-18 10:05:59+02:00
+gpt_engineer/db.py,Enzo Martin,Anton Osika,2023-06-18 10:34:35+02:00,2023-06-18 16:16:57+02:00
+gpt_engineer/db.py,Anton Osika,LopeKinz,2023-06-18 16:16:57+02:00,2023-06-19 13:26:55+02:00
+gpt_engineer/db.py,Anton Osika,Leonardo Mariga,2023-06-24 17:53:04+02:00,2023-06-24 17:45:54-03:00
+gpt_engineer/db.py,Anton Azarov,Anton Osika,2023-07-02 15:56:31+02:00,2023-07-02 16:43:13+02:00
+gpt_engineer/db.py,sweep-ai[bot],Anton Osika,2023-08-19 08:38:38+02:00,2023-08-19 08:40:04+02:00
+gpt_engineer/file_selector.py,Leonardo Mariga,Lucas Klein,2023-08-08 19:11:49-07:00,2023-08-08 19:11:49-07:00
+gpt_engineer/file_selector.py,Lucas Klein,Leonardo Mariga,2023-08-08 19:11:49-07:00,2023-08-08 19:45:22-07:00
+gpt_engineer/file_selector.py,Leonardo Mariga,Peter Harrington,2023-08-08 19:45:27-07:00,2023-08-09 10:40:36-07:00
+gpt_engineer/file_selector.py,Peter Harrington,Anton Osika,2023-08-16 11:53:45-07:00,2023-08-16 21:15:09+02:00
+gpt_engineer/file_selector.py,Anton Osika,Peter Harrington,2023-08-16 21:15:09+02:00,2023-08-16 15:10:56-07:00
+gpt_engineer/file_selector.py,Ruijian-Zha,captivus,2023-10-02 20:57:41-04:00,2023-10-02 21:18:39-05:00
+gpt_engineer/learning.py,captivus,UmerHA,2023-10-02 21:18:39-05:00,2023-10-03 20:56:46+02:00
+gpt_engineer/main.py,Jack Eadie,Anton Osika,2023-06-16 13:25:29+02:00,2023-06-17 11:04:46+02:00
+gpt_engineer/main.py,Anton Osika,Enzo Martin,2023-06-17 13:02:16+02:00,2023-06-18 10:05:45+02:00
+gpt_engineer/main.py,Enzo Martin,Patilla Code,2023-06-18 10:34:35+02:00,2023-06-18 14:46:03+02:00
+gpt_engineer/main.py,Patilla Code,Emil Ahlbäck,2023-06-18 14:46:03+02:00,2023-06-18 15:26:54+02:00
+gpt_engineer/main.py,Emil Ahlbäck,Junlin Liu,2023-06-18 15:26:54+02:00,2023-06-18 15:36:45+02:00
+gpt_engineer/main.py,Junlin Liu,Carl Thomé,2023-06-18 15:36:45+02:00,2023-06-18 16:21:16+02:00
+gpt_engineer/main.py,Carl Thomé,Anton Osika,2023-06-18 16:21:16+02:00,2023-06-18 22:34:31+02:00
+gpt_engineer/main.py,Anton Osika,LopeKinz,2023-06-18 22:34:31+02:00,2023-06-19 13:26:55+02:00
+gpt_engineer/main.py,Anton Osika,--Explosion--,2023-06-25 10:56:56+02:00,2023-06-25 12:43:56+02:00
+gpt_engineer/main.py,Anton Azarov,Anton Osika,2023-07-02 15:56:31+02:00,2023-07-02 16:43:13+02:00
+gpt_engineer/main.py,Leonardo Mariga,Peter Harrington,2023-08-08 19:45:22-07:00,2023-08-09 10:40:36-07:00
+gpt_engineer/main.py,OriAshkenazi,Anton Osika,2023-08-13 11:09:32+02:00,2023-08-13 11:12:40+02:00
+gpt_engineer/main.py,Anton Osika,Peter Harrington,2023-08-13 11:12:40+02:00,2023-08-13 08:13:52-07:00
+gpt_engineer/main.py,Anton Osika,AJ,2023-08-16 21:15:09+02:00,2023-08-16 22:16:43+02:00
+gpt_engineer/main.py,AJ,Anton Osika,2023-08-16 22:16:43+02:00,2023-08-16 22:17:39+02:00
+gpt_engineer/main.py,Anton Osika,Peter Harrington,2023-08-16 22:17:39+02:00,2023-08-17 12:48:21-07:00
+gpt_engineer/main.py,RareMojo,Anton Osika,2023-09-18 20:43:27-05:00,2023-09-19 23:49:03+02:00
+gpt_engineer/main.py,Anton Osika,Fabian Hedin,2023-09-19 23:49:03+02:00,2023-09-20 15:59:43+02:00
+gpt_engineer/main.py,Lukas Petersson,Anton Osika,2023-09-22 23:02:43+02:00,2023-09-23 01:41:11+02:00
+gpt_engineer/main.py,captivus,saschalalala,2023-10-02 21:18:39-05:00,2023-10-03 18:38:12+02:00
+gpt_engineer/main.py,saschalalala,UmerHA,2023-10-03 18:53:01+02:00,2023-10-03 20:59:31+02:00
+gpt_engineer/preprompts/generate,Fathi Helmi,Nitaym,2023-07-02 15:22:55+02:00,2023-07-02 17:05:09+02:00
+gpt_engineer/preprompts/improve,Axel Theorell,Talion,2024-02-10 11:41:22+01:00,2024-02-11 00:23:37-04:00
+gpt_engineer/steps.py,Jack Eadie,Anton Osika,2023-06-16 13:25:29+02:00,2023-06-17 13:02:16+02:00
+gpt_engineer/steps.py,Anton Osika,Emil Ahlbäck,2023-06-17 13:02:16+02:00,2023-06-17 13:37:45+02:00
+gpt_engineer/steps.py,Emil Ahlbäck,Anton Osika,2023-06-17 13:39:56+02:00,2023-06-17 13:45:03+02:00
+gpt_engineer/steps.py,Anton Osika,Emil Ahlbäck,2023-06-17 13:45:03+02:00,2023-06-17 13:49:37+02:00
+gpt_engineer/steps.py,Emil Ahlbäck,Anton Osika,2023-06-17 13:49:37+02:00,2023-06-17 13:52:37+02:00
+gpt_engineer/steps.py,Anton Osika,Emil Ahlbäck,2023-06-17 14:10:29+02:00,2023-06-17 14:12:38+02:00
+gpt_engineer/steps.py,Emil Ahlbäck,jjzhuo,2023-06-17 15:21:13+02:00,2023-06-17 16:35:43+02:00
+gpt_engineer/steps.py,jjzhuo,Anton Osika,2023-06-17 16:35:43+02:00,2023-06-17 19:52:22+02:00
+gpt_engineer/steps.py,Anton Osika,Enzo Martin,2023-06-18 08:36:34+02:00,2023-06-18 10:06:17+02:00
+gpt_engineer/steps.py,Enzo Martin,Junlin Liu,2023-06-18 10:06:17+02:00,2023-06-18 11:44:35+00:00
+gpt_engineer/steps.py,Junlin Liu,Patilla Code,2023-06-18 11:44:35+00:00,2023-06-18 14:46:03+02:00
+gpt_engineer/steps.py,Patilla Code,Carl Thomé,2023-06-18 14:46:03+02:00,2023-06-18 14:52:42+02:00
+gpt_engineer/steps.py,Carl Thomé,Anton Osika,2023-06-18 14:52:42+02:00,2023-06-18 15:02:42+02:00
+gpt_engineer/steps.py,Anton Osika,Carl Thomé,2023-06-18 15:02:42+02:00,2023-06-18 15:04:30+02:00
+gpt_engineer/steps.py,Carl Thomé,Anton Osika,2023-06-18 15:04:30+02:00,2023-06-18 15:16:20+02:00
+gpt_engineer/steps.py,Anton Osika,Emil Ahlbäck,2023-06-18 16:16:57+02:00,2023-06-18 16:26:03+02:00
+gpt_engineer/steps.py,Emil Ahlbäck,Anton Osika,2023-06-18 16:36:41+02:00,2023-06-18 22:34:31+02:00
+gpt_engineer/steps.py,Anton Osika,Daniel McDonald,2023-06-21 00:52:36+02:00,2023-06-21 16:56:59+02:00
+gpt_engineer/steps.py,Daniel McDonald,Anton Osika,2023-06-21 18:25:50+02:00,2023-06-21 19:56:19+02:00
+gpt_engineer/steps.py,Anton Osika,abdelrhman yasser2020,2023-06-22 22:04:06+02:00,2023-06-23 01:09:18+02:00
+gpt_engineer/steps.py,abdelrhman yasser2020,Philipp Kohler,2023-06-23 01:09:18+02:00,2023-06-23 10:17:52+00:00
+gpt_engineer/steps.py,Leonardo Mariga,Anton Azarov,2023-07-01 20:04:14-03:00,2023-07-02 15:56:31+02:00
+gpt_engineer/steps.py,Anton Azarov,Anton Osika,2023-07-02 15:56:31+02:00,2023-07-02 16:43:13+02:00
+gpt_engineer/steps.py,Anton Osika,Leonardo Mariga,2023-07-02 16:43:13+02:00,2023-07-02 20:26:19-03:00
+gpt_engineer/steps.py,Leonardo Mariga,UmerHA,2023-07-02 20:26:19-03:00,2023-07-03 21:28:34+02:00
+gpt_engineer/steps.py,Leonardo Mariga,Peter Harrington,2023-08-08 19:45:22-07:00,2023-08-09 10:40:36-07:00
+gpt_engineer/steps.py,Peter Harrington,AJ,2023-08-16 10:35:30-07:00,2023-08-16 22:16:43+02:00
+gpt_engineer/steps.py,AJ,Anton Osika,2023-08-16 22:16:43+02:00,2023-08-16 22:17:39+02:00
+gpt_engineer/steps.py,Anton Osika,Peter Harrington,2023-08-16 22:17:39+02:00,2023-08-17 12:48:21-07:00
+gpt_engineer/steps.py,UmerHA,Anton Osika,2023-09-18 10:38:34+02:00,2023-09-18 14:05:38+02:00
+gpt_engineer/steps.py,Anton Osika,RareMojo,2023-09-18 14:05:38+02:00,2023-09-18 20:47:17-05:00
+gpt_engineer/steps.py,RareMojo,Anton Osika,2023-09-18 20:47:17-05:00,2023-09-19 23:49:03+02:00
+gpt_engineer/steps.py,Anton Osika,Lukas Petersson,2023-09-19 23:49:03+02:00,2023-09-20 01:53:49+02:00
+gpt_engineer/steps.py,Lukas Petersson,Anton Osika,2023-09-22 23:02:43+02:00,2023-09-22 23:05:55+02:00
+gpt_engineer/tools/custom_steps.py,Anton Osika,Axel Theorell,2023-11-29 21:31:22+01:00,2023-11-30 10:01:13+01:00
+gpt_engineer/tools/custom_steps.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+identity/generate,Anton Osika,Emil Ahlbäck,2023-06-17 19:52:22+02:00,2023-06-18 15:26:45+02:00
+identity/generate,Emil Ahlbäck,Junlin Liu,2023-06-18 15:26:45+02:00,2023-06-18 15:36:45+02:00
+identity/generate,Junlin Liu,Anton Osika,2023-06-18 15:36:45+02:00,2023-06-18 16:16:57+02:00
+identity/philosophy,Enzo Martin,Anton Osika,2023-06-18 10:06:28+02:00,2023-06-18 16:16:57+02:00
+identity/respec,Emil Ahlbäck,Anton Osika,2023-06-17 13:37:45+02:00,2023-06-17 13:49:00+02:00
+identity/spec,Emil Ahlbäck,Anton Osika,2023-06-17 15:23:55+02:00,2023-06-17 19:52:22+02:00
+identity/unit_tests,Emil Ahlbäck,Anton Osika,2023-06-17 15:23:55+02:00,2023-06-17 19:52:22+02:00
+identity/use_qa,Emil Ahlbäck,Anton Osika,2023-06-17 13:37:45+02:00,2023-06-17 19:52:22+02:00
+identity/use_qa,Anton Osika,Enzo Martin,2023-06-17 19:52:22+02:00,2023-06-18 10:06:36+02:00
+identity/use_qa,Enzo Martin,Emil Ahlbäck,2023-06-18 10:06:36+02:00,2023-06-18 15:26:45+02:00
+identity/use_qa,Emil Ahlbäck,Anton Osika,2023-06-18 15:26:45+02:00,2023-06-18 16:16:57+02:00
+poetry.lock,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-13 10:46:43+02:00
+poetry.lock,Kristian Kyvik,kristiankyvik,2024-01-25 12:50:25+01:00,2024-01-25 18:56:55+02:00
+poetry.lock,Anton Osika,Theo McCabe,2024-03-09 18:51:06+01:00,2024-03-09 17:53:34+00:00
+poetry.lock,azrv,Erik Bjäreholt,2024-03-17 18:20:45+02:00,2024-03-18 10:47:47+01:00
+poetry.lock,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+pyproject.toml,PatillaCode,Jack Eadie,2023-06-15 18:33:24+02:00,2023-06-16 13:25:29+02:00
+pyproject.toml,Jack Eadie,Anton Osika,2023-06-16 13:25:29+02:00,2023-06-17 11:04:46+02:00
+pyproject.toml,Anton Osika,george,2023-06-18 23:31:01+02:00,2023-06-19 13:09:15+02:00
+pyproject.toml,george,Patilla Code,2023-06-19 13:09:15+02:00,2023-06-20 11:56:57+02:00
+pyproject.toml,Patilla Code,Anton Osika,2023-06-20 11:56:57+02:00,2023-06-21 00:38:21+02:00
+pyproject.toml,Anton Osika,sweep-ai[bot],2023-06-25 15:53:34+02:00,2023-06-25 16:21:13+02:00
+pyproject.toml,sweep-ai[bot],Plamen Ivanov,2023-06-25 16:21:13+02:00,2023-06-25 16:39:40+02:00
+pyproject.toml,Artem Moskvin,Yaroslav Halchenko,2023-07-02 15:14:33+02:00,2023-07-02 16:47:31+02:00
+pyproject.toml,Yaroslav Halchenko,Anton Osika,2023-07-02 16:47:31+02:00,2023-07-02 19:17:15+02:00
+pyproject.toml,ma-raza,Anton Osika,2023-08-12 13:29:37+02:00,2023-08-12 13:29:47+02:00
+pyproject.toml,Anton Osika,OriAshkenazi,2023-08-12 13:51:45+02:00,2023-08-13 11:09:32+02:00
+pyproject.toml,sweep-ai[bot],Anton Osika,2023-09-04 09:00:16+02:00,2023-09-04 09:01:09+02:00
+pyproject.toml,Krish Dholakia,Anton Osika,2023-09-07 21:48:36+02:00,2023-09-07 22:05:25+02:00
+pyproject.toml,Theo McCabe,Axel Theorell,2023-10-30 09:42:52+00:00,2023-10-31 10:01:19+01:00
+pyproject.toml,Axel Theorell,Theo McCabe,2023-11-21 13:22:51+01:00,2023-11-21 21:44:28+00:00
+pyproject.toml,Anton Osika,Axel Theorell,2023-11-29 19:55:03+01:00,2023-11-30 10:14:37+01:00
+pyproject.toml,Axel Theorell,Anton Osika,2023-11-30 14:20:22+01:00,2023-11-30 19:37:55+01:00
+pyproject.toml,Erik Bjäreholt,captivus,2023-12-03 13:36:21+01:00,2023-12-03 11:38:29-06:00
+pyproject.toml,captivus,rjsenanayaka,2023-12-03 15:01:29-06:00,2023-12-04 22:49:37+05:30
+pyproject.toml,ATheorell,captivus,2023-12-11 19:33:47+01:00,2023-12-11 17:05:58-06:00
+pyproject.toml,captivus,Axel Theorell,2023-12-11 17:05:58-06:00,2023-12-12 14:17:26+01:00
+pyproject.toml,Erik Bjäreholt,ATheorell,2023-12-18 11:32:43+01:00,2023-12-19 11:18:52+01:00
+pyproject.toml,Erik Bjäreholt,ATheorell,2023-12-20 18:56:54+01:00,2023-12-21 10:12:38+01:00
+pyproject.toml,Axel Theorell,ATheorell,2024-01-05 11:51:25+01:00,2024-01-05 13:23:38+01:00
+pyproject.toml,ATheorell,Axel Theorell,2024-01-05 13:23:38+01:00,2024-01-05 13:34:48+01:00
+pyproject.toml,Theo McCabe,Theo Mc,2024-01-22 09:30:10+00:00,2024-01-22 13:14:24+00:00
+pyproject.toml,Vibor Cipan,Axel Theorell,2024-02-10 13:57:43+01:00,2024-02-10 20:14:01+01:00
+pyproject.toml,Axel Theorell,Vibor Cipan,2024-02-10 20:20:26+01:00,2024-02-11 10:56:06+01:00
+pyproject.toml,azrv,Erik Bjäreholt,2024-03-17 18:20:45+02:00,2024-03-18 10:47:47+01:00
+pyproject.toml,Axel Theorell,Vibor Cipan,2024-04-27 19:03:55+02:00,2024-04-27 20:26:28+02:00
+requirements.txt,PatillaCode,Jack Eadie,2023-06-16 02:00:48+02:00,2023-06-16 13:25:29+02:00
+requirements.txt,Philipp Kohler,Romain d'Esparbès,2023-06-19 17:33:53+02:00,2023-06-20 11:50:48+02:00
+requirements.txt,Romain d'Esparbès,Patilla Code,2023-06-20 11:50:48+02:00,2023-06-20 11:56:57+02:00
+scripts/benchmark.py,Patilla Code,Anton Osika,2023-06-18 14:46:03+02:00,2023-06-18 15:02:42+02:00
+scripts/benchmark.py,Anton Osika,Junlin Liu,2023-06-18 15:16:20+02:00,2023-06-18 15:36:45+02:00
+scripts/benchmark.py,Junlin Liu,nwa,2023-06-18 15:36:45+02:00,2023-06-18 21:47:50+02:00
+scripts/benchmark.py,nwa,Anton Osika,2023-06-18 21:47:50+02:00,2023-06-18 22:34:31+02:00
+scripts/benchmark.py,Anton Osika,LopeKinz,2023-06-18 22:35:05+02:00,2023-06-19 13:26:55+02:00
+scripts/benchmark.py,LopeKinz,Romain d'Esparbès,2023-06-19 13:26:55+02:00,2023-06-20 11:50:48+02:00
+scripts/benchmark.py,Romain d'Esparbès,Anton Osika,2023-06-20 11:50:48+02:00,2023-06-21 00:37:18+02:00
+scripts/benchmark.py,abdelrhman yasser2020,Plamen Ivanov,2023-06-23 01:09:18+02:00,2023-06-23 12:01:29+02:00
+scripts/benchmark.py,Anton Osika,Plamen Ivanov,2023-06-25 15:53:34+02:00,2023-06-25 16:39:40+02:00
+scripts/benchmark.py,Plamen Ivanov,Anton Osika,2023-06-25 16:39:40+02:00,2023-06-25 16:40:51+02:00
+scripts/benchmark.py,Artem Moskvin,Anton Osika,2023-07-02 15:14:33+02:00,2023-07-02 16:43:13+02:00
+scripts/print_chat.py,Anton Osika,kafka,2023-06-21 00:37:18+02:00,2023-06-21 14:24:43+05:45
+tests/ai_cache.json,Axel Theorell,Talion,2024-01-05 13:41:18+01:00,2024-01-05 16:23:43-04:00
+tests/ai_cache.json,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+tests/applications/cli/test_cli_agent.py,Anton Osika,Axel Theorell,2023-11-29 22:00:45+01:00,2023-11-30 10:01:13+01:00
+tests/applications/cli/test_main.py,Talion,Axel Theorell,2024-03-18 22:09:27-03:00,2024-03-19 20:08:52+01:00
+tests/caching_ai.py,Anton Osika,Axel Theorell,2023-11-29 19:55:03+01:00,2023-11-30 14:27:05+01:00
+tests/caching_ai.py,Axel Theorell,Anton Osika,2023-11-30 14:44:34+01:00,2023-11-30 19:31:21+01:00
+tests/caching_ai.py,Anton Osika,Axel Theorell,2023-11-30 19:31:21+01:00,2023-12-01 10:48:55+01:00
+tests/caching_ai.py,Axel Theorell,Talion,2024-01-20 13:37:53+01:00,2024-01-20 23:06:40-04:00
+tests/core/chat_to_files_test_cases/corrected_diff_from_missing_lines,Talion,Axel Theorell,2024-02-12 21:12:39-04:00,2024-02-13 20:39:06+01:00
+tests/core/chat_to_files_test_cases/corrected_diff_from_missing_lines,Axel Theorell,Talion,2024-02-13 20:39:06+01:00,2024-02-13 23:21:12-04:00
+tests/core/chat_to_files_test_cases/wheaties_example_code,Axel Theorell,Talion,2024-02-10 11:36:28+01:00,2024-02-11 00:23:37-04:00
+tests/core/default/test_on_disk_execution_env.py,Anton Osika,Axel Theorell,2023-11-29 19:55:03+01:00,2023-11-30 10:01:13+01:00
+tests/core/default/test_steps.py,Theo McCabe,Axel Theorell,2024-03-19 20:07:28+01:00,2024-03-19 20:08:52+01:00
+tests/core/test_chat_to_files.py,Axel Theorell,Talion,2024-02-03 19:54:35+01:00,2024-02-03 23:34:15-04:00
+tests/core/test_chat_to_files.py,Talion,Axel Theorell,2024-02-03 23:34:15-04:00,2024-02-04 12:20:15+01:00
+tests/core/test_chat_to_files.py,Axel Theorell,Talion,2024-02-04 12:20:15+01:00,2024-02-05 01:13:56-04:00
+tests/core/test_chat_to_files.py,Axel Theorell,Talion,2024-02-10 11:36:28+01:00,2024-02-10 23:02:00-04:00
+tests/core/test_chat_to_files.py,Talion,Axel Theorell,2024-02-12 21:24:57-04:00,2024-02-13 20:39:06+01:00
+tests/core/test_chat_to_files.py,Axel Theorell,Talion,2024-02-13 20:39:06+01:00,2024-02-13 23:29:06-04:00
+tests/core/test_salvage_correct_hunks.py,Talion,Anton Osika,2024-05-02 13:44:03-03:00,2024-05-02 22:00:09+02:00
+tests/steps/test_archive.py,Anton Azarov,Anton Osika,2023-07-02 15:56:31+02:00,2023-07-02 16:43:13+02:00
+tests/steps/test_archive.py,captivus,UmerHA,2023-10-02 21:18:39-05:00,2023-10-03 20:56:46+02:00
+tests/test_chat_parser.py,Gonçalo Moita,Anton Osika,2023-06-18 14:10:08+02:00,2023-06-18 14:25:49+02:00
+tests/test_chat_to_files.py,captivus,UmerHA,2023-10-02 21:18:39-05:00,2023-10-03 20:56:46+02:00
+tests/test_collect.py,captivus,UmerHA,2023-10-02 22:02:22-05:00,2023-10-03 20:56:46+02:00
+tests/test_db.py,Philipp Kohler,Patilla Code,2023-06-17 20:53:04+02:00,2023-06-18 14:46:03+02:00

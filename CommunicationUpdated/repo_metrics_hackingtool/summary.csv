@@ -1,0 +1,53 @@
+Field,Value
+Commits Overview,
+Total Commits,333
+Total Unique Authors,37
+,
+Top 10 Contributors,
+Author,Commits
+Christian Clauss,89
+Mr.Z4nzu,81
+Greatest125,69
+naveennamani,33
+Hardik Zinzuvadiya,22
+mokrunka,6
+ImgBotApp,5
+GMDSantana,5
+TheWildNIght,4
+JinnaBalu,3
+,
+Communication Events,Total: 7
+"Author1,Author2",Events
+"Hardik Zinzuvadiya,Christian Clauss",4
+"Christian Clauss,Hardik Zinzuvadiya",1
+"MDA1422,xb7",1
+"mokrunka,Greatest125",1
+,
+Committer Timezone Distribution,Unique Timezones: 13
+Timezone,Commits
++00:00,29
++01:00,21
++02:00,72
++03:00,5
++05:30,126
++06:00,1
++08:00,5
++10:30,2
+-03:00,1
+-04:00,6
+-05:00,57
+-06:00,2
+-08:00,6
+,
+Contributors Experience,Average across 49 files: 87.65%
+File,Top Contributor Share (%)
+LICENSE,100.00
+requirement.txt,100.00
+img,100.00
+images/demo,100.00
+.github/ISSUE_TEMPLATE/bug_report.md,100.00
+.github/ISSUE_TEMPLATE/feature_request.md,100.00
+tools/others/hash_crack.py,100.00
+tools/others/homograph_attacks.py,100.00
+tools/others/payload_injection.py,100.00
+tools/others/web_crawling.py,100.00

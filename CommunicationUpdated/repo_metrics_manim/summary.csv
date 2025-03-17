@@ -1,0 +1,148 @@
+Field,Value
+Commits Overview,
+Total Commits,6322
+Total Unique Authors,191
+,
+Top 10 Contributors,
+Author,Commits
+Grant Sanderson,11594
+Devin Neal,663
+YishiMichael,428
+Ben Hambrecht,419
+TonyCrane,286
+Tony031218,266
+cclauss,144
+Sridhar Ramesh,120
+Michael W,51
+Kolloom,42
+,
+Communication Events,Total: 285
+"Author1,Author2",Events
+"Ben Hambrecht,Grant Sanderson",39
+"Grant Sanderson,Ben Hambrecht",28
+"Grant Sanderson,Sridhar Ramesh",16
+"Sridhar Ramesh,Grant Sanderson",13
+"Grant Sanderson,TonyCrane",9
+"Grant Sanderson,Tony031218",9
+"Tony031218,Grant Sanderson",9
+"Varniex,Grant Sanderson",9
+"Grant Sanderson,YishiMichael",8
+"Michael W,TonyCrane",7
+"YishiMichael,Grant Sanderson",7
+"TonyCrane,Grant Sanderson",6
+"Grant Sanderson,Varniex",6
+"鹤翔万里,Tony031218",5
+"friedkeenan,Grant Sanderson",5
+"Devin Neal,Kolloom",4
+"TonyCrane,YishiMichael",4
+"Splines,Grant Sanderson",4
+"Scott Opell,Grant Sanderson",4
+"Sahil Makhijani,Grant Sanderson",3
+"Grant Sanderson,Solara570",3
+"Grant Sanderson,Splines",3
+"Tony031218,friedkeenan",3
+"Tony031218,鹤翔万里",3
+"cclauss,Dan Waxman",2
+"Grant Sanderson,Sahil Makhijani",2
+"Sridhar Ramesh,Ben Hambrecht",2
+"YishiMichael,TonyCrane",2
+"bhbr,Ben Hambrecht",2
+"TonyCrane,sahilmakhijani",2
+"Ben Hambrecht,frozar",2
+"Grant Sanderson,Thierry Parmentelat",1
+"Grant Sanderson,LucaCappelletti94",1
+"Grant Sanderson,Mehmet Mert Yildiran",1
+"Grant Sanderson,Scott Opell",1
+"Garrett Credi [ddxtanx],Grant Sanderson",1
+"Grant Sanderson,Abhijith Muthyala",1
+"Grant Sanderson,Benjamin Bastian",1
+"Grant Sanderson,Benjamín Ubilla",1
+"Elisha Hollander,Grant Sanderson",1
+"F.W,Devin Neal",1
+"Devin Neal,lkevinzc",1
+"Bill Xi,TonyCrane",1
+"CodingPower472,giacomo-b",1
+"Dan Waxman,cclauss",1
+"Devin Neal,F.W",1
+"Devin Neal,Liu Zichen",1
+"ASUTOSH GHANTO,鹤翔万里",1
+"Ben Hambrecht,bhbr",1
+"Aathish,Devin Neal",1
+"Abhijith Muthyala,Grant Sanderson",1
+"Bill Xi,Grant Sanderson",1
+"Charly,Devin Neal",1
+"Benjamín Ubilla,Grant Sanderson",1
+"Kierán Meinhardt,Kolloom",1
+"Naveen M K,鹤翔万里",1
+"Mehmet Mert Yildiran,Grant Sanderson",1
+"LucaCappelletti94,Grant Sanderson",1
+"Kolloom,Devin Neal",1
+"Jasper Homann,Grant Sanderson",1
+"Grant Sanderson,friedkeenan",1
+"Grant Sanderson,henri-gasc",1
+"Grant Sanderson,frozar",1
+"Thierry Parmentelat,Grant Sanderson",1
+"Syrus Dark,Grant Sanderson",1
+"Sunkisser,鹤翔万里",1
+"NavpreetDevpuri,Aathish",1
+"Purusharth Saxena,Devin Neal",1
+"Pedro Maia,Sahil Makhijani",1
+"Shubhanshu Mishra,Devin Neal",1
+"Solara570,Grant Sanderson",1
+"Grant Sanderson,pdcxs",1
+"Grant Sanderson,widcardw",1
+"Wallbreaker5th,Naveen M K",1
+"XiaoYoung,鹤翔万里",1
+"Wallbreaker5th,TonyCrane",1
+"Wallbreaker5th,Grant Sanderson",1
+"TonyCrane,Bill Xi",1
+"TonyCrane,Naveen M K",1
+"Yoshi Askharoun,TortelliniLeap",1
+"YishiMichael,鹤翔万里",1
+"YishiMichael,lask",1
+"brockelmore,Charlie Park",1
+"frozar,Sridhar Ramesh",1
+"henri-gasc,Grant Sanderson",1
+"kyarik,Devin Neal",1
+"frozar,Grant Sanderson",1
+"lkevinzc,Devin Neal",1
+"mirefek,Grant Sanderson",1
+"peninha,Kubo Kovac",1
+"pdcxs,Grant Sanderson",1
+"widcardw,TonyCrane",1
+"鹤翔万里,Sunkisser",1
+"鹤翔万里,TonyCrane",1
+"鹤翔万里,Wallbreaker5th",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,33
++01:00,165
++02:00,204
++03:00,19
++05:30,44
++05:45,1
++06:00,1
++07:00,4
++08:00,606
++11:00,1
+-03:00,38
+-04:00,47
+-05:00,253
+-06:00,181
+-07:00,2070
+-08:00,2588
+-10:00,67
+,
+Contributors Experience,Average across 1023 files: 94.16%
+File,Top Contributor Share (%)
+animate.py,100.00
+displayer.py,100.00
+epii/cccd_animations.py,100.00
+epii/dexp_generate_images.py,100.00
+epii/epii_animations.py,100.00
+epii/poem_animations.py,100.00
+generate_logo.py,100.00
+images2gif.py,100.00
+mobject.py,100.00
+tex_image_utils.py,100.00

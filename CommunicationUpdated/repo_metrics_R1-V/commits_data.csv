@@ -1,0 +1,452 @@
+author,timestamp,file
+Liang Chen,2025-02-03 02:19:54+08:00,README.md
+Liang Chen,2025-02-03 02:39:07+08:00,README.md
+Liang Chen,2025-02-03 02:40:44+08:00,README.md
+Liang Chen,2025-02-03 02:52:54+08:00,README.md
+Liang Chen,2025-02-03 04:01:51+08:00,README.md
+Vinci,2025-02-02 20:32:53+00:00,README.md
+Vinci,2025-02-02 20:32:53+00:00,images/ood.png
+Vinci,2025-02-02 20:32:53+00:00,images/super_ood.png
+Vinci,2025-02-02 20:36:54+00:00,README.md
+Vinci,2025-02-02 20:47:55+00:00,README.md
+Vinci,2025-02-02 20:55:05+00:00,README.md
+Vinci,2025-02-02 21:15:20+00:00,README.md
+Vinci,2025-02-02 21:15:34+00:00,images/training.png
+Vinci,2025-02-02 21:15:44+00:00,README.md
+Liang Chen,2025-02-03 05:26:30+08:00,README.md
+Liang Chen,2025-02-03 05:27:58+08:00,README.md
+Liang Chen,2025-02-03 05:32:29+08:00,README.md
+Vinci,2025-02-02 21:38:56+00:00,README.md
+Vinci,2025-02-02 21:38:56+00:00,images/ood.png
+Liang Chen,2025-02-03 05:40:33+08:00,README.md
+Liang Chen,2025-02-03 06:29:56+08:00,README.md
+Liang Chen,2025-02-03 06:33:30+08:00,README.md
+Liang Chen,2025-02-03 11:41:40+08:00,README.md
+Liang Chen,2025-02-03 12:18:23+08:00,README.md
+Vinci,2025-02-03 04:56:58+00:00,README copy.md
+Vinci,2025-02-03 04:56:58+00:00,README.md
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/.gitignore
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/LICENSE
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/Makefile
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/README.md
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/assets/lmm_r1.png
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/assets/plan-of-attack.png
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/configs/ddp.yaml
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/configs/zero2.yaml
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/configs/zero3.yaml
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/create_vision_cot_data.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/lmms_eval_qwen2vl.sh
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/prepare_hf_data.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/train_aria_moe.sh
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/train_qwen2_vl.sh
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/zero2.json
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/zero3.json
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/zero3.yaml
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/local_scripts/zero3_offload.json
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/run_grpo.sh
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/setup.cfg
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/setup.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/slurm/evaluate.slurm
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/slurm/generate.slurm
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/slurm/sft.slurm
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/__init__.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/evaluate.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/generate.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/grpo.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/sft.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/trainer/__init__.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+Vinci,2025-02-03 04:56:58+00:00,src/open-r1-multimodal/temp_image.png
+Vinci,2025-02-03 04:56:58+00:00,src/scripts/rollout_log_2b.txt
+Vinci,2025-02-03 04:56:58+00:00,src/scripts/run_grpo_clevr.sh
+Vinci,2025-02-03 05:00:04+00:00,README copy.md
+Vinci,2025-02-03 05:00:04+00:00,src/rollout_log_2b.txt
+Liang Chen,2025-02-03 13:43:26+08:00,README.md
+Liang Chen,2025-02-03 13:46:20+08:00,README.md
+Liang Chen,2025-02-03 14:28:39+08:00,README.md
+Liang Chen,2025-02-03 14:30:17+08:00,README.md
+Liang Chen,2025-02-03 14:33:16+08:00,README.md
+Liang Chen,2025-02-03 14:47:12+08:00,README.md
+Liang Chen,2025-02-03 22:01:58+08:00,README.md
+Liang Chen,2025-02-03 23:05:45+08:00,README.md
+Liang Chen,2025-02-03 23:08:10+08:00,README.md
+Liang Chen,2025-02-03 23:27:36+08:00,README.md
+chenllliang,2025-02-03 15:41:17+00:00,README.md
+chenllliang,2025-02-03 15:41:17+00:00,src/distill_r1/README.md
+chenllliang,2025-02-03 15:41:17+00:00,src/distill_r1/create_hf_dataset.py
+chenllliang,2025-02-03 15:41:17+00:00,src/distill_r1/filter_r1.py
+chenllliang,2025-02-03 15:41:17+00:00,src/distill_r1/generate_scene_qa_pairs.ipynb
+chenllliang,2025-02-03 15:41:17+00:00,src/distill_r1/prompt.py
+chenllliang,2025-02-03 15:41:17+00:00,src/distill_r1/query_r1.py
+chenllliang,2025-02-04 02:28:06+00:00,src/distill_r1/grpo_r1_distilled.jpg
+chenllliang,2025-02-04 04:59:51+00:00,README.md
+chenllliang,2025-02-04 04:59:51+00:00,images/curves.png
+Liang Chen,2025-02-04 18:06:42+08:00,README.md
+Liang Chen,2025-02-04 18:56:31+08:00,README.md
+Liang Chen,2025-02-04 18:57:43+08:00,README.md
+Vinci,2025-02-06 04:47:14+00:00,README.md
+Vinci,2025-02-06 04:47:14+00:00,setup.sh
+Vinci,2025-02-06 04:47:14+00:00,src/eval/logs/counting_results_superclevr_200_qwen2vl_2b_instruct_grpo100_legacy.json
+Vinci,2025-02-06 04:47:14+00:00,src/eval/logs/counting_results_superclevr_200_qwen2vl_2b_instruct_legacy.json
+Vinci,2025-02-06 04:47:14+00:00,src/eval/prompts/superclevr_test200_counting_problems.jsonl
+Vinci,2025-02-06 04:47:14+00:00,src/eval/test_qwen2vl_counting_superclevr.py
+Vinci,2025-02-06 04:47:14+00:00,src/scripts/run_grpo_clevr.sh
+Vinci,2025-02-06 05:01:26+00:00,README.md
+Vinci,2025-02-06 05:01:26+00:00,images/counting_stars.png
+Vinci,2025-02-06 05:09:39+00:00,README.md
+Vinci,2025-02-06 05:09:39+00:00,images/counting_star.png
+Vinci,2025-02-06 05:09:39+00:00,images/counting_stars.png
+Vinci,2025-02-06 05:11:27+00:00,README.md
+Vinci,2025-02-06 13:15:16+08:00,README.md
+Vinci,2025-02-06 13:17:53+08:00,README.md
+Vinci,2025-02-06 05:56:21+00:00,README.md
+Vinci,2025-02-06 05:56:21+00:00,images/train-test.png
+Liang Chen,2025-02-06 14:14:02+08:00,README.md
+Vinci,2025-02-06 21:58:29+08:00,README.md
+Vinci,2025-02-06 21:59:24+08:00,README.md
+Haozhe zhao,2025-02-07 01:01:52+08:00,README.md
+Liang Chen,2025-02-07 12:28:45+08:00,README.md
+yifan,2025-02-07 17:42:09+00:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+Liang Chen,2025-02-08 02:36:24+08:00,README.md
+Liang Chen,2025-02-08 02:40:12+08:00,setup.sh
+Liang Chen,2025-02-08 02:40:28+08:00,setup.sh
+Liang Chen,2025-02-08 02:41:28+08:00,README.md
+JamesHujy,2025-02-07 17:50:55-05:00,src/open-r1-multimodal/src/open_r1/grpo.py
+Liang Chen,2025-02-08 11:41:12+08:00,README.md
+Liang Chen,2025-02-08 12:10:43+08:00,images/train-test.png
+Liang Chen,2025-02-08 12:18:55+08:00,README.md
+Liang Chen,2025-02-08 14:39:23+08:00,README.md
+Lei Li,2025-02-08 17:40:09+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+lilei35,2025-02-09 13:38:18+00:00,src/open-r1-multimodal/src/open_r1/grpo.py
+lilei35,2025-02-09 13:38:18+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+wuhuikai,2025-02-10 13:49:36+08:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+lilei35,2025-02-10 08:34:48+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+yuezih,2025-02-10 10:09:57+00:00,README.md
+yuezih,2025-02-10 10:09:57+00:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+Liang Chen,2025-02-10 18:33:58+08:00,README.md
+lilei35,2025-02-10 12:43:15+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-10 21:09:40+08:00,.gitignore
+stephenruan,2025-02-10 21:09:40+08:00,pdsh_setup.sh
+stephenruan,2025-02-10 21:09:40+08:00,setup.sh
+stephenruan,2025-02-10 21:09:40+08:00,src/open-r1-multimodal/local_scripts/zero1.json
+stephenruan,2025-02-10 21:09:40+08:00,src/open-r1-multimodal/src/open_r1/grpo.py
+stephenruan,2025-02-10 21:09:40+08:00,src/open-r1-multimodal/src/open_r1/trainer/__init__.py
+stephenruan,2025-02-10 21:09:40+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/get_clevr_data.py
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/pdsh_some_action.sh
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/qwen2vl_7b_20250207_yewu_mind_27w_no_gpt.sh
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/run_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/run_grpo_clevr_deepspeed_sh.sh
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/run_vllm_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-10 21:09:40+08:00,src/scripts/some_action.sh
+lilei35,2025-02-10 13:11:26+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-10 22:41:55+08:00,README.md
+Lei Li,2025-02-10 16:07:45+00:00,src/open-r1-multimodal/src/open_r1/trainer/__init__.py
+Lei Li,2025-02-10 16:08:25+00:00,src/open-r1-multimodal/src/open_r1/trainer/__init__.py
+Lei Li,2025-02-10 17:25:03+00:00,src/open-r1-multimodal/grpo_2b_70k_vllm.sh
+Lei Li,2025-02-10 17:25:03+00:00,src/open-r1-multimodal/src/open_r1/trainer/__init__.py
+Lei Li,2025-02-10 17:25:03+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+Lei Li,2025-02-11 01:28:16+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+yuezih,2025-02-11 05:02:36+00:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+Vinci,2025-02-11 05:46:07+00:00,README.md
+Vinci,2025-02-11 05:46:07+00:00,src/eval/logs/geoqa_test_qwen2vl_7b_grpo_2epochs_legacy.json
+Vinci,2025-02-11 05:46:07+00:00,src/eval/logs/geoqa_test_qwen2vl_7b_instruct_legacy.json
+Vinci,2025-02-11 05:46:07+00:00,src/eval/prompts/geoqa_test_prompts.jsonl
+Vinci,2025-02-11 05:46:07+00:00,src/eval/test_qwen2vl_geoqa.py
+Liang Chen,2025-02-11 13:48:55+08:00,README.md
+Liang Chen,2025-02-11 13:50:04+08:00,README.md
+Liang Chen,2025-02-11 13:53:37+08:00,README.md
+Liang Chen,2025-02-11 13:54:00+08:00,README.md
+Haozhezhao,2025-02-11 05:56:56+00:00,src/open-r1-multimodal/configs/qwen2vl_sft_config.yaml
+Haozhezhao,2025-02-11 05:56:56+00:00,src/open-r1-multimodal/src/open_r1/sft.py
+Haozhezhao,2025-02-11 05:56:56+00:00,src/scripts/run_sft_clevr.sh
+Liang Chen,2025-02-11 14:16:01+08:00,README.md
+Liang Chen,2025-02-11 14:55:17+08:00,README.md
+Lei Li,2025-02-11 08:41:42+00:00,src/open-r1-multimodal/grpo_2b_70k_vllm.sh
+Vinci,2025-02-11 17:08:34+08:00,README.md
+Vinci,2025-02-11 17:39:28+08:00,README.md
+Vinci,2025-02-11 17:40:27+08:00,README.md
+Liang Chen,2025-02-11 22:54:04+08:00,README.md
+Liang Chen,2025-02-12 01:00:35+08:00,README.md
+Lei Li,2025-02-12 01:37:11+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+Lei Li,2025-02-12 01:37:11+00:00,src/scripts/run_grpo_vllm.sh
+stephenruan,2025-02-12 10:43:55+08:00,README.md
+stephenruan,2025-02-12 10:43:55+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-12 10:43:55+08:00,src/scripts/run_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-12 10:43:55+08:00,src/scripts/run_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-12 10:43:55+08:00,src/scripts/run_vllm_grpo_clevr_torchrun_gy.sh
+Lei Li,2025-02-12 10:54:31+08:00,src/scripts/run_grpo_vllm.sh
+Liang Chen,2025-02-12 11:12:19+08:00,README.md
+Liang Chen,2025-02-12 11:19:46+08:00,README.md
+Liang Chen,2025-02-12 12:02:06+08:00,README.md
+Liang Chen,2025-02-12 12:04:04+08:00,README.md
+Liang Chen,2025-02-12 12:57:23+08:00,README.md
+Liang Chen,2025-02-12 13:17:17+08:00,README.md
+linjh1118,2025-02-12 08:45:53+00:00,README.md
+linjh1118,2025-02-12 08:45:53+00:00,src/eval/test_qwen2vl_geoqa_multigpu.py
+linjh1118,2025-02-12 08:45:53+00:00,src/scripts/test_grpo_geoqa.sh
+Mi,2025-02-12 18:11:10+08:00,README.md
+Mi,2025-02-12 18:11:10+08:00,setup.sh
+Liang Chen,2025-02-12 19:07:19+08:00,README.md
+linjh1118,2025-02-12 13:04:43+00:00,src/eval/test_qwen2vl_geoqa_multigpu.py
+Lei Li,2025-02-12 15:40:13+00:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+Haozhe Zhao,2025-02-12 16:59:42+00:00,src/open-r1-multimodal/configs/qwen2vl_sft_config.yaml
+Haozhe Zhao,2025-02-12 16:59:42+00:00,src/open-r1-multimodal/src/open_r1/sft.py
+Haozhe zhao,2025-02-13 01:01:21+08:00,src/open-r1-multimodal/src/open_r1/sft.py
+stephenruan,2025-02-13 16:01:38+08:00,README.md
+stephenruan,2025-02-13 16:01:38+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+stephenruan,2025-02-13 16:01:38+08:00,src/scripts/run_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-13 17:27:51+08:00,README.md
+stephenruan,2025-02-13 17:27:51+08:00,README_internal.md
+stephenruan,2025-02-13 17:27:51+08:00,src/open-r1-multimodal/local_scripts/zero2_no_optimizer.json
+stephenruan,2025-02-13 17:27:51+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/pdsh_some_action.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/qwen2vl_7b_20250207_yewu_mind_27w_no_gpt.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/run_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/run_grpo_clevr_deepspeed_sh.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/run_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/run_vllm_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/run_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-13 17:27:51+08:00,src/scripts/internal_scripts/some_action.sh
+stephenruan,2025-02-13 17:28:52+08:00,.gitignore
+stephenruan,2025-02-13 17:29:51+08:00,.gitignore
+stephenruan,2025-02-13 17:31:44+08:00,.gitignore
+stephenruan,2025-02-13 18:58:42+08:00,README_internal.md
+stephenruan,2025-02-13 19:07:48+08:00,README.md
+stephenruan,2025-02-13 19:07:48+08:00,README_internal.md
+stephenruan,2025-02-13 19:11:04+08:00,.gitignore
+stephenruan,2025-02-13 19:23:39+08:00,README.md
+LiuRicky,2025-02-13 20:20:42+08:00,src/open-r1-multimodal/setup.py
+stephenruan,2025-02-13 23:02:37+08:00,.gitignore
+stephenruan,2025-02-13 23:02:37+08:00,README.md
+stephenruan,2025-02-13 23:02:37+08:00,images/counting_star.png
+stephenruan,2025-02-13 23:02:37+08:00,images/curves.png
+stephenruan,2025-02-13 23:02:37+08:00,images/ood.png
+stephenruan,2025-02-13 23:02:37+08:00,images/super_ood.png
+stephenruan,2025-02-13 23:02:37+08:00,images/train-test.png
+stephenruan,2025-02-13 23:02:37+08:00,images/training.png
+stephenruan,2025-02-13 23:02:37+08:00,setup.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/README.md
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/create_hf_dataset.py
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/filter_r1.py
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/generate_scene_qa_pairs.ipynb
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/grpo_r1_distilled.jpg
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/prompt.py
+stephenruan,2025-02-13 23:02:37+08:00,src/distill_r1/query_r1.py
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/logs/counting_results_superclevr_200_qwen2vl_2b_instruct_grpo100_legacy.json
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/logs/counting_results_superclevr_200_qwen2vl_2b_instruct_legacy.json
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/logs/geoqa_test_qwen2vl_7b_grpo_2epochs_legacy.json
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/logs/geoqa_test_qwen2vl_7b_instruct_legacy.json
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/prompts/geoqa_test_prompts.jsonl
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/prompts/superclevr_test200_counting_problems.jsonl
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/test_qwen2vl_counting_superclevr.py
+stephenruan,2025-02-13 23:02:37+08:00,src/eval/test_qwen2vl_geoqa.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/.gitignore
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/LICENSE
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/Makefile
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/README.md
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/assets/lmm_r1.png
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/assets/plan-of-attack.png
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/configs/ddp.yaml
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/configs/qwen2vl_sft_config.yaml
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/configs/zero2.yaml
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/configs/zero3.yaml
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/create_vision_cot_data.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/lmms_eval_qwen2vl.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/prepare_hf_data.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/train_aria_moe.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/train_qwen2_vl.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero1.json
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero2.json
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero2_no_optimizer.json
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero3.json
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero3.yaml
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero3_offload.json
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/local_scripts/zero_stage1_config.json
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/run_grpo.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/setup.cfg
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/setup.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/slurm/evaluate.slurm
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/slurm/generate.slurm
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/slurm/sft.slurm
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/__init__.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/evaluate.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/generate.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/grpo.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/sft.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/trainer/__init__.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+stephenruan,2025-02-13 23:02:37+08:00,src/open-r1-multimodal/temp_image.png
+stephenruan,2025-02-13 23:02:37+08:00,src/rollout_log_2b.txt
+stephenruan,2025-02-13 23:02:37+08:00,src/scripts/run_grpo_clevr.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/scripts/run_grpo_vllm.sh
+stephenruan,2025-02-13 23:02:37+08:00,src/scripts/run_sft_clevr.sh
+Haozhe Zhao,2025-02-14 01:26:46+00:00,src/open-r1-multimodal/src/open_r1/sft.py
+Vinci,2025-02-14 11:51:14+08:00,setup.sh
+yuezih,2025-02-14 04:23:40+00:00,setup.sh
+yuezih,2025-02-14 04:23:40+00:00,src/open-r1-multimodal/src/open_r1/trainer/grpo_trainer.py
+Vinci,2025-02-14 07:06:28+00:00,setup.sh
+Vinci,2025-02-14 07:06:28+00:00,src/open-r1-multimodal/README.md
+Vinci,2025-02-14 07:06:28+00:00,src/open-r1-multimodal/assets/lmm_r1.png
+Vinci,2025-02-14 07:06:28+00:00,src/open-r1-multimodal/assets/plan-of-attack.png
+Vinci,2025-02-14 07:06:28+00:00,src/open-r1-multimodal/slurm/evaluate.slurm
+Vinci,2025-02-14 07:06:28+00:00,src/open-r1-multimodal/slurm/generate.slurm
+Vinci,2025-02-14 07:06:28+00:00,src/open-r1-multimodal/slurm/sft.slurm
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/.gitignore
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/LICENSE
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/Makefile
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/configs/ddp.yaml
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/configs/qwen2vl_sft_config.yaml
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/configs/zero2.yaml
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/configs/zero3.yaml
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/create_vision_cot_data.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/lmms_eval_qwen2vl.sh
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/prepare_hf_data.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/train_aria_moe.sh
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/train_qwen2_vl.sh
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/zero2.json
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/zero3.json
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/zero3.yaml
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/local_scripts/zero3_offload.json
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/run_grpo.sh
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/setup.cfg
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/setup.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/__init__.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/evaluate.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/generate.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/grpo.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/sft.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/trainer/__init__.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/trainer/grpo_trainer.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py
+Vinci,2025-02-14 07:06:28+00:00,src/r1-v/temp_image.png
+Vinci,2025-02-14 07:19:23+00:00,README.md
+Vinci,2025-02-14 07:19:23+00:00,setup.sh
+Liang Chen,2025-02-15 00:37:09+08:00,README.md
+Liang Chen,2025-02-15 00:43:01+08:00,README.md
+stephenruan,2025-02-15 01:39:19+08:00,src/open-r1-multimodal/src/open_r1/grpo.py
+stephenruan,2025-02-15 01:39:19+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+zhangzef,2025-02-16 16:50:15+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py
+Liang Chen,2025-02-16 21:03:06+08:00,src/scripts/test_grpo_geoqa_multigpu.sh
+Liang Chen,2025-02-16 21:07:11+08:00,README.md
+Liang Chen,2025-02-16 21:07:37+08:00,src/scripts/test_grpo_geoqa_multigpu.sh
+zhangzef,2025-02-16 22:52:13+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py
+Liang Chen,2025-02-17 12:51:09+08:00,src/scripts/run_sft_clevr.sh
+Liang Chen,2025-02-21 16:20:08+08:00,README.md
+stephenruan,2025-02-23 13:15:23+08:00,setup.sh
+stephenruan,2025-02-23 13:15:23+08:00,src/open-r1-multimodal/src/open_r1/grpo_vllm_multi_nodes.py
+stephenruan,2025-02-23 13:15:23+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+stephenruan,2025-02-23 13:15:23+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_grpo_trainer_modified_multi_nodes.py
+stephenruan,2025-02-23 13:15:23+08:00,src/open-r1-multimodal/src/open_r1/trainer/vllm_sampler.py
+stephenruan,2025-02-23 13:15:23+08:00,src/scripts/get_clevr_data.py
+stephenruan,2025-02-23 13:15:23+08:00,src/scripts/internal_scripts/get_huggingface_data.py
+stephenruan,2025-02-23 13:15:23+08:00,src/scripts/internal_scripts/run_multi_nodes_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-23 13:15:23+08:00,src/scripts/internal_scripts/run_vllm_grpo_r1m_8k_torchrun_gy.sh
+stephenruan,2025-02-23 13:15:23+08:00,src/scripts/internal_scripts/vllm_infer_test.py
+stephenruan,2025-02-23 13:29:20+08:00,.gitignore
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/get_huggingface_data.py
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/pdsh_setup.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/pdsh_some_action.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/qwen2vl_7b_20250207_yewu_mind_27w_no_gpt.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_grpo_clevr_deepspeed_sh.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_grpo_r1m_8k_torchrun_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_multi_nodes_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_vllm_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/run_vllm_grpo_r1m_8k_torchrun_gy.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/setup.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/some_action.sh
+stephenruan,2025-02-23 13:29:20+08:00,internal_scripts/vllm_infer_test.py
+stephenruan,2025-02-23 13:29:20+08:00,setup.sh
+stephenruan,2025-02-23 13:29:20+08:00,src/open-r1-multimodal/README.md
+stephenruan,2025-02-23 13:29:20+08:00,src/open-r1-multimodal/assets/lmm_r1.png
+stephenruan,2025-02-23 13:29:20+08:00,src/open-r1-multimodal/assets/plan-of-attack.png
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/.gitignore
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/LICENSE
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/Makefile
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/configs/ddp.yaml
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/configs/qwen2vl_sft_config.yaml
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/configs/zero2.yaml
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/configs/zero3.yaml
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/create_vision_cot_data.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/lmms_eval_qwen2vl.sh
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/prepare_hf_data.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/train_aria_moe.sh
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/train_qwen2_vl.sh
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero1.json
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero2.json
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero2_no_optimizer.json
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero3.json
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero3.yaml
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero3_offload.json
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/local_scripts/zero_stage1_config.json
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/run_grpo.sh
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/setup.cfg
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/setup.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/slurm/evaluate.slurm
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/slurm/generate.slurm
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/slurm/sft.slurm
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/__init__.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/evaluate.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/generate.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/grpo.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/grpo_vllm_multi_nodes.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/sft.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/trainer/__init__.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/trainer/grpo_trainer.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer_modified_multi_nodes.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/src/open_r1/trainer/vllm_sampler.py
+stephenruan,2025-02-23 13:29:20+08:00,src/r1-v/temp_image.png
+stephenruan,2025-02-23 13:29:20+08:00,src/rollout_log_2b.txt
+stephenruan,2025-02-24 23:39:36+08:00,README.md
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/run_grpo_geoqa_8k_torchrun_gy.sh
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/run_vllm_grpo_geoqa_8k_torchrun_gy.sh
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/setup.sh
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/vllm_infer_test.py
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/vllm_n_generations_infer_test.py
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/zero1.json
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/zero2_no_optimizer.json
+stephenruan,2025-02-24 23:39:36+08:00,internal_scripts/zero_stage1_config.json
+stephenruan,2025-02-24 23:39:36+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py
+stephenruan,2025-02-24 23:39:36+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer_modified.py
+yuezih,2025-02-25 07:57:51+00:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer.py
+Liang Chen,2025-02-25 16:41:40+08:00,src/requirements.txt
+Liang Chen,2025-02-25 16:43:44+08:00,README.md
+stephenruan,2025-02-26 12:40:02+08:00,.gitignore
+stephenruan,2025-02-26 12:40:02+08:00,README.md
+stephenruan,2025-02-26 12:40:02+08:00,images/grpo_trainer_log.jpg
+stephenruan,2025-02-26 12:40:02+08:00,images/vllm_grpo_trainer_modified_log.jpg
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/get_huggingface_data.py
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/pdsh_setup.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/pdsh_some_action.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/qwen2vl_7b_20250207_yewu_mind_27w_no_gpt.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_grpo_clevr_deepspeed_sh.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_grpo_geoqa_8k_torchrun_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_multi_nodes_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_vllm_grpo_clevr_deepspeed_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_vllm_grpo_clevr_torchrun_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/run_vllm_grpo_geoqa_8k_torchrun_gy.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/setup.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/some_action.sh
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/vllm_infer_test.py
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/vllm_n_generations_infer_test.py
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/zero1.json
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/zero2_no_optimizer.json
+stephenruan,2025-02-26 12:40:02+08:00,internal_scripts/zero_stage1_config.json
+stephenruan,2025-02-26 12:40:02+08:00,src/r1-v/src/open_r1/grpo_vllm_multi_nodes.py
+stephenruan,2025-02-26 12:40:02+08:00,src/r1-v/src/open_r1/trainer/vllm_grpo_trainer_modified_multi_nodes.py
+stephenruan,2025-02-26 13:16:04+08:00,src/r1-v/src/open_r1/trainer/vllm_sampler.py
+stephenruan,2025-02-26 13:21:10+08:00,src/r1-v/src/open_r1/trainer/grpo_trainer.py
+Liang Chen,2025-02-27 16:59:41+08:00,README.md
+stephenruan,2025-03-01 14:33:26+08:00,src/scripts/run_grpo_vllm_qwen25vl.sh
+stephenruan,2025-03-01 14:38:11+08:00,src/r1-v/local_scripts/zero1_no_optimizer.json
+Liang Chen,2025-03-02 03:09:29+08:00,src/scripts/run_grpo_vllm_qwen25vl.sh
+Liang Chen,2025-03-02 03:41:31+08:00,README.md

@@ -1,0 +1,42 @@
+Field,Value
+Commits Overview,
+Total Commits,159
+Total Unique Authors,11
+,
+Top 10 Contributors,
+Author,Commits
+Sebastian Bergmann,271
+Henrique Moody,3
+Nick Charsley,1
+Jeff Welch,1
+Jonas Stendahl,1
+Peter Bacinsky,1
+Willem Stuursma,1
+systemsolutionweb,1
+Ayesh Karunaratne,1
+Cristian Rodríguez,1
+,
+Communication Events,Total: 0
+"Author1,Author2",Events
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++01:00,99
++02:00,56
++03:00,1
+-02:00,1
+-04:00,1
+-07:00,1
+,
+Contributors Experience,Average across 31 files: 97.41%
+File,Top Contributor Share (%)
+.gitignore,100.00
+ChangeLog.md,100.00
+README.md,100.00
+build.xml,100.00
+build/PHPCS/Sniffs/ControlStructures/ControlSignatureSniff.php,100.00
+build/PHPCS/Sniffs/Whitespace/ConcatenationSpacingSniff.php,100.00
+build/PHPCS/ruleset.xml,100.00
+build/package.xml,100.00
+build/phpdox.xml,100.00
+build/phpmd.xml,100.00

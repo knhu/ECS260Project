@@ -1,0 +1,66 @@
+file,author1,author2,time1,time2
+.prettierignore,Panayiotis Lipiridis,Lipis,2017-11-16 01:20:46+02:00,2017-11-16 01:25:53+02:00
+Gruntfile.js,Daniel Eden,Sarbbottam Bandyopadhyay,2014-02-23 11:11:43-08:00,2014-02-24 00:53:52+05:30
+Gruntfile.js,Elton Mesquita,Daniel Eden,2015-03-18 18:01:20-03:00,2015-03-18 17:08:46-07:00
+README.md,Dan Eden,Allen Bargi,2012-09-13 17:43:41+02:00,2012-09-13 21:23:26+03:00
+README.md,Allen Bargi,Dan Rodney,2012-09-13 21:23:26+03:00,2012-09-14 14:18:10-04:00
+README.md,Daniel Eden,Sarbbottam Bandyopadhyay,2014-02-23 11:11:43-08:00,2014-02-24 03:26:08+05:30
+README.md,Alex Kyriakidis,Santiago Castro,2017-07-09 13:28:40-03:00,2017-07-09 13:29:16-03:00
+README.md,Santiago Castro,木头,2017-07-09 13:29:16-03:00,2017-07-09 13:57:11-03:00
+README.md,木头,Erick Delfin,2017-07-09 13:57:11-03:00,2017-07-09 13:57:57-03:00
+README.md,Lukas Drgon,BK,2017-11-09 21:21:35-03:00,2017-11-09 21:26:01-03:00
+README.md,BK,Alexsander,2017-11-09 21:26:01-03:00,2017-11-09 21:39:04-03:00
+README.md,Peter Dave Hello,Panayiotis Lipiridis,2017-12-10 01:30:57-03:00,2017-12-10 15:18:20+02:00
+README.md,Daniel Eden,Waren Gonzaga,2018-07-23 08:52:29-07:00,2018-07-23 15:25:37-07:00
+README.md,Waren Gonzaga,Marcy Sutton,2018-07-23 15:25:37-07:00,2018-07-23 15:44:09-07:00
+README.md,Ahmet Ozan Tekin,mattstrick,2018-10-13 12:04:06-03:00,2018-10-13 12:04:46-03:00
+README.md,Melek REBAI,Christian Oliff,2019-12-07 11:42:07-03:00,2019-12-07 11:53:21-03:00
+animate-config.json,Daniel Eden,Sarbbottam Bandyopadhyay,2014-02-23 11:11:43-08:00,2014-02-24 02:09:02+05:30
+animate.compat.css,Waren Gonzaga,Elton Mesquita,2020-09-07 12:12:06+01:00,2020-09-07 12:20:12+01:00
+animate.css,George Petrov,Daniel Eden,2013-08-15 13:15:32+02:00,2013-08-15 22:37:36+01:00
+animate.css,Jare Fagbemi,Daniel Eden,2014-04-25 14:36:18-07:00,2014-04-25 18:20:45-07:00
+animate.css,Hansol Kim,Koding,2015-05-11 11:01:09+09:00,2015-05-12 01:24:49+00:00
+animate.css,Koding,Indy Prieto,2015-05-12 01:24:49+00:00,2015-05-12 01:30:12+00:00
+animate.css,James George,Gian Johansen,2018-07-21 10:26:54+05:30,2018-07-21 07:18:34-07:00
+animate.css,Gian Johansen,Daniel Eden,2018-07-21 07:18:34-07:00,2018-07-21 07:25:45-07:00
+animate.css,Daniel Eden,jamesgeorge007,2018-07-21 07:25:45-07:00,2018-07-21 20:22:03+05:30
+animate.css,Waren Gonzaga,Marcy Sutton,2018-07-23 15:25:37-07:00,2018-07-23 15:44:09-07:00
+animate.css,Elton Mesquita,Nono Martínez Alonso,2020-05-07 17:18:52+01:00,2020-05-08 09:24:09+01:00
+animate.css,Waren Gonzaga,Elton Mesquita,2020-09-07 12:12:06+01:00,2020-09-07 12:20:12+01:00
+animate.min.css,Jare Fagbemi,Daniel Eden,2014-04-25 14:36:18-07:00,2014-04-25 18:20:45-07:00
+animate.min.css,Hansol Kim,Koding,2015-05-11 11:01:09+09:00,2015-05-12 01:24:49+00:00
+animate.min.css,Koding,Indy Prieto,2015-05-12 01:24:49+00:00,2015-05-12 01:33:19+00:00
+animate.min.css,Gian Johansen,Daniel Eden,2018-07-21 07:18:34-07:00,2018-07-21 07:25:45-07:00
+animate.min.css,Daniel Eden,jamesgeorge007,2018-07-21 07:25:45-07:00,2018-07-21 20:22:03+05:30
+animate.min.css,Waren Gonzaga,Marcy Sutton,2018-07-23 15:25:37-07:00,2018-07-23 15:44:09-07:00
+animate.min.css,Waren Gonzaga,Elton Mesquita,2020-09-07 12:12:06+01:00,2020-09-07 12:20:12+01:00
+bower.json,Daniel Eden,jongleberry,2015-03-04 15:15:40-08:00,2015-03-04 15:26:25-08:00
+bower.json,jongleberry,Daniel Eden,2015-03-04 15:26:25-08:00,2015-03-04 15:37:58-08:00
+docs/index.html,Elton Mesquita,Jad Limcaco,2020-05-07 17:18:52+01:00,2020-05-07 19:19:42+01:00
+docs/index.html,Jad Limcaco,Elton Mesquita,2020-05-07 19:19:42+01:00,2020-05-07 19:28:59+01:00
+docs/index.html,Elton Mesquita,Nono Martínez Alonso,2020-05-07 19:28:59+01:00,2020-05-08 09:24:09+01:00
+docs/index.html,Rizwan Hasan,Waren Gonzaga,2020-09-07 09:46:54+01:00,2020-09-07 12:12:06+01:00
+docs/index.html,Waren Gonzaga,Elton Mesquita,2020-09-07 12:12:06+01:00,2020-09-07 12:20:12+01:00
+docs/index.html,Elton Mesquita,Waren Gonzaga,2020-09-07 12:20:12+01:00,2020-09-07 17:27:36+01:00
+docs/index.html,Waren Gonzaga,Elton Mesquita,2020-09-07 17:27:36+01:00,2020-09-08 09:23:35+01:00
+docsSource/compileMD.js,Elton Mesquita,Jad Limcaco,2020-05-07 16:42:33+01:00,2020-05-07 19:19:42+01:00
+docsSource/sections/01-usage.md,Elton Mesquita,Juan Salcedo,2020-05-07 16:42:33+01:00,2020-05-07 12:00:37-05:00
+docsSource/sections/01-usage.md,Rizwan Hasan,Elton Mesquita,2020-09-07 09:46:54+01:00,2020-09-08 09:23:35+01:00
+docsSource/sections/03-best-practices.md,Elton Mesquita,Jad Limcaco,2020-05-07 16:42:33+01:00,2020-05-07 19:19:42+01:00
+gulpfile.js,Lukáš Matta,vrescobar,2017-11-09 21:26:40-03:00,2017-11-09 21:33:55-03:00
+gulpfile.js,Waren Gonzaga,Marcy Sutton,2018-07-23 15:25:37-07:00,2018-07-23 15:44:09-07:00
+package-lock.json,Waren Gonzaga,Marcy Sutton,2018-07-23 15:25:37-07:00,2018-07-23 15:44:09-07:00
+package.json,Daniel Eden,Sarbbottam Bandyopadhyay,2014-02-23 11:11:43-08:00,2014-02-24 00:53:52+05:30
+package.json,Waren Gonzaga,Panayiotis Lipiridis,2017-12-10 00:18:47-03:00,2017-12-10 15:18:20+02:00
+package.json,Elton Mesquita,Daniel Eden,2020-05-07 16:42:33+01:00,2020-05-07 16:56:09+01:00
+package.json,Daniel Eden,Elton Mesquita,2020-05-07 16:56:09+01:00,2020-05-07 17:17:48+01:00
+package.json,Elton Mesquita,dependabot[bot],2020-09-07 12:20:12+01:00,2020-09-08 07:28:46+01:00
+package.json,dependabot[bot],Waren Gonzaga,2021-07-06 11:04:46+01:00,2021-07-06 11:26:57+01:00
+package.json,dependabot[bot],Elton Mesquita,2021-07-29 19:16:05+01:00,2021-07-29 20:10:28+01:00
+source/_base.css,Waren Gonzaga,Marcy Sutton,2018-07-23 15:25:37-07:00,2018-07-23 15:44:09-07:00
+source/animate.css,Elton Mesquita,Nono Martínez Alonso,2020-05-07 16:42:33+01:00,2020-05-08 09:24:09+01:00
+source/attention_seekers/jello.css,Koding,Thederpy,2015-05-12 01:24:49+00:00,2015-05-12 01:40:15+00:00
+source/bounce.css,Dan Eden,Anthony Calzadilla,2011-10-14 13:39:11+01:00,2011-10-14 11:29:24-04:00
+source/flash.css,Dan Eden,Anthony Calzadilla,2011-10-14 13:39:11+01:00,2011-10-14 11:20:24-04:00
+source/shake.css,Dan Eden,Anthony Calzadilla,2011-10-14 13:39:11+01:00,2011-10-14 11:54:30-04:00
+source/tada.css,Dan Eden,Anthony Calzadilla,2011-10-14 13:39:11+01:00,2011-10-14 11:54:30-04:00

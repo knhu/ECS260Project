@@ -1,0 +1,244 @@
+Field,Value
+Commits Overview,
+Total Commits,3177
+Total Unique Authors,162
+,
+Top 10 Contributors,
+Author,Commits
+Andrew Tavis McAllister,7419
+tosta,726
+lucianmurmurache,424
+Mahendra sai Divi,412
+github-actions[bot],258
+Thomas,190
+Matt Burnett,186
+cquinn540,165
+thiagogquinto,159
+jennethydyrova,157
+,
+Communication Events,Total: 723
+"Author1,Author2",Events
+"tosta,Andrew Tavis McAllister",54
+"Felipe Archanjo,Andrew Tavis McAllister",37
+"Andrew Tavis McAllister,tosta",37
+"Matt Burnett,Andrew Tavis McAllister",21
+"Andrew Tavis McAllister,luuu-xu",19
+"Andrew Tavis McAllister,Matt Burnett",18
+"Ahmet,Andrew Tavis McAllister",16
+"hoppi,andrewtavis",16
+"YoSoyAlexElPine,Andrew Tavis McAllister",15
+"kurtisolo,Andrew Tavis McAllister",15
+"cquinn540,Andrew Tavis McAllister",13
+"luuu-xu,Andrew Tavis McAllister",13
+"José Rigoberto Salas Chacón,Andrew Tavis McAllister",12
+"Rengaraj R,Andrew Tavis McAllister",11
+"Andrew Tavis McAllister,momanyisamuel",11
+"momanyisamuel,Andrew Tavis McAllister",11
+"github-actions[bot],Andrew Tavis McAllister",10
+"Andrew Tavis McAllister,thiagogquinto",9
+"tosta,thiagogquinto",9
+"dependabot[bot],Andrew Tavis McAllister",8
+"Andrew Tavis McAllister,dependabot[bot]",8
+"Rufaida,Andrew Tavis McAllister",7
+"GOWTHAM2K1,Andrew Tavis McAllister",7
+"Andrew Tavis McAllister,kurtisolo",7
+"Andrew Tavis McAllister,Felipe Archanjo",7
+"kurtisolo,tosta",7
+"lucianmurmurache,Andrew Tavis McAllister",7
+"progressive-galib,Mahfuzullah Galib",7
+"bharath637462,Andrew Tavis McAllister",6
+"Andrew Tavis McAllister,Mahendra sai Divi",6
+"Andrew Tavis McAllister,github-actions[bot]",6
+"Sean Leong,Andrew Tavis McAllister",6
+"anthonyshibitov,Andrew Tavis McAllister",6
+"TeddyGavi,Andrew Tavis McAllister",6
+"Vinny,Andrew Tavis McAllister",6
+"Andrew Tavis McAllister,nicoMaz",5
+"Bharathkumarramesh,tosta",5
+"thiagogquinto,tosta",5
+"bmartins,Andrew Tavis McAllister",4
+"wkyoshida,Andrew Tavis McAllister",4
+"Hasteerp,progressive-galib",4
+"Iago Carmona,Andrew Tavis McAllister",4
+"Esslam,Andrew Tavis McAllister",4
+"Mradosi,Rohith Ramanathan",4
+"Andrew Tavis McAllister,Sean Leong",4
+"Abhi-Bohora,Andrew Tavis McAllister",4
+"Andrew Tavis McAllister,anthonyshibitov",4
+"Andrew Tavis McAllister,cquinn540",4
+"mahasultan,Andrew Tavis McAllister",4
+"Aasim Syed,aasim",3
+"Andrew Tavis McAllister,sayi",3
+"Andrew Tavis McAllister,matthias.polkehn",3
+"Andrew Tavis McAllister,lucianmurmurache",3
+"Andrew Tavis McAllister,dinabandhu",3
+"Andrew Tavis McAllister,Zwnow",3
+"Andrew Tavis McAllister,Ahmet",3
+"Andrew Tavis McAllister,GOWTHAM2K1",3
+"Andrew Tavis McAllister,Burak Özmen",3
+"Andrew Tavis McAllister,Iago Carmona",3
+"Amelia,Andrew Tavis McAllister",3
+"Tanya Kharitonovich,Burak Özmen",3
+"thiagogquinto,Andrew Tavis McAllister",3
+"5ud03r5,Andrew Tavis McAllister",3
+"andrewtavis,Andrew Tavis McAllister",3
+"Ettore Atalan,Natalia N",3
+"Andrew Tavis McAllister,Sam.Donovan",2
+"dependabot[bot],tosta",2
+"lguaregua,Andrew Tavis McAllister",2
+"Shahad,mahasultan",2
+"github-actions[bot],tosta",2
+"dependabot[bot],Ares",2
+"rigojr,José Rigoberto Salas Chacón",2
+"purupurupu,Andrew Tavis McAllister",2
+"tosta,Vinny",2
+"momanyisamuel,tosta",2
+"nikhilagastya,Sam.Donovan",2
+"lucianmurmurache,Nicholas Vecchio",2
+"lucianmurmurache,Tanya Kharitonovich",2
+"lucianmurmurache,wkyoshida",2
+"Tanya Kharitonovich,lucianmurmurache",2
+"Nicholas Vecchio,Andrew Tavis McAllister",2
+"Roshanjossey,Andrew Tavis McAllister",2
+"Pablo Sena,Andrew Tavis McAllister",2
+"Vidhanvyrs,Andrew Tavis McAllister",2
+"Rohith Ramanathan,Andrew Tavis McAllister",2
+"Sam.Donovan,matthias.polkehn",2
+"Sean Leong,Tanya Kharitonovich",2
+"Natalia N,Ettore Atalan",2
+"Haya,Andrew Tavis McAllister",2
+"IsaacDMz,Andrew Tavis McAllister",2
+"James Jenkinson,Andrew Tavis McAllister",2
+"Andrew Tavis McAllister,bmartins",2
+"Andrew Tavis McAllister,Rengaraj R",2
+"Andrew Tavis McAllister,James Jenkinson",2
+"Andrew Tavis McAllister,Thomas",2
+"Aasim Syed,Andrew Tavis McAllister",2
+"Andrew Tavis McAllister,Abhi-Bohora",2
+"Kyrylo Karalyus,Andrew Tavis McAllister",2
+"Mahendra sai Divi,Sean Leong",2
+"Felipe Archanjo,tosta",2
+"Ares,dependabot[bot]",2
+"Andrew Tavis McAllister,nikhilagastya",1
+"Andrew Tavis McAllister,sath000007",1
+"Andrew Tavis McAllister,Vinny",1
+"Andrew Tavis McAllister,Tobias",1
+"Andrew Tavis McAllister,Tarun Samanta",1
+"Andrew Tavis McAllister,Tessa",1
+"Andrew Tavis McAllister,mahasultan",1
+"Andrew Tavis McAllister,jennethydyrova",1
+"Andrew Tavis McAllister,muditagarwalna@gmail.comx",1
+"Andrew Tavis McAllister,jakinw58",1
+"Andrew Tavis McAllister,Ashwaq Taib",1
+"Andrew Tavis McAllister,Amelia",1
+"Andrew Tavis McAllister,Connor Lunsford",1
+"Andrew Tavis McAllister,Alex Pineño Sanchez",1
+"Ali Q,mahasultan",1
+"Alex Pineño Sanchez,Sean Leong",1
+"Ahmet,José Rigoberto Salas Chacón",1
+"Andrew Tavis McAllister,Aasim Syed",1
+"Andrew Tavis McAllister,José Rigoberto Salas Chacón",1
+"Andrew Tavis McAllister,Krallowski",1
+"Andrew Tavis McAllister,Ryan Gannon",1
+"Andrew Tavis McAllister,Esslam",1
+"Andrew Tavis McAllister,Tanya Kharitonovich",1
+"Andrew Tavis McAllister,Shih Chung Loh",1
+"Andrew Tavis McAllister,hoon610",1
+"Andrew Tavis McAllister,Robot8lover",1
+"Ares,Andrew Tavis McAllister",1
+"Andrew Tavis McAllister,wkyoshida",1
+"Zwnow,momanyisamuel",1
+"Weblate (bot),Sean Leong",1
+"Sukh Oberoi,lucianmurmurache",1
+"Shih Chung Loh,progressive-galib",1
+"Vinny,tosta",1
+"Vinny,dependabot[bot]",1
+"Shih Chung Loh,Andrew Tavis McAllister",1
+"Natalia N,hoppi",1
+"Sam.Donovan,Andrew Tavis McAllister",1
+"Mradosi,Andrew Tavis McAllister",1
+"Rabel Mervin,Tessa",1
+"Sam.Donovan,James Jenkinson",1
+"Tanya Kharitonovich,Andrew Tavis McAllister",1
+"Tarun Samanta,Andrew Tavis McAllister",1
+"GOWTHAM2K1,Ahmet",1
+"Fowlerz,Andrew Tavis McAllister",1
+"Ebrar Karadeniz,Andrew Tavis McAllister",1
+"Ettore Atalan,ssantos",1
+"CaioCintra,Andrew Tavis McAllister",1
+"Connor Lunsford,Andrew Tavis McAllister",1
+"David D,Andrew Tavis McAllister",1
+"David D,jennethydyrova",1
+"Burak Özmen,Sean Leong",1
+"Ashwaq Taib,Andrew Tavis McAllister",1
+"Hariharan,Ahmet",1
+"Louis Lambrecht,tosta",1
+"Mahfuzullah Galib,Shih Chung Loh",1
+"Marcos Quadros,Andrew Tavis McAllister",1
+"Matthew Topping,Andrew Tavis McAllister",1
+"Mohtelsayed,Andrew Tavis McAllister",1
+"lucianmurmurache,Sean Leong",1
+"henrque,Andrew Tavis McAllister",1
+"hoppi,Andrew Tavis McAllister",1
+"haripatel,Andrew Tavis McAllister",1
+"hoang227,Andrew Tavis McAllister",1
+"jakinw58,Andrew Tavis McAllister",1
+"dependabot[bot],Matt Burnett",1
+"dependabot[bot],Burak Özmen",1
+"cquinn540,dependabot[bot]",1
+"bmartins,Esslam",1
+"aaditya nair,Andrew Tavis McAllister",1
+"anthonyshibitov,mjiruobe",1
+"cquinn540,github-actions[bot]",1
+"matthias.polkehn,Andrew Tavis McAllister",1
+"mahasultan,Shahad",1
+"luuu-xu,Felipe Archanjo",1
+"sath000007,Andrew Tavis McAllister",1
+"rstfari,tosta",1
+"rstfari,Andrew Tavis McAllister",1
+"nicoMaz,Andrew Tavis McAllister",1
+"mahasultan,Pablo Sena",1
+"mahasultan,Ali Q",1
+"ssantos,Andrew McAllister",1
+"sayi,Andrew Tavis McAllister",1
+"tosta,Amelia",1
+"thiagogquinto,kurtisolo",1
+"thiagogquinto,Rengaraj R",1
+"thiagogquinto,José Rigoberto Salas Chacón",1
+"tosta,Louis Lambrecht",1
+"tosta,Daniyar Bekmagambetov",1
+"tosta,momanyisamuel",1
+"tosta,wkyoshida",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,130
++01:00,1032
++02:00,1172
++03:00,187
++05:30,72
++05:45,8
++06:00,11
++08:00,7
++09:00,5
++10:00,2
++11:00,19
+-03:00,195
+-04:00,70
+-05:00,152
+-06:00,30
+-07:00,72
+-08:00,13
+,
+Contributors Experience,Average across 1221 files: 84.63%
+File,Top Contributor Share (%)
+.github/CONTRIBUTING.md,100.00
+.github/stale.yml,100.00
+readmes/README.ar.md,100.00
+readmes/README.de.md,100.00
+readmes/README.es.md,100.00
+readmes/README.fr.md,100.00
+readmes/README.hi.md,100.00
+readmes/README.ja.md,100.00
+readmes/README.pt.md,100.00
+readmes/README.ru.md,100.00

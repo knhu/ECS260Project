@@ -1,0 +1,93 @@
+Field,Value
+Commits Overview,
+Total Commits,664
+Total Unique Authors,133
+,
+Top 10 Contributors,
+Author,Commits
+Daniel Eden,323
+dependabot[bot],237
+Elton Mesquita,213
+Dan Eden,166
+mesge,138
+Sarbbottam Bandyopadhyay,138
+Waren Gonzaga,81
+Panayiotis Lipiridis,43
+Jean Carlo Nascimento,42
+Jare Fagbemi,33
+,
+Communication Events,Total: 65
+"Author1,Author2",Events
+"Waren Gonzaga,Marcy Sutton",6
+"Waren Gonzaga,Elton Mesquita",5
+"Daniel Eden,Sarbbottam Bandyopadhyay",4
+"Dan Eden,Anthony Calzadilla",4
+"Elton Mesquita,Jad Limcaco",3
+"Elton Mesquita,Nono Martínez Alonso",3
+"Jare Fagbemi,Daniel Eden",2
+"Koding,Indy Prieto",2
+"Gian Johansen,Daniel Eden",2
+"Hansol Kim,Koding",2
+"Daniel Eden,jamesgeorge007",2
+"Elton Mesquita,Daniel Eden",2
+"Alex Kyriakidis,Santiago Castro",1
+"Ahmet Ozan Tekin,mattstrick",1
+"Allen Bargi,Dan Rodney",1
+"BK,Alexsander",1
+"Daniel Eden,Elton Mesquita",1
+"Dan Eden,Allen Bargi",1
+"Elton Mesquita,Waren Gonzaga",1
+"Elton Mesquita,Juan Salcedo",1
+"Elton Mesquita,dependabot[bot]",1
+"George Petrov,Daniel Eden",1
+"Daniel Eden,Waren Gonzaga",1
+"Daniel Eden,jongleberry",1
+"Jad Limcaco,Elton Mesquita",1
+"James George,Gian Johansen",1
+"Koding,Thederpy",1
+"Lukas Drgon,BK",1
+"Panayiotis Lipiridis,Lipis",1
+"Peter Dave Hello,Panayiotis Lipiridis",1
+"Lukáš Matta,vrescobar",1
+"Melek REBAI,Christian Oliff",1
+"Rizwan Hasan,Waren Gonzaga",1
+"Rizwan Hasan,Elton Mesquita",1
+"Santiago Castro,木头",1
+"Waren Gonzaga,Panayiotis Lipiridis",1
+"dependabot[bot],Elton Mesquita",1
+"dependabot[bot],Waren Gonzaga",1
+"jongleberry,Daniel Eden",1
+"木头,Erick Delfin",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,113
++01:00,154
++02:00,53
++03:00,13
++05:00,1
++05:30,17
++07:00,1
++08:00,12
++09:00,14
++10:00,3
+-02:00,45
+-03:00,53
+-04:00,20
+-05:00,18
+-06:00,3
+-07:00,89
+-08:00,55
+,
+Contributors Experience,Average across 241 files: 78.07%
+File,Top Contributor Share (%)
+source/rotateIn.css,100.00
+source/rotateInDownLeft.css,100.00
+source/rotateInDownRight.css,100.00
+source/rotateInUpLeft.css,100.00
+source/rotateInUpRight.css,100.00
+source/rotateOut.css,100.00
+source/rotateOutDownLeft.css,100.00
+source/rotateOutDownRight.css,100.00
+source/rotateOutUpLeft.css,100.00
+source/rotateOutUpRight.css,100.00

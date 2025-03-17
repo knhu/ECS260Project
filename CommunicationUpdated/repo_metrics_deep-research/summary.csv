@@ -1,0 +1,55 @@
+Field,Value
+Commits Overview,
+Total Commits,70
+Total Unique Authors,14
+,
+Top 10 Contributors,
+Author,Commits
+David Zhang,64
+Samuel Jędrzejewski,13
+alexboone,6
+Aakash Adesara,5
+Umut CAN,4
+Ben Nasedkin,4
+rowellz,3
+Ikko Eltociear Ashimine,1
+Wow Rakibul,1
+vekoada,1
+,
+Communication Events,Total: 12
+"Author1,Author2",Events
+"David Zhang,alexboone",3
+"David Zhang,Samuel Jędrzejewski",2
+"Ben Nasedkin,David Zhang",1
+"CharlesCNorton,rowellz",1
+"Samuel Jędrzejewski,David Zhang",1
+"Umut CAN,David Zhang",1
+"alexboone,David Zhang",1
+"rowellz,David Zhang",1
+"vekoada,Michael Matloka",1
+,
+Committer Timezone Distribution,Unique Timezones: 10
+Timezone,Commits
++00:00,1
++01:00,7
++02:00,3
++03:00,1
++06:00,1
++08:00,1
++09:00,2
+-05:00,2
+-07:00,5
+-08:00,47
+,
+Contributors Experience,Average across 24 files: 85.50%
+File,Top Contributor Share (%)
+LICENSE,100.00
+.prettierignore,100.00
+prettier.config.mjs,100.00
+src/ai/text-splitter.ts,100.00
+src/feedback.ts,100.00
+src/prompt.ts,100.00
+tsconfig.json,100.00
+report.md,100.00
+Dockerfile,100.00
+package.json.docker,100.00

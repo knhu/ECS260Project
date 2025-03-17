@@ -1,0 +1,136 @@
+Field,Value
+Commits Overview,
+Total Commits,718
+Total Unique Authors,272
+,
+Top 10 Contributors,
+Author,Commits
+shadcn,12565
+Iain Wandless,157
+github-actions[bot],156
+Thomas Raffray,74
+JEM,74
+kevinmitch14,55
+Vincent Dusautoir,36
+Daniele Luisetto,25
+Max Wiseman,23
+its-monotype,23
+,
+Communication Events,Total: 202
+"Author1,Author2",Events
+"shadcn,github-actions[bot]",58
+"github-actions[bot],shadcn",7
+"shadcn,moshyfawn",7
+"Rohid,shadcn",4
+"Takeshi Kriang,Oguz Kazkayasi",4
+"shadcn,Jacob Paris",4
+"its-monotype,shadcn",3
+"Vincent Dusautoir,shadcn",3
+"shadcn,Gimel Dick",3
+"Daniele Luisetto,shadcn",3
+"Kevin Mok,shadcn",2
+"Batuhan Tomo,rds_agi",2
+"Braden Corbold,github-actions[bot]",2
+"Daniele Luisetto,github-actions[bot]",2
+"David,shadcn",2
+"Jens Astrup,github-actions[bot]",2
+"Chongyi Zheng,Yahor Barkouski",2
+"Valentin Gavran,shadcn",2
+"Samuel Adebayo,shadcn",2
+"Paul Ebose,shadcn",2
+"Samuel Corsi-House,github-actions[bot]",2
+"Wing Chung Ng,shadcn",2
+"shadcn,Max Wiseman",2
+"Vedant Nandwana,Vincent Dusautoir",2
+"Greg,Peeranat Danaidusadeekul",2
+"Moinul Moin,Daniele Luisetto",2
+"shadcn,Vincent Dusautoir",2
+"shadcn,Prateek (प्रतीक)",2
+"shadcn,Ishaan Dey",2
+"Bereket Engida,github-actions[bot]",1
+"Alan Daniel,Paul Ebose",1
+"BNaushad,Jacob Paris",1
+"Damián Ricobelli,shadcn",1
+"Moinul Moin,Lennart",1
+"Lloyd Richards,shadcn",1
+"Lennart,shadcn",1
+"Kiyan,github-actions[bot]",1
+"Justin Nguyen,Azhar Zaman",1
+"Kevin Mok,Max Wiseman",1
+"Jacob Paris,DADDOU Mohamed El Amine",1
+"Jakob Ortmann,shadcn",1
+"Edgaras Benediktavicius,vinay",1
+"Gimel Dick,shadcn",1
+"Jack Herrington,github-actions[bot]",1
+"GrungeElFz,Guten Ye",1
+"Cole Cline,shadcn",1
+"Denish Navadiya,shadcn",1
+"Donovan Dikaio,shadcn",1
+"EdamAmex,Phaired",1
+"Ayhan,Shishir",1
+"Barinderpreet Singh,shadcn",1
+"Ayhan,github-actions[bot]",1
+"Rana Haris Ali,github-actions[bot]",1
+"Piros,jeremy",1
+"Phaired,Jakob Ortmann",1
+"Paul Ebose,github-actions[bot]",1
+"Reda,Bryce Kalow",1
+"Rudy Orre,vinay",1
+"Rishabh,kal07",1
+"Pedro Filho,shadcn",1
+"Mubin Ansari,Max Wiseman",1
+"Nguyen Long Nhat,shadcn",1
+"Nirmalya Ghosh,github-actions[bot]",1
+"Nami Sunami,github-actions[bot]",1
+"Nader Ferjani,Rishabh",1
+"Thomas Raffray,github-actions[bot]",1
+"Tobbe Lundberg,shadcn",1
+"Shishir,Paul Ebose",1
+"Shishir,github-actions[bot]",1
+"Shivang Rathore,github-actions[bot]",1
+"Shubhdeep Chhabra,Mubin Ansari",1
+"Spastic,Oliver Schneider",1
+"Sushant Mishra,Ethan Brown",1
+"Santi Dalmasso,github-actions[bot]",1
+"shadcn,BNaushad",1
+"shadcn,Ahmed Abdelbaset",1
+"shadcn,Amruth Pillai",1
+"sapenlei,github-actions[bot]",1
+"kevinmitch14,Rakibul Islam",1
+"kevinmitch14,shadcn",1
+"moshyfawn,Piros",1
+"shadcn,Maou",1
+"shadcn,HichemTech",1
+"shadcn,Connor Stevens",1
+"shadcn,Donovan Dikaio",1
+"shadcn,Ben Jacobson",1
+"shadcn,Reda",1
+"shadcn,Mubin Ansari",1
+"shadcn,Nicholas Lim",1
+"shadcn,The Command Runner",1
+"shadcn,Tanish Baansal",1
+"shadcn,Swapnanil Gupta",1
+"shadcn,Tyson",1
+"shadcn,Zwyx",1
+"shadcn,Yousef Alsayid",1
+"shadcn,jspark",1
+"shadcn,manfromexistence04",1
+,
+Committer Timezone Distribution,Unique Timezones: 3
+Timezone,Commits
++00:00,71
++01:00,14
++04:00,633
+,
+Contributors Experience,Average across 4822 files: 98.74%
+File,Top Contributor Share (%)
+.commitlintrc.json,100.00
+.editorconfig,100.00
+.eslintrc.json,100.00
+.husky/commit-msg,100.00
+.husky/pre-commit,100.00
+.npmrc,100.00
+.nvmrc,100.00
+.vscode/settings.json,100.00
+apps/www/.env.example,100.00
+apps/www/.gitignore,100.00

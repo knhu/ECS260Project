@@ -1,0 +1,106 @@
+Field,Value
+Commits Overview,
+Total Commits,2400
+Total Unique Authors,144
+,
+Top 10 Contributors,
+Author,Commits
+Skylot,13425
+Ahmed Ashour,904
+skylot,649
+Yaroslav,261
+Jan S,224
+Mino,202
+LBJ-the-GOAT,170
+nitram84,101
+pubiqq,88
+Iscle,79
+,
+Communication Events,Total: 263
+"Author1,Author2",Events
+"Yaroslav,Skylot",46
+"Julian Burner,Skylot",29
+"Skylot,Julian Burner",24
+"Ahmed Ashour,Skylot",16
+"Skylot,Ahmed Ashour",16
+"S-trace,Skylot",12
+"Jan S,Skylot",11
+"Bjoern Kerler,Skylot",10
+"Ahmed Ashour,skylot",9
+"nitram84,Skylot",7
+"Mino,Skylot",6
+"sergey-wowwow,Skylot",6
+"Skylot,Jan S",5
+"YASME-Tim,Skylot",4
+"Skylot,Sergey Toshin",3
+"Skylot,skylot",3
+"skylot,Skylot",3
+"pubiqq,Skylot",3
+"sergey-wowwow,unknown",2
+"Skylot,JustFor",2
+"Skylot,S-trace",2
+"YenKoc,Skylot",2
+"Skylot,sergey-wowwow",2
+"Donlon,Skylot",2
+"Andrei Kudryavtsev,Skylot",2
+"Sergey Toshin,sergey-wowwow",2
+"LBJ-the-GOAT,Choiman1559",2
+"Shaun Dang,Skylot",1
+"Sergey Toshin,unknown",1
+"Sergey Toshin,Skylot",1
+"Ori Perry,Jan S",1
+"Mathis Hesse,Skylot",1
+"Jan Peter Stotz,Skylot",1
+"Jonathan Leitschuh,Skylot",1
+"JustFor,Skylot",1
+"Jacob Davis-Hansson,Skylot",1
+"Jonas Konrad,Skylot",1
+"Ahmed Ashour,sergey-wowwow",1
+"Ahmet Bilal Can,Skylot",1
+"Anton Dyachenko,Skylot",1
+"Choiman1559,Skylot",1
+"DanielFi,nitram84",1
+"Fi5t,LBJ-the-GOAT",1
+"Skylot,pubiqq",1
+"Skylot,cskwrd",1
+"Skylot,NeoSpb",1
+"Skylot,LBJ-the-GOAT",1
+"Skylot,Hidoni",1
+"Skylot,Anton Dyachenko",1
+"Skylot,Jan S.",1
+"dgorshkov,sergey-wowwow",1
+"omerfarukkykc,Skylot",1
+"jmlitfi,Skylot",1
+"bytemarx,Skylot",1
+"sergey-wowwow,Sergey Toshin",1
+"qfalconer,Skylot",1
+"skylot,Jan S",1
+"xiaojye,Skylot",1
+"yyyair,Skylot",1
+,
+Committer Timezone Distribution,Unique Timezones: 11
+Timezone,Commits
++00:00,415
++01:00,596
++02:00,9
++03:00,1037
++04:00,313
++06:00,1
++08:00,14
+-04:00,6
+-05:00,4
+-07:00,3
+-08:00,2
+,
+Contributors Experience,Average across 3010 files: 94.90%
+File,Top Contributor Share (%)
+NOTICE,100.00
+gradle/wrapper/gradle-wrapper.properties,100.00
+gradlew,100.00
+gradlew.bat,100.00
+src/main/java/jadx/Consts.java,100.00
+src/main/java/jadx/JadxArgs.java,100.00
+src/main/java/jadx/Main.java,100.00
+src/main/java/jadx/ProcessClass.java,100.00
+src/main/java/jadx/codegen/AnnotationGen.java,100.00
+src/main/java/jadx/codegen/ClassGen.java,100.00

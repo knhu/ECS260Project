@@ -1,0 +1,9 @@
+file,author1,author2,time1,time2
+Dockerfile,Enric Moreu,enric,2019-03-04 11:58:02-08:00,2019-03-04 11:58:02-08:00
+Dockerfile,enric,Enric Moreu,2019-03-04 11:58:02-08:00,2019-03-04 11:58:02-08:00
+README.md,Tommy in Tongji,Adam Geitgey,2018-10-30 14:55:24-07:00,2018-10-30 14:57:07-07:00
+README.md,Jakub Jurových,Adam Geitgey,2019-05-02 10:06:12+01:00,2019-05-02 10:09:25+01:00
+README.md,Emanuel Haupt,Miki,2020-02-20 13:24:40+00:00,2020-02-20 13:26:55+00:00
+README.md,Miki,Adam Geitgey,2020-02-20 13:26:55+00:00,2020-02-20 14:17:57+00:00
+face_recognition/api.py,Guillaume 'Vermeille' Sanchez,Adam Geitgey,2018-05-29 17:04:56-07:00,2018-05-30 09:36:56-07:00
+setup.py,Santiago Castro,Adam Geitgey,2020-02-20 13:21:38+00:00,2020-02-20 14:19:46+00:00

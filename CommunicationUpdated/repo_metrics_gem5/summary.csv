@@ -1,0 +1,614 @@
+Field,Value
+Commits Overview,
+Total Commits,22316
+Total Unique Authors,541
+,
+Top 10 Contributors,
+Author,Commits
+Gabe Black,33994
+Nathan Binkert,10209
+Ali Saidi,10151
+Steve Reinhardt,8122
+Andreas Hansson,7783
+Nilay Vaish,7271
+Bobby R. Bruce,6427
+Daniel R. Carvalho,5899
+Andreas Sandberg,4778
+Giacomo Travaglini,4442
+,
+Communication Events,Total: 3324
+"Author1,Author2",Events
+"Brad Beckmann,Gabe Black",231
+"Gabe Black,Ali Saidi",134
+"Steve Reinhardt,Nathan Binkert",114
+"Nathan Binkert,Steve Reinhardt",84
+"Ali Saidi,Gabe Black",82
+"Gabe Black,Brad Beckmann",68
+"Steve Reinhardt,Brad Beckmann",64
+"Alexander Klimov,Giacomo Travaglini",63
+"Nathanael Premillieu,Rekai Gonzalez-Alberquilla",62
+"Gabe Black,Kevin Lim",44
+"Nathan Binkert,Polina Dudnik",41
+"Ali Saidi,Steve Reinhardt",41
+"Steve Reinhardt,Ali Saidi",41
+"Steve Reinhardt,Ron Dreslinski",40
+"Joel Hestness,Nilay Vaish",40
+"Melissa Jost,Bobby R. Bruce",39
+"Gabe Black,Daniel R. Carvalho",34
+"Nathan Binkert,Kevin Lim",32
+"Nathan Binkert,Dan Gibson",31
+"Nathan Binkert,Daniel Sanchez",29
+"Ali Saidi,Nathan Binkert",29
+"Steve Reinhardt,Yasuko Eckert",29
+"Gabe Black,Roger Chang",29
+"Kevin Lim,Steve Reinhardt",28
+"Nathan Binkert,Derek Hower",27
+"Nathan Binkert,Ali Saidi",27
+"Derek Hower,Nathan Binkert",25
+"Giacomo Gabrielli,Gabe Black",24
+"Gabe Black,Nathan Binkert",24
+"Andreas Sandberg,Mitch Hayenga",23
+"Joel Hestness,Brad Beckmann",21
+"Dan Gibson,Nathan Binkert",21
+"Steve Reinhardt,Lisa Hsu",20
+"Ali Saidi,Andrew Schultz",18
+"Kevin Lim,Ron Dreslinski",18
+"Ali Jafri,Andreas Hansson",17
+"Giacomo Travaglini,Gabe Black",17
+"Kevin Lim,Gabe Black",17
+"Gabe Black,Giacomo Travaglini",17
+"Gabe Black,Ron Dreslinski",17
+"Akash Bagdia,Andreas Hansson",16
+"Gabe Black,Nikos Nikoleris",16
+"Ron Dreslinski,Gabe Black",16
+"Kevin Lim,Ali Saidi",16
+"Andrew Schultz,Ali Saidi",15
+"Ron Dreslinski,Ali Saidi",15
+"Gabe Black,Steve Reinhardt",14
+"Lisa Hsu,Nathan Binkert",14
+"Ali Saidi,Ron Dreslinski",14
+"Dam Sunwoo,Andreas Hansson",13
+"Maryam Babaie,Ayaz Akram",13
+"Geoffrey Blake,Ali Saidi",13
+"Bobby R. Bruce,Gabe Black",12
+"Ali Saidi,Dam Sunwoo",12
+"Ron Dreslinski,Steve Reinhardt",12
+"Korey Sewell,Kevin Lim",12
+"Tony Gutierrez,Kyle Roarty",11
+"Andreas Hansson,Nilay Vaish",11
+"Nikos Nikoleris,Daniel R. Carvalho",11
+"Steve Reinhardt,Gabe Black",11
+"Andreas Sandberg,Ali Saidi",11
+"Ron Dreslinski,Nathan Binkert",11
+"Derek Hower,Dan Gibson",10
+"Brad Beckmann,Nathan Binkert",10
+"Ali Saidi,Andreas Hansson",10
+"Nathan Binkert,Ron Dreslinski",10
+"Andreas Sandberg,Andreas Hansson",10
+"Andreas Hansson,Andreas Sandberg",10
+"Korey Sewell,Steve Reinhardt",10
+"Lisa Hsu,Ali Saidi",10
+"Ali Saidi,Andreas Sandberg",10
+"Ali Saidi,Kevin Lim",10
+"Andreas Hansson,Akash Bagdia",9
+"Andreas Hansson,Marco Balboni",9
+"Ali Saidi,Lisa Hsu",9
+"Sandipan Das,Daniel R. Carvalho",9
+"Nilay Vaish,Ali Saidi",9
+"Andreas Hansson,Ali Jafri",9
+"David Hashe,Brad Beckmann",9
+"Curtis Dunham,Mitch Hayenga",8
+"Kevin Lim,Korey Sewell",8
+"Mrinmoy Ghosh,Ali Saidi",8
+"Laura Hinman,Melissa Jost",8
+"Harshil Patel,Bobby R. Bruce",8
+"Korey Sewell,Gabe Black",8
+"Ron Dreslinski,Kevin Lim",8
+"Steve Reinhardt,Brandon Potter",8
+"Alexandru Dutu,Matthew Poremba",8
+"Giacomo Travaglini,Daniel R. Carvalho",8
+"Gabe Black,Korey Sewell",8
+"Daniel Sanchez,Derek Hower",7
+"Ani Udipi,Andreas Hansson",7
+"Mitch Hayenga,Curtis Dunham",7
+"Andreas Sandberg,Giacomo Travaglini",7
+"Jasjeet Rangi,Melissa Jost",7
+"Michael LeBeane,Kyle Roarty",7
+"Nilay Vaish,Marc Orr",7
+"Nathan Binkert,Lisa Hsu",7
+"Nilay Vaish ext:(%2C%20Malek%20Musleh%20%3Cmalek.musleh%40gmail.com%3E),Nilay Vaish",7
+"Steve Reinhardt,Kevin Lim",7
+"David Hashe,Nilay Vaish",7
+"Dam Sunwoo,Ali Saidi",7
+"Tushar Krishna,Nilay Vaish",6
+"Steve Reinhardt,Korey Sewell",6
+"Nathan Binkert,Gabe Black",6
+"Ali Saidi,Matt Horsnell",6
+"Andreas Hansson,Neha Agarwal",6
+"Andreas Hansson,Curtis Dunham",6
+"Steve Raasch,Steve Reinhardt",6
+"Uri Wiener,Andreas Hansson",6
+"Timothy Hayes,Gabe Black",6
+"Andreas Hansson,William Wang",6
+"Min Kyu Jeong,Ali Saidi",6
+"Emilio Castillo ext:(%2C%20Nilay%20Vaish%20%3Cnilay%40cs.wisc.edu%3E),Nilay Vaish",6
+"Geoffrey Blake,Koan-Sin Tan",6
+"Gabe Black,Ciro Santilli",6
+"Daniel Sanchez,Nathan Binkert",6
+"Xuan Hu,Jason Lowe-Power",6
+"William Wang,Andreas Hansson",6
+"Adrian Herrera,Giacomo Travaglini",6
+"Brad Beckmann,Nilay Vaish",5
+"Curtis Dunham,Dylan Johnson",5
+"Chuan Zhu,Giacomo Travaglini",5
+"Steve Reinhardt,Andreas Hansson",5
+"Dam Sunwoo,Timothy M. Jones",5
+"Brandon Potter,Steve Reinhardt",5
+"Nathan Binkert,Erik Hallnor",5
+"Jason Lowe-Power,Erin Le",5
+"ivanaamit,Bobby R. Bruce",5
+"Matthew Poremba,Kyle Roarty",5
+"Matt Horsnell,Ali Saidi",5
+"Andrew Bardsley,Andreas Hansson",5
+"Korey Sewell,Ali Saidi",5
+"Jordi Vaquero,Gabe Black",5
+"Gabe Black,Bobby R. Bruce",5
+"Neha Agarwal,Andreas Hansson",5
+"Wendy Elsasser,Andreas Hansson",4
+"David Hashe,Joe Gross",4
+"Nathan Binkert,Andrew Schultz",4
+"Gabe Black,Min Kyu Jeong",4
+"Giacomo Gabrielli,Ali Saidi",4
+"Gabe Black,Hoa Nguyen",4
+"Gabe Black,Gene WU",4
+"Bobby R. Bruce,Melissa Jost",4
+"Matthew Poremba,Alexandru Dutu",4
+"Lisa Hsu,Kevin Lim",4
+"Kevin Lim,Lisa Hsu",4
+"mlebeane,Michael LeBeane",4
+"Jose Marinho,Sean Wilson",4
+"Andreas Sandberg,Gabe Black",4
+"Marco Kurzynski,Matthew Poremba",4
+"Jairo Balart,Javier Bueno",4
+"Matthew Poremba,Mahyar Samani",4
+"Gabe Black,Alexander Klimov",4
+"Gabe Black,Andreas Sandberg",4
+"Gabe Black,Jordi Vaquero",4
+"Nicholas Lindsay,Richard Cooper",4
+"Bobby R. Bruce,Harshil Patel",4
+"Nathanael Premillieu,Daniel R. Carvalho",4
+"Tony Gutierrez,Brandon Potter",4
+"Ali Saidi,Geoffrey Blake",4
+"Timothy Hayes,Giacomo Travaglini",4
+"Chander Sudanthi,Ali Saidi",4
+"Tiago Mück,Tiago Muck",4
+"Polina Dudnik,Daniel Sanchez",4
+"Polina Dudnik,Derek Hower",4
+"Kevin Lim,Nathan Binkert",4
+"Zhantong Qiu,Bobby R. Bruce",4
+"Tushar Krishna,Joel Hestness",4
+"Andreas Hansson,Wendy Elsasser",4
+"Dam Sunwoo,Giacomo Gabrielli",4
+"Ali Saidi,William Wang",4
+"Dan Gibson,Polina Dudnik",4
+"David Hashe,Brandon Potter",3
+"Amin Farmahini,Andreas Hansson",3
+"Daniel R. Carvalho,Sascha Bischoff",3
+"Dylan Johnson,Curtis Dunham",3
+"Andreas Hansson,Brad Beckmann",3
+"Ali Saidi,Gene WU",3
+"Brad Beckmann ext:(%2C%20Nilay%20Vaish%20%3Cnilay%40cs.wisc.edu%3E),Nilay Vaish",3
+"Ali Saidi,Anthony Gutierrez",3
+"Alexandru Dutu,Tony Gutierrez",3
+"Daniel R. Carvalho,Nikos Nikoleris",3
+"Derek Hower,Polina Dudnik",3
+"Derek Hower,Brad Beckmann",3
+"Daniel Sanchez,Dan Gibson",3
+"Ciro Santilli,Giacomo Travaglini",3
+"Tiago Muck,Tiago Mück",3
+"Richard Cooper,Giacomo Travaglini",3
+"Tiago Mück,Gabe Black",3
+"Tuan Ta,Moyang Wang",3
+"Jason Lowe-Power,Bobby R. Bruce",3
+"Korey Sewell,Nathan Binkert",3
+"Giacomo Travaglini,Nikos Nikoleris",3
+"Giacomo Gabrielli,Giacomo Travaglini",3
+"Andreas Hansson,Stephan Diestelhorst",3
+"Matteo Andreozzi,Giacomo Travaglini",3
+"Min Kyu Jeong,Gene Wu",3
+"Nuwan Jayasena,Joel Hestness",3
+"Steve Reinhardt,Alexandru Dutu",3
+"Steve Reinhardt,Erik Hallnor",3
+"Anouk Van Laer,Jose Marinho",3
+"Anouk Van Laer,Giacomo Travaglini",3
+"Boris Shingarov,Daniel R. Carvalho",3
+"Nikos Nikoleris,Gabe Black",3
+"Melissa Jost,Gabe Black",3
+"Matthew Sinclair,Brandon Potter",3
+"Michiel Van Tol,Giacomo Travaglini",3
+"Gabe Black,Rekai Gonzalez-Alberquilla",3
+"Andreas Hansson,Uri Wiener",3
+"Andreas Hansson,Prakash Ramrakhyani",3
+"Gabe Black,Vince Weaver",3
+"Tushar Krishna,Nathan Binkert",3
+"Matt Horsnell,Dam Sunwoo",3
+"Andreas Sandberg,Lluís Vilanova",3
+"Matt Horsnell,Geoffrey Blake",3
+"Ivana Mitrovic,Bobby R. Bruce",3
+"Bobby R. Bruce,Matthew Poremba",3
+"Nikos Nikoleris,Andreas Hansson",3
+"Gabe Black,Adrian Herrera",3
+"Geoffrey Blake,Andreas Hansson",3
+"Bobby R. Bruce,Mahyar Samani",3
+"Faissal Sleiman,Matt Horsnell",3
+"Bobby R. Bruce,Jason Lowe-Power",3
+"David Hashe,Blake Hechtman",2
+"Daniel Kouchekinia,BujSet",2
+"Daniel R. Carvalho,Jason Lowe-Power",2
+"Daniel Johnson,Chander Sudanthi",2
+"Polina Dudnik,Nathan Binkert",2
+"Emily Brickey,Tony Gutierrez",2
+"Andreas Hansson,Andrew Bardsley",2
+"Andreas Hansson,Ani Udipi",2
+"Derek Hower,Daniel Sanchez",2
+"Brandon Potter,Alexandru Dutu",2
+"Tiago Mück,Gabriel Busnot",2
+"Brad Beckmann,Tony Gutierrez",2
+"Brad Beckmann ext:(%2C%20Nilay%20Vaish%20%3Cnilay%40cs.wisc.edu%3E),Brad Beckmann",2
+"Xianwei Zhang,Matt Sinclair",2
+"William Wang,Ali Saidi",2
+"Wendy Elsasser,Gabe Black",2
+"Tony Gutierrez,Matt Sinclair",2
+"Tony Gutierrez,Gabe Black",2
+"Ali Saidi,Gene Wu",2
+"Timothy M. Jones,Giacomo Gabrielli",2
+"Srikant Bharadwaj,Michael LeBeane",2
+"Ron Dreslinski,Lisa Hsu",2
+"Shivani,Emily Brickey",2
+"Andreas Hansson,Gabe Black",2
+"Andreas Hansson,David Guillen-Fandos",2
+"David Guillen Fandos,Andreas Sandberg",2
+"David Guillen,Andreas Hansson",2
+"David Guillen Fandos,Andreas Hansson",2
+"Tiago Mück,Alexander Klimov",2
+"Tiago Mück,Giacomo Travaglini",2
+"Chander Sudanthi,Andreas Sandberg",2
+"Ali Saidi,Prakash Ramrakhyani",2
+"Andreas Hansson,ARM gem5 Developers",2
+"Dan Gibson,Daniel Sanchez",2
+"Stephan Diestelhorst,Andreas Hansson",2
+"Stephan Diestelhorst,Marco Elver",2
+"Dam Sunwoo,Mitch Hayenga",2
+"Dam Sunwoo,Andreas Sandberg",2
+"Dam Sunwoo,ARM gem5 Developers",2
+"Curtis Dunham,Andrew Bardsley",2
+"Curtis Dunham,Andreas Hansson",2
+"Omar Naji,Andreas Hansson",2
+"Omar Naji,Wendy Elsasser",2
+"Maximilian Stein,Gabe Black",2
+"Melissa Jost,Laura Hinman",2
+"Giacomo Travaglini,Adrian Herrera",2
+"Maximilien Breughe,Korey Sewell",2
+"Michiel W. van Tol,Giacomo Travaglini",2
+"Minje Jun,Víctor Soria Pardos",2
+"Gabe Black,Matthew Poremba",2
+"Giacomo Travaglini,Boris Shingarov",2
+"Andreas Sandberg,Chander Sudanthi",2
+"Andreas Hansson,Steve Reinhardt",2
+"Andreas Hansson,Nikos Nikoleris",2
+"Geoffrey Blake,Chander Sudanthi",2
+"Mitch Hayenga ext:(%2C%20Amin%20Farmahini%20%3Caminfar%40gmail.com%3E),Mitch Hayenga",2
+"Gabe Black,Vincentius Robby",2
+"Andreas Hansson,Sascha Bischoff",2
+"Nilay Vaish,Gabe Black",2
+"Erik Hallnor,Steve Reinhardt",2
+"Nikolaos Kyparissas,Giacomo Travaglini",2
+"Nuwan Jayasena,Brad Beckmann",2
+"Nitesh Narayana,Matthias Boettcher",2
+"Gabe Black,Dam Sunwoo",2
+"Erin (Jianghua) Le,Erin Le",2
+"Nilay Vaish,Andreas Hansson",2
+"Boris Shingarov,Michael LeBeane",2
+"Nathan Binkert,Steve Raasch",2
+"Andreas Sandberg,Curtis Dunham",2
+"Bobby R. Bruce,Zhantong Qiu",2
+"Gene Wu,Min Kyu Jeong",2
+"Gene WU,Ali Saidi",2
+"Matt Sinclair,Travis Boraten",2
+"Mahyar Samani,Bobby R. Bruce",2
+"Mahyar Samani,Jason Lowe-Power",2
+"Mahyar Samani,Matthew Poremba",2
+"Andreas Sandberg,Geoffrey Blake",2
+"Andreas Sandberg,Sascha Bischoff",2
+"Bobby R. Bruce,Giacomo Travaglini",2
+"Benjamin Nash,Miguel Serrano",2
+"Marco Balboni,Steve Reinhardt",2
+"Bobby R. Bruce,Erin Le",2
+"Matt Sinclair,Xianwei Zhang",2
+"Matthew Poremba,Gabe Black",2
+"Hoa Nguyen,Ivana Mitrovic",2
+"Matthew Poremba,Bobby R. Bruce",2
+"Matt Sinclair,Daniel Kouchekinia",2
+"Lisa Hsu,Gabe Black",2
+"Lisa Hsu,Andrew Schultz",2
+"Kaustav Goswami,Bobby R. Bruce",2
+"Krishnendra Nathella,Brandon Potter",2
+"Joel Hestness,Gabe Black",2
+"Joe Gross,Tony Gutierrez",2
+"Jiasen,Andreas Sandberg",2
+"Javier Setoain,Gabor Dozsa",2
+"Javier Bueno,Daniel R. Carvalho",2
+"Jason Lowe-Power,Harshil Patel",2
+"Yu-Cheng Chang,Robert Hauser",2
+"mbabaie,Melissa Jost",2
+"Jordi Vaquero,Tony Gutierrez",2
+"Tuan Ta,Tony Gutierrez",2
+"Tuan Ta,Kyle Roarty",2
+"Alexandru Dutu,Brandon Potter",2
+"Alex Richardson,Gabe Black",2
+"Adrien Pesle,Giacomo Travaglini",2
+"Abdul Mutaal Ahmad,Christian Menard",1
+"Abhishek Shailendra Singh,pre-commit-ci[bot]",1
+"Adrian Herrera,Gabe Black",1
+"Adrian Herrera,Jan-Peter Larsson",1
+"Adrià Armejach,Javier Setoain",1
+"Adrián Herrera,Giacomo Travaglini",1
+"Akash Bagdia,Geoffrey Blake",1
+"Alec Roelke,Gabe Black",1
+"Alex Richardson,Alexander Richardson",1
+"Alexandru Dutu,Andreas Hansson",1
+"Vince Weaver,Gabe Black",1
+"Vincentius Robby,Ali Saidi",1
+"Vishnu Ramadas,Jarvis Jia",1
+"Travis Boraten,Tony Gutierrez",1
+"Tuan Ta,Matt Sinclair",1
+"Tushar Krishna,Korey Sewell",1
+"Yu-Cheng Chang,Bobby R. Bruce",1
+"Yu-Cheng Chang,QQeg",1
+"rogerchang23424,Roger Chang",1
+"Jui-min Lee,Gabe Black",1
+"Korey Sewell,Brad Beckmann",1
+"Korey Sewell,Nilay Vaish",1
+"Kyle Roarty,Gabe Black",1
+"Kyle Roarty,Matthew Poremba",1
+"Lena Olson,Andreas Hansson",1
+"Leon,Yu-Cheng Chang",1
+"Jason Lowe-Power,Hanhwi Jang",1
+"Jason Lowe-Power,KaiBatley",1
+"Jason Lowe-Power,Matthew Poremba",1
+"Javier Bueno,David Hashe",1
+"Javier Setoain,Adrià Armejach",1
+"Jayneel Gandhi,Nilay Vaish",1
+"Jiayi Huang,Gabe Black",1
+"Joel Hestness,Tim Harris",1
+"Lisa Hsu,Steve Reinhardt",1
+"Lluís Vilanova,Ali Saidi",1
+"Luming Wang,Jason Lowe-Power",1
+"Mahyar Samani,Gabe Black",1
+"Mahyar Samani,Melissa Jost",1
+"Andreas Sandberg,Daniel R. Carvalho",1
+"Andreas Sandberg,David Guillen Fandos",1
+"Andreas Sandberg,Javier Bueno",1
+"Andreas Sandberg,Javier Setoain",1
+"Andreas Sandberg,Mrinmoy Ghosh",1
+"Andreas Sandberg,Nilay Vaish",1
+"Andreas Sandberg,Tong Shen",1
+"Andrew Bardsley,Andreas Sandberg",1
+"Andrew Bardsley,Curtis Dunham",1
+"Marc Orr,Steve Reinhardt",1
+"Marco Balboni,Andreas Hansson",1
+"Marco Balboni,Stephan Diestelhorst",1
+"Marco Elver,Andreas Hansson",1
+"Marco Elver,Kanishk Sugand",1
+"Anthony Gutierrez,Andreas Hansson",1
+"Anthony Gutierrez,Mrinmoy Ghosh",1
+"Anthony Gutierrez,Nilay Vaish",1
+"Austin Harris,Andrea Mondelli",1
+"Benjamin Nash,Nathan Binkert",1
+"Bobby Bruce,Bobby R. Bruce",1
+"Hoa Nguyen,Richard Cooper",1
+"Iru Cai,Jason Lowe-Power",1
+"Ivan Pizarro,Andrea Mondelli",1
+"Ivan Pizarro,Javier Bueno",1
+"Jason Lowe-Power,Andreas Sandberg",1
+"Maryam Babaie,Mahyar Samani",1
+"Matt Horsnell,Giacomo Gabrielli",1
+"Matt Horsnell,Giacomo Travaglini",1
+"Matt Sinclair,BujSet",1
+"Matt Sinclair,Tony Gutierrez",1
+"Matteo Andreozzi,Andreas Sandberg",1
+"Matthew Poremba,Erin (Jianghua) Le",1
+"Giacomo Travaglini,Michiel van Tol",1
+"Giacomo Travaglini,Richard Cooper",1
+"Giacomo Travaglini,Yu-hsin Wang",1
+"Harshil Patel,Erin (Jianghua) Le",1
+"Harshil Patel,Giacomo Travaglini",1
+"Hoa Nguyen,Alvaro Moreno",1
+"Hoa Nguyen,Daniel R. Carvalho",1
+"Hoa Nguyen,Gabe Black",1
+"Hoa Nguyen,Mahyar Samani",1
+"Hoa Nguyen,Melissa Jost",1
+"Andrew Schultz,Nathan Binkert",1
+"Andrew Schultz,Steve Reinhardt",1
+"Matthew Poremba,Giacomo Travaglini",1
+"Matthew Poremba,Maryam Babaie",1
+"Matthew Poremba,Michael LeBeane",1
+"Matthew Poremba,Nikos Nikoleris",1
+"Matthew Poremba,Tuan Ta",1
+"Matthias Boettcher,Nitesh Narayana",1
+"Michael Adler,Andreas Hansson",1
+"Michael Adler,Tom Jablin",1
+"Michael Boyer,Matthew Poremba",1
+"Michael LeBeane,Alexandru Dutu",1
+"Min Kyu Jeong,Matt Horsnell",1
+"Mitch Hayenga,Geoffrey Blake",1
+"Mitch Hayenga,Rekai Gonzalez Alberquilla",1
+"Mitchell Hayenga,William Wang",1
+"Monir Mozumder,Brandon Potter",1
+"Mrinmoy Ghosh,Dam Sunwoo",1
+"Mrinmoy Ghosh,Geoffrey Blake",1
+"Nathan Binkert,Andreas Hansson",1
+"Nathan Binkert,Andreas Sandberg",1
+"Geoffrey Blake,Dam Sunwoo",1
+"Geoffrey Blake,Mitch Hayenga",1
+"Giacomo Travaglini,Adrián Herrera",1
+"Giacomo Travaglini,Alexander Richardson",1
+"Giacomo Travaglini,Andreas Sandberg",1
+"Giacomo Travaglini,Bobby R. Bruce",1
+"Giacomo Travaglini,Chuan Zhu",1
+"Giacomo Travaglini,Edmund Grimley Evans",1
+"Giacomo Travaglini,Emily Brickey",1
+"Giacomo Travaglini,Jordi Vaquero",1
+"Giacomo Travaglini,Matthew Poremba",1
+"Gabe Black,Matt Sinclair",1
+"Gabe Black,Nilay Vaish",1
+"Gabe Black,Timothy Hayes",1
+"Gabe Black,Tom Rollet",1
+"Gabe Black,Xiaoyu Ma",1
+"Gabe Black,Yen-lin Lai",1
+"Gabe Black,eavivi",1
+"Gedare Bloom,Ali Saidi",1
+"Nathan Binkert,Benjamin Nash",1
+"Andreas Hansson,Rekai Gonzalez Alberquilla",1
+"Andreas Sandberg,Anthony Gutierrez",1
+"Andreas Sandberg,Bobby R. Bruce",1
+"Bobby R. Bruce,Matt Sinclair",1
+"Bobby R. Bruce,Shivani Parekh",1
+"Bobby R. Bruce,dependabot[bot]",1
+"Brad Beckmann,Blake Hechtman",1
+"Brad Beckmann,David Hashe",1
+"Gabe Black,Gabriel Busnot",1
+"Gabe Black,Jason Lowe-Power",1
+"Gabe Black,Lisa Hsu",1
+"Nathan Binkert,Taeho Kgil",1
+"Nathanael Premillieu,Jason Lowe-Power",1
+"Neha Agarwal,Ani Udipi",1
+"Nikos Nikoleris,Anouk Van Laer",1
+"Nikos Nikoleris,Reiley Jeapaul",1
+"Nikos Nikoleris,Sascha Bischoff",1
+"Nikos Nikoleris,Yu-hsin Wang",1
+"Nilay Vaish,Joe Gross",1
+"Erik Hallnor,Steve Raasch",1
+"Erin (Jianghua) Le,Jason Lowe-Power",1
+"Gabe Black,Alexandru Dutu",1
+"Bobby R. Bruce,Ivana Mitrovic",1
+"Bobby R. Bruce,Kaustav Goswami",1
+"Nilay Vaish,Lena Olson",1
+"Nilay Vaish,Malek Musleh",1
+"Nilay Vaish,Steve Reinhardt",1
+"Nils Asmussen,Anouk Van Laer",1
+"Prakash Ramrakhani,Ali Saidi",1
+"Prakash Ramrakhani,Geoffrey Blake",1
+"Prakash Ramrakhyani,Ali Saidi",1
+"Prakash Ramrakhyani,Dam Sunwoo",1
+"David Guillen Fandos,Sergei Trofimov",1
+"David Guillen-Fandos,Andreas Hansson",1
+"David Hashe,Tony Gutierrez",1
+"Doğukan Korkmaztürk,Andreas Sandberg",1
+"Earl Ou,Yu-hsin Wang",1
+"Emily Brickey,Shivani Parekh",1
+"Erik Hallnor,Ali Saidi",1
+"Erik Hallnor,Nathan Binkert",1
+"Andreas Hansson,Ali Saidi",1
+"Andreas Hansson,Amin Farmahini",1
+"Andreas Hansson,Giacomo Gabrielli",1
+"Andreas Hansson,Koan-Sin Tan",1
+"Andreas Hansson,Lena Olson",1
+"Andreas Hansson,Michael LeBeane",1
+"Andreas Hansson,Mitch Hayenga",1
+"QQeg,Roger Chang",1
+"QQeg,Saúl",1
+"Reiley Jeapaul,Andreas Sandberg",1
+"Reiley Jeyapaul,Tiago Mück",1
+"Richard Cooper,Nikolaos Kyparissas",1
+"Riken Gohil,Gabe Black",1
+"Robert Hauser,Bobby R. Bruce",1
+"Roger Chang,rogerchang23424",1
+"Ron Dreslinski,Korey Sewell",1
+"Ruben Ayrapetyan,Giacomo Travaglini",1
+"Samuel Stark,Giacomo Travaglini",1
+"Sascha Bischoff,Andreas Hansson",1
+"Severin Wischmann ext:(%2C%20Ioannis%20Ilkos%20%3Cioannis.ilkos09%40imperial.ac.uk%3E),Michael Adler",1
+"Shivani Parekh,Jason Lowe-Power",1
+"Sooraj Puthoor,Kyle Roarty",1
+"Stan Czerniawski,Neha Agarwal",1
+"Daniel,Javier Bueno",1
+"Daniel Kouchekinia,Matthew Poremba",1
+"Daniel R. Carvalho,Bobby R. Bruce",1
+"Daniel R. Carvalho,Gabe Black",1
+"Daniel R. Carvalho,Giacomo Travaglini",1
+"Daniel R. Carvalho,Matthew Poremba",1
+"Daniel Sanchez,Steve Reinhardt",1
+"Curtis Dunham,Andreas Sandberg",1
+"Curtis Dunham,Glenn Bergmans",1
+"Dam Sunwoo,Gene Wu",1
+"Dam Sunwoo,Marco Elver",1
+"Dam Sunwoo,Min Kyu Jeong",1
+"Dan Gibson,Derek Hower",1
+"Stephan Diestelhorst,David Guillen Fandos",1
+"Steve Raasch,Erik Hallnor",1
+"Steve Raasch,Nathan Binkert",1
+"Ali Saidi,Matt Evans",1
+"Ali Saidi,Min Kyu Jeong",1
+"Ali Saidi,Nilay Vaish",1
+"Andrea Mondelli,Andreas Sandberg",1
+"Andrea Mondelli,Tuan Ta",1
+"Brad Danofsky,Nathan Binkert",1
+"Brandon Potter,Gabe Black",1
+"Brandon Potter,Joe Gross",1
+"BujSet,Matt Sinclair",1
+"Chander Sudanthi,Daniel Johnson",1
+"Chow, Marcus,Tony Gutierrez",1
+"Chris Emmons,Ali Saidi",1
+"Chris Emmons,Andreas Hansson",1
+"Chris Emmons,Dam Sunwoo",1
+"Ciro Santilli,Matthew Poremba",1
+"Steve Reinhardt,Andrew Schultz",1
+"Steve Reinhardt ext:(%2C%20Nilay%20Vaish%20%3Cnilay%40cs.wisc.edu%3E%2C%20Ali%20Saidi%20%3CAli.Saidi%40ARM.com%3E),Andreas Sandberg",1
+"Tiago Muck,David Guillen Fandos",1
+"Tiago Mück,Ayaz Akram",1
+"Timothy Hayes,Mahyar Samani",1
+"Timothy Hayes,Wendy Elsasser",1
+"Tommaso Marinelli (imec),Tommaso Marinelli",1
+"William Wang,Min Kyu Jeong",1
+"Xiangyu Dong,Andreas Hansson",1
+"Xianwei Zhang,Alexandru Dutu",1
+"Xianwei Zhang,Tony Gutierrez",1
+"Xiongfei,Hoa Nguyen",1
+"Xuan Hu,Adrià Armejach",1
+"Yen-lin Lai,Gabe Black",1
+"Brad Beckmann,Joel Hestness",1
+"Tony Gutierrez,Alexandru Dutu",1
+"Tony Gutierrez,Blake Hechtman",1
+"Alexandru Dutu,Michael LeBeane",1
+"Ali Saidi,ARM gem5 Developers",1
+"Ali Saidi,Koan-Sin Tan",1
+"Tony Gutierrez,Chow, Marcus",1
+"Tony Gutierrez,Matthew Poremba",1
+"Tony Gutierrez,Michael LeBeane",1
+,
+Committer Timezone Distribution,Unique Timezones: 10
+Timezone,Commits
++00:00,8773
++01:00,492
++02:00,117
++08:00,85
++09:00,4
+-04:00,3283
+-05:00,4370
+-06:00,574
+-07:00,3160
+-08:00,1458
+,
+Contributors Experience,Average across 17677 files: 85.95%
+File,Top Contributor Share (%)
+base/intmath.h,100.00
+base/kgdb.h,100.00
+base/symtab.cc,100.00
+base/symtab.hh,100.00
+sim/base_cpu.cc,100.00
+sim/base_cpu.hh,100.00
+sim/cache/lzss_compression.cc,100.00
+sim/cache/lzss_compression.hh,100.00
+sim/cache/null_compression.hh,100.00
+sim/exec_context.cc,100.00

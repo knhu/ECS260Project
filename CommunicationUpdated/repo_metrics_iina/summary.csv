@@ -1,0 +1,238 @@
+Field,Value
+Commits Overview,
+Total Commits,3673
+Total Unique Authors,154
+,
+Top 10 Contributors,
+Author,Commits
+Yuze Jiang,6297
+Collider LI,6020
+iina-bot,4081
+lhc,1283
+low-batt,1059
+Saagar Jha,502
+Matt Svoboda,306
+Nicolas Allemand,186
+darkbrow,184
+Hechen Li,169
+,
+Communication Events,Total: 757
+"Author1,Author2",Events
+"Yuze Jiang,Collider LI",124
+"Collider LI,Yuze Jiang",81
+"Collider LI,Neeson.Z",40
+"Hazar,Yuze Jiang",29
+"low-batt,Yuze Jiang",21
+"Yuze Jiang,iina-bot",20
+"Yuze Jiang,low-batt",17
+"Saagar Jha,Collider LI",17
+"low-batt,Matt Svoboda",13
+"Yuze Jiang,Matt Svoboda",10
+"Inflation,Yuze Jiang",9
+"Hechen Li,low-batt",9
+"Nicolas Allemand,Chris Laprun",8
+"Collider LI,Saagar Jha",8
+"Georg Stadler,Yuze Jiang",7
+"李通洲,Collider LI",7
+"Neeson.Z,Collider LI",7
+"Saagar Jha,Yuze Jiang",7
+"Yuma Matsune,Collider LI",7
+"Yuze Jiang,Hazar",7
+"Collider LI,Matt Svoboda",6
+"Yuze Jiang,Hechen Li",6
+"lhc,Haruka",5
+"Hechen Li,Yuze Jiang",5
+"Chris Laprun,Nicolas Allemand",4
+"Collider LI,low-batt",4
+"Haruka,Saagar Jha",4
+"Chris Laprun,Collider LI",4
+"Collider LI,Inflation",4
+"Brothre23,Collider LI",4
+"Andrew Breckenridge,Collider LI",4
+"Yuze Jiang,Saagar Jha",4
+"Xu Cheng,Miigon",4
+"Matt Svoboda,Viktor Szépe",4
+"Inflation,Collider LI",4
+"Nicolas Allemand,Collider LI",4
+"Miigon,Collider LI",4
+"Matt Svoboda,low-batt",4
+"Matt Svoboda,Yuze Jiang",4
+"Saagar Jha,lhc",4
+"Collider LI,Leo Natan",4
+"Xu Cheng,Ang Li",4
+"Yuze Jiang,Paweł Golonko",4
+"Matt Svoboda,Hechen Li",3
+"Matt Svoboda,Collider LI",3
+"Collider LI,Miigon",3
+"Collider LI,Andrew Breckenridge",3
+"Emin Hacıoğlu,Yuze Jiang",3
+"Collider LI,Yuma Matsune",3
+"Alexandre Gaubil,Yuze Jiang",3
+"Haruka,Yuze Jiang",3
+"Miigon,Saagar Jha",3
+"Yuze Jiang,Nicolas Allemand",3
+"iina-bot,Yuze Jiang",3
+"lhc,Ang Li",3
+"Xu Cheng,Yuze Jiang",3
+"Nicolas Allemand,Yuze Jiang",3
+"Xu Cheng,lhc",3
+"low-batt,Hechen Li",3
+"Haruka,Collider LI",2
+"Haruka,Yi Huang",2
+"DrabWeb,Saagar Jha",2
+"Collider LI,darkbrow",2
+"Ailton Vieira Pinto Filho,Kautilya Save",2
+"Ang Li,lhc",2
+"Bartosz Dolewski,Yuze Jiang",2
+"Alexandre Gaubil,Collider LI",2
+"Collider LI,DrabWeb",2
+"Collider LI,Erik Minekus",2
+"Collider LI,Mathric",2
+"Collider LI,LEOYoon-Tsaw",2
+"DrabWeb,Neeson.Z",2
+"lhc,Saagar Jha",2
+"low-batt,Masahiro Kiyota",2
+"lhc,Xu Cheng",2
+"Yuze Jiang,cgand",2
+"Yuze Jiang,Xu Cheng",2
+"darkbrow,Yuze Jiang",2
+"顾佳奇,Xu Cheng",2
+"Matt Svoboda,Shreyansh Mishra",2
+"Mathric,Collider LI",2
+"Viktor,Yuze Jiang",2
+"Xu Cheng,DrabWeb",2
+"Thomas Kirk,Collider LI",2
+"Yuze Jiang,Georg Stadler",2
+"cgand,Collider LI",2
+"Yuze Jiang,lhc",2
+"J-rg,Yuze Jiang",2
+"Matt Svoboda,Brent Monning",2
+"Miigon,lhc",2
+"Collider LI,Aikyuichi",1
+"Collider LI,Chris Laprun",1
+"Collider LI,Alexandre Gaubil",1
+"Collider LI,Eugene F",1
+"Collider LI,Haruka",1
+"Eugene F,LEOYoon-Tsaw",1
+"Eugene F,Yuma Matsune",1
+"Eugene F,Yuze Jiang",1
+"Eugene F,cgand",1
+"DrabWeb,Xu Cheng",1
+"DrabWeb,lhc",1
+"Emin Hacıoğlu,Georg Stadler",1
+"Erik Minekus,cgand",1
+"DrabWeb,Collider LI",1
+"Collider LI,Wang Hailong",1
+"Collider LI,Thomas Kirk",1
+"Collider LI,alejx",1
+"Collider LI,shilch",1
+"Collider LI,skyline75489",1
+"Collider LI,秦宇航",1
+"Dejan Skledar,Yuze Jiang",1
+"Collider LI,Nicolas Allemand",1
+"Collider LI,Sidney",1
+"Collider LI,Xu Cheng",1
+"Ang Li,Yuze Jiang",1
+"Andrew Breckenridge,Yuze Jiang",1
+"Aikyuichi,Collider LI",1
+"Aikyuichi,Paweł Golonko",1
+"Alexander Sokolov,Yuze Jiang",1
+"Cee,Collider LI",1
+"Brent Monning,Coin",1
+"Ang Li,Miigon",1
+"Muntashir Al-Islam,Collider LI",1
+"Marvin,Yuze Jiang",1
+"MikeVini13,Yuze Jiang",1
+"Miigon,Xu Cheng",1
+"Masahiro Kiyota,Collider LI",1
+"Yi Huang,DrabWeb",1
+"Wang Hailong,Anas Saeed",1
+"Wowbagger & his liquid lunch,Yuze Jiang",1
+"Saagar Jha,cgand",1
+"Shreyansh Mishra,low-batt",1
+"Shlomo,Yuze Jiang",1
+"Sidney,Collider LI",1
+"Viktor Szépe,Yuze Jiang",1
+"Nicolas Allemand,Jinbong",1
+"Nicolas Allemand,J-rg",1
+"Nicolas Allemand,darkbrow",1
+"Paweł Golonko,Yuma Matsune",1
+"Roy J,low-batt",1
+"Rafael Prado,Collider LI",1
+"Ruslan Timchenko,Yuze Jiang",1
+"Saagar Jha,DrabWeb",1
+"Nathan Manceaux-Panot,low-batt",1
+"Nicolas Allemand,Aikyuichi",1
+"LEOYoon-Tsaw,Yuze Jiang",1
+"James Baxter,Yuze Jiang",1
+"Ivan Kovnatsky,cgand",1
+"Haruka,lhc",1
+"Herlandro Hermogenes,Matt Svoboda",1
+"Igor Wojda,Bartosz Dolewski",1
+"Hechen Li,Matt Svoboda",1
+"LEOYoon-Tsaw,Eugene F",1
+"Jiaqi Gu,DrabWeb",1
+"Yi Huang,Yuze Jiang",1
+"Yuze Jiang,Raphael Schweikert",1
+"Yuze Jiang,Jinbong",1
+"Yuze Jiang,Haruka",1
+"Yuze Jiang,Erik Minekus",1
+"cgand,Nicolas Allemand",1
+"cgand,Marvin",1
+"cgand,LEO Yoon-Tsaw",1
+"cgand,Aikyuichi",1
+"braineo,Collider LI",1
+"bugra1410,Yuze Jiang",1
+"alejx,Collider LI",1
+"Yuze Jiang,Shreyansh Mishra",1
+"Yuze Jiang,Viktor Szépe",1
+"Yuze Jiang,Bartosz Dolewski",1
+"Yuze Jiang,0xflotus",1
+"Yuze Jiang,Alexandre Gaubil",1
+"darkbrow,cgand",1
+"darkbrow,Collider LI",1
+"darkbrow,Nicolas Allemand",1
+"cgand,Yuze Jiang",1
+"low-batt,Arkady Bazhanov",1
+"lhc70000,lhc",1
+"lhc,shilch",1
+"lhc,Yuze Jiang",1
+"lhc,DrabWeb",1
+"darkbrow,Emin Hacıoğlu",1
+"low-batt,Collider LI",1
+"low-batt,Saagar Jha",1
+"lusuee,Kelvin",1
+"lusuee,Collider LI",1
+"shilch,Collider LI",1
+"shilch,darkbrow",1
+"wanxiangchwng,Yuze Jiang",1
+"vit9696,Saagar Jha",1
+"xjbeta,Collider LI",1
+"顾佳奇,Jiaqi Gu",1
+,
+Committer Timezone Distribution,Unique Timezones: 11
+Timezone,Commits
++00:00,4
++01:00,57
++02:00,40
++03:00,49
++08:00,2174
++09:00,412
+-04:00,327
+-05:00,259
+-06:00,196
+-07:00,84
+-08:00,71
+,
+Contributors Experience,Average across 2911 files: 85.77%
+File,Top Contributor Share (%)
+libmpv/include/mpv/qthelper.hpp,100.00
+mpvx.xcodeproj/project.pbxproj,100.00
+mpvx.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+mpvx/AppData.swift,100.00
+mpvx/AppDelegate.swift,100.00
+mpvx/Assets.xcassets/AppIcon.appiconset/Contents.json,100.00
+mpvx/Base.lproj/MainMenu.xib,100.00
+mpvx/Environment.swift,100.00
+mpvx/Error.swift,100.00
+mpvx/Info.plist,100.00

@@ -1,0 +1,212 @@
+file,author1,author2,time1,time2
+.gitignore,StefanosChaliasos,5n8ke,2017-03-24 13:00:10+02:00,2017-03-24 23:03:02+02:00
+.gitignore,Yash Ladha,appi,2017-07-01 19:27:52+03:00,2017-07-02 13:14:22+05:30
+.idea/Jarvis.iml,Umang Ahuja,appi,2017-07-28 11:04:14+03:00,2017-07-28 17:27:54+05:30
+.idea/misc.xml,Umang Ahuja,appi,2017-07-28 11:04:14+03:00,2017-07-28 17:27:54+05:30
+.idea/modules.xml,Umang Ahuja,appi,2017-07-28 11:04:14+03:00,2017-07-28 17:27:54+05:30
+.idea/vcs.xml,Umang Ahuja,appi,2017-07-28 11:04:14+03:00,2017-07-28 17:27:54+05:30
+.idea/workspace.xml,Umang Ahuja,appi,2017-07-28 11:04:14+03:00,2017-07-28 17:27:54+05:30
+.travis.yml,Monal Shadi,appi,2017-07-01 19:26:05+03:00,2017-07-02 08:13:02+05:30
+CONTRIBUTING.md,Milind Sharma,pnhofmann,2021-11-18 16:52:02+01:00,2021-11-18 16:52:02+01:00
+Jarvis/.gitignore,sukeesh,Lucas Keune,2017-03-20 12:41:26+05:30,2017-03-20 15:10:06+01:00
+Jarvis/.gitignore,StefanosChaliasos,5n8ke,2017-03-24 13:00:10+02:00,2017-03-24 23:03:02+02:00
+Jarvis/CmdInterpreter.py,Ander Raso Vázquez,Brent Hand,2017-04-10 12:10:21+02:00,2017-04-11 03:48:47+03:00
+Jarvis/CmdInterpreter.py,Brent Hand,StefanosChaliasos,2017-04-11 03:48:47+03:00,2017-04-11 04:18:24+03:00
+Jarvis/CmdInterpreter.py,StefanosChaliasos,Stefanos,2017-04-11 04:18:24+03:00,2017-04-11 05:30:26+03:00
+Jarvis/CmdInterpreter.py,5n8ke,Luis Silva,2017-05-12 00:42:16+03:00,2017-05-12 13:20:22+03:00
+Jarvis/CmdInterpreter.py,Ryan Arredondo,Ana Isabel,2017-06-16 18:38:46+03:00,2017-06-16 18:39:14+03:00
+Jarvis/CmdInterpreter.py,Ana Isabel,=,2017-06-26 18:18:49+03:00,2017-06-26 23:08:06+05:30
+Jarvis/Jarvis.py,StefanosChaliasos,Lucas Keune,2017-03-22 13:08:11+02:00,2017-03-22 15:57:27+01:00
+Jarvis/Jarvis.py,Lucas Keune,RottenCrab,2017-03-22 15:57:27+01:00,2017-03-22 22:54:23+02:00
+Jarvis/Jarvis.py,RottenCrab,StefanosChaliasos,2017-03-22 22:54:23+02:00,2017-03-23 02:56:55+02:00
+Jarvis/Jarvis.py,StefanosChaliasos,Brent,2017-03-23 03:04:43+02:00,2017-03-23 00:50:28-04:00
+Jarvis/Jarvis.py,Brent,RottenCrab,2017-03-23 00:50:28-04:00,2017-03-23 20:42:03+02:00
+Jarvis/Jarvis.py,RottenCrab,StefanosChaliasos,2017-03-24 02:32:07+02:00,2017-03-24 02:40:00+02:00
+Jarvis/Jarvis.py,StefanosChaliasos,5n8ke,2017-03-24 13:00:10+02:00,2017-03-24 23:03:02+02:00
+Jarvis/Jarvis.py,5n8ke,Brent,2017-03-24 23:03:02+02:00,2017-03-24 17:07:16-04:00
+Jarvis/Jarvis.py,Brent,StefanosChaliasos,2017-03-24 17:20:51-04:00,2017-03-25 02:03:17+02:00
+Jarvis/Jarvis.py,StefanosChaliasos,sukeesh,2017-03-25 02:03:17+02:00,2017-03-25 17:43:33+05:30
+Jarvis/Jarvis.py,sukeesh,Stefanos,2017-03-25 17:43:33+05:30,2017-03-26 06:18:31+03:00
+Jarvis/Jarvis.py,Pedro José Anula,Brent,2017-03-29 16:35:33+02:00,2017-03-30 00:20:13-04:00
+Jarvis/Jarvis.py,Ander Raso Vázquez,Pedro José Anula,2017-04-05 21:57:30+02:00,2017-04-06 01:53:03+02:00
+Jarvis/Jarvis.py,Pedro José Anula,Ander Raso Vázquez,2017-04-06 02:04:52+02:00,2017-04-06 15:25:43+02:00
+Jarvis/Jarvis.py,StefanosChaliasos,Ander Raso Vázquez,2017-04-08 13:07:04+03:00,2017-04-08 16:08:51+02:00
+Jarvis/Jarvis.py,Ana Isabel,Ryan Arredondo,2017-06-16 18:37:16+03:00,2017-06-16 18:38:46+03:00
+Jarvis/Jarvis.py,Ryan Arredondo,StefanosChaliasos,2017-06-16 18:38:46+03:00,2017-06-16 18:45:49+03:00
+Jarvis/__main__.py,StefanosChaliasos,Lucas Keune,2017-03-17 14:41:07+02:00,2017-03-17 16:29:31+01:00
+Jarvis/__main__.py,Lucas Keune,kennymccormick3,2017-03-17 16:52:59+01:00,2017-03-17 18:59:50+03:00
+Jarvis/__main__.py,kennymccormick3,Lucas Keune,2017-03-17 18:59:50+03:00,2017-03-17 17:06:43+01:00
+Jarvis/mapps.py,StefanosChaliasos,Lucas Keune,2017-03-17 14:41:07+02:00,2017-03-17 16:52:59+01:00
+Jarvis/music.py,kennymccormick3,Sukeesh,2017-03-18 00:35:57+03:00,2017-03-18 10:10:34+05:30
+Jarvis/music.py,Sukeesh,kennymccormick3,2017-03-18 10:10:34+05:30,2017-03-19 07:33:52+03:00
+Jarvis/packages/aiml/brain.py,Brent,StefanosChaliasos,2017-04-08 02:09:35-04:00,2017-04-08 13:25:25+03:00
+Jarvis/packages/aiml/chat.aiml,Brent,sukeesh,2017-03-24 17:07:16-04:00,2017-03-25 17:43:33+05:30
+Jarvis/packages/aiml/chat.aiml,sukeesh,Brent,2017-03-25 17:43:33+05:30,2017-03-26 02:40:47-04:00
+Jarvis/packages/fileHandler.py,StefanosChaliasos,5n8ke,2017-03-24 13:00:10+02:00,2017-03-24 23:03:02+02:00
+Jarvis/packages/forecast.py,Ana Isabel,=,2017-06-26 18:18:49+03:00,2017-06-26 23:08:06+05:30
+Jarvis/packages/news.py,Brent Hand,StefanosChaliasos,2017-04-11 03:48:47+03:00,2017-04-11 04:13:03+03:00
+Jarvis/packages/reminder.py,StefanosChaliasos,5n8ke,2017-03-24 13:00:10+02:00,2017-03-24 23:03:02+02:00
+Jarvis/packages/todo.py,StefanosChaliasos,5n8ke,2017-03-24 13:00:10+02:00,2017-03-24 23:03:02+02:00
+Jarvis/tests/test_brain.py,StefanosChaliasos,Brent,2017-04-07 20:13:44+03:00,2017-04-08 02:06:58-04:00
+Jarvis/todo.py,StefanosChaliasos,Lucas Keune,2017-03-17 14:41:07+02:00,2017-03-18 09:41:09+01:00
+Jarvis/utilities/GeneralUtilities.py,Stefanos,StefanosChaliasos,2017-04-11 05:31:10+03:00,2017-04-11 22:15:20+03:00
+Jarvis/utilities/dateTime.py,Ana Isabel,=,2017-06-26 18:18:49+03:00,2017-06-26 23:08:06+05:30
+LICENSE,Kevin Schellenberg,Sukeesh,2017-03-17 09:09:31-04:00,2017-03-17 18:41:18+05:30
+NEW_FUNCTIONALITIES.md,5n8ke,Luis Silva,2017-05-12 00:42:16+03:00,2017-05-12 13:20:22+03:00
+PLUGINS.md,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+README.md,StefanosChaliasos,Ander Raso Vázquez,2017-04-09 15:28:43+03:00,2017-04-09 16:26:25+02:00
+README.md,StefanosChaliasos,Sukeesh,2017-07-01 18:28:21+03:00,2017-07-02 10:46:45+05:30
+README.md,Sukeesh,Arpit Choudhary,2017-07-02 10:46:45+05:30,2017-07-02 09:05:09+03:00
+README.md,Arpit Choudhary,Sukeesh,2017-07-02 09:05:09+03:00,2017-07-02 15:33:23+05:30
+README.md,The Gitter Badger,Sukeesh,2017-07-29 07:00:44+00:00,2017-07-29 12:36:15+05:30
+README.md,StefanosChaliasos,appi,2017-10-14 00:40:42+03:00,2017-10-14 13:12:21+05:30
+README.md,StefanosChaliasos,Philipp Hofmann,2018-10-17 11:23:03+02:00,2018-10-17 11:23:04+02:00
+README.md,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+TEST.md,Troy,Troy Phillips,2022-02-20 15:04:20+01:00,2022-02-20 15:04:20+01:00
+VisitWebsite.py,Darin Rawson,Darin755,2020-06-11 19:46:17+00:00,2020-06-11 19:46:17+00:00
+agenda.csv,IriannaPapoutsi,pnhofmann,2021-05-14 09:51:17+00:00,2021-05-14 12:03:59+02:00
+audioHandler.py,x1ah,sukeesh,2017-03-13 23:55:13+08:00,2017-03-14 21:18:06+05:30
+contributors.md,StefanosChaliasos,Sukeesh,2017-03-30 01:28:45+03:00,2017-03-30 17:18:43+05:30
+doc/TEST_API.md,World,World (Gi-hyeon),2023-03-23 16:24:20+01:00,2023-03-23 16:24:20+01:00
+evaluator.py,x1ah,sukeesh,2017-03-13 23:55:13+08:00,2017-03-14 21:18:06+05:30
+installer/requirements.txt,sprintyaf,pnhofmann,2020-07-14 13:47:24+00:00,2020-07-14 13:47:24+00:00
+installpyaudio.py,Mukesh Kumar,pnhofmann,2019-02-12 17:16:35+05:30,2019-02-12 18:53:19+01:00
+jarviscli/CmdInterpreter.py,Yash Ladha,appi,2017-07-01 20:18:15+03:00,2017-07-02 10:24:48+05:30
+jarviscli/CmdInterpreter.py,Ayush Aggarwal,yashLadha,2017-07-23 11:48:48+03:00,2017-07-23 17:43:54+05:30
+jarviscli/CmdInterpreter.py,Roberto Oliveira,Arpit Choudhary,2017-07-25 21:48:21+03:00,2017-07-26 21:09:39+03:00
+jarviscli/CmdInterpreter.py,Umang Ahuja,Arpit Choudhary,2017-07-28 11:04:14+03:00,2017-07-29 10:33:25+03:00
+jarviscli/CmdInterpreter.py,Arpit Choudhary,jlvivero,2017-07-29 10:33:25+03:00,2017-07-29 22:47:11-07:00
+jarviscli/CmdInterpreter.py,jlvivero,umangahuja1,2017-07-30 00:31:35-07:00,2017-07-31 07:55:27+05:30
+jarviscli/CmdInterpreter.py,umangahuja1,Umang Ahuja,2017-07-31 07:55:27+05:30,2017-07-31 14:12:07+05:30
+jarviscli/CmdInterpreter.py,appi,umangahuja1,2017-10-13 17:15:38+05:30,2017-10-13 22:57:58+05:30
+jarviscli/CmdInterpreter.py,umangahuja1,appi,2017-10-13 23:07:02+05:30,2017-10-13 23:52:09+05:30
+jarviscli/CmdInterpreter.py,Sanjay Prajapat,Arpit Choudhary,2018-04-01 00:25:30+05:30,2018-04-01 01:50:33+05:30
+jarviscli/CmdInterpreter.py,Arpit Choudhary,Sanjay Prajapat,2018-04-01 01:50:33+05:30,2018-04-01 13:49:32+05:30
+jarviscli/CmdInterpreter.py,Arpit Choudhary,Sanjay Prajapat,2018-04-02 21:50:17+05:30,2018-04-02 23:41:26+05:30
+jarviscli/CmdInterpreter.py,Adelin,dixi3,2018-05-20 03:33:14+03:00,2018-05-20 04:47:57+03:00
+jarviscli/CmdInterpreter.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/CmdInterpreter.py,Bersam Karbasion,pnhofmann,2020-10-02 12:26:33+00:00,2020-10-02 12:26:33+00:00
+jarviscli/CmdInterpreter.py,Leonardo Scarlato,pnhofmann,2024-10-15 15:04:06-03:00,2024-10-16 15:47:48+02:00
+jarviscli/Jarvis.py,Roberto Oliveira,siddardhaks,2017-07-25 22:00:22+03:00,2017-07-26 13:13:30+03:00
+jarviscli/Jarvis.py,siddardhaks,Arpit Choudhary,2017-07-26 13:13:30+03:00,2017-07-26 21:09:39+03:00
+jarviscli/PluginManager.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/PluginManager.py,Arpit Choudhary,pnhofmann,2019-07-27 19:04:10+05:30,2019-07-27 16:13:27+02:00
+jarviscli/packages/dictionary.py,Cheuk Yin Ng,pnhofmann,2018-04-29 14:50:10+03:00,2018-04-29 14:55:48+03:00
+jarviscli/packages/imgur.py,Adelin,dixi3,2018-05-20 03:33:14+03:00,2018-05-20 05:12:41+03:00
+jarviscli/packages/quote.py,umangahuja1,appi,2017-10-13 22:46:48+05:30,2017-10-13 23:52:09+05:30
+jarviscli/packages/timeIn.py,Arpit Choudhary,pnhofmann,2018-10-18 13:24:32+05:30,2018-10-19 10:59:35+05:30
+jarviscli/packages/timeIn.py,pnhofmann,Arpit Choudhary,2018-10-19 10:59:35+05:30,2018-10-20 09:10:41+05:30
+jarviscli/packages/timeIn.py,Arpit Choudhary,Philipp Hofmann,2018-10-20 09:10:41+05:30,2018-10-20 17:12:03+02:00
+jarviscli/packages/translate.py,mohit17067,appi147,2017-12-19 11:54:34+05:30,2017-12-19 20:31:40+05:30
+jarviscli/pep8speaks.yml,KrishnaSai2020,Krishna Chivukula,2021-08-05 14:26:04+02:00,2021-08-05 14:26:04+02:00
+jarviscli/plugin.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugin.py,Arpit Choudhary,pnhofmann,2019-07-27 19:04:10+05:30,2019-07-27 16:13:27+02:00
+jarviscli/plugins/OpenWebsite.py,=,Roger Vieira,2019-10-18 11:27:36+00:00,2019-10-18 11:27:36+00:00
+jarviscli/plugins/OpenWebsite.py,Roger Vieira,=,2019-10-18 11:27:36+00:00,2019-10-18 11:27:36+00:00
+jarviscli/plugins/OpenWebsite.py,=,pnhofmann,2019-10-18 11:27:36+00:00,2019-10-18 11:27:36+00:00
+jarviscli/plugins/activity.py,pierre,pnhofmann,2021-03-22 08:58:49+00:00,2021-03-22 09:26:40+00:00
+jarviscli/plugins/agify.py,pierre,pnhofmann,2021-03-22 08:50:17+00:00,2021-03-22 09:26:40+00:00
+jarviscli/plugins/akinator.py,xenakal,pnhofmann,2019-11-14 18:09:38+00:00,2019-11-15 16:59:27+00:00
+jarviscli/plugins/akinator.py,lstgl,pnhofmann,2022-11-10 18:55:14+01:00,2022-11-10 19:00:32+01:00
+jarviscli/plugins/armstrong_numbers.py,giorgos pappas,pnhofmann,2023-02-18 12:49:55+01:00,2023-02-18 12:49:55+01:00
+jarviscli/plugins/ask.py,Philipp Hofmann,Arpit Choudhary,2018-10-17 11:54:54+02:00,2018-10-18 10:26:07+05:30
+jarviscli/plugins/ask.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugins/asteroids_neows.py,shotanozadze,pnhofmann,2020-07-13 19:56:45+00:00,2020-07-14 10:05:24+00:00
+jarviscli/plugins/battery.py,Shahlin Ibrahim,pnhofmann,2019-02-07 09:22:58+01:00,2019-02-07 09:22:58+01:00
+jarviscli/plugins/battery.py,brennop,pnhofmann,2019-12-12 15:38:52+00:00,2019-12-12 15:38:52+00:00
+jarviscli/plugins/bmi.py,minki kim,pnhofmann,2019-07-17 08:19:48-07:00,2019-07-18 13:23:36+02:00
+jarviscli/plugins/caesar_cipher.py,KrishnaSai2020,pnhofmann,2021-08-05 14:26:04+02:00,2021-08-05 14:26:04+02:00
+jarviscli/plugins/calculator.py,akshgpt7,pnhofmann,2019-11-14 17:58:19+00:00,2019-11-14 17:58:19+00:00
+jarviscli/plugins/calories.py,minki kim,MINKI KIM,2019-06-27 14:02:47-07:00,2019-06-27 21:17:21+00:00
+jarviscli/plugins/change_mac.py,menachem,pnhofmann,2020-10-13 14:52:08+00:00,2020-10-13 14:52:08+00:00
+jarviscli/plugins/clear.py,nikiboura,pnhofmann,2021-05-14 11:16:03+01:00,2021-05-14 11:16:03+01:00
+jarviscli/plugins/cocktail.py,Manousakis01,LeonidhaMara,2022-06-04 22:22:40+02:00,2022-06-04 22:22:40+02:00
+jarviscli/plugins/cocktail.py,LeonidhaMara,Manos Manousakis,2022-06-04 22:22:40+02:00,2022-06-04 22:22:40+02:00
+jarviscli/plugins/cricket.py,Sreekanth T M,pnhofmann,2018-11-05 13:42:17+00:00,2018-11-05 13:42:17+00:00
+jarviscli/plugins/cricket.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugins/currencyconv.py,Arpit Choudhary,Jon Ander Oribe,2019-03-25 18:56:24+05:30,2019-03-26 00:50:37+05:30
+jarviscli/plugins/detect_language.py,sprintyaf,pnhofmann,2020-07-14 13:47:24+00:00,2020-07-14 13:47:24+00:00
+jarviscli/plugins/evaluator.py,Arpit Choudhary,Philipp Hofmann,2018-10-16 09:18:50+05:30,2018-10-16 11:15:14+02:00
+jarviscli/plugins/evaluator.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugins/flightradar.py,Ekansh Talwar,Modi08,2023-04-14 21:53:31+02:00,2023-04-15 00:09:08+02:00
+jarviscli/plugins/football.py,pnhofmann,AltheusV,2020-10-07 13:12:05+00:00,2020-10-07 13:14:29+00:00
+jarviscli/plugins/get_host_info.py,dbherol,pnhofmann,2020-08-28 19:53:11+00:00,2020-08-28 19:53:11+00:00
+jarviscli/plugins/google.py,gmitchell,PappaStalin,2019-10-30 09:33:23+00:00,2019-10-30 09:33:23+00:00
+jarviscli/plugins/hangman.py,vvash17,pnhofmann,2020-07-26 09:11:45+00:00,2020-07-26 09:11:45+00:00
+jarviscli/plugins/jarvis_tour.py,Jiabao Han,u7726387,2024-10-12 16:03:05+11:00,2024-10-12 16:28:30+11:00
+jarviscli/plugins/jarvis_tour.py,u7726387,Jiabao Han,2024-10-12 16:28:30+11:00,2024-10-12 16:28:40+11:00
+jarviscli/plugins/jarvis_tour.py,Jiabao Han,u7041989,2024-10-12 16:28:40+11:00,2024-10-12 16:30:40+11:00
+jarviscli/plugins/jarvis_tour.py,u7041989,Hongyu Li,2024-10-12 16:30:40+11:00,2024-10-12 16:32:19+11:00
+jarviscli/plugins/jarvis_tour.py,Hongyu Li,Jiabao Han,2024-10-12 16:39:24+11:00,2024-10-12 16:50:19+11:00
+jarviscli/plugins/jarvis_tour.py,Jiabao Han,u7726387,2024-10-12 16:50:19+11:00,2024-10-12 16:55:52+11:00
+jarviscli/plugins/jarvis_tour.py,u7726387,u7041989,2024-10-12 16:55:52+11:00,2024-10-12 17:50:04+11:00
+jarviscli/plugins/location.py,phinum,Arpit Choudhary,2019-10-11 19:03:20+05:30,2019-10-11 21:53:26+05:30
+jarviscli/plugins/lyrics.py,Philipp Hofmann,Arpit Choudhary,2018-12-18 16:03:34+01:00,2018-12-18 21:23:59+05:30
+jarviscli/plugins/lyrics.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugins/massconv.py,shoniavika,pnhofmann,2020-06-06 16:14:09+00:00,2020-06-06 16:14:09+00:00
+jarviscli/plugins/movie.py,bsushmith,Sushmith,2019-01-24 00:15:19+05:30,2019-01-24 00:42:58+05:30
+jarviscli/plugins/movie.py,Sushmith,bsushmith,2019-01-24 00:42:58+05:30,2019-01-24 01:38:55+05:30
+jarviscli/plugins/nationalize.py,pierre,pnhofmann,2021-03-22 09:26:40+00:00,2021-03-22 09:26:40+00:00
+jarviscli/plugins/new_year.py,vakhokoto,pnhofmann,2020-07-14 09:48:51+00:00,2020-07-14 10:05:24+00:00
+jarviscli/plugins/open.py,Darin Rawson,Darin755,2020-06-11 19:46:17+00:00,2020-06-11 19:46:17+00:00
+jarviscli/plugins/open.py,Darin755,Darin Rawson,2020-06-11 19:46:17+00:00,2020-06-11 19:46:17+00:00
+jarviscli/plugins/pi.py,enqidu,pnhofmann,2020-07-14 09:49:35+00:00,2020-07-14 10:05:24+00:00
+jarviscli/plugins/pi.py,pnhofmann,enqidu,2020-07-14 10:05:24+00:00,2020-07-14 16:41:55+00:00
+jarviscli/plugins/screen_capture.py,Ritik Ranjan,pnhofmann,2022-01-18 13:30:46+01:00,2022-01-18 13:30:46+01:00
+jarviscli/plugins/speedtest.py,bsushmith,pnhofmann,2019-01-23 13:49:28+00:00,2019-01-23 13:49:28+00:00
+jarviscli/plugins/stock.py,Madhav Kulkarni,Sukeesh,2019-04-26 04:55:46-07:00,2019-04-27 16:43:20+09:00
+jarviscli/plugins/stock.py,Madhava Kulkarni,pnhofmann,2019-10-26 11:05:17+00:00,2019-10-26 11:05:17+00:00
+jarviscli/plugins/stt.py,Mukesh Kumar,M. Mukesh Kumar,2019-02-04 00:16:56+05:30,2019-02-04 00:19:26+05:30
+jarviscli/plugins/stt.py,M. Mukesh Kumar,Mukesh Kumar,2019-02-04 00:19:26+05:30,2019-02-04 16:33:39+05:30
+jarviscli/plugins/systemOptions.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugins/tasks.py,Dudu Popkhadze,pnhofmann,2020-07-13 19:28:49+00:00,2020-07-14 10:05:24+00:00
+jarviscli/plugins/translate.py,Matthew237,pnhofmann,2019-10-29 16:03:22+00:00,2019-10-29 16:03:22+00:00
+jarviscli/plugins/trivia.py,Arjun Khanna,arjunk2004,2020-06-19 10:08:17+00:00,2020-06-19 10:08:17+00:00
+jarviscli/plugins/typingtest.py,Sanil,pnhofmann,2019-10-29 15:54:19+00:00,2019-10-29 15:54:19+00:00
+jarviscli/plugins/typingtest.py,pnhofmann,Philipp Hofmann,2019-11-27 20:49:12+01:00,2019-11-27 20:49:12+01:00
+jarviscli/plugins/upside-down.py,enqidu,pnhofmann,2020-07-13 10:07:34+00:00,2020-07-13 10:07:34+00:00
+jarviscli/plugins/voice.py,Methenitis,Anna Kotsa,2020-05-12 20:14:02+03:00,2020-05-13 16:49:41+03:00
+jarviscli/plugins/voice_control.py,Philipp Hofmann,pnhofmann,2019-02-25 21:29:46+00:00,2019-02-25 21:29:46+00:00
+jarviscli/plugins/yeelight.py,Manos Manousakis,LeonidhaMara,2022-07-27 15:03:23+02:00,2022-07-27 15:03:23+02:00
+jarviscli/plugins/yeelight.py,LeonidhaMara,Manos Manousakis,2022-07-27 15:03:23+02:00,2022-07-27 15:03:23+02:00
+jarviscli/tests/test_default.py,Stefanos,appi,2017-07-01 19:07:04+03:00,2017-07-02 10:24:48+05:30
+jarviscli/tests/test_help.py,Stefanos,appi,2017-07-01 19:07:04+03:00,2017-07-02 10:24:48+05:30
+jarviscli/tests/test_hex.py,Ian Zhang,pnhofmann,2020-11-26 19:03:52-05:00,2020-11-27 13:20:19+01:00
+jarviscli/tests/test_memory.py,Stefanos,appi,2017-07-01 19:07:04+03:00,2017-07-02 10:24:48+05:30
+jarviscli/tests/test_parser.py,Stefanos,appi,2017-07-01 19:07:04+03:00,2017-07-02 10:24:48+05:30
+jarviscli/tests/test_tasks.py,Dudu Popkhadze,pnhofmann,2020-07-13 19:28:49+00:00,2020-07-14 10:05:24+00:00
+jarviscli/tests/test_timeIn.py,Stefanos,appi,2017-07-01 19:07:04+03:00,2017-07-02 10:24:48+05:30
+jarviscli/utilities/PyLyricsClone.py,Arpit Choudhary,Philipp Hofmann,2018-12-18 19:44:33+05:30,2018-12-18 16:03:34+01:00
+jarviscli/utilities/voice.py,Philipp Hofmann,StefanosChaliasos,2018-10-17 11:20:41+02:00,2018-10-17 11:23:03+02:00
+jarviscli/utilities/voice.py,StefanosChaliasos,Philipp Hofmann,2018-10-17 11:23:03+02:00,2018-10-17 11:23:03+02:00
+jarviscli/utilities/voice.py,sravanjosh,Alexandr Alexeenko,2019-08-02 12:51:43+05:30,2019-08-02 19:59:26+05:30
+main.py,x1ah,sukeesh,2017-03-14 00:02:47+08:00,2017-03-14 21:18:06+05:30
+main.py,Stefanos,StefanosChaliasos,2017-03-17 10:02:20+02:00,2017-03-17 10:07:14+02:00
+mapps.py,x1ah,dengelt,2017-03-13 23:55:13+08:00,2017-03-13 19:44:06+01:00
+mapps.py,dengelt,abrahammurciano,2017-03-13 19:44:06+01:00,2017-03-14 16:26:26+01:00
+mapps.py,abrahammurciano,sukeesh,2017-03-14 16:26:26+01:00,2017-03-14 21:18:06+05:30
+newws.py,x1ah,sukeesh,2017-03-13 23:55:13+08:00,2017-03-14 21:18:06+05:30
+picshow.py,x1ah,sukeesh,2017-03-13 23:55:13+08:00,2017-03-14 21:18:06+05:30
+record.py,x1ah,sukeesh,2017-03-13 23:55:13+08:00,2017-03-14 21:18:06+05:30
+requirements.txt,Brent,sukeesh,2017-03-24 17:25:40-04:00,2017-03-25 17:43:33+05:30
+requirements.txt,appi,eudescar,2017-10-20 01:45:42+05:30,2017-10-19 22:36:39-03:00
+requirements.txt,umang,appi147,2017-12-14 05:30:32+05:30,2017-12-14 12:21:01+05:30
+requirements.txt,Philipp Hofmann,Arpit Choudhary,2018-10-17 13:33:54+02:00,2018-10-17 18:38:44+05:30
+requirements.txt,Philipp Hofmann,bsushmith,2019-01-12 12:23:54+01:00,2019-01-12 11:29:42+00:00
+requirements.txt,Mukesh Kumar,M. Mukesh Kumar,2019-02-03 23:43:22+05:30,2019-02-04 00:01:02+05:30
+requirements.txt,Mukesh Kumar,pnhofmann,2019-02-10 23:19:21+05:30,2019-02-11 10:39:48+01:00
+requirements.txt,Nilay Majorwar,pnhofmann,2019-10-04 16:04:17+00:00,2019-10-04 22:42:01+02:00
+setup.py,appi,sukeesh,2017-07-02 10:24:48+05:30,2017-07-02 15:29:49+05:30
+setup.sh,Yash Ladha,Arpit Choudhary,2017-07-01 21:55:23+03:00,2017-07-02 09:05:09+03:00
+setup.sh,Roberto Oliveira,Arpit Choudhary,2017-07-25 21:48:21+03:00,2017-07-26 21:09:39+03:00
+setup.sh,Arpit Choudhary,Umang Ahuja,2017-07-30 19:33:30+03:00,2017-07-31 14:12:07+05:30
+setup.sh,Umang Ahuja,Sudharsanaraj R,2017-07-31 14:12:07+05:30,2017-07-31 23:11:42+05:30
+setup.sh,Grant Parajuli,appi,2017-10-13 12:41:04-05:00,2017-10-14 16:43:18+05:30
+setup.sh,appi,eudescar,2017-10-20 01:52:57+05:30,2017-10-19 22:33:10-03:00
+setup.sh,Philipp Hofmann,StefanosChaliasos,2018-10-17 11:23:02+02:00,2018-10-17 11:23:03+02:00
+setup.sh,StefanosChaliasos,Philipp Hofmann,2018-10-17 11:23:03+02:00,2018-10-17 13:22:25+02:00
+setup.sh,Philipp Hofmann,Arpit Choudhary,2018-10-17 13:22:25+02:00,2018-10-17 18:38:44+05:30
+setup.sh,Mukesh Kumar,pnhofmann,2019-02-12 17:16:35+05:30,2019-02-12 18:53:19+01:00
+todo.py,x1ah,sukeesh,2017-03-13 23:55:13+08:00,2017-03-14 21:18:06+05:30
+todolist.txt,sukeesh,Sukeesh,2017-03-14 21:18:06+05:30,2017-03-14 21:20:28+05:30
+todolist.txt,StefanosChaliasos,sukeesh,2017-03-17 14:43:41+02:00,2017-03-17 18:45:50+05:30

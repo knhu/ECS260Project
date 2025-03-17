@@ -1,0 +1,229 @@
+Field,Value
+Commits Overview,
+Total Commits,11220
+Total Unique Authors,35
+,
+Top 10 Contributors,
+Author,Commits
+benluelo,85068
+Hussein Ait Lahcen,17452
+aeryz,15738
+poisonphang,14005
+PoisonPhang,7268
+Karel L. Kubat,6618
+cor,6269
+Ben Luelo,5946
+omar,4321
+Lukas,3116
+,
+Communication Events,Total: 6898
+"Author1,Author2",Events
+"PoisonPhang,poisonphang",3472
+"benluelo,aeryz",366
+"aeryz,benluelo",253
+"benluelo,Hussein Ait Lahcen",250
+"PoisonPhang,Hussein Ait Lahcen",163
+"Hussein Ait Lahcen,poisonphang",150
+"omar,cor",135
+"Lukas,cor",118
+"cor,omar",115
+"cor,Lukas",89
+"Hussein Ait Lahcen,benluelo",83
+"Karel L. Kubat,Hussein Ait Lahcen",60
+"omar,benluelo",57
+"benluelo,omar",56
+"Kaan Caglan,aeryz",55
+"aeryz,PoisonPhang",54
+"Hussein Ait Lahcen,aeryz",52
+"aeryz,Ben Luelo",49
+"Jurriaan Pruijs,benluelo",42
+"aeryz,Kaan Caglan",38
+"Karel L. Kubat,cor",37
+"benluelo,cor",35
+"aeryz,Hussein Ait Lahcen",35
+"Hussein Ait Lahcen,cor",35
+"poisonphang,aeryz",34
+"Ben Luelo,aeryz",34
+"Hussein Ait Lahcen,Ben Luelo",29
+"cor,benluelo",29
+"kaancaglan,aeryz",28
+"Hussein Ait Lahcen,PoisonPhang",27
+"cor,Hussein Ait Lahcen",27
+"cor,PoisonPhang",26
+"Ben Luelo,Hussein Ait Lahcen",24
+"Omar,benluelo",22
+"benluelo,Jurriaan Pruijs",21
+"o-az,Lukas",20
+"cor,o-az",20
+"karel,cor",20
+"PoisonPhang,cor",20
+"poisonphang,Hussein Ait Lahcen",20
+"cor,Karel L. Kubat",19
+"benluelo,PoisonPhang",19
+"o-az,cor",18
+"poisonphang,PoisonPhang",18
+"Lukas,o-az",16
+"aeryz,kaancaglan",15
+"PoisonPhang,omar",14
+"aeryz,poisonphang",14
+"cor,karel",14
+"kaancaglan,Kaan Caglan",14
+"cor,Ben Luelo",14
+"Omar,omar",13
+"Lukas,omar",13
+"aeryz,cor",13
+"jurriaan,benluelo",13
+"benluelo,Karel L. Kubat",12
+"benluelo,poisonphang",12
+"kaancaglan,Karel L. Kubat",12
+"Connor Davis,cor",12
+"Karel L. Kubat,Ben Luelo",11
+"Ben Luelo,cor",11
+"poisonphang,benluelo",11
+"cor,Connor Davis",9
+"karel,benluelo",9
+"omar,Hussein Ait Lahcen",9
+"Kaan Caglan,o-az",9
+"Ben Luelo,PoisonPhang",8
+"Hussein Ait Lahcen,Karel L. Kubat",8
+"Ben Luelo,benluelo",8
+"Kaan Caglan,kaancaglan",8
+"cor,poisonphang",8
+"cor,aeryz",8
+"omar,Lukas",7
+"PoisonPhang,benluelo",7
+"karel,Karel L. Kubat",7
+"omar,poisonphang",7
+"o-az,karel",7
+"PoisonPhang,Connor Davis",7
+"benluelo,kaancaglan",7
+"Hussein Ait Lahcen,omar",7
+"Connor Davis,PoisonPhang",7
+"o-az,omar",6
+"omar,PoisonPhang",6
+"benluelo,karel",6
+"omar,Omar Aziz",6
+"kaancaglan,benluelo",6
+"PoisonPhang,aeryz",6
+"poisonphang,omar",6
+"jurriaan,karel",5
+"benluelo,Lukas",5
+"Ben Luelo,Karel L. Kubat",5
+"atahanyild,Hussein Ait Lahcen",5
+"benluelo,Kaan Caglan",4
+"benluelo,jurriaan",4
+"Miguel Palhas,Hussein Ait Lahcen",4
+"aeryz,Abdullah Eryuzlu",4
+"PoisonPhang,Ben Luelo",4
+"Hussein Ait Lahcen,Connor Davis",4
+"poisonphang,cor",4
+"jurriaan,o-az",4
+"hussein-aitlahcen,Hussein Ait Lahcen",4
+"Connor Davis,Hussein Ait Lahcen",4
+"Karel L. Kubat,karel",4
+"Kaan Caglan,benluelo",4
+"cor,jurriaan",3
+"Karel L. Kubat,Connor Davis",3
+"Hussein Ait Lahcen,o-az",3
+"Lukas,benluelo",3
+"Jurriaan Pruijs,Hussein Ait Lahcen",3
+"Karel L. Kubat,aeryz",3
+"hussein-aitlahcen,Abdullah Eryuzlu",3
+"aeryz,o-az",3
+"atahanyild,benluelo",3
+"omar,o-az",3
+"o-az,jurriaan",3
+"o-az,Kaan Caglan",3
+"o-az,PablitoAmaral",3
+"PablitoAmaral,benluelo",3
+"Omar,cor",3
+"PoisonPhang,hussein-aitlahcen",3
+"benluelo,o-az",3
+"o-az,PoisonPhang",2
+"o-az,poisonphang",2
+"o-az,benluelo",2
+"karel,o-az",2
+"karel,aeryz",2
+"PablitoAmaral,jurriaan",2
+"hussein-aitlahcen,Karel L. Kubat",2
+"PoisonPhang,Jurriaan Pruijs",2
+"atahanyild,aeryz",2
+"PablitoAmaral,karel",2
+"cor,Abdullah Eryuzlu",2
+"Karel L. Kubat,benluelo",2
+"Connor Davis,aeryz",2
+"Connor Davis,Karel L. Kubat",2
+"Connor Davis,Ben Luelo",2
+"Abdullah Eryuzlu,Karel L. Kubat",2
+"jurriaan,cor",2
+"o-az,Hussein Ait Lahcen",2
+"karel,Hussein Ait Lahcen",2
+"karel,jurriaan",2
+"aeryz,Omar",2
+"benluelo,Omar",2
+"Ben Luelo,karel",1
+"Hussein Ait Lahcen,Lukas",1
+"Ben Luelo,Connor Davis",1
+"Ahmed Zeyad,benluelo",1
+"Connor Davis,karel",1
+"Abdullah Eryuzlu,benluelo",1
+"Lukas,karel",1
+"Lukas,PoisonPhang",1
+"Karel L. Kubat,omar",1
+"Lukas,Hussein Ait Lahcen",1
+"Karel L. Kubat,PoisonPhang",1
+"Jurriaan Pruijs,cor",1
+"Jurriaan Pruijs,omar",1
+"Kaan Caglan,jurriaan",1
+"Jurriaan Pruijs,karel",1
+"Lukas,poisonphang",1
+"Omar,Connor Davis",1
+"aeryz,Connor Davis",1
+"aeryz,hussein-aitlahcen",1
+"aeryz,omar",1
+"aeryz,Karel L. Kubat",1
+"aeryz,ben",1
+"cor,Jurriaan Pruijs",1
+"benluelo,atahanyild",1
+"benluelo,Ahmed Zeyad",1
+"benluelo,PablitoAmaral",1
+"cor,kaancaglan",1
+"jurriaan,Jurriaan Pruijs",1
+"jurriaan,Lukas",1
+"jurriaan,aeryz",1
+"karel,Ben Luelo",1
+"jurriaan,poisonphang",1
+"karel,omar",1
+"o-az,Karel L. Kubat",1
+"o-az,aeryz",1
+"omar,aeryz",1
+"omar,karel",1
+"poisonphang,o-az",1
+,
+Committer Timezone Distribution,Unique Timezones: 12
+Timezone,Commits
++00:00,1224
++01:00,2172
++02:00,3264
++03:00,1492
++04:00,2
++08:00,11
++09:00,1
+-04:00,607
+-05:00,733
+-06:00,577
+-07:00,758
+-08:00,379
+,
+Contributors Experience,Average across 53145 files: 94.72%
+File,Top Contributor Share (%)
+patches/protoc.patch,100.00
+union/.github/workflows/release.yml,100.00
+union/.gitignore,100.00
+union/app/encoding.go,100.00
+union/app/genesis.go,100.00
+union/app/params/encoding.go,100.00
+union/app/simulation_test.go,100.00
+union/cmd/uniond/cmd/config.go,100.00
+union/cmd/uniond/cmd/genaccounts.go,100.00
+union/cmd/uniond/main.go,100.00

@@ -1,0 +1,1156 @@
+file,author1,author2,time1,time2
+.github/workflows/autoLabelIssue.yaml,ChunkyProgrammer,efb4f5ff-1298-471a-8973-3d47447115dc,2022-01-07 22:34:34-05:00,2022-01-08 09:23:22-05:00
+.github/workflows/flatpak.yml,Preston,dependabot[bot],2022-10-10 10:28:19-04:00,2022-10-10 17:17:03+02:00
+.github/workflows/flatpak.yml,dependabot[bot],absidue,2022-10-31 12:56:32-04:00,2022-11-01 09:04:21+08:00
+CONTRIBUTING.md,Luca,Preston,2020-10-08 19:52:50+02:00,2020-10-08 15:26:41-04:00
+README.md,Jason,ovari,2021-09-13 22:25:55+01:00,2021-09-14 10:03:24+08:00
+README.md,efb4f5ff-1298-471a-8973-3d47447115dc,Peter Dave Hello,2022-09-10 23:09:05+08:00,2022-09-11 12:48:59+02:00
+_icons/iconCatppuccinFrappeDarkSmall.svg,DontBlameMe99,efb4f5ff-1298-471a-8973-3d47447115dc,2024-12-28 11:58:18-05:00,2024-12-29 05:54:48+08:00
+_icons/iconCatppuccinFrappeLightSmall.svg,DontBlameMe99,efb4f5ff-1298-471a-8973-3d47447115dc,2024-12-28 11:58:18-05:00,2024-12-29 05:54:48+08:00
+_icons/iconColor.png,Jakub Kordovský,github-actions[bot],2024-04-12 17:25:49+02:00,2024-04-12 16:47:36+00:00
+_icons/iconNordicLightSmall.png,JonahFoster,github-actions[bot],2024-02-03 11:25:15-05:00,2024-02-04 14:06:16+00:00
+_icons/textCatppuccinFrappeDarkSmall.svg,DontBlameMe99,efb4f5ff-1298-471a-8973-3d47447115dc,2024-12-28 11:58:18-05:00,2024-12-29 05:54:48+08:00
+_icons/textCatppuccinFrappeLightSmall.svg,DontBlameMe99,efb4f5ff-1298-471a-8973-3d47447115dc,2024-12-28 11:58:18-05:00,2024-12-29 05:54:48+08:00
+_icons/textNordicLightSmall.png,JonahFoster,github-actions[bot],2024-02-03 11:25:15-05:00,2024-02-04 14:06:16+00:00
+_scripts/build.js,Preston,d43m0nhLInt3r,2020-03-24 09:22:29-04:00,2020-03-25 09:05:40+01:00
+_scripts/build.js,James Gundlach,Preston,2021-03-06 11:19:54-05:00,2021-03-06 17:17:06-05:00
+_scripts/build.js,absidue,Jai A P,2022-09-06 02:29:10+00:00,2022-09-06 21:18:29+00:00
+_scripts/webpack.renderer.config.js,Preston,Cadence Ember,2020-03-24 09:22:29-04:00,2020-03-25 03:34:55+13:00
+_scripts/webpack.web.config.js,Emma,absidue,2022-10-18 08:50:32-04:00,2022-10-19 09:09:49+08:00
+eslint.config.mjs,PikachuEXE,absidue,2024-10-06 09:36:08-04:00,2024-10-07 05:07:25+02:00
+package-lock.json,Cadence Ember,Preston,2020-06-17 04:50:46+12:00,2020-06-16 17:42:38-04:00
+package-lock.json,kyle.watson,Preston,2020-06-27 16:22:27+01:00,2020-06-27 13:59:20-04:00
+package-lock.json,Mykyta Poturai,Preston,2020-08-24 22:59:14+03:00,2020-08-24 17:52:39-04:00
+package-lock.json,Luca,Preston,2020-08-31 21:27:24+02:00,2020-08-31 17:40:37-04:00
+package-lock.json,Preston,Luca,2020-08-31 17:40:37-04:00,2020-09-01 12:04:54+02:00
+package-lock.json,Luca,Preston,2020-09-01 12:04:54+02:00,2020-09-01 23:21:32-04:00
+package-lock.json,Preston,Luca,2020-10-04 14:30:54-04:00,2020-10-05 19:52:26+02:00
+package-lock.json,syncng,Preston,2020-10-06 17:47:40-04:00,2020-10-06 18:15:15-04:00
+package-lock.json,Preston,Luca,2020-10-06 18:15:15-04:00,2020-10-07 17:48:53+02:00
+package-lock.json,Synkky,Luca,2020-10-19 10:01:24-04:00,2020-10-20 12:31:48+02:00
+package-lock.json,Preston,Luca,2020-10-21 15:55:58-04:00,2020-10-22 13:47:30+02:00
+package-lock.json,Luca,Preston,2020-10-22 13:47:30+02:00,2020-10-22 14:56:49-04:00
+package-lock.json,Preston,Laptop Duane,2020-10-22 14:56:49-04:00,2020-10-23 10:50:33+02:00
+package-lock.json,Preston,dependabot[bot],2020-12-09 14:13:20-05:00,2020-12-10 13:57:18-05:00
+package-lock.json,Preston,Sai Deepesh,2020-12-17 14:12:51-05:00,2020-12-17 23:21:17-05:00
+package-lock.json,Sai Deepesh,Preston,2020-12-17 23:21:17-05:00,2020-12-18 09:59:12-05:00
+package-lock.json,Preston,Luca,2021-01-15 22:08:50-05:00,2021-01-16 14:45:05+01:00
+package-lock.json,Luca,Svallinn,2021-03-16 11:48:25+01:00,2021-03-17 01:30:35+00:00
+package-lock.json,Preston,Svallinn,2021-04-30 17:18:45-04:00,2021-05-01 03:50:52+01:00
+package-lock.json,Preston,Filip Czaplicki,2021-05-15 16:18:20-04:00,2021-05-16 16:01:24-04:00
+package-lock.json,Svallinn,Luca Hohmann,2021-05-22 00:50:32+01:00,2021-05-22 21:21:48+02:00
+package-lock.json,Luca Hohmann,Luca,2021-05-22 21:21:48+02:00,2021-05-23 18:21:41+02:00
+package-lock.json,dependabot[bot],Luca Hohmann,2021-06-13 11:16:28+00:00,2021-06-13 22:08:12+02:00
+package.json,Preston,d43m0nhLInt3r,2020-07-21 12:45:07-04:00,2020-07-21 22:41:10+02:00
+package.json,d43m0nhLInt3r,Preston,2020-07-21 22:41:10+02:00,2020-07-21 17:43:52-04:00
+package.json,Mykyta Poturai,Preston,2020-08-24 22:59:14+03:00,2020-08-24 17:52:39-04:00
+package.json,Luca,Preston,2020-08-31 21:27:24+02:00,2020-08-31 17:40:37-04:00
+package.json,Preston,Luca,2020-08-31 17:40:37-04:00,2020-09-01 12:04:54+02:00
+package.json,Luca,Preston,2020-09-01 12:04:54+02:00,2020-09-01 23:21:32-04:00
+package.json,Preston,Luca,2020-10-04 14:30:54-04:00,2020-10-05 19:52:26+02:00
+package.json,syncng,Preston,2020-10-06 17:47:40-04:00,2020-10-06 18:15:15-04:00
+package.json,Preston,Luca,2020-10-06 18:15:15-04:00,2020-10-07 17:48:53+02:00
+package.json,Preston,Luca,2020-11-29 22:30:23-05:00,2020-11-30 20:33:23+01:00
+package.json,Preston,Luca,2021-01-15 22:08:50-05:00,2021-01-16 14:45:05+01:00
+package.json,Preston,James Gundlach,2021-03-05 14:10:38-05:00,2021-03-06 11:19:54-05:00
+package.json,James Gundlach,Preston,2021-03-06 11:19:54-05:00,2021-03-06 15:25:29-05:00
+package.json,Luca,Svallinn,2021-03-16 11:48:25+01:00,2021-03-17 01:30:35+00:00
+package.json,Luca Hohmann,Preston,2021-04-08 19:51:45+02:00,2021-04-09 12:58:06-04:00
+package.json,Preston,Svallinn,2021-04-30 17:18:45-04:00,2021-05-01 03:50:52+01:00
+package.json,Preston,Filip Czaplicki,2021-05-15 16:18:20-04:00,2021-05-16 16:01:24-04:00
+package.json,Svallinn,Luca Hohmann,2021-05-22 00:50:32+01:00,2021-05-22 21:21:48+02:00
+package.json,Luca Hohmann,Luca,2021-05-22 21:21:48+02:00,2021-05-23 18:21:41+02:00
+package.json,PikachuEXE,PrestonN,2021-11-10 09:51:21-05:00,2021-11-10 10:01:31-05:00
+package.json,PikachuEXE,Preston,2022-02-06 15:07:39-05:00,2022-02-06 15:28:59-05:00
+package.json,PikachuEXE,Preston,2022-04-07 22:15:24-04:00,2022-04-07 22:20:33-04:00
+package.json,absidue,Preston,2022-04-09 15:40:26-04:00,2022-04-09 16:23:34-04:00
+package.json,PikachuEXE,ChunkyProgrammer,2022-05-14 12:46:08-04:00,2022-05-14 13:33:00-04:00
+package.json,ChunkyProgrammer,PrestonN,2022-05-14 13:33:00-04:00,2022-05-14 17:37:17-04:00
+package.json,absidue,ChunkyProgrammer,2022-05-30 21:43:21-04:00,2022-05-31 09:45:17+08:00
+package.json,ChunkyProgrammer,absidue,2022-05-31 09:45:17+08:00,2022-05-31 16:15:44-04:00
+package.json,absidue,PrestonN,2022-08-11 18:20:17-04:00,2022-08-11 21:36:57-04:00
+package.json,PrestonN,PikachuEXE,2022-08-11 21:36:57-04:00,2022-08-11 23:41:32-04:00
+package.json,PikachuEXE,absidue,2022-08-26 09:46:15+02:00,2022-08-27 07:58:33+08:00
+package.json,absidue,PikachuEXE,2022-08-31 20:55:10-04:00,2022-09-01 09:10:46+00:00
+package.json,PikachuEXE,absidue,2022-09-01 09:10:46+00:00,2022-09-01 19:43:20+08:00
+package.json,absidue,ChunkyProgrammer,2022-09-01 19:43:20+08:00,2022-09-02 11:23:53+08:00
+package.json,ChunkyProgrammer,PikachuEXE,2022-09-08 08:39:22+08:00,2022-09-08 07:09:49-04:00
+package.json,PikachuEXE,ChunkyProgrammer,2022-09-08 07:09:49-04:00,2022-09-09 09:10:10+08:00
+package.json,absidue,ChunkyProgrammer,2022-09-13 09:28:36+08:00,2022-09-13 14:13:40+00:00
+package.json,absidue,PikachuEXE,2022-09-15 08:52:46+08:00,2022-09-15 11:46:42+02:00
+package.json,PikachuEXE,Emma,2022-10-06 16:29:04+02:00,2022-10-06 14:47:47+00:00
+package.json,Emma,dependabot[bot],2022-10-06 14:47:47+00:00,2022-10-06 12:31:42-04:00
+package.json,dependabot[bot],absidue,2022-10-06 12:31:42-04:00,2022-10-06 12:33:18-04:00
+package.json,absidue,dependabot[bot],2022-10-06 12:33:18-04:00,2022-10-07 09:43:27+08:00
+package.json,dependabot[bot],absidue,2022-10-17 13:50:52+02:00,2022-10-17 16:09:06+00:00
+package.json,absidue,dependabot[bot],2022-10-17 16:09:06+00:00,2022-10-17 15:17:16-04:00
+package.json,dependabot[bot],Emma,2022-10-17 15:17:16-04:00,2022-10-18 08:50:32-04:00
+package.json,Emma,ChunkyProgrammer,2022-10-18 08:50:32-04:00,2022-10-18 17:50:11+02:00
+package.json,dependabot[bot],Emma,2022-10-24 17:09:03+02:00,2022-10-24 13:49:52-04:00
+package.json,Emma,dependabot[bot],2022-10-24 13:49:52-04:00,2022-10-24 14:27:14-04:00
+package.json,dependabot[bot],PrestonN,2022-11-01 12:59:51+01:00,2022-11-01 20:13:22-04:00
+package.json,dependabot[bot],absidue,2022-11-07 16:57:56+08:00,2022-11-07 11:16:07+00:00
+package.json,absidue,dependabot[bot],2022-11-07 11:16:07+00:00,2022-11-07 13:46:47+01:00
+package.json,dependabot[bot],absidue,2022-11-14 19:58:09+01:00,2022-11-15 09:10:51+01:00
+package.json,dependabot[bot],absidue,2022-11-28 06:19:11-05:00,2022-11-28 12:52:47+01:00
+package.json,absidue,dependabot[bot],2022-11-28 12:52:47+01:00,2022-11-28 16:42:24+01:00
+package.json,dependabot[bot],absidue,2022-12-27 10:15:59+08:00,2022-12-27 15:15:50+00:00
+package.json,absidue,ChunkyProgrammer,2023-01-03 09:55:39+08:00,2023-01-03 19:19:41+01:00
+package.json,ChunkyProgrammer,PikachuEXE,2023-01-03 19:19:41+01:00,2023-01-03 19:20:26+01:00
+package.json,dependabot[bot],absidue,2023-01-23 12:29:41+01:00,2023-01-24 03:22:54+01:00
+package.json,PikachuEXE,dependabot[bot],2023-03-06 18:28:44+01:00,2023-03-06 20:16:48-05:00
+package.json,dependabot[bot],absidue,2023-05-01 21:03:44+08:00,2023-05-01 09:12:23-04:00
+package.json,absidue,dependabot[bot],2023-05-01 09:12:23-04:00,2023-05-01 22:01:05+02:00
+package.json,absidue,dependabot[bot],2023-05-15 10:01:18+08:00,2023-05-15 17:25:45+02:00
+package.json,Jaden,absidue,2023-06-30 18:18:43+02:00,2023-07-01 10:08:09-04:00
+package.json,dependabot[bot],absidue,2023-07-07 22:55:58-04:00,2023-07-08 15:43:23+00:00
+package.json,dependabot[bot],PikachuEXE,2023-07-10 22:42:46+00:00,2023-07-11 18:49:54+02:00
+package.json,PrestonN,dependabot[bot],2023-08-20 21:09:39-04:00,2023-08-21 07:07:56-04:00
+package.json,PrestonN,dependabot[bot],2023-10-08 21:04:47-04:00,2023-10-09 10:44:38+00:00
+package.json,dependabot[bot],Jason,2023-10-31 08:03:40+08:00,2023-10-30 21:59:34-04:00
+package.json,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+package.json,absidue,dependabot[bot],2024-04-08 09:31:20+08:00,2024-04-08 07:04:21-04:00
+package.json,dependabot[bot],absidue,2024-05-14 07:27:45+08:00,2024-05-14 16:35:50+00:00
+package.json,dependabot[bot],Jason,2024-05-20 11:50:04+02:00,2024-05-20 11:53:05+02:00
+package.json,Jason,dependabot[bot],2024-05-20 11:53:05+02:00,2024-05-20 16:55:50+00:00
+package.json,dependabot[bot],absidue,2024-05-28 21:07:48-04:00,2024-05-29 10:06:59+00:00
+package.json,dependabot[bot],PikachuEXE,2024-07-10 05:24:42+08:00,2024-07-10 11:45:45-04:00
+package.json,PikachuEXE,PrestonN,2024-07-10 11:45:45-04:00,2024-07-10 20:32:19-04:00
+package.json,absidue,PrestonN,2024-07-25 11:05:42-04:00,2024-07-25 11:15:31-04:00
+package.json,dependabot[bot],PrestonN,2024-08-02 17:09:49+02:00,2024-08-02 11:13:36-04:00
+package.json,dependabot[bot],absidue,2024-09-02 09:00:34-04:00,2024-09-02 19:40:42+00:00
+package.json,absidue,dependabot[bot],2024-09-02 19:40:42+00:00,2024-09-02 22:58:50+02:00
+package.json,dependabot[bot],PikachuEXE,2024-09-16 07:10:06-04:00,2024-09-17 06:43:18-04:00
+package.json,PikachuEXE,dependabot[bot],2024-09-17 06:43:18-04:00,2024-09-17 17:25:09+02:00
+package.json,dependabot[bot],PikachuEXE,2024-10-03 22:59:28+02:00,2024-10-04 12:36:56-04:00
+package.json,PikachuEXE,dependabot[bot],2024-10-06 09:36:08-04:00,2024-10-07 06:53:34-04:00
+package.json,efb4f5ff-1298-471a-8973-3d47447115dc,PikachuEXE,2024-10-26 05:00:59+00:00,2024-10-26 08:28:44+02:00
+package.json,PikachuEXE,Preston,2024-10-26 08:28:44+02:00,2024-10-26 21:16:38-04:00
+package.json,Preston,absidue,2024-10-26 21:16:38-04:00,2024-10-27 11:08:50-04:00
+package.json,absidue,dependabot[bot],2024-10-27 11:08:50-04:00,2024-10-28 11:29:00+01:00
+package.json,ChunkyProgrammer,dependabot[bot],2024-11-02 11:38:07+01:00,2024-11-02 12:34:15+01:00
+package.json,dependabot[bot],absidue,2024-12-02 15:11:06-05:00,2024-12-02 18:50:00-05:00
+package.json,dependabot[bot],efb4f5ff-1298-471a-8973-3d47447115dc,2024-12-12 18:22:43+01:00,2024-12-13 01:23:22+00:00
+package.json,absidue,dependabot[bot],2025-01-26 19:34:17+00:00,2025-01-27 07:49:01-05:00
+package.json,PikachuEXE,ChunkyProgrammer,2025-02-23 10:48:36-05:00,2025-02-23 23:10:25+00:00
+package.json,ChunkyProgrammer,dependabot[bot],2025-02-23 23:10:25+00:00,2025-02-24 07:05:23-05:00
+src/constants.js,absidue,Jason,2024-06-19 00:22:58+00:00,2024-06-19 18:09:37+02:00
+src/constants.js,absidue,Jason,2024-12-27 19:49:44+00:00,2024-12-27 22:43:47+01:00
+src/constants.js,PikachuEXE,Soham Patil,2025-01-20 00:46:31+01:00,2025-01-20 18:38:07+01:00
+src/constants.js,Soham Patil,Jason,2025-01-20 18:38:07+01:00,2025-01-20 18:57:19+01:00
+src/datastores/handlers/base.js,Soham Patil,Jason,2025-01-20 18:38:07+01:00,2025-01-20 18:57:19+01:00
+src/main/index.js,Airradda,Preston,2020-06-21 04:16:03-05:00,2020-06-21 23:03:51-04:00
+src/main/index.js,Preston,stecorb,2020-08-21 10:16:25-04:00,2020-08-22 01:15:18+02:00
+src/main/index.js,Preston,Svallinn,2021-04-07 22:40:35-04:00,2021-04-08 03:13:40+00:00
+src/main/index.js,Svallinn,Preston,2021-04-08 03:13:40+00:00,2021-04-08 09:42:24-04:00
+src/main/index.js,bob1520,PikachuEXE,2022-05-30 15:24:34+02:00,2022-05-30 14:32:38-04:00
+src/main/index.js,vallode,PikachuEXE,2022-06-20 11:57:25+00:00,2022-06-20 22:31:47-04:00
+src/main/index.js,absidue,PikachuEXE,2022-09-19 09:36:40-04:00,2022-09-20 08:49:45-04:00
+src/main/index.js,Bryan-Elliott Tam,ChunkyProgrammer,2022-09-22 13:03:18+00:00,2022-09-23 09:04:10+08:00
+src/main/index.js,PikachuEXE,absidue,2022-11-30 08:03:38-05:00,2022-12-01 08:46:33+01:00
+src/main/index.js,kawanakaiku,PikachuEXE,2023-02-06 09:11:27+08:00,2023-02-05 20:48:31-05:00
+src/main/index.js,absidue,PikachuEXE,2023-10-20 15:40:40+00:00,2023-10-20 23:39:07+02:00
+src/main/index.js,absidue,Jason,2024-06-19 00:22:58+00:00,2024-06-19 18:09:37+02:00
+src/main/index.js,OothecaPickle,Jason,2024-12-03 14:32:48+08:00,2024-12-03 20:10:47-05:00
+src/main/index.js,absidue,DontBlameMe99,2024-12-27 19:49:44+00:00,2024-12-28 11:58:18-05:00
+src/main/index.js,PikachuEXE,absidue,2025-01-20 00:46:31+01:00,2025-01-20 08:57:50-05:00
+src/main/index.js,absidue,Soham Patil,2025-01-20 08:57:50-05:00,2025-01-20 18:38:07+01:00
+src/main/index.js,Soham Patil,Jason,2025-01-20 18:38:07+01:00,2025-01-20 18:57:19+01:00
+src/renderer/App.js,Jason,PikachuEXE,2021-09-16 22:58:03+00:00,2021-09-16 19:03:25-04:00
+src/renderer/App.js,absidue,vallode,2022-04-07 22:03:28-04:00,2022-04-07 22:45:22-04:00
+src/renderer/App.js,absidue,PikachuEXE,2022-09-28 20:55:33-04:00,2022-09-29 21:22:28+00:00
+src/renderer/App.js,absidue,OothecaPickle,2024-12-02 15:10:26-05:00,2024-12-03 14:32:48+08:00
+src/renderer/App.js,OothecaPickle,Jason,2024-12-03 14:32:48+08:00,2024-12-03 20:10:47-05:00
+src/renderer/components/ChannelDetails/ChannelDetails.vue,ChunkyProgrammer,PikachuEXE,2024-12-02 23:49:55+01:00,2024-12-03 20:21:05+00:00
+src/renderer/components/data-settings/data-settings.js,T-vK,Preston,2020-09-12 10:10:51+02:00,2020-09-12 16:59:49-04:00
+src/renderer/components/data-settings/data-settings.js,PrestonN,Preston,2022-02-06 14:31:27-05:00,2022-02-06 16:48:24-05:00
+src/renderer/components/data-settings/data-settings.js,ChunkyProgrammer,Emma,2022-09-23 09:04:10+08:00,2022-09-23 12:15:49-04:00
+src/renderer/components/data-settings/data-settings.js,Emma,absidue,2022-09-23 12:15:49-04:00,2022-09-24 09:12:11+00:00
+src/renderer/components/data-settings/data-settings.js,absidue,Emma,2022-10-18 08:15:28+00:00,2022-10-19 07:50:21+02:00
+src/renderer/components/data-settings/data-settings.vue,Emma,absidue,2022-09-23 12:15:49-04:00,2022-09-24 09:12:11+00:00
+src/renderer/components/distraction-settings/distraction-settings.js,tayloraviets,Preston,2020-10-05 22:27:32-04:00,2020-10-06 09:38:35-04:00
+src/renderer/components/distraction-settings/distraction-settings.vue,tayloraviets,Preston,2020-10-05 22:27:32-04:00,2020-10-06 09:38:35-04:00
+src/renderer/components/ft-age-restricted/ft-age-restricted.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/ft-auto-grid/ft-auto-grid.sass,Sai Deepesh,Cadence Ember,2020-12-17 23:21:17-05:00,2020-12-17 23:28:30-05:00
+src/renderer/components/ft-button/ft-button.js,Cadence Ember,Preston,2020-06-19 20:55:23+12:00,2020-06-19 16:20:06-04:00
+src/renderer/components/ft-icon-button/ft-icon-button.css,Cadence Ember,Preston,2020-06-17 04:50:46+12:00,2020-06-16 23:01:13-04:00
+src/renderer/components/ft-icon-button/ft-icon-button.js,ChunkyProgrammer,Jason,2024-04-17 21:50:23+00:00,2024-04-18 05:54:46+08:00
+src/renderer/components/ft-icon-button/ft-icon-button.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/ft-icon-button/ft-icon-button.vue,Cadence Ember,Preston,2020-06-17 04:50:46+12:00,2020-06-16 23:01:13-04:00
+src/renderer/components/ft-icon-button/ft-icon-button.vue,Preston,Cadence Ember,2020-06-16 23:01:13-04:00,2020-06-18 00:15:36+12:00
+src/renderer/components/ft-input/ft-input.css,PikachuEXE,ChunkyProgrammer,2021-09-23 06:45:14+00:00,2021-09-23 06:48:40+00:00
+src/renderer/components/ft-input/ft-input.js,Simon Epstein,petaded,2022-12-17 15:28:17+01:00,2022-12-17 16:49:44+01:00
+src/renderer/components/ft-input/ft-input.vue,Simon Epstein,petaded,2022-12-17 15:28:17+01:00,2022-12-17 16:49:44+01:00
+src/renderer/components/ft-list-lazy-wrapper/ft-list-lazy-wrapper.vue,Mykyta Poturai,Preston,2020-08-24 22:59:14+03:00,2020-08-24 19:12:38-04:00
+src/renderer/components/ft-list-lazy-wrapper/ft-list-lazy-wrapper.vue,Preston,Mykyta Poturai,2020-08-24 19:12:38-04:00,2020-08-25 21:19:25+03:00
+src/renderer/components/ft-list-video/ft-list-video.js,PikachuEXE,absidue,2023-03-26 14:21:56-04:00,2023-03-27 06:25:58+00:00
+src/renderer/components/ft-list-video/ft-list-video.js,PikachuEXE,ChunkyProgrammer,2024-01-17 22:52:42-05:00,2024-01-18 23:14:26+00:00
+src/renderer/components/ft-list-video/ft-list-video.js,ChunkyProgrammer,Jason,2024-04-17 21:50:23+00:00,2024-04-18 05:54:46+08:00
+src/renderer/components/ft-list-video/ft-list-video.js,ChunkyProgrammer,Jason,2024-04-19 09:00:19+08:00,2024-04-18 22:02:26-04:00
+src/renderer/components/ft-list-video/ft-list-video.js,Jason,absidue,2024-05-22 16:43:35+08:00,2024-05-23 14:38:42+08:00
+src/renderer/components/ft-list-video/ft-list-video.js,absidue,GLEBR1K,2024-12-27 21:02:52-05:00,2024-12-29 08:34:48+08:00
+src/renderer/components/ft-list-video/ft-list-video.js,Jason,absidue,2025-01-20 18:57:19+01:00,2025-01-21 08:40:33-05:00
+src/renderer/components/ft-list-video/ft-list-video.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/ft-list-video/ft-list-video.vue,tayloraviets,syncng,2020-10-05 22:27:32-04:00,2020-10-06 17:47:40-04:00
+src/renderer/components/ft-list-video/ft-list-video.vue,absidue,PikachuEXE,2023-01-25 15:58:51-05:00,2023-01-26 03:18:04+01:00
+src/renderer/components/ft-list-video/ft-list-video.vue,Jason,ChunkyProgrammer,2023-09-12 09:09:49+08:00,2023-09-12 19:38:36+02:00
+src/renderer/components/ft-list-video/ft-list-video.vue,Jason,absidue,2025-01-20 18:57:19+01:00,2025-01-21 08:40:33-05:00
+src/renderer/components/ft-profile-selector/ft-profile-selector.css,CelularBat,Jason,2023-11-22 11:14:54-05:00,2023-11-22 17:19:11+00:00
+src/renderer/components/ft-prompt/ft-prompt.js,Jason,absidue,2024-12-27 22:43:47+01:00,2024-12-27 21:02:52-05:00
+src/renderer/components/ft-refresh-widget/ft-refresh-widget.css,Jason,Emma,2024-04-18 15:43:39+00:00,2024-04-19 12:42:40+00:00
+src/renderer/components/ft-refresh-widget/ft-refresh-widget.js,absidue,Jason,2024-05-21 12:06:27+00:00,2024-05-22 16:43:35+08:00
+src/renderer/components/ft-refresh-widget/ft-refresh-widget.vue,absidue,Jason,2024-05-21 12:06:27+00:00,2024-05-22 16:43:35+08:00
+src/renderer/components/ft-settings-section/ft-settings-section.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/ft-shaka-video-player/ft-shaka-video-player.css,absidue,a0kami,2024-11-03 08:39:02+08:00,2024-11-03 07:31:40+01:00
+src/renderer/components/ft-shaka-video-player/ft-shaka-video-player.js,dependabot[bot],absidue,2024-09-15 20:30:39+02:00,2024-09-15 20:35:25+02:00
+src/renderer/components/ft-shaka-video-player/ft-shaka-video-player.js,absidue,PikachuEXE,2024-11-02 11:18:48+01:00,2024-11-02 11:34:58+01:00
+src/renderer/components/ft-shaka-video-player/ft-shaka-video-player.js,PikachuEXE,ChunkyProgrammer,2024-11-02 11:34:58+01:00,2024-11-02 11:38:07+01:00
+src/renderer/components/ft-shaka-video-player/ft-shaka-video-player.js,Jason,absidue,2024-12-06 18:39:29+01:00,2024-12-07 06:38:05+08:00
+src/renderer/components/ft-shaka-video-player/ft-shaka-video-player.js,kizey,Jason,2024-12-27 22:11:59+01:00,2024-12-27 22:43:47+01:00
+src/renderer/components/ft-share-button/ft-share-button.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/ft-toggle-switch/ft-toggle-switch.sass,Violet Rose,Preston,2020-09-06 19:18:03-07:00,2020-09-07 14:43:44-04:00
+src/renderer/components/ft-toggle-switch/ft-toggle-switch.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/ft-tooltip/ft-tooltip.css,Violet Rose,Preston,2020-10-19 10:10:26-04:00,2020-10-19 11:32:53-04:00
+src/renderer/components/ft-video-player/ft-video-player.js,Luca,Preston,2020-08-31 21:27:24+02:00,2020-08-31 17:40:37-04:00
+src/renderer/components/ft-video-player/ft-video-player.js,Preston,Luca,2020-08-31 17:40:37-04:00,2020-09-01 12:04:54+02:00
+src/renderer/components/ft-video-player/ft-video-player.js,Preston,TDDR,2020-11-15 13:46:18-05:00,2020-11-15 14:13:18-05:00
+src/renderer/components/ft-video-player/ft-video-player.js,CristianMartin,Preston,2020-12-14 17:37:58-05:00,2020-12-14 18:25:51-05:00
+src/renderer/components/ft-video-player/ft-video-player.js,Preston,Airradda,2020-12-14 18:25:51-05:00,2020-12-15 14:07:40-05:00
+src/renderer/components/ft-video-player/ft-video-player.js,Filip Czaplicki,Preston,2021-05-16 16:01:24-04:00,2021-05-16 21:40:34-04:00
+src/renderer/components/ft-video-player/ft-video-player.js,PikachuEXE,Luca Hohmann,2021-05-28 22:29:35+02:00,2021-05-29 20:35:28+02:00
+src/renderer/components/ft-video-player/ft-video-player.js,Jason,PikachuEXE,2021-08-24 07:36:10+00:00,2021-08-24 22:46:42+00:00
+src/renderer/components/ft-video-player/ft-video-player.js,ChunkyProgrammer,bob1520,2022-05-29 22:36:59+02:00,2022-05-30 15:24:34+02:00
+src/renderer/components/ft-video-player/ft-video-player.js,PikachuEXE,absidue,2023-01-14 15:01:12+00:00,2023-01-14 15:01:27+00:00
+src/renderer/components/ft-video-player/ft-video-player.js,absidue,Lodka Sawhet,2023-02-05 18:40:25+00:00,2023-02-05 14:47:02-05:00
+src/renderer/components/ft-video-player/ft-video-player.js,PikachuEXE,absidue,2023-05-23 07:37:44-04:00,2023-05-23 12:28:01+00:00
+src/renderer/components/ft-video-player/ft-video-player.js,absidue,PikachuEXE,2023-08-03 12:57:09+00:00,2023-08-03 13:01:08+00:00
+src/renderer/components/general-settings/general-settings.js,Luca,Preston,2020-10-22 18:24:05+02:00,2020-10-22 14:56:49-04:00
+src/renderer/components/general-settings/general-settings.js,Milu,Preston,2021-05-06 16:45:49+00:00,2021-05-06 22:59:37-04:00
+src/renderer/components/general-settings/general-settings.js,Emma,absidue,2022-10-18 08:50:32-04:00,2022-10-19 09:25:13+08:00
+src/renderer/components/general-settings/general-settings.vue,Luca,Preston,2020-10-22 18:14:36+02:00,2020-10-22 14:56:49-04:00
+src/renderer/components/player-settings/player-settings.js,Jason,absidue,2024-12-06 18:39:29+01:00,2024-12-07 06:38:05+08:00
+src/renderer/components/player-settings/player-settings.vue,efb4f5ff-1298-471a-8973-3d47447115dc,Jason,2024-01-02 15:10:09-05:00,2024-01-03 08:28:13+08:00
+src/renderer/components/player-settings/player-settings.vue,Jason,absidue,2024-12-06 18:39:29+01:00,2024-12-07 06:38:05+08:00
+src/renderer/components/playlist-info/playlist-info.js,ChunkyProgrammer,absidue,2024-01-31 14:54:25+00:00,2024-02-01 07:08:47-05:00
+src/renderer/components/playlist-info/playlist-info.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/subscription-settings/subscription-settings.js,Cristi Ciobanu,absidue,2024-12-08 15:08:25+00:00,2024-12-09 00:59:24+00:00
+src/renderer/components/subscriptions-tab-ui/subscriptions-tab-ui.js,Jason,PikachuEXE,2024-04-16 17:47:40+02:00,2024-04-16 22:16:08+02:00
+src/renderer/components/subscriptions-tab-ui/subscriptions-tab-ui.js,ChunkyProgrammer,Jason,2024-04-17 21:50:23+00:00,2024-04-18 05:54:46+08:00
+src/renderer/components/top-nav/top-nav.css,Preston,Cadence Ember,2020-03-24 09:22:29-04:00,2020-03-25 03:34:55+13:00
+src/renderer/components/top-nav/top-nav.js,Preston,Cadence Ember,2020-03-24 09:22:29-04:00,2020-03-25 03:34:55+13:00
+src/renderer/components/top-nav/top-nav.js,theforbiddenpool,absidue,2022-11-27 08:55:34-05:00,2022-11-28 12:52:47+01:00
+src/renderer/components/top-nav/top-nav.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/top-nav/top-nav.vue,Preston,Cadence Ember,2020-03-24 09:22:29-04:00,2020-03-25 03:34:55+13:00
+src/renderer/components/top-nav/top-nav.vue,PikachuEXE,Svallinn,2021-04-15 20:28:35+02:00,2021-04-15 21:30:26+02:00
+src/renderer/components/watch-video-comments/watch-video-comments.css,Synkky,Preston,2020-10-19 10:01:24-04:00,2020-10-19 10:16:17-04:00
+src/renderer/components/watch-video-comments/watch-video-comments.js,Preston,Mykyta Poturai,2020-09-26 11:43:01-04:00,2020-09-27 13:23:52+03:00
+src/renderer/components/watch-video-comments/watch-video-comments.js,Preston,Luca,2020-10-04 18:15:06-04:00,2020-10-05 19:52:26+02:00
+src/renderer/components/watch-video-comments/watch-video-comments.js,Luca,tayloraviets,2020-10-05 20:31:45+02:00,2020-10-05 22:27:32-04:00
+src/renderer/components/watch-video-comments/watch-video-comments.js,Luca,Preston,2020-10-07 17:59:24+02:00,2020-10-08 10:06:06-04:00
+src/renderer/components/watch-video-comments/watch-video-comments.js,Synkky,Luca,2020-10-19 10:01:24-04:00,2020-10-20 12:31:48+02:00
+src/renderer/components/watch-video-comments/watch-video-comments.js,ChunkyProgrammer,PrestonN,2022-02-06 14:38:17-05:00,2022-02-06 14:45:24-05:00
+src/renderer/components/watch-video-comments/watch-video-comments.vue,Preston,Mykyta Poturai,2020-09-26 11:43:01-04:00,2020-09-27 13:23:52+03:00
+src/renderer/components/watch-video-comments/watch-video-comments.vue,Preston,Luca,2020-10-04 18:17:21-04:00,2020-10-05 19:52:26+02:00
+src/renderer/components/watch-video-info/watch-video-info.js,Preston,Cadence Ember,2020-06-16 17:42:38-04:00,2020-06-18 00:15:36+12:00
+src/renderer/components/watch-video-info/watch-video-info.js,Cadence Ember,Preston,2020-06-20 01:43:08+12:00,2020-06-19 18:11:21-04:00
+src/renderer/components/watch-video-info/watch-video-info.js,tayloraviets,Preston,2020-10-05 22:27:32-04:00,2020-10-06 09:38:35-04:00
+src/renderer/components/watch-video-info/watch-video-info.sass,Cadence Ember,Preston,2020-06-20 03:30:30+12:00,2020-06-19 17:34:02-04:00
+src/renderer/components/watch-video-info/watch-video-info.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/components/watch-video-info/watch-video-info.vue,Cadence Ember,Preston,2020-06-20 01:43:08+12:00,2020-06-19 16:20:06-04:00
+src/renderer/components/watch-video-info/watch-video-info.vue,Malik,absidue,2022-09-05 09:07:48+00:00,2022-09-06 02:29:10+00:00
+src/renderer/components/watch-video-playlist/watch-video-playlist.js,PikachuEXE,absidue,2024-01-31 17:16:29+01:00,2024-02-01 07:08:47-05:00
+src/renderer/helpers/api/invidious.js,Emma,absidue,2023-03-22 19:03:37+00:00,2023-03-22 20:22:20-04:00
+src/renderer/helpers/api/invidious.js,absidue,ChunkyProgrammer,2025-03-09 20:56:00-04:00,2025-03-10 21:20:11+00:00
+src/renderer/helpers/api/local.js,Luca Hohmann,absidue,2023-03-04 16:56:04+08:00,2023-03-04 14:05:33-05:00
+src/renderer/helpers/api/local.js,PikachuEXE,absidue,2023-03-22 19:10:34+00:00,2023-03-22 20:22:20-04:00
+src/renderer/helpers/api/local.js,PikachuEXE,absidue,2024-02-09 03:26:28+00:00,2024-02-09 11:39:01-05:00
+src/renderer/helpers/api/local.js,Phil's Git repository,absidue,2024-05-04 10:59:04+08:00,2024-05-05 02:12:54+00:00
+src/renderer/helpers/api/local.js,Phil's Git repository,absidue,2024-05-30 08:31:44+08:00,2024-05-30 09:58:44-04:00
+src/renderer/helpers/api/local.js,dependabot[bot],absidue,2024-06-10 17:48:46+00:00,2024-06-11 12:19:53+00:00
+src/renderer/helpers/api/local.js,absidue,OothecaPickle,2024-12-05 23:01:07+00:00,2024-12-06 11:44:55+01:00
+src/renderer/helpers/api/local.js,absidue,ChunkyProgrammer,2024-12-18 08:30:51+08:00,2024-12-18 14:02:58+00:00
+src/renderer/helpers/utils.js,absidue,Simon Epstein,2023-01-01 03:52:49+01:00,2023-01-01 22:53:29+01:00
+src/renderer/helpers/utils.js,Jason,absidue,2024-12-27 22:43:47+01:00,2024-12-27 21:02:52-05:00
+src/renderer/helpers/utils.js,absidue,GLEBR1K,2024-12-27 21:02:52-05:00,2024-12-29 08:34:48+08:00
+src/renderer/helpers/utils.js,PikachuEXE,absidue,2025-01-20 00:46:31+01:00,2025-01-20 08:57:50-05:00
+src/renderer/main.js,Luca,Preston,2020-08-20 22:56:55+02:00,2020-08-20 21:20:22-04:00
+src/renderer/main.js,Luca,Preston,2020-08-24 17:01:09+02:00,2020-08-25 10:18:14-04:00
+src/renderer/main.js,Luca,Preston,2020-10-04 12:04:56+02:00,2020-10-04 14:30:54-04:00
+src/renderer/main.js,Milu,Preston,2021-05-06 16:45:49+00:00,2021-05-06 22:59:37-04:00
+src/renderer/scss-partials/_ft-list-item.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/scss-partials/_ft-list-item.scss,ChunkyProgrammer,Jie Li,2024-12-02 23:49:55+01:00,2024-12-03 15:01:26+01:00
+src/renderer/store/modules/invidious.js,absidue,Emma,2022-09-26 16:15:13-04:00,2022-09-27 22:05:12+02:00
+src/renderer/store/modules/playlists.js,Jason,absidue,2024-05-20 11:53:05+02:00,2024-05-20 13:58:53+00:00
+src/renderer/store/modules/settings.js,tayloraviets,Preston,2020-10-05 22:27:32-04:00,2020-10-06 11:53:54-04:00
+src/renderer/store/modules/settings.js,Seb,Svallinn,2021-06-10 19:35:00+00:00,2021-06-11 02:56:39+01:00
+src/renderer/store/modules/settings.js,ChunkyProgrammer,bob1520,2022-05-29 22:36:59+02:00,2022-05-30 15:24:34+02:00
+src/renderer/store/modules/settings.js,absidue,Aiz,2022-09-29 20:01:54+00:00,2022-09-29 22:29:47-04:00
+src/renderer/store/modules/settings.js,Simon Epstein,petaded,2022-12-17 15:28:17+01:00,2022-12-17 16:49:44+01:00
+src/renderer/store/modules/settings.js,absidue,PikachuEXE,2023-01-25 15:58:25-05:00,2023-01-26 03:18:04+01:00
+src/renderer/store/modules/settings.js,Jason,PikachuEXE,2024-01-03 08:28:13+08:00,2024-01-03 19:44:57+01:00
+src/renderer/store/modules/settings.js,PikachuEXE,Jason,2024-04-16 22:16:08+02:00,2024-04-17 06:26:43+08:00
+src/renderer/store/modules/settings.js,ChunkyProgrammer,absidue,2024-12-02 23:49:55+01:00,2024-12-03 01:18:51+00:00
+src/renderer/store/modules/settings.js,absidue,OothecaPickle,2024-12-03 01:18:51+00:00,2024-12-03 14:32:48+08:00
+src/renderer/store/modules/settings.js,Soham Patil,Jason,2025-01-20 18:38:07+01:00,2025-01-20 18:57:19+01:00
+src/renderer/store/modules/utils.js,Preston,Cadence Ember,2020-06-19 16:20:06-04:00,2020-06-21 00:52:32+12:00
+src/renderer/store/modules/utils.js,Mykyta Poturai,Luca,2020-08-18 18:51:56+03:00,2020-08-18 20:32:01+02:00
+src/renderer/store/modules/utils.js,Mykyta Poturai,Preston,2020-08-22 23:37:09+03:00,2020-08-22 16:51:04-04:00
+src/renderer/store/modules/utils.js,Preston,Luca,2020-09-01 23:21:32-04:00,2020-09-02 22:59:16+02:00
+src/renderer/store/modules/utils.js,Luca,Preston,2020-09-02 22:59:16+02:00,2020-09-02 21:00:24-04:00
+src/renderer/store/modules/utils.js,ChunkyProgrammer,bob1520,2022-05-29 22:36:59+02:00,2022-05-30 15:24:34+02:00
+src/renderer/store/modules/utils.js,ChunkyProgrammer,Emma,2022-09-23 09:04:10+08:00,2022-09-23 12:15:49-04:00
+src/renderer/store/modules/utils.js,absidue,Emma,2022-10-18 08:15:28+00:00,2022-10-18 17:50:59+02:00
+src/renderer/store/modules/utils.js,absidue,Luca Hohmann,2023-03-03 20:38:27+00:00,2023-03-04 16:56:04+08:00
+src/renderer/store/modules/utils.js,Svallinn,ChunkyProgrammer,2023-07-03 18:26:56+02:00,2023-07-03 18:27:49+02:00
+src/renderer/store/modules/utils.js,trostboot,ChunkyProgrammer,2023-07-20 00:15:52+02:00,2023-07-20 00:16:45+02:00
+src/renderer/store/modules/utils.js,Jason,absidue,2024-04-18 05:54:46+08:00,2024-04-18 01:09:29+00:00
+src/renderer/store/modules/utils.js,ChunkyProgrammer,absidue,2024-12-02 23:49:55+01:00,2024-12-03 01:18:51+00:00
+src/renderer/store/modules/utils.js,absidue,Jason,2024-12-03 01:18:51+00:00,2024-12-03 20:10:47-05:00
+src/renderer/store/modules/ytdl.js,dependabot[bot],absidue,2022-11-08 17:59:52+00:00,2022-11-09 05:57:26+00:00
+src/renderer/themes.css,Cody Sechelski,ChunkyProgrammer,2021-09-22 18:26:14-04:00,2021-09-23 06:48:40+00:00
+src/renderer/themes.css,Antonio Sarro,efb4f5ff-1298-471a-8973-3d47447115dc,2025-02-03 08:07:50+08:00,2025-02-03 01:24:16-05:00
+src/renderer/videoJS.css,Luca,Preston,2020-08-17 17:13:12+02:00,2020-08-17 17:55:50-04:00
+src/renderer/videoJS.css,CristianMartin,Airradda,2020-12-14 17:37:58-05:00,2020-12-15 15:09:49-05:00
+src/renderer/videoJS.css,Benjababe,Jason,2023-08-26 18:20:55+02:00,2023-08-27 08:46:19+08:00
+src/renderer/views/About/About.js,ducks,Jason,2024-06-18 22:22:22+00:00,2024-06-19 18:09:37+02:00
+src/renderer/views/About/About.scss,ChunkyProgrammer,absidue,2023-01-03 19:19:41+01:00,2023-01-04 10:35:04+01:00
+src/renderer/views/About/About.vue,efb4f5ff-1298-471a-8973-3d47447115dc,ChunkyProgrammer,2025-02-23 01:01:57+00:00,2025-02-23 22:23:00+01:00
+src/renderer/views/Channel/Channel.css,ChunkyProgrammer,absidue,2023-05-07 14:06:23+02:00,2023-05-08 09:42:06+08:00
+src/renderer/views/Channel/Channel.js,tayloraviets,Preston,2020-10-05 22:27:32-04:00,2020-10-06 17:45:30-04:00
+src/renderer/views/Channel/Channel.js,MarmadileManteater,ChunkyProgrammer,2022-08-15 23:14:59+00:00,2022-08-16 11:45:39+02:00
+src/renderer/views/Channel/Channel.js,absidue,ChunkyProgrammer,2023-01-05 04:53:39+01:00,2023-01-05 04:54:20+01:00
+src/renderer/views/Channel/Channel.js,PikachuEXE,absidue,2023-01-14 15:01:45+00:00,2023-01-15 10:43:29+00:00
+src/renderer/views/Channel/Channel.js,absidue,Luca Hohmann,2023-03-03 21:02:33+00:00,2023-03-04 16:56:04+08:00
+src/renderer/views/Channel/Channel.js,ChunkyProgrammer,absidue,2023-05-07 14:06:23+02:00,2023-05-08 09:42:06+08:00
+src/renderer/views/Channel/Channel.js,absidue,ChunkyProgrammer,2024-12-02 20:09:26+01:00,2024-12-02 23:49:55+01:00
+src/renderer/views/Channel/Channel.js,ChunkyProgrammer,PikachuEXE,2024-12-02 23:49:55+01:00,2024-12-03 20:21:05+00:00
+src/renderer/views/Channel/Channel.js,PikachuEXE,Jason,2024-12-03 20:21:05+00:00,2024-12-03 20:10:47-05:00
+src/renderer/views/Channel/Channel.vue,ChunkyProgrammer,absidue,2023-05-07 14:06:23+02:00,2023-05-08 09:42:06+08:00
+src/renderer/views/Channel/Channel.vue,PikachuEXE,Jason,2024-04-16 22:16:08+02:00,2024-04-17 19:49:37+02:00
+src/renderer/views/Channel/Channel.vue,ChunkyProgrammer,PikachuEXE,2024-12-02 23:49:55+01:00,2024-12-03 20:21:05+00:00
+src/renderer/views/History/History.vue,absidue,Preston,2022-04-09 15:42:03-04:00,2022-04-09 16:23:34-04:00
+src/renderer/views/Playlist/Playlist.js,absidue,Emma,2023-01-18 08:50:02+01:00,2023-01-19 08:49:56+08:00
+src/renderer/views/Playlist/Playlist.js,Jason,absidue,2024-04-11 13:46:33+00:00,2024-04-12 06:12:50+00:00
+src/renderer/views/Playlist/Playlist.js,efb4f5ff-1298-471a-8973-3d47447115dc,Jason,2024-04-16 17:46:26+02:00,2024-04-16 17:47:40+02:00
+src/renderer/views/Playlist/Playlist.js,Jason,PikachuEXE,2024-04-16 17:47:40+02:00,2024-04-16 22:16:08+02:00
+src/renderer/views/Playlist/Playlist.js,PikachuEXE,Jason,2024-04-16 22:16:08+02:00,2024-04-17 06:26:43+08:00
+src/renderer/views/Playlist/Playlist.js,ChunkyProgrammer,PikachuEXE,2024-12-02 23:49:55+01:00,2024-12-03 20:21:05+00:00
+src/renderer/views/Playlist/Playlist.js,PikachuEXE,Jason,2024-12-03 20:21:05+00:00,2024-12-03 20:10:47-05:00
+src/renderer/views/Playlist/Playlist.vue,Jason,PikachuEXE,2024-04-16 17:47:40+02:00,2024-04-16 22:16:08+02:00
+src/renderer/views/Playlist/Playlist.vue,PikachuEXE,Jason,2024-04-16 22:16:08+02:00,2024-04-17 06:26:43+08:00
+src/renderer/views/Search/Search.js,absidue,PikachuEXE,2023-01-18 08:50:02+01:00,2023-01-19 04:35:20+01:00
+src/renderer/views/Settings/Settings.vue,constraintAutomaton,PrestonN,2022-01-30 12:49:16-05:00,2022-01-30 22:26:09-05:00
+src/renderer/views/Subscriptions/Subscriptions.js,Aiz,absidue,2022-10-09 09:10:57-04:00,2022-10-10 07:45:18+00:00
+src/renderer/views/Subscriptions/Subscriptions.js,absidue,ChunkyProgrammer,2022-10-18 08:15:28+00:00,2022-10-19 07:50:09+00:00
+src/renderer/views/Subscriptions/Subscriptions.js,ChunkyProgrammer,PikachuEXE,2023-09-23 00:19:50+00:00,2023-09-23 19:11:17+00:00
+src/renderer/views/Subscriptions/Subscriptions.vue,ChunkyProgrammer,absidue,2023-08-16 08:25:59+00:00,2023-08-16 08:50:32+00:00
+src/renderer/views/Trending/Trending.js,Luca,Preston,2020-10-22 13:47:30+02:00,2020-10-22 14:56:49-04:00
+src/renderer/views/Trending/Trending.js,Preston,Luca,2020-10-22 14:56:49-04:00,2020-10-22 22:59:16+02:00
+src/renderer/views/Trending/Trending.js,absidue,PikachuEXE,2023-06-27 11:52:39+00:00,2023-06-27 19:04:48+02:00
+src/renderer/views/UserPlaylists/UserPlaylists.vue,absidue,Preston,2022-04-09 15:42:03-04:00,2022-04-09 16:23:34-04:00
+src/renderer/views/Watch/Watch.js,Preston,Cadence Ember,2020-08-08 23:15:00-04:00,2020-08-09 20:36:36+12:00
+src/renderer/views/Watch/Watch.js,Luca,Preston,2020-08-26 21:52:12+02:00,2020-08-26 16:45:20-04:00
+src/renderer/views/Watch/Watch.js,Preston,Luca,2020-08-30 10:21:01-04:00,2020-08-30 21:31:48+02:00
+src/renderer/views/Watch/Watch.js,Preston,Mykyta Poturai,2020-09-26 19:26:48-04:00,2020-09-27 13:23:52+03:00
+src/renderer/views/Watch/Watch.js,TDDR,Duane Jaspers,2020-10-31 10:36:35-04:00,2020-10-31 10:57:51-04:00
+src/renderer/views/Watch/Watch.js,Duane Jaspers,Preston,2020-10-31 10:57:51-04:00,2020-10-31 11:23:26-04:00
+src/renderer/views/Watch/Watch.js,Luca Hohmann,Preston,2020-12-02 13:35:03-05:00,2020-12-02 13:36:08-05:00
+src/renderer/views/Watch/Watch.js,Sai Deepesh,Svallinn,2021-03-06 11:25:50-05:00,2021-03-06 13:20:33-05:00
+src/renderer/views/Watch/Watch.js,PikachuEXE,Svallinn,2021-04-29 16:58:00+00:00,2021-04-29 19:33:13+01:00
+src/renderer/views/Watch/Watch.js,absidue,ChunkyProgrammer,2022-06-20 22:33:42-04:00,2022-06-21 08:14:15+02:00
+src/renderer/views/Watch/Watch.js,absidue,Preston,2022-07-31 10:08:49-04:00,2022-07-31 15:37:34-04:00
+src/renderer/views/Watch/Watch.js,ChunkyProgrammer,absidue,2022-09-19 20:14:53+08:00,2022-09-19 08:49:30-04:00
+src/renderer/views/Watch/Watch.js,Emma,absidue,2022-09-21 15:00:21+08:00,2022-09-21 07:05:03+00:00
+src/renderer/views/Watch/Watch.js,absidue,Aiz,2022-09-21 07:05:03+00:00,2022-09-22 08:49:59+08:00
+src/renderer/views/Watch/Watch.js,Emma,absidue,2022-10-17 12:33:20+00:00,2022-10-18 08:15:28+00:00
+src/renderer/views/Watch/Watch.js,absidue,PikachuEXE,2023-01-25 15:58:25-05:00,2023-01-26 03:18:04+01:00
+src/renderer/views/Watch/Watch.js,absidue,PikachuEXE,2023-02-05 14:19:24-05:00,2023-02-05 20:48:31-05:00
+src/renderer/views/Watch/Watch.js,dependabot[bot],absidue,2023-03-22 09:11:38+08:00,2023-03-22 20:22:20-04:00
+src/renderer/views/Watch/Watch.js,PikachuEXE,absidue,2023-04-20 16:43:59+02:00,2023-04-21 09:19:42+08:00
+src/renderer/views/Watch/Watch.js,Benjababe,absidue,2023-09-07 09:28:21+08:00,2023-09-06 23:43:27-04:00
+src/renderer/views/Watch/Watch.js,absidue,Emma,2024-04-12 06:12:50+00:00,2024-04-12 17:05:06+00:00
+src/renderer/views/Watch/Watch.js,Emma,absidue,2024-09-04 23:53:40+02:00,2024-09-05 10:06:23+02:00
+src/renderer/views/Watch/Watch.js,OothecaPickle,absidue,2024-10-26 22:54:53-04:00,2024-10-27 10:14:20+01:00
+src/renderer/views/Watch/Watch.js,absidue,Angus Wan,2024-10-27 15:17:29+00:00,2024-10-28 13:11:44+00:00
+src/renderer/views/Watch/Watch.js,Angus Wan,absidue,2024-10-28 13:11:44+00:00,2024-10-29 08:54:42+08:00
+src/renderer/views/Watch/Watch.js,absidue,kizey,2024-12-27 19:49:44+00:00,2024-12-27 22:11:59+01:00
+src/renderer/views/Watch/Watch.js,kizey,absidue,2024-12-27 22:11:59+01:00,2024-12-27 21:02:52-05:00
+src/renderer/views/Watch/Watch.js,absidue,GLEBR1K,2024-12-27 21:02:52-05:00,2024-12-29 08:34:48+08:00
+src/renderer/views/Watch/Watch.js,Sudharaka Palamakumbura,PikachuEXE,2025-01-30 19:39:04-05:00,2025-01-31 13:11:37+00:00
+src/renderer/views/Watch/Watch.vue,Aiz,absidue,2022-09-05 23:45:45+02:00,2022-09-06 02:29:10+00:00
+static/external-player-map.json,kuhaku,rootedetc,2021-10-07 06:29:43+00:00,2021-10-07 07:46:33+00:00
+static/locales/af.yaml,absidue,Gideon Wentink,2024-11-07 23:48:48-05:00,2024-11-08 13:00:23+01:00
+static/locales/af.yaml,Gideon Wentink,absidue,2024-12-02 13:00:29+01:00,2024-12-03 01:18:51+00:00
+static/locales/af.yaml,absidue,Gideon Wentink,2024-12-03 01:18:51+00:00,2024-12-03 08:00:40+00:00
+static/locales/ar.yaml,Abdulziz,Samwid -,2020-09-02 09:03:27+02:00,2020-09-02 14:09:14+02:00
+static/locales/ar.yaml,Samwid -,Abdulziz,2020-09-02 14:09:14+02:00,2020-09-02 14:09:14+02:00
+static/locales/ar.yaml,Abdulziz,Samwid -,2020-09-02 16:36:14+02:00,2020-09-02 16:36:14+02:00
+static/locales/ar.yaml,Samwid -,Abdulziz,2020-09-03 14:36:11+02:00,2020-09-03 19:36:11+02:00
+static/locales/ar.yaml,Abdulziz,Samwid -,2020-09-03 19:36:11+02:00,2020-09-03 19:36:12+02:00
+static/locales/ar.yaml,Samwid -,Abdulziz,2020-09-03 23:36:12+02:00,2020-09-04 17:36:12+02:00
+static/locales/ar.yaml,Kami,Az,2021-04-05 22:27:00+02:00,2021-04-05 22:27:00+02:00
+static/locales/ar.yaml,Rex_sa,Az,2021-04-24 13:25:17+02:00,2021-04-24 13:25:17+02:00
+static/locales/ar.yaml,Az,Rex_sa,2021-04-24 13:25:17+02:00,2021-04-24 14:32:16+02:00
+static/locales/ar.yaml,fawaz006,Rex_sa,2022-06-03 20:18:57+02:00,2022-06-04 18:16:32+02:00
+static/locales/ar.yaml,Rex_sa,thami simo,2022-10-01 10:21:48+02:00,2022-10-02 04:25:09+02:00
+static/locales/ar.yaml,J. Lavoie,Rex_sa,2023-03-22 12:40:20+01:00,2023-03-23 08:41:46+01:00
+static/locales/ar.yaml,jonnysemon,Rex_sa,2023-05-18 01:39:10+02:00,2023-05-18 02:52:33+02:00
+static/locales/ar.yaml,absidue,Rex_sa,2023-07-01 10:08:09-04:00,2023-07-01 19:53:40+02:00
+static/locales/ar.yaml,Preston,Rex_sa,2023-07-21 07:33:34-04:00,2023-07-21 17:05:20+02:00
+static/locales/ar.yaml,ChunkyProgrammer,Rex_sa,2023-09-12 19:38:36+02:00,2023-09-13 10:49:11+02:00
+static/locales/ar.yaml,ChunkyProgrammer,Rex_sa,2023-09-23 00:19:50+00:00,2023-09-23 04:00:32+00:00
+static/locales/ar.yaml,ChunkyProgrammer,Rex_sa,2024-02-16 22:20:22+01:00,2024-02-17 00:02:07+01:00
+static/locales/ar.yaml,عمار,Rex_sa,2024-02-29 14:02:02+01:00,2024-03-01 06:00:15+01:00
+static/locales/ar.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ar.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ar.yaml,absidue,Rex_sa,2024-10-27 11:08:50-04:00,2024-10-28 03:00:15+01:00
+static/locales/as.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-17 16:25:13+02:00,2023-05-17 16:25:50+02:00
+static/locales/az.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/be.yaml,Maksim,Hosted Weblate,2023-10-08 03:12:39+02:00,2023-10-08 03:12:47+02:00
+static/locales/be.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/be.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/be.yaml,absidue,Ding User,2025-01-09 01:14:55+01:00,2025-01-09 18:00:45+01:00
+static/locales/bg.yaml,Rusi Dimitrov,Max,2020-10-06 00:26:41+02:00,2020-10-06 14:39:46+02:00
+static/locales/bg.yaml,Max,Rusi Dimitrov,2021-02-26 05:50:30+01:00,2021-02-26 09:50:30+01:00
+static/locales/bg.yaml,Max,Rusi Dimitrov,2021-02-27 19:48:41+01:00,2021-02-27 21:50:33+01:00
+static/locales/bg.yaml,мачко,Rusi Dimitrov,2021-05-31 14:33:54+02:00,2021-05-31 21:33:30+02:00
+static/locales/bg.yaml,Rusi Dimitrov,J. Lavoie,2023-03-21 22:37:37+01:00,2023-03-22 12:40:23+01:00
+static/locales/bg.yaml,Preston,Rusi Dimitrov,2023-07-21 07:33:34-04:00,2023-07-21 23:04:55+02:00
+static/locales/bg.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/bg.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/bg.yaml,Rusi Dimitrov,absidue,2024-12-22 22:26:11+01:00,2024-12-23 08:23:51+08:00
+static/locales/bg.yaml,absidue,Petrov,2024-12-23 08:23:51+08:00,2024-12-23 19:01:06+00:00
+static/locales/bg.yaml,Rusi Dimitrov,absidue,2025-01-02 11:00:33+01:00,2025-01-02 16:31:55-05:00
+static/locales/bg.yaml,Rusi Dimitrov,absidue,2025-01-19 16:00:34+01:00,2025-01-20 00:36:48+01:00
+static/locales/bn.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/bn.yaml,Артём Котлубай,Hosted Weblate,2023-05-18 20:51:36+02:00,2023-05-18 20:52:02+02:00
+static/locales/br.yaml,Florent,absidue,2024-11-07 16:31:29+01:00,2024-11-07 23:48:48-05:00
+static/locales/br.yaml,absidue,Florent,2024-11-07 23:48:48-05:00,2024-11-08 18:00:25+01:00
+static/locales/bs.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/ca.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ca.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ckb.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ckb.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/cs.yaml,chiak597,alium,2021-01-16 17:32:11+01:00,2021-01-16 18:58:56+01:00
+static/locales/cs.yaml,alium,chiak597,2021-01-16 18:58:56+01:00,2021-01-16 18:58:56+01:00
+static/locales/cs.yaml,chiak597,alium,2021-01-16 19:05:11+01:00,2021-01-16 19:05:12+01:00
+static/locales/cs.yaml,absidue,Fjuro,2023-02-01 15:38:27-05:00,2023-02-02 20:59:01+01:00
+static/locales/cs.yaml,Preston,Fjuro,2023-07-21 07:33:34-04:00,2023-07-21 23:05:22+02:00
+static/locales/cs.yaml,ChunkyProgrammer,Fjuro,2023-09-12 19:38:36+02:00,2023-09-12 22:54:27+02:00
+static/locales/cs.yaml,ChunkyProgrammer,Fjuro,2023-09-23 00:19:50+00:00,2023-09-23 10:59:58+00:00
+static/locales/cs.yaml,ChunkyProgrammer,Fjuro,2024-02-16 22:20:22+01:00,2024-02-16 22:49:38+01:00
+static/locales/cs.yaml,ChunkyProgrammer,Fjuro,2024-04-07 14:58:15+00:00,2024-04-07 19:02:03+02:00
+static/locales/cs.yaml,Fjuro,absidue,2024-04-07 19:02:03+02:00,2024-04-08 09:31:20+08:00
+static/locales/cs.yaml,PikachuEXE,Fjuro,2024-04-16 22:16:08+02:00,2024-04-17 09:03:37+02:00
+static/locales/cs.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/cs.yaml,absidue,Fjuro,2024-09-02 19:40:42+00:00,2024-09-03 15:09:22+02:00
+static/locales/cs.yaml,Fjuro,absidue,2024-09-29 12:15:47+02:00,2024-09-30 09:52:34+08:00
+static/locales/cs.yaml,absidue,Fjuro,2024-12-03 01:18:51+00:00,2024-12-03 10:24:59+01:00
+static/locales/cs.yaml,Cristi Ciobanu,Fjuro,2024-12-08 15:08:25+00:00,2024-12-08 21:10:11+01:00
+static/locales/cs.yaml,absidue,Fjuro,2025-01-09 01:14:55+01:00,2025-01-09 10:30:51+00:00
+static/locales/cs.yaml,absidue,Fjuro,2025-01-20 00:36:48+01:00,2025-01-20 13:00:39+01:00
+static/locales/cy.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/cy.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/da.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/da.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/de-DE.yaml,Luca,Preston,2020-08-11 21:54:45+02:00,2020-08-11 18:17:09-04:00
+static/locales/de-DE.yaml,Preston,d43m0nhLInt3r,2020-08-11 18:17:09-04:00,2020-08-12 07:08:28+02:00
+static/locales/de-DE.yaml,Preston,Luca,2020-08-18 04:08:42+02:00,2020-08-18 20:32:01+02:00
+static/locales/de-DE.yaml,Preston,Luca Hohmann,2020-08-21 05:36:06+02:00,2020-08-21 23:36:08+02:00
+static/locales/de-DE.yaml,jsf,Preston,2020-08-26 06:17:42+02:00,2020-08-26 06:17:42+02:00
+static/locales/de-DE.yaml,Sven G,Luca Hohmann,2020-10-06 00:26:39+02:00,2020-10-06 12:52:26+02:00
+static/locales/de-DE.yaml,Luca Hohmann,Sven G,2020-10-06 12:52:26+02:00,2020-10-06 14:39:38+02:00
+static/locales/de-DE.yaml,Luca Hohmann,Sven G,2020-10-07 21:26:39+02:00,2020-10-07 21:26:39+02:00
+static/locales/de-DE.yaml,Sven G,Luca,2020-10-07 21:26:39+02:00,2020-10-08 13:03:05+02:00
+static/locales/de-DE.yaml,Luca,Milo Ivir,2020-10-08 13:03:05+02:00,2020-10-08 23:38:29+02:00
+static/locales/de-DE.yaml,Milo Ivir,S,2020-10-09 19:26:55+02:00,2020-10-09 19:26:55+02:00
+static/locales/de-DE.yaml,qwerty287,J. Lavoie,2021-09-08 09:35:00+02:00,2021-09-09 06:35:34+02:00
+static/locales/de-DE.yaml,Malik,J. Lavoie,2022-09-05 09:07:48+00:00,2022-09-06 03:28:15+02:00
+static/locales/de-DE.yaml,The Cats,Logan,2022-11-27 14:55:41+01:00,2022-11-28 09:53:47+01:00
+static/locales/de-DE.yaml,Ettore Atalan,J. Lavoie,2023-01-27 20:45:50+01:00,2023-01-28 01:57:46+01:00
+static/locales/de-DE.yaml,J. Lavoie,nautilusx,2023-01-28 01:57:46+01:00,2023-01-28 19:56:43+01:00
+static/locales/de-DE.yaml,Buzz Lightyear,Ettore Atalan,2023-03-05 00:44:14+01:00,2023-03-05 15:41:17+01:00
+static/locales/de-DE.yaml,J. Lavoie,Buzz Lightyear,2023-05-30 00:49:11+02:00,2023-05-30 00:49:11+02:00
+static/locales/de-DE.yaml,ChunkyProgrammer,Ettore Atalan,2023-09-12 19:38:36+02:00,2023-09-12 19:38:45+02:00
+static/locales/de-DE.yaml,Robin Drost,J. Lavoie,2024-01-21 17:56:55+01:00,2024-01-21 17:57:29+01:00
+static/locales/de-DE.yaml,J. Lavoie,Robin Drost,2024-01-21 17:57:29+01:00,2024-01-21 17:57:29+01:00
+static/locales/de-DE.yaml,Robin Drost,J. Lavoie,2024-01-21 17:57:29+01:00,2024-01-21 17:57:51+01:00
+static/locales/de-DE.yaml,J. Lavoie,Robin Drost,2024-01-21 17:57:51+01:00,2024-01-21 17:57:51+01:00
+static/locales/de-DE.yaml,Robin Drost,J. Lavoie,2024-01-21 17:57:51+01:00,2024-01-21 17:58:01+01:00
+static/locales/de-DE.yaml,J. Lavoie,Robin Drost,2024-01-21 17:58:01+01:00,2024-01-21 17:58:01+01:00
+static/locales/de-DE.yaml,Robin Drost,J. Lavoie,2024-01-21 17:58:14+01:00,2024-01-21 17:58:14+01:00
+static/locales/de-DE.yaml,J. Lavoie,Robin Drost,2024-01-21 17:58:25+01:00,2024-01-21 17:58:25+01:00
+static/locales/de-DE.yaml,Robin Drost,J. Lavoie,2024-01-21 17:58:25+01:00,2024-01-21 17:59:18+01:00
+static/locales/de-DE.yaml,J. Lavoie,Robin Drost,2024-01-21 17:59:18+01:00,2024-01-21 19:01:54+01:00
+static/locales/de-DE.yaml,Robin Drost,J. Lavoie,2024-01-21 19:01:54+01:00,2024-01-21 19:01:54+01:00
+static/locales/de-DE.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/de-DE.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/de-DE.yaml,absidue,J. Lavoie,2024-09-02 19:40:42+00:00,2024-09-03 00:09:50+02:00
+static/locales/de-DE.yaml,Markus Gaugg,Ettore Atalan,2024-11-24 17:57:46+01:00,2024-11-24 19:00:30+01:00
+static/locales/de-DE.yaml,Markus Gaugg,absidue,2024-12-03 01:00:35+00:00,2024-12-03 01:18:51+00:00
+static/locales/de-DE.yaml,absidue,Ettore Atalan,2024-12-03 01:18:51+00:00,2024-12-03 02:46:57+01:00
+static/locales/de-DE.yaml,Ettore Atalan,Markus Gaugg,2024-12-03 02:46:57+01:00,2024-12-03 20:00:20+01:00
+static/locales/de-DE.yaml,Cristi Ciobanu,Markus Gaugg,2024-12-08 15:08:25+00:00,2024-12-09 08:00:36+01:00
+static/locales/de-DE.yaml,Markus Gaugg,Ettore Atalan,2024-12-28 10:00:32+01:00,2024-12-28 20:00:23+01:00
+static/locales/de-DE.yaml,Ettore Atalan,Markus Gaugg,2024-12-28 20:00:23+01:00,2024-12-28 23:00:30+00:00
+static/locales/de-DE.yaml,absidue,Markus Gaugg,2025-01-20 00:36:48+01:00,2025-01-20 11:00:31+01:00
+static/locales/el.yaml,J. Lavoie,Retrial,2023-03-22 12:40:21+01:00,2023-03-23 03:44:40+01:00
+static/locales/el.yaml,Retrial,Preston,2023-07-20 14:07:01+02:00,2023-07-21 07:33:34-04:00
+static/locales/el.yaml,Preston,Retrial,2023-07-21 07:33:34-04:00,2023-07-21 13:33:46+02:00
+static/locales/el.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/el.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/en-GB.yaml,Goku,absidue,2024-09-29 21:15:43+00:00,2024-09-30 09:52:34+08:00
+static/locales/en-GB.yaml,Thomas Dickson,J. Lavoie,2024-10-11 16:55:34+02:00,2024-10-12 00:21:10+00:00
+static/locales/en-GB.yaml,ChunkyProgrammer,absidue,2024-12-02 23:49:55+01:00,2024-12-03 01:18:51+00:00
+static/locales/en-GB.yaml,absidue,Andi Chandler,2024-12-03 01:18:51+00:00,2024-12-04 00:00:33+01:00
+static/locales/en-GB.yaml,Cristi Ciobanu,Nick Sabia,2024-12-08 15:08:25+00:00,2024-12-09 09:02:26+08:00
+static/locales/en-US.yaml,Airradda,Preston,2020-08-05 16:42:48-05:00,2020-08-05 23:39:00-04:00
+static/locales/en-US.yaml,Preston,d43m0nhLInt3r,2020-08-11 23:26:49-04:00,2020-08-12 07:09:36+02:00
+static/locales/en-US.yaml,Preston,Luca,2020-08-17 22:02:31-04:00,2020-08-18 20:32:01+02:00
+static/locales/en-US.yaml,Preston,Allan Nordhøy,2020-08-22 16:51:04-04:00,2020-08-23 16:36:38+02:00
+static/locales/en-US.yaml,Violet Rose,Preston,2020-09-12 08:20:12-07:00,2020-09-12 16:59:49-04:00
+static/locales/en-US.yaml,Preston,Allan Nordhøy,2020-09-12 16:59:49-04:00,2020-09-13 03:36:11+02:00
+static/locales/en-US.yaml,Preston,Luca,2020-10-04 21:20:30-04:00,2020-10-05 20:31:45+02:00
+static/locales/en-US.yaml,Luca,tayloraviets,2020-10-05 20:35:54+02:00,2020-10-05 22:27:32-04:00
+static/locales/en-US.yaml,tayloraviets,Preston,2020-10-05 22:27:32-04:00,2020-10-06 11:53:54-04:00
+static/locales/en-US.yaml,Preston,Luca,2020-10-07 09:57:22-04:00,2020-10-08 13:03:05+02:00
+static/locales/en-US.yaml,Luca,Preston,2020-10-08 13:06:40+02:00,2020-10-08 15:01:46-04:00
+static/locales/en-US.yaml,Preston,ovari,2020-10-08 21:53:34-04:00,2020-10-10 00:26:40+02:00
+static/locales/en-US.yaml,Luca,Preston,2020-10-22 18:14:36+02:00,2020-10-22 14:56:49-04:00
+static/locales/en-US.yaml,Preston,Laptop Duane,2020-10-22 14:56:49-04:00,2020-10-23 10:50:33+02:00
+static/locales/en-US.yaml,Preston,Cadence Ember,2021-01-14 18:03:23-05:00,2021-01-15 11:14:45-05:00
+static/locales/en-US.yaml,Alexander,Preston,2021-01-17 20:32:11+01:00,2021-01-17 17:31:45-05:00
+static/locales/en-US.yaml,Sai Deepesh,Ira ¯\_(ツ)_/¯,2021-03-06 11:25:50-05:00,2021-03-06 13:00:52-05:00
+static/locales/en-US.yaml,Ira ¯\_(ツ)_/¯,taivlam,2021-03-06 13:00:52-05:00,2021-03-06 13:10:39-05:00
+static/locales/en-US.yaml,ChunkyProgrammer,JInfantesC,2021-10-05 13:58:35+08:00,2021-10-05 20:16:47+00:00
+static/locales/en-US.yaml,ChunkyProgrammer,bob1520,2022-05-29 22:36:59+02:00,2022-05-30 15:24:34+02:00
+static/locales/en-US.yaml,PikachuEXE,ChunkyProgrammer,2022-06-20 22:31:47-04:00,2022-06-21 08:14:15+02:00
+static/locales/en-US.yaml,Malik,Aiz,2022-09-05 09:07:48+00:00,2022-09-05 23:45:45+02:00
+static/locales/en-US.yaml,absidue,Aiz,2022-09-29 20:01:54+00:00,2022-09-29 22:29:47-04:00
+static/locales/en-US.yaml,Simon Epstein,petaded,2022-12-17 15:28:17+01:00,2022-12-17 16:49:44+01:00
+static/locales/en-US.yaml,absidue,PikachuEXE,2023-01-25 15:58:25-05:00,2023-01-26 03:18:04+01:00
+static/locales/en-US.yaml,absidue,ChunkyProgrammer,2023-02-01 15:38:27-05:00,2023-02-01 20:43:04+00:00
+static/locales/en-US.yaml,David Frederick Batt,Jason,2023-08-31 11:18:52-04:00,2023-09-01 09:17:46-04:00
+static/locales/en-US.yaml,Jason,Mitchel Paulin,2023-11-20 15:01:18-05:00,2023-11-20 21:04:41-05:00
+static/locales/en-US.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/en-US.yaml,Jason,PikachuEXE,2024-04-16 17:47:40+02:00,2024-04-16 22:16:08+02:00
+static/locales/en-US.yaml,PikachuEXE,Jason,2024-04-16 22:16:08+02:00,2024-04-17 06:26:43+08:00
+static/locales/en-US.yaml,SteveO,efb4f5ff-1298-471a-8973-3d47447115dc,2024-05-08 15:43:18+00:00,2024-05-08 18:07:26+02:00
+static/locales/en-US.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/en-US.yaml,absidue,efb4f5ff-1298-471a-8973-3d47447115dc,2024-10-04 21:07:46+08:00,2024-10-04 18:10:37+02:00
+static/locales/en-US.yaml,OothecaPickle,absidue,2024-10-26 22:54:53-04:00,2024-10-27 10:14:20+01:00
+static/locales/en-US.yaml,Jason,ChunkyProgrammer,2024-12-02 23:39:09+01:00,2024-12-02 23:49:55+01:00
+static/locales/en-US.yaml,ChunkyProgrammer,absidue,2024-12-02 23:49:55+01:00,2024-12-03 01:18:51+00:00
+static/locales/en-US.yaml,absidue,OothecaPickle,2024-12-03 01:18:51+00:00,2024-12-03 14:32:48+08:00
+static/locales/en-US.yaml,OothecaPickle,Jie Li,2024-12-03 14:32:48+08:00,2024-12-03 15:01:26+01:00
+static/locales/en-US.yaml,Jie Li,Jason,2024-12-03 15:01:26+01:00,2024-12-03 20:10:47-05:00
+static/locales/en-US.yaml,Cristi Ciobanu,Nick Sabia,2024-12-08 15:08:25+00:00,2024-12-09 09:02:26+08:00
+static/locales/en-US.yaml,Jason,DontBlameMe99,2024-12-27 22:43:47+01:00,2024-12-28 11:58:18-05:00
+static/locales/en-US.yaml,DontBlameMe99,GLEBR1K,2024-12-28 11:58:18-05:00,2024-12-29 08:34:48+08:00
+static/locales/en-US.yaml,absidue,PikachuEXE,2025-01-20 00:36:48+01:00,2025-01-20 00:46:31+01:00
+static/locales/en-US.yaml,PikachuEXE,Soham Patil,2025-01-20 00:46:31+01:00,2025-01-20 18:38:07+01:00
+static/locales/en-US.yaml,Soham Patil,Jason,2025-01-20 18:38:07+01:00,2025-01-20 18:57:19+01:00
+static/locales/en_GB.yaml,My Random Thoughts,J. Lavoie,2021-09-02 11:34:43+02:00,2021-09-03 02:41:17+02:00
+static/locales/en_GB.yaml,ChunkyProgrammer,J. Lavoie,2021-10-05 13:58:35+08:00,2021-10-06 02:06:21+02:00
+static/locales/en_GB.yaml,kuhaku,J. Lavoie,2021-10-07 06:29:43+00:00,2021-10-07 11:04:03+02:00
+static/locales/en_GB.yaml,My Random Thoughts,J. Lavoie,2021-11-25 11:51:24+01:00,2021-11-26 03:50:39+01:00
+static/locales/en_GB.yaml,J. Lavoie,Andi Chandler,2023-05-30 00:49:15+02:00,2023-05-30 13:30:08+02:00
+static/locales/en_GB.yaml,J. Lavoie,trostboot,2024-01-12 23:06:26+01:00,2024-01-12 23:06:52-05:00
+static/locales/en_GB.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/en_GB.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/en_GB.yaml,absidue,J. Lavoie,2024-09-02 19:40:42+00:00,2024-09-03 00:09:14+00:00
+static/locales/eo.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/es-MX.yaml,Quinn,circlingpandora,2020-09-13 08:44:15+02:00,2020-09-13 08:44:16+02:00
+static/locales/es-MX.yaml,Quinn,Preston,2020-09-16 10:36:15+02:00,2020-09-16 09:51:26-04:00
+static/locales/es-MX.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/es-MX.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/es.yaml,The Cats,Nicole Richwine,2021-05-18 21:33:45+02:00,2021-05-18 21:33:45+02:00
+static/locales/es.yaml,Nicole Richwine,Oscar Nydza,2021-05-18 21:33:45+02:00,2021-05-19 09:34:01+02:00
+static/locales/es.yaml,Oscar Nydza,Nicole Richwine,2021-05-19 09:34:01+02:00,2021-05-19 09:34:01+02:00
+static/locales/es.yaml,J. Lavoie,Oscar Nydza,2021-08-30 06:37:43+02:00,2021-08-30 06:37:43+02:00
+static/locales/es.yaml,Oscar Nydza,J. Lavoie,2021-08-30 06:37:43+02:00,2021-08-30 08:34:30+02:00
+static/locales/es.yaml,Adrián López Galera,max,2022-01-26 20:53:12+01:00,2022-01-27 12:56:47+01:00
+static/locales/es.yaml,Adrián López Galera,max,2022-02-08 22:57:04+01:00,2022-02-09 13:58:16+01:00
+static/locales/es.yaml,The Cats,max,2022-03-27 20:12:25+02:00,2022-03-28 19:11:56+02:00
+static/locales/es.yaml,Hin Weisner,J. Lavoie,2022-06-07 19:17:42+02:00,2022-06-08 00:18:44+02:00
+static/locales/es.yaml,gallegonovato,Malik,2022-09-04 19:16:27+02:00,2022-09-05 09:07:48+00:00
+static/locales/es.yaml,gallegonovato,Kauã Azevedo,2022-09-10 22:22:25+02:00,2022-09-11 17:59:36+02:00
+static/locales/es.yaml,Kauã Azevedo,gallegonovato,2022-09-11 17:59:36+02:00,2022-09-11 17:59:37+02:00
+static/locales/es.yaml,gallegonovato,Sergio Varela,2022-09-11 17:59:37+02:00,2022-09-11 19:20:56+02:00
+static/locales/es.yaml,Sergio Varela,Kauã Azevedo,2022-09-11 19:20:56+02:00,2022-09-12 00:24:19+02:00
+static/locales/es.yaml,Kauã Azevedo,gallegonovato,2022-09-12 00:24:19+02:00,2022-09-12 23:17:33+02:00
+static/locales/es.yaml,gallegonovato,The Cats,2022-09-17 18:20:10+02:00,2022-09-17 18:20:10+02:00
+static/locales/es.yaml,The Cats,gallegonovato,2022-09-17 18:20:10+02:00,2022-09-17 18:24:54+02:00
+static/locales/es.yaml,gallegonovato,The Cats,2022-09-17 18:24:54+02:00,2022-09-17 18:24:55+02:00
+static/locales/es.yaml,The Cats,gallegonovato,2022-09-17 18:25:10+02:00,2022-09-17 18:25:10+02:00
+static/locales/es.yaml,gallegonovato,The Cats,2022-09-17 18:25:39+02:00,2022-09-17 18:25:39+02:00
+static/locales/es.yaml,The Cats,gallegonovato,2022-09-17 18:25:55+02:00,2022-09-17 18:25:55+02:00
+static/locales/es.yaml,gallegonovato,The Cats,2022-09-17 18:25:55+02:00,2022-09-17 20:18:22+02:00
+static/locales/es.yaml,gallegonovato,J. Lavoie,2022-10-30 06:07:23+01:00,2022-10-30 06:07:23+01:00
+static/locales/es.yaml,Adrián López Galera,Franco Castillo,2023-02-26 20:37:46+01:00,2023-02-27 00:42:44+01:00
+static/locales/es.yaml,gallegonovato,J. Lavoie,2023-03-06 16:39:13+01:00,2023-03-07 00:42:27+01:00
+static/locales/es.yaml,gallegonovato,Preston,2023-07-20 18:07:19+02:00,2023-07-21 07:33:34-04:00
+static/locales/es.yaml,Preston,gallegonovato,2023-07-21 07:33:34-04:00,2023-07-21 17:05:21+02:00
+static/locales/es.yaml,ChunkyProgrammer,gallegonovato,2023-09-23 00:19:50+00:00,2023-09-23 15:00:32+02:00
+static/locales/es.yaml,Diego Ruiz,gallegonovato,2023-12-31 05:08:55+01:00,2023-12-31 15:08:50+01:00
+static/locales/es.yaml,ChunkyProgrammer,gallegonovato,2024-02-16 22:20:22+01:00,2024-02-17 17:01:59+01:00
+static/locales/es.yaml,ChunkyProgrammer,Tixa El Nou,2024-04-07 14:58:15+00:00,2024-04-07 21:02:03+02:00
+static/locales/es.yaml,Tixa El Nou,absidue,2024-04-07 21:02:03+02:00,2024-04-08 09:31:20+08:00
+static/locales/es.yaml,PikachuEXE,Ulises Martínez,2024-04-16 22:16:08+02:00,2024-04-17 00:02:01+02:00
+static/locales/es.yaml,romoney5,gallegonovato,2024-05-28 22:09:23+02:00,2024-05-28 22:09:23+02:00
+static/locales/es.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/es.yaml,absidue,gallegonovato,2024-09-02 19:40:42+00:00,2024-09-02 23:09:26+02:00
+static/locales/es.yaml,gallegonovato,SM2010,2024-10-27 12:00:16+01:00,2024-10-27 14:26:42+01:00
+static/locales/es.yaml,SM2010,gallegonovato,2024-10-27 14:26:42+01:00,2024-10-27 16:00:20+01:00
+static/locales/es.yaml,gallegonovato,absidue,2024-12-22 23:21:30+01:00,2024-12-23 08:23:51+08:00
+static/locales/es_AR.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/es_AR.yaml,Federico Sebastian Martin,Juan,2023-10-22 07:01:48+02:00,2023-10-22 07:01:48+02:00
+static/locales/es_AR.yaml,ChunkyProgrammer,Tixa El Nou,2024-04-07 14:58:15+00:00,2024-04-07 21:02:01+02:00
+static/locales/es_AR.yaml,Tixa El Nou,absidue,2024-04-07 21:02:01+02:00,2024-04-08 09:31:20+08:00
+static/locales/es_AR.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/et.yaml,Erlend,Priit Jõerüüt,2020-10-03 07:56:08+02:00,2020-10-03 17:41:37+02:00
+static/locales/et.yaml,Preston,Priit Jõerüüt,2023-07-21 07:33:34-04:00,2023-07-22 11:03:33+02:00
+static/locales/et.yaml,Priit Jõerüüt,ChunkyProgrammer,2023-09-12 10:50:38+02:00,2023-09-12 19:38:36+02:00
+static/locales/et.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/et.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/et.yaml,Cristi Ciobanu,Priit Jõerüüt,2024-12-08 15:08:25+00:00,2024-12-09 01:01:08+00:00
+static/locales/et.yaml,absidue,Priit Jõerüüt,2024-12-23 08:23:51+08:00,2024-12-23 11:00:29+01:00
+static/locales/et.yaml,Priit Jõerüüt,absidue,2025-01-08 01:03:23+00:00,2025-01-09 01:14:55+01:00
+static/locales/et.yaml,absidue,Priit Jõerüüt,2025-01-20 00:36:48+01:00,2025-01-20 11:00:32+01:00
+static/locales/eu.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/eu.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/eu.yaml,absidue,Eder Etxebarria Rojo,2024-12-03 01:18:51+00:00,2024-12-03 14:00:20+01:00
+static/locales/eu.yaml,Cristi Ciobanu,Alexander Gabilondo,2024-12-08 15:08:25+00:00,2024-12-08 16:08:31+01:00
+static/locales/eu.yaml,Alexander Gabilondo,Eder Etxebarria Rojo,2024-12-08 16:08:31+01:00,2024-12-09 11:00:25+01:00
+static/locales/eu.yaml,absidue,Eder Etxebarria Rojo,2025-01-20 00:36:48+01:00,2025-01-20 19:44:53+01:00
+static/locales/fa.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/fa.yaml,Saeid Eslami,Ramin Zare,2023-09-01 14:54:12+02:00,2023-09-01 14:54:13+02:00
+static/locales/fa.yaml,Ramin Zare,Saeid Eslami,2023-09-01 14:54:13+02:00,2023-09-01 17:57:12+02:00
+static/locales/fa.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/fa.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/fi.yaml,Allan Nordhøy,Unihuppio,2020-09-13 03:36:12+02:00,2020-09-13 03:36:13+02:00
+static/locales/fi.yaml,Onni,J. Lavoie,2021-03-27 01:29:56+01:00,2021-03-27 04:29:42+01:00
+static/locales/fi.yaml,J. Lavoie,Oskari Lavinto,2022-02-07 02:57:18+01:00,2022-02-07 02:57:19+01:00
+static/locales/fi.yaml,LINUX-SAUNA,J. Lavoie,2022-10-25 06:00:28+02:00,2022-10-25 23:05:10+02:00
+static/locales/fi.yaml,Jiri Grönroos,J. Lavoie,2023-07-25 18:06:36+02:00,2023-07-26 02:05:39+02:00
+static/locales/fi.yaml,Jiri Grönroos,ChunkyProgrammer,2023-09-22 10:03:18+00:00,2023-09-23 00:19:50+00:00
+static/locales/fi.yaml,Jiri Grönroos,ChunkyProgrammer,2024-04-07 16:01:47+02:00,2024-04-07 14:58:15+00:00
+static/locales/fi.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/fi.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/fil.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,Wazif Rétif,2020-08-21 23:36:09+02:00,2020-08-22 09:36:39+02:00
+static/locales/fr-FR.yaml,Wazif Rétif,Dragibus Noir,2020-08-22 09:36:39+02:00,2020-08-22 16:38:47+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,Preston,2020-09-16 14:52:24+02:00,2020-09-16 09:51:26-04:00
+static/locales/fr-FR.yaml,Preston,Dragibus Noir,2020-09-16 09:51:26-04:00,2020-09-16 23:36:13+02:00
+static/locales/fr-FR.yaml,J. Lavoie,Dragibus Noir,2021-08-29 17:35:07+02:00,2021-08-29 19:35:05+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,J. Lavoie,2021-08-29 19:35:05+02:00,2021-08-30 08:34:27+02:00
+static/locales/fr-FR.yaml,J. Lavoie,Dragibus Noir,2021-08-30 08:34:27+02:00,2021-08-30 17:35:43+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,J. Lavoie,2021-09-17 15:37:54+02:00,2021-09-18 04:36:30+02:00
+static/locales/fr-FR.yaml,constraintAutomaton,PrestonN,2022-01-30 12:49:16-05:00,2022-01-30 22:14:21-05:00
+static/locales/fr-FR.yaml,PrestonN,Dragibus Noir,2022-01-30 22:24:33-05:00,2022-01-31 20:55:19+01:00
+static/locales/fr-FR.yaml,J. Lavoie,Dragibus Noir,2022-07-23 02:24:20+02:00,2022-07-23 16:25:36+02:00
+static/locales/fr-FR.yaml,Malik,J. Lavoie,2022-09-05 09:07:48+00:00,2022-09-06 03:28:17+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,Hosted Weblate,2023-05-21 19:50:17+02:00,2023-05-21 19:50:46+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,ChunkyProgrammer,2023-09-12 16:52:52+02:00,2023-09-12 19:38:36+02:00
+static/locales/fr-FR.yaml,ChunkyProgrammer,Dragibus Noir,2023-09-12 19:38:36+02:00,2023-09-12 19:38:46+02:00
+static/locales/fr-FR.yaml,Dragibus Noir,Ophiushi,2024-01-05 21:08:34+01:00,2024-01-06 20:06:15+00:00
+static/locales/fr-FR.yaml,Ophiushi,Dragibus Noir,2024-01-06 20:06:15+00:00,2024-01-07 17:06:36+01:00
+static/locales/fr-FR.yaml,Ophiushi,Dragibus Noir,2024-01-14 13:30:30+01:00,2024-01-14 17:06:20+00:00
+static/locales/fr-FR.yaml,trudel69,Dragibus Noir,2024-01-29 18:01:57+01:00,2024-01-29 20:01:54+01:00
+static/locales/fr-FR.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/fr-FR.yaml,Ophiushi,VirisOnGithub,2024-05-03 16:07:24+02:00,2024-05-04 14:07:25+02:00
+static/locales/fr-FR.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/fr-FR.yaml,absidue,J. Lavoie,2024-09-02 19:40:42+00:00,2024-09-03 00:10:04+02:00
+static/locales/fr-FR.yaml,J. Lavoie,Cloud Esp,2024-09-03 00:10:04+02:00,2024-09-03 09:09:15+00:00
+static/locales/fr-FR.yaml,Cloud Esp,J. Lavoie,2024-10-11 02:18:36+00:00,2024-10-12 00:21:08+00:00
+static/locales/fr-FR.yaml,J. Lavoie,Cloud Esp,2024-10-12 00:21:08+00:00,2024-10-12 06:15:41+02:00
+static/locales/fr-FR.yaml,absidue,Cloud Esp,2024-12-03 01:18:51+00:00,2024-12-03 10:24:58+01:00
+static/locales/fr-FR.yaml,Cloud Esp,Dragibus Noir,2024-12-03 10:24:58+01:00,2024-12-03 12:00:31+01:00
+static/locales/fr-FR.yaml,Cristi Ciobanu,Dragibus Noir,2024-12-08 15:08:25+00:00,2024-12-08 19:09:31+01:00
+static/locales/fr-FR.yaml,absidue,Dragibus Noir,2024-12-23 08:23:51+08:00,2024-12-23 23:00:29+01:00
+static/locales/fr-FR.yaml,Cloud Esp,absidue,2025-01-08 08:01:43+00:00,2025-01-09 01:14:55+01:00
+static/locales/fr-FR.yaml,absidue,BlueTurtle,2025-01-20 00:36:48+01:00,2025-01-20 14:42:31+01:00
+static/locales/fr-FR.yaml,Cloud Esp,fail a fail,2025-02-02 18:44:07+01:00,2025-02-03 04:37:27+01:00
+static/locales/fr.yaml,Wazif Rétif,Dragibus Noir,2020-08-20 10:36:02+02:00,2020-08-21 01:36:02+02:00
+static/locales/gl.yaml,gallegonovato,MP,2022-11-24 23:48:07+01:00,2022-11-24 23:48:07+01:00
+static/locales/gl.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/gl.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/gsw.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/gsw.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/he.yaml,turquoise person,Yaron Shahrabani,2020-10-03 17:41:40+02:00,2020-10-03 17:41:41+02:00
+static/locales/he.yaml,Yaron Shahrabani,turquoise person,2020-10-03 17:41:41+02:00,2020-10-03 17:41:48+02:00
+static/locales/he.yaml,turquoise person,turquoise,2020-10-03 17:41:48+02:00,2020-10-03 21:41:23+02:00
+static/locales/he.yaml,turquoise,Yaron Shahrabani,2020-10-03 21:41:23+02:00,2020-10-03 23:19:27+02:00
+static/locales/he.yaml,turquoise,Yaron Shahrabani,2020-10-05 20:41:02+02:00,2020-10-06 00:26:41+02:00
+static/locales/he.yaml,Yaron Shahrabani,turquoise,2020-10-06 14:39:46+02:00,2020-10-06 17:54:11+02:00
+static/locales/he.yaml,turquoise,Yaron Shahrabani,2020-10-07 02:26:42+02:00,2020-10-07 17:26:42+02:00
+static/locales/he.yaml,Yaron Shahrabani,turquoise,2020-10-09 07:26:41+02:00,2020-10-10 00:26:44+02:00
+static/locales/he.yaml,Omeritzics Games,Yaron Shahrabani,2020-10-11 20:26:40+02:00,2020-10-11 20:26:41+02:00
+static/locales/he.yaml,Yaron Shahrabani,Omeritzics Games,2020-10-11 20:26:41+02:00,2020-10-11 21:50:04+02:00
+static/locales/he.yaml,Yaron Shahrabani,Omer I.S,2022-04-10 00:13:22+02:00,2022-04-10 00:13:23+02:00
+static/locales/he.yaml,Malik,Yaron Shahrabani,2022-09-05 09:07:48+00:00,2022-09-06 09:22:39+02:00
+static/locales/he.yaml,Preston,Yaron Shahrabani,2023-07-21 07:33:34-04:00,2023-07-21 15:04:00+02:00
+static/locales/he.yaml,ChunkyProgrammer,Yaron Shahrabani,2023-09-23 00:19:50+00:00,2023-09-23 06:00:01+00:00
+static/locales/he.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/he.yaml,י. פל,Yaron Shahrabani,2024-08-16 00:25:04+02:00,2024-08-16 00:25:04+02:00
+static/locales/he.yaml,Yaron Shahrabani,י. פל,2024-08-16 00:26:12+02:00,2024-08-16 00:26:13+02:00
+static/locales/he.yaml,י. פל,Yaron Shahrabani,2024-08-16 00:26:13+02:00,2024-08-16 00:27:33+02:00
+static/locales/he.yaml,Yaron Shahrabani,י. פל,2024-08-16 00:27:33+02:00,2024-08-16 00:27:33+02:00
+static/locales/he.yaml,י. פל,Yaron Shahrabani,2024-08-16 00:27:33+02:00,2024-08-16 00:29:36+02:00
+static/locales/he.yaml,Yaron Shahrabani,י. פל,2024-08-16 00:29:36+02:00,2024-08-16 00:29:36+02:00
+static/locales/he.yaml,י. פל,Yaron Shahrabani,2024-08-16 00:29:36+02:00,2024-08-16 02:09:12+02:00
+static/locales/he.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/hi.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-17 16:25:13+02:00,2023-05-17 16:25:50+02:00
+static/locales/hr.yaml,John Doe,Preston,2020-09-16 14:52:25+02:00,2020-09-16 09:51:26-04:00
+static/locales/hr.yaml,Preston,John Doe,2020-09-16 09:51:26-04:00,2020-09-16 18:36:13+02:00
+static/locales/hr.yaml,John Doe,Preston,2020-09-29 11:41:14+02:00,2020-09-29 15:55:41+02:00
+static/locales/hr.yaml,Preston,John Doe,2020-09-29 15:55:41+02:00,2020-09-29 20:41:00+02:00
+static/locales/hr.yaml,John Doe,Milo Ivir,2020-10-01 18:41:01+02:00,2020-10-01 18:41:01+02:00
+static/locales/hr.yaml,Milo Ivir,Preston,2023-07-20 22:06:10+02:00,2023-07-21 07:33:34-04:00
+static/locales/hr.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/hr.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/hr.yaml,absidue,Milo Ivir,2024-11-07 23:48:48-05:00,2024-11-08 13:00:21+01:00
+static/locales/hr.yaml,Milo Ivir,absidue,2025-01-02 01:00:38+00:00,2025-01-02 16:31:55-05:00
+static/locales/hr.yaml,absidue,Milo Ivir,2025-01-09 01:14:55+01:00,2025-01-09 00:15:19+00:00
+static/locales/hu.yaml,ovari,ChunkyProgrammer,2021-08-21 12:35:25+02:00,2021-08-21 23:08:38+02:00
+static/locales/hu.yaml,fodor0205,ovari,2021-09-05 21:34:22+02:00,2021-09-05 23:19:26+02:00
+static/locales/hu.yaml,Preston,ovari,2023-07-21 07:33:34-04:00,2023-07-22 02:09:23+02:00
+static/locales/hu.yaml,Kingproone,ovari,2023-09-02 21:52:46+02:00,2023-09-03 00:54:26+02:00
+static/locales/hu.yaml,ChunkyProgrammer,ovari,2023-09-23 00:19:50+00:00,2023-09-23 04:00:33+00:00
+static/locales/hu.yaml,summoner001,ovari,2023-12-06 14:05:30+01:00,2023-12-07 04:06:02+01:00
+static/locales/hu.yaml,summoner001,ovari,2024-01-23 18:01:54+01:00,2024-01-23 21:01:47+01:00
+static/locales/hu.yaml,ChunkyProgrammer,summoner001,2024-02-16 22:20:22+01:00,2024-02-17 12:01:58+01:00
+static/locales/hu.yaml,ChunkyProgrammer,summoner001,2024-04-07 14:58:15+00:00,2024-04-07 19:02:02+02:00
+static/locales/hu.yaml,summoner001,absidue,2024-04-07 19:02:02+02:00,2024-04-08 09:31:20+08:00
+static/locales/hu.yaml,PikachuEXE,summoner001,2024-04-16 22:16:08+02:00,2024-04-17 09:03:37+02:00
+static/locales/hu.yaml,99 efi,summoner001,2024-06-22 23:09:18+02:00,2024-06-23 10:09:14+02:00
+static/locales/hu.yaml,summoner001,99 efi,2024-06-23 10:09:14+02:00,2024-06-23 14:09:17+02:00
+static/locales/hu.yaml,99 efi,summoner001,2024-06-23 14:09:17+02:00,2024-06-23 14:09:17+02:00
+static/locales/hu.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/hu.yaml,absidue,summoner001,2024-09-02 19:40:42+00:00,2024-09-03 08:09:14+02:00
+static/locales/hu.yaml,summoner001,99 efi,2024-09-28 18:15:56+02:00,2024-09-29 12:15:45+02:00
+static/locales/hu.yaml,99 efi,summoner001,2024-09-29 12:15:45+02:00,2024-09-29 12:15:46+02:00
+static/locales/hu.yaml,summoner001,absidue,2024-09-29 12:15:46+02:00,2024-09-30 09:52:34+08:00
+static/locales/hu.yaml,Cristi Ciobanu,summoner001,2024-12-08 15:08:25+00:00,2024-12-08 19:09:32+01:00
+static/locales/hu.yaml,absidue,summoner001,2024-12-23 08:23:51+08:00,2024-12-23 16:00:31+00:00
+static/locales/hu.yaml,summoner001,Ghost of Sparta,2024-12-28 16:00:28+00:00,2024-12-28 21:00:21+00:00
+static/locales/hu.yaml,Ghost of Sparta,summoner001,2024-12-28 21:00:21+00:00,2024-12-29 10:00:23+00:00
+static/locales/hu.yaml,absidue,Ghost of Sparta,2025-01-09 01:14:55+01:00,2025-01-09 15:54:23+01:00
+static/locales/hu.yaml,Ghost of Sparta,summoner001,2025-01-09 15:54:23+01:00,2025-01-09 15:54:24+01:00
+static/locales/hu.yaml,absidue,Ghost of Sparta,2025-01-20 00:36:48+01:00,2025-01-20 07:01:23+00:00
+static/locales/hu.yaml,Ghost of Sparta,summoner001,2025-01-21 06:36:03+01:00,2025-01-21 16:01:36+01:00
+static/locales/id.yaml,william mahagintha,zmni,2020-10-12 05:26:41+02:00,2020-10-12 22:26:52+02:00
+static/locales/id.yaml,william mahagintha,Reza Almanda,2021-02-21 04:50:32+01:00,2021-02-21 04:50:32+01:00
+static/locales/id.yaml,Reza Almanda,ziasukmana,2021-02-21 04:50:32+01:00,2021-02-21 04:50:33+01:00
+static/locales/id.yaml,zmni,Reza Almanda,2021-03-06 19:00:57+01:00,2021-03-07 10:50:33+01:00
+static/locales/id.yaml,Jacque Fresco,zmni,2021-06-03 02:31:33+02:00,2021-06-03 21:34:43+02:00
+static/locales/id.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/id.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/id.yaml,absidue,zmni,2025-01-09 01:14:55+01:00,2025-01-09 09:01:54+01:00
+static/locales/is.yaml,Malik,Sveinn í Felli,2022-09-05 09:07:48+00:00,2022-09-06 03:28:19+02:00
+static/locales/is.yaml,Sveinn í Felli,absidue,2022-10-12 15:24:35+02:00,2022-10-13 11:51:15+00:00
+static/locales/is.yaml,Sveinn í Felli,ChunkyProgrammer,2023-09-12 13:51:53+02:00,2023-09-12 19:38:36+02:00
+static/locales/is.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/is.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/is.yaml,Sveinn í Felli,Cristi Ciobanu,2024-12-07 21:00:20+01:00,2024-12-08 15:08:25+00:00
+static/locales/is.yaml,Cristi Ciobanu,Sveinn í Felli,2024-12-08 15:08:25+00:00,2024-12-09 11:00:24+01:00
+static/locales/is.yaml,Sveinn í Felli,absidue,2025-01-08 08:01:44+00:00,2025-01-09 01:14:55+01:00
+static/locales/it.yaml,Luca De Falco,lucanomax,2020-09-21 23:44:51+02:00,2020-09-21 23:44:51+02:00
+static/locales/it.yaml,lucanomax,Luca De Falco,2020-09-21 23:44:51+02:00,2020-09-22 00:40:22+02:00
+static/locales/it.yaml,Luca De Falco,lucanomax,2020-09-22 00:40:22+02:00,2020-09-22 00:40:22+02:00
+static/locales/it.yaml,lucanomax,Preston,2020-09-22 00:40:22+02:00,2020-09-21 21:38:43-04:00
+static/locales/it.yaml,Preston,lucanomax,2020-09-21 21:38:43-04:00,2020-09-22 03:39:54+02:00
+static/locales/it.yaml,lucanomax,Luca De Falco,2020-09-22 03:39:54+02:00,2020-09-22 03:39:54+02:00
+static/locales/it.yaml,Luca De Falco,Preston,2020-09-22 12:39:54+02:00,2020-09-23 00:49:11+02:00
+static/locales/it.yaml,Preston,Luca De Falco,2020-09-23 00:49:11+02:00,2020-09-23 22:40:57+02:00
+static/locales/it.yaml,Luca De Falco,Riccardo Cazzin,2020-09-23 22:40:57+02:00,2020-09-24 20:40:58+02:00
+static/locales/it.yaml,d1c0n,lucanomax,2020-10-18 21:27:13+02:00,2020-10-19 15:27:05+02:00
+static/locales/it.yaml,lucanomax,d1c0n,2020-10-19 15:27:05+02:00,2020-10-20 00:26:45+02:00
+static/locales/it.yaml,d1c0n,lucanomax,2020-10-20 00:26:45+02:00,2020-10-20 00:26:45+02:00
+static/locales/it.yaml,mapi68,Cody Sechelski,2021-09-22 11:35:45+02:00,2021-09-22 18:26:14-04:00
+static/locales/it.yaml,Cody Sechelski,mapi68,2021-09-22 18:26:14-04:00,2021-09-23 06:36:47+02:00
+static/locales/it.yaml,J. Lavoie,mapi68,2021-11-26 03:50:39+01:00,2021-11-26 15:51:50+01:00
+static/locales/it.yaml,mapi68,J. Lavoie,2022-02-20 07:54:13+01:00,2022-02-20 16:56:10+01:00
+static/locales/it.yaml,J. Lavoie,mapi68,2022-02-20 16:56:10+01:00,2022-02-20 23:55:11+01:00
+static/locales/it.yaml,mapi68,J. Lavoie,2022-06-03 07:18:55+02:00,2022-06-04 01:19:52+02:00
+static/locales/it.yaml,mapi68,J. Lavoie,2022-06-07 08:17:38+02:00,2022-06-08 00:18:43+02:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2022-08-03 01:19:08+02:00,2022-08-03 04:20:46+02:00
+static/locales/it.yaml,Riccardo Cazzin,Massimo Pissarello,2022-08-17 18:14:55+02:00,2022-08-18 10:17:05+02:00
+static/locales/it.yaml,Malik,J. Lavoie,2022-09-05 09:07:48+00:00,2022-09-06 03:28:17+02:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2022-09-08 15:22:21+02:00,2022-09-08 17:21:55+02:00
+static/locales/it.yaml,Massimo Pissarello,Marco Cecconi,2022-11-28 06:47:38+01:00,2022-11-28 09:53:48+01:00
+static/locales/it.yaml,Marco Cecconi,Massimo Pissarello,2022-11-28 09:53:48+01:00,2022-11-28 11:47:32+01:00
+static/locales/it.yaml,Massimo Pissarello,J. Lavoie,2023-03-01 08:38:50+01:00,2023-03-01 16:38:22+01:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2023-03-07 00:42:26+01:00,2023-03-07 05:39:37+01:00
+static/locales/it.yaml,Massimo Pissarello,Hosted Weblate,2023-04-01 21:40:39+02:00,2023-04-02 03:24:35+02:00
+static/locales/it.yaml,Preston,Massimo Pissarello,2023-07-21 07:33:34-04:00,2023-07-22 06:02:52+02:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2023-07-26 02:05:41+02:00,2023-07-26 05:05:30+02:00
+static/locales/it.yaml,Massimo Pissarello,ChunkyProgrammer,2023-09-12 04:51:59+02:00,2023-09-12 19:38:36+02:00
+static/locales/it.yaml,ChunkyProgrammer,Massimo Pissarello,2023-09-12 19:38:36+02:00,2023-09-13 04:03:45+02:00
+static/locales/it.yaml,ChunkyProgrammer,Massimo Pissarello,2023-09-23 00:19:50+00:00,2023-09-23 04:00:31+00:00
+static/locales/it.yaml,ChunkyProgrammer,Massimo Pissarello,2024-02-16 22:20:22+01:00,2024-02-17 04:02:06+01:00
+static/locales/it.yaml,ChunkyProgrammer,Massimo Pissarello,2024-04-07 14:58:15+00:00,2024-04-07 19:02:02+02:00
+static/locales/it.yaml,Massimo Pissarello,absidue,2024-04-07 19:02:02+02:00,2024-04-08 09:31:20+08:00
+static/locales/it.yaml,PikachuEXE,Massimo Pissarello,2024-04-16 22:16:08+02:00,2024-04-17 06:41:19+02:00
+static/locales/it.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/it.yaml,absidue,J. Lavoie,2024-09-02 19:40:42+00:00,2024-09-03 00:10:04+02:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2024-09-03 00:10:04+02:00,2024-09-03 00:10:05+02:00
+static/locales/it.yaml,Massimo Pissarello,J. Lavoie,2024-09-03 00:10:05+02:00,2024-09-03 00:12:37+02:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2024-09-03 00:12:37+02:00,2024-09-03 00:12:37+02:00
+static/locales/it.yaml,absidue,Massimo Pissarello,2024-12-03 01:18:51+00:00,2024-12-03 06:32:56+00:00
+static/locales/it.yaml,Cristi Ciobanu,Massimo Pissarello,2024-12-08 15:08:25+00:00,2024-12-09 01:01:07+00:00
+static/locales/it.yaml,Massimo Pissarello,absidue,2025-01-08 07:00:47+01:00,2025-01-09 01:14:55+01:00
+static/locales/it.yaml,absidue,Massimo Pissarello,2025-01-20 00:36:48+01:00,2025-01-20 07:01:22+00:00
+static/locales/it.yaml,J. Lavoie,Massimo Pissarello,2025-02-06 17:01:56+01:00,2025-02-07 09:01:51+00:00
+static/locales/ja.yaml,maboroshin,Scott Anecito,2020-08-23 19:36:39+02:00,2020-08-24 00:36:35+02:00
+static/locales/ja.yaml,Scott Anecito,maboroshin,2020-08-24 00:36:35+02:00,2020-08-24 07:59:24+02:00
+static/locales/ja.yaml,maboroshin,Preston,2020-09-15 18:36:12+02:00,2020-09-16 09:51:26-04:00
+static/locales/ja.yaml,Preston,maboroshin,2020-09-16 09:51:26-04:00,2020-09-17 07:27:23+02:00
+static/locales/ja.yaml,maboroshin,Kyotaro Iijima,2020-09-17 08:36:13+02:00,2020-09-17 12:36:13+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-09-22 14:40:07+02:00,2020-09-23 07:41:02+02:00
+static/locales/ja.yaml,maboroshin,jsf,2020-09-23 07:41:02+02:00,2020-09-23 13:40:57+02:00
+static/locales/ja.yaml,Kyotaro Iijima,Preston,2020-09-29 11:41:13+02:00,2020-09-29 15:55:38+02:00
+static/locales/ja.yaml,Preston,Kyotaro Iijima,2020-09-29 15:55:38+02:00,2020-09-30 12:41:00+02:00
+static/locales/ja.yaml,maboroshin,Kyotaro Iijima,2020-10-09 07:26:39+02:00,2020-10-09 19:26:56+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-11 16:26:41+02:00,2020-10-11 20:26:40+02:00
+static/locales/ja.yaml,maboroshin,Kyotaro Iijima,2020-10-13 15:53:12+02:00,2020-10-13 23:17:52+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-13 23:17:52+02:00,2020-10-14 02:26:41+02:00
+static/locales/ja.yaml,maboroshin,Kyotaro Iijima,2020-10-14 02:26:41+02:00,2020-10-14 02:26:42+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-14 19:41:04+02:00,2020-10-14 19:41:05+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-20 00:26:44+02:00,2020-10-20 16:27:01+02:00
+static/locales/ja.yaml,maboroshin,Kyotaro Iijima,2020-10-20 16:27:01+02:00,2020-10-20 16:27:01+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-20 16:27:01+02:00,2020-10-20 16:57:07+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-22 06:04:40+02:00,2020-10-22 06:04:41+02:00
+static/locales/ja.yaml,Kyotaro Iijima,maboroshin,2020-10-23 14:26:53+02:00,2020-10-23 14:26:53+02:00
+static/locales/ja.yaml,maboroshin,Kyotaro Iijima,2020-10-24 06:26:45+02:00,2020-10-24 15:26:45+02:00
+static/locales/ja.yaml,Tetsuro Shimazaki,Kyotaro Iijima,2021-05-02 21:32:08+02:00,2021-05-02 21:32:08+02:00
+static/locales/ja.yaml,Taro Tanaka,Kyotaro Iijima,2022-04-12 08:08:55+02:00,2022-04-12 21:07:45+02:00
+static/locales/ja.yaml,maboroshin,balawolf,2022-10-21 13:05:26+02:00,2022-10-22 10:07:27+02:00
+static/locales/ja.yaml,balawolf,maboroshin,2022-10-22 12:01:16+02:00,2022-10-23 02:03:20+02:00
+static/locales/ja.yaml,ChunkyProgrammer,Anonymous,2024-02-16 22:20:22+01:00,2024-02-16 22:49:31+01:00
+static/locales/ja.yaml,Adrian Carpio,Suguru Hirahara,2024-02-24 09:02:02+01:00,2024-02-25 08:01:57+01:00
+static/locales/ja.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ja.yaml,Anonymous,PikachuEXE,2024-04-16 19:02:01+02:00,2024-04-16 22:16:08+02:00
+static/locales/ja.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ja.yaml,absidue,Riki Shinozaki,2024-09-02 19:40:42+00:00,2024-09-03 09:09:14+00:00
+static/locales/ja.yaml,Anonymous,Riki Shinozaki,2025-01-07 16:40:48+01:00,2025-01-08 03:47:20+01:00
+static/locales/ja.yaml,Riki Shinozaki,absidue,2025-01-08 04:01:26+00:00,2025-01-09 01:14:55+01:00
+static/locales/ja.yaml,absidue,R S,2025-01-20 00:36:48+01:00,2025-01-20 05:00:38+01:00
+static/locales/ka.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/km.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/ko.yaml,Layne Harling,Jun Kyung Bang,2022-05-02 06:10:59+02:00,2022-05-02 06:11:00+02:00
+static/locales/ko.yaml,Jun Kyung Bang,darkbrow,2022-05-02 06:11:00+02:00,2022-05-02 06:11:00+02:00
+static/locales/ko.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ko.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ku.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-17 16:25:13+02:00,2023-05-17 16:25:50+02:00
+static/locales/la.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/lt.yaml,Gediminas Murauskas,ChunkyProgrammer,2021-08-21 12:35:26+02:00,2021-08-21 23:08:38+02:00
+static/locales/lt.yaml,Anonimas,Gediminas Murauskas,2022-10-20 17:02:11+02:00,2022-10-21 14:06:23+02:00
+static/locales/lt.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/lt.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/lv.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/lv.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/nb_NO.yaml,Sandyran,Allan Nordhøy,2021-03-03 04:23:08+01:00,2021-03-03 04:23:09+01:00
+static/locales/nb_NO.yaml,Allan Nordhøy,Sandyran,2021-03-03 06:50:35+01:00,2021-03-03 06:50:36+01:00
+static/locales/nb_NO.yaml,Martin Alstad,Odin,2021-05-11 23:58:02+02:00,2021-05-11 23:58:03+02:00
+static/locales/nb_NO.yaml,Odin,Martin Alstad,2021-05-12 01:33:42+02:00,2021-05-12 01:33:43+02:00
+static/locales/nb_NO.yaml,Allan Nordhøy,Odin,2021-05-13 11:33:14+02:00,2021-05-14 01:33:00+02:00
+static/locales/nb_NO.yaml,Odin,Allan Nordhøy,2021-05-14 01:33:00+02:00,2021-05-14 05:32:59+02:00
+static/locales/nb_NO.yaml,Sandyran,Allan Nordhøy,2021-05-30 04:34:58+02:00,2021-05-30 06:34:09+02:00
+static/locales/nb_NO.yaml,Sandyran,Allan Nordhøy,2021-06-06 00:33:39+02:00,2021-06-06 16:33:58+02:00
+static/locales/nb_NO.yaml,Odin,Allan Nordhøy,2021-08-06 00:34:57+02:00,2021-08-06 00:34:58+02:00
+static/locales/nb_NO.yaml,ChunkyProgrammer,Allan Nordhøy,2024-04-07 14:58:15+00:00,2024-04-07 19:02:01+02:00
+static/locales/nb_NO.yaml,Allan Nordhøy,absidue,2024-04-07 19:02:01+02:00,2024-04-08 09:31:20+08:00
+static/locales/nb_NO.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ne.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/nl.yaml,Dennis ten Hoove,Issa1553,2020-09-26 17:41:15+02:00,2020-09-27 03:40:59+02:00
+static/locales/nl.yaml,Philip Goto,ChunkyProgrammer,2024-02-16 19:02:15+01:00,2024-02-16 22:20:22+01:00
+static/locales/nl.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/nl.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/nl.yaml,Goku,absidue,2024-09-29 21:15:42+00:00,2024-09-30 09:52:34+08:00
+static/locales/nl.yaml,absidue,Daan Smienk,2024-12-23 08:23:51+08:00,2024-12-23 01:23:57+01:00
+static/locales/nn.yaml,Benjamin Vraspillai,Sandyran,2021-02-28 09:39:47+01:00,2021-02-28 14:50:34+01:00
+static/locales/nn.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/nn.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/nn.yaml,Sandyran,absidue,2024-12-02 10:00:29+01:00,2024-12-03 01:18:51+00:00
+static/locales/or.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-17 16:25:13+02:00,2023-05-17 16:25:50+02:00
+static/locales/pl.yaml,Grzegorz Wójcicki,Atrate,2020-09-27 18:41:09+02:00,2020-09-28 12:40:59+02:00
+static/locales/pl.yaml,Atrate,Grzegorz Wójcicki,2020-09-28 12:40:59+02:00,2020-09-29 11:41:14+02:00
+static/locales/pl.yaml,Grzegorz Wójcicki,Preston,2020-09-29 11:41:14+02:00,2020-09-29 15:55:40+02:00
+static/locales/pl.yaml,Preston,Atrate,2020-09-29 15:55:40+02:00,2020-09-30 12:41:01+02:00
+static/locales/pl.yaml,Grzegorz Wójcicki,Agnieszka C,2021-07-12 09:01:52+02:00,2021-07-12 09:01:52+02:00
+static/locales/pl.yaml,Jakub Tabor,Grzegorz Wójcicki,2021-09-18 14:36:05+02:00,2021-09-18 21:36:27+02:00
+static/locales/pl.yaml,Grzegorz Wójcicki,Krzysztof Zawadzki,2022-02-14 18:59:35+01:00,2022-02-15 13:30:17+01:00
+static/locales/pl.yaml,Krzysztof Zawadzki,Grzegorz Wójcicki,2022-02-15 13:30:17+01:00,2022-02-15 14:57:48+01:00
+static/locales/pl.yaml,Krzysztof Antonowski,Grzegorz Wójcicki,2022-07-21 15:18:13+02:00,2022-07-22 00:18:48+02:00
+static/locales/pl.yaml,Mikołaj Storoniak,Grzegorz Wójcicki,2022-11-30 20:40:27+01:00,2022-11-30 22:48:33+01:00
+static/locales/pl.yaml,Grzegorz Wójcicki,Preston,2023-07-21 08:05:55+02:00,2023-07-21 07:33:34-04:00
+static/locales/pl.yaml,Preston,Grzegorz Wójcicki,2023-07-21 07:33:34-04:00,2023-07-22 04:10:15+02:00
+static/locales/pl.yaml,Grzegorz Wójcicki,ChunkyProgrammer,2023-09-11 20:55:20+02:00,2023-09-12 19:38:36+02:00
+static/locales/pl.yaml,ChunkyProgrammer,Grzegorz Wójcicki,2023-09-12 19:38:36+02:00,2023-09-12 23:57:08+02:00
+static/locales/pl.yaml,Filip Gliszczyński,Grzegorz Wójcicki,2024-01-12 01:06:12+01:00,2024-01-12 17:06:16+01:00
+static/locales/pl.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/pl.yaml,PikachuEXE,Grzegorz Wójcicki,2024-04-16 22:16:08+02:00,2024-04-17 00:02:00+02:00
+static/locales/pl.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/pl.yaml,absidue,Grzegorz Wójcicki,2024-09-02 19:40:42+00:00,2024-09-03 04:09:25+02:00
+static/locales/pl.yaml,WaldiS,absidue,2024-11-07 21:00:27+00:00,2024-11-07 23:48:48-05:00
+static/locales/pl.yaml,Grzegorz Wójcicki,WaldiS,2024-12-05 22:00:26+00:00,2024-12-06 14:00:24+01:00
+static/locales/pl.yaml,MaciejK2,Cristi Ciobanu,2024-12-08 15:00:19+01:00,2024-12-08 15:08:25+00:00
+static/locales/pl.yaml,Cristi Ciobanu,Grzegorz Wójcicki,2024-12-08 15:08:25+00:00,2024-12-09 01:01:06+00:00
+static/locales/pl.yaml,Nik Nikovsky,Grzegorz Wójcicki,2024-12-27 21:00:30+01:00,2024-12-28 01:00:38+01:00
+static/locales/pt-BR.yaml,The Cats,André Marcelo Alvarenga,2021-02-22 20:50:45+01:00,2021-02-22 22:50:29+01:00
+static/locales/pt-BR.yaml,J. Lavoie,André Marcelo Alvarenga,2021-03-27 04:29:43+01:00,2021-03-28 01:29:59+01:00
+static/locales/pt-BR.yaml,The Cats,André Marcelo Alvarenga,2021-12-27 19:49:16+01:00,2021-12-27 21:53:00+01:00
+static/locales/pt-BR.yaml,ChunkyProgrammer,Carlos Luiz,2023-09-12 19:38:36+02:00,2023-09-13 04:03:44+02:00
+static/locales/pt-BR.yaml,delvani,Vinycius Alves,2024-01-23 03:01:53+01:00,2024-01-24 00:01:49+01:00
+static/locales/pt-BR.yaml,The Cats,ChunkyProgrammer,2024-02-16 00:02:07+01:00,2024-02-16 22:20:22+01:00
+static/locales/pt-BR.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/pt-BR.yaml,absidue,Jose Delvani,2024-04-08 09:31:20+08:00,2024-04-08 19:01:57+02:00
+static/locales/pt-BR.yaml,PikachuEXE,Jose Delvani,2024-04-16 22:16:08+02:00,2024-04-17 06:41:18+02:00
+static/locales/pt-BR.yaml,Jaishree Singh,Jose Delvani,2024-06-27 05:39:42+08:00,2024-06-27 05:09:15+02:00
+static/locales/pt-BR.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/pt-BR.yaml,absidue,Jose Delvani,2024-09-02 19:40:42+00:00,2024-09-03 04:09:15+00:00
+static/locales/pt-BR.yaml,absidue,danesic131,2024-12-23 08:23:51+08:00,2024-12-23 23:00:30+01:00
+static/locales/pt-BR.yaml,José Roberto,absidue,2025-01-19 00:45:58+01:00,2025-01-20 00:36:48+01:00
+static/locales/pt-PT.yaml,Preston,Luca,2020-08-18 04:08:42+02:00,2020-08-18 21:37:43+02:00
+static/locales/pt-PT.yaml,Diogo Agostinho,Hiers,2020-09-10 22:36:13+02:00,2020-09-11 12:15:12+01:00
+static/locales/pt-PT.yaml,Hiers,Preston,2020-09-16 09:55:36+01:00,2020-09-16 09:51:26-04:00
+static/locales/pt-PT.yaml,ssantos,Hiers,2020-09-22 03:39:54+02:00,2020-09-22 10:20:23+01:00
+static/locales/pt-PT.yaml,Hiers,ssantos,2020-09-22 10:20:23+01:00,2020-09-22 17:39:56+02:00
+static/locales/pt-PT.yaml,ssantos,J. Lavoie,2021-08-29 15:43:56+02:00,2021-08-30 08:34:26+02:00
+static/locales/pt-PT.yaml,SC,Miguel,2022-07-08 19:19:31+02:00,2022-07-08 19:19:31+02:00
+static/locales/pt-PT.yaml,Alexthegib,Preston,2023-07-20 14:07:00+02:00,2023-07-21 07:33:34-04:00
+static/locales/pt-PT.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/pt-PT.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/pt.yaml,ssantos,Hiers,2020-09-22 03:39:57+02:00,2020-09-22 10:20:23+01:00
+static/locales/pt.yaml,Hiers,ssantos,2020-09-22 10:20:23+01:00,2020-09-22 17:39:57+02:00
+static/locales/pt.yaml,ssantos,Hiers,2020-09-22 17:39:57+02:00,2020-09-23 12:06:40+01:00
+static/locales/pt.yaml,ssantos,J. Lavoie,2021-08-29 17:35:17+02:00,2021-08-30 08:34:31+02:00
+static/locales/pt.yaml,Sergio Marques,SC,2022-11-19 01:47:24+01:00,2022-11-19 19:47:02+01:00
+static/locales/pt.yaml,SC,Sérgio Marques,2022-11-19 19:47:02+01:00,2022-11-20 17:03:59+01:00
+static/locales/pt.yaml,Alexthegib,Preston,2023-07-20 14:07:02+02:00,2023-07-21 07:33:34-04:00
+static/locales/pt.yaml,Alexthegib,ChunkyProgrammer,2023-09-22 15:02:00+02:00,2023-09-23 00:19:50+00:00
+static/locales/pt.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/pt.yaml,Sergio Marques,Sérgio Marques,2024-06-15 17:09:22+02:00,2024-06-15 18:35:44+02:00
+static/locales/pt.yaml,Sérgio Marques,Sergio Marques,2024-06-15 18:35:44+02:00,2024-06-15 18:35:44+02:00
+static/locales/pt.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ro.yaml,Mozart Michael,Mihail,2022-09-19 21:22:12+02:00,2022-09-19 21:22:13+02:00
+static/locales/ro.yaml,Preston,mere,2023-07-21 07:33:34-04:00,2023-07-22 11:03:34+02:00
+static/locales/ro.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ro.yaml,NicolaeFericitu,PikachuEXE,2024-04-16 22:02:04+02:00,2024-04-16 22:16:08+02:00
+static/locales/ro.yaml,PikachuEXE,NicolaeFericitu,2024-04-16 22:16:08+02:00,2024-04-16 22:16:18+02:00
+static/locales/ro.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ru.yaml,Nikita Epifanov,Preston,2020-09-16 12:36:13+02:00,2020-09-16 09:51:26-04:00
+static/locales/ru.yaml,Preston,Nikita Epifanov,2020-09-16 09:51:26-04:00,2020-09-16 20:36:13+02:00
+static/locales/ru.yaml,Nikita Epifanov,Preston,2020-09-29 11:41:14+02:00,2020-09-29 15:55:39+02:00
+static/locales/ru.yaml,Leonid,Nikita Epifanov,2021-02-21 20:56:09+01:00,2021-02-21 20:56:10+01:00
+static/locales/ru.yaml,J. Lavoie,Leonid,2021-03-27 04:29:43+01:00,2021-03-27 14:29:38+01:00
+static/locales/ru.yaml,Axus Wizix,Nikita Epifanov,2021-05-28 07:33:27+02:00,2021-05-28 13:33:43+02:00
+static/locales/ru.yaml,Sedative,Егор Ермаков,2022-06-19 14:21:33+02:00,2022-06-19 14:21:34+02:00
+static/locales/ru.yaml,Темак,Vik,2022-08-01 11:16:28+02:00,2022-08-01 15:20:27+02:00
+static/locales/ru.yaml,Егор Ермаков,Темак,2022-08-11 18:16:29+02:00,2022-08-12 12:16:54+02:00
+static/locales/ru.yaml,Егор Ермаков,Темак,2022-11-06 11:04:38+01:00,2022-11-06 19:03:51+01:00
+static/locales/ru.yaml,Axus Wizix,Артём Котлубай,2022-12-17 19:49:57+01:00,2022-12-17 22:48:40+01:00
+static/locales/ru.yaml,J. Lavoie,Артём Котлубай,2023-03-07 00:42:21+01:00,2023-03-07 16:40:07+01:00
+static/locales/ru.yaml,Артём Котлубай,MΛX,2023-05-31 23:49:22+02:00,2023-06-01 09:49:04+02:00
+static/locales/ru.yaml,MΛX,Артём Котлубай,2023-06-01 12:32:44+02:00,2023-06-01 12:32:45+02:00
+static/locales/ru.yaml,Артём Котлубай,MΛX,2023-06-01 14:44:25+02:00,2023-06-01 15:52:02+02:00
+static/locales/ru.yaml,MΛX,Артём Котлубай,2023-06-01 15:52:02+02:00,2023-06-01 18:29:26+02:00
+static/locales/ru.yaml,Артём Котлубай,MΛX,2023-06-01 18:29:26+02:00,2023-06-01 21:15:06+02:00
+static/locales/ru.yaml,MΛX,Артём Котлубай,2023-06-01 21:15:06+02:00,2023-06-02 09:52:54+02:00
+static/locales/ru.yaml,Vin,Темак,2023-11-04 22:21:27+01:00,2023-11-04 22:21:27+01:00
+static/locales/ru.yaml,Темак,Vin,2023-11-04 22:21:48+01:00,2023-11-04 22:21:49+01:00
+static/locales/ru.yaml,Vin,Темак,2023-11-04 22:23:43+01:00,2023-11-04 22:23:43+01:00
+static/locales/ru.yaml,Темак,Vin,2023-11-04 22:23:43+01:00,2023-11-04 22:25:22+01:00
+static/locales/ru.yaml,Vin,Темак,2023-11-04 22:25:22+01:00,2023-11-04 22:25:22+01:00
+static/locales/ru.yaml,Темак,Vin,2023-11-04 22:25:43+01:00,2023-11-04 22:25:43+01:00
+static/locales/ru.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/ru.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/ru.yaml,yamadey,gfbdrgng,2024-12-02 23:50:04+01:00,2024-12-03 01:00:37+00:00
+static/locales/ru.yaml,gfbdrgng,absidue,2024-12-03 01:00:37+00:00,2024-12-03 01:18:51+00:00
+static/locales/ru.yaml,gfbdrgng,Yosefario Dev,2025-01-13 14:21:58+01:00,2025-01-13 17:00:54+01:00
+static/locales/sat.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-17 16:25:13+02:00,2023-05-17 16:25:50+02:00
+static/locales/si.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/sk.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/sk.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/sl.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/sl.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/sm.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/sm.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/sr.yaml,Cody Sechelski,ChunkyProgrammer,2021-09-22 18:26:14-04:00,2021-09-23 01:35:56+02:00
+static/locales/sr.yaml,Milo Ivir,Nicole Richwine,2022-01-14 18:56:12+01:00,2022-01-14 18:56:12+01:00
+static/locales/sr.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/sr.yaml,ChunkyProgrammer,NEXI,2024-02-16 22:20:22+01:00,2024-02-17 10:01:59+01:00
+static/locales/sr.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/sr.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/sr.yaml,absidue,NEXI,2024-09-02 19:40:42+00:00,2024-09-03 00:09:16+00:00
+static/locales/sr.yaml,Cristi Ciobanu,NEXI,2024-12-08 15:08:25+00:00,2024-12-08 21:10:11+01:00
+static/locales/sr.yaml,NEXI,Nemanja Dimitrijević – NEXI,2024-12-20 06:00:33+00:00,2024-12-20 16:00:57+00:00
+static/locales/sr.yaml,absidue,NEXI,2025-01-09 01:14:55+01:00,2025-01-09 20:00:44+01:00
+static/locales/sv.yaml,Luca Hohmann,max,2020-10-01 19:18:40+02:00,2020-10-01 22:41:05+02:00
+static/locales/sv.yaml,max,Luca Hohmann,2020-10-01 22:41:05+02:00,2020-10-01 22:41:05+02:00
+static/locales/sv.yaml,Luca Hohmann,max,2020-10-01 22:41:05+02:00,2020-10-02 02:41:10+02:00
+static/locales/sv.yaml,howexek414@logodez.com,CaelusV,2022-08-02 17:20:05+02:00,2022-08-03 14:18:54+02:00
+static/locales/sv.yaml,Luna Jernberg,bittin1ddc447d824349b2,2023-09-06 17:53:16+02:00,2023-09-07 07:55:36+02:00
+static/locales/sv.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/sv.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/sv.yaml,P.O,absidue,2024-09-29 18:16:16+02:00,2024-09-30 09:52:34+08:00
+static/locales/ti.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/ti.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/tig.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/tok.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/tr.yaml,Yiğit,Oğuz Ersen,2020-09-28 16:40:59+02:00,2020-09-29 13:41:00+02:00
+static/locales/tr.yaml,Oğuz Ersen,Yiğit,2020-09-29 13:41:00+02:00,2020-09-29 15:55:44+02:00
+static/locales/tr.yaml,Yiğit,Preston,2020-09-29 15:55:44+02:00,2020-09-29 15:55:44+02:00
+static/locales/tr.yaml,Preston,Yiğit,2020-09-29 15:55:44+02:00,2020-09-30 02:41:17+02:00
+static/locales/tr.yaml,Oğuz Ersen,MertComert,2021-04-30 01:32:14+02:00,2021-04-30 20:32:09+02:00
+static/locales/tr.yaml,MertComert,Oğuz Ersen,2021-04-30 20:32:09+02:00,2021-05-01 08:32:10+02:00
+static/locales/tr.yaml,Oğuz Ersen,MertComert,2021-05-01 08:32:10+02:00,2021-05-02 04:32:11+02:00
+static/locales/tr.yaml,Oğuz Ersen,ChunkyProgrammer,2021-08-21 12:35:25+02:00,2021-08-21 23:08:38+02:00
+static/locales/tr.yaml,Malik,Oğuz Ersen,2022-09-05 09:07:48+00:00,2022-09-06 07:21:20+02:00
+static/locales/tr.yaml,Oğuz Ersen,Preston,2023-07-20 20:09:21+02:00,2023-07-21 07:33:34-04:00
+static/locales/tr.yaml,Preston,Oğuz Ersen,2023-07-21 07:33:34-04:00,2023-07-21 20:06:22+02:00
+static/locales/tr.yaml,Oğuz Ersen,ChunkyProgrammer,2023-09-11 20:55:21+02:00,2023-09-12 19:38:36+02:00
+static/locales/tr.yaml,ChunkyProgrammer,Oğuz Ersen,2023-09-12 19:38:36+02:00,2023-09-12 22:54:26+02:00
+static/locales/tr.yaml,ChunkyProgrammer,Oğuz Ersen,2023-09-23 00:19:50+00:00,2023-09-23 10:59:57+00:00
+static/locales/tr.yaml,ChunkyProgrammer,Oğuz Ersen,2024-02-16 22:20:22+01:00,2024-02-17 10:01:58+01:00
+static/locales/tr.yaml,ChunkyProgrammer,Oğuz Ersen,2024-04-07 14:58:15+00:00,2024-04-08 00:01:50+02:00
+static/locales/tr.yaml,Oğuz Ersen,absidue,2024-04-08 00:01:50+02:00,2024-04-08 09:31:20+08:00
+static/locales/tr.yaml,PikachuEXE,Oğuz Ersen,2024-04-16 22:16:08+02:00,2024-04-17 09:03:36+02:00
+static/locales/tr.yaml,Jaishree Singh,Oğuz Ersen,2024-06-27 05:39:42+08:00,2024-06-27 20:09:23+02:00
+static/locales/tr.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/tr.yaml,absidue,J. Lavoie,2024-09-02 19:40:42+00:00,2024-09-03 00:09:15+00:00
+static/locales/tr.yaml,J. Lavoie,Oğuz Ersen,2024-09-03 00:09:15+00:00,2024-09-03 20:09:23+02:00
+static/locales/uk.yaml,Ihor Hordiichuk,J. Lavoie,2022-05-30 17:18:19+02:00,2022-05-30 21:19:15+02:00
+static/locales/uk.yaml,Malik,Ihor Hordiichuk,2022-09-05 09:07:48+00:00,2022-09-06 03:28:18+02:00
+static/locales/uk.yaml,Preston,Ihor Hordiichuk,2023-07-21 07:33:34-04:00,2023-07-21 23:05:23+02:00
+static/locales/uk.yaml,Ihor Hordiichuk,ChunkyProgrammer,2023-09-12 01:54:53+02:00,2023-09-12 19:38:36+02:00
+static/locales/uk.yaml,ChunkyProgrammer,Ihor Hordiichuk,2023-09-23 00:19:50+00:00,2023-09-23 17:00:33+02:00
+static/locales/uk.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/uk.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/uk.yaml,absidue,Bezruchenko Simon,2025-01-20 00:36:48+01:00,2025-01-20 21:00:53+01:00
+static/locales/ur.yaml,absidue,Hosted Weblate,2023-04-04 08:04:34+00:00,2023-04-04 10:05:08+02:00
+static/locales/ur.yaml,ChunkyProgrammer,Hosted Weblate,2023-05-13 13:10:32+02:00,2023-05-13 13:11:12+02:00
+static/locales/ur.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/vi.yaml,0246_Hoàng Tiến Đạt,Việt Tiến,2023-08-30 23:55:51+02:00,2023-08-31 04:53:24+02:00
+static/locales/vi.yaml,ducdat0507 Nguyễn,Brad 'Bảo' Hirsch,2024-02-23 16:02:01+01:00,2024-02-24 07:02:06+01:00
+static/locales/vi.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/vi.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/zh-CN.yaml,jsf,Preston,2020-09-16 10:36:14+02:00,2020-09-16 09:51:26-04:00
+static/locales/zh-CN.yaml,Preston,jsf,2020-09-16 09:51:26-04:00,2020-09-17 07:27:24+02:00
+static/locales/zh-CN.yaml,Frank.wu,Eric,2021-10-09 06:04:57+02:00,2021-10-09 09:02:26+02:00
+static/locales/zh-CN.yaml,Eric,J. Lavoie,2022-02-20 07:54:11+01:00,2022-02-20 16:56:07+01:00
+static/locales/zh-CN.yaml,Eric,J. Lavoie,2022-05-30 17:18:17+02:00,2022-05-30 21:19:06+02:00
+static/locales/zh-CN.yaml,Malik,Eric,2022-09-05 09:07:48+00:00,2022-09-06 03:28:16+02:00
+static/locales/zh-CN.yaml,Preston,Eric,2023-07-21 07:33:34-04:00,2023-07-21 15:03:59+02:00
+static/locales/zh-CN.yaml,ChunkyProgrammer,Eric,2023-09-12 19:38:36+02:00,2023-09-13 01:57:28+02:00
+static/locales/zh-CN.yaml,ChunkyProgrammer,Eric,2023-09-23 00:19:50+00:00,2023-09-23 04:00:30+00:00
+static/locales/zh-CN.yaml,ChunkyProgrammer,大王叫我来巡山,2024-02-16 22:20:22+01:00,2024-02-17 06:02:07+01:00
+static/locales/zh-CN.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/zh-CN.yaml,PikachuEXE,大王叫我来巡山,2024-04-16 22:16:08+02:00,2024-04-17 11:03:40+02:00
+static/locales/zh-CN.yaml,Kang H,大王叫我来巡山,2024-05-27 20:09:18+00:00,2024-05-28 02:09:20+00:00
+static/locales/zh-CN.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/zh-CN.yaml,absidue,大王叫我来巡山,2024-09-02 19:40:42+00:00,2024-09-03 00:09:13+00:00
+static/locales/zh-CN.yaml,Cristi Ciobanu,大王叫我来巡山,2024-12-08 15:08:25+00:00,2024-12-09 01:01:05+00:00
+static/locales/zh-CN.yaml,absidue,大王叫我来巡山,2024-12-23 08:23:51+08:00,2024-12-23 03:00:35+00:00
+static/locales/zh-CN.yaml,大王叫我来巡山,absidue,2025-01-08 08:01:42+00:00,2025-01-09 01:14:55+01:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-08-22 09:36:38+02:00,2020-08-23 05:45:12+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-08-23 05:45:12+02:00,2020-08-23 19:36:40+02:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-08-26 06:17:43+02:00,2020-08-26 06:17:43+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-09-05 05:36:12+02:00,2020-09-05 08:36:12+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-09-08 10:08:57+02:00,2020-09-08 16:29:58+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-09-10 05:36:16+02:00,2020-09-10 09:36:14+02:00
+static/locales/zh-TW.yaml,jsf,Preston,2020-09-16 10:36:14+02:00,2020-09-16 09:51:26-04:00
+static/locales/zh-TW.yaml,Preston,Jeff Huang,2020-09-16 09:51:26-04:00,2020-09-17 05:36:13+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-09-17 05:36:13+02:00,2020-09-17 07:27:24+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-09-21 04:39:54+02:00,2020-09-21 09:11:17+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-09-23 05:40:57+02:00,2020-09-23 10:40:57+02:00
+static/locales/zh-TW.yaml,Jeff Huang,Preston,2020-09-29 11:41:13+02:00,2020-09-29 15:55:38+02:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-10-05 20:40:56+02:00,2020-10-06 10:15:09+02:00
+static/locales/zh-TW.yaml,Jeff Huang,"Wei, Hong-Lin",2020-10-06 10:15:09+02:00,2020-10-06 10:15:10+02:00
+static/locales/zh-TW.yaml,"Wei, Hong-Lin",jsf,2020-10-06 10:15:10+02:00,2020-10-06 14:39:39+02:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-10-06 14:39:39+02:00,2020-10-07 07:42:01+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-10-07 07:42:01+02:00,2020-10-07 09:03:35+02:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-10-07 09:03:35+02:00,2020-10-08 08:42:42+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-10-08 08:42:42+02:00,2020-10-08 11:26:49+02:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-10-08 11:26:49+02:00,2020-10-09 07:26:40+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-10-09 07:26:40+02:00,2020-10-09 19:26:57+02:00
+static/locales/zh-TW.yaml,jsf,Jeff Huang,2020-10-09 19:26:57+02:00,2020-10-10 06:26:39+02:00
+static/locales/zh-TW.yaml,Jeff Huang,jsf,2020-10-10 06:26:39+02:00,2020-10-10 10:26:53+02:00
+static/locales/zh-TW.yaml,Jeff Huang,Cody Sechelski,2021-09-22 07:35:02+02:00,2021-09-22 18:26:14-04:00
+static/locales/zh-TW.yaml,Jeff Huang,ChunkyProgrammer,2023-09-12 06:51:27+02:00,2023-09-12 19:38:36+02:00
+static/locales/zh-TW.yaml,ChunkyProgrammer,Jeff Huang,2023-09-12 19:38:36+02:00,2023-09-13 05:49:03+02:00
+static/locales/zh-TW.yaml,ChunkyProgrammer,absidue,2024-04-07 14:58:15+00:00,2024-04-08 09:31:20+08:00
+static/locales/zh-TW.yaml,absidue,Jeff Huang,2024-04-08 09:31:20+08:00,2024-04-08 06:01:49+02:00
+static/locales/zh-TW.yaml,PikachuEXE,Jeff Huang,2024-04-16 22:16:08+02:00,2024-04-17 06:41:17+02:00
+static/locales/zh-TW.yaml,ChunkyProgrammer,absidue,2024-09-02 09:28:23+08:00,2024-09-02 19:40:42+00:00
+static/locales/zh-TW.yaml,absidue,Jeff Huang,2024-09-02 19:40:42+00:00,2024-09-03 04:09:14+00:00
+static/locales/zh-TW.yaml,absidue,Jeff Huang,2024-09-30 09:52:34+08:00,2024-09-30 05:15:45+02:00
+static/locales/zh-TW.yaml,absidue,Jeff Huang,2024-12-23 08:23:51+08:00,2024-12-23 03:00:36+00:00
+static/locales/zh_Hans.yaml,Preston,jsf,2020-08-21 05:36:06+02:00,2020-08-21 13:36:11+02:00
+static/locales/zh_Hant.yaml,Preston,jsf,2020-08-21 05:36:06+02:00,2020-08-21 13:36:11+02:00
+yarn.lock,PikachuEXE,dependabot[bot],2021-09-20 22:55:39-04:00,2021-09-20 23:00:52-04:00
+yarn.lock,PikachuEXE,PrestonN,2021-11-10 09:51:21-05:00,2021-11-10 10:01:31-05:00
+yarn.lock,PikachuEXE,Preston,2022-04-07 22:15:24-04:00,2022-04-07 22:20:33-04:00
+yarn.lock,absidue,Preston,2022-04-09 15:40:26-04:00,2022-04-09 16:23:34-04:00
+yarn.lock,dependabot[bot],absidue,2022-05-10 10:19:54+08:00,2022-05-10 02:08:48-04:00
+yarn.lock,PikachuEXE,ChunkyProgrammer,2022-05-14 12:46:08-04:00,2022-05-14 13:33:00-04:00
+yarn.lock,ChunkyProgrammer,PrestonN,2022-05-14 13:33:00-04:00,2022-05-14 17:37:17-04:00
+yarn.lock,absidue,ChunkyProgrammer,2022-05-30 21:43:21-04:00,2022-05-31 09:45:17+08:00
+yarn.lock,ChunkyProgrammer,absidue,2022-05-31 09:45:17+08:00,2022-05-31 16:15:44-04:00
+yarn.lock,absidue,PikachuEXE,2022-08-11 18:20:17-04:00,2022-08-11 23:41:32-04:00
+yarn.lock,PikachuEXE,absidue,2022-08-26 09:46:15+02:00,2022-08-27 07:58:33+08:00
+yarn.lock,absidue,PikachuEXE,2022-08-31 20:55:10-04:00,2022-09-01 09:10:46+00:00
+yarn.lock,PikachuEXE,absidue,2022-09-01 09:10:46+00:00,2022-09-01 19:43:20+08:00
+yarn.lock,absidue,ChunkyProgrammer,2022-09-01 19:43:20+08:00,2022-09-02 11:23:53+08:00
+yarn.lock,ChunkyProgrammer,PikachuEXE,2022-09-08 08:39:22+08:00,2022-09-08 07:09:49-04:00
+yarn.lock,PikachuEXE,ChunkyProgrammer,2022-09-08 07:09:49-04:00,2022-09-09 09:10:10+08:00
+yarn.lock,absidue,ChunkyProgrammer,2022-09-13 09:28:36+08:00,2022-09-13 14:13:40+00:00
+yarn.lock,absidue,PikachuEXE,2022-09-15 08:52:46+08:00,2022-09-15 11:46:42+02:00
+yarn.lock,PikachuEXE,Emma,2022-10-06 16:29:04+02:00,2022-10-06 14:47:47+00:00
+yarn.lock,Emma,dependabot[bot],2022-10-06 14:47:47+00:00,2022-10-06 12:31:42-04:00
+yarn.lock,dependabot[bot],absidue,2022-10-06 12:31:42-04:00,2022-10-06 12:33:18-04:00
+yarn.lock,absidue,dependabot[bot],2022-10-06 12:33:18-04:00,2022-10-07 09:43:27+08:00
+yarn.lock,dependabot[bot],absidue,2022-10-17 13:50:52+02:00,2022-10-17 16:09:06+00:00
+yarn.lock,absidue,dependabot[bot],2022-10-17 16:09:06+00:00,2022-10-17 15:17:16-04:00
+yarn.lock,dependabot[bot],ChunkyProgrammer,2022-10-17 15:17:16-04:00,2022-10-18 17:50:11+02:00
+yarn.lock,dependabot[bot],Emma,2022-10-24 17:09:03+02:00,2022-10-24 13:49:52-04:00
+yarn.lock,Emma,dependabot[bot],2022-10-24 13:49:52-04:00,2022-10-24 14:27:14-04:00
+yarn.lock,dependabot[bot],PrestonN,2022-11-01 12:59:51+01:00,2022-11-01 20:13:22-04:00
+yarn.lock,dependabot[bot],absidue,2022-11-07 16:57:56+08:00,2022-11-07 11:16:07+00:00
+yarn.lock,absidue,dependabot[bot],2022-11-07 11:16:07+00:00,2022-11-07 13:46:47+01:00
+yarn.lock,dependabot[bot],absidue,2022-11-14 19:58:09+01:00,2022-11-15 09:10:51+01:00
+yarn.lock,absidue,dependabot[bot],2022-11-21 09:18:14+08:00,2022-11-21 07:35:20+01:00
+yarn.lock,dependabot[bot],absidue,2022-11-28 06:19:11-05:00,2022-11-28 12:52:47+01:00
+yarn.lock,absidue,dependabot[bot],2022-11-28 12:52:47+01:00,2022-11-28 16:42:24+01:00
+yarn.lock,dependabot[bot],absidue,2022-12-27 10:15:59+08:00,2022-12-27 15:15:50+00:00
+yarn.lock,absidue,ChunkyProgrammer,2023-01-03 09:55:39+08:00,2023-01-03 19:19:41+01:00
+yarn.lock,ChunkyProgrammer,PikachuEXE,2023-01-03 19:19:41+01:00,2023-01-03 19:20:26+01:00
+yarn.lock,PikachuEXE,dependabot[bot],2023-01-03 19:20:26+01:00,2023-01-03 22:13:59+01:00
+yarn.lock,dependabot[bot],absidue,2023-01-23 12:29:41+01:00,2023-01-24 03:22:54+01:00
+yarn.lock,dependabot[bot],Luca Hohmann,2023-03-03 19:11:13+00:00,2023-03-04 16:56:04+08:00
+yarn.lock,PikachuEXE,dependabot[bot],2023-03-06 18:28:44+01:00,2023-03-06 20:16:48-05:00
+yarn.lock,dependabot[bot],absidue,2023-05-01 21:03:44+08:00,2023-05-01 09:12:23-04:00
+yarn.lock,absidue,dependabot[bot],2023-05-01 09:12:23-04:00,2023-05-01 22:01:05+02:00
+yarn.lock,absidue,dependabot[bot],2023-05-15 10:01:18+08:00,2023-05-15 17:25:45+02:00
+yarn.lock,dependabot[bot],absidue,2023-07-07 22:55:58-04:00,2023-07-08 15:43:23+00:00
+yarn.lock,dependabot[bot],PikachuEXE,2023-07-11 18:48:15+02:00,2023-07-11 18:49:54+02:00
+yarn.lock,ChunkyProgrammer,dependabot[bot],2024-04-07 14:58:15+00:00,2024-04-08 07:04:21-04:00
+yarn.lock,dependabot[bot],absidue,2024-05-14 07:27:45+08:00,2024-05-14 16:35:50+00:00
+yarn.lock,dependabot[bot],Jason,2024-05-20 11:50:04+02:00,2024-05-20 11:53:05+02:00
+yarn.lock,Jason,dependabot[bot],2024-05-20 11:53:05+02:00,2024-05-20 16:55:50+00:00
+yarn.lock,dependabot[bot],absidue,2024-05-28 21:07:48-04:00,2024-05-29 10:06:59+00:00
+yarn.lock,dependabot[bot],PikachuEXE,2024-07-10 05:24:42+08:00,2024-07-10 11:45:45-04:00
+yarn.lock,dependabot[bot],absidue,2024-09-02 09:00:34-04:00,2024-09-02 19:40:42+00:00
+yarn.lock,absidue,dependabot[bot],2024-09-02 19:40:42+00:00,2024-09-02 22:58:50+02:00
+yarn.lock,dependabot[bot],PikachuEXE,2024-09-16 07:10:06-04:00,2024-09-17 06:43:18-04:00
+yarn.lock,PikachuEXE,dependabot[bot],2024-09-17 06:43:18-04:00,2024-09-17 17:25:09+02:00
+yarn.lock,dependabot[bot],PikachuEXE,2024-10-03 22:59:28+02:00,2024-10-04 12:36:56-04:00
+yarn.lock,PikachuEXE,dependabot[bot],2024-10-06 09:36:08-04:00,2024-10-07 06:53:34-04:00
+yarn.lock,dependabot[bot],efb4f5ff-1298-471a-8973-3d47447115dc,2024-10-25 07:24:16-05:00,2024-10-26 05:00:59+00:00
+yarn.lock,efb4f5ff-1298-471a-8973-3d47447115dc,PikachuEXE,2024-10-26 05:00:59+00:00,2024-10-26 08:28:44+02:00
+yarn.lock,absidue,dependabot[bot],2024-10-27 11:08:50-04:00,2024-10-28 11:29:00+01:00
+yarn.lock,ChunkyProgrammer,dependabot[bot],2024-11-02 11:38:07+01:00,2024-11-02 12:34:15+01:00
+yarn.lock,dependabot[bot],absidue,2024-12-02 15:11:06-05:00,2024-12-02 18:50:00-05:00
+yarn.lock,absidue,dependabot[bot],2024-12-02 18:50:00-05:00,2024-12-03 00:34:41+00:00
+yarn.lock,absidue,dependabot[bot],2025-01-26 19:34:17+00:00,2025-01-27 07:49:01-05:00

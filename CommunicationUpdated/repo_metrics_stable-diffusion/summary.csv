@@ -1,0 +1,45 @@
+Field,Value
+Commits Overview,
+Total Commits,33
+Total Unique Authors,9
+,
+Top 10 Contributors,
+Author,Commits
+ablattmann,103
+Robin Rombach,47
+Patrick Esser,12
+LuChengTHU,6
+Patrick von Platen,5
+rromb,4
+owenvincent,2
+cpacker,1
+apolinario,1
+,
+Communication Events,Total: 6
+"Author1,Author2",Events
+"ablattmann,Patrick Esser",2
+"Patrick Esser,rromb",1
+"Robin Rombach,ablattmann",1
+"apolinario,Patrick Esser",1
+"rromb,ablattmann",1
+,
+Committer Timezone Distribution,Unique Timezones: 5
+Timezone,Commits
++00:00,10
++01:00,11
++02:00,9
++08:00,2
+-07:00,1
+,
+Contributors Experience,Average across 82 files: 96.82%
+File,Top Contributor Share (%)
+configs/autoencoder/autoencoder_kl_16x16x16.yaml,100.00
+configs/autoencoder/autoencoder_kl_32x32x4.yaml,100.00
+configs/autoencoder/autoencoder_kl_64x64x3.yaml,100.00
+configs/autoencoder/autoencoder_kl_8x8x64.yaml,100.00
+configs/latent-diffusion/lsun_churches_f8-autoencoder-ldm.yaml,100.00
+data/example_conditioning/text_conditional/sample_0.txt,100.00
+data/index_synset.yaml,100.00
+ldm/data/base.py,100.00
+ldm/data/imagenet.py,100.00
+ldm/data/lsun.py,100.00

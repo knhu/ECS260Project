@@ -1,0 +1,43 @@
+Field,Value
+Commits Overview,
+Total Commits,160
+Total Unique Authors,6
+,
+Top 10 Contributors,
+Author,Commits
+clitic,1034
+Owen Shepherd,7
+Lucas Jeub,7
+Zsombor Hollay-Horvath,5
+Apoorv Sachan,4
+N9199,3
+,
+Communication Events,Total: 5
+"Author1,Author2",Events
+"Apoorv Sachan,clitic",1
+"Lucas Jeub,Owen Shepherd",1
+"Lucas Jeub,clitic",1
+"N9199,clitic",1
+"Zsombor Hollay-Horvath,clitic",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++00:00,2
++01:00,2
++02:00,1
++03:00,1
++05:30,152
+-03:00,2
+,
+Contributors Experience,Average across 198 files: 98.87%
+File,Top Contributor Share (%)
+.gitignore,100.00
+LICENSE,100.00
+Cargo.toml,100.00
+examples/animations.rs,100.00
+examples/concurrent_bars.rs,100.00
+examples/download_file/Cargo.toml,100.00
+examples/download_file/src/main.rs,100.00
+examples/ffpb/Cargo.toml,100.00
+examples/ffpb/src/main.rs,100.00
+examples/file_buffer.rs,100.00

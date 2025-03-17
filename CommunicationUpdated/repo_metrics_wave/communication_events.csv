@@ -1,0 +1,257 @@
+file,author1,author2,time1,time2
+.github/CONTRIBUTING.md,Martin Turóci,Martin Turoci,2023-06-27 14:38:21+02:00,2023-06-27 15:16:01+02:00
+.github/workflows/release-wave-nightly.yml,mturoci,Martin Turoci,2021-09-20 10:23:17+02:00,2021-09-20 11:03:20+02:00
+.github/workflows/release-wave.yml,mturoci,Martin Turoci,2022-02-17 11:14:15+01:00,2022-02-17 11:35:31+01:00
+.github/workflows/release-wave.yml,Martin Turoci,mturoci,2022-11-23 14:41:45+01:00,2022-11-24 08:19:33+01:00
+.github/workflows/release.yml,Prithvi Prabhu,Dulaj Atapattu,2021-01-17 19:47:48-08:00,2021-01-17 22:02:31-08:00
+.github/workflows/release.yml,Prithvi Prabhu,mturoci,2021-04-27 19:09:34-07:00,2021-04-28 01:10:58-07:00
+.github/workflows/release.yml,mturoci,Prithvi Prabhu,2021-04-28 01:10:58-07:00,2021-04-28 09:12:25-07:00
+Makefile,Martin Turoci,mturoci,2022-07-14 13:33:06+02:00,2022-07-15 11:30:06+02:00
+Makefile,Martin Turoci,mturoci,2022-11-23 14:41:45+01:00,2022-11-24 08:19:33+01:00
+Makefile,mturoci,Martin Turoci,2023-02-24 12:26:30+01:00,2023-02-24 13:53:13+01:00
+README.md,lo5,Prithvi Prabhu,2020-08-05 21:20:01-07:00,2020-08-05 23:00:58-07:00
+README.md,mturoci,lo5,2020-12-17 16:34:06-08:00,2020-12-17 16:54:44-08:00
+README.md,lo5,Prithvi Prabhu,2020-12-17 16:54:44-08:00,2020-12-18 00:32:53-08:00
+README.md,Prithvi Prabhu,mturoci,2021-03-19 15:55:45-07:00,2021-03-20 12:42:28-07:00
+cmd/wave/main.go,Peter Szabó,Prithvi Prabhu,2020-10-20 13:46:07-07:00,2020-10-20 16:40:28-07:00
+cmd/wave/main.go,Michal Raška,Prithvi Prabhu,2020-11-23 17:34:20-08:00,2020-11-24 16:42:08-08:00
+cmd/wave/main.go,mturoci,Martin Turoci,2023-06-07 15:34:08+02:00,2023-06-08 13:51:56+02:00
+go.mod,Martin Turóci,Martin Turoci,2024-04-02 08:38:14+02:00,2024-04-02 18:23:09+02:00
+ide/src/editor.tsx,Prithvi Prabhu,mturoci,2020-11-01 15:40:59-08:00,2020-11-02 08:09:40-08:00
+ide/src/editor.tsx,mturoci,Prithvi Prabhu,2020-11-02 08:09:40-08:00,2020-11-02 14:09:47-08:00
+py/Makefile,Peter Szabó,Prithvi Prabhu,2021-04-27 09:05:37-07:00,2021-04-27 17:06:06-07:00
+py/Makefile,mturoci,Martin Turoci,2021-12-14 12:52:08+01:00,2021-12-14 18:34:18+01:00
+py/Makefile,lo5,Martin Turoci,2022-01-20 14:46:24-08:00,2022-01-21 09:02:26+01:00
+py/Makefile,Martin Turóci,Martin Turoci,2023-07-17 10:24:25+02:00,2023-07-17 14:20:29+02:00
+py/Makefile,Martin Turoci,Martin Turóci,2023-07-17 14:20:29+02:00,2023-07-18 08:36:17+02:00
+py/Makefile,MattiasOz,Martin Turoci,2023-09-20 13:34:29+02:00,2023-09-20 13:48:37+02:00
+py/demo/app.py,mturoci,Martin Turoci,2021-12-06 13:07:19+01:00,2021-12-06 14:39:38+01:00
+py/demo/dashboard_red.py,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+py/examples/chatbot.py,mturoci,Martin Turoci,2023-03-30 14:02:16+02:00,2023-03-31 08:11:30+02:00
+py/examples/chatbot_events_stop.py,Marek Mihok,mturoci,2023-06-15 14:02:20+02:00,2023-06-16 13:20:59+02:00
+py/examples/date_picker_trigger.py,mturoci,Prithvi Prabhu,2020-10-20 10:06:06+02:00,2020-10-20 16:40:05-07:00
+py/examples/file_upload.py,mturoci,Prithvi Prabhu,2020-07-10 10:48:19-07:00,2020-07-10 15:44:57-07:00
+py/examples/form.py,mturoci,Prithvi Prabhu,2020-09-28 11:20:52-07:00,2020-09-28 14:35:56-07:00
+py/examples/form.py,Srinivas Neppalli,Prithvi Prabhu,2020-12-28 15:29:56-08:00,2020-12-29 14:40:20-08:00
+py/examples/meta_dialog_closable.py,mturoci,Prithvi Prabhu,2021-05-19 09:53:43-07:00,2021-05-19 10:10:22-07:00
+py/examples/site_async.py,Prithvi Prabhu,Srinivas Neppalli,2020-12-28 14:47:51-08:00,2020-12-28 15:29:56-08:00
+py/examples/theme_generator.py,Marek Mihok,Martin Turoci,2023-06-23 09:11:50+02:00,2023-06-23 10:39:25+02:00
+py/examples/tour.conf,Prithvi Prabhu,mturoci,2020-07-10 00:17:18-07:00,2020-07-10 10:48:19-07:00
+py/examples/tour.conf,mturoci,Prithvi Prabhu,2020-07-15 11:03:15-07:00,2020-07-16 10:33:22-07:00
+py/examples/tour.conf,Gábor Fodor,Prithvi Prabhu,2020-08-17 09:12:46-07:00,2020-08-17 09:13:50-07:00
+py/examples/tour.conf,Gábor Fodor,mturoci,2020-09-18 09:19:45-07:00,2020-09-18 17:46:03-07:00
+py/examples/tour.conf,Prithvi Prabhu,mturoci,2020-09-22 18:47:09-07:00,2020-09-23 08:10:31-07:00
+py/examples/tour.conf,mturoci,Prithvi Prabhu,2020-09-23 08:10:31-07:00,2020-09-23 12:05:33-07:00
+py/examples/tour.conf,mturoci,Prithvi Prabhu,2020-09-28 11:20:52-07:00,2020-09-28 14:35:56-07:00
+py/examples/tour.conf,Prithvi Prabhu,Srinivas Neppalli,2020-09-28 14:35:56-07:00,2020-09-28 22:39:27-07:00
+py/examples/tour.conf,mturoci,Prithvi Prabhu,2020-10-20 10:41:20+02:00,2020-10-20 16:40:05-07:00
+py/examples/tour.conf,Michelle Tanco,Prithvi Prabhu,2021-01-15 13:44:18-08:00,2021-01-16 10:53:09-08:00
+py/examples/tour.conf,mturoci,Prithvi Prabhu,2021-09-17 11:55:54+02:00,2021-09-17 18:18:41-07:00
+py/examples/tour.conf,elp,mturoci,2022-02-16 19:04:06-08:00,2022-02-17 09:47:28+01:00
+py/examples/tour.conf,mturoci,Marek Mihok,2022-03-31 09:11:03+02:00,2022-03-31 09:43:55+02:00
+py/examples/tour.conf,mturoci,Marek Mihok,2022-04-05 09:52:30+02:00,2022-04-05 11:38:48+02:00
+py/examples/tour.py,Prithvi Prabhu,mturoci,2021-04-30 16:30:36-07:00,2021-05-01 10:40:28-07:00
+py/h2o_lightwave/h2o_lightwave/types.py,Martin Turoci,Marek Mihok,2023-06-09 10:34:39+02:00,2023-06-09 14:25:26+02:00
+py/h2o_lightwave/h2o_lightwave/ui.py,Martin Turoci,Marek Mihok,2023-06-09 10:34:39+02:00,2023-06-09 14:25:26+02:00
+py/h2o_lightwave/setup.py,mturoci,elp,2023-02-24 12:26:30+01:00,2023-02-24 09:54:41-08:00
+py/h2o_lightwave_web/setup.py,mturoci,elp,2023-02-24 12:26:30+01:00,2023-02-24 09:54:41-08:00
+py/h2o_q/types.py,Prithvi Prabhu,mturoci,2020-08-06 21:42:22-07:00,2020-08-07 09:10:12-07:00
+py/h2o_q/types.py,Prithvi Prabhu,mturoci,2020-08-20 16:58:43-07:00,2020-08-21 10:16:26-07:00
+py/h2o_q/types.py,Prithvi Prabhu,Peter Szabó,2020-09-22 00:28:36-07:00,2020-09-22 12:51:40-07:00
+py/h2o_q/types.py,Peter Szabó,Prithvi Prabhu,2020-09-22 12:51:40-07:00,2020-09-22 18:47:09-07:00
+py/h2o_q/types.py,Prithvi Prabhu,mturoci,2020-09-22 18:47:09-07:00,2020-09-23 08:10:31-07:00
+py/h2o_q/types.py,mturoci,Prithvi Prabhu,2020-09-23 08:10:31-07:00,2020-09-23 08:41:38-07:00
+py/h2o_q/ui.py,Prithvi Prabhu,mturoci,2020-08-06 21:42:22-07:00,2020-08-07 09:10:12-07:00
+py/h2o_q/ui.py,Prithvi Prabhu,mturoci,2020-08-20 16:58:43-07:00,2020-08-21 10:16:26-07:00
+py/h2o_q/ui.py,Prithvi Prabhu,Peter Szabó,2020-09-22 00:28:36-07:00,2020-09-22 12:51:40-07:00
+py/h2o_q/ui.py,Peter Szabó,Prithvi Prabhu,2020-09-22 12:51:40-07:00,2020-09-22 18:47:09-07:00
+py/h2o_q/ui.py,Prithvi Prabhu,mturoci,2020-09-22 18:47:09-07:00,2020-09-23 08:10:31-07:00
+py/h2o_q/ui.py,mturoci,Prithvi Prabhu,2020-09-23 08:10:31-07:00,2020-09-23 08:41:38-07:00
+py/h2o_wave/__init__.py,lo5,Prithvi Prabhu,2020-10-25 11:17:58-07:00,2020-10-25 14:20:47-07:00
+py/h2o_wave/cli.py,mturoci,lo5,2021-12-14 12:52:08+01:00,2021-12-14 16:16:21-08:00
+py/h2o_wave/cli.py,TrellixVulnTeam,mturoci,2022-11-03 09:39:15+01:00,2022-11-03 13:33:03+01:00
+py/h2o_wave/cli.py,Martin Turoci,mturoci,2023-02-20 13:53:23+01:00,2023-02-21 10:10:56+01:00
+py/h2o_wave/core.py,lo5,Prithvi Prabhu,2020-10-25 11:17:58-07:00,2020-10-25 12:03:39-07:00
+py/h2o_wave/h2o_wave/cli.py,Martin Turóci,Martin Turoci,2023-09-06 10:11:17+02:00,2023-09-06 14:28:50+02:00
+py/h2o_wave/h2o_wave/types.py,Martin Turoci,Marek Mihok,2023-06-09 10:34:39+02:00,2023-06-09 14:25:26+02:00
+py/h2o_wave/h2o_wave/ui.py,Martin Turoci,Marek Mihok,2023-06-09 10:34:39+02:00,2023-06-09 14:25:26+02:00
+py/h2o_wave/server.py,lo5,Prithvi Prabhu,2020-10-25 11:17:58-07:00,2020-10-25 12:03:39-07:00
+py/h2o_wave/server.py,Prithvi Prabhu,Peter Szabó,2020-11-24 00:26:57-08:00,2020-11-24 16:59:03-08:00
+py/h2o_wave/types.py,Peter Szabó,mturoci,2020-10-19 11:22:45-07:00,2020-10-20 10:06:06+02:00
+py/h2o_wave/types.py,mturoci,Prithvi Prabhu,2020-10-20 13:52:26-07:00,2020-10-20 16:40:05-07:00
+py/h2o_wave/types.py,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 18:09:33-08:00
+py/h2o_wave/types.py,Prithvi Prabhu,mturoci,2020-11-24 00:28:26-08:00,2020-11-24 18:44:14-08:00
+py/h2o_wave/types.py,mturoci,Prithvi Prabhu,2021-02-08 08:37:09-08:00,2021-02-08 08:37:56-08:00
+py/h2o_wave/types.py,Prithvi Prabhu,mturoci,2021-04-29 20:39:39-07:00,2021-04-29 21:13:13-07:00
+py/h2o_wave/types.py,mturoci,Prithvi Prabhu,2021-04-29 21:13:13-07:00,2021-04-30 14:03:46-07:00
+py/h2o_wave/types.py,mturoci,Martin Turoci,2021-09-07 08:37:56+02:00,2021-09-08 07:09:32+02:00
+py/h2o_wave/types.py,Alexandre Alencar,mturoci,2021-10-20 11:13:43+02:00,2021-10-21 09:51:06+02:00
+py/h2o_wave/types.py,elp,mturoci,2022-02-16 19:04:06-08:00,2022-02-17 09:47:28+01:00
+py/h2o_wave/types.py,mturoci,Marek Mihok,2022-03-31 09:11:03+02:00,2022-03-31 09:43:55+02:00
+py/h2o_wave/types.py,Alexandre Alencar,Marek Mihok,2022-04-19 11:04:38+02:00,2022-04-20 10:47:26+02:00
+py/h2o_wave/types.py,Marek Mihok,Alexandre Alencar,2022-04-20 10:47:26+02:00,2022-04-20 10:50:33+02:00
+py/h2o_wave/types.py,Alexandre Alencar,Marek Mihok,2022-04-20 10:50:33+02:00,2022-04-20 15:52:59+02:00
+py/h2o_wave/types.py,mturoci,Alexandre Alencar,2022-05-24 08:54:53+02:00,2022-05-24 09:13:10+02:00
+py/h2o_wave/types.py,Pooja Kulkarni,mturoci,2022-11-03 09:33:20+01:00,2022-11-03 13:58:38+01:00
+py/h2o_wave/types.py,Colton Van Voorhis,Nicolas Ettlin,2022-12-12 09:15:40+01:00,2022-12-12 09:17:43+01:00
+py/h2o_wave/types.py,mturoci,Yashwanth Krishna,2023-01-13 10:55:31+01:00,2023-01-13 11:42:29+01:00
+py/h2o_wave/ui.py,Peter Szabó,mturoci,2020-10-19 11:22:45-07:00,2020-10-20 10:06:06+02:00
+py/h2o_wave/ui.py,mturoci,Prithvi Prabhu,2020-10-20 13:52:26-07:00,2020-10-20 16:40:05-07:00
+py/h2o_wave/ui.py,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 18:09:33-08:00
+py/h2o_wave/ui.py,Prithvi Prabhu,mturoci,2020-11-24 00:28:26-08:00,2020-11-24 18:44:14-08:00
+py/h2o_wave/ui.py,mturoci,Prithvi Prabhu,2020-11-26 09:40:41-08:00,2020-11-26 10:24:36-08:00
+py/h2o_wave/ui.py,mturoci,Prithvi Prabhu,2021-02-08 08:37:09-08:00,2021-02-08 08:37:56-08:00
+py/h2o_wave/ui.py,Prithvi Prabhu,mturoci,2021-04-29 20:39:39-07:00,2021-04-29 21:13:13-07:00
+py/h2o_wave/ui.py,mturoci,Prithvi Prabhu,2021-04-29 21:13:13-07:00,2021-04-30 14:03:46-07:00
+py/h2o_wave/ui.py,mturoci,Martin Turoci,2021-09-07 08:37:56+02:00,2021-09-08 07:09:32+02:00
+py/h2o_wave/ui.py,Alexandre Alencar,mturoci,2021-10-20 11:13:43+02:00,2021-10-21 09:51:06+02:00
+py/h2o_wave/ui.py,elp,mturoci,2022-02-16 19:04:06-08:00,2022-02-17 09:47:28+01:00
+py/h2o_wave/ui.py,mturoci,Marek Mihok,2022-03-31 09:11:03+02:00,2022-03-31 09:43:55+02:00
+py/h2o_wave/ui.py,Alexandre Alencar,Marek Mihok,2022-04-19 11:04:38+02:00,2022-04-20 10:47:26+02:00
+py/h2o_wave/ui.py,Marek Mihok,Alexandre Alencar,2022-04-20 10:47:26+02:00,2022-04-20 10:50:33+02:00
+py/h2o_wave/ui.py,Alexandre Alencar,Marek Mihok,2022-04-20 10:50:33+02:00,2022-04-20 15:52:59+02:00
+py/h2o_wave/ui.py,mturoci,Alexandre Alencar,2022-05-24 08:54:53+02:00,2022-05-24 09:13:10+02:00
+py/h2o_wave/ui.py,Pooja Kulkarni,mturoci,2022-11-03 09:33:20+01:00,2022-11-03 13:58:38+01:00
+py/h2o_wave/ui.py,Colton Van Voorhis,Nicolas Ettlin,2022-12-12 09:15:40+01:00,2022-12-12 09:17:43+01:00
+py/h2o_wave/ui.py,mturoci,Yashwanth Krishna,2023-01-13 10:55:31+01:00,2023-01-13 11:42:29+01:00
+py/setup.py,mturoci,Martin Turoci,2021-12-14 12:52:08+01:00,2021-12-14 18:34:18+01:00
+py/telesync/types.py,mturoci,Prithvi Prabhu,2020-07-15 11:03:15-07:00,2020-07-15 13:39:21-07:00
+py/telesync/ui.py,mturoci,Prithvi Prabhu,2020-07-15 11:03:15-07:00,2020-07-15 13:39:21-07:00
+py/tests/test_python_server.py,Martin Turoci,mturoci,2022-08-17 14:49:51+02:00,2022-08-18 08:45:11+02:00
+py/tests/test_python_server.py,mturoci,Martin Turoci,2022-08-18 10:06:29+02:00,2022-08-18 14:59:37+02:00
+py/tests/test_routing.py,Martin Turóci,Martin Turoci,2023-09-19 11:00:07+02:00,2023-09-20 10:14:34+02:00
+r/Makefile,Martin Turoci,mturoci,2022-07-14 13:33:06+02:00,2022-07-15 11:30:06+02:00
+r/R/ui.R,mturoci,Prithvi Prabhu,2020-09-03 07:15:05+02:00,2020-09-03 17:42:34-07:00
+r/R/ui.R,Prithvi Prabhu,Peter Szabó,2020-09-22 00:28:36-07:00,2020-09-22 12:51:40-07:00
+r/R/ui.R,Peter Szabó,Prithvi Prabhu,2020-09-22 12:51:40-07:00,2020-09-22 18:47:09-07:00
+r/R/ui.R,Prithvi Prabhu,mturoci,2020-09-22 18:47:09-07:00,2020-09-23 08:10:31-07:00
+r/R/ui.R,mturoci,Prithvi Prabhu,2020-09-23 08:10:31-07:00,2020-09-23 08:41:38-07:00
+r/R/ui.R,Peter Szabó,mturoci,2020-10-19 11:22:45-07:00,2020-10-20 10:06:06+02:00
+r/R/ui.R,mturoci,Prithvi Prabhu,2020-10-20 13:52:26-07:00,2020-10-20 17:12:18-07:00
+r/R/ui.R,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 18:09:33-08:00
+r/R/ui.R,Prithvi Prabhu,mturoci,2020-11-24 00:28:26-08:00,2020-11-24 18:44:14-08:00
+r/R/ui.R,mturoci,Prithvi Prabhu,2020-11-26 09:40:41-08:00,2020-11-26 10:24:36-08:00
+r/R/ui.R,mturoci,Prithvi Prabhu,2021-02-08 08:37:09-08:00,2021-02-08 08:37:56-08:00
+r/R/ui.R,Prithvi Prabhu,Ashrith Barthur,2021-04-14 16:09:56-07:00,2021-04-14 19:42:57-07:00
+r/R/ui.R,mturoci,Ashrith Barthur,2021-04-19 17:59:41-07:00,2021-04-20 08:47:56-07:00
+r/R/ui.R,Prithvi Prabhu,mturoci,2021-04-29 20:39:39-07:00,2021-04-29 21:13:13-07:00
+r/R/ui.R,mturoci,Prithvi Prabhu,2021-04-29 21:13:13-07:00,2021-04-30 14:03:46-07:00
+r/R/ui.R,mturoci,Martin Turoci,2021-09-07 08:37:56+02:00,2021-09-08 07:09:32+02:00
+r/R/ui.R,Alexandre Alencar,mturoci,2021-10-20 11:13:43+02:00,2021-10-21 09:51:06+02:00
+r/R/ui.R,elp,mturoci,2022-02-16 19:04:06-08:00,2022-02-17 09:47:28+01:00
+r/R/ui.R,mturoci,Marek Mihok,2022-03-31 09:11:03+02:00,2022-03-31 09:43:55+02:00
+r/R/ui.R,Alexandre Alencar,Marek Mihok,2022-04-19 11:04:38+02:00,2022-04-20 10:47:26+02:00
+r/R/ui.R,Marek Mihok,Alexandre Alencar,2022-04-20 10:47:26+02:00,2022-04-20 10:50:33+02:00
+r/R/ui.R,Alexandre Alencar,Marek Mihok,2022-04-20 10:50:33+02:00,2022-04-20 15:52:59+02:00
+r/R/ui.R,Pooja Kulkarni,mturoci,2022-11-03 09:33:20+01:00,2022-11-03 13:58:38+01:00
+r/R/ui.R,Colton Van Voorhis,Nicolas Ettlin,2022-12-12 09:15:40+01:00,2022-12-12 09:17:43+01:00
+r/R/ui.R,mturoci,Yashwanth Krishna,2023-01-13 10:55:31+01:00,2023-01-13 11:42:29+01:00
+r/R/ui.R,Martin Turoci,Marek Mihok,2023-06-09 10:34:39+02:00,2023-06-09 14:25:26+02:00
+server.go,lo5,Prithvi Prabhu,2020-10-25 11:17:58-07:00,2020-10-25 14:19:26-07:00
+setup.ps1,MattiasOz,Martin Turoci,2023-09-20 13:34:29+02:00,2023-09-20 13:48:37+02:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,elp,mturoci,2022-02-16 19:04:06-08:00,2022-02-17 09:47:28+01:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,mturoci,Marek Mihok,2022-03-31 09:11:03+02:00,2022-03-31 09:43:55+02:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,Alexandre Alencar,Marek Mihok,2022-04-19 11:04:38+02:00,2022-04-20 10:47:26+02:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,Marek Mihok,Alexandre Alencar,2022-04-20 10:47:26+02:00,2022-04-20 10:50:33+02:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,Alexandre Alencar,Marek Mihok,2022-04-20 10:50:33+02:00,2022-04-20 15:52:59+02:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,Pooja Kulkarni,mturoci,2022-11-03 09:33:20+01:00,2022-11-03 13:58:38+01:00
+tools/intellij-plugin/src/main/resources/templates/wave-components.xml,Colton Van Voorhis,Nicolas Ettlin,2022-12-12 09:15:40+01:00,2022-12-12 09:17:43+01:00
+tools/vscode-extension/component-snippets.json,elp,mturoci,2022-02-16 19:04:06-08:00,2022-02-17 09:47:28+01:00
+tools/vscode-extension/component-snippets.json,mturoci,Marek Mihok,2022-03-31 09:11:03+02:00,2022-03-31 09:43:55+02:00
+tools/vscode-extension/component-snippets.json,Alexandre Alencar,Marek Mihok,2022-04-19 11:04:38+02:00,2022-04-20 10:47:26+02:00
+tools/vscode-extension/component-snippets.json,Marek Mihok,Alexandre Alencar,2022-04-20 10:47:26+02:00,2022-04-20 10:50:33+02:00
+tools/vscode-extension/component-snippets.json,Alexandre Alencar,Marek Mihok,2022-04-20 10:50:33+02:00,2022-04-20 15:52:59+02:00
+tools/vscode-extension/component-snippets.json,Pooja Kulkarni,mturoci,2022-11-03 09:33:20+01:00,2022-11-03 13:58:38+01:00
+tools/vscode-extension/component-snippets.json,Colton Van Voorhis,Nicolas Ettlin,2022-12-12 09:15:40+01:00,2022-12-12 09:17:43+01:00
+tools/wavegen/src/wavegen.ts,Prithvi Prabhu,Ashrith Barthur,2021-03-24 15:09:24-07:00,2021-03-24 18:53:43-07:00
+ts/index.ts,Martin Turoci,Martin Turóci,2023-06-23 10:39:25+02:00,2023-06-23 15:09:51+02:00
+ts/package.json,mturoci,Martin Turoci,2023-06-16 13:20:59+02:00,2023-06-16 13:31:21+02:00
+ui/package.json,Alexandre Alencar,Martin Turoci,2021-11-03 14:24:28+01:00,2021-11-04 08:42:59+01:00
+ui/package.json,Martin Turoci,lo5,2021-11-04 08:42:59+01:00,2021-11-04 20:11:04-07:00
+ui/src/app.tsx,mturoci,Prithvi Prabhu,2020-07-03 15:17:46-07:00,2020-07-03 16:40:53-07:00
+ui/src/app.tsx,Peter Szabó,Prithvi Prabhu,2020-11-03 08:46:12-08:00,2020-11-03 09:31:26-08:00
+ui/src/app.tsx,Martin Turoci,Marek Mihok,2022-10-24 13:48:50+02:00,2022-10-24 15:01:08+02:00
+ui/src/breadcrumbs.tsx,mturoci,Prithvi Prabhu,2021-01-20 13:36:42-08:00,2021-01-20 15:42:12-08:00
+ui/src/chatbot.test.tsx,mturoci,Martin Turoci,2023-03-30 14:02:16+02:00,2023-03-31 08:11:30+02:00
+ui/src/chatbot.tsx,mturoci,Martin Turoci,2023-03-30 14:02:16+02:00,2023-03-31 08:11:30+02:00
+ui/src/chatbot.tsx,Marek Mihok,mturoci,2023-06-15 14:11:34+02:00,2023-06-16 13:20:59+02:00
+ui/src/dialog.tsx,mturoci,Prithvi Prabhu,2021-05-19 09:53:43-07:00,2021-05-19 10:09:46-07:00
+ui/src/dropdown.test.tsx,mturoci,Martin Turoci,2021-10-28 16:11:39+02:00,2021-10-29 13:33:09+02:00
+ui/src/dropdown.tsx,mturoci,Martin Turoci,2021-10-28 16:11:39+02:00,2021-10-29 13:33:09+02:00
+ui/src/file_upload.tsx,mturoci,Prithvi Prabhu,2020-07-10 10:48:19-07:00,2020-07-10 15:44:57-07:00
+ui/src/form.tsx,mturoci,Peter Szabó,2020-10-19 11:13:46-07:00,2020-10-19 11:22:45-07:00
+ui/src/form.tsx,Prithvi Prabhu,mturoci,2021-01-11 18:26:59-08:00,2021-01-12 15:46:02-08:00
+ui/src/form.tsx,mturoci,Martin Turoci,2021-10-21 13:42:22+02:00,2021-10-22 09:52:26+02:00
+ui/src/form.tsx,Martin Turoci,mturoci,2021-10-22 09:52:26+02:00,2021-10-22 10:56:56+02:00
+ui/src/header.tsx,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 16:33:30-08:00
+ui/src/image_annotator.test.tsx,mturoci,Martin Turoci,2023-03-01 08:40:38+01:00,2023-03-01 12:54:00+01:00
+ui/src/image_annotator_rect.ts,mturoci,Martin Turoci,2023-03-01 08:40:38+01:00,2023-03-01 12:54:00+01:00
+ui/src/layout.tsx,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 15:10:14-08:00
+ui/src/markdown.tsx,Prithvi Prabhu,mturoci,2021-01-11 18:25:14-08:00,2021-01-12 15:46:02-08:00
+ui/src/markdown.tsx,mturoci,Prithvi Prabhu,2021-01-12 15:46:02-08:00,2021-01-12 17:00:36-08:00
+ui/src/markdown.tsx,mturoci,Martin Turoci,2022-02-21 10:53:13+01:00,2022-02-22 08:39:38+01:00
+ui/src/nav.tsx,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 18:09:33-08:00
+ui/src/nav.tsx,Martin Turoci,mturoci,2022-04-04 09:10:29+02:00,2022-04-04 09:35:49+02:00
+ui/src/page.tsx,lo5,Prithvi Prabhu,2020-11-23 11:43:20-08:00,2020-11-23 16:28:52-08:00
+ui/src/page.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/parts/microarea.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/parts/microbars.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/parts/progress_arc.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/plot.tsx,Prithvi Prabhu,mturoci,2020-09-10 23:27:12-07:00,2020-09-11 09:56:49-07:00
+ui/src/plot.tsx,Prithvi Prabhu,mturoci,2020-11-24 00:28:26-08:00,2020-11-24 16:53:35-08:00
+ui/src/plot.tsx,Prithvi Prabhu,mturoci,2021-01-11 18:28:00-08:00,2021-01-12 15:46:02-08:00
+ui/src/plot.tsx,Marek Mihok,Martin Turoci,2023-05-11 12:01:57+02:00,2023-05-11 12:51:21+02:00
+ui/src/plot.tsx,Martin Turoci,Martin Turóci,2023-10-03 12:43:12+02:00,2023-10-04 09:12:00+02:00
+ui/src/qd.ts,Peter Szabó,Prithvi Prabhu,2020-11-03 08:46:12-08:00,2020-11-03 09:31:26-08:00
+ui/src/section.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/small_series_stat.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/table.test.tsx,Marek Mihok,mturoci,2022-04-04 15:38:22+02:00,2022-04-05 09:52:30+02:00
+ui/src/table.tsx,mturoci,Prithvi Prabhu,2020-09-23 08:10:31-07:00,2020-09-23 13:50:21-07:00
+ui/src/table.tsx,Martin Turoci,Alexandre Alencar,2022-03-08 08:46:57+01:00,2022-03-08 12:33:57+01:00
+ui/src/table.tsx,Martin Turoci,Marek Mihok,2022-04-04 12:16:18+02:00,2022-04-04 15:38:22+02:00
+ui/src/table.tsx,Marek Mihok,mturoci,2022-04-04 15:38:22+02:00,2022-04-05 09:52:30+02:00
+ui/src/table.tsx,mturoci,Marek Mihok,2022-04-05 09:52:30+02:00,2022-04-05 11:38:48+02:00
+ui/src/table.tsx,monal20,mturoci,2022-12-07 07:40:40+01:00,2022-12-07 09:59:18+01:00
+ui/src/table.tsx,mturoci,Marek Mihok,2022-12-07 09:59:18+01:00,2022-12-07 13:43:04+01:00
+ui/src/table.tsx,Martin Turoci,Marek Mihok,2023-06-09 10:34:39+02:00,2023-06-09 12:31:41+02:00
+ui/src/tall_article_preview.tsx,mturoci,Martin Turoci,2021-10-21 13:54:04+02:00,2021-10-21 15:49:51+02:00
+ui/src/tall_gauge_stat.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/tall_series_stat.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/theme.ts,mturoci,Prithvi Prabhu,2020-07-10 10:48:19-07:00,2020-07-10 15:30:08-07:00
+ui/src/vega.tsx,Prithvi Prabhu,mturoci,2021-01-11 18:28:42-08:00,2021-01-12 15:46:02-08:00
+ui/src/wide_bar_stat.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/wide_gauge_stat.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+ui/src/wide_pie_stat.test.tsx,mturoci,Martin Turoci,2021-10-12 08:47:08+02:00,2021-10-12 12:56:06+02:00
+ui/src/wide_series_stat.tsx,Martin Turoci,Prithvi Prabhu,2021-01-05 17:26:46-08:00,2021-01-05 17:26:46-08:00
+university/README.md,Martin Turoci,Martin Turóci,2023-06-27 11:30:18+02:00,2023-06-27 14:38:21+02:00
+website/blog/2021-02-12-release.md,Prithvi Prabhu,Matt Motoki,2021-02-12 16:10:19-08:00,2021-02-13 08:56:33-08:00
+website/blog/2021-04-28-R-release.md,Ashrith Barthur,Prithvi Prabhu,2021-04-28 13:36:32-07:00,2021-04-28 13:58:25-07:00
+website/blog/2021-11-05-release.md,mturoci,Martin Turoci,2021-11-08 12:45:31-08:00,2021-11-09 12:16:53+01:00
+website/blog/2021-11-10-community-content.md,Michelle Tanco,lo5,2021-11-10 12:20:00-08:00,2021-11-10 12:59:32-08:00
+website/blog/2022-01-28-release.md,mturoci,elp,2022-01-28 10:54:56-08:00,2022-01-28 12:40:25-08:00
+website/blog/2022-04-20-vscode-extension.md,mturoci,Martin Turoci,2022-04-20 10:28:30+02:00,2022-04-20 14:15:48+02:00
+website/blog/2023-02-28-release.md,mturoci,Martin Turoci,2023-03-01 08:52:08+01:00,2023-03-01 11:45:51+01:00
+website/blog/2023-10-09-release.md,Martin Turóci,Martin Turoci,2023-10-09 12:27:40+02:00,2023-10-10 09:33:54+02:00
+website/docs/_start_q.md,Prithvi Prabhu,Michelle Tanco,2020-10-15 13:17:14-07:00,2020-10-16 11:00:43-07:00
+website/docs/arguments.md,Michelle Tanco,Prithvi Prabhu,2020-10-08 18:31:11-07:00,2020-10-09 18:16:49-07:00
+website/docs/configuration.md,Martin Turóci,Martin Turoci,2023-09-12 14:00:06+02:00,2023-09-12 14:30:37+02:00
+website/docs/contributing.md,Martin Turóci,Martin Turoci,2023-06-27 14:38:21+02:00,2023-06-27 15:16:01+02:00
+website/docs/enterprise/basic-concepts.md,keznikl,Prithvi Prabhu,2020-10-22 11:30:09-07:00,2020-10-22 19:00:18-07:00
+website/docs/enterprise/developer-guide.md,keznikl,Geoffrey Duimovich,2020-10-22 21:06:01+02:00,2020-10-22 15:47:10-07:00
+website/docs/enterprise/developer-guide.md,Geoffrey Duimovich,Prithvi Prabhu,2020-10-22 15:47:10-07:00,2020-10-22 19:00:18-07:00
+website/docs/enterprise/developer-guide.md,Prithvi Prabhu,Geoffrey Duimovich,2020-10-22 19:00:18-07:00,2020-10-23 11:48:31-07:00
+website/docs/enterprise/developer-guide.md,Geoffrey Duimovich,keznikl,2020-10-23 11:48:31-07:00,2020-10-23 11:50:29-07:00
+website/docs/enterprise/developer-guide.md,keznikl,Prithvi Prabhu,2020-11-23 17:26:15-08:00,2020-11-24 16:42:08-08:00
+website/docs/examples/assets/preview-card.png,Alexandre Alencar,Martin Turoci,2021-11-30 09:26:25+01:00,2021-12-01 09:03:31+01:00
+website/docs/installation.md,Prithvi Prabhu,Michelle Tanco,2020-10-15 13:17:14-07:00,2020-10-16 10:59:29-07:00
+website/docs/tour.md,Prithvi Prabhu,Michelle Tanco,2020-10-15 13:17:14-07:00,2020-10-16 10:59:53-07:00
+website/docusaurus.config.js,mturoci,Prithvi Prabhu,2020-12-17 17:02:21-08:00,2020-12-17 17:44:34-08:00
+website/docusaurus.config.js,Prithvi Prabhu,mturoci,2021-03-19 15:55:45-07:00,2021-03-20 12:42:28-07:00
+website/docusaurus.config.js,Karan Agarwal,Martin Turoci,2022-10-05 13:00:33+02:00,2022-10-06 11:33:03+02:00
+website/sidebars.js,Prithvi Prabhu,Peter Szabó,2021-05-07 17:50:44-07:00,2021-05-07 19:22:27-07:00
+website/sidebars.js,lo5,Martin Turoci,2022-01-20 14:49:18-08:00,2022-01-21 09:02:26+01:00
+website/src/css/lightbox_styles.module.css,Marek Mihok,Martin Turoci,2022-12-12 11:06:00+01:00,2022-12-12 11:41:14+01:00
+website/static/img/discord.svg,Karan Agarwal,Martin Turoci,2022-10-05 13:00:33+02:00,2022-10-06 11:33:03+02:00
+website/static/img/github.svg,Karan Agarwal,Martin Turoci,2022-10-05 13:00:33+02:00,2022-10-06 11:33:03+02:00
+website/static/img/twitter.svg,Karan Agarwal,Martin Turoci,2022-10-05 13:00:33+02:00,2022-10-06 11:33:03+02:00
+website/widgets/ai/chatbot.md,Marek Mihok,mturoci,2023-06-15 14:02:20+02:00,2023-06-16 13:20:59+02:00

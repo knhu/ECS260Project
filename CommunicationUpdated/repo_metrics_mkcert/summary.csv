@@ -1,0 +1,73 @@
+Field,Value
+Commits Overview,
+Total Commits,165
+Total Unique Authors,41
+,
+Top 10 Contributors,
+Author,Commits
+Filippo Valsorda,499
+Adam Shannon,10
+John Downey,3
+单元源,3
+linux_china,3
+Robert Panzer,3
+Patrick Uiterwijk,2
+Ricardo Branco,2
+Ben Toews,2
+Martin Tournoij,2
+,
+Communication Events,Total: 37
+"Author1,Author2",Events
+"Filippo Valsorda,John Downey",3
+"单元源,Filippo Valsorda",3
+"John Downey,Filippo Valsorda",3
+"Filippo Valsorda,单元源",2
+"Travis Campbell,Filippo Valsorda",2
+"Filippo Valsorda,Carl Henrik Lunde",1
+"Filippo Valsorda,Adam Shannon",1
+"Filippo Valsorda,Martin Tournoij",1
+"Filippo Valsorda,James Bie",1
+"Filippo Valsorda,Pei-Tang Huang",1
+"Emilien Devos,Filippo Valsorda",1
+"Chad Retz,Filippo Valsorda",1
+"Carl Henrik Lunde,Filippo Valsorda",1
+"Herby Gillot,Omer Katz",1
+"Filippo Valsorda,commitay",1
+"Filippo Valsorda,ansemjo",1
+"James Bie,Filippo Valsorda",1
+"Martin Tournoij,Filippo Valsorda",1
+"Omer Katz,Stefan Scherer",1
+"Koen Vervloesem,Christian Rebischke",1
+"Lucas Garron,Filippo Valsorda",1
+"Ricardo Branco,Filippo Valsorda",1
+"Patrick Uiterwijk,Filippo Valsorda",1
+"Shady Sharaf,Dennis Ameling (he/him)",1
+"Robert Panzer,Filippo Valsorda",1
+"Stefan Scherer,Travis Campbell",1
+"commitay,Filippo Valsorda",1
+"fREW Schmidt,Nelson Martell",1
+"linux_china,Filippo Valsorda",1
+,
+Committer Timezone Distribution,Unique Timezones: 8
+Timezone,Commits
++01:00,25
++02:00,15
+-03:00,4
+-04:00,81
+-05:00,26
+-06:00,4
+-07:00,6
+-08:00,4
+,
+Contributors Experience,Average across 162 files: 99.02%
+File,Top Contributor Share (%)
+truststore_darwin.go,100.00
+vendor/github.com/DHowett/go-plist/.gitlab-ci.yml,100.00
+vendor/github.com/DHowett/go-plist/LICENSE,100.00
+vendor/github.com/DHowett/go-plist/README.md,100.00
+vendor/github.com/DHowett/go-plist/bplist.go,100.00
+vendor/github.com/DHowett/go-plist/bplist_generator.go,100.00
+vendor/github.com/DHowett/go-plist/bplist_parser.go,100.00
+vendor/github.com/DHowett/go-plist/decode.go,100.00
+vendor/github.com/DHowett/go-plist/doc.go,100.00
+vendor/github.com/DHowett/go-plist/encode.go,100.00

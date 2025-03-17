@@ -1,0 +1,95 @@
+Field,Value
+Commits Overview,
+Total Commits,1502
+Total Unique Authors,88
+,
+Top 10 Contributors,
+Author,Commits
+clowwindy,1138
+Syrone Wong,442
+celeron533,330
+noisyfox,289
+Student Main,255
+database64128,230
+Gang Zhuo,202
+icylogic,156
+kimw,148
+Licshee,49
+,
+Communication Events,Total: 130
+"Author1,Author2",Events
+"clowwindy,wzxjohn",16
+"wzxjohn,clowwindy",15
+"Gang Zhuo,clowwindy",9
+"Student Main,database64128",8
+"Sharuru,clowwindy",7
+"clowwindy,kimw",7
+"kimw,clowwindy",4
+"Syrone Wong,破娃酱",4
+"clowwindy,Sharuru",4
+"Gang Zhuo,kimw",4
+"破娃酱,Syrone Wong",4
+"kimw,Gang Zhuo",4
+"kookxiang,clowwindy",4
+"noisyfox,Syrone Wong",4
+"voq,celeron533",4
+"Allen Zhu,Syrone Wong",3
+"Syrone Wong,Allen Zhu",2
+"icylogic,clowwindy",2
+"Christopher Meng,clowwindy",1
+"RK,Student Main",1
+"Pink Floyd,clowwindy",1
+"Noisyfox He,Syrone Wong",1
+"Max Lv,clowwindy",1
+"Licshee,icylogic",1
+"HYec,celeron533",1
+"Beta Soft,database64128",1
+"Student Main,celeron533",1
+"clowwindy,Max Lv",1
+"clowwindy,Pink Floyd",1
+"celeron533,Student Main",1
+"clowwindy,Christopher Meng",1
+"Syrone Wong,celeron533",1
+"Stzx,Student Main",1
+"Stzx,TGSAN",1
+"Syrone Wong,Noisyfox He",1
+"Student Main,Stzx",1
+"clowwindy,mengskysama",1
+"database64128,Student Main",1
+"icylogic,Licshee",1
+"kimw,icylogic",1
+"mengskysama,wzxjohn",1
+"kingofotaku,Student Main",1
+"kxjhlele,clowwindy",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,9
++02:00,8
++03:00,6
++03:30,5
++04:30,1
++05:00,3
++06:00,2
++08:00,1256
++09:00,2
++10:00,25
++11:00,78
+-04:00,31
+-05:00,38
+-06:00,7
+-07:00,30
+-08:00,1
+,
+Contributors Experience,Average across 348 files: 85.47%
+File,Top Contributor Share (%)
+shadowsocks-csharp.sln,100.00
+shadowsocks-csharp/Form1.resx,100.00
+LICENSE,100.00
+.gitmodules,100.00
+shadowsocks-csharp/simple-json,100.00
+shadowsocks-csharp/RC4.cs,100.00
+openssl/openssl-net-0.5/ManagedOpenSsl.XML,100.00
+shadowsocks-csharp/Encrypt/RC4Encryptor.cs,100.00
+shadowsocks-csharp/Encrypt/OpenSSL.cs,100.00
+shadowsocks-csharp/PACServer.cs,100.00

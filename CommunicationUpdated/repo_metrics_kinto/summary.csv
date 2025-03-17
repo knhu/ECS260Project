@@ -1,0 +1,202 @@
+Field,Value
+Commits Overview,
+Total Commits,8814
+Total Unique Authors,148
+,
+Top 10 Contributors,
+Author,Commits
+Mathieu Leplatre,7464
+Rémy HUBSCHER,3265
+Ethan Glasser-Camp,1035
+Alexis Métaireau,843
+dependabot[bot],814
+dependabot-preview[bot],499
+pyup-bot,371
+Gabriela Surita,369
+Pascal,168
+Mathieu Agopian,140
+,
+Communication Events,Total: 1286
+"Author1,Author2",Events
+"Rémy HUBSCHER,Mathieu Leplatre",319
+"Mathieu Leplatre,Rémy HUBSCHER",273
+"Alexis Métaireau,Mathieu Leplatre",98
+"Mathieu Leplatre,Alexis Métaireau",90
+"Alexis Métaireau,Rémy HUBSCHER",43
+"Rémy HUBSCHER,Alexis Métaireau",42
+"Peter Bengtsson,Mathieu Leplatre",32
+"Ethan Glasser-Camp,Mathieu Leplatre",31
+"Mathieu Leplatre,Ethan Glasser-Camp",26
+"Gabriela Surita,Mathieu Leplatre",17
+"Gabriela Surita,Gabi Surita",12
+"Mathieu Leplatre,Gabriela Surita",11
+"Mathieu Leplatre,Tarek Ziade",10
+"Gabi Surita,Gabriela Surita",10
+"Tarek Ziade,Mathieu Leplatre",10
+"Alexis Metaireau,Mathieu Leplatre",9
+"dependabot-preview[bot],Mathieu Leplatre",8
+"Ethan Glasser-Camp,Rémy HUBSCHER",7
+"Rémy HUBSCHER,Ethan Glasser-Camp",7
+"dependabot[bot],Mathieu Leplatre",7
+"Rémy HUBSCHER,Gabriela Surita",6
+"Lavish Aggarwal,Rémy HUBSCHER",6
+"Gabriela Surita,Rémy HUBSCHER",6
+"Mathieu Leplatre,dependabot[bot]",6
+"Mathieu Leplatre,Alexis Metaireau",6
+"oak11,Rémy HUBSCHER",6
+"VarnaSuresh,Rémy HUBSCHER",5
+"Nicolas Perriault,Rémy HUBSCHER",5
+"DrFaustie,Rémy HUBSCHER",4
+"grahamalama,Graham Beckley",4
+"Rémy HUBSCHER,Alexis Metaireau",4
+"Mathieu Agopian,Rémy HUBSCHER",4
+"Ethan Glasser-Camp,pyup-bot",4
+"Rémy HUBSCHER,Eric Le Lay",3
+"Gabi Surita,Mathieu Leplatre",3
+"Tarek Ziade,Alexis Métaireau",3
+"Alexis Metaireau,Rémy HUBSCHER",3
+"Alexis Métaireau,dan phrawzty",3
+"dependabot-preview[bot],Rémy HUBSCHER",3
+"ayush sharma,Rémy HUBSCHER",3
+"ayush sharma,Mathieu Leplatre",3
+"Rémy HUBSCHER,Nicolas Perriault",3
+"Tarek Ziade,Rémy HUBSCHER",2
+"Gabriela Surita,Nicolas Perriault",2
+"Rémy HUBSCHER,Brady",2
+"hiromipaw,Mathieu Leplatre",2
+"Alexis Metaireau,Alexis Métaireau",2
+"Alexis Métaireau,Tarek Ziade",2
+"AW,Rémy HUBSCHER",2
+"Alex Cottner,Mathieu Leplatre",2
+"Alexis Métaireau,Alexis Metaireau",2
+"Alexis Métaireau,choclate",2
+"Frank Bertsch,Eugene Kulak",2
+"Ethan Glasser-Camp,Peter Bengtsson",2
+"Graham Beckley,grahamalama",2
+"Mathieu Leplatre,Peter Bengtsson",2
+"Mathieu Agopian,Mathieu Leplatre",2
+"Mathieu Leplatre,dependabot-preview[bot]",2
+"Mathieu Leplatre,pyup-bot",2
+"Peter Bengtsson,Rémy HUBSCHER",2
+"Rémy HUBSCHER,Tarek Ziade",2
+"ema,Ethan Glasser-Camp",2
+"pyup-bot,Ethan Glasser-Camp",2
+"choclate,Alexis Métaireau",2
+"pyup-bot,Rémy HUBSCHER",2
+"Rémy HUBSCHER,mozillazg",2
+"Aaron Egaas,Rémy HUBSCHER",1
+"Adam Chainz,Rémy HUBSCHER",1
+"Alex Cottner,dependabot[bot]",1
+"Eric Le Lay,Mathieu Leplatre",1
+"Dylan Staley,dependabot-preview[bot]",1
+"DrFaustie,Ethan Glasser-Camp",1
+"Dan Milgram,dependabot[bot]",1
+"Balthazar Rouberol,Rémy HUBSCHER",1
+"Alexis Métaireau,Nicolas Perriault",1
+"Julien Bouquillon,Ethan Glasser-Camp",1
+"Joshua Bird,Gabriela Surita",1
+"Lavish Aggarwal,Jelmer van der Ploeg",1
+"Kulshekhar Kabra,Rémy HUBSCHER",1
+"Gabriela Surita,Castro",1
+"Gabi Surita,mansimarkaur",1
+"Ethan Glasser-Camp,ema",1
+"Ethan Glasser-Camp,Eric Le Lay",1
+"Ethan Glasser-Camp,Jeff Schobelock",1
+"Ethan Glasser-Camp,Pascal",1
+"Oron Gola,Gabi Surita",1
+"Niraj,Rémy HUBSCHER",1
+"Nicolas Perriault,Alexis Metaireau",1
+"Michiel de Jong,Yann Klis",1
+"Mathieu Leplatre,hiromipaw",1
+"Mathieu Leplatre,Michael Charlton",1
+"Mathieu Leplatre,Taus Brock-Nannestad",1
+"Mathieu Leplatre,ayush sharma",1
+"Mathieu Leplatre,Matt Boris",1
+"Mathieu Leplatre,Alan Wong",1
+"Mathieu Leplatre,Fil",1
+"Mathieu Leplatre,Gabi Surita",1
+"Mathieu Leplatre,Huang Huang",1
+"Mathieu Leplatre,Jelmer van der Ploeg",1
+"Mathieu Leplatre,Kulshekhar Kabra",1
+"Mathieu Leplatre,Mathieu Agopian",1
+"Mathieu Agopian,Alexis Metaireau",1
+"Mathieu Leplatre,Balthazar Rouberol",1
+"Gabi Surita,Oron Gola",1
+"Fil,Rémy HUBSCHER",1
+"Francisco J. Piedrahita,Rémy HUBSCHER",1
+"Gabriela Surita,Indranil Dutta",1
+"George Smith,George",1
+"George,Pascal Roessner",1
+"George Smith,Pascal Roessner",1
+"Huang Huang,Mathieu Leplatre",1
+"Jelmer van der Ploeg,Mathieu Leplatre",1
+"Jelmer van der Ploeg,Rémy HUBSCHER",1
+"Rémy HUBSCHER,Balthazar Rouberol",1
+"Peter Rassias,Ethan Glasser-Camp",1
+"Prof Gra,Christophe Gragnic",1
+"Oron Gola,Gabriela Surita",1
+"Tarek Ziade,choclate",1
+"Rémy HUBSCHER,oak11",1
+"Sebastian Rodriguez,Rémy HUBSCHER",1
+"Surya Prashanth,Mathieu Leplatre",1
+"Rémy HUBSCHER,Lavish Aggarwal",1
+"Rémy HUBSCHER,Julien Bouquillon",1
+"Rémy HUBSCHER,Gabi Surita",1
+"Rémy HUBSCHER,Peter Bengtsson",1
+"Peter,Mathieu Leplatre",1
+"Peter,pyup-bot",1
+"Pascal,pyup-bot",1
+"Pascal Roessner,Mathieu Leplatre",1
+"Pascal,Mathieu Leplatre",1
+"adasauce,Rémy HUBSCHER",1
+"Taus Brock-Nannestad,Taus",1
+"Taus Brock-Nannestad,Mathieu Leplatre",1
+"dependabot-preview[bot],dependabot[bot]",1
+"dan phrawzty,Alexis Métaireau",1
+"choclate,Mathieu Leplatre",1
+"Taus,Mathieu Leplatre",1
+"Vamsi Sangam,Rémy HUBSCHER",1
+"heron,Heron",1
+"mozillazg,Rémy HUBSCHER",1
+"grahamalama,Mathieu Leplatre",1
+"mansimarkaur,Gabriela Surita",1
+"pyup-bot,Francisco J. Piedrahita",1
+"pyup-bot,Mathieu Leplatre",1
+"rektide,Mathieu Leplatre",1
+"renisha,Mathieu Leplatre",1
+"sunakshi96,Rémy HUBSCHER",1
+"Éric Lemoine,Alexis Metaireau",1
+"Étienne,Enguerran Colson",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,415
++01:00,3374
++02:00,3483
++03:00,29
++03:30,4
++05:30,103
++07:00,8
++08:00,40
++09:00,1
++12:00,1
+-02:00,163
+-03:00,86
+-04:00,630
+-05:00,341
+-06:00,4
+-07:00,110
+-08:00,22
+,
+Contributors Experience,Average across 924 files: 81.69%
+File,Top Contributor Share (%)
+loadtests/__init__.py,100.00
+loadtests/bench.ini,100.00
+readinglist/auth.py,100.00
+readinglist/schemas.py,100.00
+run.py,100.00
+settings.py,100.00
+readinglist/events.py,100.00
+readinglist/views.py,100.00
+readinglist/tests.py,100.00
+readinglist.ini,100.00

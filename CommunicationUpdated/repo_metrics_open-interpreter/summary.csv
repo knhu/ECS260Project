@@ -1,0 +1,161 @@
+Field,Value
+Commits Overview,
+Total Commits,3063
+Total Unique Authors,134
+,
+Top 10 Contributors,
+Author,Commits
+KillianLucas,38259
+killian,3108
+Eric allen,268
+Ty Fiero,182
+Mike Bird,125
+Anton Solbjørg,117
+CyanideByte,87
+Jordan Tucker,54
+Koissi Adjorlolo,38
+RainRat,37
+,
+Communication Events,Total: 212
+"Author1,Author2",Events
+"Ty Fiero,killian",17
+"KillianLucas,killian",10
+"Eric allen,killian",10
+"killian,Eric allen",9
+"killian,KillianLucas",8
+"killian,CyanideByte",7
+"killian,Mike Bird",6
+"killian,Anton Solbjørg",6
+"RainRat,killian",5
+"CyanideByte,killian",5
+"killian,Ty Fiero",4
+"DaveChini,killian",3
+"Anton Solbjørg,killian",3
+"killian,wsbao",3
+"Oliver Palonkorpi,Ishaan Jaff",2
+"amazingct,killian",2
+"Paul Farrington,killian",2
+"Mike Bird,killian",2
+"Thinh Nguyen,KillianLucas",2
+"birbbit,killian",2
+"Ty Fiero,Koissi Adjorlolo",2
+"CyanideByte,Sven",2
+"killian,birbbit",2
+"umayado17,killian",2
+"nirvor,KillianLucas",2
+"killian,Krrish Dholakia",2
+"wsbao,killian",2
+"killian,Freeman Wang",2
+"killian,Chris Chan",2
+"Chris Chan,Krrish Dholakia",2
+"KillianLucas,Chris Chan",2
+"Ishaan Jaff,Krrish Dholakia",2
+"Ikko Eltociear Ashimine,killian",2
+"KillianLucas,Tanmay Jain",2
+"KillianLucas,nirvor",2
+"CyanideByte,RainRat",1
+"Anton Solbjørg,Mike Bird",1
+"AndrewNgo-ini,hieu",1
+"CyanideByte,Anton Solbjørg",1
+"Chris Chan,Thinh Nguyen",1
+"Chris Chan,Tanmay Jain",1
+"Chris Chan,Oliver Palonkorpi",1
+"Ben Xu,Mike Bird",1
+"Arash Joobandi,killian",1
+"Ale,George Rey",1
+"Mathias Wulff,killian",1
+"Lucien Shui,Ben Xu",1
+"Krrish Dholakia,YUFEIFUT",1
+"Krrish Dholakia,Oliver Palonkorpi",1
+"Krrish Dholakia,Chris Chan",1
+"Koissi Adjorlolo,killian",1
+"Koissi Adjorlolo,Ty Fiero",1
+"Koissi Adjorlolo,Mike Bird",1
+"KillianLucas,Jordan Tucker",1
+"Jordan Tucker,Thinh Nguyen",1
+"Jordan Tucker,killian",1
+"KillianLucas,Feng Liang",1
+"JML,killian",1
+"Jamey Nakama,emmanuel",1
+"Jordan Tucker,Ale",1
+"Jordan Tucker,Andre Fritsche",1
+"Feng Liang,KillianLucas",1
+"Eric allen,goalkeepr",1
+"Freeman Wang,killian",1
+"George Chen,Anton Solbjørg",1
+"George Chen,Mike Bird",1
+"George Rey,killian",1
+"Anton Solbjørg,CyanideByte",1
+"Tanmay Jain,Jordan Tucker",1
+"Tanmay Jain,Thinh Nguyen",1
+"Tanmay Jain,KillianLucas",1
+"Omar Sanseviero,Harry Yep",1
+"Oliver Palonkorpi,killian",1
+"Mike Bird,George Chen",1
+"Oliver Palonkorpi,Jordan Tucker",1
+"Mike Bird,Anton Solbjørg",1
+"Michael Zdravkovski,Jordan Tucker",1
+"killian,Aakash Mahalingam",1
+"fatelei,killian",1
+"cyai,killian",1
+"codeacme17,killian",1
+"cobular,Shubham Singh",1
+"codeacme17,Oliver Palonkorpi",1
+"Ty Fiero,Mike Bird",1
+"YUFEIFUT,killian",1
+"Thinh Nguyen,David McFadzean",1
+"Tanmay Jain,killian",1
+"Paul Sinclair,killian",1
+"Shruti Patel,Shivam Singh",1
+"Steve Wang,killian",1
+"killian,Harry Yep",1
+"killian,Ikko Eltociear Ashimine",1
+"killian,Arash Joobandi",1
+"killian,RainRat",1
+"killian,Paul Sinclair",1
+"killian,Omar Sanseviero",1
+"killian,Oliver Palonkorpi",1
+"killian,Maclean Dunkin",1
+"killian,Koissi Adjorlolo",1
+"killian,Tanmay Jain",1
+"killian,codeacme17",1
+"killian,umayado17",1
+"killian,shubhe25p",1
+"killian,merlinfrombelgium",1
+"killian,leyoonafr",1
+"leyoonafr,codeacme17",1
+"killian,weihongliang233",1
+"killian,unknown",1
+"shubhe25p,killian",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,668
++01:00,99
++02:00,51
++03:00,18
++05:30,36
++05:45,2
++07:00,5
++08:00,59
++09:00,18
++10:00,2
++11:00,6
+-04:00,162
+-05:00,92
+-06:00,6
+-07:00,1282
+-08:00,557
+,
+Contributors Experience,Average across 9453 files: 99.58%
+File,Top Contributor Share (%)
+.replit,100.00
+replit.nix,100.00
+venv/bin/Activate.ps1,100.00
+venv/bin/activate,100.00
+venv/bin/activate.csh,100.00
+venv/bin/activate.fish,100.00
+venv/bin/doesitcache,100.00
+venv/bin/f2py,100.00
+venv/bin/f2py3,100.00
+venv/bin/f2py3.10,100.00

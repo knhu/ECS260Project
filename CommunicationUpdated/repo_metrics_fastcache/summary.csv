@@ -1,0 +1,42 @@
+Field,Value
+Commits Overview,
+Total Commits,66
+Total Unique Authors,11
+,
+Top 10 Contributors,
+Author,Commits
+Aliaksandr Valialkin,1458
+Artem Navoiev,5
+Koichi Shiraishi,4
+Mathijs de Bruin,3
+Martin Holst Swende,2
+Francis Stephens,2
+Jon Williams,1
+Pavel Gryaznov,1
+Hiroaki Nakamura,1
+Panmari,1
+,
+Communication Events,Total: 2
+"Author1,Author2",Events
+"Koichi Shiraishi,Aliaksandr Valialkin",1
+"Mathijs de Bruin,Aliaksandr Valialkin",1
+,
+Committer Timezone Distribution,Unique Timezones: 4
+Timezone,Commits
++02:00,47
++03:00,17
+-05:00,1
+-08:00,1
+,
+Contributors Experience,Average across 432 files: 99.80%
+File,Top Contributor Share (%)
+LICENSE,100.00
+.travis.yml,100.00
+file_timing_test.go,100.00
+malloc_heap.go,100.00
+bigcache_test.go,100.00
+bigcache_timing_test.go,100.00
+fastcache_gen_test.go,100.00
+.github/workflows/main.yml,100.00
+vendor/github.com/allegro/bigcache/.gitignore,100.00
+vendor/github.com/allegro/bigcache/.travis.yml,100.00

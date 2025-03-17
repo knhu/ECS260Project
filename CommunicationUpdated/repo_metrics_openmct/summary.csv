@@ -1,0 +1,249 @@
+Field,Value
+Commits Overview,
+Total Commits,8050
+Total Unique Authors,112
+,
+Top 10 Contributors,
+Author,Commits
+Victor Woeltjen,8978
+Charles Hacskaylo,4211
+Jesse Mazzella,3866
+Shefali Joshi,2887
+Andrew Henry,2830
+Henry,2812
+Scott Bell,2262
+Pete Richards,1648
+David Tsay,1428
+Deep Tailor,981
+,
+Communication Events,Total: 1123
+"Author1,Author2",Events
+"Joel McKinnon,Joshi",47
+"Victor Woeltjen,Charles Hacskaylo",41
+"Jesse,Victor Woeltjen",37
+"Joshi,Joel McKinnon",37
+"Joshi,Shefali Joshi",33
+"Scott Bell,David Tsay",33
+"Jamie V,Jesse Mazzella",29
+"Andrew Henry,Henry",25
+"Deep Tailor,Charles Hacskaylo",23
+"Henry,Victor Woeltjen",21
+"Henry,Andrew Henry",21
+"John Hill,dependabot[bot]",19
+"Charles Hacskaylo,Victor Woeltjen",19
+"Charles Hacskaylo,Pegah Sarram",17
+"Scott Bell,Jamie V",17
+"Andrew Henry,Joel McKinnon",17
+"Charles Hacskaylo,Shefali Joshi",17
+"dependabot[bot],John Hill",16
+"Nikhil,Shefali Joshi",15
+"Andrew Henry,Jamie V",15
+"Charles Hacskaylo,Henry",14
+"David Tsay,Shefali Joshi",13
+"Henry,Charles Hacskaylo",13
+"John Hill,Jesse Mazzella",12
+"Shefali Joshi,David Tsay",12
+"Charles Hacskaylo,Deep Tailor",12
+"Jesse Mazzella,dependabot[bot]",11
+"shale,Shivam Dave",11
+"Shefali Joshi,Joshi",11
+"Joel McKinnon,Shefali Joshi",11
+"Charles Hacskaylo,charlesh88",10
+"Shivam Dave,shale",10
+"Pegah Sarram,Deep Tailor",9
+"Deep Tailor,Andrew Henry",9
+"Victor Woeltjen,Henry",9
+"Shefali Joshi,Jesse Mazzella",9
+"Charles Hacskaylo,Joel McKinnon",8
+"Charles Hacskaylo,Andrew Henry",8
+"Dave,Shivam Dave",8
+"Pete Richards,Henry",8
+"Shivam Dave,Dave",8
+"dependabot[bot],Shefali Joshi",8
+"Shefali Joshi,Joel McKinnon",7
+"Shefali Joshi,Nikhil",7
+"Shefali Joshi,dependabot[bot]",7
+"Scott Bell,Jesse Mazzella",7
+"Nikhil,Charles Hacskaylo",7
+"Shefali Joshi,charlesh88",7
+"Shefali Joshi,Andrew Henry",7
+"Joshi,David Tsay",7
+"Deep Tailor,Pete Richards",7
+"Henry,Pete Richards",7
+"Jamie V,Nikhil",7
+"Jesse Mazzella,Shefali Joshi",6
+"DJ,Charles Hacskaylo",6
+"slhale,Charles Hacskaylo",6
+"dependabot[bot],Jesse Mazzella",6
+"Charles Hacskaylo,Pete Richards",5
+"Charles Hacskaylo,Nikhil",5
+"David Tsay,Joshi",5
+"Doubek-Kraft,Aaron Doubek-Kraft",5
+"Jamie V,Shefali Joshi",5
+"Shivam Dave,slhale",5
+"Jesse Mazzella,Michael Rogers",5
+"Jesse Mazzella,Scott Bell",5
+"Pete Richards,Victor Woeltjen",5
+"Scott Bell,Nikhil",5
+"Charles Hacskaylo,Scott Bell",4
+"Deep Tailor,Pegah Sarram",4
+"Andrew Henry,Charles Hacskaylo",4
+"dependabot[bot],Scott Bell",4
+"slhale,Shivam Dave",4
+"Pegah Sarram,Charles Hacskaylo",4
+"John Hill,Andrew Henry",4
+"David Tsay,Joel McKinnon",4
+"Andrew Henry,Nikhil",4
+"Andrew Henry,Pete Richards",4
+"Michael Rogers,Charles Hacskaylo",4
+"Joel McKinnon,Deep Tailor",4
+"Jesse Mazzella,Andrew Henry",4
+"Jesse Mazzella,David Tsay",4
+"Scott Bell,Shefali Joshi",4
+"charlesh88,Pegah Sarram",3
+"Andrew Henry,Deep Tailor",3
+"Charles Hacskaylo,Jamie V",3
+"Charles Hacskaylo,Shivam Dave",3
+"Pete Richards,Charles Hacskaylo",3
+"shale,slhale",3
+"Vikash Agrawal,Pete Richards",3
+"charlesh88,Joel McKinnon",3
+"Shivam Dave,Charles Hacskaylo",3
+"Shefali Joshi,Jamie V",3
+"Scott Bell,dependabot[bot]",3
+"Nikhil Mandlik,Joel McKinnon",3
+"Joshi,Charles Hacskaylo",3
+"Jesse Mazzella,John Hill",3
+"Jesse Mazzella,Jamie V",3
+"Joe Pea,John Hill",3
+"Nikhil,Andrew Henry",3
+"Pegah Sarram,Pete Richards",3
+"David Tsay,Charles Hacskaylo",3
+"Andrew Henry,Pegah Sarram",3
+"Charles Hacskaylo,slhale",3
+"Jesse Mazzella,Even Stensberg",3
+"Pete Richards,Andrew Henry",3
+"dependabot[bot],Joe Pea",2
+"Shivam Dave,Sarah Hale",2
+"Victor Woeltjen,Andrew Henry",2
+"Scott Bell,John Hill",2
+"dhrubomoy,Dhrubomoy Das Gupta",2
+"John Hill,David Tsay",2
+"Joel McKinnon,Nikhil Mandlik",2
+"Nikhil,Deep Tailor",2
+"Pegah Sarram,Andrew Henry",2
+"Jamie Vigliotta,Andrew Henry",2
+"John Hill,Nikhil",2
+"larkin,Pete Richards",2
+"Pete Richards,larkin",2
+"Nikhil,Jamie V",2
+"Mariusz Rosinski,Nikhil",2
+"Jamie Vigliotta,Jamie V",2
+"Jamie V,Deep Tailor",2
+"Alize Nguyen,dependabot[bot]",2
+"Charles Hacskaylo,Sarah Hale",2
+"Andrew Henry,dependabot[bot]",2
+"Charles Hacskaylo,Jesse Mazzella",2
+"Andrew Henry,Victor Woeltjen",2
+"David Tsay,Jesse Mazzella",2
+"Deep Tailor,charlesh88",2
+"larkin,Victor Woeltjen",2
+"Joe Pea,dependabot[bot]",2
+"Charles Hacskaylo,David Tsay",2
+"Adam Fahey,Jesse Mazzella",1
+"Andrew Henry,Shefali Joshi",1
+"Jamie V,David Tsay",1
+"Even Stensberg,Jesse Mazzella",1
+"Deep Tailor,Nikhil",1
+"David Tsay,John Hill",1
+"David Tsay,Scott Bell",1
+"David Tsay,Nikhil",1
+"David Tsay,Deep Tailor",1
+"David 'Epper' Marshall,Mariusz Rosinski",1
+"David Tsay,Jamie V",1
+"David Tsay,Jamie Vigliotta",1
+"David Hudson,Charles Hacskaylo",1
+"Deep Tailor,Aayush Arora (angularboy)",1
+"Dean Lofts,dependabot[bot]",1
+"Andrew Henry,Michael Rogers",1
+"Bogdan Alexandru Marginean,Alex M",1
+"David 'Epper' Marshall,David Tsay",1
+"Andrew Henry,Scott Bell",1
+"Charles Hacskaylo,Alize Nguyen",1
+"Charles Hacskaylo,David Hudson",1
+"Joel McKinnon,David Tsay",1
+"John Hill,Shefali Joshi",1
+"Joel McKinnon,Nikhil",1
+"Joel McKinnon,Andrew Henry",1
+"Joe Pea,Jamie V",1
+"Michael Rogers,John Hill",1
+"Michael Rogers,Andrew Henry",1
+"Kierstyn Just,Jamie V",1
+"Marcelo Arias,dependabot[bot]",1
+"Michael Rogers,Shefali Joshi",1
+"Michael Rogers,dependabot[bot]",1
+"Nikhil,Joshi",1
+"John Hill,Scott Bell",1
+"Pete Richards,Shivam Dave",1
+"Pete Richards,Daniel Pacak",1
+"Pegah Sarram,charlesh88",1
+"Nikhil,Michael Rogers",1
+"Nikhil,Khalid Adil",1
+"Nikhil,Scott Bell",1
+"Nikhil,John Hill",1
+"Khalid Adil,Jamie V",1
+"Sarah Hale,Shivam Dave",1
+"Sarah Hale,Dave",1
+"Shefali Joshi,John Hill",1
+"Shefali Joshi,Scott Bell",1
+"Pete Richards,charlesh88",1
+"Sarin,pacozaa",1
+"Rukmini Bose (Ruki),Shefali Joshi",1
+"Shefali Joshi,Charles Hacskaylo",1
+"Shivam Dave,Pete Richards",1
+"Shefali Joshi,Deep Tailor",1
+"dependabot[bot],Andrew Henry",1
+"dependabot[bot],Alize Nguyen",1
+"Vitor Henckel,Rukmini Bose (Ruki)",1
+"Will,Joel McKinnon",1
+"Victor Woeltjen,Pete Richards",1
+"Victor Woeltjen,slhale",1
+"Tristan F,dependabot[bot]",1
+"Victor Woeltjen,Colm Seale",1
+"charlesh88,Pete Richards",1
+"charlesh88,Joshi",1
+"dependabot[bot],Rukmini Bose (Ruki)",1
+"dependabot[bot],Marcelo Arias",1
+"pacozaa,Andrew Henry",1
+"larkin,Charles Hacskaylo",1
+,
+Committer Timezone Distribution,Unique Timezones: 15
+Timezone,Commits
++00:00,387
++01:00,56
++02:00,39
++03:00,47
++04:00,2
++05:30,1
++07:00,9
++09:00,60
++11:00,2
+-03:00,2
+-04:00,36
+-05:00,36
+-06:00,15
+-07:00,4539
+-08:00,2819
+,
+Contributors Experience,Average across 3762 files: 76.81%
+File,Top Contributor Share (%)
+platform/persistence/README.md,100.00
+platform/framework/lib/require.js,100.00
+platform/framework/test/lib/blanket.js,100.00
+platform/framework/test/lib/blanket_jasmine.js,100.00
+platform/framework/test/lib/console-runner.js,100.00
+platform/framework/test/lib/css/jasmine.css,100.00
+platform/framework/test/lib/css/test.css,100.00
+platform/framework/test/lib/jasmine-blanket.js,100.00
+platform/framework/test/lib/jasmine-html.js,100.00
+platform/framework/test/lib/jasmine.js,100.00

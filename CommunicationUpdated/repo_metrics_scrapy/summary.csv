@@ -1,0 +1,325 @@
+Field,Value
+Commits Overview,
+Total Commits,10754
+Total Unique Authors,701
+,
+Top 10 Contributors,
+Author,Commits
+Pablo Hoffman,5812
+Andrey Rakhmatullin,2725
+Daniel Grana,1627
+Adrián Chaves,1407
+Eugenio Lacuesta,1273
+Daniel Graña,996
+Mikhail Korobov,839
+Julia Medina,672
+Ismael Carnales,643
+Paul Tremberth,562
+,
+Communication Events,Total: 702
+"Author1,Author2",Events
+"Ismael Carnales,Pablo Hoffman",50
+"Daniel Grana,Pablo Hoffman",42
+"Pablo Hoffman,Daniel Grana",37
+"Pablo Hoffman,Ismael Carnales",26
+"Andrey Rakhmatullin,Jalil SA",20
+"Adrián Chaves,Andrey Rakhmatullin",19
+"Vsevolod Breus,Andrey Rakhmatullin",13
+"elpolilla,Pablo Hoffman",12
+"Andrey Rakhmatullin,Laerte Pereira",11
+"Pablo Hoffman,elpolilla",10
+"Andrey Rakhmatullin,Adrián Chaves",9
+"Daniel Graña,Mikhail Korobov",9
+"Mikhail Korobov,Daniel Graña",8
+"elpolilla,samus_",8
+"Daniel Grana,Ismael Carnales",8
+"samus_,elpolilla",8
+"Adrián Chaves,Matthew Donoughe",7
+"Pablo Hoffman,Daniel Graña",7
+"olveyra,Pablo Hoffman",7
+"Marc Hernández,Marc Hernandez Cabot",6
+"Shadab Zafar,Mikhail Korobov",6
+"Ammar Najjar,nyov",6
+"Andrey Rahmatullin,Emmanuel Rondan",6
+"Ammar Najjar,Adrián Chaves",5
+"pankaj1707k,Adrián Chaves",5
+"Andrey Rahmatullin,Andrey Rakhmatullin",5
+"Daniel Graña,Pablo Hoffman",5
+"Pablo Hoffman,olveyra",5
+"Adrián Chaves,Ammar Najjar",5
+"Andrey Rakhmatullin,Andrey Rahmatullin",4
+"Daniel Graña,Alexey Bezhan",4
+"samus_,Pablo Hoffman",4
+"Bernardas,Paul Tremberth",4
+"Elias Dorneles,Daniel Graña",4
+"Júlio César Batista,Victor Torres",4
+"Adrián Chaves,Emmanuel Rondan",4
+"Mikhail Korobov,Vostretsov Nikita",4
+"Ismael Carnales,Daniel Grana",4
+"watsta,Eugenio Lacuesta",3
+"Paul Tremberth,Daniel Graña",3
+"Martin Olveyra,Pablo Hoffman",3
+"Roy Healy,Roy",3
+"Pablo Hoffman,samus_",3
+"D R Siddhartha,Türkalp Burak KAYRANCIOĞLU",3
+"Capi Etheriel,Daniel Graña",3
+"nyov,Eugenio Lacuesta",3
+"Aditya,Adrián Chaves",3
+"Rolando Espinoza,Paul Tremberth",3
+"Paul Tremberth,Valdir Stumm Jr",3
+"Andrey Rakhmatullin,Klaus Rettinghaus",3
+"Mikhail Korobov,Paul Tremberth",3
+"Eugenio Lacuesta,Adrián Chaves",3
+"Elias Dorneles,Valdir Stumm Junior",3
+"Darshan Chaudhary,darshanime",3
+"Valdir Stumm Junior,Elias Dorneles",3
+"Valdir Stumm Jr,Paul Tremberth",3
+"nyov,Gregory Vigo Torres",2
+"nyov,Mikhail Korobov",2
+"elacuesta,Eugenio Lacuesta",2
+"Ammar Najjar,Eugenio Lacuesta",2
+"samus_,Daniel Grana",2
+"paul,Daniel Graña",2
+"dfdeshom,Pablo Hoffman",2
+"agusc,Daniel Graña",2
+"Artem Bogomyagkov,Daniel Graña",2
+"Beng Hee Eu,Daniel Graña",2
+"Zuhao Wan,Pablo Hoffman",2
+"kirankoduru,Kiran Koduru",2
+"Adrián Chaves,Mabel Villalba",2
+"Adrián Chaves,Jalil SA",2
+"Shadab Zafar,Julia Medina",2
+"Rafał Gutkowski,Mikhail Korobov",2
+"Raphael Wuillemier,testingcan",2
+"Pablo Hoffman,Alex Cepoi",2
+"Paul Tremberth,Mikhail Korobov",2
+"Vostretsov Nikita,Lucy Wang",2
+"Daniel Grana,Daniel Graña",2
+"Daniel Grana,Andres Moreira",2
+"Mateusz Golewski,Julia Medina",2
+"Eugenio Lacuesta,elacuesta",2
+"Ezequiel Rivero,Ismael Carnales",2
+"Mikhail Korobov,Elias Dorneles",2
+"Eugenio Lacuesta,Aditya",2
+"Deepanshu,Deepanshu verma",2
+"Laerte Pereira,Andrey Rakhmatullin",2
+"Daniel Graña,Paul Tremberth",2
+"Eugenio Lacuesta,Paul Tremberth",2
+"Jalil SA,Cj Malone",2
+"Marc Hernández,Adrián Chaves",2
+"Jakob de Maeyer,Daniel Graña",2
+"vinayak,Adrián Chaves",2
+"Adrián Chaves,Andrey Rahmatullin",2
+"Adrián Chaves,Alex",2
+"Aditya,adityaa30",2
+"Alex,Jalil SA",1
+"Alex,Andrey Rakhmatullin",1
+"Alex,Adrián Chaves",1
+"Akshay Sharma,Marc Hernandez Cabot",1
+"Akhil Lb,Mikhail Korobov",1
+"Ajay Mittur,Adrián Chaves",1
+"Adrián Chaves,kenshi kikuchi",1
+"Adrián Chaves,elacuesta",1
+"Adrián Chaves,anubhav",1
+"Adrián Chaves,WinterComes",1
+"Adrián Chaves,Vostretsov Nikita",1
+"nramirezuy,Pablo Hoffman",1
+"ncp1113,Mikhail Korobov",1
+"namelessGonbai,jazzthief",1
+"mikolaje,nyov",1
+"umair ansari,databender",1
+"tpeng,Adrián Chaves",1
+"testingcan,Raphael Wuillemier",1
+"stray-leone,Daniel Graña",1
+"spav,silviopavanetto",1
+"silviopavanetto,Adrián Chaves",1
+"scraperdragon,Dragon Dave",1
+"Aditya,Eugenio Lacuesta",1
+"Eugenio Lacuesta,Marc Hernández",1
+"Eugenio Lacuesta,Júlio César Batista",1
+"Eugenio Lacuesta,Antonio Gordillo Toledo",1
+"Konstantin Lopuhin,Elias Dorneles",1
+"Júlio César Batista,Eugenio Lacuesta",1
+"Julia Medina,Victoria Terenina (torymur)",1
+"Julia Medina,Pablo Hoffman",1
+"Julia Medina,Elias Dorneles",1
+"Julia Medina,Daniel Graña",1
+"Julia Medina,Alexander Sibiryakov",1
+"Juan Pablo Balarini,JP Balarini",1
+"Jonas Brunsgaard,Pablo Hoffman",1
+"Johanan Idicula,Andrey Rahmatullin",1
+"Jalil SA,Alex",1
+"Jakob de Maeyer,Daniel Grana",1
+"Iván de Prado,Eugenio Lacuesta",1
+"Marc Hernández,Andrey Rakhmatullin",1
+"Marc Hernández,Andrey Rahmatullin",1
+"Marc Hernandez Cabot,Vostretsov Nikita",1
+"Marc Hernandez Cabot,Adrián Chaves",1
+"Maram Sumanth,kasun Herath",1
+"Maram Sumanth,Eugenio Lacuesta",1
+"Maram Sumanth,Anubhav Patel",1
+"Lucy Wang,Daniel Graña",1
+"Lucian Ursu,Daniel Grana",1
+"Laerte Pereira,noon",1
+"Laerte Pereira,Kevin Lloyd Bernal",1
+"Daniel Graña,alexanderlukanin13",1
+"Iván de Prado,Ammar Najjar",1
+"Iván de Prado,Adrián Chaves",1
+"Irhine,Mikhail Korobov",1
+"Hoat Le,hoatle",1
+"Henrique Coura,Daniel Graña",1
+"GeorgeA92,P. Chen",1
+"Felix Yan,Mikhail Korobov",1
+"Felix Yan,Daniel Graña",1
+"Laerte Pereira,Jalil SA",1
+"Kshitij Sharma,Adrián Chaves",1
+"Konstantin Lopuhin,Raul Gallegos",1
+"Nikolaos-Digenis Karagiannis,Pablo Hoffman",1
+"MrMenezes,Erick",1
+"Mikhail Korobov,nyov",1
+"Mikhail Korobov,Shadab Zafar",1
+"Mikhail Korobov,Faisal Anees",1
+"Mikhail Korobov,Artur Gaspar",1
+"Michael Fladischer,Paul Tremberth",1
+"Matthijs Vos,Adrián Chaves",1
+"Craig Rodrigues,Paul Tremberth",1
+"Chuan Jin,Paul Tremberth",1
+"Capi Etheriel,Elias Dorneles",1
+"Capi Etheriel,Edwin O Marshall",1
+"Eugenio Lacuesta,Andrey Rakhmatullin",1
+"Erik Kemperman,Adrián Chaves",1
+"Erick,Paul Tremberth",1
+"Derek,Abdul Rauf",1
+"Deepanshu verma,Adrián Chaves",1
+"Daniel Graña,ncp1113",1
+"Martin Santos,Pablo Hoffman",1
+"Paul Tremberth,Elias Dorneles",1
+"Pablo Hoffman,Steven Almeroth",1
+"Pablo Hoffman,Shane Evans",1
+"Pablo Hoffman,Nicolás Ramírez",1
+"Pablo Hoffman,Kevin Yap",1
+"P. Chen,GeorgeA92",1
+"P. Chen,Eugenio Lacuesta",1
+"Nuno Maximiano,nramirezuy",1
+"Roy Healy,Adrián Chaves",1
+"Roy,Roy Healy",1
+"Rolando Espinoza La fuente,Julia Medina",1
+"Rolando Espinoza La fuente,Daniel Graña",1
+"Robin,Adrián Chaves",1
+"Reza (Milad) Maanijou,Adrián Chaves",1
+"Raul Gallegos,Konstantin Lopuhin",1
+"Raphael Tomé Santana,raphaelts3",1
+"Andrey Rakhmatullin,Marc Hernández",1
+"Daniel Graña,Lucian Ursu",1
+"Daniel Graña,Capi Etheriel",1
+"Daniel Grana,pablo",1
+"Daniel Grana,eduardo",1
+"Daniel Grana,dgrana",1
+"Daniel Grana,daniel",1
+"Pawel Miech,pawelmhm",1
+"Pawel Miech,Paul Tremberth",1
+"Yegor,jazzthief",1
+"WinterComes,drs-11",1
+"Wieland Hoffmann,Julia Medina",1
+"Vostretsov Nikita,Mikhail Korobov",1
+"Vostretsov Nikita,Júlio César Batista",1
+"Valdir Stumm Junior,Wayne Lovely",1
+"Türkalp Burak KAYRANCIOĞLU,Marlena Chatzigrigoriou",1
+"Türkalp Burak KAYRANCIOĞLU,Eugenio Lacuesta",1
+"Shadab Zafar,Mateusz Golewski",1
+"Shadab Zafar,Daniel Graña",1
+"dgrana,Pablo Hoffman",1
+"databender,umair ansari",1
+"daniel,Daniel Grana",1
+"bulat,Bulat Khabibullin",1
+"bosnj,Nikolaos-Digenis Karagiannis",1
+"bagratte,rajathkumarmp",1
+"artem,Daniel Grana",1
+"anibal,olveyra",1
+"anibal,Ezequiel Rivero",1
+"aisha-partha,Adrián Chaves",1
+"Alexey Vishnevsky,Daniel Graña",1
+"Alexandr N Zamaraev (aka tonal),Pablo Hoffman",1
+"Alexander Sibiryakov,Julia Medina",1
+"Alex Cepoi,Daniel Graña",1
+"Bulat Khabibullin,bulat",1
+"BroodingKangaroo,Adrián Chaves",1
+"Boris Zabolotskikh,Abhishek K M",1
+"Bo Pace,bopace",1
+"Aryan,Adrián Chaves",1
+"Andrés Moreira,Pablo Hoffman",1
+"Andrés Moreira,Daniel Graña",1
+"Andrey Rakhmatullin,Rohit Kumar Singh",1
+"adityaa30,Eugenio Lacuesta",1
+"Zoltán Szeredi,Mikhail Korobov",1
+"Yuri H. Galvao,Adrián Chaves",1
+"mattkohl-flex,Adrián Chaves",1
+"maranqz,Ammar Najjar",1
+"kenshi kikuchi,namelessGonbai",1
+"kenshi kikuchi,jazzthief",1
+"irgmedeiros,Loren Davie",1
+"elpolilla,Ismael Carnales",1
+"elpolilla,Daniel Grana",1
+"elpolilla,Andres Moreira",1
+"elacuesta,sakshamb2113",1
+"Adrián Chaves,MaliCN",1
+"Adrián Chaves,BroodingKangaroo",1
+"Andrey Rakhmatullin,Grammy Jiang",1
+"Andrey Rakhmatullin,Bagaudin Magomedov",1
+"Andrey Rakhmatullin,Ammar Najjar",1
+"Andrey Rahmatullin,Maxime Nannan",1
+"Ammar Najjar,maranqz",1
+"elacuesta,Adrián Chaves",1
+"eduardo,Daniel Grana",1
+"djunzu,Aron Bordin",1
+"pablo,Pablo Hoffman",1
+"pablo,Daniel Grana",1
+"olveyra,elpolilla",1
+"olveyra,anibal",1
+"nyov,Luar Roji",1
+"nyov,Daniel Graña",1
+"nyov,Artur Shellunts",1
+"Νικόλαος-Διγενής Καραγιάννης,Paul Tremberth",1
+"rajathkumarmp,bagratte",1
+"purvaudai,Adrián Chaves",1
+"Adrián Chaves,Eugenio Lacuesta",1
+,
+Committer Timezone Distribution,Unique Timezones: 24
+Timezone,Commits
++00:00,1289
++01:00,1077
++02:00,967
++03:00,401
++03:30,2
++04:00,333
++04:30,10
++05:00,1383
++05:30,292
++06:00,187
++06:30,1
++07:00,40
++08:00,109
++09:00,35
++10:00,12
++11:00,5
++12:00,1
+-02:00,807
+-03:00,3180
+-04:00,126
+-05:00,120
+-06:00,52
+-07:00,159
+-08:00,166
+,
+Contributors Experience,Average across 2078 files: 81.80%
+File,Top Contributor Share (%)
+.hgignore,100.00
+sites/scrapy.org/site/README,100.00
+sites/scrapy.org/site/apps/article/models.py,100.00
+sites/scrapy.org/site/apps/article/templatetags/article_tags.py,100.00
+sites/scrapy.org/site/apps/article/urls.py,100.00
+sites/scrapy.org/site/apps/article/views.py,100.00
+sites/scrapy.org/site/apps/blog/feeds.py,100.00
+sites/scrapy.org/site/apps/blog/models.py,100.00
+sites/scrapy.org/site/apps/blog/templatetags/lastblogentry.py,100.00
+sites/scrapy.org/site/apps/blog/urls.py,100.00

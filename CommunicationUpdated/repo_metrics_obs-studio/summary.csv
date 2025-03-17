@@ -1,0 +1,673 @@
+Field,Value
+Commits Overview,
+Total Commits,14790
+Total Unique Authors,736
+,
+Top 10 Contributors,
+Author,Commits
+jp9000,13611
+Gol-D-Ace,6847
+Translation Updater,6462
+PatTheMav,3732
+dodgepong,1870
+jpark37,1748
+derrod,1600
+tytan652,1565
+Ryan Foster,1512
+gxalpha,891
+,
+Communication Events,Total: 1595
+"Author1,Author2",Events
+"jp9000,Palana",49
+"Palana,jp9000",43
+"BtbN,jp9000",30
+"jp9000,BtbN",25
+"Warchamp7,Richard Stanway",24
+"Warchamp7,Ryan Foster",18
+"jpark37,jp9000",17
+"Clayton Groeneveld,jp9000",16
+"fryshorts,jp9000",13
+"cg2121,jp9000",13
+"jp9000,cg2121",13
+"Norihiro Kamae,tytan652",13
+"jp9000,VodBox",12
+"derrod,gxalpha",12
+"jp9000,jpark37",12
+"Peter SZTANOJEV,jp9000",11
+"jp9000,Kurt Kartaltepe",11
+"jp9000,Clayton Groeneveld",10
+"Matt Gajownik,jp9000",10
+"derrod,Richard Stanway",10
+"Lain,tt2468",9
+"jp9000,Richard Stanway",9
+"Richard Stanway,jp9000",8
+"Clayton Groeneveld,cg2121",8
+"cg2121,gxalpha",8
+"Norihiro Kamae,cg2121",8
+"gxalpha,cg2121",8
+"derrod,jp9000",8
+"cg2121,Ryan Foster",8
+"gxalpha,Clayton Groeneveld",8
+"gxalpha,jp9000",7
+"jp9000,fryshorts",7
+"derrod,tytan652",7
+"Gol-D-Ace,jp9000",7
+"PatTheMav,gxalpha",7
+"Richard Stanway,derrod",7
+"martell,jp9000",7
+"jp9000,Zachary Lund",7
+"gxalpha,derrod",7
+"gxalpha,PatTheMav",7
+"columbarius,Georges Basile Stavracas Neto",7
+"pkv,Colin Edwards",7
+"Clayton Groeneveld,derrod",6
+"jp9000,Ryan Foster",6
+"derrod,Ryan Foster",6
+"jp9000,Exeldro",6
+"Clayton Groeneveld,Matt Gajownik",6
+"Ruwen Hahn,tytan652",6
+"Matt Gajownik,cg2121",6
+"cg2121,Jim",6
+"Ryan Foster,cg2121",6
+"Ryan Foster,derrod",6
+"Ryan Foster,Translation Updater",6
+"VodBox,jp9000",6
+"Georges Basile Stavracas Neto,columbarius",6
+"Jim,jp9000",6
+"PatTheMav,Ryan Foster",6
+"Matt Gajownik,Clayton Groeneveld",5
+"Georges Basile Stavracas Neto,Wim Taymans",5
+"jp9000,Matt Gajownik",5
+"BtbN,Palana",5
+"gxalpha,tytan652",5
+"derrod,Clayton Groeneveld",5
+"gxalpha,Matt Gajownik",5
+"Clayton Groeneveld,Exeldro",5
+"tytan652,derrod",5
+"tt2468,SCG82",5
+"Alex Anderson,jp9000",5
+"Matt Gajownik,gxalpha",5
+"Jim,Gale",5
+"John Bradley,Ruwen Hahn",5
+"Socapex,jp9000",5
+"cg2121,Georges Basile Stavracas Neto",5
+"cg2121,田七不甜",5
+"Ryan Foster,jp9000",5
+"Warchamp7,gxalpha",5
+"Warchamp7,cg2121",5
+"pkv,derrod",4
+"pkviet,cg2121",4
+"kc5nra,John Bradley",4
+"jpark37,tytan652",4
+"derrod,pkv",4
+"jp9000,Christoph Hohmann",4
+"jp9000,Shaolin",4
+"jp9000,GoaLitiuM",4
+"jp9000,Socapex",4
+"jpark37,Norihiro Kamae",4
+"Richard Stanway,gxalpha",4
+"Ruwen Hahn,Alex Luccisano",4
+"Zachary Lund,jp9000",4
+"cg2121,dennis",4
+"cg2121,Matt Gajownik",4
+"Ryan Foster,PatTheMav",4
+"Suman Manjunath,Ryan Foster",4
+"Warchamp7,tytan652",4
+"Wim Taymans,Georges Basile Stavracas Neto",4
+"Warchamp7,Matt Gajownik",4
+"PatTheMav,Norihiro Kamae",4
+"Matt Gajownik,Ryan Foster",4
+"Matt Gajownik,Translation Updater",4
+"Dossy Shiobara,jp9000",4
+"GoaLitiuM,jp9000",4
+"Norihiro Kamae,gxalpha",4
+"Michael Fabian Dirks,jp9000",4
+"Matt Gajownik,jpark37",4
+"Lain,gxalpha",4
+"Matt Gajownik,PatTheMav",4
+"Gale,Yuriy Chumak",4
+"Gale,derrod",4
+"Gol-D-Ace,Colin Edwards",4
+"Joe Flateau,VodBox",4
+"tytan652,PatTheMav",4
+"tytan652,Ryan Foster",4
+"Carl Fürstenberg,jp9000",3
+"BtbN,Zachary Lund",3
+"jp9000,tt2468",3
+"jpark37,gxalpha",3
+"jp9000,derrod",3
+"Kurt Kartaltepe,tytan652",3
+"jp9000,James Park",3
+"jp9000,HomeWorld",3
+"jp9000,Faeez Kadiri",3
+"jp9000,Michael Fabian Dirks",3
+"Kurt Kartaltepe,Ryan Foster",3
+"jp9000,adray",3
+"Lain,cg2121",3
+"jp9000,gxalpha",3
+"jp9000,SuslikV",3
+"Jim,Yuriy Chumak",3
+"jpark37,PatTheMav",3
+"Ryan Foster,gxalpha",3
+"cmlin2,brittneysclark",3
+"PatTheMav,tytan652",3
+"Exeldro,cg2121",3
+"Exeldro,Lain",3
+"Colin Edwards,jp9000",3
+"Colin Edwards,Ryan Foster",3
+"VodBox,Warchamp7",3
+"Quinn Damerell,jp9000",3
+"Ruwen Hahn,John Bradley",3
+"Andrew Francis,Ruwen Hahn",3
+"Antti Tapaninen,gxalpha",3
+"pkv,jpark37",3
+"derrod,Exeldro",3
+"Clayton Groeneveld,VodBox",3
+"Developer-Ecosystem-Engineering,PatTheMav",3
+"Palana,BtbN",3
+"PatTheMav,Colin Edwards",3
+"Colin Edwards,PatTheMav",3
+"derrod,Norihiro Kamae",3
+"derrod,Jim",3
+"Matt Gajownik,derrod",3
+"Matthieu Cunzi,jp9000",3
+"Clayton Groeneveld,gxalpha",3
+"CodeYan01,gxalpha",3
+"derrod,Warchamp7",3
+"derrod,cg2121",3
+"gxalpha,Chip Bradford",3
+"geekenmd,iamflorencejay",3
+"jp9000,Bl00drav3n",3
+"Gale,Jim",3
+"Ford Smith,jp9000",3
+"Grant Likely,Jonathan Baecker",3
+"SuslikV,jp9000",3
+"Ryan Foster,pkv",3
+"Andrei Nistor,jp9000",3
+"gxalpha,pkv",2
+"Joshua Rowe,Andrew Surzhynskyi",2
+"Clayton Groeneveld,Colin Edwards",2
+"Clayton Groeneveld,Mike",2
+"jp9000,Matthieu Cunzi",2
+"Mark Sergienko,SCG82",2
+"Matt Gajownik,Kurt Kartaltepe",2
+"John Bowers,JoHn BoWeRs",2
+"Lain,derrod",2
+"jp9000,Timo R",2
+"jp9000,jw0z96",2
+"jp9000,John Bradley",2
+"jp9000,Jonathan Baecker",2
+"jpark37,Richard Stanway",2
+"John Bradley,kc5nra",2
+"John Bradley,jp9000",2
+"tlivegaming,karenkim-AfreecaTV",2
+"redcrazyheart,AntowaStrong",2
+"Gol-D-Ace,Chris",2
+"Chip Bradford,tytan652",2
+"pongraczgabor87,Adit Sharda",2
+"tytan652,Lain",2
+"tududweb,jp9000",2
+"pkv,Jim",2
+"mntone,jp9000",2
+"karenkim-AfreecaTV,chirenonsteem",2
+"jp9000,pkv",2
+"jpark37,Chris",2
+"jpark37,Clayton Groeneveld",2
+"Bongalive,derrod",2
+"gxalpha,mvji",2
+"jp9000,Jim",2
+"jp9000,Ford Smith",2
+"CodeYan01,jpark37",2
+"gxalpha,jpark37",2
+"derrod,Yuriy Chumak",2
+"Clayton Groeneveld,jpark37",2
+"Clayton Groeneveld,Chris Angelico",2
+"Christoph Hohmann,cg2121",2
+"Colin Edwards,Gol-D-Ace",2
+"derrod,tt2468",2
+"davids,Paul Hindt",2
+"Mike,jp9000",2
+"Michel,jp9000",2
+"Michel,Makeenon",2
+"Len,Michael Gillett",2
+"Matt Gajownik,tytan652",2
+"Matt Gajownik,Vainock",2
+"Matt Gajownik,VodBox",2
+"jp9000,Alex Anderson",2
+"iamflorencejay,Developer",2
+"derrod,Tommy Vercetti",2
+"gxalpha,Warchamp7",2
+"gxalpha,Vainock",2
+"gxalpha,Norihiro Kamae",2
+"gxalpha,Developer-Ecosystem-Engineering",2
+"guangong7628,Clayton Groeneveld",2
+"jbpratt78,tlivegaming",2
+"jake-shomer,Wahaj Dar",2
+"gxalpha,tt2468",2
+"Igor Bochkariov,tytan652",2
+"cg2121,tytan652",2
+"cg2121,derrod",2
+"Developer-Ecosystem-Engineering,gxalpha",2
+"Developer-Ecosystem-Engineering,AuroraWright",2
+"David Plappert,Guang Zhou",2
+"Developer,jp9000",2
+"PatTheMav,Chip Bradford",2
+"Danni,jp9000",2
+"cg2121,PatTheMav",2
+"Georges Basile Stavracas Neto,tytan652",2
+"Eric Laberge,jpark37",2
+"Gol-D-Ace,Aydin Akan",2
+"derrod,PatTheMav",2
+"craftwar,jpark37",2
+"fryshorts,Ziemas",2
+"derrod,Clayton Groenveld",2
+"Yuriy Chumak,derrod",2
+"Yuriy Chumak,Norihiro Kamae",2
+"WuLongyue,Ramjivan Jangid",2
+"Weikardzaena,jp9000",2
+"Warchamp7,jp9000",2
+"Georges Basile Stavracas Neto,shiina424",2
+"VodBox,Clayton Groeneveld",2
+"Yuriy Chumak,gxalpha",2
+"Patrick Ancillotti,Ryan Foster",2
+"Norihiro Kamae,pkv",2
+"Zachary Lund,Palana",2
+"chirenonsteem,derrod",2
+"Ziemas,fryshorts",2
+"cg2121,Christoph Hohmann",2
+"cg2121,Igor Bochkariov",2
+"PatTheMav,Richard Stanway",2
+"Wahaj Dar,Tristan Matthews",2
+"Wahaj Dar,tlivegaming",2
+"Warchamp7,derrod",2
+"Tobias Speicher,Sherwin Dapito",2
+"Radzaquiel,Gol-D-Ace",2
+"Ramjivan Jangid,Bart F",2
+"PatTheMav,Matt Gajownik",2
+"Wahaj Dar,Akihiko Koizuka",2
+"Sherwin Dapito,WuLongyue",2
+"Tristan Matthews,derrod",2
+"Penwywern,Ryan Foster",2
+"Torge Matthies,Kurt Kartaltepe",2
+"Paul Hindt,davids",2
+"Richard Stanway,jpark37",2
+"Robin Hielscher,Richard Stanway",2
+"Roman Huts,jpark37",2
+"Ruwen Hahn,Dennis Sädtler",2
+"Sean DuBois,gxalpha",2
+"Sean DuBois,Colin Edwards",2
+"Ryan Sullivan,Gol-D-Ace",2
+"SoftArch,Richard Stanway",2
+"Andrew Surzhynskyi,pkuznetsov",2
+"Anton Bershanskiy,Exeldro",2
+"Ryan Foster,Clayton Groeneveld",2
+"Anthony Torres,Clayton Groeneveld",2
+"pkv,tytan652",2
+"pkviet,Shaolin",2
+"vasuais,Ryan Foster",2
+"wangshaohui,jp9000",2
+"田七不甜,derrod",2
+"Adit Sharda,Wahaj Dar",2
+"Alex Luccisano,Ryan Foster",2
+"tytan652,Translation Updater",1
+"田七不甜,tytan652",1
+"Albert,Ryan Foster",1
+"Alex Luccisano,Dennis Sädtler",1
+"Gol-D-Ace,Radzaquiel",1
+"Gol-D-Ace,derrod",1
+"tt2468,derrod",1
+"tt2468,gxalpha",1
+"tt2468,jp9000",1
+"tt2468,tytan652",1
+"tytan652,Clayton Groeneveld",1
+"tytan652,Matt Gajownik",1
+"Alex Kosenko,Service Checker",1
+"Alexander Schittler,jeremiah",1
+"Alexandre Vicenzi,jp9000",1
+"Amin Shayan,Ying Yin",1
+"sergey,Willy Liu(HQ ENG)",1
+"shiina424,derrod",1
+"shiina424,gxalpha",1
+"stopforumspam,Matt Gajownik",1
+"Tim Cooper,gxalpha",1
+"Ryan Foster,tytan652",1
+"SCG82,Adrián Pardini",1
+"Scratch,hgonomeg",1
+"Sean DuBois,cg2121",1
+"Serge Martial Nguetta,Jonathan",1
+"Seung-Woo Kim,jp9000",1
+"Shaolin,Igor Bochkariov",1
+"Shaolin,Tjienta Vara",1
+"Shaolin,VodBox",1
+"Ruwen Hahn,Richard Stanway",1
+"Ruwen Hahn,derrod",1
+"Ryan Foster,Chris",1
+"Ryan Foster,Len",1
+"Ryan Foster,Matt Gajownik",1
+"Ryan Foster,Mico Häsänen",1
+"Vadim Zhukov,Ka Ho Ng",1
+"Vainock,Chris",1
+"Vainock,Ruwen Hahn",1
+"Vainock,jp9000",1
+"Vainock,tytan652",1
+"Vainock,wangshaohui",1
+"Shaolin,pkviet",1
+"Simon,jp9000",1
+"SoftArch,Clayton Groeneveld",1
+"Stripchat,Albert",1
+"SuslikV,pkviet",1
+"Take Vos,mape",1
+"Taylor Blau,Gol-D-Ace",1
+"Theodore Dubois,PatTheMav",1
+"Thomas Müller,David Plappert",1
+"Thomas Müller,lucha",1
+"Colin Edwards,Richard Stanway",1
+"Colin Edwards,Stéphane Cottin",1
+"Colin Edwards,derrod",1
+"Ryan Foster,Vainock",1
+"Richard Stanway,cg2121",1
+"Richard Stanway,pkv",1
+"Richard Stanway,tytan652",1
+"Rob Howell,Ryan Foster",1
+"Robert Wittams,PatTheMav",1
+"Robert de Bock,jp9000",1
+"Rodney,derrod",1
+"Roman Huts,cg2121",1
+"Roman Sivriver,Hayden McAfee",1
+"Programatic,Scratch",1
+"Translation Updater,Ryan Foster",1
+"Tristan Matthews,James Park",1
+"Warchamp7,Clayton Groeneveld",1
+"Warchamp7,VodBox",1
+"Timo R,BtbN",1
+"Tjienta Vara,jp9000",1
+"Tom Lynch,Matt Gajownik",1
+"Tommy Vercetti,Mike",1
+"Tophicles,Stripchat",1
+"Exeldro,derrod",1
+"Exeldro,gxalpha",1
+"Exeldro,jp9000",1
+"Exeldro,tytan652",1
+"Fazrad Karkhani,Alcaros",1
+"Ford Smith,Clayton Groeneveld",1
+"Ford Smith,Exeldro",1
+"Ford Smith,Ryan Foster",1
+"Colin Edwards,Peter Eszlari",1
+"Yvo,jp9000",1
+"Zachary Lund,BtbN",1
+"Rat,Matt Gajownik",1
+"Regan Black,Tophicles",1
+"Richard Stanway,Jim",1
+"Richard Stanway,Kurt Kartaltepe",1
+"Richard Stanway,Matt Gajownik",1
+"Richard Stanway,Palana",1
+"Richard Stanway,Shaolin",1
+"Richard Stanway,Tommy Vercetti",1
+"Richard Stanway,Yuriy Chumak",1
+"PatTheMav,Kurt Kartaltepe",1
+"PatTheMav,Lain",1
+"PatTheMav,Patrick Heyer",1
+"VodBox,Matt Gajownik",1
+"VodBox,Mike",1
+"PatTheMav,jpark37",1
+"PatTheMav,pkv",1
+"PatTheMav,田七不甜",1
+"Paul Hindt,Norihiro Kamae",1
+"Norihiro Kamae,jpark37",1
+"Norihiro Kamae,univrsal",1
+"OvchinnikovDmitrii,Richard Stanway",1
+"Georges Basile Stavracas Neto,Jan Beich",1
+"Georges Basile Stavracas Neto,Kurt Kartaltepe",1
+"cg2121,Kurt Kartaltepe",1
+"Warren Turkal,Colin Edwards",1
+"Willy Liu(HQ ENG),Richard Stanway",1
+"Yuriy Chumak,Jeremy Woertink",1
+"Yuriy Chumak,PatTheMav",1
+"Yuriy Chumak,jp9000",1
+"Yuriy Chumak,tt2468",1
+"Clayton Groeneveld,Mike So",1
+"Clayton Groeneveld,Norihiro Kamae",1
+"Clayton Groeneveld,Peter Geis",1
+"Clayton Groeneveld,SCG82",1
+"cg2121,mvji",1
+"clone1018,Hernán",1
+"Zachary Lund,Jake Probst",1
+"Zachary Lund,Ján Mlynek",1
+"akapar,Colin Edwards",1
+"benklett,BtbN",1
+"bin,Richard Stanway",1
+"bl,jp9000",1
+"bla,jp9000",1
+"cg2121,Clayton Groeneveld",1
+"PatTheMav,Programatic",1
+"PatTheMav,derrod",1
+"cg2121,VodBox",1
+"Colin Edwards,jpark37",1
+"GoaLitiuM,Kris Moore",1
+"GoaLitiuM,fryshorts",1
+"Doug Kelly,jp9000",1
+"E Jikan,Lain",1
+"Eric Bataille,jp9000",1
+"Exeldro,Clayton Groeneveld",1
+"OvchinnikovDmitrii,Vainock",1
+"OvchinnikovDmitrii,tytan652",1
+"Palana,Anry",1
+"Palana,GoaLitiuM",1
+"Palana,Matthew McNamara",1
+"Colin Edwards,pkv",1
+"Copy Liu,jp9000",1
+"Delta,VodBox",1
+"Cody Jung,Matt Gajownik",1
+"Christoph Hohmann,Tjienta Vara",1
+"Christoph Hohmann,jp9000",1
+"Clayton Groeneveld,Alex Anderson",1
+"Clayton Groeneveld,Andrew Tropin",1
+"derrod,jpark37",1
+"fefine,Artem Merkulov",1
+"fryshorts,Azat Khasanshin",1
+"columbarius,tytan652",1
+"dennis,Alexandre Vicenzi",1
+"dennis,jp9000",1
+"derrod,Alex Luccisano",1
+"derrod,Lain",1
+"derrod,Michael Fabian Dirks",1
+"cg2121,Shaolin",1
+"cg2121,SuslikV",1
+"LightcastMediaCloud,Len",1
+"LightcastMediaCloud,Ryan Foster",1
+"Lionheart Zhang,jp9000",1
+"Lordmau5,Georges Basile Stavracas Neto",1
+"PatTheMav,Jim",1
+"Michael Fabian Dirks,Richard Stanway",1
+"Michael Fabian Dirks,derrod",1
+"Mike,Anthony Torres",1
+"Mike,Kurt Kartaltepe",1
+"Murnux,Shaolin",1
+"Norihiro Kamae,Lain",1
+"Norihiro Kamae,Matt Gajownik",1
+"Norihiro Kamae,Paul Hindt",1
+"Norihiro Kamae,Ryan Foster",1
+"Norihiro Kamae,Vainock",1
+"Norihiro Kamae,derrod",1
+"gxalpha,田七不甜",1
+"iamflorencejay,jp9000",1
+"jcm,gxalpha",1
+"jp9000,Anton Bershanskiy",1
+"jp9000,Avital Yachin",1
+"jp9000,Blackhive",1
+"gxalpha,Jimi Huotari",1
+"gxalpha,Ryan Foster",1
+"derrod,bin",1
+"Clayton Groenveld,jp9000",1
+"Matt Gajownik,Warchamp7",1
+"Matt Gajownik,columbarius",1
+"Matt Gajownik,pkv",1
+"Matthew McNamara,Ján Mlynek",1
+"Michael Fabian Dirks,Dmitry Odintsov",1
+"Lain,tytan652",1
+"jp9000,DungFu",1
+"jp9000,Eric Lindvall",1
+"jp9000,Gol-D-Ace",1
+"jp9000,Ilya Melamed",1
+"Gol-D-Ace,pkv",1
+"Hector Martin,jp9000",1
+"Igor Bochkariov,jp9000",1
+"Ilya Melamed,derrod",1
+"James Hurley,derrod",1
+"James Park,Anthony Torres",1
+"Jim,Lain",1
+"Frank Löffler,jpark37",1
+"Gale, Thy-Lan,Kurt Kartaltepe",1
+"Lucian Poston,jp9000",1
+"Luke Yelavich,tytan652",1
+"Makeenon,jp9000",1
+"Clayton Groeneveld,Gol-D-Ace",1
+"Clayton Groeneveld,Grant Likely",1
+"Clayton Groeneveld,James Park",1
+"Clayton Groeneveld,John Boiles",1
+"Azat Khasanshin,jp9000",1
+"Ben Stahl,Andrew Surzhynskyi",1
+"Benjamin Schubert,derrod",1
+"Bennik2000,Clayton Groeneveld",1
+"Blackhive,HomeWorld",1
+"Bob van de Vijver,Mike",1
+"jp9000,Lucian Poston",1
+"jp9000,Mark Sergienko",1
+"jp9000,Maya Venkatraman",1
+"jp9000,Colin Edwards",1
+"jp9000,Copy Liu",1
+"jp9000,Danni",1
+"jp9000,Joan Miquel Fuster",1
+"jp9000,Joel Bethke",1
+"jp9000,Lexsus",1
+"Clayton Groeneveld,Christopher P Yarger",1
+"Marc Chambers,jp9000",1
+"Matt Gajownik,Cody Jung",1
+"Matt Gajownik,Mike",1
+"John R. Bradley,jp9000",1
+"Jonathan,Dead133",1
+"Kasin Sparks,tt2468",1
+"Kevin Deng,Regan Black",1
+"Kurt Kartaltepe,Barnabás Pőcze",1
+"Kurt Kartaltepe,Exeldro",1
+"Kurt Kartaltepe,Georges Basile Stavracas Neto",1
+"Kurt Kartaltepe,Richard Stanway",1
+"Clayton Groeneveld,Ford Smith",1
+"jpark37,Lain",1
+"jpark37,Matthieu Cunzi",1
+"Lain,David Rosca",1
+"Jim,derrod",1
+"Jim,gxalpha",1
+"Jim,pkv",1
+"Jimi Huotari,derrod",1
+"JoHn BoWeRs,John Bowers",1
+"Joan Miquel Fuster,Maya Venkatraman",1
+"Joel Bethke,Shaolin",1
+"Johann Garces,Christian Lockley",1
+"John Bradley,John R. Bradley",1
+"jp9000,Vainock",1
+"jp9000,benklett",1
+"jp9000,bla",1
+"jp9000,craftwar",1
+"jpark37,derrod",1
+"jpark37,tt2468",1
+"jpark37,wangshaohui",1
+"juvester,Colin Edwards",1
+"juvester,Gol-D-Ace",1
+"juvester,jp9000",1
+"jw0z96,jp9000",1
+"lucha,David Plappert",1
+"luz.paz,Exeldro",1
+"jp9000,mntone",1
+"jp9000,nkmerrill",1
+"jp9000,pkviet",1
+"jp9000,praveenkumar",1
+"jp9000,tytan652",1
+"jp9000,vokama",1
+"jpark37,Daniel Escoz",1
+"sunjingzhao,jp9000",1
+"test,Exeldro",1
+"tlivegaming,jpark37",1
+"luz.paz,Matt Gajownik",1
+"mape,jp9000",1
+"martell,Bl00drav3n",1
+"mntone,adocilesloth",1
+"nico,Philipp Bauer",1
+"pkv,Kurt Kartaltepe",1
+"pkv,Norihiro Kamae",1
+"pkv,Richard Stanway",1
+"pkv,Roman Huts",1
+"pkv,Ryan Foster",1
+"pkv,Yuriy Chumak",1
+"jpark37,Warchamp7",1
+"jpark37,cg2121",1
+"wpstream,Be1erafon",1
+"tt2468,Clayton Groeneveld",1
+"tt2468,Jeremy Woertink",1
+"tt2468,John Bradley",1
+"tt2468,Kasin Sparks",1
+"Caitlin Potter,jp9000",1
+"CarrotCodes,Ryan Foster",1
+"Chip Bradford,cg2121",1
+"Chip Bradford,derrod",1
+"Alex Anderson,James Park",1
+"tytan652,Warchamp7",1
+"tytan652,cg2121",1
+"tytan652,gxalpha",1
+"tytan652,jpark37",1
+"sergey,Richard Stanway",1
+"Gol-D-Ace,Clayton Groeneveld",1
+"Ryan Foster,Ruwen Hahn",1
+"Ryan Foster,Sean DuBois",1
+"AuroraWright,PatTheMav",1
+"Andrew Tropin,VodBox",1
+"Anry,jp9000",1
+"Anton Bershanskiy,Clayton Groeneveld",1
+"Anton Bershanskiy,Peter ""Marenthyu"" Fredebold",1
+"Aleks Todorov,gxalpha",1
+"pkviet,Joel Bethke",1
+"pkviet,craftwar",1
+"Andreas Reischuck,jp9000",1
+"tytan652,pkv",1
+"tytan652,田七不甜",1
+"wang-bin,Colin Edwards",1
+"wangshaohui,Kurt Kartaltepe",1
+"wanhongqing,jpark37",1
+,
+Committer Timezone Distribution,Unique Timezones: 22
+Timezone,Commits
++00:00,56
++01:00,871
++02:00,1410
++03:00,68
++03:30,1
++04:00,4
++04:30,3
++05:00,2
++07:00,2
++08:00,34
++09:00,28
++10:00,201
++11:00,224
++12:00,24
++13:00,36
+-02:00,9
+-03:00,351
+-04:00,1201
+-05:00,826
+-06:00,454
+-07:00,6299
+-08:00,2686
+,
+Contributors Experience,Average across 7767 files: 88.07%
+File,Top Contributor Share (%)
+build/.gitignore,100.00
+config.mak,100.00
+libobs-d3d11/GS_D3D11Exports.h,100.00
+libobs-d3d11/GS_D3D11IndexBuffer.cpp,100.00
+libobs-d3d11/GS_D3D11SamplerState.cpp,100.00
+libobs-d3d11/GS_D3D11Shader.cpp,100.00
+libobs-d3d11/GS_D3D11ShaderProcessor.cpp,100.00
+libobs-d3d11/GS_D3D11ShaderProcessor.hpp,100.00
+libobs-d3d11/GS_D3D11StageSurf.cpp,100.00
+libobs-d3d11/GS_D3D11SubSystem.cpp,100.00

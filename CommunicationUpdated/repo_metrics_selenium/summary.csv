@@ -1,0 +1,858 @@
+Field,Value
+Commits Overview,
+Total Commits,32713
+Total Unique Authors,942
+,
+Top 10 Contributors,
+Author,Commits
+Simon M Stewart,38788
+Jim Evans,32399
+Simon Stewart,20531
+Jason Leyba,14568
+Alexei Barantsev,11985
+Dan Fabulich,10129
+Jari Bakken,8587
+Luke Inman-Semerau,6649
+Daniel Wagner-Hall,6183
+Diego Molina,5203
+,
+Communication Events,Total: 3931
+"Author1,Author2",Events
+"Darrell DeBoer,Dan Fabulich",396
+"Alexei Barantsev,Simon Stewart",152
+"Simon Stewart,Alexei Barantsev",99
+"Jason Lebya,Simon M Stewart",90
+"Simon M Stewart,Eran Mes",65
+"Simon M Stewart,Daniel Wagner-Hall",63
+"Daniel Wagner-Hall,Simon M Stewart",60
+"Selenium CI Bot,Diego Molina",51
+"Eran Mes,Simon M Stewart",49
+"Boni García,Boni Garcia",49
+"Aslak Hellesoy,Darrell DeBoer",46
+"Puja Jagani,Diego Molina",43
+"Simon M Stewart,Jim Evans",42
+"Simon K,symonk",41
+"Jim Evans,Simon M Stewart",35
+"Dan Fabulich,Nelson Sproul",32
+"Long Ly,Jim Evans",30
+"Andreas Tolfsen,titusfortner",30
+"Dounia Berrada,Daniel Wagner-Hall",29
+"Rajendra kadam,Simon Stewart",29
+"Simon Stewart,Puja Jagani",29
+"Kristian Rosenvold,Simon M Stewart",29
+"Puja Jagani,Simon Stewart",28
+"Simon M Stewart,Jason Lebya",28
+"Boni Garcia,Boni García",27
+"Alexei Barantsev,Jim Evans",26
+"Diego Molina,Puja Jagani",25
+"titusfortner,Titus Fortner",23
+"titusfortner,Diego Molina",22
+"Jari Bakken,Simon M Stewart",22
+"Eran Mes,Daniel Wagner-Hall",22
+"Titus Fortner,titusfortner",22
+"Diego Molina,Alexei Barantsev",21
+"Daniel Wagner-Hall,Jim Evans",21
+"Nelson Sproul,Dan Fabulich",20
+"Luke Inman-Semerau,Simon Stewart",20
+"Titus,Simon Mavi Stewart",20
+"Diego Molina,titusfortner",19
+"Mike Williams,Jeff Xiong",18
+"Simon Stewart,Diego Molina",18
+"Titus Fortner,Alex Rodionov",17
+"Rajendra Kadam,Simon Stewart",15
+"Mike Melia,Aslak Hellesoy",14
+"Alexei Barantsev,Diego Molina",14
+"Tamsil Sajid Amani,titusfortner",14
+"Simon M Stewart,Kristian Rosenvold",14
+"Simon M Stewart,Jari Bakken",14
+"Daniel Wagner-Hall,Jason Lebya",13
+"Diego Molina,Simon Stewart",13
+"Simon Stewart,Luke Inman-Semerau",13
+"lhuang,Jeff Xiong",13
+"Christian Biesinger,Diego Molina",13
+"Selenium CI Bot,titusfortner",13
+"Long Ly,Lucas Tierney",13
+"Jeff Xiong,Mike Williams",12
+"Michael Tamm,Simon M Stewart",12
+"Jim Evans,Simon Stewart",12
+"Jeff Xiong,lhuang",12
+"Alex Rodionov,Thomas Walpole",12
+"Puja Jagani,Valery Yatsynovich",12
+"Dounia Berrada,Eran Mes",11
+"Scott Babcock,Diego Molina",11
+"Simon M Stewart,Michael Tamm",11
+"Simon Stewart,Simon Mavi Stewart",11
+"Dounia Berrada,Simon M Stewart",11
+"Alex Rodionov,titusfortner",11
+"Jiayao Yu,Simon M Stewart",11
+"Luke Inman-Semerau,Jim Evans",11
+"Puja Jagani,titusfortner",11
+"Daniel Wagner-Hall,Eran Mes",10
+"Patrick Lightbody,Dan Fabulich",10
+"Patrick Lightbody,Nelson Sproul",10
+"Alexei Barantsev,Dounia Berrada",10
+"lhuang,Nelson Sproul",10
+"Diego Molina,Simon Mavi Stewart",10
+"Titus,titusfortner",10
+"Titus Fortner,Diego Molina",10
+"Eran Mes,Dounia Berrada",10
+"Diego Molina,Alex Rodionov",10
+"titusfortner,Puja Jagani",10
+"Mike Williams,Darrell DeBoer",10
+"Eran Mes,Jim Evans",10
+"Valery Yatsynovich,Simon Stewart",9
+"Jari Bakken,Daniel Wagner-Hall",9
+"Jim Evans,Eran Mes",8
+"Jim Evans,Jim",8
+"Alex Savchuk,Jim Evans",8
+"lmtierney,Lucas Tierney",8
+"Krishnan Mahadevan,Doug Simmons",8
+"Simon M Stewart,Dounia Berrada",8
+"Daniel P. Purkhús,Boni Garcia",8
+"Dan Fabulich,Philippe Hanrigou",8
+"Jim Evans,Luke Inman-Semerau",8
+"wpc,Mike Williams",8
+"AutomatedTester,Simon Stewart",8
+"Michael Render,Nikolay Borisenko",8
+"joerg1985,Simon Mavi Stewart",8
+"Jim,Alexei Barantsev",8
+"Jim Evans,Daniel Wagner-Hall",7
+"jimevans,Jim Evans",7
+"Dominik Dary,Alexei Barantsev",7
+"Diego Molina,dependabot[bot]",7
+"AutomatedTester,Dave Hunt",7
+"Paul Hammant,Jim Evans",7
+"Samit Badle,Adam Goucher",7
+"titusfortner,Jim Evans",7
+"Nelson Sproul,Patrick Lightbody",7
+"Daniel Wagner-Hall,David Burns",7
+"Jim Evans,Alexei Barantsev",7
+"titusfortner,Simon Mavi Stewart",7
+"titusfortner,AutomatedTester",7
+"Kristian Rosenvold,Daniel Wagner-Hall",7
+"Alex Rodionov,Luke Hill",6
+"Kristian Rosenvold,Francois Reynaud",6
+"Ahmed Ashour,Alexei Barantsev",6
+"Daniel Wagner-Hall,Alexei Barantsev",6
+"lhuang,Mike Williams",6
+"Simon Mavi Stewart,Titus",6
+"Dan Fabulich,Patrick Lightbody",6
+"AutomatedTester,Diego Molina",6
+"AutomatedTester,Sri Harsha",6
+"Puja Jagani,Simon Mavi Stewart",6
+"Darrell DeBoer,Aslak Hellesoy",6
+"Eran Mes,Kristian Rosenvold",6
+"Eran Mes,Jason Lebya",6
+"Paul Hammant,Simon Stewart",6
+"Jason Lebya,Daniel Wagner-Hall",6
+"Paul Hammant,Simon M Stewart",6
+"Mike Williams,wpc",6
+"Jason Lebya,Eran Mes",6
+"Eran Mes,Alexei Barantsev",6
+"Viet Nguyen Duc,Diego Molina",6
+"AutomatedTester,Alexei Barantsev",6
+"Luke Inman-Semerau,Jason Leyba",5
+"Jeff Xiong,Nelson Sproul",5
+"Jason Lebya,Jari Bakken",5
+"Alexei Barantsev,Daniel Wagner-Hall",5
+"Alex Rodionov,George Adams",5
+"Krishnan Mahadevan,Luke Inman-Semerau",5
+"joe_schulte,Titus Fortner",5
+"Michał Górny,Diego Molina",5
+"joerg1985,Diego Molina",5
+"Alexei Barantsev,Simon M Stewart",5
+"Diego Molina,Boni Garcia",5
+"Mike Williams,lhuang",5
+"Jason Juang,Simon Stewart",5
+"Jari Bakken,Dounia Berrada",5
+"Eran Mes,Jason Huggins",5
+"Titus Fortner,Simon Stewart",5
+"AutomatedTester,Michael Mintz",5
+"Titus Fortner,Simon Mavi Stewart",5
+"Davis Burns,Simon M Stewart",5
+"Diego Molina,Viet Nguyen Duc",5
+"Thomas Walpole,Alex Rodionov",5
+"Sandeep Suryaprasad,titusfortner",5
+"Simon Stewart,Jason Juang",5
+"Darrell DeBoer,Mike Williams",5
+"Daniel Wagner-Hall,Ajay Kemparaj",5
+"Simon Mavi Stewart,Diego Molina",5
+"Simon M Stewart,Shinya Kasatani",5
+"Jörg Sautter,Simon Mavi Stewart",5
+"titusfortner,Alex Rodionov",5
+"symonk,AutomatedTester",5
+"Adam Goucher,Samit Badle",5
+"zsong,Mike Williams",4
+"Krishnan Mahadevan,Alexei Barantsev",4
+"John Chen,Alexei Barantsev",4
+"Simon Mavi Stewart,Simon Stewart",4
+"Simon M Stewart,David Burns",4
+"Simon M Stewart,Jiayao Yu",4
+"Dan Fabulich,lukec",4
+"Simon M Stewart,Patrick Lightbody",4
+"Daniel Wagner-Hall,Kristian Rosenvold",4
+"Daniel Wagner-Hall,Jari Bakken",4
+"Daniel Wagner-Hall,stuidge@gmail.com",4
+"Dan Fabulich,Mike Williams",4
+"Simon M Stewart,Alexei Barantsev",4
+"Boni García,Diego Molina",4
+"Simon Stewart,Valery Yatsynovich",4
+"Simon Stewart,Titus Fortner",4
+"Rajendra kadam,Diego Molina",4
+"Simon Stewart,Long Ly",4
+"Dan Fabulich,Jeff Xiong",4
+"David Burns,Luke Semerau",4
+"Steven Hazel,Alex Rodionov",4
+"AutomatedTester,titusfortner",4
+"Puja Jagani,Alexei Barantsev",4
+"Titus Fortner,Nikolay Borisenko",4
+"Titus Fortner,Thomas Walpole",4
+"Diego Molina,Boni García",4
+"Andreas Tolf Tolfsen,Alexei Barantsev",4
+"joerg1985,Puja Jagani",4
+"Jason Juang,Jason Leyba",4
+"Jason Huggins,Simon M Stewart",4
+"Jim Evans,lsowen",4
+"titusfortner,Nikolay Borisenko",4
+"Adam Goucher,Jari Bakken",4
+"Alexander Bayandin,Luke Inman-Semerau",4
+"Alex Rodionov,Titus Fortner",4
+"Jason Leyba,Luke Inman-Semerau",4
+"Jim Evans,Anton Usmansky",4
+"Luke Inman-Semerau,AutomatedTester",4
+"renovate[bot],Diego Molina",4
+"Alexei Barantsev,Luke Inman-Semerau",4
+"jleyba,Jim Evans",4
+"Jason Huggins,Darrell DeBoer",4
+"Francois Reynaud,Kristian Rosenvold",4
+"Perryn Fowler,Darrell DeBoer",4
+"Nikolay Borisenko,Michael Render",4
+"Dounia Berrada,Jason Lebya",4
+"Jari Bakken,Jason Lebya",4
+"Simon M Stewart,Davis Burns",3
+"Seva Lotoshnikov,Alexei Barantsev",3
+"Eran Mes,Jari Bakken",3
+"Shinya Kasatani,Haw-bin Chai",3
+"Diego Molina,Sriharsha",3
+"Simon Stewart,Lucas Tierney",3
+"AutomatedTester,Oleg Höfling",3
+"Sri Harsha,Diego Molina",3
+"Simon Stewart,Krishnan Mahadevan",3
+"Diego Molina,Sri Harsha",3
+"Puja Jagani,Sri Harsha",3
+"harsha509,Diego Molina",3
+"Nelson Sproul,Mike Williams",3
+"dependabot[bot],Diego Molina",3
+"Alexei Barantsev,Nitish",3
+"Andreas Tolf Tolfsen,Daniel Wagner-Hall",3
+"Diego Molina,harsha509",3
+"Diego Molina,renovate[bot]",3
+"AutomatedTester,Luke Inman-Semerau",3
+"RustyNail,Alex Rodionov",3
+"Boris Wrubel,Diego Molina",3
+"Krishnan Mahadevan,Simon Stewart",3
+"Adam Goucher,Simon M Stewart",3
+"Alexei Barantsev,Jason Lebya",3
+"Ajay Kemparaj,Luke Semerau",3
+"Alex Rodionov,Simon Stewart",3
+"Francois Reynaud,Kevin Menard",3
+"Patrick Lightbody,Shinya Kasatani",3
+"Mike Williams,Dan Fabulich",3
+"Mike Williams,Nelson Sproul",3
+"Mike Williams,zsong",3
+"jimevans,Diego Molina",3
+"Luke Semerau,Simon M Stewart",3
+"Jason Leyba,David Sanders",3
+"Luke Inman-Semerau,Titus Fortner",3
+"Jason Leyba,Alexei Barantsev",3
+"Nikolay Borisenko,titusfortner",3
+"Paul Hammant,Michael Tamm",3
+"Perryn Fowler,Paul Hammant",3
+"Harmandeep Singh,titusfortner",3
+"Jari Bakken,Eran Mes",3
+"Eran Mes,Paul Hammant",3
+"Mike Williams,Paul Hammant",3
+"Simon Stewart,Alex Rodionov",3
+"Jim Evans,titusfortner",3
+"Pulkit Sharma,Alex Rodionov",3
+"Simon Mavi Stewart,Puja Jagani",3
+"titusfortner,Boni Garcia",3
+"Kevin Menard,Francois Reynaud",3
+"trabulmonkee,Alan Baird",3
+"Alex Rodionov,Boni Garcia",3
+"Adam Goucher,Eran Mes",3
+"Dan Fabulich,Shinya Kasatani",3
+"Dan Fabulich,Darrell DeBoer",3
+"Tim van der Lippe,Alexei Barantsev",3
+"Simon M Stewart,Adam Goucher",3
+"Daniel Wagner-Hall,Dounia Berrada",3
+"CI Build,titusfortner",3
+"symonk,Diego Molina",2
+"Dave Hunt,Luke Inman-Semerau",2
+"Sri Harsha,AutomatedTester",2
+"Simon Stewart,titusfortner",2
+"Simon K,titusfortner",2
+"Seva Lotoshnikov,Luke Inman-Semerau",2
+"Daniel Wagner-Hall,Paul Hammant",2
+"Simon M Stewart,Kevin Menard",2
+"CI Build,Alex Rodionov",2
+"Adam Goucher,Jeremy Herault",2
+"Diego Molina,bhecquet",2
+"Titus Fortner,Luke Inman-Semerau",2
+"Zach Attas,Alex Rodionov",2
+"Augustin Gottlieb,Viet Nguyen Duc",2
+"Valery Yatsynovich,Mikhail Panin",2
+"Sriharsha,titusfortner",2
+"Eran Mes,David Burns",2
+"Valery Yatsynovich,Diego Molina",2
+"Sri Harsha,titusfortner",2
+"Puja Jagani,AutomatedTester",2
+"Doug Simmons,Luke Inman-Semerau",2
+"Rishav Trivedi,Simon Mavi Stewart",2
+"Titus Fortner,Selenium CI Bot",2
+"AutomatedTester,Simon Mavi Stewart",2
+"Boni Garcia,Alex Rodionov",2
+"Ardi,Boni Garcia",2
+"Doug Simmons,Simon Stewart",2
+"Dounia Berrada,Ajay Kemparaj",2
+"Simon M Stewart,Ajay Kemparaj",2
+"Sri Harsha,Simon Stewart",2
+"Corey Goldberg,Alexei Barantsev",2
+"Carlos Garcia Campos,lmtierney",2
+"Corey Goldberg,Luke Inman-Semerau",2
+"Simon Stewart,Doug Simmons",2
+"Boni Garcia,titusfortner",2
+"Thomas Walpole,Titus Fortner",2
+"Diego Molina,Titus Fortner",2
+"TamsilAmani,titusfortner",2
+"Brandon Walderman,Tomer",2
+"Simon Stewart,VimalRaj Selvam",2
+"Rajendra kadam,Puja Jagani",2
+"Rajendra kadam,Sri Harsha",2
+"Selenium CI Bot,Viet Nguyen Duc",2
+"Sandeep Suryaprasad,Viet Nguyen Duc",2
+"Simon Stewart,Nikolay Borisenko",2
+"Daniel Davison,Alexei Barantsev",2
+"Daniel Wagner-Hall,Andreas Tolf Tolfsen",2
+"Simon Stewart,Ahmed Ashour",2
+"Daniel Wagner-Hall,Luke Semerau",2
+"Simon M Stewart,Paul Hammant",2
+"David Burns,Jari Bakken",2
+"stuidge@gmail.com,Dounia Berrada",2
+"Jörg Sautter,Diego Molina",2
+"JustasM,Simon Stewart",2
+"Alex Rodionov,AutomatedTester",2
+"Alex,Simon Mavi Stewart",2
+"titusfortner,Boni García",2
+"Henrik Skupin,Alexei Barantsev",2
+"ddavison,Luke Inman-Semerau",2
+"Nelson Sproul,lhuang",2
+"Navin Chandra,Viet Nguyen Duc",2
+"Paul Hammant,Dan Fabulich",2
+"James Garbutt,43081j",2
+"Nowell Strite,Jason Leyba",2
+"Patrice Jaton,Peter Hedenskog",2
+"Paul Hammant,Andy Duncan",2
+"Haw-bin Chai,Dan Fabulich",2
+"Haw-bin Chai,Shinya Kasatani",2
+"Paul Hammant,Mike Williams",2
+"Dounia Berrada,Kristian Rosenvold",2
+"Guangyue Xu,Jim Evans",2
+"Philippe Hanrigou,Andras Hatvani",2
+"Evan Sangaline,Fredrik Wollsén",2
+"Glib Briia,Ahmed Ashour",2
+"Michael Mintz,Puja Jagani",2
+"IvanDeMarino,Ajay Kemparaj",2
+"clarkenciel,Titus Fortner",2
+"bhecquet,Diego Molina",2
+"Alice Yang,Santiago Suarez Ordoñez",2
+"Alexei Barantsev,Valery Yatsynovich",2
+"Alexei Barantsev,Puja Jagani",2
+"Alexei Barantsev,Paul Hammant",2
+"joerg1985,Jörg Sautter",2
+"joerg1985,Swastik Baranwal",2
+"Andreas Tolf Tolfsen,Kristian Rosenvold",2
+"evgeniyat,Luke Inman-Semerau",2
+"Andrei Botalov,Alex Rodionov",2
+"Andreas Tolfsen,Yi Zeng",2
+"Andreas Tolfsen,Luke Inman-Semerau",2
+"Tomer,Alexei Barantsev",2
+"dependabot[bot],titusfortner",2
+"elgatov,Jim Evans",2
+"Andreas Tolfsen,Alexei Barantsev",2
+"Andreas Tolfsen,Jason Leyba",2
+"Frederik Carlier,Alexei Barantsev",2
+"Luke Semerau,Alexei Barantsev",2
+"reichsta,Alex Rodionov",2
+"Luke Semerau,Daniel Wagner-Hall",2
+"Jim,Jim Evans",2
+"Jeremy Herault,Adam Goucher",2
+"Jennifer Bevan,Philippe Hanrigou",2
+"Manoj Kumar,Jason Leyba",2
+"Luke Semerau,Ajay Kemparaj",2
+"Jayson Smith,Alex Rodionov",2
+"Jason Leyba,Jim Evans",2
+"Michael Tamm,David Burns",2
+"Luke Inman-Semerau,Daniel Davison",2
+"Luke Inman-Semerau,Andreas Tolfsen",2
+"Luke Inman-Semerau,Alexei Barantsev",2
+"lmtierney,Titus Fortner",2
+"renovate[bot],Boni Garcia",2
+"renovate[bot],Swastik Baranwal",2
+"Alexei Barantsev,Eran Mes",2
+"Alexei Barantsev,GQAssurance",2
+"Luke Hill,Thomas Walpole",2
+"Alex Rodionov,Selenium CI Bot",2
+"Jennifer Bevan,Dan Fabulich",2
+"Jim Evans,Jason Leyba",2
+"Jim Evans,Jason Lebya",2
+"Kristian Rosenvold,Ajay Kemparaj",2
+"Jim Evans,Jari Bakken",2
+"Luke Inman-Semerau,Dave Hunt",2
+"Alexandr Savchuk,Jim Evans",2
+"Alexander Dobrynin,Simon Mavi Stewart",2
+"Alex Rodionov,Simon Mavi Stewart",2
+"Alexei Barantsev,Ahmed Ashour",2
+"Lucas Tierney,Alexei Barantsev",2
+"Kristian Rosenvold,Andreas Tolf Tolfsen",2
+"Kristian Rosenvold,Eran Mes",2
+"Kristian Rosenvold,Jari Bakken",2
+"Jim Evans,Stanley Hon",2
+"Jim Evans,Sergey Tikhomirov",2
+"Jim Evans,Luke Semerau",2
+"Jim Evans,jimevans",2
+"Ahmed Ashour,Luke Inman-Semerau",2
+"Ajay Kemparaj,Dounia Berrada",2
+"Ajay Kemparaj,Simon M Stewart",2
+"Alberto Scotto,Alexei Barantsev",2
+"titusfortner,Manuel Blanco",1
+"Adam Goucher,David Burns",1
+"Adam Goucher,Dounia Berrada",1
+"Alan Baird,Titus Fortner",1
+"Ajay Kemparaj,Kristian Rosenvold",1
+"Ajay Kemparaj,Jari Bakken",1
+"Ajay Kemparaj,Daniel Wagner-Hall",1
+"Ajay Kemparaj,Alexei Barantsev",1
+"Ahmed Ashour,Jim Evans",1
+"AdamPDotty,Simon Benzer",1
+"AdamPDotty,Puja Jagani",1
+"stuidge@gmail.com,Daniel Wagner-Hall",1
+"wpc,Jeff Xiong",1
+"titusfortner,symonk",1
+"titusfortner,joerg1985",1
+"Alexander Kavanaugh,Corey Goldberg",1
+"Alexei Barantsev,AutomatedTester",1
+"Alexei Barantsev,Christian Clauss",1
+"Alexei Barantsev,Corey Goldberg",1
+"Alberto Scotto,Simon Stewart",1
+"Aleksei Moskvin,Alex Rodionov",1
+"lhuang,wpc",1
+"lmtierney,Alex Rodionov",1
+"myslak71,Alexei Barantsev",1
+"renovate[bot],Sri Harsha",1
+"renovate[bot],Viet Nguyen Duc",1
+"renovate[bot],mk868",1
+"richard.hines,Simon Stewart",1
+"roushikk,Kian Meng Ang",1
+"jerome-nexedi,Alexei Barantsev",1
+"jerome-nexedi,AutomatedTester",1
+"Jim Evans,Guangyue Xu",1
+"Jim Evans,IvanDeMarino",1
+"Jim Evans,Jacob Kiesel",1
+"Jim Evans,Jake",1
+"Jim Evans,Jan Trejbal",1
+"Jim Evans,John Chen",1
+"Kristian Rosenvold,Jim Evans",1
+"Kristian Rosenvold,Luke Inman-Semerau",1
+"Lauro Moura,AutomatedTester",1
+"Lucas Tierney,Alex Rodionov",1
+"Jon Wallsten,Diego Molina",1
+"Jonathan Lipps,Lucas Tierney",1
+"Jim Evans,larsiver",1
+"Jim Evans,yk9772",1
+"Joe Lencioni,Luke Inman-Semerau",1
+"Johan Lorenzo,Jason Leyba",1
+"Jiahua Fan,Sandeep Suryaprasad",1
+"Jim,Jari Bakken",1
+"Jim Evans,Alex Eagle",1
+"Jim Evans,Alex Rodionov",1
+"Jim Evans,Alex Savchuk",1
+"Jim Evans,Andreas Tolfsen",1
+"Lucas Tierney,lmtierney",1
+"Lucas Tierney,wiggin15",1
+"Luke Hill,Alex Rodionov",1
+"Luke Hill,AutomatedTester",1
+"Luke Hill,titusfortner",1
+"Luke Inman-Semerau,Ahmed Ashour",1
+"Luke Inman-Semerau,Alexandr Savchuk",1
+"Luke Inman-Semerau,Doug Simmons",1
+"Jim Evans,Dave Hunt",1
+"Jim Evans,Davis Burns",1
+"Jason Leyba,Pat Tullmann",1
+"Jason Leyba,Seva Lotoshnikov",1
+"Jason Leyba,jleyba",1
+"Jayakumar Chinnappan,Daniel Fackrell",1
+"Jayakumar Chinnappan,Vincent Ladeuil",1
+"Jari Bakken,Kristian Rosenvold",1
+"Jari Bakken,Luke Inman-Semerau",1
+"Luke Inman-Semerau,Lucas Tierney",1
+"Luke Inman-Semerau,Nick Schonning",1
+"Luke Semerau,David Burns",1
+"Luke Semerau,Eran Mes",1
+"Maid,Diego Molina",1
+"Manuel Blanco,Puja Jagani",1
+"Lucas Tierney,AutomatedTester",1
+"Lucas Tierney,Herst",1
+"JerryJia,Yurii Karabas",1
+"Jason Lebya,Davis Burns",1
+"Jason Lebya,Dounia Berrada",1
+"Jason Lebya,Francois Reynaud",1
+"Ivan De Marino,Alexei Barantsev",1
+"Mark Mayo,James Hilliard",1
+"Marvin Ojwang,Jason Leyba",1
+"Max Perrello,AutomatedTester",1
+"Michael Mintz,AutomatedTester",1
+"Michael Mintz,symonk",1
+"Michael Tamm,Jim Evans",1
+"Michael Tamm,Paul Hammant",1
+"Mickaël Schoentgen,Corey Goldberg",1
+"Miguel Carboni,Sandeep Suryaprasad",1
+"Luke Inman-Semerau,Florian Apolloner",1
+"Jason Leyba,Elias Faxö",1
+"Jason Leyba,Jason Juang",1
+"Nicolas Sotgui,Alexei Barantsev",1
+"Nik Nyby,Luke Inman-Semerau",1
+"Nikolay Borisenko,Jim Evans",1
+"Mike Melia,Darrell DeBoer",1
+"Mike Roberts,Paul Hammant",1
+"Mike Williams,Andy Duncan",1
+"Mike Williams,Patrick Lightbody",1
+"Mike Williams,Shinya Kasatani",1
+"Mikhail Panin,Simon Stewart",1
+"Miten Chauhan,Alex Rodionov",1
+"Marc Fisher,Jason Juang",1
+"Marc Fisher,Thomas Walpole",1
+"Jari Bakken,Luke Semerau",1
+"Jason Huggins,Nelson Sproul",1
+"Jason Juang,Luke Inman-Semerau",1
+"Jason Lebya,Andreas Tolf Tolfsen",1
+"IvanDeMarino,Simon Stewart",1
+"Jacob Kiesel,Jim Evans",1
+"James Braza,Titus Fortner",1
+"James Garbutt,Jason Juang",1
+"James Hilliard,symonk",1
+"Jari Bakken,Adam Goucher",1
+"Jari Bakken,Davis Burns",1
+"Jari Bakken,Jim Evans",1
+"Glib Briia,Simon Stewart",1
+"Gopal Patel,Titus Fortner",1
+"Navin Chandra,Diego Molina",1
+"Nelson Sproul,Darrell DeBoer",1
+"Nelson Sproul,David Kemp",1
+"Nelson Sproul,Haw-bin Chai",1
+"Nelson Sproul,Jason Huggins",1
+"Nelson Sproul,wpc",1
+"Haw-bin Chai,Philippe Hanrigou",1
+"Henrik Skupin,titusfortner",1
+"Hugo van Kemenade,AutomatedTester",1
+"Immanuel Hayden,Jim Evans",1
+"Innokenty Shuvalov,Daniel Davison",1
+"Isaul Vargas,Alexei Barantsev",1
+"Nirantak Raghav,Dharin Shah",1
+"Olle Jonsson,Sajad Torkamani",1
+"Palmer Bandy,titusfortner",1
+"Pat Tullmann,Jason Leyba",1
+"Pat Tullmann,jmleyba",1
+"Patrick Lightbody,Eran Mes",1
+"Patrick Lightbody,Paul Hammant",1
+"MustafaAgamy,Sri Harsha",1
+"Natalia Pozhidaeva,Nikolay Borisenko",1
+"IvanDeMarino,Kristian Rosenvold",1
+"Florian LOPES,Simon Stewart",1
+"Francois Reynaud,Alexei Barantsev",1
+"Francois Reynaud,Daniel Wagner-Hall",1
+"Francois Reynaud,Simon M Stewart",1
+"François JACQUES,Simon Stewart",1
+"GPT14,titusfortner",1
+"Paul Hammant,Nelson Sproul",1
+"Paul Hammant,Patrick Lightbody",1
+"Paul Hammant,Ryan Wilcox",1
+"Philippe Hanrigou,Dan Fabulich",1
+"Philippe Hanrigou,Haw-bin Chai",1
+"Philippe Hanrigou,Nelson Sproul",1
+"Philippe Hanrigou,Patrick Lightbody",1
+"Hamir Mahal,Diego Molina",1
+"Harmandeep Singh,Diego Molina",1
+"Harmandeep Singh,Simon K",1
+"Dounia Berrada,David Burns",1
+"Dounia Berrada,Jari Bakken",1
+"Puja Jagani,Boni Garcia",1
+"Puja Jagani,Manuel Blanco",1
+"Puja Jagani,Rajendra kadam",1
+"Puja Jagani,Sriharsha",1
+"Puja Jagani,Tamsil Sajid Amani",1
+"Puja Jagani,Titus Fortner",1
+"Paul Hammant,Kristian Rosenvold",1
+"Dounia Berrada,stuidge@gmail.com",1
+"Elias Faxö,Jason Leyba",1
+"Eran Mes,Ajay Kemparaj",1
+"Eran Mes,Andreas Tolf Tolfsen",1
+"Eran Mes,Davis Burns",1
+"Eric Allen,Jari Bakken",1
+"EwaMarek,Diego Molina",1
+"Diego Molina,Sandeep Suryaprasad",1
+"Diego Molina,Selenium CI Bot",1
+"Diego Molina,Vladislav Velichko",1
+"Diego Molina,arnonax-tr",1
+"David Burns,Jim Evans",1
+"Rajendra kadam,AutomatedTester",1
+"Reinaldo Rossetti,JerryJia",1
+"Rod McNew,kvetko",1
+"Romain Tartière,Alex Rodionov",1
+"Ryan Wilcox,Paul Hammant",1
+"Saksham Gupta,Diego Molina",1
+"Samuel Bétrisey,Jim Evans",1
+"Piotr Witoslawski,Andreas Tolf Tolfsen",1
+"Dima Kovalenko,Luke Inman-Semerau",1
+"Dj,Andreas Tolfsen",1
+"Doug Simmons,Alexei Barantsev",1
+"Shinya Kasatani,Paul Hammant",1
+"Shinya Kasatani,Philippe Hanrigou",1
+"Sandeep Suryaprasad,Titus Fortner",1
+"Santiago Suarez Ordoñez,Alexei Barantsev",1
+"Santiago Suarez Ordoñez,Jason Lebya",1
+"Santiago Suarez Ordoñez,Lucas Tierney",1
+"Santiago Suarez Ordoñez,Samit Badle",1
+"Scott Stevens,Diego Molina",1
+"Sean Gomez,Jiahua Fan",1
+"Selenium CI Bot,Alex Rodionov",1
+"Selenium CI Bot,Simon Mavi Stewart",1
+"Sen ZmaKi,symonk",1
+"Rajendra Kadam,AutomatedTester",1
+"Diego Molina,Jörg Sautter",1
+"Diego Molina,Luke Hill",1
+"Diego Molina,Rajendra kadam",1
+"David Burns,Michael Tamm",1
+"David Burns,Simon M Stewart",1
+"David Burns,titusfortner",1
+"David Kemp,Dan Fabulich",1
+"David Kemp,Mike Williams",1
+"David Kemp,Patrick Lightbody",1
+"Davis Burns,Jim Evans",1
+"DevineLiu,Lucas Tierney",1
+"Diego Molina,Ashley Trinh",1
+"Diego Molina,Augustin Gottlieb",1
+"Diego Molina,AutomatedTester",1
+"Seva Lotoshnikov,Alexandr Savchuk",1
+"Seva Lotoshnikov,Jason Leyba",1
+"Seva Lotoshnikov,Tamás Buka",1
+"Shinya Kasatani,Dan Fabulich",1
+"Shinya Kasatani,Patrick Lightbody",1
+"Daniel Wagner-Hall,Kevin Menard",1
+"Dan Fabulich,Michael Tamm",1
+"Simon M Stewart,Jason Huggins",1
+"Simon M Stewart,Luke Semerau",1
+"Sergey Chipiga,Luke Inman-Semerau",1
+"Sergey Tikhomirov,Jim Evans",1
+"Darrell DeBoer,Paul Hammant",1
+"Darrell DeBoer,Perryn Fowler",1
+"Dave Hunt,AutomatedTester",1
+"Dave Hunt,Daniel Wagner-Hall",1
+"Dave Hunt,Francois Reynaud",1
+"Dave Hunt,Titus Fortner",1
+"David Burns,Adam Goucher",1
+"David Burns,Ajay Kemparaj",1
+"David Burns,Daniel Wagner-Hall",1
+"David Burns,Dounia Berrada",1
+"Dan Fabulich,Paul Hammant",1
+"Dan Fabulich,lhuang",1
+"Dan Fabulich,wpc",1
+"Daniel Bengtsson,Simon Stewart",1
+"Daniel Davison,Dj",1
+"Daniel Fackrell,AutomatedTester",1
+"Daniel Montoya,Alexei Barantsev",1
+"Simon M Stewart,alexis.j.vuillemin",1
+"Simon M Stewart,josephg",1
+"Simon M Stewart,pydi.chandra",1
+"Simon Mavi Stewart,AutomatedTester",1
+"Simon Mavi Stewart,joerg1985",1
+"Simon Mavi Stewart,titusfortner",1
+"Simon M Stewart,Baran Ozgul",1
+"Daniel Wagner-Hall,Davis Burns",1
+"Daniel Wagner-Hall,Jason Huggins",1
+"Simon Stewart,AutomatedTester",1
+"Carlos Garcia Campos,Lucas Tierney",1
+"Chris Block,Immanuel Hayden",1
+"Chris Block,Jim Evans",1
+"Christian Ansel,Nikolay Borisenko",1
+"Christian Clauss,Alexei Barantsev",1
+"Dan Fabulich,David Kemp",1
+"Dan Fabulich,Haw-bin Chai",1
+"Dan Fabulich,Jennifer Bevan",1
+"Boni Garcia,Simon Stewart",1
+"Boni Garcia,dependabot[bot]",1
+"Simon Stewart,Ivan De Marino",1
+"Simon Stewart,Jim Evans",1
+"Simon Stewart,JohanBrorson",1
+"Simon Stewart,Joshua Bruning",1
+"Simon Stewart,Marcus Merrell",1
+"Boni García,Simon Mavi Stewart",1
+"Boni García,Sriharsha",1
+"Boni García,dependabot[bot]",1
+"Brandon Walderman,AutomatedTester",1
+"Brandon Walderman,Mark Stacey",1
+"Bret Pettichord,Ryan Wilcox",1
+"AutomatedTester,Kristian Rosenvold",1
+"AutomatedTester,Lucas Tierney",1
+"Simon Stewart,Sri Harsha",1
+"Simon Stewart,Tomer Steinfeld",1
+"Simon Stewart,bozdemir84",1
+"Simon Stewart,jleyba",1
+"Simon Stewart,renovate[bot]",1
+"Sri Harsha,Alex Rodionov",1
+"Sri Harsha,Simon Mavi Stewart",1
+"Simon Stewart,Andreas Tolfsen",1
+"Sri Harsha,renovate[bot]",1
+"AutomatedTester,Patrick Gansterer",1
+"AutomatedTester,Rajendra kadam",1
+"AutomatedTester,Valery Yatsynovich",1
+"AutomatedTester,dosas",1
+"Boni Garcia,Diego Molina",1
+"Argo Triwidodo,Puja Jagani",1
+"Sriharsha,Alex Rodionov",1
+"Sriharsha,Diego Molina",1
+"Swastik Baranwal,Simon Benzer",1
+"Tamás Buka,Daniel Davison",1
+"Thomas Walpole,Alexei Barantsev",1
+"Simon Stewart,Shay Dratler",1
+"Boni Garcia,renovate[bot]",1
+"Boni García,Alex Rodionov",1
+"Boni García,Selenium CI Bot",1
+"AutomatedTester,Alex",1
+"AutomatedTester,Alex Rodionov",1
+"AutomatedTester,Alexander Bayandin",1
+"AutomatedTester,Brandon Walderman",1
+"AutomatedTester,Godefroid Chapelle",1
+"AutomatedTester,Jim Evans",1
+"AutomatedTester,Kian Meng Ang",1
+"Andreas Tolf Tolfsen,Jim Evans",1
+"Titus Fortner,AutomatedTester",1
+"Titus Fortner,CI Build",1
+"Titus Fortner,Lauro Moura",1
+"Titus Fortner,Lucas Tierney",1
+"Titus Fortner,Manuel Blanco",1
+"Titus Fortner,lmtierney",1
+"Titus Fortner,renovate[bot]",1
+"Sri Harsha,Sriharsha",1
+"Andreas Tolfsen,Alex Rodionov",1
+"Andreas Tolfsen,AutomatedTester",1
+"Andreas Tolfsen,Simon Stewart",1
+"Andrey Botalov,Jari Bakken",1
+"Ardi,Alex",1
+"Alexei Barantsev,Marc Fisher",1
+"Tom Trumper,Alexei Barantsev",1
+"Tomer Steinfeld,Alexei Barantsev",1
+"Tricia Crichton,Alexei Barantsev",1
+"Ulf Adams,Simon Stewart",1
+"Viet Nguyen Duc,Sri Harsha",1
+"Viet Nguyen Duc,Swastik Baranwal",1
+"VimalRaj Selvam,Simon Stewart",1
+"Yurii Karabas,AutomatedTester",1
+"Aslak Hellesoy,Mike Melia",1
+"Augustin Gottlieb,Luke Hill",1
+"Alexei Barantsev,Sri Harsha",1
+"Alexei Barantsev,Tim Sutton",1
+"Alexei Barantsev,titusfortner",1
+"Andras Hatvani,Haw-bin Chai",1
+"Andras Hatvani,Jason Huggins",1
+"Andre Wiggins,Nick Schonning",1
+"Alexei Barantsev,David Burns",1
+"cjayswal,Simon Stewart",1
+"dependabot[bot],AutomatedTester",1
+"dependabot[bot],Rajendra kadam",1
+"glaszig,titusfortner",1
+"harsha509,AutomatedTester",1
+"ian zhang,Boni Garcia",1
+"Titus Fortner,symonk",1
+"Andreas Tolf Tolfsen,Luke Inman-Semerau",1
+"Andreas Tolf Tolfsen,Simon Stewart",1
+"Alexei Barantsev,Dominik Dary",1
+"Alexei Barantsev,Doug Simmons",1
+"Alexei Barantsev,Glib Briia",1
+"Alexei Barantsev,IvanDeMarino",1
+"Alexei Barantsev,Jari Bakken",1
+"Alexei Barantsev,Jason Leyba",1
+"Alexei Barantsev,Jayakumar Chinnappan",1
+"Alexei Barantsev,John Chen",1
+"Alex Rodionov,Sriharsha",1
+"jkohls,Titus Fortner",1
+"joerg1985,Simon Stewart",1
+"jonahss,Luke Inman-Semerau",1
+"kateposener,Jason Juang",1
+"Ziyu,Jason Leyba",1
+"alexis.j.vuillemin,Simon M Stewart",1
+"Alexei Barantsev,Seva Lotoshnikov",1
+"titusfortner,dependabot[bot]",1
+"Adam Goucher,Dave Hunt",1
+"sugama,jamadam",1
+"symonk,James Hilliard",1
+"symonk,Michael Mintz",1
+"symonk,Simon K",1
+"symonk,Titus Fortner",1
+"titusfortner,EwaMarek",1
+"Alex,Ardi",1
+"Alex,AutomatedTester",1
+"Alex,Jörg Sautter",1
+"Alex Rodionov,CI Build",1
+"Alex Rodionov,Diego Molina",1
+"Alex Rodionov,Lucas Tierney",1
+"Alex Rodionov,renovate[bot]",1
+"Alex Savchuk,Patrick Gansterer",1
+"John Pelly,Alex Rodionov",1
+"Jim Evans,AutomatedTester",1
+"Jim Evans,Christopher Buttkus",1
+"Jordan Mace,Jim Evans",1
+"Joshua Bruning,Ahmed Ashour",1
+"Jörg Sautter,Viet Nguyen Duc",1
+"Jörg Sautter,joerg1985",1
+"Kazuhiro NISHIYAMA,titusfortner",1
+"Kevin Menard,freynaud",1
+"Krishna Suravarapu,Diego Molina",1
+"Krishnan Mahadevan,Diego Molina",1
+"Jim Evans,Kristian Rosenvold",1
+"titusfortner,Simon K",1
+"titusfortner,Sriharsha",1
+"titusfortner,Tamsil Sajid Amani",1
+"titusfortner,Titus",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,16286
++01:00,3930
++02:00,1609
++03:00,2751
++04:00,666
++05:30,743
++06:00,343
++07:00,109
++09:00,38
++10:00,6
+-03:00,4
+-04:00,638
+-05:00,1495
+-06:00,750
+-07:00,2270
+-08:00,1075
+,
+Contributors Experience,Average across 33654 files: 87.20%
+File,Top Contributor Share (%)
+doc/selenium-b-architecture.txt,100.00
+java/selenium-b.iml,100.00
+javascript/TODO.txt,100.00
+javascript/cgi-bin/hello.py,100.00
+javascript/jsolait/copying.txt,100.00
+javascript/jsolait/doc/codecs.xhtml,100.00
+javascript/jsolait/doc/crypto.xhtml,100.00
+javascript/jsolait/doc/highlight.css,100.00
+javascript/jsolait/doc/html.css,100.00
+javascript/jsolait/doc/index.xhtml,100.00

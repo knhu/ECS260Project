@@ -1,0 +1,67 @@
+Field,Value
+Commits Overview,
+Total Commits,175
+Total Unique Authors,17
+,
+Top 10 Contributors,
+Author,Commits
+stephenruan,220
+Vinci,114
+Liang Chen,64
+Lei Li,12
+chenllliang,10
+yuezih,6
+lilei35,5
+linjh1118,4
+Haozhezhao,3
+Haozhe Zhao,3
+,
+Communication Events,Total: 55
+"Author1,Author2",Events
+"stephenruan,Vinci",9
+"Vinci,Liang Chen",7
+"Liang Chen,Vinci",5
+"Liang Chen,stephenruan",4
+"stephenruan,Liang Chen",3
+"lilei35,stephenruan",2
+"stephenruan,Lei Li",2
+"stephenruan,yuezih",2
+"Lei Li,stephenruan",2
+"Haozhe zhao,Liang Chen",1
+"Haozhe zhao,stephenruan",1
+"Haozhe Zhao,Haozhe zhao",1
+"Mi,Liang Chen",1
+"LiuRicky,stephenruan",1
+"Liang Chen,linjh1118",1
+"Liang Chen,chenllliang",1
+"Lei Li,lilei35",1
+"Haozhe Zhao,stephenruan",1
+"Vinci,yuezih",1
+"Vinci,Haozhe zhao",1
+"stephenruan,Haozhe Zhao",1
+"linjh1118,Mi",1
+"lilei35,Lei Li",1
+"chenllliang,Liang Chen",1
+"stephenruan,lilei35",1
+"wuhuikai,yuezih",1
+"yuezih,Liang Chen",1
+"yuezih,Vinci",1
+,
+Committer Timezone Distribution,Unique Timezones: 3
+Timezone,Commits
++00:00,45
++08:00,129
+-05:00,1
+,
+Contributors Experience,Average across 91 files: 72.57%
+File,Top Contributor Share (%)
+README copy.md,100.00
+src/scripts/rollout_log_2b.txt,100.00
+src/rollout_log_2b.txt,100.00
+.gitignore,100.00
+pdsh_setup.sh,100.00
+src/open-r1-multimodal/local_scripts/zero1.json,100.00
+src/scripts/get_clevr_data.py,100.00
+src/scripts/pdsh_some_action.sh,100.00
+src/scripts/qwen2vl_7b_20250207_yewu_mind_27w_no_gpt.sh,100.00
+src/scripts/run_grpo_clevr_deepspeed_gy.sh,100.00

@@ -1,0 +1,181 @@
+Field,Value
+Commits Overview,
+Total Commits,6539
+Total Unique Authors,242
+,
+Top 10 Contributors,
+Author,Commits
+Stefan Weil,8852
+Egor Pugin,3132
+theraysmith,2241
+zdenop@gmail.com,2236
+Ray Smith,1254
+tmbdev,1189
+theraysmith@gmail.com,1178
+joregan,601
+Zdenko Podobný,594
+zdenop,534
+,
+Communication Events,Total: 872
+"Author1,Author2",Events
+"Egor Pugin,Stefan Weil",263
+"amitdo,Egor Pugin",193
+"Stefan Weil,Egor Pugin",89
+"amitdo,Stefan Weil",19
+"Shree Devi Kumar,Stefan Weil",13
+"Ray Smith,Stefan Weil",12
+"Zdenko Podobný,zdenop",11
+"Stefan Weil,zdenop",10
+"Shree Devi Kumar,Shreeshrii",10
+"zdenop,Stefan Weil",10
+"Sundar M. Vaidya,Tom Morris",9
+"Raf Schietekat,Stefan Weil",9
+"Shreeshrii,Shree Devi Kumar",9
+"Stefan Weil,Zdenko Podobný",8
+"zdenop,Zdenko Podobný",8
+"zdenop,zdenop@gmail.com",6
+"Stefan Weil,Ger Hobbelt",5
+"Amit Dovev,Egor Pugin",5
+"Shree,Shreeshrii",5
+"Stefan Weil,amitdo",5
+"Stefan Weil,Ray Smith",5
+"theraysmith@gmail.com,zdenop@gmail.com",4
+"zdenop,Egor Pugin",4
+"Ray Smith,Zdenko Podobný",4
+"Stefan Weil,Amit D",4
+"Shreeshrii,Stefan Weil",4
+"Noah Metzger,Stefan Weil",4
+"Robin Watts,Stefan Weil",4
+"Jake Sebright,Stefan Weil",3
+"Stefan Brechtken,Stefan Weil",3
+"Egor Pugin,egorpugin",3
+"Stefan Weil,Noah Metzger",3
+"Stefan Weil,Shreeshrii",3
+"Zdenko Podobný,Stefan Weil",3
+"theraysmith@gmail.com,joregan@gmail.com",3
+"theraysmith@gmail.com,Ray Smith",3
+"egorpugin,Egor Pugin",3
+"Stefan Weil,Regina Retter",2
+"Stefan Weil,sunyuechi",2
+"zdenop@gmail.com,joregan",2
+"theraysmith,zdenop@gmail.com",2
+"zdenop@gmail.com,zdenop",2
+"zdenop@gmail.com,joregan@gmail.com",2
+"Zdenko Podobný,Wikinaut",2
+"Zdenko Podobný,James R. Barlow",2
+"Stefan Weil,Shree Devi Kumar",2
+"theraysmith,mezhirov",2
+"Ger Hobbelt,Stefan Weil",2
+"Bernhard Liebl,Stefan Weil",2
+"Amit D,Amit Dovev",2
+"Shree,Stefan Weil",2
+"Ray Smith,Simon Strandgaard",2
+"Regina Retter,Stefan Weil",2
+"Amit Dovev,Amit D",2
+"Amit D,zdenop",2
+"John Lin,Stefan Weil",2
+"Jim O'Regan,Zdenko Podobný",2
+"Alexander Zaitsev,Stefan Weil",2
+"Lucas Cimon,Ger Hobbelt",2
+"Shreeshrii,zdenop",2
+"Piotr Kubaj,Stefan Weil",1
+"Morten Espersen,Stefan Weil",1
+"OgreTransporter,Łukasz Nocuń",1
+"Stefan Weil,Eric Platon",1
+"Stefan Weil,Dmitry Bely",1
+"Stefan Brechtken,Sintun",1
+"Stefan Weil,Alexander Zaitsev",1
+"Shreeshrii,Egor Pugin",1
+"Shree Devi Kumar,amitdo",1
+"Sintun,Stefan Brechtken",1
+"Shree Devi Kumar,Egor Pugin",1
+"Ray Smith,Egor Pugin",1
+"Raphael Graf,Stefan Weil",1
+"Ray Smith,James R. Barlow",1
+"Robert Pösel,zdenop",1
+"Shatur95,Stefan Weil",1
+"Robert Sachunsky,Stefan Weil",1
+"Shree,zdenop",1
+"Alexander,Stefan Weil",1
+"Ger Hobbelt,Egor Pugin",1
+"Egor Pugin,zdenop",1
+"Egor Pugin,Amit Dovev",1
+"Egor Pugin,Jake Sebright",1
+"Egor Pugin,Amit D",1
+"Guido Vranken,jonathanmetzman",1
+"Jeff Breidenbach,James R. Barlow",1
+"Guido Vranken,Stefan Weil",1
+"Jeff Breidenbach,Zdenko Podobný",1
+"Jim O'Regan,Jim Regan",1
+"Klaus Rettinghaus,Amit D",1
+"Jörg Mechnich,Stefan Weil",1
+"Matej Knopp,amitdo",1
+"Tom Morris,zdenop",1
+"Wootton, Michael,Stefan Weil",1
+"Stefan Weil,Stefan Brechtken",1
+"jm server2,Stefan Weil",1
+"gargrahul,Zdenko Podobný",1
+"david.eger@gmail.com,zdenop@gmail.com",1
+"chongzhe,Egor Pugin",1
+"Zdenko PodobnÃ½,Zdenko Podobný",1
+"Zdenko PodobnÃ½,Zdenko Podobny",1
+"Zdenko Podobný,Jim O'Regan",1
+"Zdenko Podobný,Zdenop",1
+"Yu Xiao,Stefan Weil",1
+"Stefan Weil,pkubaj",1
+"Stefan Weil,Raf Schietekat",1
+"Stefan Weil,Sintun",1
+"theirix,Egor Pugin",1
+"supermouse,zhuangzhuang1988",1
+"joregan@gmail.com,zdenop@gmail.com",1
+"jonathanmetzman,Guido Vranken",1
+"zdenop,Jan Ruzicka",1
+"zdenop,Amit D",1
+"theraysmith@gmail.com,zdenop",1
+"joregan@gmail.com,theraysmith@gmail.com",1
+"mcsjosh,Stefan Weil",1
+"oriahulrich@microvu.com,Jim O'Regan",1
+"zdenop,Shreeshrii",1
+"zdenop,Matthias Geerdsen",1
+"zdenop,theraysmith@gmail.com",1
+"zdenop,leleliu008",1
+"zdenop,Robert Pösel",1
+"zdenop@gmail.com,Stefan Weil",1
+"zdenop@gmail.com,rajesh.katikam@gmail.com",1
+"zdenop@gmail.com,theraysmith",1
+"zhuangzhuang1988,Stefan Weil",1
+"林博仁(Buo-ren Lin),Stefan Weil",1
+,
+Committer Timezone Distribution,Unique Timezones: 18
+Timezone,Commits
++00:00,1017
++01:00,1631
++02:00,2401
++03:00,1147
++03:30,2
++04:30,1
++05:30,67
++06:30,2
++07:00,4
++08:00,21
++09:00,14
++11:00,1
+-03:00,6
+-04:00,23
+-05:00,36
+-06:00,13
+-07:00,110
+-08:00,43
+,
+Contributors Experience,Average across 3070 files: 83.14%
+File,Top Contributor Share (%)
+.cvsignore,100.00
+NEWS,100.00
+ccmain/blobcmp.h,100.00
+ccmain/callnet.cpp,100.00
+ccmain/expandblob.cpp,100.00
+ccmain/expandblob.h,100.00
+ccmain/imgscale.h,100.00
+ccmain/paircmp.h,100.00
+ccmain/scaleimg.h,100.00
+ccmain/tessembedded.h,100.00

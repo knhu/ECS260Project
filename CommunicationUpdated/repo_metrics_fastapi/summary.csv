@@ -1,0 +1,363 @@
+Field,Value
+Commits Overview,
+Total Commits,5647
+Total Unique Authors,793
+,
+Top 10 Contributors,
+Author,Commits
+Sebastián Ramírez,11439
+github-actions,2096
+Alejandra,371
+Nils Lindemann,369
+dependabot[bot],150
+Samuel Colvin,149
+LeeeeT,125
+dmontagu,106
+Brian Mboya,103
+dconathan,83
+,
+Communication Events,Total: 680
+"Author1,Author2",Events
+"github-actions,Sebastián Ramírez",129
+"Sebastián Ramírez,github-actions",71
+"Robin,Itay Raveh",18
+"Amin Alaee,Sebastián Ramírez",17
+"Sebastián Ramírez,谭九鼎",14
+"Nils Lindemann,Sebastián Ramírez",13
+"vjanz,Sebastián Ramírez",12
+"Yağızcan Değirmenci,JulianMaurin",7
+"Sebastián Ramírez,dependabot[bot]",7
+"Brian Mboya,Rupsi Kaushik",6
+"Kinuax,Sebastián Ramírez",6
+"Nadav Zingerman,Sebastián Ramírez",6
+"Zhaohan Dong,Sebastián Ramírez",5
+"dependabot[bot],Sebastián Ramírez",4
+"Xie Wei,Sebastián Ramírez",4
+"JulianMaurin,ryuckel",4
+"Nima Mashhadi M. Reza,Yurii Karabas",4
+"Quentin Takeda,Sebastián Ramírez",4
+"Cesare De Cal,Sebastián Ramírez",4
+"Camila Gutierrez,Sebastián Ramírez",3
+"Samuel Colvin,Sebastián Ramírez",3
+"Nima Mashhadi M. Reza,Sebastián Ramírez",3
+"Marcelo Trylesinski,Sebastián Ramírez",3
+"Philip Okiokio,Alejandra",3
+"VISHNU V S,Sebastián Ramírez",3
+"Baldeep Singh Handa,Sebastián Ramírez",3
+"Nik,Sebastián Ramírez",3
+"T. Tokusumi,Sebastián Ramírez",2
+"Brian Mboya,Sebastián Ramírez",2
+"Taki Komiyama,atsumi",2
+"Thomas Grainger,Sebastián Ramírez",2
+"Thomas Grainger,Hasan Ramezani",2
+"dkreeft,Edouard Lavery-Plante",2
+"Christoph Deil,Sebastián Ramírez",2
+"Zoltan Papp,Sebastián Ramírez",2
+"Artem Golicyn,Alexandr",2
+"Alex Wendland,Sebastián Ramírez",2
+"maoyibo,Xie Wei",2
+"Aviram Hassan,Sebastián Ramírez",2
+"dmontagu,Stéphane Wirtel",2
+"euri10,Sebastián Ramírez",2
+"atsumi,T. Tokusumi",2
+"Nutchanon Ninyawee,谭九鼎",2
+"Sebastián Ramírez,Alejandra",2
+"Rupsi Kaushik,Brian Mboya",2
+"Ruidy,Sam Courtemanche",2
+"Sebastián Ramírez,jaystone776",2
+"Sebastián Ramírez,Mário Victor Ribeiro Silva",2
+"Sebastián Ramírez,Camila Gutierrez",2
+"Sebastián Ramírez,Andy Challis",2
+"Sebastián Ramírez,pre-commit-ci[bot]",2
+"Nolan Di Mare Sullivan,Sebastián Ramírez",2
+"Maria Camila Gutierrez,Sebastián Ramírez",2
+"Kristján Valur Jónsson,Paulo Costa",2
+"James Kaplan,William Hayes",2
+"Hasan Ramezani,tomwei7",2
+"Alvaro Pernas,Sebastián Ramírez",2
+"Alissa,Sebastián Ramírez",2
+"Aleksandr Egorov,Vladislav Kramorenko",1
+"Alexandr,Ildar Ramazanov",1
+"Alexandr,Vladislav Kramorenko",1
+"malicious,Jacob McDonald",1
+"lpdswing,Shucai.wang",1
+"kota matsuoka,obataku",1
+"kota matsuoka,Thomas Maschler",1
+"juntatalor,Muzaffer Cikay",1
+"jbrocher,Sebastián Ramírez",1
+"jaystone776,zhangbo",1
+"jaystone776,Madat Bay",1
+"ivan-abc,TabarakoAkula",1
+"ivan-abc,Artem Golicyn",1
+"Bloodielie,Nima Mashhadi M. Reza",1
+"Ben Gamble,Kaustubh Gupta",1
+"Ben Beasley,Yasser Tahiri",1
+"Ben Beasley,Pierre V-F",1
+"Adrian,谭九鼎",1
+"Bar Harel,Nima Mashhadi M. Reza",1
+"Hamid Rasti,Sebastián Ramírez",1
+"Guillermo Quintana Pelayo,Luis R",1
+"GPla,Sebastián Ramírez",1
+"Fred,Sebastián Ramírez",1
+"François Voron,Daniel Brotsky",1
+"Francis Bergin,github-actions",1
+"vjanz,Davide Fiocco",1
+"tsouvarev,dmontagu",1
+"tomwei7,Andy Challis",1
+"tokusumi,Sebastián Ramírez",1
+"Adrian Garcia Badaracco,Sebastián Ramírez",1
+"Alejandra,Sebastián Ramírez",1
+"svalouch,dmontagu",1
+"sm-Fifteen,Sebastián Ramírez",1
+"sm-Fifteen,Patrick McKenna",1
+"simondale00,Sebastián Ramírez",1
+"Kabir Khan,Sebastián Ramírez",1
+"Jéssica Paz,Fabio Serrao",1
+"Jérôme Fink,JulianMaurin",1
+"JulianMaurin,Sam Courtemanche",1
+"Julian Maurin,Ruidy",1
+"Juan Funez,Alvaro Pernas",1
+"John Philip,Sebastián Ramírez",1
+"John Paton,Sebastián Ramírez",1
+"Jiri Kuncar,Sebastián Ramírez",1
+"Jeny Sadadia,Mikhail Rozhkov",1
+"James Curtin,Michael Oliver",1
+"Jacob Coffee,Michał Górny",1
+"Ingmar Steen,Cesare De Cal",1
+"Ikkyu,Xie Wei",1
+"Hasan Sezer Taşan,github-actions",1
+"Hareru,jaystone776",1
+"Marcelo Trylesinski,Daniel Kusy",1
+"Marcelo Trylesinski,ArcLight_Slavik",1
+"Luccas Mateus,Leandro de Souza",1
+"Lucas Mendes,Mateus José",1
+"Lucas Mendes,Bruno Artur Torres Lopes Pereira",1
+"Lucas,oandersonmagalhaes",1
+"Lucas,Lucas Mendes",1
+"Lucas,Felipe Silva",1
+"Lorhan Sohaky,Luccas Mateus",1
+"Leandro de Souza,Lucas",1
+"LKY,Sebastián Ramírez",1
+"Kinuax,Samuel Borges",1
+"Keshav Malik,John Philip",1
+"Kaustubh Gupta,silvanmelchior",1
+"Kamil Woźniak,Robin",1
+"Kai Chen,retnikt",1
+"Nils Lindemann,VaitoSoi",1
+"Nils Lindemann,Pedro Augusto de Paula Barbosa",1
+"Nils Lindemann,Micael Jarniac",1
+"Nils Lindemann,Jiri Kuncar",1
+"Nils Lindemann,Jeny Sadadia",1
+"Nik,Thomas Maschler",1
+"Nicoló Lino,Ankit Anchlia",1
+"Nguyễn Khắc Thành,Sebastián Ramírez",1
+"Nadezhda Fedina,Evzen Ptacek",1
+"Mukul Mantosh,Felix Schürmeyer",1
+"Mikhail Rozhkov,Nicoló Lino",1
+"Micah Rosales,kota matsuoka",1
+"Micael Jarniac,Ihor Tymkiv",1
+"Maxim Martynov,Sebastián Ramírez",1
+"MartinEliasQ,Sebastián Ramírez",1
+"Marcos Monteiro,Fabio Serrao",1
+"Rupsi Kaushik,Sebastián Ramírez",1
+"Ruidy,har8",1
+"Rodrigo Arenas,Shahriyar Rzayev",1
+"Rafael de Oliveira Marques,Sebastián Ramírez",1
+"Pierre V-F,Sławomir Ehlert",1
+"Philip Okiokio,Rabin Lama Dong",1
+"Paweł Rubin,Sebastián Ramírez",1
+"Paulo Costa,Sebastián Ramírez",1
+"Patrick McKenna,sm-Fifteen",1
+"Patrick McKenna,Sebastián Ramírez",1
+"P-E. Brian,Sebastián Ramírez",1
+"Ori Levari,Shahriyar Rzayev",1
+"Ofek Lev,Sebastián Ramírez",1
+"Ofek Lev,Marcelo Trylesinski",1
+"Nima Mashhadi M. Reza,Henry Betts",1
+"Nils Lindemann,Waket Zheng",1
+"Evzen Ptacek,Axel",1
+"Eugenio Panadero,dependabot[bot]",1
+"Esteban Maya,dependabot[bot]",1
+"Eduardo Zepeda,Devon Ray",1
+"Edouard Lavery-Plante,Sebastián Ramírez",1
+"Dylan Anthony,kota matsuoka",1
+"Dustyposa,Xie Wei",1
+"Donghui Wang,Sebastián Ramírez",1
+"Derek J. Lambert,Ricardo Momm",1
+"Davide Fiocco,Sebastián Ramírez",1
+"Samuel Colvin,dependabot[bot]",1
+"Samuel Borges,Sebastián Ramírez",1
+"Sam Courtemanche,Madat Bay",1
+"Saleumsack KEOBOUALAY,oandersonmagalhaes",1
+"Saleumsack KEOBOUALAY,Vladislav Kramorenko",1
+"SaintMalik,github-actions",1
+"Sebastián Ramírez,Eugenio Panadero",1
+"Sebastián Ramírez,ElliottLarsen",1
+"Sebastián Ramírez,Brian Mboya",1
+"Sebastián Ramírez,Ben Falk",1
+"Sebastián Ramírez,Ben Beasley",1
+"Sebastián Ramírez,Ben",1
+"Sebastián Ramírez,Ari Bajo",1
+"Sebastián Ramírez,Andrey Semakin",1
+"Sebastián Ramírez,Adrian",1
+"Sebastián Ramírez,Aakash Nand",1
+"Filipe Laíns,SnkSynthesis",1
+"Fernando Simões,Bruno Artur Torres Lopes Pereira",1
+"Felix Böhm,Nima Mashhadi M. Reza",1
+"Felipe Silva,Madat Bay",1
+"Facundo Maero,Brock Friedrich",1
+"Eyitayo Ogunbiyi,Sebastián Ramírez",1
+"Sebastián Ramírez,arjwilliams",1
+"Sebastián Ramírez,Zoltan Papp",1
+"Sebastián Ramírez,Zhaohan Dong",1
+"Sebastián Ramírez,Tomoya Yoshioka",1
+"Sebastián Ramírez,Sofie Van Landeghem",1
+"Sebastián Ramírez,Sam Courtemanche",1
+"Sebastián Ramírez,Rupsi Kaushik",1
+"Sebastián Ramírez,Rodrigo Arenas",1
+"Sebastián Ramírez,Okeke Chukwuemeka Christian",1
+"Sebastián Ramírez,Nils Lindemann",1
+"Sebastián Ramírez,Michael Oliver",1
+"Sebastián Ramírez,Juan Funez",1
+"Sebastián Ramírez,Jiri Daněk",1
+"Sebastián Ramírez,Ikkyu",1
+"Sebastián Ramírez,Fabio Serrao",1
+"Sebastián Ramírez,Eyitayo Ogunbiyi",1
+"Sumin Kim,Takuma Yamamoto",1
+"Spike,mode",1
+"Spike,Nina Hwang",1
+"Somraj Saha,Kaustubh Gupta",1
+"Sofie Van Landeghem,github-actions",1
+"Sofie Van Landeghem,Sebastián Ramírez",1
+"SnkSynthesis,Sebastián Ramírez",1
+"Sidharth Ajithkumar,Andy Challis",1
+"Shucai.wang,Xie Wei",1
+"Shahriyar Rzayev,pylounge",1
+"Shahriyar Rzayev,Ehigie Aito",1
+"Sebastián Ramírez,清靈語",1
+"Sebastián Ramírez,tomwei7",1
+"Sebastián Ramírez,sattosan",1
+"Sebastián Ramírez,malicious",1
+"Sebastián Ramírez,github-actions[bot]",1
+"Cedric L'homme,Nils Lindemann",1
+"Cedric Fraboulet,Axel",1
+"Carlton Gibson,Sebastián Ramírez",1
+"Camila Gutierrez,Nasaruddin",1
+"Bruno Artur Torres Lopes Pereira,Lucas Mendes",1
+"Thomas Grainger,Abraham Hinteregger",1
+"Teofilo Zosa,谭九鼎",1
+"Taneli Hukkinen,Filipe Laíns",1
+"Taki Komiyama,T. Tokusumi",1
+"T. Tokusumi,atsumi",1
+"T. Tokusumi,Taki Komiyama",1
+"T. Tokusumi,SwftAlpc",1
+"Sławomir Ehlert,Jiri Kuncar",1
+"SwftAlpc,Taki Komiyama",1
+"SwftAlpc,T. Tokusumi",1
+"Sungyun Hur,Sebastián Ramírez",1
+"Waket Zheng,Sebastián Ramírez",1
+"Vladislav Kramorenko,ivan-abc",1
+"Vladislav Kramorenko,dedkot",1
+"Vladislav Kramorenko,Saleumsack KEOBOUALAY",1
+"Vladislav Kramorenko,Alexander Sviridov",1
+"Vladislav Kramorenko,Aleksandr Egorov",1
+"Vitaliy Kucheryaviy,Sebastián Ramírez",1
+"Thomas Maschler,Sebastián Ramírez",1
+"Thomas Maschler,Aviram Hassan",1
+"Daniel Murrell,Teofilo Zosa",1
+"Daniel Kusy,johnthagen",1
+"Daniel Kusy,Marcelo Trylesinski",1
+"Cássio Botaro,duganchen",1
+"Charlie Marsh,Sebastián Ramírez",1
+"Cesare De Cal,Xie Wei",1
+"Cesare De Cal,Nick Rushton",1
+"dmontagu,François Voron",1
+"dedkot,Vladislav Kramorenko",1
+"dasstyxx,tim-habitat",1
+"cyril,Camila Gutierrez",1
+"bilal alpaslan,Madat Bay",1
+"Zamir Amir,Trim21",1
+"Yurii Karabas,Nima Mashhadi M. Reza",1
+"Yasser Tahiri,github-actions",1
+"Yasser Tahiri,dependabot[bot]",1
+"Yashasvi Singh,Mukul Mantosh",1
+"Yagiz Degirmenci,bilal alpaslan",1
+"Xucong ZHAN,wxq0309",1
+"Xie Wei,Spaceack",1
+"Xie Wei,Shucai.wang",1
+"Xie Wei,JAYATI SHRIVASTAVA",1
+"Xie Wei,Ikkyu",1
+"Axel,gusty1g",1
+"Aviram Hassan,retnikt",1
+"Atiab Bin Zakaria,Marcelo Trylesinski",1
+"ArcLight_Slavik,Taneli Hukkinen",1
+"Ankit Anchlia,Turabek Gaybullaev",1
+"Anita Hammer,kittydoor",1
+"github-actions,malicious",1
+"github-actions,Yasser Tahiri",1
+"github-actions,SaintMalik",1
+"github-actions,Hasan Sezer Taşan",1
+"github-actions,Francis Bergin",1
+"github-actions,Alejandra",1
+"felipebpl,Bruno Artur Torres Lopes Pereira",1
+"duganchen,Harsha Laxman",1
+"dompatmore,T",1
+"dmontagu,jonathanunderwood",1
+"Alexandr,ivan-abc",1
+"谭九鼎,Sebastián Ramírez",1
+"清靈語,Alejandra",1
+"水上 皓登,Sebastián Ramírez",1
+"李冬冬,Sebastián Ramírez",1
+"吴定焕,雨过初晴",1
+"नवुले पवन कुमार राव,Marcelo Trylesinski",1
+"zamiramir,Sebastián Ramírez",1
+"wakabame,Robin",1
+"vjanz,Xie Wei",1
+"Alexandr,Artem Golicyn",1
+"mikaello,Vinny Do",1
+"mikaello,Sebastián Ramírez",1
+"malicious,theoohoho",1
+"Aadarsha Shrestha,Geoff Dworkin",1
+"malicious,Piotr Szaciłowski",1
+"silvanmelchior,Yashasvi Singh",1
+"sattosan,Sebastián Ramírez",1
+"paintdog,Sebastián Ramírez",1
+"oandersonmagalhaes,Mark H",1
+"nukopy,谭九鼎",1
+"naxty,Sebastián Ramírez",1
+"Amit Chaudhary,vjanz",1
+"Alejandra,github-actions",1
+"ASpathfinder,Zssaer",1
+"雨过初晴,lordqyxz",1
+"Alicrazy,maoyibo",1
+"tim-habitat,Geoff Dworkin",1
+"tinyboxvk,dependabot[bot]",1
+"Ben,नवुले पवन कुमार राव",1
+"malicious,github-actions",1
+"Aliaksei Urbanski,Sebastián Ramírez",1
+,
+Committer Timezone Distribution,Unique Timezones: 10
+Timezone,Commits
++00:00,2745
++01:00,648
++02:00,1005
++03:00,9
++04:00,562
++08:00,1
+-03:00,2
+-05:00,629
+-07:00,45
+-08:00,1
+,
+Contributors Experience,Average across 3002 files: 90.70%
+File,Top Contributor Share (%)
+fastapi/pydantic_utils.py,100.00
+fastapi/security/base.py,100.00
+tests/endpoints/a.py,100.00
+tests/endpoints/b.py,100.00
+LICENSE,100.00
+dist/fastapi-0.1.0/pyproject.toml,100.00
+docs/img/icon-white.svg,100.00
+docs/img/logo-teal-vector.svg,100.00
+docs/img/logo-teal.svg,100.00
+docs/tutorial/index.md,100.00

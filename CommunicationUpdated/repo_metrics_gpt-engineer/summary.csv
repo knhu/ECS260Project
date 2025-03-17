@@ -1,0 +1,204 @@
+Field,Value
+Commits Overview,
+Total Commits,1648
+Total Unique Authors,113
+,
+Top 10 Contributors,
+Author,Commits
+Axel Theorell,1004
+Anton Osika,642
+kristiankyvik,253
+Talion,249
+Theo McCabe,241
+captivus,128
+azrv,77
+UmerHA,76
+Peter Harrington,60
+Leonardo Mariga,56
+,
+Communication Events,Total: 317
+"Author1,Author2",Events
+"ma-raza,Anton Osika",31
+"Anton Osika,Axel Theorell",14
+"Axel Theorell,Talion",13
+"Theo McCabe,Axel Theorell",11
+"Emil Ahlbäck,Anton Osika",8
+"Talion,Axel Theorell",8
+"sweep-ai[bot],Anton Osika",7
+"Anton Osika,Enzo Martin",7
+"Anton Osika,Emil Ahlbäck",6
+"Carl Thomé,Anton Osika",5
+"Anton Osika,Peter Harrington",5
+"Patilla Code,Anton Osika",5
+"OriAshkenazi,Anton Osika",4
+"captivus,UmerHA",4
+"Axel Theorell,Anton Osika",4
+"Anton Azarov,Anton Osika",4
+"Anton Osika,LopeKinz",4
+"Leonardo Mariga,Peter Harrington",3
+"Ayoub Fletcher,Anton Osika",3
+"Jack Eadie,Anton Osika",3
+"Anton Osika,Plamen Ivanov",3
+"AJ,Anton Osika",3
+"Krish Dholakia,Anton Osika",3
+"PatillaCode,Jack Eadie",3
+"Lukas Petersson,Anton Osika",2
+"Romain d'Esparbès,Anton Osika",2
+"Patilla Code,Carl Thomé",2
+"Peter Harrington,AJ",2
+"azrv,Erik Bjäreholt",2
+"Talion,Theo McCabe",2
+"aroramrinaal,Anton Osika",2
+"UmerHA,Anton Osika",2
+"captivus,rjsenanayaka",2
+"captivus,Axel Theorell",2
+"kristiankyvik,Talion",2
+"Axel Theorell,Theo McCabe",2
+"Artem Moskvin,Yaroslav Halchenko",2
+"Axel Theorell,ATheorell",2
+"Anton Osika,sweep-ai[bot]",2
+"Anton Osika,Patilla Code",2
+"Anton Osika,OriAshkenazi",2
+"Anton Osika,Leonardo Mariga",2
+"Emil Ahlbäck,Junlin Liu",2
+"Erik Bjäreholt,ATheorell",2
+"Axel Theorell,Vibor Cipan",2
+"Gonçalo Moita,Anton Osika",2
+"RareMojo,Anton Osika",2
+"Romain d'Esparbès,Patilla Code",2
+"Erik Bjäreholt,captivus",2
+"Enzo Martin,Anton Osika",2
+"Artem Moskvin,Anton Osika",2
+"Anton Osika,azrv",2
+"ATheorell,captivus",1
+"Anton Osika,--Explosion--",1
+"Anton Osika,ATheorell",1
+"ATheorell,Axel Theorell",1
+"Anton Osika,PatillaCode",1
+"Anton Osika,Nitaym",1
+"Anton Osika,Junlin Liu",1
+"Anton Osika,Lukas Petersson",1
+"Anton Osika,David Verzolla",1
+"Anton Osika,David Cameron",1
+"Anton Osika,Erik Bjäreholt",1
+"Anton Osika,Fabian Hedin",1
+"Anton Osika,Daniel McDonald",1
+"Anton Osika,Carl Thomé",1
+"Anton Osika,AJ",1
+"Enzo Martin,Junlin Liu",1
+"Anton Osika,Timothy Sturm",1
+"Enzo Martin,Emil Ahlbäck",1
+"Axel Theorell,Antti Kaihola",1
+"Anton Osika,Sibo Van Gool",1
+"David Verzolla,Anton Osika",1
+"Daniel McDonald,Anton Osika",1
+"Axel Theorell,saschalalala",1
+"Axel Theorell,Peter Harrington",1
+"Ashish,Shubham Attri",1
+"Antti Kaihola,hmasdev",1
+"Anton Osika,TheoMcCabe",1
+"Anton Osika,Ziga Brencic",1
+"Anton Osika,theo",1
+"Anton Osika,kafka",1
+"Anton Osika,george",1
+"Anton Osika,abdelrhman yasser2020",1
+"Anton Osika,Vicente Reyes",1
+"Anton Osika,Talion",1
+"Anton Osika,RareMojo",1
+"Anton Osika,Theo McCabe",1
+"Leonardo Mariga,UmerHA",1
+"Leonardo Mariga,Lucas Klein",1
+"Leonardo Mariga,Anton Azarov",1
+"Kristian Kyvik,kristiankyvik",1
+"Junlin Liu,Patilla Code",1
+"Junlin Liu,nwa",1
+"Junlin Liu,Anton Osika",1
+"Junlin Liu,Carl Thomé",1
+"Jack Eadie,Patilla Code",1
+"Fathi Helmi,Nitaym",1
+"Jesus Salomon,Ayoub Fletcher",1
+"Jack Eadie,Ryan Jalynski",1
+"Eric Leijonmarck,Axel Theorell",1
+"Enzo Martin,PatillaCode",1
+"Erik Bjäreholt,Axel Theorell",1
+"Erik Bjäreholt,kristiankyvik",1
+"Emil Ahlbäck,Carl Thomé",1
+"Emil Ahlbäck,jjzhuo",1
+"Enzo Martin,Carl Thomé",1
+"Enzo Martin,Gonçalo Moita",1
+"Enzo Martin,Patilla Code",1
+"Plamen Ivanov,Philipp Kohler",1
+"Patilla Code,Emil Ahlbäck",1
+"PatillaCode,Philipp Kohler",1
+"Philipp Kohler,Patilla Code",1
+"Philipp Kohler,Anton Osika",1
+"Peter Harrington,Anton Osika",1
+"PatillaCode,Anton Osika",1
+"Michael Rowan,Anton Osika",1
+"LopeKinz,Romain d'Esparbès",1
+"M. Verbeek,kristiankyvik",1
+"Lucas Klein,Leonardo Mariga",1
+"Theo McCabe,Anton Osika",1
+"Talion,kristiankyvik",1
+"Sibo Van Gool,Anton Osika",1
+"Talion,Anton Osika",1
+"Shubham Attri,Patilla Code",1
+"Ryan Jalynski,Anton Osika",1
+"Plamen Ivanov,Anton Osika",1
+"Ruijian-Zha,captivus",1
+"Philipp Kohler,Romain d'Esparbès",1
+"Plamen Ivanov,Shubham Attri",1
+"abdelrhman yasser2020,Philipp Kohler",1
+"Vicente Reyes,Anton Osika",1
+"Vibor Cipan,Axel Theorell",1
+"Yaroslav Halchenko,Patilla Code",1
+"Yaroslav Halchenko,Anton Osika",1
+"Theo McCabe,Theo Mc",1
+"captivus,saschalalala",1
+"azrv,Talion",1
+"abdelrhman yasser2020,Plamen Ivanov",1
+"george,Patilla Code",1
+"jnichols0,PatillaCode",1
+"jjzhuo,Anton Osika",1
+"kristiankyvik,Ernie Massei",1
+"hmasdev,Theo McCabe",1
+"lukas,Anton Osika",1
+"nwa,Anton Osika",1
+"saschalalala,ATheorell",1
+"saschalalala,UmerHA",1
+"sweep-ai[bot],Plamen Ivanov",1
+"sweep-ai[bot],theo",1
+"theo,Theo Mc",1
+"umarmnaq,lukas",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,95
++01:00,513
++02:00,674
++03:00,10
++05:00,1
++05:30,8
++05:45,1
++08:00,1
++09:00,1
++11:00,1
+-03:00,55
+-04:00,118
+-05:00,59
+-06:00,37
+-07:00,73
+-08:00,1
+,
+Contributors Experience,Average across 403 files: 85.85%
+File,Top Contributor Share (%)
+system,100.00
+user,100.00
+identity/clarify,100.00
+identity/qa,100.00
+example/main_prompt,100.00
+TODO.md,100.00
+LICENSE,100.00
+benchmark/file_explorer/main_prompt,100.00
+benchmark/image_resizer/main_prompt,100.00
+benchmark/timer_app/main_prompt,100.00

@@ -1,0 +1,10 @@
+File,Top Contributor Share (%)
+.gitignore,100.00
+LICENSE,100.00
+README.md,74.80
+doc/mdeval.txt,100.00
+lua/defaults.lua,50.00
+lua/mdeval.lua,52.05
+plugin/mdeval.vim,100.00
+.stylua.toml,100.00
+.github/workflows/check.yml,100.00

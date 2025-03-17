@@ -1,0 +1,163 @@
+Field,Value
+Commits Overview,
+Total Commits,4245
+Total Unique Authors,115
+,
+Top 10 Contributors,
+Author,Commits
+Evan Wallace,21558
+Ryan Tsao,55
+magic-akari,23
+John Gozde,23
+翠 / green,21
+Ade Viankakrisna Fadlil,21
+Justin Ridgewell,17
+Fedor Indutny,15
+Pig Fang,14
+Liu Bowen,14
+,
+Communication Events,Total: 293
+"Author1,Author2",Events
+"Ryan Tsao,Evan Wallace",25
+"Justin Ridgewell,Evan Wallace",15
+"Ade Viankakrisna Fadlil,Evan Wallace",14
+"magic-akari,Evan Wallace",11
+"翠 / green,Evan Wallace",10
+"David Yamnitsky,Evan Wallace",7
+"Pig Fang,Evan Wallace",7
+"Evan Wallace,Ade Viankakrisna Fadlil",6
+"Evan Wallace,翠 / green",6
+"Evan Wallace,Liu Bowen",6
+"Piggy,Evan Wallace",5
+"kikuchan,Evan Wallace",5
+"susiwen8,Evan Wallace",4
+"Greg Troxel,Evan Wallace",4
+"beyond_1234,Evan Wallace",4
+"Tommaso De Rossi,Evan Wallace",4
+"Evan Wallace,Pig Fang",4
+"Evan Wallace,John Doe",4
+"Evan Wallace,Fedor Indutny",4
+"Evan Wallace,Ryan Tsao",4
+"Evan Wallace,Eelco Lempsink",3
+"Evan Wallace,Justin Ridgewell",3
+"Evan Wallace,Grzegorz Rozdzialik",3
+"Caleb Eby,Evan Wallace",3
+"Fedor Indutny,Evan Wallace",3
+"Evan Wallace,一丝",3
+"IU,Evan Wallace",3
+"Hiroshi Ogawa,Evan Wallace",3
+"Shahid,Evan Wallace",3
+"S. Brent Faulkner,Evan Wallace",3
+"Victor Korzunin,Evan Wallace",3
+"一丝,Evan Wallace",3
+"Huon Wilson,Evan Wallace",2
+"Urjeet Patel,Evan Wallace",2
+"Nathan Keynes,Evan Wallace",2
+"timse,Evan Wallace",2
+"John Doe,Evan Wallace",2
+"Luca Casonato,Evan Wallace",2
+"Liu Bowen,Evan Wallace",2
+"Jamal Carvalho,Evan Wallace",2
+"Evan Wallace,Greg Troxel",2
+"Evan Wallace,susiwen8",2
+"Jarred Sumner,Evan Wallace",2
+"Ian McKenzie,Evan Wallace",2
+"Evan Wallace,Chris Casola",2
+"Evan Wallace,IU",2
+"Evan Wallace,Shahid",2
+"Evan Wallace,S. Brent Faulkner",2
+"Evan Wallace,Tommaso De Rossi",2
+"Chris Casola,Evan Wallace",2
+"Ethan Smith,Evan Wallace",2
+"Erik Jan de Wit,Evan Wallace",2
+"Evan Wallace,ArrayZoneYour",1
+"Brandon Bloom,Evan Wallace",1
+"CHEN Yuan,Evan Wallace",1
+"BlueGreenMagick,Evan Wallace",1
+"Evan Wallace,beyond_1234",1
+"Evan Wallace,Zuckjet",1
+"Evan Wallace,Victor Korzunin",1
+"Evan Wallace,Valentin Deleplace",1
+"Evan Wallace,Samy Pessé",1
+"Evan Wallace,Piotr Krawiec",1
+"Evan Wallace,Remco Haszing",1
+"Evan Wallace,Richard Davey",1
+"Evan Wallace,Nathan Keynes",1
+"Evan Wallace,Nevkontakte",1
+"Evan Wallace,Nicolas Peugnet",1
+"Evan Wallace,Kid",1
+"Evan Wallace,Lucas Garron",1
+"Evan Wallace,Luke Sheard",1
+"Evan Wallace,Matt Mc",1
+"Evan Wallace,Mike Cook",1
+"Evan Wallace,Evan You",1
+"Evan Wallace,Guy Bedford",1
+"Evan Wallace,Ian McKenzie",1
+"Evan Wallace,Jamal Carvalho",1
+"Alex,Evan Wallace",1
+"ArrayZoneYour,Evan Wallace",1
+"Bo-Yi Wu,Evan Wallace",1
+"Cheng Liangyu,Evan Wallace",1
+"Eelco Lempsink,Evan Wallace",1
+"Dominik Hassler,Evan Wallace",1
+"Day,Evan Wallace",1
+"David Zukowski,Evan Wallace",1
+"Daniel Martí,Evan Wallace",1
+"Evan Wallace,Alex",1
+"Evan Wallace,CHEN Yuan",1
+"Evan You,Evan Wallace",1
+"Matt Mc,Evan Wallace",1
+"Mathieu Dutour,Evan Wallace",1
+"Luke Edwards,Jamal Carvalho",1
+"Lucas Garron,Evan Wallace",1
+"Kirill Romanov,Evan Wallace",1
+"Liu Bowen,Chris Casola",1
+"John Gozde,Evan Wallace",1
+"Jonas,Evan Wallace",1
+"Jian Yu,Evan Wallace",1
+"Evan Wallace,magic-akari",1
+"Evan Wallace,ryota kise",1
+"Evan Wallace,ym-project",1
+"Guy Bedford,Evan Wallace",1
+"Grzegorz Rozdzialik,Evan Wallace",1
+"Greg Troxel,Piotr Krawiec",1
+"Hayden Young,Evan Wallace",1
+"Sushain Cherivirala,Evan Wallace",1
+"Salvatore Previti,Evan Wallace",1
+"Rui,Evan Wallace",1
+"Piotr Krawiec,翠 / green",1
+"Nevkontakte,翠 / green",1
+"Nevkontakte,Evan Wallace",1
+"Nils Helmig,Evan Wallace",1
+"Nicolas Peugnet,Evan Wallace",1
+"Mike Cook,Evan Wallace",1
+"dmitrage,Evan Wallace",1
+"Zuckjet,Evan Wallace",1
+"Valentin Deleplace,Evan Wallace",1
+"Trung Lê,Evan Wallace",1
+"bl-ue,Evan Wallace",1
+"mseele,Evan Wallace",1
+"咲奈Sakina,Evan Wallace",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++00:00,234
++08:00,44
+-04:00,991
+-05:00,527
+-06:00,32
+-07:00,1714
+-08:00,703
+,
+Contributors Experience,Average across 486 files: 97.93%
+File,Top Contributor Share (%)
+LICENSE.md,100.00
+npm/esbuild-linux-64/package.json,100.00
+npm/esbuild-windows-64/bin/esbuild,100.00
+npm/esbuild-windows-64/package.json,100.00
+package-lock.json,100.00
+package.json,100.00
+scripts/test262.js,100.00
+src/esbuild/ast/ast.go,100.00
+src/esbuild/bundler/bundler.go,100.00
+src/esbuild/bundler/renamer.go,100.00

@@ -1,0 +1,91 @@
+Field,Value
+Commits Overview,
+Total Commits,1143
+Total Unique Authors,61
+,
+Top 10 Contributors,
+Author,Commits
+lllyasviel,2420
+lvmin,635
+Manuel Schmid,380
+Chris Rohrer,284
+MoonRide303,80
+Sergii Dymchenko,14
+xhoxye,12
+delta_lt_0,11
+MindOfMatter,10
+whitehara,9
+,
+Communication Events,Total: 201
+"Author1,Author2",Events
+"lllyasviel,lvmin",34
+"lvmin,lllyasviel",31
+"MoonRide303,lllyasviel",27
+"lllyasviel,MoonRide303",27
+"Manuel Schmid,lllyasviel",5
+"Magee,Manuel Schmid",5
+"lllyasviel,Manuel Schmid",4
+"MoonRide303,lvmin",4
+"Manuel Schmid,MindOfMatter",3
+"lvmin,MoonRide303",3
+"Brian Flannery,Manuel Schmid",3
+"Manuel Schmid,Cruxial",2
+"Cruxial,xhoxye",2
+"Manuel Schmid,Alexdnk",2
+"Manuel Schmid,cantor-set",2
+"Huy Nguyen,lllyasviel",2
+"cantor-set,Manuel Schmid",2
+"xhoxye,lllyasviel",2
+"lllyasviel,ttio2tech",2
+"xhoxye,Manuel Schmid",2
+"hswlab,Manuel Schmid",2
+"MindOfMatter,Brian Flannery",2
+"MindOfMatter,Manuel Schmid",2
+"Manuel Schmid,xhoxye",2
+"Manuel Schmid,whitehara",2
+"Roman Schmitz,Manuel Schmid",2
+"dooglewoogle,Manuel Schmid",2
+"Manuel Schmid,dooglewoogle",2
+"AlexL,lllyasviel",1
+"Chris Rohrer,lllyasviel",1
+"Alistair Keiller,lllyasviel",1
+"Alexdnk,Manuel Schmid",1
+"Cruxial,Manuel Schmid",1
+"Manuel Schmid,docppp",1
+"Manuel Schmid,Spencer Hayes-Laverdiere",1
+"Manuel Schmid,Brian Flannery",1
+"Manuel Schmid,Magee",1
+"Manuel Schmid,eddyizm",1
+"delta_lt_0,Manuel Schmid",1
+"Manuel Schmid,hisk2323",1
+"Maxim Saplin,Manuel Schmid",1
+"hisk2323,Manuel Schmid",1
+"lllyasviel,Huy Nguyen",1
+"lllyasviel,tcmaps",1
+"tcmaps,lllyasviel",1
+"whitehara,Manuel Schmid",1
+"ttio2tech,lllyasviel",1
+"xhoxye,hswlab",1
+"御坂IO,lllyasviel",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++01:00,102
++02:00,169
+-04:00,2
+-05:00,1
+-07:00,689
+-08:00,180
+,
+Contributors Experience,Average across 682 files: 97.36%
+File,Top Contributor Share (%)
+entry.py,100.00
+sd_xl_base.yaml,100.00
+sd_xl_refiner.yaml,100.00
+sgm/__init__.py,100.00
+sgm/data/__init__.py,100.00
+sgm/data/cifar10.py,100.00
+sgm/data/dataset.py,100.00
+sgm/data/mnist.py,100.00
+sgm/inference/api.py,100.00
+sgm/inference/helpers.py,100.00

@@ -1,0 +1,1732 @@
+author,timestamp,file
+danbernier,2010-08-30 17:38:57+00:00,.classpath
+danbernier,2010-08-30 17:38:57+00:00,.project
+danbernier,2010-08-30 17:38:57+00:00,.settings/org.eclipse.jdt.core.prefs
+danbernier,2010-08-30 17:38:57+00:00,LICENSE
+danbernier,2010-08-30 17:38:57+00:00,NOTICE
+danbernier,2010-08-30 17:38:57+00:00,build.xml
+danbernier,2010-08-30 17:38:57+00:00,example/example/Main.java
+danbernier,2010-08-30 17:38:57+00:00,example/example/MainFading.java
+danbernier,2010-08-30 17:38:57+00:00,example/example/MainOffScreen.java
+danbernier,2010-08-30 17:38:57+00:00,example/tao-te-ching.txt
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/Anglers.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/BBTree.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/CenterClumpWordPlacer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/Colorers.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/Fonters.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/GrabBagWordFonter.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/RandomWordNudger.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/Sizers.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/SwirlWordPlacer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/UpperLeftWordPlacer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/Word.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordAngler.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordColorer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordCram.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordFonter.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordNudger.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordPlacer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/WordSizer.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/text/StopWords.java
+danbernier,2010-08-30 17:38:57+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-08-30 17:38:57+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-08-30 21:30:28+00:00,example/example/Main.java
+danbernier,2010-08-30 21:30:28+00:00,example/example/MainFading.java
+danbernier,2010-08-30 21:30:28+00:00,example/example/MainOffScreen.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/Anglers.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/BBTree.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/CenterClumpWordPlacer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/Colorers.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/Fonters.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/GrabBagWordFonter.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/RandomWordNudger.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/Sizers.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/SwirlWordPlacer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/UpperLeftWordPlacer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/Word.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordAngler.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordColorer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordCram.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordFonter.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordNudger.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordPlacer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/WordSizer.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/text/StopWords.java
+danbernier,2010-08-30 21:30:28+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-08-30 21:30:28+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-08-31 01:20:52+00:00,build.xml
+danbernier,2010-08-31 02:30:13+00:00,src/wordcram/WordCram.java
+danbernier,2010-08-31 17:12:59+00:00,build.xml
+danbernier,2010-08-31 17:53:45+00:00,example/example/Main.java
+danbernier,2010-08-31 17:53:45+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-08-31 17:53:45+00:00,src/wordcram/Word.java
+danbernier,2010-08-31 17:53:45+00:00,src/wordcram/WordCram.java
+danbernier,2010-08-31 17:53:45+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-09-01 02:33:23+00:00,example/example/Main.java
+danbernier,2010-09-01 02:33:23+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-09-01 02:33:23+00:00,src/wordcram/RandomWordNudger.java
+danbernier,2010-09-01 02:33:23+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2010-09-01 02:33:23+00:00,src/wordcram/Word.java
+danbernier,2010-09-01 02:33:23+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-01 02:33:23+00:00,src/wordcram/WordNudger.java
+danbernier,2010-09-01 13:19:02+00:00,src/wordcram/BBTree.java
+danbernier,2010-09-01 13:19:02+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-09-01 13:19:02+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-09-01 13:19:33+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-01 13:29:27+00:00,src/wordcram/BBTree.java
+danbernier,2010-09-01 13:29:27+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-09-01 13:29:27+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-09-01 13:34:31+00:00,src/wordcram/BBTree.java
+danbernier,2010-09-01 13:34:31+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-09-01 13:34:31+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-09-01 13:51:10+00:00,src/wordcram/BBTree.java
+danbernier,2010-09-01 13:51:10+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-09-01 15:59:55+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-02 16:37:01+00:00,build.xml
+danbernier,2010-09-02 16:37:01+00:00,example/example/Main.java
+danbernier,2010-09-02 16:37:01+00:00,example/example/MainFading.java
+danbernier,2010-09-02 16:37:01+00:00,example/example/MainOffScreen.java
+danbernier,2010-09-02 16:37:01+00:00,src/wordcram/Colorers.java
+danbernier,2010-09-02 16:37:01+00:00,src/wordcram/Placers.java
+danbernier,2010-09-02 17:17:38+00:00,build.xml
+danbernier,2010-09-02 17:17:38+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-09-03 16:09:02+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-03 16:59:29+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-09-03 17:00:15+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2010-09-05 01:15:47+00:00,example/example/Main.java
+danbernier,2010-09-05 01:15:47+00:00,src/wordcram/Word.java
+danbernier,2010-09-05 01:15:47+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-05 01:15:47+00:00,src/wordcram/WordPlacement.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/Anglers.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/CenterClumpWordPlacer.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/Colorers.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/Fonters.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/GrabBagWordFonter.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/Placers.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/Sizers.java
+danbernier,2010-09-05 02:28:14+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-05 02:29:48+00:00,example/example/Main.java
+danbernier,2010-09-05 02:29:48+00:00,example/example/MainFading.java
+danbernier,2010-09-05 02:29:48+00:00,example/example/MainOffScreen.java
+danbernier,2010-09-05 03:13:19+00:00,example/example/Main.java
+danbernier,2010-09-05 03:13:19+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-08 17:43:25+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-08 18:22:38+00:00,build.xml
+danbernier,2010-09-09 17:14:40+00:00,build.xml
+danbernier,2010-09-09 17:15:07+00:00,.classpath
+danbernier,2010-09-09 17:15:07+00:00,ideExample/example/Main.java
+danbernier,2010-09-09 17:15:07+00:00,ideExample/example/MainOffScreen.java
+danbernier,2010-09-09 17:15:07+00:00,ideExample/tao-te-ching.txt
+danbernier,2010-09-09 17:22:44+00:00,example/simple/simple.pde
+danbernier,2010-09-13 17:31:53+00:00,src/wordcram/Word.java
+danbernier,2010-09-13 17:38:59+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-13 17:38:59+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-09-13 17:38:59+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-09-14 01:35:39+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-14 01:35:39+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-09-14 01:36:46+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-09-14 01:38:42+00:00,ideExample/example/Main.java
+danbernier,2010-09-14 01:42:10+00:00,ideExample/example/Main.java
+danbernier,2010-09-14 01:45:24+00:00,ideExample/example/Main.java
+danbernier,2010-09-14 01:45:24+00:00,src/wordcram/Placers.java
+danbernier,2010-09-14 01:45:24+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-09-14 01:45:24+00:00,src/wordcram/PlottingWordPlacer.java
+danbernier,2010-09-14 01:45:24+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2010-09-14 01:48:47+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-14 01:55:29+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-14 01:55:29+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-09-14 02:01:10+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-16 01:46:37+00:00,ideExample/example/Main.java
+danbernier,2010-09-16 01:46:37+00:00,src/wordcram/Sizers.java
+danbernier,2010-09-16 01:46:37+00:00,src/wordcram/Word.java
+danbernier,2010-09-16 01:46:37+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-16 01:46:37+00:00,src/wordcram/text/WordSorterAndScaler.java
+danbernier,2010-09-16 01:46:37+00:00,test/wordcram/text/TestWordSorterAndScaler.java
+danbernier,2010-09-16 02:28:33+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-09-16 02:28:33+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-09-16 02:29:12+00:00,ideExample/example/Main.java
+danbernier,2010-09-16 02:29:12+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-20 02:12:19+00:00,build.xml
+danbernier,2010-09-20 02:12:19+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-09-20 02:12:19+00:00,test/wordcram/text/TestWordSorterAndScaler.java
+danbernier,2010-09-20 21:59:55+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-21 01:24:51+00:00,build.xml
+danbernier,2010-09-21 01:24:51+00:00,lib/ant-googlecode/ant-googlecode-0.0.2.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/junit/junit-4.8.2.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/junit/junit-dep-4.8.2.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/processing/core.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/svnant/ganymed.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/svnant/svnClientAdapter.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/svnant/svnant.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/svnant/svnjavahl.jar
+danbernier,2010-09-21 01:24:51+00:00,lib/svnant/svnkit.jar
+danbernier,2010-09-22 21:19:02+00:00,src/wordcram/Placers.java
+danbernier,2010-09-23 02:00:44+00:00,ideExample/example/Main.java
+danbernier,2010-09-23 02:00:44+00:00,src/wordcram/BBTree.java
+danbernier,2010-09-23 02:00:44+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-09-23 02:00:44+00:00,src/wordcram/Word.java
+danbernier,2010-09-23 02:00:44+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-23 13:24:50+00:00,build.xml
+danbernier,2010-09-23 16:54:31+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-23 17:00:33+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-23 17:21:12+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/Placers.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/PlottingWordPlacer.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/SwirlWordPlacer.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/UpperLeftWordPlacer.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-24 12:39:44+00:00,src/wordcram/WordPlacer.java
+danbernier,2010-09-24 16:01:14+00:00,ideExample/example/Main.java
+danbernier,2010-09-24 16:01:14+00:00,src/wordcram/Sizers.java
+danbernier,2010-09-24 16:40:30+00:00,build.xml
+danbernier,2010-09-27 02:17:34+00:00,src/wordcram/Colorers.java
+danbernier,2010-09-27 02:19:16+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-27 22:03:28+00:00,example/babynames/babynames.pde
+danbernier,2010-09-27 22:03:28+00:00,example/babynames/data/names.txt
+danbernier,2010-09-27 22:03:28+00:00,example/usConstitution/data/LiberationSerif-Regular.ttf
+danbernier,2010-09-27 22:03:28+00:00,example/usConstitution/data/usconst.txt
+danbernier,2010-09-27 22:03:28+00:00,example/usConstitution/usConstitution.pde
+danbernier,2010-09-28 01:59:51+00:00,example/babynames/babynames.pde
+danbernier,2010-09-28 01:59:51+00:00,example/simple/simple.pde
+danbernier,2010-09-28 01:59:51+00:00,example/usConstitution/usConstitution.pde
+danbernier,2010-09-28 01:59:51+00:00,ideExample/example/Main.java
+danbernier,2010-09-28 01:59:51+00:00,src/wordcram/Fonters.java
+danbernier,2010-09-28 02:00:49+00:00,example/helloworld/helloworld.pde
+danbernier,2010-09-28 02:09:49+00:00,build.xml
+danbernier,2010-09-28 02:20:01+00:00,example/babynames/data/MINYN___.TTF
+danbernier,2010-09-28 02:20:01+00:00,example/helloworld/helloworld.pde
+danbernier,2010-09-28 02:36:40+00:00,example/helloworld/helloworld.pde
+danbernier,2010-09-28 20:55:52+00:00,src/wordcram/text/StopWords.java
+danbernier,2010-09-29 18:15:17+00:00,build.xml
+danbernier,2010-09-29 19:02:15+00:00,.classpath
+danbernier,2010-09-29 19:02:57+00:00,.classpath
+danbernier,2010-09-29 19:02:57+00:00,ideExample/example/Main.java
+danbernier,2010-09-29 19:02:57+00:00,lib/jsoup-1.3.3.jar
+danbernier,2010-09-29 19:02:57+00:00,src/wordcram/text/Html2Text.java
+danbernier,2010-09-29 21:26:12+00:00,build.xml
+danbernier,2010-09-29 21:26:35+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-09-29 21:26:35+00:00,src/wordcram/text/WordCounter.java
+danbernier,2010-09-29 21:26:35+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-09-29 21:26:35+00:00,test/wordcram/text/TestWordCounter.java
+danbernier,2010-09-30 01:47:58+00:00,ideExample/example/Main.java
+danbernier,2010-09-30 01:47:58+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-30 01:47:58+00:00,src/wordcram/WordSorterAndScaler.java
+danbernier,2010-09-30 01:47:58+00:00,src/wordcram/text/Html2Text.java
+danbernier,2010-09-30 01:47:58+00:00,src/wordcram/text/TextFile.java
+danbernier,2010-09-30 01:47:58+00:00,src/wordcram/text/TextSource.java
+danbernier,2010-09-30 01:47:58+00:00,src/wordcram/text/WordCounter.java
+danbernier,2010-09-30 01:47:58+00:00,test/wordcram/TestWordSorterAndScaler.java
+danbernier,2010-09-30 02:12:20+00:00,ideExample/example/Main.java
+danbernier,2010-09-30 02:12:20+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-30 16:59:17+00:00,ideExample/example/Main.java
+danbernier,2010-09-30 16:59:17+00:00,src/wordcram/WordCram.java
+danbernier,2010-09-30 16:59:17+00:00,src/wordcram/text/Html.java
+danbernier,2010-09-30 16:59:17+00:00,src/wordcram/text/HtmlFile.java
+danbernier,2010-09-30 16:59:17+00:00,src/wordcram/text/Text.java
+danbernier,2010-09-30 16:59:17+00:00,src/wordcram/text/WebPage.java
+danbernier,2010-10-01 21:27:41+00:00,build.xml
+danbernier,2010-10-01 21:27:41+00:00,src/wordcram/Anglers.java
+danbernier,2010-10-01 23:11:42+00:00,build.xml
+danbernier,2010-10-02 05:54:58+00:00,javadoc/allclasses-frame.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/allclasses-noframe.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/constant-values.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/deprecated-list.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/help-doc.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/index-all.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/index.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/overview-frame.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/overview-summary.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/overview-tree.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/package-list
+danbernier,2010-10-02 05:54:58+00:00,javadoc/resources/inherit.gif
+danbernier,2010-10-02 05:54:58+00:00,javadoc/stylesheet.css
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/Anglers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/Colorers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/Fonters.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/Placers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/PlottingWordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/PlottingWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/RandomWordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/Sizers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/SpiralWordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/SwirlWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/UpperLeftWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WaveWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/Word.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordAngler.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordColorer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordCram.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordFonter.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/WordSizer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/Anglers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/Colorers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/Fonters.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/Placers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/PlottingWordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/PlottingWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/RandomWordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/Sizers.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/SpiralWordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/SwirlWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/UpperLeftWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WaveWordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/Word.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordAngler.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordColorer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordCram.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordFonter.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordNudger.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordPlacer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/class-use/WordSizer.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/package-frame.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/package-summary.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/package-tree.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/package-use.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/Html.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/Html2Text.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/HtmlFile.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/StopWords.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/Text.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/TextFile.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/TextSource.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/TextSplitter.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/WebPage.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/WordCounter.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/Html.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/Html2Text.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/HtmlFile.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/StopWords.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/Text.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/TextFile.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/TextSource.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/TextSplitter.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/WebPage.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/class-use/WordCounter.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/package-frame.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/package-summary.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/package-tree.html
+danbernier,2010-10-02 05:54:58+00:00,javadoc/wordcram/text/package-use.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/allclasses-frame.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/allclasses-noframe.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/constant-values.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/deprecated-list.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/help-doc.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/index-all.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/index.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/overview-frame.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/overview-summary.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/overview-tree.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/Anglers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/Colorers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/Fonters.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/Placers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/PlottingWordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/PlottingWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/RandomWordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/Sizers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/SpiralWordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/SwirlWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/UpperLeftWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WaveWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/Word.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordAngler.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordColorer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordCram.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordFonter.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/WordSizer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/Anglers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/Colorers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/Fonters.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/Placers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/PlottingWordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/PlottingWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/RandomWordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/Sizers.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/SpiralWordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/SwirlWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/UpperLeftWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WaveWordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/Word.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordAngler.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordColorer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordCram.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordFonter.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordNudger.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordPlacer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/class-use/WordSizer.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/package-frame.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/package-summary.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/package-tree.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/package-use.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/Html.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/Html2Text.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/HtmlFile.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/StopWords.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/Text.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/TextFile.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/TextSource.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/TextSplitter.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/WebPage.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/WordCounter.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/Html.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/Html2Text.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/HtmlFile.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/StopWords.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/Text.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/TextFile.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/TextSource.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/TextSplitter.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/WebPage.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/class-use/WordCounter.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/package-frame.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/package-summary.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/package-tree.html
+danbernier,2010-10-02 06:06:51+00:00,javadoc/wordcram/text/package-use.html
+danbernier,2010-10-02 06:18:48+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-02 06:19:18+00:00,build.xml
+danbernier,2010-10-08 12:52:07+00:00,javadoc/allclasses-frame.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/allclasses-noframe.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/constant-values.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/deprecated-list.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/help-doc.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/index-all.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/index.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/overview-frame.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/overview-summary.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/overview-tree.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/package-list
+danbernier,2010-10-08 12:52:07+00:00,javadoc/resources/inherit.gif
+danbernier,2010-10-08 12:52:07+00:00,javadoc/stylesheet.css
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/Anglers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/Colorers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/Fonters.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/Placers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/PlottingWordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/PlottingWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/RandomWordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/Sizers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/SpiralWordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/SwirlWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/UpperLeftWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WaveWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/Word.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordAngler.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordColorer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordCram.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordFonter.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/WordSizer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/Anglers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/Colorers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/Fonters.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/Placers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/PlottingWordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/PlottingWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/RandomWordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/Sizers.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/SpiralWordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/SwirlWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/UpperLeftWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WaveWordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/Word.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordAngler.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordColorer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordCram.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordFonter.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordNudger.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordPlacer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/class-use/WordSizer.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/package-frame.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/package-summary.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/package-tree.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/package-use.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/Html.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/Html2Text.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/HtmlFile.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/StopWords.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/Text.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/TextFile.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/TextSource.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/TextSplitter.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/WebPage.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/WordCounter.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/Html.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/Html2Text.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/HtmlFile.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/StopWords.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/Text.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/TextFile.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/TextSource.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/TextSplitter.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/WebPage.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/class-use/WordCounter.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/package-frame.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/package-summary.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/package-tree.html
+danbernier,2010-10-08 12:52:07+00:00,javadoc/wordcram/text/package-use.html
+danbernier,2010-10-08 13:27:17+00:00,build.xml
+danbernier,2010-10-09 16:32:21+00:00,src/wordcram/Placers.java
+danbernier,2010-10-09 16:34:04+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2010-10-09 16:34:57+00:00,src/wordcram/SwirlWordPlacer.java
+danbernier,2010-10-09 19:13:21+00:00,src/wordcram/Anglers.java
+danbernier,2010-10-09 19:13:21+00:00,src/wordcram/Placers.java
+danbernier,2010-10-13 00:52:35+00:00,src/util/Timer.java
+danbernier,2010-10-13 00:52:35+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-13 00:53:15+00:00,ideExample/example/Main.java
+danbernier,2010-10-13 01:06:15+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-13 13:28:57+00:00,src/wordcram/Anglers.java
+danbernier,2010-10-13 13:28:57+00:00,src/wordcram/WordAngler.java
+danbernier,2010-10-13 13:28:57+00:00,src/wordcram/WordColorer.java
+danbernier,2010-10-13 13:28:57+00:00,src/wordcram/WordFonter.java
+danbernier,2010-10-13 13:28:57+00:00,src/wordcram/WordPlacer.java
+danbernier,2010-10-13 13:28:57+00:00,src/wordcram/WordSizer.java
+danbernier,2010-10-19 00:37:01+00:00,src/util/Timer.java
+danbernier,2010-10-19 00:37:01+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-19 01:27:01+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-19 01:27:01+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-10-19 01:37:11+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-10-19 01:46:53+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-10-19 02:11:38+00:00,src/wordcram/BBTree.java
+danbernier,2010-10-20 18:12:24+00:00,build.xml
+danbernier,2010-10-20 18:12:24+00:00,src/overview.html
+danbernier,2010-10-20 18:12:24+00:00,src/wordcram/Anglers.java
+danbernier,2010-10-20 18:12:24+00:00,wordcram.png
+danbernier,2010-10-20 18:14:21+00:00,src/wordcram/Colorers.java
+danbernier,2010-10-20 18:14:21+00:00,src/wordcram/Sizers.java
+danbernier,2010-10-20 18:14:21+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-20 18:14:58+00:00,example/fromWebPage/fromWebPage.pde
+danbernier,2010-10-20 21:34:20+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-20 21:35:19+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-10-21 02:18:18+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2010-10-27 01:22:03+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-10-27 01:22:03+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-10-27 01:29:54+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-10-28 15:42:24+00:00,example/babynames/babynames.pde
+danbernier,2010-10-28 15:42:24+00:00,example/firstnames/data/MINYN___.TTF
+danbernier,2010-10-28 15:42:24+00:00,example/firstnames/data/names.txt
+danbernier,2010-10-28 15:42:24+00:00,example/firstnames/firstnames.pde
+danbernier,2010-10-28 15:42:24+00:00,example/helloworld/helloworld.pde
+danbernier,2010-10-28 15:42:24+00:00,example/usConstitution/usConstitution.pde
+danbernier,2010-10-28 16:08:04+00:00,example/upDown/upDown.pde
+danbernier,2010-10-28 16:08:04+00:00,ideExample/example/Main.java
+danbernier,2010-10-28 16:08:04+00:00,src/wordcram/Timer.java
+danbernier,2010-10-28 16:08:04+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-10-28 16:42:41+00:00,example/firstnames/firstnames.pde
+danbernier,2010-10-28 16:42:41+00:00,example/fromWebPage/fromWebPage.pde
+danbernier,2010-10-28 16:42:41+00:00,example/helloworld/helloworld.pde
+danbernier,2010-10-28 16:42:41+00:00,example/upDown/upDown.pde
+danbernier,2010-10-28 16:42:41+00:00,example/usConstitution/usConstitution.pde
+danbernier,2010-10-28 16:42:41+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-28 18:21:54+00:00,ideExample/example/Main.java
+danbernier,2010-10-28 18:23:26+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-10-28 18:23:26+00:00,src/wordcram/text/WordScanner.java
+danbernier,2010-10-28 18:23:26+00:00,test/wordcram/text/TestTextSplitter.java
+danbernier,2010-10-28 18:23:26+00:00,test/wordcram/text/TestWordCounter.java
+danbernier,2010-10-28 18:23:26+00:00,test/wordcram/text/TestWordScanner.java
+danbernier,2010-10-28 18:27:23+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-28 19:51:57+00:00,example/usConstitution/usConstitution.pde
+danbernier,2010-10-28 19:51:57+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-28 19:51:57+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-10-28 19:51:57+00:00,src/wordcram/text/WordCounter.java
+danbernier,2010-10-28 19:51:57+00:00,src/wordcram/text/WordScanner.java
+danbernier,2010-10-28 19:51:57+00:00,test/wordcram/text/TestWordCounter.java
+danbernier,2010-10-28 19:51:57+00:00,test/wordcram/text/TestWordScanner.java
+danbernier,2010-10-28 20:09:45+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-28 20:42:43+00:00,test/wordcram/text/TestWordCounter.java
+danbernier,2010-10-28 21:51:55+00:00,ideExample/example/Main.java
+danbernier,2010-10-28 21:51:55+00:00,src/wordcram/WordCram.java
+danbernier,2010-10-28 21:51:55+00:00,src/wordcram/text/WordCounter.java
+danbernier,2010-10-28 21:51:55+00:00,test/wordcram/text/TestWordCounter.java
+danbernier,2010-10-28 21:51:55+00:00,test/wordcram/text/TestWordScanner.java
+danbernier,2010-10-29 22:36:02+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-01 00:13:59+00:00,src/wordcram/SwirlWordPlacer.java
+danbernier,2010-11-01 00:13:59+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2010-11-01 01:01:32+00:00,src/wordcram/Sizers.java
+danbernier,2010-11-01 01:01:32+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-01 01:01:32+00:00,src/wordcram/WordSizer.java
+danbernier,2010-11-01 01:23:17+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-01 01:42:55+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-01 01:42:55+00:00,src/wordcram/text/WordCounter.java
+danbernier,2010-11-01 01:42:55+00:00,test/wordcram/text/TestWordCounter.java
+danbernier,2010-11-02 00:08:16+00:00,src/overview.html
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/Timer.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordAngler.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordColorer.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordFonter.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordNudger.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordPlacer.java
+danbernier,2010-11-02 00:08:16+00:00,src/wordcram/WordSizer.java
+danbernier,2010-11-02 17:10:15+00:00,src/wordcram/WordColorer.java
+danbernier,2010-11-02 17:10:15+00:00,src/wordcram/WordFonter.java
+danbernier,2010-11-02 17:10:15+00:00,src/wordcram/WordNudger.java
+danbernier,2010-11-02 17:11:43+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-02 17:12:35+00:00,ideExample/example/Main.java
+danbernier,2010-11-03 00:22:39+00:00,src/overview.html
+danbernier,2010-11-03 01:48:14+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-03 01:48:14+00:00,src/wordcram/text/HtmlFile.java
+danbernier,2010-11-03 01:48:14+00:00,src/wordcram/text/StopWords.java
+danbernier,2010-11-03 17:08:25+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-03 17:08:25+00:00,src/wordcram/text/StopWords.java
+danbernier,2010-11-03 17:19:46+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-03 21:34:53+00:00,src/wordcram/Anglers.java
+danbernier,2010-11-03 21:34:53+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-03 21:35:51+00:00,src/wordcram/Anglers.java
+danbernier,2010-11-04 02:09:48+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-04 17:08:28+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-04 17:09:46+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-05 01:51:26+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-07 18:41:00+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-07 23:57:34+00:00,RELEASENOTES.txt
+danbernier,2010-11-07 23:59:36+00:00,build.xml
+danbernier,2010-11-10 17:43:44+00:00,build.xml
+danbernier,2010-11-15 17:51:18+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-18 15:34:48+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-18 15:34:48+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-18 19:09:15+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-18 19:09:15+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-18 19:10:29+00:00,ideExample/example/Main.java
+danbernier,2010-11-18 19:10:29+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-23 00:50:40+00:00,ideExample/example/Main.java
+danbernier,2010-11-23 00:50:40+00:00,src/wordcram/WordCram.java
+danbernier,2010-11-23 00:50:40+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-24 01:52:17+00:00,ideExample/example/Main.java
+danbernier,2010-11-26 21:22:27+00:00,ideExample/example/Main.java
+danbernier,2010-11-26 21:22:27+00:00,src/wordcram/Word.java
+danbernier,2010-11-26 22:27:13+00:00,src/wordcram/EngineWord.java
+danbernier,2010-11-26 22:27:13+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-26 22:27:13+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-26 22:59:10+00:00,src/wordcram/EngineWord.java
+danbernier,2010-11-26 22:59:10+00:00,src/wordcram/Word.java
+danbernier,2010-11-26 22:59:10+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-26 22:59:10+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-26 23:22:39+00:00,src/wordcram/EngineWord.java
+danbernier,2010-11-26 23:22:39+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-26 23:22:39+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-27 20:06:45+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-27 20:06:45+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-27 20:24:33+00:00,src/wordcram/EngineWord.java
+danbernier,2010-11-27 20:24:33+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-11-27 20:24:33+00:00,src/wordcram/Word.java
+danbernier,2010-11-27 20:24:33+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-27 20:39:48+00:00,src/wordcram/EngineWord.java
+danbernier,2010-11-27 20:39:48+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-27 21:50:09+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-29 13:18:01+00:00,ideExample/example/Main.java
+danbernier,2010-11-29 13:18:01+00:00,src/wordcram/EngineWord.java
+danbernier,2010-11-29 13:18:01+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-11-29 13:18:01+00:00,src/wordcram/WordShaper.java
+danbernier,2010-11-29 13:20:46+00:00,src/wordcram/Timer.java
+danbernier,2010-11-29 13:20:46+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-12-01 00:16:10+00:00,src/wordcram/Anglers.java
+danbernier,2010-12-01 00:16:10+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2010-12-01 00:16:10+00:00,src/wordcram/Timer.java
+danbernier,2010-12-03 23:29:25+00:00,ideExample/example/Main.java
+danbernier,2010-12-03 23:29:25+00:00,src/wordcram/WordCram.java
+danbernier,2010-12-03 23:29:25+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-12-03 23:35:14+00:00,example/firstnames/firstnamesUsingSubclasses.pde
+danbernier,2010-12-03 23:36:57+00:00,example/firstnamesUsingSubclasses/data/MINYN___.TTF
+danbernier,2010-12-03 23:36:57+00:00,example/firstnamesUsingSubclasses/data/names.txt
+danbernier,2010-12-03 23:36:57+00:00,example/firstnamesUsingSubclasses/firstnamesUsingSubclasses.pde
+danbernier,2010-12-03 23:47:33+00:00,example/firstnamesUsingSubclasses/firstnamesUsingSubclasses.pde
+danbernier,2010-12-03 23:47:33+00:00,example/firstnamesUsingWordProperties/data/MINYN___.TTF
+danbernier,2010-12-03 23:47:33+00:00,example/firstnamesUsingWordProperties/data/names.txt
+danbernier,2010-12-03 23:47:33+00:00,example/firstnamesUsingWordProperties/firstnamesUsingWordProperties.pde
+danbernier,2010-12-04 00:02:58+00:00,example/MINYN___.TTF
+danbernier,2010-12-04 00:02:58+00:00,example/firstnamesUsingSubclasses/firstnamesUsingSubclasses.pde
+danbernier,2010-12-04 00:02:58+00:00,example/firstnamesUsingWordProperties/data/MINYN___.TTF
+danbernier,2010-12-04 00:02:58+00:00,example/firstnamesUsingWordProperties/data/names.txt
+danbernier,2010-12-04 00:02:58+00:00,example/firstnamesUsingWordProperties/firstnamesUsingWordProperties.pde
+danbernier,2010-12-04 00:02:58+00:00,example/names.txt
+danbernier,2010-12-04 00:12:42+00:00,RELEASENOTES.txt
+danbernier,2010-12-04 00:13:09+00:00,build.xml
+danbernier,2010-12-04 00:14:35+00:00,src/wordcram/WordShaper.java
+danbernier,2010-12-04 00:18:35+00:00,RELEASENOTES.txt
+danbernier,2010-12-04 00:18:35+00:00,ideExample/example/MainOffScreen.java
+danbernier,2010-12-04 00:18:35+00:00,src/wordcram/WordCram.java
+danbernier,2010-12-04 00:18:35+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-12-04 01:18:59+00:00,ideExample/example/Main.java
+danbernier,2010-12-04 01:18:59+00:00,src/wordcram/EngineWord.java
+danbernier,2010-12-04 01:18:59+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2010-12-04 01:18:59+00:00,src/wordcram/Word.java
+danbernier,2010-12-04 01:18:59+00:00,src/wordcram/WordCram.java
+danbernier,2010-12-04 01:18:59+00:00,src/wordcram/WordCramEngine.java
+danbernier,2010-12-04 01:19:56+00:00,RELEASENOTES.txt
+danbernier,2010-12-04 01:31:41+00:00,.classpath
+danbernier,2010-12-04 01:59:15+00:00,ideExample/example/Main.java
+danbernier,2010-12-04 01:59:15+00:00,src/wordcram/WordCounter.java
+danbernier,2010-12-04 01:59:15+00:00,src/wordcram/WordScanner.java
+danbernier,2010-12-04 01:59:15+00:00,src/wordcram/text/Html2Text.java
+danbernier,2010-12-04 01:59:15+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2010-12-04 01:59:15+00:00,test/wordcram/TestWordCounter.java
+danbernier,2010-12-04 01:59:15+00:00,test/wordcram/TestWordScanner.java
+danbernier,2010-12-04 01:59:15+00:00,test/wordcram/TestWordSorterAndScaler.java
+danbernier,2010-12-04 05:56:19+00:00,src/wordcram/RandomWordNudger.java
+danbernier,2010-12-04 05:57:18+00:00,src/wordcram/PlottingWordPlacer.java
+danbernier,2010-12-04 06:02:03+00:00,src/wordcram/RandomWordNudger.java
+danbernier,2010-12-04 15:58:17+00:00,src/wordcram/Fonters.java
+danbernier,2011-01-05 00:08:44+00:00,ideExample/example/Main.java
+danbernier,2011-01-05 00:08:44+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-05 00:08:44+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-05 00:23:02+00:00,ideExample/example/Main.java
+danbernier,2011-01-05 00:23:02+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-05 00:23:02+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-05 00:24:02+00:00,ideExample/example/Main.java
+danbernier,2011-01-05 00:24:02+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-05 00:24:02+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-05 00:31:30+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-05 01:37:31+00:00,src/wordcram/EngineWord.java
+danbernier,2011-01-05 01:37:31+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-05 01:37:31+00:00,src/wordcram/WordShaper.java
+danbernier,2011-01-05 02:31:52+00:00,src/wordcram/EngineWord.java
+danbernier,2011-01-05 02:33:54+00:00,src/wordcram/EngineWord.java
+danbernier,2011-01-05 03:05:48+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-05 03:17:30+00:00,RELEASENOTES.txt
+danbernier,2011-01-27 02:15:51+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-27 02:15:51+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-27 02:58:01+00:00,RELEASENOTES.txt
+danbernier,2011-01-27 02:58:01+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-27 02:58:01+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-27 03:28:35+00:00,RELEASENOTES.txt
+danbernier,2011-01-27 03:28:35+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-27 03:28:35+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 02:13:35+00:00,ideExample/example/Main.java
+danbernier,2011-01-31 02:13:35+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 02:18:33+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 02:21:30+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-31 02:21:30+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 03:11:53+00:00,example/LiberationSerif-Regular.ttf
+danbernier,2011-01-31 03:11:53+00:00,example/renderToBuffer/renderToBuffer.pde
+danbernier,2011-01-31 03:11:53+00:00,example/usConstitution/usConstitution.pde
+danbernier,2011-01-31 03:11:53+00:00,example/usconst.txt
+danbernier,2011-01-31 03:21:03+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 03:24:21+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 03:28:27+00:00,ideExample/example/Main.java
+danbernier,2011-01-31 03:28:27+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-31 03:28:27+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 03:32:07+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-31 21:34:41+00:00,ideExample/example/Main.java
+danbernier,2011-01-31 21:34:41+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-01-31 21:34:41+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-31 21:34:41+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 21:45:46+00:00,src/wordcram/WordCram.java
+danbernier,2011-01-31 21:51:21+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-01-31 21:51:21+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 22:15:02+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-01-31 22:15:33+00:00,src/wordcram/EngineWord.java
+danbernier,2011-01-31 22:31:27+00:00,src/wordcram/WordShaper.java
+danbernier,2011-02-01 13:30:16+00:00,ideExample/example/Main.java
+danbernier,2011-02-01 13:30:16+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-01 13:30:16+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-01 13:30:16+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-01 13:45:44+00:00,RELEASENOTES.txt
+danbernier,2011-02-01 18:12:44+00:00,ideExample/example/Main.java
+danbernier,2011-02-01 18:12:44+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-01 18:12:44+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-01 18:12:44+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-01 21:11:34+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-01 21:11:34+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-01 21:11:34+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-09 03:01:25+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-09 03:01:25+00:00,src/wordcram/Word.java
+danbernier,2011-02-09 04:11:01+00:00,ideExample/example/Main.java
+danbernier,2011-02-09 04:11:01+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-09 04:11:01+00:00,src/wordcram/Word.java
+danbernier,2011-02-09 04:11:01+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-12 20:08:28+00:00,.classpath
+danbernier,2011-02-12 20:08:28+00:00,build.xml
+danbernier,2011-02-12 20:08:28+00:00,lib/mockito-all-1.8.5.jar
+danbernier,2011-02-12 20:08:28+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-12 20:08:28+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-12 20:08:28+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-12 20:08:28+00:00,src/wordcram/WordShaper.java
+danbernier,2011-02-12 20:08:28+00:00,test/wordcram/AWordCramEngine.java
+danbernier,2011-02-12 20:08:28+00:00,test/wordcram/AnEngineWord.java
+danbernier,2011-02-12 20:14:33+00:00,test/wordcram/AWordCounter.java
+danbernier,2011-02-12 20:14:33+00:00,test/wordcram/AWordScanner.java
+danbernier,2011-02-12 20:14:33+00:00,test/wordcram/AWordSorterAndScaler.java
+danbernier,2011-02-12 20:14:33+00:00,test/wordcram/text/ATextSplitter.java
+danbernier,2011-02-13 01:06:00+00:00,src/wordcram/WordShaper.java
+danbernier,2011-02-13 16:59:32+00:00,lib/processing/core.jar
+danbernier,2011-02-13 18:08:54+00:00,.classpath
+danbernier,2011-02-13 18:08:54+00:00,.settings/org.eclipse.jdt.core.prefs
+danbernier,2011-02-13 18:08:54+00:00,build.xml
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/PlottingWordPlacer.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/RandomWordNudger.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/SpiralWordNudger.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/SwirlWordPlacer.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/UpperLeftWordPlacer.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/Word.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/WordSorterAndScaler.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/text/Html.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/text/Text.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/text/TextFile.java
+danbernier,2011-02-13 18:08:54+00:00,src/wordcram/text/WebPage.java
+danbernier,2011-02-13 18:08:54+00:00,test/wordcram/AWordCramEngine.java
+danbernier,2011-02-15 18:11:50+00:00,ideExample/example/Main.java
+danbernier,2011-02-15 18:11:50+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-15 18:11:50+00:00,src/wordcram/Word.java
+danbernier,2011-02-15 18:11:50+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-15 18:11:50+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-16 00:23:00+00:00,ideExample/example/Main.java
+danbernier,2011-02-16 00:23:00+00:00,ideExample/franklin.txt
+danbernier,2011-02-16 01:01:50+00:00,example/firstnamesUsingSubclasses/firstnamesUsingSubclasses.pde
+danbernier,2011-02-16 01:01:50+00:00,example/firstnamesUsingWordProperties/firstnamesUsingWordProperties.pde
+danbernier,2011-02-16 01:01:50+00:00,example/fromWebPage/fromWebPage.pde
+danbernier,2011-02-16 01:01:50+00:00,example/getWordsWhileRunning/getWordsWhileRunning.pde
+danbernier,2011-02-16 01:01:50+00:00,example/helloworld/helloworld.pde
+danbernier,2011-02-16 01:01:50+00:00,example/renderToBuffer/renderToBuffer.pde
+danbernier,2011-02-16 01:01:50+00:00,example/upDown/upDown.pde
+danbernier,2011-02-16 01:01:50+00:00,example/usConstitution/usConstitution.pde
+danbernier,2011-02-16 01:34:35+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-16 01:35:15+00:00,ideExample/example/Main.java
+danbernier,2011-02-16 01:45:03+00:00,src/wordcram/Word.java
+danbernier,2011-02-16 01:45:52+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-16 01:46:27+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-16 02:25:29+00:00,ideExample/example/Main.java
+danbernier,2011-02-16 02:25:29+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-16 02:25:29+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-16 02:25:29+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-16 02:25:29+00:00,src/wordcram/WordShaper.java
+danbernier,2011-02-16 02:25:29+00:00,test/wordcram/AWordCramEngine.java
+danbernier,2011-02-16 02:39:58+00:00,src/wordcram/WordShaper.java
+danbernier,2011-02-16 02:40:35+00:00,RELEASENOTES.txt
+danbernier,2011-02-16 02:40:35+00:00,ideExample/example/Main.java
+danbernier,2011-02-16 03:23:34+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-16 03:34:21+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-16 03:34:21+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-16 03:34:21+00:00,test/wordcram/AnEngineWord.java
+danbernier,2011-02-16 03:40:55+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-16 03:40:55+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-16 03:40:55+00:00,test/wordcram/AnEngineWord.java
+danbernier,2011-02-16 03:50:27+00:00,src/wordcram/Word.java
+danbernier,2011-02-16 04:10:34+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-22 17:37:03+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-22 17:37:03+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-22 17:37:03+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-22 17:37:56+00:00,ideExample/example/Main.java
+danbernier,2011-02-22 17:37:56+00:00,src/wordcram/Colorers.java
+danbernier,2011-02-22 17:37:56+00:00,src/wordcram/HsbWordColorer.java
+danbernier,2011-02-22 17:53:30+00:00,RELEASENOTES.txt
+danbernier,2011-02-22 17:53:30+00:00,ideExample/example/Main.java
+danbernier,2011-02-22 17:53:30+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-02-22 17:53:30+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-22 17:53:30+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-22 17:54:59+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-22 17:58:08+00:00,example/firstnamesUsingSubclasses/firstnamesUsingSubclasses.pde
+danbernier,2011-02-22 18:10:30+00:00,example/firstnamesUsingWordPresets/firstnamesUsingWordPresets.pde
+danbernier,2011-02-22 18:10:30+00:00,example/firstnamesUsingWordProperties/firstnamesUsingWordProperties.pde
+danbernier,2011-02-23 17:48:17+00:00,example/getWordsWhileRunning/getWordsWhileRunning.pde
+danbernier,2011-02-23 17:48:17+00:00,src/wordcram/Word.java
+danbernier,2011-02-23 17:48:17+00:00,src/wordcram/WordCram.java
+danbernier,2011-02-23 17:48:17+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-23 18:11:17+00:00,RELEASENOTES.txt
+danbernier,2011-02-23 18:11:17+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-02-24 01:40:54+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2011-02-24 01:40:54+00:00,src/wordcram/EngineWord.java
+danbernier,2011-02-28 17:50:57+00:00,src/wordcram/BBTree.java
+danbernier,2011-02-28 17:58:20+00:00,src/wordcram/HsbWordColorer.java
+danbernier,2011-03-03 13:22:33+00:00,.classpath
+danbernier,2011-03-03 13:22:33+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-03-03 13:22:33+00:00,src/wordcram/Word.java
+danbernier,2011-03-03 13:22:33+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-03 13:22:33+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-03-03 13:54:07+00:00,cheatsheet.txt
+danbernier,2011-03-03 19:17:43+00:00,cheatsheet.html
+danbernier,2011-03-03 19:17:43+00:00,docgen.rb
+danbernier,2011-03-03 19:17:43+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-04 02:48:43+00:00,build.xml
+danbernier,2011-03-04 02:48:43+00:00,cheatsheet.html
+danbernier,2011-03-04 02:48:43+00:00,src/wordcram/Word.java
+danbernier,2011-03-04 02:48:43+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-04 03:02:25+00:00,docgen.rb
+danbernier,2011-03-04 03:02:25+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-04 14:04:34+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-04 14:04:34+00:00,tutorial/A_loadingWords/A_loadingWords.pde
+danbernier,2011-03-04 14:04:34+00:00,tutorial/kari-the-elephant.html
+danbernier,2011-03-04 14:04:34+00:00,tutorial/kari-the-elephant.txt
+danbernier,2011-03-04 17:48:00+00:00,tutorial/A_loadingWords/A_loadingWords.pde
+danbernier,2011-03-04 17:48:00+00:00,tutorial/B_parsingOptions/B_parsingOptions.pde
+danbernier,2011-03-04 17:48:19+00:00,build.xml
+danbernier,2011-03-04 18:20:03+00:00,tutorial/C_sizingWords/C_sizingWords.pde
+danbernier,2011-03-05 20:31:48+00:00,tutorial/D_stylingWords/D_stylingWords.pde
+danbernier,2011-03-05 20:31:48+00:00,tutorial/MINYN___.TTF
+danbernier,2011-03-06 18:13:39+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-03-06 18:16:51+00:00,ideExample/example/Main.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/Colorers.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/Placers.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/PlottingWordPlacer.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/WordCounter.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-03-06 18:16:51+00:00,src/wordcram/WordSorterAndScaler.java
+danbernier,2011-03-06 18:16:51+00:00,test/wordcram/AWordCounter.java
+danbernier,2011-03-06 18:16:51+00:00,test/wordcram/AWordCramEngine.java
+danbernier,2011-03-06 18:16:51+00:00,test/wordcram/AWordSorterAndScaler.java
+danbernier,2011-03-06 21:43:11+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-06 22:43:48+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-06 22:44:23+00:00,build.xml
+danbernier,2011-03-06 22:44:23+00:00,tutorial/D_stylingWords/D_stylingWords.pde
+danbernier,2011-03-06 23:01:04+00:00,build.xml
+danbernier,2011-03-07 00:53:25+00:00,tutorial/D_stylingWords/D_stylingWords.pde
+danbernier,2011-03-07 00:53:25+00:00,tutorial/E_moreStylingWords/E_moreStylingWords.pde
+danbernier,2011-03-07 01:08:03+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-07 02:18:29+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-07 02:41:21+00:00,tutorial/A_loadingWords/A_loadingWords.pde
+danbernier,2011-03-07 02:41:21+00:00,tutorial/B_parsingOptions/B_parsingOptions.pde
+danbernier,2011-03-07 02:41:21+00:00,tutorial/C_sizingWords/C_sizingWords.pde
+danbernier,2011-03-07 02:41:21+00:00,tutorial/D_stylingWords/D_stylingWords.pde
+danbernier,2011-03-07 02:41:21+00:00,tutorial/E_moreStylingWords/E_moreStylingWords.pde
+danbernier,2011-03-07 02:41:21+00:00,tutorial/F_placingWords/F_placingWords.pde
+danbernier,2011-03-07 03:00:39+00:00,ideExample/example/Main.java
+danbernier,2011-03-07 03:00:39+00:00,src/wordcram/Word.java
+danbernier,2011-03-07 03:00:39+00:00,src/wordcram/WordSorterAndScaler.java
+danbernier,2011-03-07 03:00:39+00:00,test/wordcram/AWordSorterAndScaler.java
+danbernier,2011-03-07 03:02:56+00:00,build.xml
+danbernier,2011-03-07 03:10:36+00:00,tutorial/G_customStyleRules/G_customStyleRules.pde
+danbernier,2011-03-07 03:10:36+00:00,tutorial/I_weightYourOwnWords/I_weightYourOwnWords.pde
+danbernier,2011-03-07 03:10:36+00:00,tutorial/J_styleSpecificWords/J_styleSpecificWords.pde
+danbernier,2011-03-09 01:03:00+00:00,src/wordcram/text/StopWords.java
+danbernier,2011-03-09 01:22:51+00:00,src/wordcram/text/StopWords.java
+danbernier,2011-03-09 02:54:34+00:00,tutorial/G_customStyleRules/G_customStyleRules.pde
+danbernier,2011-03-09 02:54:34+00:00,tutorial/H_customPlacers/H_customPlacers.pde
+danbernier,2011-03-09 03:13:44+00:00,tutorial/K_wordProperties/K_wordProperties.pde
+danbernier,2011-03-09 03:13:44+00:00,tutorial/L_howDidItGo/L_howDidItGo.pde
+danbernier,2011-03-09 17:46:09+00:00,tutorial/L_howDidItGo/L_howDidItGo.pde
+danbernier,2011-03-09 18:22:44+00:00,RELEASENOTES.txt
+danbernier,2011-03-10 03:27:01+00:00,RELEASENOTES.txt
+danbernier,2011-03-10 03:27:01+00:00,src/overview.html
+danbernier,2011-03-10 03:27:01+00:00,src/wordcram/Anglers.java
+danbernier,2011-03-10 03:27:01+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2011-03-10 03:27:01+00:00,src/wordcram/PlottingWordPlacer.java
+danbernier,2011-03-10 03:27:01+00:00,src/wordcram/WaveWordPlacer.java
+danbernier,2011-03-10 03:27:01+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-17 20:13:39+00:00,src/wordcram/Placers.java
+danbernier,2011-03-17 20:13:39+00:00,src/wordcram/Sizers.java
+danbernier,2011-03-17 20:13:39+00:00,src/wordcram/Word.java
+danbernier,2011-03-17 20:13:39+00:00,tutorial/J_styleSpecificWords/J_styleSpecificWords.pde
+danbernier,2011-03-17 20:13:39+00:00,tutorial/K_howDidItGo/K_howDidItGo.pde
+danbernier,2011-03-17 20:13:39+00:00,tutorial/K_wordProperties/K_wordProperties.pde
+danbernier,2011-03-17 22:30:24+00:00,RELEASENOTES.txt
+danbernier,2011-03-21 16:33:45+00:00,src/wordcram/Timer.java
+danbernier,2011-03-21 16:33:45+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-03-21 16:36:14+00:00,src/wordcram/WordCram.java
+danbernier,2011-03-21 16:43:41+00:00,src/wordcram/WordCounter.java
+danbernier,2011-03-21 16:43:41+00:00,src/wordcram/WordScanner.java
+danbernier,2011-03-21 16:43:41+00:00,src/wordcram/text/TextSplitter.java
+danbernier,2011-03-21 16:43:41+00:00,test/wordcram/text/ATextSplitter.java
+danbernier,2011-03-27 13:16:18+00:00,build.xml
+danbernier,2011-03-27 14:48:51+00:00,RELEASENOTES.txt
+danbernier,2011-03-27 14:48:51+00:00,build.xml
+danbernier,2011-03-27 14:48:51+00:00,src/wordcram/WordScanner.java
+danbernier,2011-03-27 14:48:51+00:00,test/wordcram/AWordScanner.java
+danbernier,2011-04-02 22:28:32+00:00,src/wordcram/WordScanner.java
+danbernier,2011-04-02 22:28:32+00:00,test/wordcram/AWordScanner.java
+danbernier,2011-04-21 00:57:47+00:00,ideExample/example/Main.java
+danbernier,2011-04-21 00:57:47+00:00,src/wordcram/BBTree.java
+danbernier,2011-04-21 00:57:47+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2011-04-21 00:57:47+00:00,src/wordcram/EngineWord.java
+danbernier,2011-04-21 00:57:47+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-04-21 00:57:47+00:00,src/wordcram/WordCram.java
+danbernier,2011-04-21 00:57:47+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-04-21 01:42:46+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2011-04-22 15:56:25+00:00,src/wordcram/BBTree.java
+danbernier,2011-04-22 15:56:25+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2011-04-22 16:52:22+00:00,src/wordcram/BBTree.java
+danbernier,2011-04-22 16:52:22+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2011-04-22 16:56:17+00:00,RELEASENOTES.txt
+danbernier,2011-04-22 16:56:17+00:00,ideExample/example/Main.java
+danbernier,2011-04-22 16:56:17+00:00,src/wordcram/RenderOptions.java
+danbernier,2011-04-22 16:56:17+00:00,src/wordcram/WordCram.java
+danbernier,2011-04-22 16:56:17+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-04-22 16:56:17+00:00,tutorial/D_stylingWords/D_stylingWords.pde
+danbernier,2011-04-22 16:56:40+00:00,.classpath
+danbernier,2011-04-22 18:36:06+00:00,src/wordcram/BBTree.java
+danbernier,2011-04-22 19:00:12+00:00,src/wordcram/BBTree.java
+danbernier,2011-04-22 19:00:12+00:00,src/wordcram/BBTreeBuilder.java
+danbernier,2011-04-22 19:00:12+00:00,src/wordcram/EngineWord.java
+danbernier,2011-04-22 19:30:43+00:00,src/wordcram/BBTree.java
+danbernier,2011-04-27 03:21:42+00:00,.classpath
+danbernier,2011-04-27 03:21:42+00:00,ideExample/example/MainPdf.java
+danbernier,2011-04-27 03:21:42+00:00,lib/processing/itext.jar
+danbernier,2011-04-27 03:21:42+00:00,lib/processing/pdf.jar
+danbernier,2011-04-27 03:21:42+00:00,src/wordcram/WordCramEngine.java
+danbernier,2011-05-01 22:36:33+00:00,tutorial/K_howDidItGo/K_howDidItGo.pde
+danbernier,2011-05-01 22:36:33+00:00,tutorial/L_clickableWords/L_clickableWords.pde
+danbernier,2011-05-01 22:39:39+00:00,src/overview.html
+danbernier,2011-05-01 23:02:59+00:00,RELEASENOTES.txt
+danbernier,2011-05-01 23:02:59+00:00,example/renderToPdf/renderToPdf.pde
+danbernier,2011-05-11 13:17:54+00:00,example/fromWebPage/fromWebPage.pde
+danbernier,2011-05-11 13:17:54+00:00,example/getWordsWhileRunning/getWordsWhileRunning.pde
+danbernier,2011-05-11 13:17:54+00:00,example/helloworld/helloworld.pde
+danbernier,2011-05-11 13:17:54+00:00,example/renderToPdf/renderToPdf.pde
+danbernier,2011-05-11 17:14:26+00:00,RELEASENOTES.txt
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/firstnamesUsingWordPresets/firstnamesUsingWordPresets.pde
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/firstnamesUsingWordProperties/firstnamesUsingWordProperties.pde
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/fromWebPage/fromWebPage.pde
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/getWordsWhileRunning/getWordsWhileRunning.pde
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/renderToBuffer/renderToBuffer.pde
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/renderToPdf/renderToPdf.pde
+danbernier,2011-05-11 17:14:26+00:00,example/OtherExamples/usConstitution/usConstitution.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/A_loadingWords/A_loadingWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/B_parsingOptions/B_parsingOptions.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/C_sizingWords/C_sizingWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/D_stylingWords/D_stylingWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/E_moreStylingWords/E_moreStylingWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/F_placingWords/F_placingWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/G_customStyleRules/G_customStyleRules.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/H_customPlacers/H_customPlacers.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/I_weightYourOwnWords/I_weightYourOwnWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/J_styleSpecificWords/J_styleSpecificWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/K_howDidItGo/K_howDidItGo.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/L_clickableWords/L_clickableWords.pde
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/MINYN___.TTF
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/kari-the-elephant.html
+danbernier,2011-05-11 17:14:26+00:00,example/tutorial/kari-the-elephant.txt
+danbernier,2011-05-11 17:27:06+00:00,example/OtherExamples/renderToPdf/renderToPdf.pde
+danbernier,2011-05-11 17:40:27+00:00,RELEASENOTES.txt
+danbernier,2011-05-11 17:40:45+00:00,build.xml
+danbernier,2011-05-11 17:44:31+00:00,build.xml
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/firstnamesUsingWordPresets/firstnamesUsingWordPresets.pde
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/firstnamesUsingWordProperties/firstnamesUsingWordProperties.pde
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/fromWebPage/fromWebPage.pde
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/getWordsWhileRunning/getWordsWhileRunning.pde
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/renderToBuffer/renderToBuffer.pde
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/renderToPdf/renderToPdf.pde
+danbernier,2011-05-11 17:54:18+00:00,example/OtherExamples/usConstitution/usConstitution.pde
+danbernier,2011-05-12 13:06:02+00:00,src/wordcram/PlottingWordNudger.java
+danbernier,2011-05-13 19:56:09+00:00,example/OtherExamples/clickableWords/clickableWords.pde
+danbernier,2011-05-21 04:07:49+00:00,src/wordcram/WordCounter.java
+danbernier,2011-05-21 04:07:49+00:00,src/wordcram/WordCram.java
+danbernier,2011-05-21 04:07:49+00:00,test/wordcram/AWordCounter.java
+danbernier,2011-05-21 06:04:23+00:00,.classpath
+danbernier,2011-05-21 06:04:23+00:00,build.xml
+danbernier,2011-05-21 06:04:23+00:00,lib/cue.language.jar
+danbernier,2011-05-21 06:04:23+00:00,src/wordcram/WordCounter.java
+danbernier,2011-05-21 06:04:23+00:00,src/wordcram/WordCram.java
+danbernier,2011-05-21 06:04:23+00:00,src/wordcram/WordScanner.java
+danbernier,2011-05-21 06:04:23+00:00,src/wordcram/text/StopWords.java
+danbernier,2011-05-21 06:04:23+00:00,test/wordcram/AWordCounter.java
+danbernier,2011-05-21 06:04:23+00:00,test/wordcram/AWordScanner.java
+danbernier,2011-11-04 18:11:32+00:00,ideExample/example/Main.java
+danbernier,2011-11-04 18:11:32+00:00,src/wordcram/EngineWord.java
+danbernier,2011-11-04 18:11:32+00:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2011-11-04 17:15:24-04:00,README.md
+Dan Bernier,2011-11-04 17:16:16-04:00,README.md
+Dan Bernier,2011-11-04 18:56:26-04:00,README.md
+Dan Bernier,2011-11-04 18:57:20-04:00,README.md
+Dan Bernier,2011-11-04 19:42:19-04:00,README.md
+Dan Bernier,2011-11-06 08:53:37-05:00,README.md
+Dan Bernier,2011-11-06 08:58:32-05:00,README.md
+Dan Bernier,2011-11-06 16:31:21-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2012-01-20 22:32:22-05:00,pom.xml
+Dan Bernier,2012-01-20 22:55:16-05:00,pom.xml
+Dan Bernier,2012-01-20 22:55:16-05:00,test/wordcram/WordCounterTest.java
+Dan Bernier,2012-01-20 22:55:16-05:00,test/wordcram/WordCramEngineTest.java
+Dan Bernier,2012-01-20 22:55:16-05:00,test/wordcram/WordSorterAndScalerTest.java
+Dan Bernier,2012-01-20 23:57:39-05:00,pom.xml
+Dan Bernier,2012-01-23 13:20:34-05:00,pom.xml
+Dan Bernier,2012-06-14 21:48:29-04:00,.rvmrc
+Dan Bernier,2012-06-14 21:48:29-04:00,Gemfile
+Dan Bernier,2012-06-14 21:48:29-04:00,Rakefile
+Dan Bernier,2012-06-14 21:49:36-04:00,RELEASENOTES.txt
+Dan Bernier,2012-06-14 21:49:56-04:00,build.xml
+Dan Bernier,2012-06-14 21:50:39-04:00,Gemfile.lock
+Dan Bernier,2012-06-14 22:30:29-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-14 22:30:29-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2012-06-14 22:30:29-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2012-06-16 08:27:19-04:00,Rakefile
+Dan Bernier,2012-06-16 08:27:19-04:00,build.xml
+Dan Bernier,2012-06-16 08:41:35-04:00,build.xml
+Dan Bernier,2012-06-16 10:45:50-04:00,build.xml
+Dan Bernier,2012-06-16 11:21:11-04:00,Gemfile
+Dan Bernier,2012-06-16 11:21:11-04:00,Gemfile.lock
+Dan Bernier,2012-06-16 11:21:11-04:00,Rakefile
+Dan Bernier,2012-06-16 11:24:34-04:00,Rakefile
+Dan Bernier,2012-06-16 11:25:40-04:00,Rakefile
+Dan Bernier,2012-06-16 11:27:54-04:00,Rakefile
+Dan Bernier,2012-06-16 11:32:23-04:00,Rakefile
+Dan Bernier,2012-06-16 11:32:43-04:00,Rakefile
+Dan Bernier,2012-06-16 11:50:04-04:00,Rakefile
+Dan Bernier,2012-06-16 11:50:41-04:00,Rakefile
+Dan Bernier,2012-06-16 11:51:13-04:00,build.xml
+Dan Bernier,2012-06-16 11:56:17-04:00,Rakefile
+Dan Bernier,2012-06-16 12:00:07-04:00,Rakefile
+Dan Bernier,2012-06-16 12:01:43-04:00,Rakefile
+Dan Bernier,2012-06-16 12:02:28-04:00,Gemfile
+Dan Bernier,2012-06-16 12:40:39-04:00,Rakefile
+Dan Bernier,2012-06-16 12:40:39-04:00,build.xml
+Dan Bernier,2012-06-16 16:06:20-04:00,Rakefile
+Dan Bernier,2012-06-16 16:52:57-04:00,Rakefile
+Dan Bernier,2012-06-16 16:52:57-04:00,build.xml
+Dan Bernier,2012-06-17 16:12:39-04:00,Rakefile
+Dan Bernier,2012-06-17 16:12:39-04:00,build.xml
+Dan Bernier,2012-06-17 16:15:53-04:00,Rakefile
+Dan Bernier,2012-06-17 16:15:53-04:00,build.xml
+Dan Bernier,2012-06-17 16:19:09-04:00,build.xml
+Dan Bernier,2012-06-17 16:19:09-04:00,lib/ant-googlecode/ant-googlecode-0.0.2.jar
+Dan Bernier,2012-06-17 16:19:09-04:00,lib/svnant/ganymed.jar
+Dan Bernier,2012-06-17 16:19:09-04:00,lib/svnant/svnClientAdapter.jar
+Dan Bernier,2012-06-17 16:19:09-04:00,lib/svnant/svnant.jar
+Dan Bernier,2012-06-17 16:19:09-04:00,lib/svnant/svnjavahl.jar
+Dan Bernier,2012-06-17 16:19:09-04:00,lib/svnant/svnkit.jar
+Dan Bernier,2012-06-17 16:25:31-04:00,Rakefile
+Dan Bernier,2012-06-17 16:35:43-04:00,Rakefile
+Dan Bernier,2012-06-22 21:58:35-04:00,Rakefile
+Dan Bernier,2012-06-22 22:01:38-04:00,Rakefile
+Dan Bernier,2012-06-22 23:04:35-04:00,example/OtherExamples/clickableWords/clickableWords.pde
+Dan Bernier,2012-06-24 13:38:13-04:00,Rakefile
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/Anglers.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/BBTreeBuilder.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/Colorers.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/Fonters.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/HsbWordColorer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/Placers.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/PlottingWordNudger.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/PlottingWordPlacer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/RandomWordNudger.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/RenderOptions.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/Sizers.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/SpiralWordNudger.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/SwirlWordPlacer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/UpperLeftWordPlacer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WaveWordPlacer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/Word.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordAngler.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordColorer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordCounter.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordFonter.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordNudger.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordPlacer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordSizer.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/WordSorterAndScaler.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/text/Html.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/text/Html2Text.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/text/Text.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/text/TextFile.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/text/TextSource.java
+Dan Bernier,2012-06-24 13:38:13-04:00,src/wordcram/text/WebPage.java
+Dan Bernier,2012-06-24 13:39:34-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-24 13:44:17-04:00,Rakefile
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/Anglers.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/BBTreeBuilder.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/Colorers.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/Fonters.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/HsbWordColorer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/Placers.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/PlottingWordNudger.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/PlottingWordPlacer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/RandomWordNudger.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/RenderOptions.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/Sizers.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/SpiralWordNudger.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/SwirlWordPlacer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/UpperLeftWordPlacer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WaveWordPlacer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/Word.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordAngler.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordColorer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordCounter.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordFonter.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordNudger.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordPlacer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordSizer.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/WordSorterAndScaler.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/text/Html.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/text/Html2Text.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/text/Text.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/text/TextFile.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/text/TextSource.java
+Dan Bernier,2012-06-24 13:44:17-04:00,src/wordcram/text/WebPage.java
+Dan Bernier,2012-06-24 14:44:27-04:00,Rakefile
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/Anglers.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/BBTreeBuilder.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/Colorers.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/Fonters.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/HsbWordColorer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/Placers.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/PlottingWordNudger.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/PlottingWordPlacer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/RandomWordNudger.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/RenderOptions.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/Sizers.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/SpiralWordNudger.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/SwirlWordPlacer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/UpperLeftWordPlacer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WaveWordPlacer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/Word.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordAngler.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordColorer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordCounter.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordFonter.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordNudger.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordPlacer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordSizer.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/WordSorterAndScaler.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/text/Html.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/text/Html2Text.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/text/Text.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/text/TextFile.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/text/TextSource.java
+Dan Bernier,2012-06-24 14:44:54-04:00,src/wordcram/text/WebPage.java
+Dan Bernier,2012-06-24 14:56:23-04:00,Rakefile
+Dan Bernier,2012-06-24 14:59:20-04:00,pom.xml
+Dan Bernier,2012-06-24 14:59:20-04:00,test/wordcram/AWordCounter.java
+Dan Bernier,2012-06-24 14:59:20-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2012-06-24 14:59:20-04:00,test/wordcram/AWordSorterAndScaler.java
+Dan Bernier,2012-06-24 15:03:54-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-24 15:03:54-04:00,src/wordcram/BBTreeBuilder.java
+Dan Bernier,2012-06-24 15:03:54-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2012-06-25 19:56:53-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 19:57:33-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2012-06-25 20:15:34-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 21:30:01-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 21:42:08-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 21:44:24-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 21:56:14-04:00,test/wordcram/ABBTree.java
+Dan Bernier,2012-06-25 21:56:40-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 21:59:29-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-25 22:00:28-04:00,test/wordcram/ABBTree.java
+Dan Bernier,2012-06-26 14:24:00-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-06-26 22:32:19-04:00,test/wordcram/ABBTree.java
+Dan Bernier,2012-06-26 22:33:16-04:00,Rakefile
+Dan Bernier,2012-06-26 22:35:42-04:00,Rakefile
+Dan Bernier,2012-06-26 22:40:51-04:00,Rakefile
+Dan Bernier,2012-06-26 22:41:21-04:00,Rakefile
+Dan Bernier,2012-06-26 22:41:34-04:00,test/wordcram/AWordCounter.java
+Dan Bernier,2012-06-26 22:41:34-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2012-06-26 22:41:34-04:00,test/wordcram/AWordSorterAndScaler.java
+Dan Bernier,2012-06-26 22:43:15-04:00,test/wordcram/ABBTree.java
+Dan Bernier,2012-07-26 20:04:15-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2012-07-26 20:04:56-04:00,Rakefile
+Dan Bernier,2012-07-31 08:23:53-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-08-19 16:36:04-04:00,ideExample/example/MainPdf.java
+Dan Bernier,2012-08-19 16:36:04-04:00,src/wordcram/BBTree.java
+Dan Bernier,2012-08-19 16:36:04-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-08-19 16:36:04-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2012-08-19 16:51:02-04:00,src/wordcram/WordCounter.java
+Dan Bernier,2012-08-19 16:51:02-04:00,test/wordcram/AWordCounter.java
+Dan Bernier,2012-08-19 17:46:27-04:00,RELEASENOTES.txt
+Dan Bernier,2012-08-19 18:14:22-04:00,README.md
+Dan Bernier,2012-08-19 18:17:13-04:00,src/overview.html
+Dan Bernier,2012-08-21 07:56:23-04:00,Rakefile
+Dan Bernier,2012-08-21 22:11:20-04:00,Rakefile
+Dan Bernier,2012-08-21 22:11:20-04:00,VERSION
+Dan Bernier,2012-08-21 22:13:43-04:00,.gitignore
+Dan Bernier,2012-08-21 22:31:50-04:00,Rakefile
+Dan Bernier,2012-08-21 22:40:34-04:00,Rakefile
+Dan Bernier,2012-08-25 10:08:38-04:00,src/wordcram/WordCounter.java
+Dan Bernier,2012-08-25 10:10:19-04:00,src/wordcram/WordSorterAndScaler.java
+Dan Bernier,2012-08-25 10:10:19-04:00,test/wordcram/AWordSorterAndScaler.java
+Dan Bernier,2012-08-25 10:18:26-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-08-25 10:24:52-04:00,example/OtherExamples/usConstitution/usConstitution.pde
+Dan Bernier,2012-08-25 10:24:52-04:00,example/tutorial/B_parsingOptions/B_parsingOptions.pde
+Dan Bernier,2012-08-25 10:28:36-04:00,src/wordcram/WordCram.java
+Dan Bernier,2012-08-25 10:54:08-04:00,Rakefile
+Dan Bernier,2012-08-25 10:54:31-04:00,RELEASENOTES.txt
+Dan Bernier,2012-08-25 10:54:31-04:00,VERSION
+Dan Bernier,2012-08-25 11:02:39-04:00,Rakefile
+Dan Bernier,2012-08-25 11:10:43-04:00,Rakefile
+Dan Bernier,2012-08-25 14:35:02-04:00,ideExample/example/Main.java
+Dan Bernier,2012-08-25 14:35:30-04:00,ideExample/example/MainJFrame.java
+Dan Bernier,2012-08-25 15:05:18-04:00,Rakefile
+Dan Bernier,2012-08-25 15:25:39-04:00,Rakefile
+Dan Bernier,2012-08-25 15:27:07-04:00,Rakefile
+Dan Bernier,2012-08-25 15:34:43-04:00,Rakefile
+Dan Bernier,2012-08-25 15:38:37-04:00,Rakefile
+Dan Bernier,2012-09-12 21:39:19-04:00,ideExample/example/MainJFrame.java
+Dan Bernier,2013-02-13 05:28:51-05:00,src/wordcram/EngineWord.java
+Dan Bernier,2013-02-13 05:28:51-05:00,src/wordcram/Word.java
+Dan Bernier,2013-02-13 05:28:51-05:00,test/wordcram/AnEngineWord.java
+Dan Bernier,2013-02-13 05:35:41-05:00,README.md
+Dan Bernier,2013-02-24 17:31:06-05:00,src/wordcram/RenderOptions.java
+Dan Bernier,2013-02-24 17:31:20-05:00,RELEASENOTES.txt
+Dan Bernier,2013-02-24 18:08:37-05:00,RELEASENOTES.txt
+Dan Bernier,2013-02-24 18:08:37-05:00,src/wordcram/WordCram.java
+Dan Bernier,2013-02-25 15:10:22-05:00,VERSION
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/allclasses-frame.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/allclasses-noframe.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/constant-values.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/deprecated-list.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/help-doc.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/index-all.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/index.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/overview-frame.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/overview-summary.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/overview-tree.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/package-list
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/resources/background.gif
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/resources/tab.gif
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/resources/titlebar.gif
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/resources/titlebar_end.gif
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/stylesheet.css
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram.png
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/Anglers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/BBTree.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/BBTreeBuilder.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/Colorers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/Fonters.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/Placers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/PlottingWordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/PlottingWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/RandomWordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/Sizers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/SpiralWordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/SwirlWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/UpperLeftWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WaveWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/Word.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordAngler.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordColorer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordCram.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordFonter.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordShaper.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/WordSizer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/Anglers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/BBTree.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/BBTreeBuilder.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/Colorers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/Fonters.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/Placers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/PlottingWordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/PlottingWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/RandomWordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/Sizers.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/SpiralWordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/SwirlWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/UpperLeftWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WaveWordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/Word.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordAngler.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordColorer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordCram.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordFonter.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordNudger.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordPlacer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordShaper.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/class-use/WordSizer.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/package-frame.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/package-summary.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/package-tree.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/package-use.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/Html.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/Text.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/TextFile.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/TextSource.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/WebPage.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/class-use/Html.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/class-use/Text.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/class-use/TextFile.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/class-use/TextSource.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/class-use/WebPage.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/package-frame.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/package-summary.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/package-tree.html
+Dan Bernier,2013-02-25 15:21:41-05:00,javadoc/wordcram/text/package-use.html
+Dan Bernier,2013-02-25 15:54:47-05:00,Gemfile
+Dan Bernier,2013-02-25 15:54:47-05:00,Gemfile.lock
+Dan Bernier,2013-02-25 15:54:47-05:00,Rakefile
+Dan Bernier,2013-02-25 16:13:05-05:00,Rakefile
+Dan Bernier,2013-02-25 16:15:26-05:00,VERSION
+Dan Bernier,2013-02-25 16:15:50-05:00,VERSION
+Dan Bernier,2013-02-25 16:16:04-05:00,VERSION
+Dan Bernier,2013-02-25 16:16:14-05:00,VERSION
+Dan Bernier,2013-02-25 16:16:27-05:00,VERSION
+Dan Bernier,2013-02-25 16:16:34-05:00,VERSION
+Dan Bernier,2013-02-25 16:16:56-05:00,Rakefile
+Dan Bernier,2013-02-25 16:33:37-05:00,Rakefile
+Dan Bernier,2013-02-25 16:33:37-05:00,build.json.example
+Dan Bernier,2013-02-25 16:35:45-05:00,RELEASENOTES.txt
+Dan Bernier,2013-02-25 17:29:59-05:00,Rakefile
+Dan Bernier,2013-02-25 17:29:59-05:00,lib/jsoup-1.3.3.jar
+Dan Bernier,2013-02-25 17:29:59-05:00,lib/jsoup-1.7.2.jar
+Dan Bernier,2013-02-25 17:39:38-05:00,src/wordcram/WordCram.java
+Dan Bernier,2013-02-25 17:39:38-05:00,src/wordcram/text/Html.java
+Dan Bernier,2013-02-25 17:39:38-05:00,src/wordcram/text/Html2Text.java
+Dan Bernier,2013-02-25 17:39:38-05:00,src/wordcram/text/WebPage.java
+Dan Bernier,2013-02-25 17:41:35-05:00,RELEASENOTES.txt
+Dan Bernier,2013-02-25 19:45:12-05:00,src/wordcram/BBTree.java
+Dan Bernier,2013-03-01 12:42:49-05:00,.classpath
+simpsus,2013-03-02 15:00:58+01:00,ideExample/example/Main.java
+simpsus,2013-03-02 15:03:15+01:00,src/wordcram/ShapeBasedPlacer.java
+simpsus,2013-03-02 16:27:30+01:00,src/wordcram/WordCram.java
+simpsus,2013-03-02 16:27:30+01:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-03-03 13:19:31-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-03-11 19:57:33-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-03-11 20:41:22-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2013-03-11 20:41:22-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-03-11 21:17:36-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-03-11 21:17:36-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-03-11 21:19:24-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-03-11 21:48:41-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-03-11 21:48:41-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-03-11 21:48:41-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-03-11 21:48:41-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-03-11 21:59:54-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-03-11 21:59:54-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-06-19 21:41:35-04:00,.ruby-gemset
+Dan Bernier,2013-06-19 21:41:35-04:00,.ruby-version
+Dan Bernier,2013-06-19 21:41:35-04:00,.rvmrc
+Dan Bernier,2013-06-29 16:35:39-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2013-06-29 16:36:26-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2013-06-29 16:36:26-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-06-29 16:36:26-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-06-29 16:51:16-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-06-29 16:51:16-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-06-29 16:53:42-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-06-29 17:01:22-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2013-06-29 17:01:22-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-06-29 17:25:21-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2013-06-29 17:27:40-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2013-06-29 17:27:55-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2013-06-29 17:32:05-04:00,src/wordcram/WordCramEngine.java
+simpsus,2013-06-30 22:32:21+02:00,ideExample/example/Main.java
+simpsus,2013-06-30 22:32:21+02:00,src/wordcram/WordCram.java
+simpsus,2013-06-30 22:32:21+02:00,src/wordcram/WordCramEngine.java
+simpsus,2013-06-30 22:33:07+02:00,src/wordcram/observer/DrawObservers.java
+Dan Bernier,2013-07-01 18:52:58-04:00,RELEASENOTES.txt
+Dan Bernier,2013-07-01 19:00:26-04:00,RELEASENOTES.txt
+Dan Bernier,2013-07-01 19:36:39-04:00,.classpath
+Dan Bernier,2013-07-01 19:36:39-04:00,Rakefile
+Dan Bernier,2013-07-01 19:36:39-04:00,lib/batik.jar
+simpsus,2013-07-02 20:03:47+02:00,ideExample/example/Main.java
+simpsus,2013-07-02 20:03:47+02:00,src/wordcram/Word.java
+simpsus,2013-07-02 20:03:47+02:00,src/wordcram/WordCram.java
+simpsus,2013-07-02 20:03:47+02:00,src/wordcram/WordCramEngine.java
+simpsus,2013-07-02 20:03:47+02:00,src/wordcram/observer/DrawObservers.java
+simpsus,2013-07-02 20:17:47+02:00,src/wordcram/WordSkipReason.java
+simpsus,2013-07-02 20:17:47+02:00,src/wordcram/observer/Observer.java
+simpsus,2013-07-02 20:17:47+02:00,src/wordcram/observer/PrintStreamObserver.java
+simpsus,2013-07-03 17:23:26+02:00,ideExample/example/Main.java
+simpsus,2013-07-03 17:23:26+02:00,src/wordcram/WordCram.java
+simpsus,2013-07-03 17:23:26+02:00,src/wordcram/WordCramEngine.java
+simpsus,2013-07-03 17:23:26+02:00,src/wordcram/observer/Observer.java
+simpsus,2013-07-03 17:23:26+02:00,src/wordcram/observer/PrintStreamObserver.java
+simpsus,2013-07-03 17:23:45+02:00,src/wordcram/Observer.java
+simpsus,2013-07-03 17:23:45+02:00,src/wordcram/PrintStreamObserver.java
+simpsus,2013-07-03 19:07:33+02:00,src/wordcram/Observer.java
+simpsus,2013-07-03 19:07:33+02:00,src/wordcram/PrintStreamObserver.java
+simpsus,2013-07-03 19:07:33+02:00,src/wordcram/VoidObserver.java
+simpsus,2013-07-03 19:07:33+02:00,src/wordcram/WordCram.java
+simpsus,2013-07-03 19:07:33+02:00,src/wordcram/WordCramEngine.java
+simpsus,2013-07-03 19:07:33+02:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-07-13 09:49:14-04:00,src/wordcram/ProcessingWordRenderer.java
+Dan Bernier,2013-07-13 09:49:14-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-13 09:49:14-04:00,src/wordcram/WordRenderer.java
+Dan Bernier,2013-07-13 11:19:49-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-13 11:19:49-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-13 11:19:49-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-07-13 12:01:06-04:00,src/wordcram/ProcessingWordRenderer.java
+Dan Bernier,2013-07-13 12:01:06-04:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-07-13 12:01:06-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-13 12:01:06-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-13 12:01:06-04:00,src/wordcram/WordRenderer.java
+Dan Bernier,2013-07-13 12:03:15-04:00,example/OtherExamples/renderToSvg/renderToSvg.pde
+Dan Bernier,2013-07-13 12:05:15-04:00,.classpath
+Dan Bernier,2013-07-13 12:05:15-04:00,Rakefile
+Dan Bernier,2013-07-13 12:05:15-04:00,lib/batik.jar
+Dan Bernier,2013-07-13 12:59:02-04:00,src/wordcram/SvgWordRenderer.java
+simpsus,2013-07-14 15:05:00+02:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-07-15 19:23:24-04:00,src/wordcram/RenderOptions.java
+Dan Bernier,2013-07-15 19:23:24-04:00,src/wordcram/WordCounter.java
+Dan Bernier,2013-07-15 19:23:24-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-15 19:23:24-04:00,test/wordcram/AWordCounter.java
+Dan Bernier,2013-07-15 19:43:49-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-15 19:43:49-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-07-15 21:03:29-04:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-07-15 22:49:10-04:00,example/OtherExamples/renderToSvg/renderToSvg.pde
+Dan Bernier,2013-07-16 09:34:59-04:00,example/OtherExamples/renderToSvg/renderToSvg.pde
+Dan Bernier,2013-07-16 09:48:57-04:00,RELEASENOTES.txt
+simpsus,2013-07-16 19:20:15+02:00,ideExample/example/Main.java
+Dan Bernier,2013-07-18 19:30:26-04:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-07-18 19:31:10-04:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-07-18 19:36:01-04:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-07-18 19:55:14-04:00,example/OtherExamples/renderToBuffer/renderToBuffer.pde
+Dan Bernier,2013-07-18 19:55:14-04:00,ideExample/example/Main.java
+Dan Bernier,2013-07-18 19:55:14-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-18 19:56:37-04:00,RELEASENOTES.txt
+Dan Bernier,2013-07-18 19:58:36-04:00,VERSION
+Dan Bernier,2013-07-27 08:17:04-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-27 08:38:44-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-07-27 08:38:58-04:00,src/wordcram/Observer.java
+Dan Bernier,2013-07-27 08:38:58-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-27 08:38:58-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-27 08:45:02-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-27 08:46:40-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-27 08:59:17-04:00,src/wordcram/WordSkipReason.java
+Dan Bernier,2013-07-27 09:11:48-04:00,src/wordcram/PrintStreamObserver.java
+Dan Bernier,2013-07-27 09:11:48-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-27 09:11:48-04:00,src/wordcram/WordSkipReason.java
+Dan Bernier,2013-07-27 09:17:39-04:00,src/wordcram/WordSkipReason.java
+Dan Bernier,2013-07-27 09:31:58-04:00,src/wordcram/Word.java
+Dan Bernier,2013-07-27 09:31:58-04:00,src/wordcram/WordSkipReason.java
+Dan Bernier,2013-07-27 09:32:27-04:00,src/wordcram/VoidObserver.java
+Dan Bernier,2013-07-27 11:37:09-04:00,src/wordcram/Observer.java
+Dan Bernier,2013-07-27 11:37:09-04:00,src/wordcram/PrintStreamObserver.java
+Dan Bernier,2013-07-27 11:37:09-04:00,src/wordcram/VoidObserver.java
+Dan Bernier,2013-07-27 11:37:09-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-27 11:37:09-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-27 11:44:01-04:00,src/wordcram/Observer.java
+Dan Bernier,2013-07-27 11:44:01-04:00,src/wordcram/PrintStreamObserver.java
+Dan Bernier,2013-07-27 11:44:01-04:00,src/wordcram/VoidObserver.java
+Dan Bernier,2013-07-27 11:44:01-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-07-27 11:48:47-04:00,src/wordcram/SketchCallbackObserver.java
+Dan Bernier,2013-07-27 11:48:47-04:00,src/wordcram/VoidObserver.java
+Dan Bernier,2013-07-27 11:48:47-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-27 11:49:32-04:00,src/wordcram/Observer.java
+Dan Bernier,2013-07-27 13:37:41-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-07-27 13:37:41-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-07-27 13:50:30-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-07-27 13:50:55-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2013-07-27 13:52:37-04:00,test/wordcram/ABBTree.java
+Dan Bernier,2013-07-27 13:56:20-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-07-27 14:46:43-04:00,src/wordcram/PrintStreamObserver.java
+Dan Bernier,2013-07-27 14:48:49-04:00,ideExample/example/Main.java
+Dan Bernier,2013-07-27 14:53:01-04:00,src/wordcram/WordCram.java
+Dan Bernier,2013-08-10 14:11:57-04:00,RELEASENOTES.txt
+Dan Bernier,2013-08-10 14:16:47-04:00,cheatsheet.html
+Dan Bernier,2013-08-10 14:16:47-04:00,cheatsheet.txt
+Dan Bernier,2013-08-10 14:16:47-04:00,docgen.rb
+Dan Bernier,2013-08-10 15:58:38-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-08-10 15:58:38-04:00,test/wordcram/AWordCramEngine.java
+Dan Bernier,2013-08-10 16:01:38-04:00,RELEASENOTES.txt
+Dan Bernier,2013-08-24 10:53:41-04:00,Rakefile
+Dan Bernier,2013-11-02 17:08:31-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-12-01 17:01:11-05:00,ideExample/example/Main.java
+Dan Bernier,2013-12-01 17:01:11-05:00,ideExample/example/MainPdf.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/Anglers.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/BBTree.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/BBTreeBuilder.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/Colorers.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/EngineWord.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/Fonters.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/HsbWordColorer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/Placers.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/PlottingWordNudger.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/PlottingWordPlacer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/ProcessingWordRenderer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/RandomWordNudger.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/Sizers.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/SpiralWordNudger.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/SwirlWordPlacer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/UpperLeftWordPlacer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WaveWordPlacer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/Word.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordAngler.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordColorer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordCounter.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordCram.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordFonter.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordNudger.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordPlacer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordRenderer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordShaper.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordSizer.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/WordSorterAndScaler.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/text/Html.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/text/Html2Text.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/text/Text.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/text/TextFile.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/text/TextSource.java
+Dan Bernier,2013-12-01 17:01:11-05:00,src/wordcram/text/WebPage.java
+Dan Bernier,2013-12-01 17:01:11-05:00,test/wordcram/ABBTree.java
+Dan Bernier,2013-12-01 17:01:11-05:00,test/wordcram/AWordCounter.java
+Dan Bernier,2013-12-01 17:01:11-05:00,test/wordcram/AWordSorterAndScaler.java
+Dan Bernier,2013-12-01 17:02:26-05:00,VERSION
+Dan Bernier,2013-12-01 17:06:32-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-12-01 17:06:32-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2013-12-01 17:06:32-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2015-01-31 15:29:08-05:00,.classpath
+Dan Bernier,2015-01-31 15:29:08-05:00,.gitignore
+Dan Bernier,2015-01-31 15:29:08-05:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2015-01-31 15:29:08-05:00,src/wordcram/PlacerHeatMap.java
+Dan Bernier,2015-01-31 15:29:08-05:00,src/wordcram/WordCram.java
+Dan Bernier,2015-01-31 15:29:08-05:00,.ruby-version
+Dan Bernier,2015-01-31 15:29:08-05:00,Gemfile.lock
+Pierre Haessig,2015-01-31 15:29:08-05:00,example/tutorial/K_howDidItGo/K_howDidItGo.pde
+Dan Bernier,2015-01-31 15:29:08-05:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2015-01-31 15:29:09-05:00,example/OtherExamples/renderToPdf/renderToPdf.pde
+Dan Bernier,2015-01-31 15:29:09-05:00,example/OtherExamples/getWordsWhileRunning/getWordsWhileRunning.pde
+Dan Bernier,2015-01-31 15:29:09-05:00,example/tutorial/K2_callbacksInYourSketch/K2_callbacksInYourSketch.pde
+Dan Bernier,2015-01-31 15:29:09-05:00,example/tutorial/M_placingWordsByImageMask/M_placingWordsByImageMask.pde
+Dan Bernier,2015-01-31 15:29:09-05:00,example/tutorial/heart.png
+Dan Bernier,2015-01-31 15:29:09-05:00,example/tutorial/K2_callbacksInYourSketch/K2_callbacksInYourSketch.pde
+Dan Bernier,2015-01-31 15:29:09-05:00,example/tutorial/M_placingWordsByImageMask/M_placingWordsByImageMask.pde
+Dan Bernier,2015-01-31 15:29:09-05:00,Rakefile
+Dan Bernier,2015-01-31 16:06:11-05:00,README.md
+Dan Bernier,2015-01-31 17:03:39-05:00,Rakefile
+Dan Bernier,2015-01-31 18:12:11-05:00,.gitignore
+Dan Bernier,2015-01-31 18:12:11-05:00,Rakefile
+Dan Bernier,2015-01-31 19:37:13-05:00,Rakefile
+Dan Bernier,2015-02-01 00:05:59-05:00,.gitignore
+Dan Bernier,2015-02-01 00:05:59-05:00,Rakefile
+Dan Bernier,2015-02-01 00:05:59-05:00,example/gallery/letterStairCase/letterStairCase.pde
+Dan Bernier,2015-02-01 00:11:50-05:00,Rakefile
+Dan Bernier,2015-02-01 00:18:13-05:00,Rakefile
+Dan Bernier,2015-02-03 23:11:20-05:00,NOTICE
+Alan Orth,2015-07-30 11:55:51+03:00,README.md
+Dan Bernier,2015-10-31 16:19:54-04:00,.ruby-version
+Dan Bernier,2015-10-31 17:04:10-04:00,src/wordcram/ImageShaper.java
+Dan Bernier,2015-10-31 17:04:10-04:00,src/wordcram/PlacerHeatMap.java
+Dan Bernier,2015-10-31 17:04:10-04:00,src/wordcram/Word.java
+Dan Bernier,2015-10-31 17:04:10-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2015-10-31 17:04:17-04:00,lib/processing/core.jar
+Dan Bernier,2015-10-31 17:04:17-04:00,lib/processing/pdf.jar
+Dan Bernier,2015-10-31 17:21:52-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2015-10-31 17:21:52-04:00,src/wordcram/Word.java
+Dan Bernier,2015-10-31 17:21:52-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2015-10-31 17:24:56-04:00,src/wordcram/ProcessingWordRenderer.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/BBTreeBuilder.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/EngineWord.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/PlacerHeatMap.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/ProcessingWordRenderer.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/ShapeBasedPlacer.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/SvgWordRenderer.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/WordRenderer.java
+Dan Bernier,2015-10-31 17:25:06-04:00,src/wordcram/WordShaper.java
+Dan Bernier,2015-10-31 17:47:15-04:00,src/wordcram/WordCramEngine.java
+Dan Bernier,2015-10-31 17:51:44-04:00,VERSION
+Dan Bernier,2015-10-31 17:58:35-04:00,example/tutorial/A_loadingWords/A_loadingWords.pde
+Dan Bernier,2015-10-31 17:58:35-04:00,VERSION
+Dan Bernier,2016-01-06 03:13:22-05:00,Rakefile
+Dan Bernier,2016-01-06 03:13:22-05:00,library.properties
+Dan Bernier,2016-01-06 03:37:23-05:00,example/OtherExamples/usConstitution/usConstitution.pde
+Dan Bernier,2016-01-06 03:44:33-05:00,example/gallery/firstNames/firstNames.pde
+Dan Bernier,2016-01-06 03:44:33-05:00,example/gallery/usConstitution/usConstitution.pde
+Dan Bernier,2016-01-06 04:16:19-05:00,example/gallery/yinYangWords/data/yinyang.png
+Dan Bernier,2016-01-06 04:16:19-05:00,example/gallery/yinYangWords/yinYangWords.pde
+Dan Bernier,2016-01-06 04:36:26-05:00,Rakefile
+Dan Bernier,2016-01-06 04:48:04-05:00,Rakefile
+Dan Bernier,2016-01-06 04:50:57-05:00,Rakefile
+Dan Bernier,2016-01-06 04:50:57-05:00,example/gallery/letterStairCase/letterStairCase.pde
+Dan Bernier,2016-01-06 05:27:27-05:00,Rakefile
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/allclasses-frame.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/allclasses-noframe.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/constant-values.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/deprecated-list.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/help-doc.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/index-all.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/index.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/overview-frame.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/overview-summary.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/overview-tree.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/script.js
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Anglers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/BBTree.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/BBTreeBuilder.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Colorers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Fonters.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/ImageShaper.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Observer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/PlacerHeatMap.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Placers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/PlottingWordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/PlottingWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/RandomWordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/ShapeBasedPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Sizers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/SpiralWordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/SwirlWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/UpperLeftWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WaveWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/Word.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordAngler.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordColorer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordCram.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordFonter.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordShaper.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordSizer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/WordSkipReason.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Anglers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/BBTree.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/BBTreeBuilder.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Colorers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Fonters.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/ImageShaper.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Observer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/PlacerHeatMap.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Placers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/PlottingWordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/PlottingWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/RandomWordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/ShapeBasedPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Sizers.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/SpiralWordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/SwirlWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/UpperLeftWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WaveWordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/Word.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordAngler.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordColorer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordCram.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordFonter.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordNudger.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordPlacer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordShaper.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordSizer.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/class-use/WordSkipReason.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/package-frame.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/package-summary.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/package-tree.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/package-use.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/Html.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/Text.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/TextFile.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/TextSource.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/WebPage.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/class-use/Html.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/class-use/Text.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/class-use/TextFile.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/class-use/TextSource.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/class-use/WebPage.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/package-frame.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/package-summary.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/package-tree.html
+Dan Bernier,2016-01-06 05:37:30-05:00,javadoc/wordcram/text/package-use.html
+Dan Bernier,2016-02-12 21:29:37-05:00,src/wordcram/WordCram.java
+Dan Bernier,2016-02-12 21:29:37-05:00,src/wordcram/WordCram.java
+Dan Bernier,2016-02-12 21:29:37-05:00,src/wordcram/WordArray.java
+Dan Bernier,2016-02-12 21:29:37-05:00,src/wordcram/WordCram.java
+Dan Bernier,2016-02-12 21:29:37-05:00,src/wordcram/WordSource.java
+Dan Bernier,2016-02-12 21:29:37-05:00,src/wordcram/WordBag.java
+Dan Bernier,2016-02-12 21:38:15-05:00,VERSION
+Martin Prout,2017-03-07 20:30:20+00:00,example/OtherExamples/renderToSvg/renderToSvg.pde

@@ -1,0 +1,25 @@
+File,Top Contributor Share (%)
+LICENSE,100.00
+.gitignore,95.56
+.prettierignore,100.00
+README.md,84.02
+package-lock.json,59.89
+package.json,81.40
+prettier.config.mjs,100.00
+src/ai/providers.ts,72.89
+src/ai/text-splitter.test.ts,53.76
+src/ai/text-splitter.ts,100.00
+src/deep-research.ts,72.89
+src/feedback.ts,100.00
+src/prompt.ts,100.00
+src/run.ts,77.83
+tsconfig.json,100.00
+report.md,100.00
+.env.example,64.29
+Dockerfile,100.00
+docker-compose.yml,70.00
+package.json.docker,100.00
+src/output-manager.ts,81.16
+src/progress-manager.ts,100.00
+.nvmrc,50.00
+src/api.ts,88.34

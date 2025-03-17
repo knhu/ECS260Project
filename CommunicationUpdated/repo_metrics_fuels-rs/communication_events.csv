@@ -1,0 +1,547 @@
+file,author1,author2,time1,time2
+.github/workflows/ci.yml,Rodrigo Araújo,John Adler,2022-01-25 16:02:07-08:00,2022-01-25 19:40:10-05:00
+.github/workflows/ci.yml,Rodrigo Araújo,Dyltom,2022-02-23 13:08:55-08:00,2022-02-24 12:55:56-05:00
+.github/workflows/ci.yml,mitchmindtree,Rodrigo Araújo,2022-05-06 23:34:49-04:00,2022-05-07 09:44:10-07:00
+.github/workflows/ci.yml,tjsharp1,Rodrigo Araújo,2022-06-07 18:53:12-04:00,2022-06-08 14:35:36-07:00
+.github/workflows/ci.yml,Emir,JC,2022-06-30 17:03:04+02:00,2022-07-01 12:49:52+03:00
+.github/workflows/ci.yml,Emir,Rodrigo Araújo,2022-08-31 23:52:08+02:00,2022-09-01 08:11:24-07:00
+.github/workflows/ci.yml,Halil Beglerović,iqdecay,2022-10-13 15:56:50+02:00,2022-10-14 07:32:44+02:00
+.github/workflows/ci.yml,Ahmed Mujkic,Rodrigo Araújo,2023-01-18 22:14:08+01:00,2023-01-18 17:10:04-08:00
+.github/workflows/ci.yml,Brandon Kite,Rodrigo Araújo,2023-02-01 23:19:42-08:00,2023-02-02 19:58:43-08:00
+.github/workflows/ci.yml,Rodrigo Araújo,Brandon Kite,2023-02-02 19:58:43-08:00,2023-02-02 20:54:02-08:00
+.github/workflows/ci.yml,mitchmindtree,Halil Beglerović,2023-02-08 05:53:58+00:00,2023-02-08 15:16:22+01:00
+.github/workflows/ci.yml,Halil Beglerović,Ahmed Sagdati,2023-02-22 19:21:38+01:00,2023-02-22 16:30:06-08:00
+.github/workflows/ci.yml,Ahmed Sagdati,Ahmed Mujkic,2023-03-09 10:43:15+01:00,2023-03-09 14:41:12+01:00
+.github/workflows/ci.yml,Rodrigo Araújo,hal3e,2024-01-29 12:36:06-08:00,2024-01-29 23:14:03+01:00
+.github/workflows/ci.yml,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+.github/workflows/ci.yml,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+.github/workflows/ci.yml,Oleksii Filonenko,MujkicA,2024-05-03 10:37:34+01:00,2024-05-03 16:56:14-07:00
+.github/workflows/ci.yml,hal3e,Ahmed Sagdati,2024-05-16 23:15:47+02:00,2024-05-17 16:58:28+01:00
+.github/workflows/ci.yml,Oleksii Filonenko,hal3e,2024-05-22 09:16:44+02:00,2024-05-22 22:46:30+02:00
+.github/workflows/ci.yml,hal3e,Oleksii Filonenko,2024-07-22 11:03:22+02:00,2024-07-22 13:29:28+02:00
+.github/workflows/ci.yml,hal3e,Oleksii Filonenko,2024-08-20 15:16:00+01:00,2024-08-20 17:04:01+02:00
+.github/workflows/ci.yml,hal3e,Ahmed Sagdati,2025-02-17 12:11:13+01:00,2025-02-17 20:57:11+01:00
+.gitignore,Joshua Batty,Rodrigo Araújo,2022-03-01 11:37:43-08:00,2022-03-01 14:12:32-08:00
+Cargo.lock,Victor Nepveu,Rodrigo Araújo,2022-03-03 19:08:50+01:00,2022-03-03 10:27:06-08:00
+Cargo.lock,Rodrigo Araújo,John Adler,2022-03-12 15:58:05-08:00,2022-03-12 19:17:25-05:00
+Cargo.toml,Emir,Victor Nepveu,2022-06-16 17:45:59+02:00,2022-06-17 15:47:07+02:00
+Cargo.toml,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+Cargo.toml,Brandon Kite,Ahmed Sagdati,2023-02-03 08:20:31+01:00,2023-02-03 21:47:46+00:00
+Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2023-02-03 21:47:46+00:00,2023-02-03 14:07:08-08:00
+Cargo.toml,mitchmindtree,Brandon Kite,2023-02-08 05:53:58+00:00,2023-02-07 23:01:02-08:00
+Cargo.toml,Emir,Halil Beglerović,2023-02-13 16:58:27+01:00,2023-02-13 17:13:22+01:00
+Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2023-02-15 18:15:37+01:00,2023-02-15 17:32:55+00:00
+Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2023-02-22 16:30:06-08:00,2023-02-23 00:50:39+00:00
+Cargo.toml,Green Baneling,Rodrigo Araújo,2023-05-25 10:55:55+02:00,2023-05-25 15:56:04-07:00
+Cargo.toml,Kaya Gökalp,Rodrigo Araújo,2023-06-13 15:30:44+02:00,2023-06-13 14:11:05-07:00
+Cargo.toml,iqdecay,Hannes Karppila,2023-07-17 15:04:22+03:00,2023-07-17 18:02:57+01:00
+Cargo.toml,Green Baneling,Rodrigo Araújo,2023-08-08 15:03:39-07:00,2023-08-09 14:08:30-07:00
+Cargo.toml,hal3e,Rodrigo Araújo,2023-08-15 17:13:47+02:00,2023-08-15 12:38:49-07:00
+Cargo.toml,Rodrigo Araújo,hal3e,2023-08-15 12:38:49-07:00,2023-08-15 22:39:23+02:00
+Cargo.toml,hal3e,Rodrigo Araújo,2023-08-29 17:00:15+02:00,2023-08-30 14:56:11+00:00
+Cargo.toml,Rodrigo Araújo,Ahmed Sagdati,2023-09-11 13:38:55-07:00,2023-09-12 22:36:35+02:00
+Cargo.toml,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+Cargo.toml,Oleksii Filonenko,Rodrigo Araújo,2023-10-10 20:14:23+03:00,2023-10-10 14:05:36-07:00
+Cargo.toml,hal3e,Rodrigo Araújo,2024-04-24 22:35:06+02:00,2024-04-25 07:54:25-07:00
+Cargo.toml,hal3e,Ahmed Sagdati,2024-05-16 23:15:47+02:00,2024-05-16 21:36:30+00:00
+Cargo.toml,Green Baneling,hal3e,2024-05-30 12:29:03+02:00,2024-05-30 20:55:35+02:00
+Cargo.toml,hal3e,Ahmed Sagdati,2024-05-30 20:55:35+02:00,2024-05-31 12:20:18+02:00
+Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2024-05-31 12:20:18+02:00,2024-05-31 08:18:04-07:00
+Cargo.toml,Rodrigo Araújo,Green Baneling,2024-06-11 01:38:07-07:00,2024-06-12 10:24:10+02:00
+Cargo.toml,hal3e,Rodrigo Araújo,2024-07-09 10:00:19+02:00,2024-07-09 14:55:38-07:00
+Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2024-08-09 22:36:52+02:00,2024-08-09 16:29:30-07:00
+Cargo.toml,Oleksii Filonenko,Rodrigo Araújo,2024-08-20 17:04:01+02:00,2024-08-20 11:31:43-07:00
+Cargo.toml,MujkicA,Rodrigo Araújo,2024-10-13 21:48:24+02:00,2024-10-13 15:48:11-07:00
+Cargo.toml,Ahmed Sagdati,hal3e,2024-12-05 13:15:03+01:00,2024-12-06 11:51:29+01:00
+Cargo.toml,hal3e,Rodrigo Araújo,2025-01-17 01:07:44+01:00,2025-01-16 18:17:10-08:00
+Cargo.toml,Ahmed Sagdati,hal3e,2025-03-13 13:31:49+01:00,2025-03-13 17:03:31+01:00
+README.md,Victor Nepveu,Rodrigo Araújo,2022-03-08 22:12:00+01:00,2022-03-09 09:58:37-08:00
+README.md,Victor Nepveu,Rodrigo Araújo,2022-03-17 21:54:50+01:00,2022-03-18 08:13:17-07:00
+README.md,Halil Beglerović,Ahmed Sagdati,2023-02-22 19:21:38+01:00,2023-02-22 16:30:06-08:00
+ci_checks.sh,Brandon Kite,Rodrigo Araújo,2023-02-03 08:20:31+01:00,2023-02-03 14:07:08-08:00
+docs/src/SUMMARY.md,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 16:12:08+02:00
+docs/src/SUMMARY.md,Rodrigo Araújo,Halil Beglerović,2022-09-19 14:55:06+00:00,2022-09-19 22:14:31+02:00
+docs/src/SUMMARY.md,Ahmed Sagdati,Ahmed Mujkic,2022-10-03 17:00:00+02:00,2022-10-03 21:16:31+02:00
+docs/src/SUMMARY.md,Ahmed Sagdati,Halil Beglerović,2022-10-12 23:50:14+02:00,2022-10-13 15:56:50+02:00
+docs/src/SUMMARY.md,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+docs/src/SUMMARY.md,Emir,hal3e,2025-03-04 16:23:50+01:00,2025-03-05 11:33:35+01:00
+docs/src/abigen/the-abigen-macro.md,Halil Beglerović,Ahmed Sagdati,2023-03-13 21:14:38+01:00,2023-03-14 08:24:36-03:00
+docs/src/calling-contracts/tx-dependency-estimation.md,sarahschwartz,MujkicA,2023-06-21 09:14:54+02:00,2023-06-21 13:52:30+02:00
+docs/src/getting-started.md,Rodrigo Araújo,Daniel Bate,2024-07-11 08:58:10-07:00,2024-07-11 16:01:15+00:00
+docs/src/getting-started/basics.md,Braqzen,AyushiN,2022-05-22 19:46:14+01:00,2022-05-22 14:52:16-04:00
+docs/src/getting-started/basics.md,Brandon Kite,John Adler,2022-05-26 10:40:32-07:00,2022-05-26 17:03:59-04:00
+docs/src/getting-started/basics.md,John Adler,Oleksii Filonenko,2022-05-27 09:13:07-04:00,2022-05-28 15:47:39+03:00
+docs/src/getting-started/basics.md,Oleksii Filonenko,Victor Nepveu,2022-05-28 15:47:39+03:00,2022-05-28 21:29:57+02:00
+docs/src/getting-started/basics.md,Halil Beglerović,Thiago Araujo,2022-06-23 19:55:12+02:00,2022-06-23 18:29:43+00:00
+docs/src/getting-started/basics.md,Ahmed Mujkic,Emir,2022-07-05 22:57:38+02:00,2022-07-06 20:01:56+02:00
+docs/src/getting-started/predicates.md,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+docs/src/getting-started/setup.md,Brandon Kite,John Adler,2022-05-26 10:40:32-07:00,2022-05-26 17:03:59-04:00
+docs/src/getting-started/setup.md,John Adler,Victor Nepveu,2022-05-26 17:03:59-04:00,2022-05-27 00:54:51+02:00
+docs/src/getting-started/setup.md,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-27 08:10:08-04:00
+docs/src/getting-started/setup.md,Mohammad Fawaz,Rodrigo Araújo,2022-12-06 07:45:47-05:00,2022-12-06 15:10:26-08:00
+docs/src/getting-started/type-safe-bindings.md,Emir,Victor Nepveu,2022-06-17 14:30:55+02:00,2022-06-17 15:47:07+02:00
+docs/src/getting-started/wallets.md,John Adler,Oleksii Filonenko,2022-05-27 08:56:07-04:00,2022-05-28 15:47:39+03:00
+docs/src/predicates/send-spend-predicate.md,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+docs/src/providers/short-lived.md,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+docs/src/providers/short-lived.md,Brandon Kite,Rodrigo Araújo,2023-02-03 08:20:31+01:00,2023-02-03 14:07:08-08:00
+docs/src/testing/chains.md,Rodrigo Araújo,Emir,2022-07-13 17:12:22-07:00,2022-07-15 01:29:44+02:00
+docs/src/types/custom_types.md,Rodrigo Araújo,Emir,2022-07-14 15:24:15-07:00,2022-07-15 01:29:44+02:00
+e2e/Cargo.toml,Green Baneling,Ahmed Sagdati,2024-05-30 12:29:03+02:00,2024-05-31 12:20:18+02:00
+e2e/Forc.toml,hal3e,Ahmed Sagdati,2024-05-16 23:15:47+02:00,2024-05-17 16:58:28+01:00
+e2e/build.rs,Green Baneling,Ahmed Sagdati,2024-05-30 12:29:03+02:00,2024-05-31 12:20:18+02:00
+e2e/tests/contracts.rs,hal3e,MujkicA,2024-06-13 07:24:33-07:00,2024-06-13 07:55:18-07:00
+e2e/tests/contracts.rs,MujkicA,hal3e,2025-01-16 11:38:51+01:00,2025-01-17 01:07:44+01:00
+e2e/tests/predicates.rs,MujkicA,hal3e,2025-01-16 11:38:51+01:00,2025-01-17 01:07:44+01:00
+examples/abigen/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+examples/abigen/src/lib.rs,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+examples/contracts/Cargo.toml,Rodrigo Araújo,Emir,2022-06-15 12:11:20-07:00,2022-06-16 17:45:59+02:00
+examples/contracts/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+examples/contracts/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/contracts/src/lib.rs,Ahmed Mujkic,Emir,2022-06-15 17:14:42-07:00,2022-06-16 17:45:59+02:00
+examples/contracts/src/lib.rs,Emir,Victor Nepveu,2022-06-17 14:30:55+02:00,2022-06-17 15:47:07+02:00
+examples/contracts/src/lib.rs,Victor Nepveu,Thiago Araujo,2022-06-17 15:47:07+02:00,2022-06-17 14:49:02-04:00
+examples/contracts/src/lib.rs,Halil Beglerović,Ahmed Mujkic,2022-06-28 15:08:31+02:00,2022-06-29 01:37:52+02:00
+examples/contracts/src/lib.rs,Ahmed Mujkic,Ahmed Sagdati,2022-06-29 01:37:52+02:00,2022-06-30 01:29:44+02:00
+examples/contracts/src/lib.rs,Ahmed Mujkic,Emir,2022-07-05 22:57:38+02:00,2022-07-06 20:01:56+02:00
+examples/contracts/src/lib.rs,Emir,Ahmed Sagdati,2022-07-15 01:29:44+02:00,2022-07-15 14:45:22+02:00
+examples/contracts/src/lib.rs,Emir,Ahmed Mujkic,2022-07-27 13:22:22+02:00,2022-07-27 12:29:08+00:00
+examples/contracts/src/lib.rs,Emir,Rodrigo Araújo,2022-08-31 23:52:08+02:00,2022-09-01 08:11:24-07:00
+examples/contracts/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+examples/contracts/src/lib.rs,Brandon Kite,Rodrigo Araújo,2023-02-01 23:19:42-08:00,2023-02-02 19:58:43-08:00
+examples/contracts/src/lib.rs,Ahmed Mujkic,Halil Beglerović,2023-02-07 11:13:22+01:00,2023-02-08 10:46:15+01:00
+examples/contracts/src/lib.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+examples/contracts/src/lib.rs,hal3e,Ahmed Sagdati,2023-08-31 19:47:46+02:00,2023-09-01 19:16:29+02:00
+examples/contracts/src/lib.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+examples/contracts/src/lib.rs,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+examples/contracts/src/lib.rs,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+examples/contracts/src/lib.rs,Green Baneling,hal3e,2024-06-12 10:24:10+02:00,2024-06-12 10:39:49+02:00
+examples/contracts/src/lib.rs,Green Baneling,hal3e,2024-06-17 16:09:46-07:00,2024-06-18 23:04:48+02:00
+examples/cookbook/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/cookbook/src/lib.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 18:59:41+02:00
+examples/cookbook/src/lib.rs,Emir,Rodrigo Araújo,2022-08-31 23:52:08+02:00,2022-09-01 08:11:24-07:00
+examples/cookbook/src/lib.rs,Halil Beglerović,Ahmed Mujkic,2022-09-07 21:13:59+02:00,2022-09-08 12:59:20+02:00
+examples/cookbook/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+examples/cookbook/src/lib.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+examples/cookbook/src/lib.rs,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+examples/cookbook/src/lib.rs,hal3e,Ahmed Sagdati,2025-01-09 11:36:39+01:00,2025-01-09 17:48:03+01:00
+examples/debugging/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/debugging/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2022-10-12 23:50:14+02:00,2022-10-13 15:56:50+02:00
+examples/debugging/src/lib.rs,hal3e,Oleksii Filonenko,2024-05-02 16:29:51+02:00,2024-05-03 10:37:34+01:00
+examples/predicates/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 16:12:08+02:00,2022-08-29 10:21:36-07:00
+examples/predicates/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/predicates/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+examples/predicates/src/lib.rs,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+examples/providers/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/providers/src/lib.rs,Rodrigo Araújo,Halil Beglerović,2022-09-05 15:44:00-07:00,2022-09-06 19:17:33+02:00
+examples/rust_bindings/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+examples/rust_bindings/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/rust_bindings/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+examples/types/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/wallets/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+examples/wallets/src/lib.rs,Emir,Victor Nepveu,2022-06-16 17:45:59+02:00,2022-06-17 15:47:07+02:00
+examples/wallets/src/lib.rs,Halil Beglerović,Ahmed Mujkic,2022-07-27 10:37:51+02:00,2022-07-27 12:29:08+00:00
+fuels-abi-cli/Cargo.toml,John Adler,Rodrigo Araújo,2022-02-27 12:37:11-05:00,2022-02-27 11:42:22-08:00
+fuels-abigen-macro/Cargo.toml,Rodrigo Araújo,John Adler,2021-12-23 13:25:35-08:00,2021-12-24 12:01:39-05:00
+fuels-abigen-macro/Cargo.toml,Rodrigo Araújo,John Adler,2022-01-07 13:21:53-08:00,2022-01-07 20:31:40-05:00
+fuels-abigen-macro/Cargo.toml,John Adler,Rodrigo Araújo,2022-02-27 12:37:11-05:00,2022-02-27 11:42:22-08:00
+fuels-abigen-macro/Cargo.toml,Victor Nepveu,Rodrigo Araújo,2022-03-03 19:08:50+01:00,2022-03-03 10:27:06-08:00
+fuels-abigen-macro/tests/harness.rs,Victor Nepveu,Rodrigo Araújo,2022-01-27 13:46:20+01:00,2022-01-27 16:13:45-08:00
+fuels-abigen-macro/tests/harness.rs,Rodrigo Araújo,Victor Nepveu,2022-03-09 09:58:37-08:00,2022-03-09 21:40:50+01:00
+fuels-abigen-macro/tests/harness.rs,Victor Nepveu,Rodrigo Araújo,2022-03-17 21:54:50+01:00,2022-03-18 08:13:17-07:00
+fuels-abigen-macro/tests/harness.rs,Luiz Estácio,Brandon Kite,2022-03-28 14:25:27-03:00,2022-03-29 08:44:27-07:00
+fuels-abigen-macro/tests/harness.rs,Brandon Kite,Victor Nepveu,2022-03-29 08:44:27-07:00,2022-03-30 17:21:03+02:00
+fuels-contract/Cargo.toml,John Adler,Rodrigo Araújo,2022-02-27 12:37:11-05:00,2022-02-27 11:42:22-08:00
+fuels-contract/Cargo.toml,Rodrigo Araújo,John Adler,2022-03-12 15:58:05-08:00,2022-03-12 19:17:25-05:00
+fuels-contract/src/contract.rs,Rodrigo Araújo,Victor Nepveu,2022-03-09 09:58:37-08:00,2022-03-09 20:48:00+01:00
+fuels-contract/src/contract.rs,Victor Nepveu,Rodrigo Araújo,2022-03-09 20:48:00+01:00,2022-03-09 12:38:11-08:00
+fuels-contract/src/contract.rs,Victor Nepveu,Rodrigo Araújo,2022-03-17 21:54:50+01:00,2022-03-18 08:13:17-07:00
+fuels-contract/src/contract.rs,Rodrigo Araújo,Victor Nepveu,2022-03-18 08:13:17-07:00,2022-03-18 22:55:26+01:00
+fuels-contract/src/contract.rs,Rodrigo Araújo,John Adler,2022-03-26 22:08:36-04:00,2022-03-26 22:47:19-04:00
+fuels-contract/src/contract.rs,Luiz Estácio,John Adler,2022-03-28 14:25:27-03:00,2022-03-28 14:59:46-04:00
+fuels-contract/src/contract.rs,John Adler,Brandon Kite,2022-03-28 14:59:46-04:00,2022-03-29 08:44:27-07:00
+fuels-contract/src/contract.rs,Brandon Kite,Rodrigo Araújo,2022-03-29 08:44:27-07:00,2022-03-29 16:20:55-07:00
+fuels-contract/src/contract.rs,Rodrigo Araújo,Victor Nepveu,2022-03-29 16:20:55-07:00,2022-03-30 17:21:03+02:00
+fuels-core/Cargo.toml,John Adler,Rodrigo Araújo,2022-02-27 12:37:11-05:00,2022-02-27 11:42:22-08:00
+fuels-core/src/code_gen/abigen.rs,Victor Nepveu,Rodrigo Araújo,2022-03-03 19:08:50+01:00,2022-03-03 14:08:47-08:00
+fuels-core/src/code_gen/custom_types_gen.rs,Victor Nepveu,Rodrigo Araújo,2022-02-01 21:11:39+01:00,2022-02-02 09:30:11-08:00
+fuels-core/src/code_gen/functions_gen.rs,Victor Nepveu,Rodrigo Araújo,2022-02-01 21:11:39+01:00,2022-02-02 09:30:11-08:00
+fuels-core/src/json_abi.rs,Victor Nepveu,John Adler,2022-03-09 21:40:50+01:00,2022-03-10 08:24:11-05:00
+fuels-core/src/lib.rs,Victor Nepveu,Rodrigo Araújo,2022-03-17 21:54:50+01:00,2022-03-18 08:13:17-07:00
+fuels-rs/Cargo.toml,Rodrigo Araújo,John Adler,2022-01-07 13:21:53-08:00,2022-01-07 20:31:40-05:00
+fuels-rs/src/code_gen/custom_types_gen.rs,tjsharp1,Rodrigo Araújo,2021-12-16 14:03:24-08:00,2021-12-17 07:24:40-08:00
+fuels-signers/Cargo.toml,John Adler,Rodrigo Araújo,2022-02-27 12:37:11-05:00,2022-02-27 11:42:22-08:00
+fuels-signers/Cargo.toml,Victor Nepveu,Rodrigo Araújo,2022-03-03 17:34:54+01:00,2022-03-03 10:27:06-08:00
+fuels-signers/src/provider.rs,Rodrigo Araújo,John Adler,2022-03-09 12:38:11-08:00,2022-03-10 08:24:11-05:00
+fuels-signers/src/util.rs,Victor Nepveu,Rodrigo Araújo,2022-03-17 21:54:50+01:00,2022-03-18 08:13:17-07:00
+fuels-signers/src/wallet.rs,Rodrigo Araújo,John Adler,2022-03-09 12:38:11-08:00,2022-03-10 08:24:11-05:00
+packages/fuels-abigen-macro/Cargo.toml,Rodrigo Araújo,mitchmindtree,2022-04-29 12:07:47-07:00,2022-04-29 16:32:33-04:00
+packages/fuels-abigen-macro/Cargo.toml,mitchmindtree,Rodrigo Araújo,2022-04-29 16:32:33-04:00,2022-04-29 13:44:10-07:00
+packages/fuels-abigen-macro/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-04-29 14:48:41-07:00,2022-04-29 15:29:35-07:00
+packages/fuels-abigen-macro/Cargo.toml,Brandon Kite,Victor Nepveu,2022-05-26 10:40:32-07:00,2022-05-27 00:54:51+02:00
+packages/fuels-abigen-macro/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:12:01-04:00
+packages/fuels-abigen-macro/Cargo.toml,Rodrigo Araújo,Emir,2022-06-15 12:11:20-07:00,2022-06-16 17:45:59+02:00
+packages/fuels-abigen-macro/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+packages/fuels-abigen-macro/Cargo.toml,Emir,Rodrigo Araújo,2022-07-15 01:29:44+02:00,2022-07-15 11:28:49-07:00
+packages/fuels-abigen-macro/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-09-19 22:14:31+02:00,2022-09-19 14:11:16-07:00
+packages/fuels-abigen-macro/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+packages/fuels-abigen-macro/src/abigen_macro/parsing.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-abigen-macro/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-abigen-macro/src/parse_utils.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-abigen-macro/src/parse_utils/unique_lit_strs.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-abigen-macro/src/parse_utils/unique_name_values.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-abigen-macro/src/setup_contract_test_macro/code_gen.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-abigen-macro/tests/harness.rs,Rodrigo Araújo,Victor Nepveu,2022-04-03 22:38:58-04:00,2022-04-04 13:50:33+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Rodrigo Araújo,John Adler,2022-04-06 15:53:06-07:00,2022-04-07 10:57:59-04:00
+packages/fuels-abigen-macro/tests/harness.rs,John Adler,Rodrigo Araújo,2022-04-07 10:57:59-04:00,2022-04-07 11:59:39-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-abigen-macro/tests/harness.rs,mitchmindtree,Victor Nepveu,2022-04-29 16:32:33-04:00,2022-04-30 17:32:30+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Emir,Oleksii Filonenko,2022-05-05 12:38:24+02:00,2022-05-05 10:21:00-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Rodrigo Araújo,Victor Nepveu,2022-05-07 09:44:10-07:00,2022-05-07 21:24:56+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Brandon Kite,Victor Nepveu,2022-05-11 15:56:12-07:00,2022-05-12 20:33:42+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Mujkic,Victor Nepveu,2022-05-16 09:53:20+02:00,2022-05-16 18:57:25+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Mujkic,Emir,2022-05-24 14:45:56+02:00,2022-05-24 15:42:30+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Victor Nepveu,Brandon Kite,2022-05-25 20:56:38+02:00,2022-05-26 10:40:32-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Oleksii Filonenko,Victor Nepveu,2022-05-28 15:47:39+03:00,2022-05-28 21:29:57+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Victor Nepveu,Brandon Kite,2022-05-28 21:29:57+02:00,2022-05-28 19:04:34-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Rodrigo Araújo,John Adler,2022-06-09 14:34:38-07:00,2022-06-10 08:36:04-04:00
+packages/fuels-abigen-macro/tests/harness.rs,John Adler,Ahmed Mujkic,2022-06-10 08:36:04-04:00,2022-06-10 16:26:45+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Sagdati,Emir,2022-06-14 00:46:02+02:00,2022-06-14 22:53:38+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Emir,Halil Beglerović,2022-06-14 22:53:38+02:00,2022-06-15 11:52:45+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Halil Beglerović,Rodrigo Araújo,2022-06-15 11:52:45+02:00,2022-06-15 09:36:46-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Rodrigo Araújo,Ahmed Mujkic,2022-06-15 09:36:46-07:00,2022-06-15 17:14:42-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Mujkic,Emir,2022-06-15 17:14:42-07:00,2022-06-16 17:45:59+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Emir,Ahmed Sagdati,2022-06-16 17:45:59+02:00,2022-06-16 16:57:40-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Sagdati,Emir,2022-06-16 16:57:40-07:00,2022-06-17 14:30:55+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Emir,Victor Nepveu,2022-06-17 14:30:55+02:00,2022-06-17 15:47:07+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Victor Nepveu,Thiago Araujo,2022-06-17 15:47:07+02:00,2022-06-17 14:49:02-04:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Sagdati,Emir,2022-06-20 07:25:15-07:00,2022-06-20 18:24:13+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 21:08:59-07:00
+packages/fuels-abigen-macro/tests/harness.rs,Halil Beglerović,Ahmed Mujkic,2022-06-28 15:08:31+02:00,2022-06-29 01:37:52+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Mujkic,Ahmed Sagdati,2022-06-29 01:37:52+02:00,2022-06-30 01:29:44+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Mujkic,Ahmed Sagdati,2022-07-05 22:57:38+02:00,2022-07-06 15:18:38+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Ahmed Sagdati,Emir,2022-07-06 15:18:38+02:00,2022-07-06 20:01:56+02:00
+packages/fuels-abigen-macro/tests/harness.rs,Emir,Ahmed Mujkic,2022-07-06 20:01:56+02:00,2022-07-07 18:55:20+02:00
+packages/fuels-abigen-macro/tests/test_projects/enum_inside_struct/Forc.lock,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-abigen-macro/tests/test_projects/enum_inside_struct/out/debug/enum_inside_struct-abi.json,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-abigen-macro/tests/test_projects/enum_inside_struct/out/debug/enum_inside_struct.bin,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-abigen-macro/tests/test_projects/nested_enums/src/main.sw,Emir,Ahmed Mujkic,2022-07-06 20:01:56+02:00,2022-07-07 18:55:20+02:00
+packages/fuels-abigen-macro/tests/test_projects/storage/src/main.sw,Ahmed Mujkic,Emir,2022-07-05 22:57:38+02:00,2022-07-06 20:01:56+02:00
+packages/fuels-abigen-macro/tests/test_projects/struct_inside_enum/Forc.lock,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-abigen-macro/tests/test_projects/struct_inside_enum/out/debug/struct_inside_enum-abi.json,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-abigen-macro/tests/test_projects/struct_inside_enum/out/debug/struct_inside_enum.bin,Victor Nepveu,Rodrigo Araújo,2022-04-27 19:23:27+02:00,2022-04-28 09:56:49-07:00
+packages/fuels-accounts/src/account.rs,hal3e,Ahmed Sagdati,2025-01-09 11:36:39+01:00,2025-01-09 17:48:03+01:00
+packages/fuels-accounts/src/account.rs,MujkicA,hal3e,2025-01-16 11:38:51+01:00,2025-01-17 01:07:44+01:00
+packages/fuels-accounts/src/accounts_utils.rs,MujkicA,hal3e,2025-01-16 11:38:51+01:00,2025-01-17 01:07:44+01:00
+packages/fuels-accounts/src/lib.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels-accounts/src/lib.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-accounts/src/predicate.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-accounts/src/provider.rs,Emir,Ahmed Sagdati,2025-03-04 16:23:50+01:00,2025-03-05 11:11:45+01:00
+packages/fuels-accounts/src/wallet.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-code-gen/src/program_bindings/abigen/bindings/contract.rs,Ahmed Mujkic,Halil Beglerović,2023-02-07 11:13:22+01:00,2023-02-08 10:46:15+01:00
+packages/fuels-code-gen/src/program_bindings/abigen/bindings/contract.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels-code-gen/src/program_bindings/abigen/bindings/function_generator.rs,iqdecay,Ahmed Sagdati,2023-03-13 15:18:49+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-code-gen/src/program_bindings/abigen/bindings/predicate.rs,Halil Beglerović,Ahmed Sagdati,2023-03-13 21:14:38+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-code-gen/src/program_bindings/abigen/bindings/script.rs,Halil Beglerović,Ahmed Sagdati,2023-03-13 21:14:38+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-code-gen/src/program_bindings/abigen/bindings/script.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels-code-gen/src/program_bindings/resolved_type.rs,iqdecay,Ahmed Sagdati,2023-03-14 08:45:14+00:00,2023-03-14 08:24:36-03:00
+packages/fuels-contract/Cargo.toml,Brandon Kite,Victor Nepveu,2022-05-26 10:40:32-07:00,2022-05-27 00:54:51+02:00
+packages/fuels-contract/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:12:01-04:00
+packages/fuels-contract/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+packages/fuels-contract/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 18:59:41+02:00,2022-08-29 10:21:36-07:00
+packages/fuels-contract/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+packages/fuels-contract/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:40:02+00:00
+packages/fuels-contract/Cargo.toml,Green Baneling,Mohammad Fawaz,2022-12-12 14:15:39+00:00,2022-12-12 21:23:22-05:00
+packages/fuels-contract/src/contract.rs,Emir,Rodrigo Araújo,2022-05-09 22:10:02+02:00,2022-05-09 20:04:24-07:00
+packages/fuels-contract/src/contract.rs,Ahmed Mujkic,Emir,2022-05-24 14:45:56+02:00,2022-05-24 15:42:30+02:00
+packages/fuels-contract/src/contract.rs,John Adler,Ahmed Mujkic,2022-06-10 08:36:04-04:00,2022-06-10 16:26:45+02:00
+packages/fuels-contract/src/contract.rs,Ahmed Sagdati,Matt,2022-06-14 00:46:02+02:00,2022-06-14 00:34:11+00:00
+packages/fuels-contract/src/contract.rs,Ahmed Mujkic,Ahmed Sagdati,2022-06-15 17:14:42-07:00,2022-06-16 16:57:40-07:00
+packages/fuels-contract/src/contract.rs,Ahmed Sagdati,Victor Nepveu,2022-06-16 16:57:40-07:00,2022-06-17 15:47:07+02:00
+packages/fuels-contract/src/contract.rs,Ahmed Mujkic,Ahmed Sagdati,2022-07-05 22:57:38+02:00,2022-07-06 15:18:38+02:00
+packages/fuels-contract/src/contract.rs,Ahmed Sagdati,Emir,2022-07-06 15:18:38+02:00,2022-07-06 20:01:56+02:00
+packages/fuels-contract/src/contract.rs,Ahmed Mujkic,Emir,2022-07-19 13:41:02+00:00,2022-07-20 00:05:54+02:00
+packages/fuels-contract/src/contract.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 18:59:41+02:00
+packages/fuels-contract/src/contract.rs,Halil Beglerović,Emir,2022-09-25 23:38:27+02:00,2022-09-26 12:11:01+02:00
+packages/fuels-contract/src/contract.rs,Emir,iqdecay,2022-09-26 12:11:01+02:00,2022-09-26 13:51:45+02:00
+packages/fuels-contract/src/contract.rs,Ahmed Sagdati,Ahmed Mujkic,2022-10-03 17:00:00+02:00,2022-10-03 21:16:31+02:00
+packages/fuels-contract/src/contract_calls_utils.rs,Ahmed Mujkic,Halil Beglerović,2022-12-06 16:24:04+00:00,2022-12-06 23:37:48+01:00
+packages/fuels-contract/src/contract_calls_utils.rs,Halil Beglerović,Ahmed Sagdati,2022-12-06 23:37:48+01:00,2022-12-07 16:06:05+01:00
+packages/fuels-contract/src/execution_script.rs,Ahmed Mujkic,Halil Beglerović,2022-12-06 16:24:04+00:00,2022-12-06 23:37:48+01:00
+packages/fuels-contract/src/parameters.rs,Rodrigo Araújo,Victor Nepveu,2022-04-03 22:38:58-04:00,2022-04-04 13:50:33+02:00
+packages/fuels-contract/src/script.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 18:59:41+02:00
+packages/fuels-contract/src/script.rs,Emir,iqdecay,2022-09-26 12:11:01+02:00,2022-09-26 13:51:45+02:00
+packages/fuels-contract/src/script.rs,Emir,Ahmed Mujkic,2022-11-10 00:17:09+01:00,2022-11-09 16:52:34-08:00
+packages/fuels-core/Cargo.toml,Brandon Kite,Victor Nepveu,2022-05-26 10:40:32-07:00,2022-05-27 00:54:51+02:00
+packages/fuels-core/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:12:01-04:00
+packages/fuels-core/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+packages/fuels-core/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 18:59:41+02:00,2022-08-29 10:21:36-07:00
+packages/fuels-core/Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2022-10-26 21:48:01+00:00,2022-10-27 07:36:08-07:00
+packages/fuels-core/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+packages/fuels-core/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+packages/fuels-core/Cargo.toml,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels-core/src/abi_decoder.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/abi_decoder.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels-core/src/abi_decoder.rs,iqdecay,Ahmed Sagdati,2023-03-14 08:45:14+00:00,2023-03-14 08:24:36-03:00
+packages/fuels-core/src/abi_encoder.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abi_types.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen.rs,Victor Nepveu,mitchmindtree,2022-04-29 04:07:38+02:00,2022-04-29 16:32:33-04:00
+packages/fuels-core/src/code_gen/abigen.rs,Ahmed Mujkic,Rodrigo Araújo,2022-05-16 09:53:20+02:00,2022-05-16 11:07:13-07:00
+packages/fuels-core/src/code_gen/abigen.rs,Rodrigo Araújo,tjsharp1,2022-06-07 11:20:42-07:00,2022-06-07 18:53:12-04:00
+packages/fuels-core/src/code_gen/abigen.rs,Halil Beglerović,Rodrigo Araújo,2022-06-20 19:10:50+00:00,2022-06-20 21:08:59-07:00
+packages/fuels-core/src/code_gen/abigen.rs,Ahmed Sagdati,vicnep,2022-06-30 01:29:44+02:00,2022-06-30 13:22:01+00:00
+packages/fuels-core/src/code_gen/abigen.rs,iqdecay,Ahmed Mujkic,2022-07-26 14:50:26+02:00,2022-07-27 12:29:08+00:00
+packages/fuels-core/src/code_gen/abigen.rs,Ahmed Sagdati,Ahmed Mujkic,2022-10-03 17:00:00+02:00,2022-10-03 21:16:31+02:00
+packages/fuels-core/src/code_gen/abigen.rs,Halil Beglerović,Emir,2023-01-10 22:39:35+01:00,2023-01-11 11:15:56+01:00
+packages/fuels-core/src/code_gen/abigen.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/abigen_target.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/bindings.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/bindings/contract.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/bindings/function_generator.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/bindings/predicate.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/bindings/script.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/abigen/logs.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/custom_types.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/custom_types/enums.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/custom_types/structs.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/custom_types/utils.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/custom_types_gen.rs,Victor Nepveu,Rodrigo Araújo,2022-05-16 18:57:25+02:00,2022-05-16 11:07:13-07:00
+packages/fuels-core/src/code_gen/custom_types_gen.rs,Halil Beglerović,Rodrigo Araújo,2022-06-15 11:52:45+02:00,2022-06-15 09:36:46-07:00
+packages/fuels-core/src/code_gen/custom_types_gen.rs,Ahmed Sagdati,vicnep,2022-06-30 01:29:44+02:00,2022-06-30 13:22:01+00:00
+packages/fuels-core/src/code_gen/function_selector.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/functions_gen.rs,Rodrigo Araújo,Ahmed Mujkic,2022-06-09 14:34:38-07:00,2022-06-10 16:26:45+02:00
+packages/fuels-core/src/code_gen/functions_gen.rs,Ahmed Sagdati,Halil Beglerović,2022-06-20 07:25:15-07:00,2022-06-20 19:10:50+00:00
+packages/fuels-core/src/code_gen/functions_gen.rs,iqdecay,Ahmed Mujkic,2022-07-26 14:50:26+02:00,2022-07-27 12:29:08+00:00
+packages/fuels-core/src/code_gen/functions_gen.rs,Halil Beglerović,Emir,2023-01-10 22:39:35+01:00,2023-01-11 11:15:56+01:00
+packages/fuels-core/src/code_gen/resolved_type.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/type_path.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/code_gen/utils.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/codec.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels-core/src/codec/abi_decoder.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels-core/src/codec/abi_encoder.rs,hal3e,Ahmed Sagdati,2024-03-12 10:30:16+01:00,2024-03-12 12:39:07+01:00
+packages/fuels-core/src/codec/abi_encoder/bounded_encoder.rs,hal3e,Ahmed Sagdati,2024-03-12 10:30:16+01:00,2024-03-12 12:39:07+01:00
+packages/fuels-core/src/codec/logs.rs,hal3e,Ahmed Sagdati,2023-11-17 23:26:05+01:00,2023-11-17 15:37:26-08:00
+packages/fuels-core/src/constants.rs,Rodrigo Araújo,Victor Nepveu,2022-04-03 22:38:58-04:00,2022-04-04 13:50:33+02:00
+packages/fuels-core/src/constants.rs,Teddy Byron,Victor Nepveu,2022-04-27 11:19:58-04:00,2022-04-27 19:23:27+02:00
+packages/fuels-core/src/function_selector.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels-core/src/function_selector.rs,iqdecay,Ahmed Sagdati,2023-03-14 08:45:14+00:00,2023-03-14 08:24:36-03:00
+packages/fuels-core/src/json_abi.rs,Halil Beglerović,Ahmed Sagdati,2022-06-13 18:29:39+02:00,2022-06-14 00:46:02+02:00
+packages/fuels-core/src/json_abi.rs,Ahmed Sagdati,Emir,2022-06-14 00:46:02+02:00,2022-06-14 22:53:38+02:00
+packages/fuels-core/src/json_abi.rs,Ahmed Sagdati,vicnep,2022-06-30 01:29:44+02:00,2022-06-30 13:22:01+00:00
+packages/fuels-core/src/lib.rs,Ahmed Sagdati,vicnep,2022-06-30 01:29:44+02:00,2022-06-30 13:22:01+00:00
+packages/fuels-core/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/offsets.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/parameters.rs,Ahmed Sagdati,Emir,2022-07-06 15:18:38+02:00,2022-07-06 20:01:56+02:00
+packages/fuels-core/src/parameters.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/tokenizer.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/traits/tokenizable.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels-core/src/types.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/types/bits.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/types/byte.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-core/src/types/core/bits.rs,hal3e,Sarah Schwartz,2024-03-12 10:30:16+01:00,2024-03-12 11:04:26+01:00
+packages/fuels-core/src/types/param_types.rs,Ahmed Sagdati,hal3e,2023-10-10 17:41:50+02:00,2023-10-10 21:13:56+02:00
+packages/fuels-core/src/types/transaction_builders.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-core/src/types/transaction_builders.rs,Ahmed Sagdati,Oleksii Filonenko,2023-10-10 17:41:50+02:00,2023-10-10 20:14:23+03:00
+packages/fuels-core/src/types/transaction_builders.rs,hal3e,Ahmed Sagdati,2023-11-17 23:26:05+01:00,2023-11-17 15:37:26-08:00
+packages/fuels-core/src/types/transaction_builders.rs,hal3e,Ahmed Sagdati,2024-05-07 23:19:17+02:00,2024-05-08 15:09:57+02:00
+packages/fuels-core/src/types/transaction_builders.rs,MujkicA,hal3e,2024-06-14 15:09:24-07:00,2024-06-14 18:34:38-07:00
+packages/fuels-core/src/types/transaction_builders.rs,hal3e,MujkicA,2024-06-14 18:34:38-07:00,2024-06-14 20:55:57-07:00
+packages/fuels-core/src/types/transaction_builders.rs,MujkicA,hal3e,2025-01-16 11:38:51+01:00,2025-01-17 01:07:44+01:00
+packages/fuels-core/src/types/transaction_builders/script_dry_runner.rs,MujkicA,hal3e,2024-06-14 15:09:24-07:00,2024-06-14 18:34:38-07:00
+packages/fuels-core/src/types/wrappers/coin_type.rs,hal3e,Ahmed Sagdati,2023-11-17 23:26:05+01:00,2023-11-17 15:37:26-08:00
+packages/fuels-core/src/types/wrappers/coin_type.rs,MujkicA,hal3e,2025-01-16 11:38:51+01:00,2025-01-17 01:07:44+01:00
+packages/fuels-core/src/types/wrappers/transaction.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-core/src/types/wrappers/transaction.rs,hal3e,Ahmed Sagdati,2023-11-17 23:26:05+01:00,2023-11-17 15:37:26-08:00
+packages/fuels-core/src/types/wrappers/transaction_response.rs,hal3e,Ahmed Sagdati,2023-11-17 23:26:05+01:00,2023-11-17 15:37:26-08:00
+packages/fuels-core/src/utils.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-macros/Cargo.toml,Brandon Kite,Ahmed Sagdati,2023-02-02 20:54:02-08:00,2023-02-03 21:47:46+00:00
+packages/fuels-macros/src/abigen_macro/code_gen/resolved_type.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels-macros/src/abigen_macro/code_gen/utils.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels-macros/src/lib.rs,Oleksii Filonenko,hal3e,2024-05-03 10:37:34+01:00,2024-05-04 11:32:12+02:00
+packages/fuels-macros/src/setup_program_test/code_gen.rs,Oleksii Filonenko,hal3e,2024-05-03 10:37:34+01:00,2024-05-04 11:32:12+02:00
+packages/fuels-macros/src/utils.rs,Rodrigo Araújo,Ahmed Sagdati,2023-02-02 19:58:43-08:00,2023-02-03 21:47:46+00:00
+packages/fuels-programs/src/call_utils.rs,Emir,Halil Beglerović,2023-01-30 07:17:11+01:00,2023-01-30 23:34:06+01:00
+packages/fuels-programs/src/call_utils.rs,Ahmed Mujkic,mitchmindtree,2023-02-07 11:13:22+01:00,2023-02-08 05:53:58+00:00
+packages/fuels-programs/src/call_utils.rs,iqdecay,Halil Beglerović,2023-03-13 15:18:49+01:00,2023-03-13 21:14:38+01:00
+packages/fuels-programs/src/call_utils.rs,Halil Beglerović,Ahmed Sagdati,2023-03-13 21:14:38+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-programs/src/call_utils.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels-programs/src/call_utils.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-programs/src/contract.rs,Emir,Halil Beglerović,2023-01-30 09:28:18+01:00,2023-01-30 23:34:06+01:00
+packages/fuels-programs/src/contract.rs,Ahmed Mujkic,Halil Beglerović,2023-02-07 11:13:22+01:00,2023-02-08 10:46:15+01:00
+packages/fuels-programs/src/contract.rs,iqdecay,Halil Beglerović,2023-03-13 15:18:49+01:00,2023-03-13 21:14:38+01:00
+packages/fuels-programs/src/contract.rs,Halil Beglerović,iqdecay,2023-03-13 21:14:38+01:00,2023-03-14 08:45:14+00:00
+packages/fuels-programs/src/contract.rs,iqdecay,MujkicA,2023-08-23 13:40:36+02:00,2023-08-24 11:25:37+02:00
+packages/fuels-programs/src/contract.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-programs/src/contract.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels-programs/src/script_calls.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels-programs/src/script_calls.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels-rs/Cargo.toml,mitchmindtree,Rodrigo Araújo,2022-04-29 16:32:33-04:00,2022-04-29 13:44:10-07:00
+packages/fuels-signers/Cargo.toml,Brandon Kite,Oleksii Filonenko,2022-05-04 18:02:12-07:00,2022-05-05 10:21:00-07:00
+packages/fuels-signers/Cargo.toml,Brandon Kite,Victor Nepveu,2022-05-26 10:40:32-07:00,2022-05-27 00:54:51+02:00
+packages/fuels-signers/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:06:43-04:00
+packages/fuels-signers/Cargo.toml,Rodrigo Araújo,Emir,2022-06-15 12:11:20-07:00,2022-06-16 17:45:59+02:00
+packages/fuels-signers/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+packages/fuels-signers/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 18:59:41+02:00,2022-08-29 10:21:36-07:00
+packages/fuels-signers/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+packages/fuels-signers/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:40:02+00:00
+packages/fuels-signers/Cargo.toml,Green Baneling,Mohammad Fawaz,2022-12-12 14:15:39+00:00,2022-12-12 21:23:22-05:00
+packages/fuels-signers/src/lib.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 18:59:41+02:00
+packages/fuels-signers/src/lib.rs,Ahmed Sagdati,Ahmed Mujkic,2023-03-09 10:43:15+01:00,2023-03-09 14:41:12+01:00
+packages/fuels-signers/src/provider.rs,Brandon Kite,Oleksii Filonenko,2022-05-04 18:02:12-07:00,2022-05-05 10:21:00-07:00
+packages/fuels-signers/src/provider.rs,Victor Nepveu,Brandon Kite,2022-05-25 20:56:38+02:00,2022-05-26 10:40:32-07:00
+packages/fuels-signers/src/provider.rs,iqdecay,Ahmed Mujkic,2022-07-29 15:22:34+02:00,2022-07-29 16:45:04+02:00
+packages/fuels-signers/src/provider.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 16:12:08+02:00
+packages/fuels-signers/src/provider.rs,Ahmed Mujkic,Halil Beglerović,2022-12-06 16:24:04+00:00,2022-12-06 23:37:48+01:00
+packages/fuels-signers/src/provider.rs,Brandon Kite,Rodrigo Araújo,2023-02-01 23:19:42-08:00,2023-02-02 19:58:43-08:00
+packages/fuels-signers/src/provider.rs,iqdecay,Ahmed Sagdati,2023-03-13 15:18:49+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-signers/src/wallet.rs,Emir,Victor Nepveu,2022-05-25 16:23:24+02:00,2022-05-25 20:56:38+02:00
+packages/fuels-signers/src/wallet.rs,Victor Nepveu,Brandon Kite,2022-05-25 20:56:38+02:00,2022-05-26 10:40:32-07:00
+packages/fuels-signers/src/wallet.rs,Brandon Kite,Victor Nepveu,2022-05-28 19:04:34-07:00,2022-05-29 20:57:09+02:00
+packages/fuels-signers/src/wallet.rs,Emir,Victor Nepveu,2022-06-16 17:45:59+02:00,2022-06-17 15:47:07+02:00
+packages/fuels-signers/src/wallet.rs,Rodrigo Araújo,iqdecay,2022-08-01 08:40:28-07:00,2022-08-02 13:16:24+02:00
+packages/fuels-signers/src/wallet.rs,Cameron Manavian,Ahmed Mujkic,2022-08-22 14:11:02+02:00,2022-08-22 17:08:37+02:00
+packages/fuels-signers/src/wallet.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 18:59:41+02:00
+packages/fuels-signers/src/wallet.rs,Emir,Kaya Gökalp,2022-09-15 22:49:07+02:00,2022-09-16 13:59:19+03:00
+packages/fuels-signers/src/wallet.rs,iqdecay,Ahmed Mujkic,2022-11-30 10:28:12+01:00,2022-11-30 22:30:12+01:00
+packages/fuels-signers/src/wallet.rs,Brandon Kite,Rodrigo Araújo,2023-02-01 23:19:42-08:00,2023-02-02 19:58:43-08:00
+packages/fuels-signers/src/wallet.rs,Ahmed Sagdati,Ahmed Mujkic,2023-03-09 10:43:15+01:00,2023-03-09 14:41:12+01:00
+packages/fuels-signers/src/wallet.rs,iqdecay,Halil Beglerović,2023-03-13 15:18:49+01:00,2023-03-13 21:14:38+01:00
+packages/fuels-signers/src/wallet.rs,Halil Beglerović,Ahmed Sagdati,2023-03-13 21:14:38+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-test-helpers/Cargo.toml,Brandon Kite,Victor Nepveu,2022-05-26 10:40:32-07:00,2022-05-27 00:54:51+02:00
+packages/fuels-test-helpers/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:06:43-04:00
+packages/fuels-test-helpers/Cargo.toml,Emir,Rodrigo Araújo,2022-06-07 14:08:25+02:00,2022-06-07 11:57:07-07:00
+packages/fuels-test-helpers/Cargo.toml,Rodrigo Araújo,Emir,2022-06-15 12:11:20-07:00,2022-06-16 17:45:59+02:00
+packages/fuels-test-helpers/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+packages/fuels-test-helpers/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 18:59:41+02:00,2022-08-29 10:21:36-07:00
+packages/fuels-test-helpers/Cargo.toml,Oleksii Filonenko,Emir,2022-09-12 08:30:12+00:00,2022-09-13 09:46:40+02:00
+packages/fuels-test-helpers/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+packages/fuels-test-helpers/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:40:02+00:00
+packages/fuels-test-helpers/Cargo.toml,Green Baneling,Mohammad Fawaz,2022-12-12 14:15:39+00:00,2022-12-12 21:23:22-05:00
+packages/fuels-test-helpers/Cargo.toml,Ahmed Sagdati,Oleksii Filonenko,2024-08-20 16:08:59+02:00,2024-08-20 17:04:01+02:00
+packages/fuels-test-helpers/src/accounts.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels-test-helpers/src/lib.rs,Emir,Halil Beglerović,2022-06-28 10:13:17+02:00,2022-06-28 15:08:31+02:00
+packages/fuels-test-helpers/src/lib.rs,Halil Beglerović,Emir,2022-07-27 10:37:51+02:00,2022-07-27 13:22:22+02:00
+packages/fuels-test-helpers/src/lib.rs,Emir,Ahmed Mujkic,2022-07-27 13:22:22+02:00,2022-07-27 12:29:08+00:00
+packages/fuels-test-helpers/src/lib.rs,Ahmed Mujkic,iqdecay,2022-08-17 02:04:14+02:00,2022-08-17 13:57:21+02:00
+packages/fuels-test-helpers/src/lib.rs,iqdecay,Halil Beglerović,2022-08-17 13:57:21+02:00,2022-08-18 12:50:14+02:00
+packages/fuels-test-helpers/src/lib.rs,Halil Beglerović,Ahmed Sagdati,2023-03-13 21:14:38+01:00,2023-03-14 08:24:36-03:00
+packages/fuels-test-helpers/src/node.rs,iqdecay,Halil Beglerović,2022-08-17 13:57:21+02:00,2022-08-18 12:50:14+02:00
+packages/fuels-test-helpers/src/node.rs,Oleksii Filonenko,Emir,2022-09-12 08:30:12+00:00,2022-09-13 09:46:40+02:00
+packages/fuels-test-helpers/src/script.rs,Emir,Victor Nepveu,2022-06-16 17:45:59+02:00,2022-06-17 15:47:07+02:00
+packages/fuels-test-helpers/src/script.rs,Halil Beglerović,Emir,2022-09-25 23:38:27+02:00,2022-09-26 12:11:01+02:00
+packages/fuels-test-helpers/src/signers.rs,Halil Beglerović,Ahmed Mujkic,2022-07-27 10:37:51+02:00,2022-07-27 12:29:08+00:00
+packages/fuels-types/Cargo.toml,Victor Nepveu,Rodrigo Araújo,2022-04-29 04:07:38+02:00,2022-04-29 13:44:10-07:00
+packages/fuels-types/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:12:01-04:00
+packages/fuels-types/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 18:59:41+02:00,2022-08-29 10:21:36-07:00
+packages/fuels-types/Cargo.toml,Ahmed Sagdati,Rodrigo Araújo,2022-10-03 17:00:00+02:00,2022-10-03 14:43:10-07:00
+packages/fuels-types/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+packages/fuels-types/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00
+packages/fuels-types/Cargo.toml,Ahmed Mujkic,Rodrigo Araújo,2022-12-06 16:24:04+00:00,2022-12-06 15:10:26-08:00
+packages/fuels-types/Cargo.toml,Green Baneling,Mohammad Fawaz,2022-12-12 14:15:39+00:00,2022-12-12 21:23:22-05:00
+packages/fuels-types/src/errors.rs,Emir,Ahmed Mujkic,2022-07-27 13:22:22+02:00,2022-07-27 12:29:08+00:00
+packages/fuels-types/src/errors.rs,Ahmed Mujkic,Halil Beglerović,2023-02-07 11:13:22+01:00,2023-02-08 10:46:15+01:00
+packages/fuels-types/src/lib.rs,iqdecay,Ahmed Mujkic,2022-07-26 14:50:26+02:00,2022-07-27 12:29:08+00:00
+packages/fuels-types/src/lib.rs,Ahmed Sagdati,Ahmed Mujkic,2022-10-03 17:00:00+02:00,2022-10-03 21:16:31+02:00
+packages/fuels-types/src/param_types.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels-types/src/param_types.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels-types/src/param_types.rs,iqdecay,Ahmed Sagdati,2023-03-14 08:45:14+00:00,2023-03-14 08:24:36-03:00
+packages/fuels/Cargo.toml,mitchmindtree,Rodrigo Araújo,2022-05-06 23:34:49-04:00,2022-05-07 16:44:16-07:00
+packages/fuels/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:12:01-04:00
+packages/fuels/Cargo.toml,Rodrigo Araújo,Emir,2022-06-15 12:11:20-07:00,2022-06-16 17:45:59+02:00
+packages/fuels/Cargo.toml,Emir,Rodrigo Araújo,2022-06-20 18:24:13+02:00,2022-06-20 12:36:33-07:00
+packages/fuels/Cargo.toml,Emir,Rodrigo Araújo,2022-07-15 01:29:44+02:00,2022-07-15 11:28:49-07:00
+packages/fuels/Cargo.toml,Halil Beglerović,Rodrigo Araújo,2022-08-29 18:59:41+02:00,2022-08-29 10:21:36-07:00
+packages/fuels/Cargo.toml,Brandon Kite,Rodrigo Araújo,2022-11-01 15:15:17-07:00,2022-11-01 15:40:46-07:00
+packages/fuels/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:40:02+00:00
+packages/fuels/Cargo.toml,Green Baneling,Mohammad Fawaz,2022-12-12 14:15:39+00:00,2022-12-12 21:23:22-05:00
+packages/fuels/Cargo.toml,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/Cargo.toml,Brandon Kite,Rodrigo Araújo,2023-02-01 23:19:42-08:00,2023-02-02 19:58:43-08:00
+packages/fuels/Cargo.toml,Rodrigo Araújo,Brandon Kite,2023-02-02 19:58:43-08:00,2023-02-02 20:54:02-08:00
+packages/fuels/Forc.toml,iqdecay,Ahmed Sagdati,2023-03-13 15:18:49+01:00,2023-03-14 08:24:36-03:00
+packages/fuels/Forc.toml,iqdecay,MujkicA,2023-06-20 16:23:13+02:00,2023-06-21 13:52:30+02:00
+packages/fuels/Forc.toml,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+packages/fuels/Forc.toml,hal3e,Ahmed Sagdati,2024-05-07 23:19:17+02:00,2024-05-08 15:09:57+02:00
+packages/fuels/src/lib.rs,Oleksii Filonenko,Rodrigo Araújo,2022-06-07 07:04:27+03:00,2022-06-07 11:20:42-07:00
+packages/fuels/src/lib.rs,Emir,Ahmed Sagdati,2022-06-16 17:45:59+02:00,2022-06-16 16:57:40-07:00
+packages/fuels/src/lib.rs,Ahmed Sagdati,Emir,2022-06-16 16:57:40-07:00,2022-06-17 14:30:55+02:00
+packages/fuels/src/lib.rs,iqdecay,Emir,2022-07-26 13:38:15+00:00,2022-07-27 13:22:22+02:00
+packages/fuels/src/lib.rs,Emir,Ahmed Mujkic,2022-07-27 13:22:22+02:00,2022-07-27 12:29:08+00:00
+packages/fuels/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/src/lib.rs,Halil Beglerović,iqdecay,2023-01-23 20:35:35-05:00,2023-01-24 11:57:45-08:00
+packages/fuels/src/lib.rs,iqdecay,Ahmed Sagdati,2023-04-12 20:06:27+00:00,2023-04-13 01:04:59+02:00
+packages/fuels/src/lib.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels/src/lib.rs,Emir,rashad,2023-06-01 11:01:25+02:00,2023-06-01 12:08:45+02:00
+packages/fuels/tests/bindings.rs,Halil Beglerović,Ahmed Mujkic,2022-10-18 18:49:44+02:00,2022-10-19 12:32:59+02:00
+packages/fuels/tests/bindings.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/bindings.rs,iqdecay,Ahmed Sagdati,2023-03-14 08:45:14+00:00,2023-03-14 08:24:36-03:00
+packages/fuels/tests/contracts.rs,Halil Beglerović,Ahmed Mujkic,2022-10-18 18:49:44+02:00,2022-10-19 12:32:59+02:00
+packages/fuels/tests/contracts.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/contracts.rs,Halil Beglerović,Brandon Kite,2023-02-01 18:12:47+01:00,2023-02-01 23:19:42-08:00
+packages/fuels/tests/contracts.rs,Brandon Kite,Rodrigo Araújo,2023-02-01 23:19:42-08:00,2023-02-02 19:58:43-08:00
+packages/fuels/tests/contracts.rs,Ahmed Mujkic,Halil Beglerović,2023-02-07 11:13:22+01:00,2023-02-08 10:46:15+01:00
+packages/fuels/tests/contracts.rs,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+packages/fuels/tests/contracts.rs,Ahmed Sagdati,Ahmed Mujkic,2023-04-13 01:04:59+02:00,2023-04-13 14:42:28+02:00
+packages/fuels/tests/contracts.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels/tests/contracts.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels/tests/contracts.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels/tests/contracts.rs,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+packages/fuels/tests/contracts.rs,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+packages/fuels/tests/contracts.rs,hal3e,Ahmed Sagdati,2024-05-07 23:19:17+02:00,2024-05-08 15:09:57+02:00
+packages/fuels/tests/contracts/liquidity_pool/src/main.sw,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+packages/fuels/tests/from_token.rs,Halil Beglerović,Ahmed Mujkic,2022-10-18 18:49:44+02:00,2022-10-19 12:32:59+02:00
+packages/fuels/tests/from_token.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/harness.rs,Emir,Ahmed Sagdati,2022-07-15 01:29:44+02:00,2022-07-15 14:45:22+02:00
+packages/fuels/tests/harness.rs,Ahmed Mujkic,Emir,2022-07-19 13:41:02+00:00,2022-07-20 00:05:54+02:00
+packages/fuels/tests/harness.rs,iqdecay,Ahmed Mujkic,2022-07-29 15:22:34+02:00,2022-07-29 16:45:04+02:00
+packages/fuels/tests/harness.rs,Ahmed Mujkic,Halil Beglerović,2022-07-29 16:45:04+02:00,2022-07-30 13:44:22+02:00
+packages/fuels/tests/harness.rs,Halil Beglerović,iqdecay,2022-08-01 15:45:51+02:00,2022-08-02 11:31:12+00:00
+packages/fuels/tests/harness.rs,iqdecay,Halil Beglerović,2022-08-02 11:31:12+00:00,2022-08-02 23:30:59+02:00
+packages/fuels/tests/harness.rs,Halil Beglerović,Emir,2022-08-02 23:30:59+02:00,2022-08-03 20:24:30+02:00
+packages/fuels/tests/harness.rs,Cameron Manavian,Ahmed Sagdati,2022-08-22 14:11:02+02:00,2022-08-22 16:19:26+02:00
+packages/fuels/tests/harness.rs,mitchmindtree,Halil Beglerović,2022-08-29 08:36:34+10:00,2022-08-29 16:12:08+02:00
+packages/fuels/tests/harness.rs,Rodrigo Araújo,Halil Beglerović,2022-09-05 15:44:00-07:00,2022-09-06 19:17:33+02:00
+packages/fuels/tests/harness.rs,Halil Beglerović,Ahmed Mujkic,2022-09-07 21:13:59+02:00,2022-09-08 12:59:20+02:00
+packages/fuels/tests/harness.rs,Emir,Ahmed Mujkic,2022-09-13 09:46:40+02:00,2022-09-13 12:25:12+02:00
+packages/fuels/tests/harness.rs,Rodrigo Araújo,Halil Beglerović,2022-09-19 14:55:06+00:00,2022-09-19 22:14:31+02:00
+packages/fuels/tests/harness.rs,Halil Beglerović,Emir,2022-09-25 23:38:27+02:00,2022-09-26 12:11:01+02:00
+packages/fuels/tests/harness.rs,Halil Beglerović,Ahmed Mujkic,2022-09-28 13:09:37+02:00,2022-09-28 17:24:15+02:00
+packages/fuels/tests/harness.rs,Ahmed Sagdati,Ahmed Mujkic,2022-10-03 17:00:00+02:00,2022-10-03 21:16:31+02:00
+packages/fuels/tests/harness.rs,Ahmed Mujkic,Halil Beglerović,2022-10-12 17:41:17+02:00,2022-10-13 15:56:50+02:00
+packages/fuels/tests/logs.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/logs.rs,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+packages/fuels/tests/logs.rs,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+packages/fuels/tests/predicates.rs,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+packages/fuels/tests/predicates.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels/tests/predicates.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels/tests/predicates.rs,hal3e,Oleksii Filonenko,2024-05-02 16:29:51+02:00,2024-05-03 10:37:34+01:00
+packages/fuels/tests/providers.rs,Halil Beglerović,Ahmed Mujkic,2022-10-18 18:49:44+02:00,2022-10-19 12:32:59+02:00
+packages/fuels/tests/providers.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/providers.rs,Ahmed Mujkic,Halil Beglerović,2023-02-07 11:13:22+01:00,2023-02-08 10:46:15+01:00
+packages/fuels/tests/providers.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels/tests/providers.rs,Oleksii Filonenko,MujkicA,2023-09-27 13:36:44+02:00,2023-09-27 23:41:21+02:00
+packages/fuels/tests/providers.rs,hal3e,Ahmed Sagdati,2023-11-17 23:26:05+01:00,2023-11-17 15:37:26-08:00
+packages/fuels/tests/providers.rs,hal3e,Ahmed Sagdati,2024-05-02 16:29:51+02:00,2024-05-02 18:55:29+02:00
+packages/fuels/tests/providers.rs,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+packages/fuels/tests/providers.rs,Oleksii Filonenko,MujkicA,2024-05-03 10:37:34+01:00,2024-05-03 16:56:14-07:00
+packages/fuels/tests/providers.rs,iqdecay,hal3e,2024-05-07 12:46:18+02:00,2024-05-07 23:19:17+02:00
+packages/fuels/tests/scripts.rs,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+packages/fuels/tests/scripts.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels/tests/scripts.rs,MujkicA,hal3e,2023-08-24 11:25:37+02:00,2023-08-24 15:03:23+02:00
+packages/fuels/tests/scripts.rs,Ahmed Sagdati,Emir,2023-09-12 22:36:35+02:00,2023-09-13 12:32:24+02:00
+packages/fuels/tests/scripts.rs,Ahmed Sagdati,Oleksii Filonenko,2024-05-02 18:55:29+02:00,2024-05-03 10:37:34+01:00
+packages/fuels/tests/storage.rs,Halil Beglerović,Ahmed Mujkic,2022-10-18 18:49:44+02:00,2022-10-19 12:32:59+02:00
+packages/fuels/tests/storage.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/storage.rs,Emir,Halil Beglerović,2023-03-22 22:29:47+01:00,2023-03-23 21:43:43+01:00
+packages/fuels/tests/test_projects/logged_types/src/main.sw,Mohammad Fawaz,Ahmed Mujkic,2022-10-11 22:23:51-04:00,2022-10-12 17:41:17+02:00
+packages/fuels/tests/types.rs,Halil Beglerović,Ahmed Mujkic,2022-10-18 18:49:44+02:00,2022-10-19 12:32:59+02:00
+packages/fuels/tests/types.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+packages/fuels/tests/types.rs,iqdecay,Halil Beglerović,2023-03-13 15:18:49+01:00,2023-03-13 21:14:38+01:00
+packages/fuels/tests/types_contracts.rs,Ahmed Sagdati,hal3e,2023-10-10 17:41:50+02:00,2023-10-10 21:13:56+02:00
+packages/fuels/tests/types_contracts.rs,hal3e,Oleksii Filonenko,2024-05-02 16:29:51+02:00,2024-05-03 10:37:34+01:00
+packages/fuels/tests/types_predicates.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/fuels/tests/wallets.rs,Halil Beglerović,Emir,2023-05-31 16:18:41+02:00,2023-06-01 11:01:25+02:00
+packages/wasm-tests/src/lib.rs,Ahmed Sagdati,Ahmed Mujkic,2022-10-03 17:00:00+02:00,2022-10-03 21:16:31+02:00
+packages/wasm-tests/src/lib.rs,Ahmed Sagdati,Halil Beglerović,2023-01-16 13:53:44-08:00,2023-01-17 19:43:13+01:00
+scripts/build-test-projects/src/lib.rs,Halil Beglerović,iqdecay,2022-10-13 15:56:50+02:00,2022-10-14 07:32:44+02:00
+scripts/fuel-core-version/version.rs,hal3e,Ahmed Sagdati,2024-05-30 20:55:35+02:00,2024-05-31 09:21:10-07:00
+tools/fuels-abi-cli/Cargo.toml,Victor Nepveu,John Adler,2022-05-27 00:54:51+02:00,2022-05-26 20:12:01-04:00
+tools/fuels-abi-cli/Cargo.toml,Rodrigo Araújo,Brandon Kite,2022-11-04 14:53:05-07:00,2022-11-05 19:56:11+00:00

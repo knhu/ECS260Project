@@ -1,0 +1,215 @@
+file,author1,author2,time1,time2
+.github/workflows/build-linux.yml,Anatoliy,2dust,2025-01-24 19:00:21+08:00,2025-01-24 19:48:34+08:00
+.github/workflows/build-linux.yml,dependabot[bot],nayeko,2025-02-25 09:46:08+08:00,2025-02-25 10:06:33+08:00
+.github/workflows/build-osx.yml,Long Yixing,2dust,2024-12-30 09:24:22+08:00,2024-12-30 18:16:07+08:00
+.github/workflows/build-osx.yml,zjt003,2dust,2025-01-19 18:34:39+08:00,2025-01-19 18:58:32+08:00
+.github/workflows/build-osx.yml,Anatoliy,2dust,2025-01-24 19:00:21+08:00,2025-01-24 19:48:34+08:00
+.github/workflows/winget-pre-release-publish.yml,Merrick Zhang,2dust,2024-12-01 14:29:10+08:00,2024-12-01 14:39:36+08:00
+.github/workflows/winget-publish.yml,Merrick Zhang,2dust,2024-12-01 14:29:10+08:00,2024-12-01 14:30:39+08:00
+.gitignore,Kyrie@cedu.me,2dust,2020-03-09 17:19:34+08:00,2020-03-09 19:22:28+08:00
+.vs/v2rayN-arm/v17/.wsuo,liqi,kidfruit,2023-04-07 21:32:28+08:00,2023-04-08 12:57:11+08:00
+Directory.Packages.props,Anatoliy,2dust,2025-01-24 09:57:38+08:00,2025-01-24 14:25:13+08:00
+Directory.Packages.props,2dust,Anatoliy,2025-01-24 14:25:13+08:00,2025-01-24 19:00:21+08:00
+Directory.Packages.props,Anatoliy,2dust,2025-01-24 19:00:21+08:00,2025-01-24 19:46:28+08:00
+package-osx.sh,Long Yixing,2dust,2024-12-30 09:24:22+08:00,2024-12-30 18:16:07+08:00
+package-osx.sh,2dust,zjt003,2025-01-18 21:10:41+08:00,2025-01-19 18:34:39+08:00
+package-osx.sh,zjt003,2dust,2025-01-19 18:34:39+08:00,2025-01-19 18:58:32+08:00
+v2rayN/AmazTool/AmazTool.csproj,Anatoliy,2dust,2025-01-24 09:57:38+08:00,2025-01-24 14:25:13+08:00
+v2rayN/AmazTool/AmazTool.csproj,2dust,Anatoliy,2025-01-24 14:25:13+08:00,2025-01-24 19:00:21+08:00
+v2rayN/AmazTool/LocalizationHelper.cs,Slnanx,2dust,2024-11-18 09:57:38+08:00,2024-11-18 10:13:49+08:00
+v2rayN/ServiceLib/Common/AesUtils.cs,cryptochecktool,2dust,2024-11-26 13:52:37+08:00,2024-11-26 19:52:22+08:00
+v2rayN/ServiceLib/Common/AesUtils.cs,2dust,cryptochecktool,2024-11-26 19:52:22+08:00,2024-11-26 19:54:46+08:00
+v2rayN/ServiceLib/Common/AesUtils.cs,cryptochecktool,2dust,2024-11-26 19:54:46+08:00,2024-11-26 20:07:41+08:00
+v2rayN/ServiceLib/Global.cs,runetfreedom,2dust,2024-10-15 13:28:51+08:00,2024-10-16 10:52:45+08:00
+v2rayN/ServiceLib/Global.cs,2dust,runetfreedom,2024-10-16 10:52:45+08:00,2024-10-16 14:11:20+08:00
+v2rayN/ServiceLib/Global.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/ServiceLib/Handler/AutoStartupHandler.cs,ShiinaRinne,2dust,2025-01-30 13:24:01+08:00,2025-01-30 17:10:05+08:00
+v2rayN/ServiceLib/Handler/ConfigHandler.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/ServiceLib/Handler/ConfigHandler.cs,OnceUponATimeInAmerica,2dust,2024-12-31 13:51:06+08:00,2024-12-31 20:37:14+08:00
+v2rayN/ServiceLib/Handler/CoreHandler.cs,2dust,cryptochecktool,2024-11-25 20:31:12+08:00,2024-11-26 13:54:12+08:00
+v2rayN/ServiceLib/Handler/CoreHandler.cs,cryptochecktool,2dust,2024-11-26 13:54:12+08:00,2024-11-26 14:39:33+08:00
+v2rayN/ServiceLib/Models/ConfigItems.cs,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/ServiceLib/Models/ConfigItems.cs,2dust,runetfreedom,2024-10-14 19:29:15+08:00,2024-10-15 13:28:51+08:00
+v2rayN/ServiceLib/Resx/ResUI.Designer.cs,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/ServiceLib/Resx/ResUI.Designer.cs,2dust,runetfreedom,2024-10-15 09:31:30+08:00,2024-10-15 13:28:51+08:00
+v2rayN/ServiceLib/Resx/ResUI.Designer.cs,runetfreedom,2dust,2024-10-15 13:28:51+08:00,2024-10-15 13:37:36+08:00
+v2rayN/ServiceLib/Resx/ResUI.Designer.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/ServiceLib/Resx/ResUI.Designer.cs,OnceUponATimeInAmerica,2dust,2024-12-31 13:51:06+08:00,2024-12-31 14:15:09+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,2dust,phoenix6936,2024-12-05 19:48:42+08:00,2024-12-06 09:38:56+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,phoenix6936,2dust,2024-12-06 10:01:11+08:00,2024-12-06 19:12:32+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,2dust,alphax-hue3682,2024-12-22 20:03:20+08:00,2024-12-23 10:00:51+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,2dust,alphax-hue3682,2025-01-11 11:28:35+08:00,2025-01-11 11:30:06+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,alphax-hue3682,2dust,2025-01-11 11:30:06+08:00,2025-01-12 11:07:34+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,2dust,alphax-hue3682,2025-01-12 11:07:34+08:00,2025-01-12 19:33:57+08:00
+v2rayN/ServiceLib/Resx/ResUI.fa-Ir.resx,2dust,alphax-hue3682,2025-01-15 19:45:53+08:00,2025-01-16 15:56:05+08:00
+v2rayN/ServiceLib/Resx/ResUI.resx,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/ServiceLib/Resx/ResUI.resx,2dust,runetfreedom,2024-10-15 09:31:30+08:00,2024-10-15 13:28:51+08:00
+v2rayN/ServiceLib/Resx/ResUI.resx,runetfreedom,2dust,2024-10-15 13:28:51+08:00,2024-10-15 13:37:36+08:00
+v2rayN/ServiceLib/Resx/ResUI.resx,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/ServiceLib/Resx/ResUI.zh-Hant.resx,NagisaEfi,2dust,2024-11-13 09:49:41+08:00,2024-11-13 16:22:56+08:00
+v2rayN/ServiceLib/Resx/ResUI.zh-Hant.resx,2dust,NagisaEfi,2024-11-15 19:50:37+08:00,2024-11-16 10:34:55+08:00
+v2rayN/ServiceLib/ServiceLib.csproj,Anatoliy,2dust,2025-01-24 09:57:38+08:00,2025-01-24 14:25:13+08:00
+v2rayN/ServiceLib/ServiceLib.csproj,2dust,Anatoliy,2025-01-24 14:25:13+08:00,2025-01-24 19:00:21+08:00
+v2rayN/ServiceLib/ServiceLib.csproj,Anatoliy,2dust,2025-01-24 19:00:21+08:00,2025-01-24 20:28:04+08:00
+v2rayN/ServiceLib/Services/CoreConfig/CoreConfigSingboxService.cs,DHR60,2dust,2025-03-03 14:11:53+08:00,2025-03-03 14:36:01+08:00
+v2rayN/ServiceLib/Services/UpdateService.cs,2dust,runetfreedom,2024-10-14 10:42:05+08:00,2024-10-14 17:50:44+08:00
+v2rayN/ServiceLib/Services/UpdateService.cs,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/ServiceLib/Services/UpdateService.cs,2dust,runetfreedom,2024-10-15 09:31:30+08:00,2024-10-15 13:28:51+08:00
+v2rayN/ServiceLib/ViewModels/MainWindowViewModel.cs,2dust,runetfreedom,2024-10-16 09:20:05+08:00,2024-10-16 14:11:20+08:00
+v2rayN/ServiceLib/ViewModels/MainWindowViewModel.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/ServiceLib/ViewModels/OptionSettingViewModel.cs,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/ServiceLib/ViewModels/OptionSettingViewModel.cs,2dust,runetfreedom,2024-10-14 19:29:15+08:00,2024-10-15 13:28:51+08:00
+v2rayN/ServiceLib/ViewModels/OptionSettingViewModel.cs,cryptochecktool,2dust,2024-11-26 13:53:50+08:00,2024-11-26 14:39:33+08:00
+v2rayN/ServiceLib/ViewModels/RoutingSettingViewModel.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN.Desktop/Common/AvaUtils.cs,gush4,2dust,2024-10-22 09:32:07+08:00,2024-10-22 09:46:50+08:00
+v2rayN/v2rayN.Desktop/Program.cs,2dust,DecorativeFamily,2024-11-06 14:52:54+08:00,2024-11-07 14:46:27+08:00
+v2rayN/v2rayN.Desktop/Program.cs,ShiinaRinne,2dust,2025-01-29 19:26:40+08:00,2025-01-30 17:10:05+08:00
+v2rayN/v2rayN.Desktop/Views/MainWindow.axaml,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN.Desktop/Views/MainWindow.axaml.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN.Desktop/Views/MainWindow.axaml.cs,OnceUponATimeInAmerica,2dust,2024-12-31 13:51:06+08:00,2024-12-31 16:30:27+08:00
+v2rayN/v2rayN.Desktop/Views/MainWindow.axaml.cs,ShiinaRinne,2dust,2025-01-30 10:12:59+08:00,2025-01-30 17:10:05+08:00
+v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml,2dust,runetfreedom,2024-10-14 19:29:15+08:00,2024-10-15 13:28:51+08:00
+v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml.cs,runetfreedom,2dust,2024-10-15 13:28:51+08:00,2024-10-16 10:52:45+08:00
+v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml.cs,2dust,runetfreedom,2024-10-16 10:52:45+08:00,2024-10-16 14:11:20+08:00
+v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml.cs,ShiinaRinne,2dust,2025-01-30 13:24:01+08:00,2025-01-30 17:10:05+08:00
+v2rayN/v2rayN.Desktop/Views/ProfilesView.axaml.cs,DecorativeFamily,fonaix,2024-11-07 14:46:27+08:00,2024-11-08 09:21:43+08:00
+v2rayN/v2rayN.Desktop/v2rayN.Desktop.csproj,Anatoliy,2dust,2025-01-24 09:57:38+08:00,2025-01-24 14:25:13+08:00
+v2rayN/v2rayN.Desktop/v2rayN.Desktop.csproj,2dust,Anatoliy,2025-01-24 17:24:07+08:00,2025-01-24 19:00:21+08:00
+v2rayN/v2rayN.Desktop/v2rayN.Desktop.csproj,Anatoliy,2dust,2025-01-24 19:00:21+08:00,2025-01-24 20:28:04+08:00
+v2rayN/v2rayN/Base/DownloaderHelper.cs,小仙女,2dust,2023-02-20 18:16:30+08:00,2023-02-20 20:15:08+08:00
+v2rayN/v2rayN/Forms/AddServer5Form.zh-Hans.resx,2dust,RPRX,2020-08-08 12:43:34+08:00,2020-08-08 08:10:23+00:00
+v2rayN/v2rayN/Forms/AddServer5Form.zh-Hans.resx,RPRX,2dust,2020-08-08 08:10:23+00:00,2020-08-08 17:07:23+08:00
+v2rayN/v2rayN/Forms/AddServerForm.zh-Hans.resx,2dust,rprx,2020-04-23 10:10:29+08:00,2020-04-23 07:27:13+00:00
+v2rayN/v2rayN/Forms/MainForm.Designer.cs,2dust,YFdyh000,2020-03-09 13:19:47+08:00,2020-03-09 16:04:20+08:00
+v2rayN/v2rayN/Forms/MainForm.Designer.cs,YFdyh000,2dust,2020-03-20 07:53:01+08:00,2020-03-20 16:23:12+08:00
+v2rayN/v2rayN/Forms/MainForm.Designer.cs,YFdyh000,2dust,2020-04-16 12:45:17+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,YFdyh000,2dust,2020-03-09 16:04:22+08:00,2020-03-10 09:30:01+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,Sam Song,2dust,2020-03-12 22:39:32+08:00,2020-03-13 14:37:18+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,YFdyh000,2dust,2020-03-20 07:53:05+08:00,2020-03-20 16:23:12+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,2dust,YFdyh000,2020-03-20 16:23:12+08:00,2020-03-21 03:20:46+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,YFdyh000,2dust,2020-04-16 12:45:23+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,2dust,YFdyh000,2020-04-16 20:48:26+08:00,2020-04-17 09:51:07+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,2dust,InterestingDarkness,2022-07-29 20:59:07+08:00,2022-07-29 21:50:37+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,2dust,InterestingDarkness,2022-08-04 17:07:50+08:00,2022-08-05 15:06:44+08:00
+v2rayN/v2rayN/Forms/MainForm.cs,InterestingDarkness,2dust,2022-08-05 15:06:44+08:00,2022-08-05 20:52:08+08:00
+v2rayN/v2rayN/Forms/MainForm.resx,2dust,YFdyh000,2020-03-09 13:19:47+08:00,2020-03-09 16:04:20+08:00
+v2rayN/v2rayN/Forms/MainForm.resx,YFdyh000,2dust,2020-03-20 07:53:01+08:00,2020-03-20 16:23:12+08:00
+v2rayN/v2rayN/Forms/MainForm.resx,YFdyh000,2dust,2020-04-16 12:45:17+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Forms/MainForm.resx,2dust,RPRX,2020-12-25 20:43:28+08:00,2020-12-25 20:21:21+00:00
+v2rayN/v2rayN/Forms/MainForm.zh-Hans.resx,YFdyh000,2dust,2020-03-20 07:53:01+08:00,2020-03-20 16:23:12+08:00
+v2rayN/v2rayN/Forms/MainForm.zh-Hans.resx,2dust,RPRX,2020-12-25 20:43:28+08:00,2020-12-25 20:21:21+00:00
+v2rayN/v2rayN/Forms/OptionSettingForm.Designer.cs,InterestingDarkness,2dust,2022-08-05 15:06:44+08:00,2022-08-05 20:38:03+08:00
+v2rayN/v2rayN/Forms/OptionSettingForm.cs,2dust,rprx,2020-04-23 10:10:29+08:00,2020-04-23 05:48:34+00:00
+v2rayN/v2rayN/Forms/OptionSettingForm.resx,InterestingDarkness,2dust,2022-08-05 15:06:44+08:00,2022-08-05 20:38:03+08:00
+v2rayN/v2rayN/Forms/OptionSettingForm.zh-Hans.resx,2dust,rprx,2020-04-23 10:10:29+08:00,2020-04-23 07:27:13+00:00
+v2rayN/v2rayN/Forms/OptionSettingForm.zh-Hans.resx,InterestingDarkness,2dust,2022-08-05 15:06:44+08:00,2022-08-05 20:38:03+08:00
+v2rayN/v2rayN/Forms/RoutingRuleSettingDetailsForm.Designer.cs,windfallw,2dust,2021-05-23 16:28:54+08:00,2021-05-23 19:09:41+08:00
+v2rayN/v2rayN/Forms/RoutingRuleSettingDetailsForm.cs,2dust,uniceguy,2022-03-31 19:53:58+08:00,2022-04-01 13:21:22+08:00
+v2rayN/v2rayN/Forms/RoutingRuleSettingDetailsForm.resx,windfallw,2dust,2021-05-23 16:28:54+08:00,2021-05-23 18:58:39+08:00
+v2rayN/v2rayN/Forms/RoutingRuleSettingDetailsForm.zh-Hans.resx,windfallw,2dust,2021-05-23 16:28:54+08:00,2021-05-23 19:09:41+08:00
+v2rayN/v2rayN/Forms/RoutingRuleSettingForm.cs,windfallw,2dust,2021-05-23 16:28:54+08:00,2021-05-23 19:09:41+08:00
+v2rayN/v2rayN/Global.cs,chika0801,2dust,2022-09-19 22:54:05+08:00,2022-09-20 20:19:31+08:00
+v2rayN/v2rayN/Global.cs,2dust,Persian Prince,2023-01-01 19:42:01+08:00,2023-01-01 19:25:02+03:30
+v2rayN/v2rayN/Global.cs,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Handler/ConfigHandler.cs,2dust,PragmaTwice,2022-03-02 19:49:57+08:00,2022-03-03 17:13:34+08:00
+v2rayN/v2rayN/Handler/ConfigHandler.cs,2dust,小仙女,2023-02-19 10:43:42+08:00,2023-02-19 12:18:08+08:00
+v2rayN/v2rayN/Handler/ConfigHandler.cs,2dust,OnceUponATimeInAmerica,2024-06-24 15:19:42+08:00,2024-06-24 15:20:16+08:00
+v2rayN/v2rayN/Handler/ConfigHandler.cs,OnceUponATimeInAmerica,2dust,2024-06-24 15:20:16+08:00,2024-06-24 15:25:00+08:00
+v2rayN/v2rayN/Handler/CoreConfig/CoreConfigSingbox.cs,Lsyx-Good,2dust,2024-06-20 16:08:08+08:00,2024-06-20 16:20:05+08:00
+v2rayN/v2rayN/Handler/CoreConfigHandler.cs,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Handler/CoreConfigV2ray.cs,ShiinaRinne,2dust,2023-12-01 12:37:49+08:00,2023-12-01 17:03:49+08:00
+v2rayN/v2rayN/Handler/DownloadHandle.cs,2dust,RPRX,2020-12-25 20:43:28+08:00,2020-12-25 20:21:21+00:00
+v2rayN/v2rayN/Handler/DownloadHandle.cs,MohammadHadi Attarieh,2dust,2023-04-24 18:34:30+03:30,2023-04-25 10:56:07+08:00
+v2rayN/v2rayN/Handler/LazyConfig.cs,2dust,FrzMtrsprt,2022-04-14 11:10:06+08:00,2022-04-14 12:13:22+08:00
+v2rayN/v2rayN/Handler/LazyConfig.cs,chika0801,2dust,2022-09-19 22:56:15+08:00,2022-09-20 20:19:31+08:00
+v2rayN/v2rayN/Handler/LazyConfig.cs,2dust,小仙女,2023-02-19 10:43:42+08:00,2023-02-19 12:18:08+08:00
+v2rayN/v2rayN/Handler/ProfileExHandler.cs,2dust,小仙女,2023-02-19 11:23:45+08:00,2023-02-19 13:34:22+08:00
+v2rayN/v2rayN/Handler/ShareHandler.cs,小仙女,2dust,2023-02-19 13:34:22+08:00,2023-02-19 14:55:44+08:00
+v2rayN/v2rayN/Handler/ShareHandler.cs,ShiinaRinne,2dust,2024-01-09 23:20:30+08:00,2024-01-10 10:43:48+08:00
+v2rayN/v2rayN/Handler/SpeedtestHandler.cs,2dust,小仙女,2023-02-19 10:43:42+08:00,2023-02-19 13:34:22+08:00
+v2rayN/v2rayN/Handler/SpeedtestHandler.cs,小仙女,2dust,2023-02-20 18:16:30+08:00,2023-02-20 20:15:08+08:00
+v2rayN/v2rayN/Handler/TunHandler.cs,小仙女,2dust,2023-02-19 13:34:22+08:00,2023-02-19 14:55:44+08:00
+v2rayN/v2rayN/Handler/TunHandler.cs,2dust,小仙女,2023-02-19 16:09:31+08:00,2023-02-19 19:15:02+08:00
+v2rayN/v2rayN/Handler/UpdateHandle.cs,InterestingDarkness,2dust,2022-07-29 21:50:37+08:00,2022-07-30 20:12:14+08:00
+v2rayN/v2rayN/Handler/UpdateHandle.cs,InterestingDarkness,2dust,2022-08-05 15:06:44+08:00,2022-08-05 20:28:20+08:00
+v2rayN/v2rayN/Handler/V2rayConfigHandler.cs,2dust,InterestingDarkness,2022-07-28 21:05:22+08:00,2022-07-29 20:11:39+08:00
+v2rayN/v2rayN/Handler/WindowsHandler.cs,gush4,2dust,2024-10-22 09:32:07+08:00,2024-10-22 09:46:50+08:00
+v2rayN/v2rayN/HttpProxyHandler/HttpProxyHandle.cs,Sam Song,2dust,2020-03-12 22:39:32+08:00,2020-03-13 14:37:18+08:00
+v2rayN/v2rayN/LIB/libs.zip,2dust,YFdyh000,2020-03-20 16:23:12+08:00,2020-03-21 09:38:34+08:00
+v2rayN/v2rayN/Mode/Config.cs,YFdyh000,2dust,2020-04-16 12:45:15+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Mode/Config.cs,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Mode/Config.cs,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 16:27:35+08:00
+v2rayN/v2rayN/Mode/DNSItem.cs,ShiinaRinne,2dust,2023-12-01 12:37:49+08:00,2023-12-01 17:03:49+08:00
+v2rayN/v2rayN/Mode/ECoreType.cs,chika0801,2dust,2022-09-19 22:57:15+08:00,2022-09-20 20:19:31+08:00
+v2rayN/v2rayN/Mode/GitHubRelease.cs,InterestingDarkness,2dust,2022-08-05 15:06:44+08:00,2022-08-05 20:28:20+08:00
+v2rayN/v2rayN/Properties/AssemblyInfo.cs,YFdyh000,2dust,2020-03-16 07:00:19+08:00,2020-03-16 10:31:38+08:00
+v2rayN/v2rayN/Properties/AssemblyInfo.cs,2dust,Computer Idiot,2022-08-15 19:54:08+08:00,2022-08-15 21:42:05+08:00
+v2rayN/v2rayN/Properties/Resources.Designer.cs,YFdyh000,2dust,2020-04-16 12:45:12+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Properties/Resources.resx,YFdyh000,2dust,2020-04-16 12:45:12+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Resources/qr-code.png,YFdyh000,2dust,2020-04-16 12:45:12+08:00,2020-04-16 15:37:17+08:00
+v2rayN/v2rayN/Resx/ResUI.Designer.cs,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Resx/ResUI.Designer.cs,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 13:51:58+08:00
+v2rayN/v2rayN/Resx/ResUI.Designer.cs,Jabin Kong,2dust,2024-07-23 20:41:00+08:00,2024-07-24 20:14:07+08:00
+v2rayN/v2rayN/Resx/ResUI.fa-Ir.resx,Persian Prince,2dust,2023-01-01 19:44:27+03:30,2023-01-02 10:07:10+08:00
+v2rayN/v2rayN/Resx/ResUI.fa-Ir.resx,2dust,Persian Prince,2023-01-02 10:07:10+08:00,2023-01-02 09:25:19+03:30
+v2rayN/v2rayN/Resx/ResUI.fa-Ir.resx,mojpangr26,Persian Prince,2023-02-01 17:07:36+08:00,2023-02-01 21:40:26+03:30
+v2rayN/v2rayN/Resx/ResUI.fa-Ir.resx,Persian Prince,mojpangr26,2023-02-01 21:40:26+03:30,2023-02-02 09:41:23+08:00
+v2rayN/v2rayN/Resx/ResUI.resx,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Resx/ResUI.resx,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 13:51:58+08:00
+v2rayN/v2rayN/Resx/ResUI.resx,2dust,NagisaEfi,2024-07-21 11:26:10+08:00,2024-07-21 11:48:55+08:00
+v2rayN/v2rayN/Resx/ResUI.resx,Jabin Kong,2dust,2024-07-23 20:41:00+08:00,2024-07-24 20:14:07+08:00
+v2rayN/v2rayN/Resx/ResUI.zh-Hans.resx,YFdyh000,2dust,2020-03-20 06:32:27+08:00,2020-03-20 16:23:12+08:00
+v2rayN/v2rayN/Resx/ResUI.zh-Hans.resx,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Resx/ResUI.zh-Hans.resx,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 13:51:58+08:00
+v2rayN/v2rayN/Resx/ResUI.zh-Hans.resx,Weltolk,小仙女,2023-02-17 14:39:59+08:00,2023-02-17 15:09:26+08:00
+v2rayN/v2rayN/Resx/ResUI.zh-Hans.resx,Jabin Kong,2dust,2024-07-23 20:41:00+08:00,2024-07-24 20:14:07+08:00
+v2rayN/v2rayN/Tool/Utils.cs,2dust,uniceguy,2022-03-31 20:19:15+08:00,2022-04-01 13:21:22+08:00
+v2rayN/v2rayN/ViewModels/AddServer2ViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/AddServerViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/MainWindowViewModel.cs,2dust,小仙女,2023-02-19 10:43:42+08:00,2023-02-19 12:18:08+08:00
+v2rayN/v2rayN/ViewModels/MainWindowViewModel.cs,Metatron,2dust,2023-04-03 10:45:21+08:00,2023-04-04 10:22:13+08:00
+v2rayN/v2rayN/ViewModels/MainWindowViewModel.cs,John Edwerd,2dust,2024-01-13 21:54:03+08:00,2024-01-14 10:23:46+08:00
+v2rayN/v2rayN/ViewModels/OptionSettingViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/OptionSettingViewModel.cs,FrzMtrsprt,2dust,2023-01-01 21:18:10+08:00,2023-01-02 11:01:43+08:00
+v2rayN/v2rayN/ViewModels/OptionSettingViewModel.cs,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/ViewModels/OptionSettingViewModel.cs,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 13:51:58+08:00
+v2rayN/v2rayN/ViewModels/RoutingRuleDetailsViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/RoutingRuleSettingViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/RoutingSettingViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/SubEditViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/ViewModels/SubSettingViewModel.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/Views/DNSSettingWindow.xaml,ShiinaRinne,2dust,2023-12-01 12:37:49+08:00,2023-12-01 17:03:49+08:00
+v2rayN/v2rayN/Views/GlobalHotkeySettingWindow.xaml.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml,2dust,ShiinaRinne,2023-02-24 11:27:06+08:00,2023-02-24 12:32:32+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml,Minghao Hu,2dust,2023-03-05 14:19:59+08:00,2023-03-05 19:51:26+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml,Metatron,2dust,2023-04-03 14:43:30+08:00,2023-04-04 13:30:29+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml,2dust,fonaix,2023-04-04 13:30:29+08:00,2023-04-04 23:39:56+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,2dust,FrzMtrsprt,2023-01-03 16:32:33+08:00,2023-01-03 21:35:04+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,2dust,fonaix,2023-04-04 15:59:08+08:00,2023-04-05 00:57:30+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,fonaix,2dust,2023-04-05 00:57:30+08:00,2023-04-05 09:43:33+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,fonaix,2dust,2023-04-07 15:21:09+08:00,2023-04-07 15:38:30+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,ShiinaRinne,2dust,2023-11-15 21:01:38+08:00,2023-11-16 19:56:14+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,John Edwerd,2dust,2024-01-13 21:54:03+08:00,2024-01-14 17:33:41+08:00
+v2rayN/v2rayN/Views/MainWindow.xaml.cs,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 13:51:58+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,Jabin Kong,2dust,2024-07-23 20:41:00+08:00,2024-07-24 19:51:13+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,2dust,runetfreedom,2024-10-14 14:27:53+08:00,2024-10-14 17:50:44+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,runetfreedom,2dust,2024-10-14 17:50:44+08:00,2024-10-14 19:29:15+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,2dust,runetfreedom,2024-10-14 19:29:15+08:00,2024-10-15 13:28:51+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml,runetfreedom,2dust,2024-10-16 14:11:20+08:00,2024-10-16 15:42:44+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml.cs,2dust,mojpangr26,2023-02-01 11:24:45+08:00,2023-02-01 17:07:36+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml.cs,mojpangr26,2dust,2023-02-02 09:41:23+08:00,2023-02-02 13:51:58+08:00
+v2rayN/v2rayN/Views/OptionSettingWindow.xaml.cs,2dust,小仙女,2023-02-19 14:55:44+08:00,2023-02-19 19:06:35+08:00
+v2rayN/v2rayN/Views/SubSettingWindow.xaml.cs,2dust,FrzMtrsprt,2023-01-01 19:42:01+08:00,2023-01-01 21:18:10+08:00
+v2rayN/v2rayN/v2rayN.csproj,2dust,Persian Prince,2023-01-01 19:42:01+08:00,2023-01-01 19:25:02+03:30
+v2rayN/v2rayN/v2rayN.csproj,Persian Prince,2dust,2023-01-01 19:25:02+03:30,2023-01-02 11:13:26+08:00
+v2rayN/v2rayN/v2rayN.csproj,chao wan,2dust,2023-03-04 00:40:06+08:00,2023-03-04 08:52:03+08:00
+v2rayN/v2rayN/v2rayN.csproj,Minghao Hu,2dust,2023-09-24 02:05:04+08:00,2023-09-24 16:17:54+08:00
+v2rayN/v2rayN/v2rayN.csproj,Anatoliy,2dust,2025-01-24 09:57:38+08:00,2025-01-24 14:25:13+08:00
+v2rayN/v2rayN/v2rayN.csproj,2dust,Anatoliy,2025-01-24 14:25:13+08:00,2025-01-24 19:00:21+08:00
+v2rayN/v2rayN/v2rayN.csproj,Anatoliy,2dust,2025-01-24 19:00:21+08:00,2025-01-24 20:28:04+08:00
+v2rayN/v2rayN/v2rayN.csproj,Anatoliy,2dust,2025-01-28 20:01:59+08:00,2025-01-29 15:17:30+08:00

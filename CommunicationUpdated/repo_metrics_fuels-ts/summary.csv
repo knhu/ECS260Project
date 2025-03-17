@@ -1,0 +1,212 @@
+Field,Value
+Commits Overview,
+Total Commits,1754
+Total Unique Authors,71
+,
+Top 10 Contributors,
+Author,Commits
+github-actions[bot],6682
+Sérgio Torres,4207
+Anderson Arboleya,3660
+fuel-service-user,2913
+Peter Smith,2384
+Daniel Bate,2251
+Cameron Manavian,1745
+Dhaiwat,1518
+Nedim Salkić,1291
+Quinn Lee,846
+,
+Communication Events,Total: 1947
+"Author1,Author2",Events
+"Anderson Arboleya,github-actions[bot]",273
+"Daniel Bate,Sérgio Torres",106
+"Nedim Salkić,fuel-service-user",105
+"github-actions[bot],Anderson Arboleya",100
+"Sérgio Torres,github-actions[bot]",98
+"fuel-service-user,Nedim Salkić",83
+"Cameron Manavian,github-actions[bot]",67
+"github-actions[bot],fuel-service-user",58
+"Anderson Arboleya,fuel-service-user",51
+"Daniel Bate,fuel-service-user",49
+"Sérgio Torres,fuel-service-user",46
+"Peter Smith,fuel-service-user",44
+"Luiz Estácio | stacio.eth,github-actions[bot]",40
+"github-actions[bot],Sérgio Torres",39
+"Daniel Bate,Anderson Arboleya",36
+"Daniel Bate,Dhaiwat",34
+"Anderson Arboleya,Daniel Bate",32
+"Chad Nehemiah,Peter Smith",30
+"github-actions[bot],Cameron Manavian",22
+"Chad Nehemiah,fuel-service-user",22
+"Daniel Bate,github-actions[bot]",21
+"Dhaiwat,github-actions[bot]",20
+"dependabot[bot],fuel-service-user",19
+"Dhaiwat,fuel-service-user",19
+"John Cub,Luiz Estácio",17
+"Peter Smith,Sérgio Torres",17
+"dependabot[bot],Peter Smith",17
+"Peter Smith,Daniel Bate",15
+"Cameron Manavian,Nedim Salkić",15
+"Nedim Salkić,Daniel Bate",15
+"Sérgio Torres,Anderson Arboleya",14
+"fuel-service-user,Chad Nehemiah",13
+"Anderson Arboleya,Sérgio Torres",12
+"Dhaiwat,Sérgio Torres",12
+"Luiz Estácio,John Cub",12
+"Peter Smith,Dhaiwat",10
+"Sérgio Torres,Peter Smith",10
+"JC,Quinn Lee",10
+"Luiz Estácio | stacio.eth,Quinn Lee",10
+"Dhaiwat,Peter Smith",9
+"Nedim Salkić,Peter Smith",9
+"Luiz Estácio | stacio.eth,Sérgio Torres",9
+"Daniel Bate,Nedim Salkić",9
+"Nedim Salkić,github-actions[bot]",9
+"Dhaiwat,Anderson Arboleya",8
+"Nedim Salkić,Sérgio Torres",8
+"Anderson Arboleya,Nedim Salkić",8
+"Luiz Felipe Bolsoni Gomes,github-actions[bot]",7
+"Sérgio Torres,Daniel Bate",7
+"Daniel Bate,Peter Smith",7
+"Cameron Manavian,Luiz Estácio | stacio.eth",7
+"fuel-service-user,Daniel Bate",6
+"Quinn Lee,John Cub",6
+"Alican Çubukçuoğlu,Quinn Lee",6
+"Dhaiwat,Nedim Salkić",6
+"Luiz Gomes - LuizAsFight.eth,github-actions[bot]",6
+"Nedim Salkić,Dhaiwat",5
+"dependabot[bot],Chad Nehemiah",5
+"Peter Smith,Anderson Arboleya",5
+"Chad Nehemiah,Sérgio Torres",5
+"Chad Nehemiah,Daniel Bate",5
+"Sérgio Torres,Chad Nehemiah",5
+"Cameron Manavian,Anderson Arboleya",4
+"Anderson Arboleya,dependabot[bot]",4
+"Chad Nehemiah,Nedim Salkić",4
+"fuel-service-user,Anderson Arboleya",4
+"JC,Luiz Estácio | stacio.eth",4
+"Peter Smith,dependabot[bot]",4
+"Sérgio Torres,Cameron Manavian",4
+"Quinn Lee,Alican Çubukçuoğlu",4
+"Sérgio Torres,Nedim Salkić",4
+"Sérgio Torres,Luiz Estácio | stacio.eth",4
+"Nedim Salkić,Anderson Arboleya",4
+"Dhaiwat,Daniel Bate",4
+"Luiz Estácio | stacio.eth,fuel-service-user",4
+"Peter Smith,Nedim Salkić",3
+"Peter Smith,Chad Nehemiah",3
+"PixelCircuits,Cameron Manavian",3
+"Chad Nehemiah,Ivan Oberemok",3
+"Anderson Arboleya,Cameron Manavian",3
+"fuel-service-user,Peter Smith",3
+"github-actions[bot],Daniel Bate",3
+"Quinn Lee,Luiz Estácio",3
+"github-actions[bot],Luiz Estácio | stacio.eth",3
+"Dhaiwat / dhai.eth,github-actions[bot]",3
+"Sérgio Torres,vuittont60",2
+"github-actions[bot],Nedim Salkić",2
+"Dhaiwat,Luis Gustavo Búrigo Alexandre",2
+"Quinn Lee,github-actions[bot]",2
+"Sarah Schwartz,Sérgio Torres",2
+"Anderson Arboleya,Peter Smith",2
+"Chad Nehemiah,dependabot[bot]",2
+"Cameron Manavian,Luiz Felipe Bolsoni Gomes",2
+"Camila,Nader Dabit",2
+"dependabot[bot],Anderson Arboleya",2
+"fuel-service-user,Sérgio Torres",2
+"Dhaiwat,Chad Nehemiah",2
+"Daniel Bate,Chad Nehemiah",2
+"Luiz Estácio,Quinn Lee",2
+"Peter Smith,Mike Christopher",2
+"dependabot[bot],Dhaiwat",2
+"Luiz Estácio | stacio.eth,Luiz Felipe Bolsoni Gomes",2
+"Luiz Estácio | stacio.eth,Cameron Manavian",2
+"Luiz Estácio | stacio.eth,Pedro Nauck",2
+"PixelCircuits,github-actions[bot]",2
+"Anderson Arboleya,Luiz Gomes - LuizAsFight.eth",1
+"Anderson Arboleya,Chad Nehemiah",1
+"Aditya Singh,Peter Smith",1
+"Alican Çubukçuoğlu,John Adler",1
+"Anderson Arboleya,Dhaiwat",1
+"Antoine,Peter Smith",1
+"Arthur Geron,fuel-service-user",1
+"Chad Nehemiah,Dhaiwat",1
+"Cameron Manavian,Daniel Bate",1
+"Cameron Manavian,JC",1
+"Dhaiwat / dhai.eth,Cameron Manavian",1
+"Dhaiwat,Luiz Estácio | stacio.eth",1
+"Daniel Bate,dependabot[bot]",1
+"Daniel Bate,Cameron Manavian",1
+"Daniel Bate,Jason",1
+"JC,Pedro Nauck",1
+"Ivan Oberemok,Dhaiwat",1
+"Franco Sánchez,Anderson Arboleya",1
+"Harsh Bajpai,fuel-service-user",1
+"JC,Cameron Manavian",1
+"Luiz Gomes,fuel-service-user",1
+"Luiz Felipe Bolsoni Gomes,Quinn Lee",1
+"Luis Gustavo Búrigo Alexandre,Dhaiwat",1
+"Nedim Salkić,dependabot[bot]",1
+"Nedim Salkić,Arthur Geron",1
+"Nedim Salkić,Chad Nehemiah",1
+"Luiz Gomes - LuizAsFight.eth,Anderson Arboleya",1
+"Matt,github-actions[bot]",1
+"Miguel,Peter Smith",1
+"Miguel Oliveira,fuel-service-user",1
+"Mike Christopher,Peter Smith",1
+"Luiz Gomes - LuizAsFight.eth,Daniel Bate",1
+"Luiz Felipe Bolsoni Gomes,Pedro Nauck",1
+"Luis Gustavo Búrigo Alexandre,Sérgio Torres",1
+"Luis Gustavo Búrigo Alexandre,Peter Smith",1
+"Luiz Estácio | stacio.eth,Anderson Arboleya",1
+"Pedro Nauck,Quinn Lee",1
+"Peter Smith,Aditya Singh",1
+"Pedro Nauck,Luiz Estácio | stacio.eth",1
+"Sarah Schwartz,fuel-service-user",1
+"Sarah Schwartz,github-actions[bot]",1
+"Sophie Dankel,Luiz Estácio | stacio.eth",1
+"Sérgio Torres,1marcghannam",1
+"Quinn Lee,PixelCircuits",1
+"Quinn Lee,Cameron Manavian",1
+"Sarah Schwartz,Daniel Bate",1
+"Protocolwhisper.eth,github-actions[bot]",1
+"dependabot[bot],Sérgio Torres",1
+"dependabot[bot],Ivan Oberemok",1
+"dependabot[bot],Daniel Bate",1
+"dependabot[bot],Aditya Singh",1
+"Sérgio Torres,Dhaiwat",1
+"dhai,Sérgio Torres",1
+"dhai,fuel-service-user",1
+"github-actions[bot],Luiz Gomes - LuizAsFight.eth",1
+,
+Committer Timezone Distribution,Unique Timezones: 16
+Timezone,Commits
++00:00,680
++01:00,195
++02:00,40
++03:00,76
++04:00,3
++05:30,76
++07:00,7
++08:00,4
++09:00,1
++11:00,1
+-03:00,441
+-04:00,45
+-05:00,74
+-06:00,6
+-07:00,65
+-08:00,40
+,
+Contributors Experience,Average across 5998 files: 87.84%
+File,Top Contributor Share (%)
+packages/protocol/binaryMerkleTree/binaryMerkleTree.ts,100.00
+packages/protocol/binaryMerkleTree/test.ts,100.00
+packages/protocol/binaryMerkleTree/types/branch.ts,100.00
+packages/protocol/binaryMerkleTree/types/node.ts,100.00
+packages/protocol/common.ts,100.00
+packages/protocol/cryptography.ts,100.00
+packages/protocol/sparseMerkleTree/deepSparseMerkleSubTree.ts,100.00
+packages/protocol/sparseMerkleTree/proofs.ts,100.00
+packages/protocol/sparseMerkleTree/sparseMerkleTree.ts,100.00
+packages/protocol/sparseMerkleTree/test.ts,100.00

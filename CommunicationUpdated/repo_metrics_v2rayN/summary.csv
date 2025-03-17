@@ -1,0 +1,104 @@
+Field,Value
+Commits Overview,
+Total Commits,2042
+Total Unique Authors,97
+,
+Top 10 Contributors,
+Author,Commits
+2dust,7934
+YFdyh000,431
+NimaZare,84
+小仙女,80
+runetfreedom,45
+ShiinaRinne,40
+Edi Wang,33
+crazypeace,32
+Anatoliy,24
+mojpangr26,21
+,
+Communication Events,Total: 214
+"Author1,Author2",Events
+"runetfreedom,2dust",23
+"YFdyh000,2dust",14
+"2dust,runetfreedom",12
+"Anatoliy,2dust",12
+"2dust,FrzMtrsprt",12
+"2dust,mojpangr26",9
+"ShiinaRinne,2dust",9
+"InterestingDarkness,2dust",7
+"2dust,小仙女",7
+"mojpangr26,2dust",7
+"2dust,Anatoliy",5
+"2dust,YFdyh000",5
+"Jabin Kong,2dust",4
+"小仙女,2dust",4
+"windfallw,2dust",4
+"OnceUponATimeInAmerica,2dust",4
+"cryptochecktool,2dust",4
+"2dust,RPRX",4
+"2dust,alphax-hue3682",4
+"2dust,InterestingDarkness",3
+"chika0801,2dust",3
+"2dust,rprx",3
+"2dust,Persian Prince",3
+"John Edwerd,2dust",2
+"2dust,uniceguy",2
+"2dust,fonaix",2
+"2dust,NagisaEfi",2
+"fonaix,2dust",2
+"2dust,cryptochecktool",2
+"zjt003,2dust",2
+"gush4,2dust",2
+"Long Yixing,2dust",2
+"Merrick Zhang,2dust",2
+"Persian Prince,2dust",2
+"Sam Song,2dust",2
+"Minghao Hu,2dust",2
+"Metatron,2dust",2
+"2dust,Computer Idiot",1
+"2dust,DecorativeFamily",1
+"DHR60,2dust",1
+"2dust,zjt003",1
+"2dust,phoenix6936",1
+"2dust,OnceUponATimeInAmerica",1
+"2dust,PragmaTwice",1
+"2dust,ShiinaRinne",1
+"FrzMtrsprt,2dust",1
+"DecorativeFamily,fonaix",1
+"Persian Prince,mojpangr26",1
+"RPRX,2dust",1
+"Lsyx-Good,2dust",1
+"Kyrie@cedu.me,2dust",1
+"MohammadHadi Attarieh,2dust",1
+"NagisaEfi,2dust",1
+"Weltolk,小仙女",1
+"Slnanx,2dust",1
+"alphax-hue3682,2dust",1
+"chao wan,2dust",1
+"dependabot[bot],nayeko",1
+"phoenix6936,2dust",1
+"liqi,kidfruit",1
+"mojpangr26,Persian Prince",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++00:00,8
++03:00,3
++03:30,6
++08:00,2018
++09:00,5
+-04:00,1
+-05:00,1
+,
+Contributors Experience,Average across 738 files: 95.72%
+File,Top Contributor Share (%)
+.github/issue_template.md,100.00
+LICENSE,100.00
+v2rayN/v2rayN/Forms/AddServer2Form.Designer.cs,100.00
+v2rayN/v2rayN/Forms/AddServer3Form.Designer.cs,100.00
+v2rayN/v2rayN/Forms/AddServer4Form.Designer.cs,100.00
+v2rayN/v2rayN/Forms/AddServerForm.Designer.cs,100.00
+v2rayN/v2rayN/Forms/BaseForm.Designer.cs,100.00
+v2rayN/v2rayN/Forms/BaseForm.resx,100.00
+v2rayN/v2rayN/Forms/ListViewFlickerFree.cs,100.00
+v2rayN/v2rayN/Forms/QRCodeControl.Designer.cs,100.00

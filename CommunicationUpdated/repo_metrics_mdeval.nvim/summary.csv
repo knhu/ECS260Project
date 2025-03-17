@@ -1,0 +1,40 @@
+Field,Value
+Commits Overview,
+Total Commits,34
+Total Unique Authors,7
+,
+Top 10 Contributors,
+Author,Commits
+Georgy Komarov,23
+Georgiy Komarov,14
+Utkarsh Yadav,4
+seiyagit,1
+interloper,1
+0fflineuser,1
+arakkk,1
+,
+Communication Events,Total: 1
+"Author1,Author2",Events
+"Georgiy Komarov,Utkarsh Yadav",1
+,
+Committer Timezone Distribution,Unique Timezones: 7
+Timezone,Commits
++01:00,1
++02:00,2
++03:00,19
++05:30,3
++07:00,7
+-04:00,1
+-05:00,1
+,
+Contributors Experience,Average across 9 files: 86.32%
+File,Top Contributor Share (%)
+.gitignore,100.00
+LICENSE,100.00
+doc/mdeval.txt,100.00
+plugin/mdeval.vim,100.00
+.stylua.toml,100.00
+.github/workflows/check.yml,100.00
+README.md,74.80
+lua/mdeval.lua,52.05
+lua/defaults.lua,50.00

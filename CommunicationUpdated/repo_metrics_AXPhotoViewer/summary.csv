@@ -1,0 +1,44 @@
+Field,Value
+Commits Overview,
+Total Commits,261
+Total Unique Authors,8
+,
+Top 10 Contributors,
+Author,Commits
+Alex Hill,868
+BiNo,12
+Alessandro Nakamuta,7
+Justin Hill,5
+Matt Lamont,4
+Michał Czwarnowski,1
+Guillaume B,1
+Manuel Maly,1
+,
+Communication Events,Total: 6
+"Author1,Author2",Events
+"Alex Hill,Matt Lamont",3
+"Alessandro Nakamuta,Alex Hill",1
+"Alex Hill,Justin Hill",1
+"Justin Hill,Alex Hill",1
+,
+Committer Timezone Distribution,Unique Timezones: 6
+Timezone,Commits
++01:00,1
++02:00,4
++12:00,1
+-04:00,4
+-07:00,246
+-08:00,5
+,
+Contributors Experience,Average across 167 files: 98.59%
+File,Top Contributor Share (%)
+BAPhotosViewController.xcodeproj/project.pbxproj,100.00
+BAPhotosViewController.xcodeproj/project.xcworkspace/contents.xcworkspacedata,100.00
+BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/BAPhotosViewController.xcscheme,100.00
+BAPhotosViewController.xcodeproj/xcuserdata/alex.xcuserdatad/xcschemes/xcschememanagement.plist,100.00
+BAPhotosViewController/AppDelegate.swift,100.00
+BAPhotosViewController/Assets.xcassets/AppIcon.appiconset/Contents.json,100.00
+BAPhotosViewController/Base.lproj/LaunchScreen.storyboard,100.00
+BAPhotosViewController/Base.lproj/Main.storyboard,100.00
+BAPhotosViewController/Info.plist,100.00
+BAPhotosViewController/ViewController.swift,100.00

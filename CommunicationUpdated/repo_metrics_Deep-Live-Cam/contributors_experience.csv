@@ -1,0 +1,35 @@
+File,Top Contributor Share (%)
+.gitattributes,100.00
+README.md,47.78
+.gitignore,83.33
+LICENSE,100.00
+modules/capturer.py,57.69
+modules/core.py,73.66
+modules/face_analyser.py,44.01
+modules/globals.py,43.37
+modules/metadata.py,62.50
+modules/predicter.py,62.50
+modules/processors/frame/core.py,97.30
+modules/processors/frame/face_enhancer.py,46.20
+modules/processors/frame/face_swapper.py,75.37
+modules/typing.py,100.00
+modules/ui (2).py,100.00
+modules/ui.json,100.00
+modules/ui.py,42.34
+modules/utilities.py,61.84
+mypi.ini,100.00
+run.py,100.00
+requirements.txt,73.75
+run-cuda.bat,66.67
+run-laptop-gpu.bat,100.00
+run_with_chocolatey.bat,100.00
+models/instructions.txt,80.00
+setup_deep_live_cam.bat,90.32
+CONTRIBUTING.md,97.62
+modules/cluster_analysis.py,50.00
+.github/ISSUE_TEMPLATE/bug_report.md,70.37
+switch_states.json,100.00
+modules/video_capture.py,100.00
+run-directml.bat,100.00
+locales/zh.json,100.00
+modules/gettext.py,100.00

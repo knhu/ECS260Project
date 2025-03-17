@@ -1,0 +1,46 @@
+author,timestamp,file
+Georgy Komarov,2021-06-13 12:50:16+03:00,.gitignore
+Georgy Komarov,2021-06-13 12:50:16+03:00,LICENSE
+Georgy Komarov,2021-06-13 12:50:16+03:00,README.md
+Georgy Komarov,2021-06-13 12:50:16+03:00,demo.gif
+Georgy Komarov,2021-06-13 12:50:16+03:00,doc/mdeval.txt
+Georgy Komarov,2021-06-13 12:50:16+03:00,lua/defaults.lua
+Georgy Komarov,2021-06-13 12:50:16+03:00,lua/mdeval.lua
+Georgy Komarov,2021-06-13 12:50:16+03:00,plugin/mdeval.vim
+Georgy Komarov,2021-06-13 19:02:15+03:00,README.md
+Georgy Komarov,2021-06-16 14:29:35+03:00,README.md
+Georgy Komarov,2021-06-16 14:29:35+03:00,doc/mdeval.txt
+Georgy Komarov,2021-06-16 14:29:35+03:00,lua/defaults.lua
+Georgy Komarov,2021-06-16 14:29:35+03:00,lua/mdeval.lua
+Georgy Komarov,2021-06-16 14:35:02+03:00,README.md
+Georgy Komarov,2021-06-23 12:10:18+03:00,lua/mdeval.lua
+Georgy Komarov,2021-06-26 22:44:42+03:00,lua/mdeval.lua
+Georgy Komarov,2021-07-22 10:31:02+03:00,README.md
+Georgy Komarov,2021-07-22 10:31:02+03:00,doc/mdeval.txt
+Georgy Komarov,2021-07-22 10:57:55+03:00,doc/mdeval.txt
+Georgy Komarov,2021-07-22 10:57:55+03:00,lua/mdeval.lua
+Georgy Komarov,2021-07-24 14:30:02+03:00,doc/mdeval.txt
+Georgiy Komarov,2021-08-06 07:35:02+03:00,lua/mdeval.lua
+Georgiy Komarov,2021-08-06 07:35:19+03:00,README.md
+Georgiy Komarov,2021-08-06 07:53:49+03:00,README.md
+Georgiy Komarov,2021-08-15 13:37:48+03:00,README.md
+Utkarsh Yadav,2021-08-15 22:40:39+05:30,lua/defaults.lua
+Utkarsh Yadav,2021-08-15 22:40:39+05:30,lua/mdeval.lua
+Utkarsh Yadav,2021-08-15 22:42:53+05:30,README.md
+Utkarsh Yadav,2021-08-16 12:07:07+05:30,README.md
+Georgy Komarov,2021-09-23 07:34:23+03:00,lua/defaults.lua
+Georgy Komarov,2021-09-23 07:36:28+03:00,README.md
+seiyagit,2021-10-01 20:45:14+02:00,lua/defaults.lua
+Georgiy Komarov,2022-05-20 09:52:37+03:00,lua/mdeval.lua
+Georgiy Komarov,2022-06-03 21:23:59+03:00,lua/mdeval.lua
+Georgiy Komarov,2022-10-30 07:50:51+07:00,lua/mdeval.lua
+Georgiy Komarov,2022-10-30 07:51:58+07:00,.stylua.toml
+Georgiy Komarov,2022-10-30 07:51:58+07:00,lua/mdeval.lua
+Georgiy Komarov,2022-10-30 07:53:22+07:00,lua/mdeval.lua
+Georgiy Komarov,2022-10-31 06:23:50+07:00,.github/workflows/check.yml
+Georgiy Komarov,2022-10-31 06:23:50+07:00,README.md
+Georgiy Komarov,2022-10-31 06:23:50+07:00,lua/defaults.lua
+Georgiy Komarov,2022-10-31 06:26:42+07:00,.github/workflows/check.yml
+interloper,2023-12-25 13:28:49+01:00,lua/mdeval.lua
+0fflineuser,2024-09-11 11:50:38+02:00,lua/mdeval.lua
+arakkk,2024-11-30 06:23:57-05:00,lua/mdeval.lua

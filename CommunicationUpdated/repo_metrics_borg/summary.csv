@@ -1,0 +1,224 @@
+Field,Value
+Commits Overview,
+Total Commits,8934
+Total Unique Authors,351
+,
+Top 10 Contributors,
+Author,Commits
+Thomas Waldmann,9501
+Marian Beermann,1828
+Jonas Borgström,1438
+Antoine Beaupré,448
+bigtedde,162
+Andrey Bienkowski,116
+Thalian,108
+Paul D,95
+Martin Hostettler,81
+Donny Ward,76
+,
+Communication Events,Total: 534
+"Author1,Author2",Events
+"Donny Ward,Thomas Waldmann",73
+"Marian Beermann,Thomas Waldmann",63
+"Thomas Waldmann,Marian Beermann",44
+"Marian Beermann,enkore",32
+"Antoine Beaupré,Thomas Waldmann",17
+"Andrea Gelmini,Thomas Waldmann",12
+"Thomas Waldmann,Antoine Beaupré",10
+"Andrey Bienkowski,Thomas Waldmann",8
+"enkore,Marian Beermann",8
+"Dan Christensen,Jonas Borgström",6
+"Martin Hostettler,Marian Beermann",6
+"Marian Beermann,Abogical",6
+"Thomas Waldmann,Milkey Mouse",6
+"Thomas Waldmann,Björn Ketelaars",6
+"Jonas Borgström,Dan Christensen",5
+"TW,Thomas Waldmann",5
+"Marian Beermann,Lauri Niskanen",4
+"Rayyan Ansari,Thomas Waldmann",4
+"Marian Beermann,Martin Hostettler",4
+"Michael Deyaso,Thomas Waldmann",4
+"Ted Lawson,Thomas Waldmann",4
+"Ed Blackman,Thomas Waldmann",4
+"Daniel Reichelt,Marian Beermann",4
+"Thomas Waldmann,Andrey Bienkowski",4
+"Thomas Waldmann,Jonas Borgström",3
+"Thomas Waldmann,Michael Hanselmann",3
+"kmq,Marian Beermann",3
+"anarcat,Antoine Beaupré",3
+"Thomas Waldmann,William D. Jones",3
+"pamaron,Thomas Waldmann",3
+"Robin Schneider,Piotr Pawlow",3
+"Robin Schneider,Thomas Waldmann",3
+"Michael Hanselmann,Thomas Waldmann",3
+"Oleg Drokin,Marian Beermann",3
+"Marian Beermann,Ed Blackman",3
+"Dan Christensen,Thomas Waldmann",3
+"James Buren,Thomas Waldmann",2
+"Ed Blackman,Marian Beermann",2
+"Dark Dragon,Thomas Waldmann",2
+"Ed Blackman,Lauri Niskanen",2
+"Andrea Gelmini,Martin Hostettler",2
+"Abogical,Thomas Waldmann",2
+"Thomas Waldmann,Dan Christensen",2
+"Thomas Waldmann,Robin Schneider",2
+"Thomas Waldmann,Martin Hostettler",2
+"Thomas Waldmann,Rémi Oudin",2
+"Lee Bousfield,Marian Beermann",2
+"Lee Bousfield,Thomas Waldmann",2
+"Lauri Niskanen,Thomas Waldmann",2
+"Manu,Manuel Riel",2
+"Nikolaus Rath,Thomas Waldmann",2
+"Rémi Oudin,Thomas Waldmann",2
+"Lauri Niskanen,Marian Beermann",2
+"Thomas Waldmann,ntova",2
+"rugk,Marian Beermann",2
+"Marian Beermann,TW",2
+"Marian Beermann,Andrea Gelmini",2
+"Jeremy Maitin-Shepard,Jonas Borgström",2
+"Martin Hostettler,Thomas Waldmann",2
+"Antoine Beaupré,anarcat",2
+"Daniel Rudolf,Thomas Waldmann",2
+"Björn Ketelaars,Marian Beermann",1
+"Antoine Beaupré,Milkey Mouse",1
+"Andrea Gelmini,Emil M George",1
+"Andrey Andreyevich Bienkowski,Andrey Bienkowski",1
+"Andrey Bienkowski,Andrey Andreyevich Bienkowski",1
+"Abogical,Marian Beermann",1
+"8bit,Timothy Burchfield",1
+"Benjamin Pereto,Hans-Peter Jansen",1
+"Alexander 'Leo' Bergolth,Marian Beermann",1
+"Andrea Gelmini,Marian Beermann",1
+"Bruno Behnken,Thomas Waldmann",1
+"Björn Ketelaars,Thomas Waldmann",1
+"Dan Christensen,Marian Beermann",1
+"Jens Diemer,Andrea Gelmini",1
+"Janne K,Stefan Tatschner",1
+"James Clarke,Marian Beermann",1
+"Jakob Schnitzer,Thomas Waldmann",1
+"Fredrik Mikker,Marian Beermann",1
+"Félix Sipma,Thomas Waldmann",1
+"Frank Sachsenheim,Thomas Waldmann",1
+"Felix Schwarz,Björn Ketelaars",1
+"Dee Newcum,Thomas Waldmann",1
+"Eli Schwartz,Thomas Waldmann",1
+"Benedikt Neuffer,Thomas Waldmann",1
+"Benedikt Heine,Alexander 'Leo' Bergolth",1
+"Carlo Teubner,Marian Beermann",1
+"Michael Rupert,Thomas Waldmann",1
+"Milkey Mouse,Tom Denley",1
+"Oleg Drokin,Thomas Waldmann",1
+"Martin Hostettler,Alexander 'Leo' Bergolth",1
+"Marian Beermann,kmq",1
+"Martin Hostettler,Benedikt Heine",1
+"Marian Beermann,edgimar",1
+"Marian Beermann,OEM Configuration (temporary user)",1
+"Marian Beermann,James Clarke",1
+"Marian Beermann,Alexander 'Leo' Bergolth",1
+"Marian Beermann,Björn Ketelaars",1
+"OEM Configuration (temporary user),Marian Beermann",1
+"Nathan Musoke,Marian Beermann",1
+"Narendra Vardi,Marian Beermann",1
+"Jürg Rast,finefoot",1
+"Joey,Thomas Waldmann",1
+"Josh Holland,Thomas Waldmann",1
+"Lapinot,Thomas Waldmann",1
+"Joachim Breitner,Thomas Waldmann",1
+"Thalian,finefoot",1
+"Thalian,TW",1
+"Thalian,Jürg Rast",1
+"TW,Marian Beermann",1
+"Stephen,Thomas Waldmann",1
+"Syed Ali Ghazi Ejaz,Ken Kundert",1
+"Stefan Tatschner,Janne K",1
+"Stephan Herbers,Thomas Waldmann",1
+"Rémi Oudin,Thalian",1
+"Robin Schneider,Stefan Tatschner",1
+"Simon Frei,Thomas Waldmann",1
+"Samuel-BF,Samuel BF",1
+"RR,Thalian",1
+"Per Guth,Thomas Waldmann",1
+"Rayyan Ansari,bigtedde",1
+"Robin Schneider,Michael Hanselmann",1
+"Milkey Mouse,Sam H",1
+"Milkey Mouse,Thomas Waldmann",1
+"Thomas Waldmann,Gianfranco Costamagna",1
+"Thomas Waldmann,Danny Edel",1
+"Thomas Waldmann,Benedikt Neuffer",1
+"Thomas Waldmann,Alan Jenkins",1
+"Thomas Waldmann,Alexander 'Leo' Bergolth",1
+"Thomas Waldmann,Leo Antunes",1
+"Thomas Waldmann,Mark Lopez",1
+"Thomas Waldmann,Ed Blackman",1
+"Thomas Waldmann,Dmitry Astapov",1
+"Thomas Waldmann,Alf Mikula",1
+"Thomas Waldmann,Abogical",1
+"Thomas Portmann,TW",1
+"Thomas Waldmann,Abdel-Rahman",1
+"Thomas Waldmann,8bit",1
+"Thomas Waldmann,Ronny Pfannschmidt",1
+"Thomas Waldmann,Philip Waritschlager",1
+"Thomas Waldmann,Peter Gerber",1
+"Thomas Waldmann,Phil Kulin",1
+"Thomas Waldmann,Paul D",1
+"Thomas Waldmann,Jakub Wilk",1
+"Thomas Waldmann,Hartmut Goebel",1
+"Thomas Waldmann,TW",1
+"Thomas Waldmann,axapaxa",1
+"Thomas Waldmann,bigtedde",1
+"Thomas Waldmann,klemens",1
+"Thomas Waldmann,Saurav Sachidanand",1
+"Thomas Waldmann,Teemu Toivanen",1
+"Thomas Waldmann,Thalian",1
+"Thomas Waldmann,Wladimir Palant",1
+"Thomas Waldmann,Stavros Korokithakis",1
+"Thomas Waldmann,vhadzhiev",1
+"Thomas Waldmann,ololoru",1
+"Thomas Waldmann,kmq",1
+"Thomas Waldmann,kmille",1
+"Thomas Waldmann,enkore",1
+"Tomás Andrighetti,Thomas Waldmann",1
+"William D. Jones,Thomas Waldmann",1
+"TuXicc,Marian Beermann",1
+"bobthebadguy,Thomas Waldmann",1
+"bigtedde,Thomas Waldmann",1
+"anarcat,Benjamin Pereto",1
+"Wladimir Palant,Thomas Waldmann",1
+"klemens,Marian Beermann",1
+"jetchirag,Thomas Waldmann",1
+"lfam,infectormp",1
+"schuft69,Thomas Waldmann",1
+,
+Committer Timezone Distribution,Unique Timezones: 18
+Timezone,Commits
++00:00,62
++01:00,3219
++02:00,4913
++03:00,79
++04:00,11
++05:00,4
++05:30,20
++06:00,1
++07:00,1
++08:00,12
++09:00,2
++10:00,3
+-03:00,2
+-04:00,348
+-05:00,141
+-06:00,17
+-07:00,54
+-08:00,45
+,
+Contributors Experience,Average across 886 files: 84.47%
+File,Top Contributor Share (%)
+dedupstore/repository.py,100.00
+doc/design.txt,100.00
+dedupstore/archiver.py,100.00
+dedupstore/store.py,100.00
+dedupstore/chunker.py,100.00
+dedupstore/chunkifier.py,100.00
+dedupstore/_chunkifier.c,100.00
+dedupestore/archiver.py,100.00
+dedupestore/chunkifier.py,100.00
+dedupestore/store.py,100.00

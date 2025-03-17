@@ -1,0 +1,440 @@
+Field,Value
+Commits Overview,
+Total Commits,20745
+Total Unique Authors,714
+,
+Top 10 Contributors,
+Author,Commits
+Mateusz Paprocki,54070
+Bryan Van de Ven,35516
+Hugo,8356
+Sarah Bird,2202
+Luke Canavan,1956
+hugo,1713
+David Reed,1544
+Ian Thomas,1510
+damianavila,1367
+Havoc Pennington,1126
+,
+Communication Events,Total: 7534
+"Author1,Author2",Events
+"Hugo,Bryan Van de Ven",5058
+"Bryan Van de Ven,Mateusz Paprocki",328
+"Mateusz Paprocki,Bryan Van de Ven",192
+"Bryan Van de Ven,Peter Wang",144
+"Bryan Van de Ven,Travis Swicegood",80
+"Travis Swicegood,Bryan Van de Ven",60
+"Peter Wang,Hugo",59
+"Bryan Van de Ven,Paddy Mullen",57
+"Bryan Van de Ven,Hugo",56
+"Sarah Bird,Bryan Van de Ven",54
+"Paddy Mullen,Bryan Van de Ven",51
+"Peter Wang,Bryan Van de Ven",40
+"Bryan Van de Ven,Sarah Bird",32
+"Paddy Mullen,Hugo",31
+"Luke Canavan,Bryan Van de Ven",30
+"Havoc Pennington,Bryan Van de Ven",30
+"Bryan Van de Ven,hugo",29
+"Bryan Van de Ven,damianavila",29
+"mattpap,bryevdv",28
+"hugo,Bryan Van de Ven",27
+"Bryan Van de Ven,Havoc Pennington",26
+"damianavila,Bryan Van de Ven",21
+"Iury Dias Piva,Mateusz Paprocki",20
+"Philipp Rudiger,Mateusz Paprocki",20
+"Luke Canavan,Mateusz Paprocki",18
+"Mateusz Paprocki,Sarah Bird",18
+"Paddy Mullen,Peter Wang",18
+"Bryan Van de Ven,LilaHickey",16
+"Fabio Pliger,Bryan Van de Ven",15
+"Bryan Van de Ven,Luke Canavan",15
+"Mateusz Paprocki,Luke Canavan",15
+"Hugo,Paddy Mullen",15
+"Peter Wang,Paddy Mullen",14
+"Maggie-M,Bryan Van de Ven",14
+"bryevdv,mattpap",14
+"Bryan Van de Ven,Fabio Pliger",13
+"Sarah Bird,Mateusz Paprocki",13
+"shughes,sam",13
+"Benjamin Zaitlen,Bryan Van de Ven",12
+"Ian Thomas,Mateusz Paprocki",11
+"fpliger,Havoc Pennington",11
+"Bryan Van de Ven,Maggie-M",11
+"Joseph Crail,Bryan Van de Ven",11
+"Hugo,Peter Wang",10
+"Timo Cornelius Metzger,Bryan Van de Ven",10
+"Santos Solorzano,Bryan Van de Ven",10
+"LilaHickey,Bryan Van de Ven",10
+"Bryan Van de Ven,Timo Cornelius Metzger",9
+"Mateusz Paprocki,bryevdv",9
+"Havoc Pennington,fpliger",9
+"hugo,Hugo",9
+"bryevdv,Mateusz Paprocki",8
+"Bryan Van de Ven,Joseph Cottam",8
+"Bryan Van de Ven,Joseph Crail",8
+"Tabish Chasmawala,Bryan Van de Ven",8
+"Marco Edward Gorelli,Mateusz Paprocki",8
+"sam,shughes",8
+"Bryan Van de Ven,HuntJSparra",7
+"Hunt Sparra,ncfcs17",7
+"Bryan Van de Ven,Karan Dodia",7
+"Bryan Van de Ven,Almar Klein",6
+"Mateusz Paprocki,damianavila",6
+"Fabio Pliger,Mateusz Paprocki",6
+"hugo,LilaHickey",6
+"fpliger,Nick Roth",6
+"Bryan Van de Ven,Maggie Mari",6
+"Maggie Mari,Mateusz Paprocki",6
+"Mateusz Paprocki,bcollins",6
+"Joseph Cottam,Bryan Van de Ven",5
+"Fabio Pliger,Maggie-M",5
+"Philipp Rudiger,Bryan Van de Ven",5
+"Karan Dodia,Bryan Van de Ven",5
+"Sarah Bird,Luke Canavan",5
+"LilaHickey,hugo",5
+"Sarah Bird,Nick Roth",5
+"bgyarfas,Bryan Van de Ven",5
+"Nick Roth,Bryan Van de Ven",5
+"Martin Fleischmann,Bryan Van de Ven",5
+"Nick Roth,fpliger",5
+"Almar Klein,Bryan Van de Ven",5
+"Antoine Pitrou,Bryan Van de Ven",4
+"sebacastroh,Mateusz Paprocki",4
+"Bryan Van de Ven,Ben Greiner",4
+"damianavila,Mateusz Paprocki",4
+"xavArtley,Bryan Van de Ven",4
+"Bryan Van de Ven,mistakevin",4
+"Markus Gerstel,Philipp Rudiger",4
+"Maggie Mari,Bryan Van de Ven",4
+"Markus Gerstel,Bryan Van de Ven",4
+"hugo,Mateusz Paprocki",4
+"Almar Klein,Travis Swicegood",4
+"Almar Klein,Mateusz Paprocki",4
+"bcollins,Mateusz Paprocki",4
+"Mateusz Paprocki,mattpap",4
+"Hugo,Sahat Yalkabov",4
+"Sarah Bird,damianavila",4
+"Mateusz Paprocki,Ravi Singh",4
+"Maggie-M,Luke Canavan",4
+"Mateusz Paprocki,Almar Klein",4
+"Mateusz Paprocki,Philipp Rudiger",4
+"mistakevin,Bryan Van de Ven",4
+"lemarcantoine,Bryan Van de Ven",4
+"Maggie-M,Mateusz Paprocki",4
+"Marc Skov Madsen,Mateusz Paprocki",4
+"bryevdv,Bryan Van de Ven",4
+"bcollins,Havoc Pennington",4
+"hugo,damianavila",3
+"hugo,Maggie-M",3
+"hugo,Tabish Chasmawala",3
+"Bryan Van de Ven,Nick Roth",3
+"damianavila,Sarah Bird",3
+"Fabio Pliger,Mathieu Drapeau",3
+"Eugene Pakhomov,Mateusz Paprocki",3
+"Mateusz Paprocki,Havoc Pennington",3
+"Mateusz Paprocki,hugo",3
+"Mags,Bryan Van de Ven",3
+"Mathieu Drapeau,Fabio Pliger",3
+"Nick Roth,damianavila",3
+"Moritz Schreiber,Bryan Van de Ven",3
+"Mateusz Paprocki,Eugene Pakhomov",3
+"tp199911,fpliger",3
+"Mateusz Paprocki,Fabio Pliger",3
+"Joseph Cottam,Mateusz Paprocki",3
+"Jean-Luc Stevens,Mateusz Paprocki",3
+"Sarah Bird,Fabio Pliger",3
+"Hui Lee,Mateusz Paprocki",3
+"bcollins,Luke Canavan",3
+"Sarah Bird,lcanavan",3
+"HuntJSparra,Bryan Van de Ven",3
+"Simon Høxbro Hansen,Mateusz Paprocki",3
+"Luke Canavan,Sarah Bird",3
+"Bryan Van de Ven,James A. Bednar",3
+"Bryan Van de Ven,Ian Thomas",3
+"Bryan Van de Ven,tcmetzger",3
+"Bryan Van de Ven,bcollins",3
+"Bryan Van de Ven,Philipp Rudiger",3
+"fpliger,Bryan Van de Ven",3
+"kpr,KasperPRasmussen",2
+"Damián Avila,damianavila",2
+"danio,Bryan Van de Ven",2
+"damianavila,Karan Dodia",2
+"damianavila,Damián Avila",2
+"damianavila,Travis Swicegood",2
+"Bryan Van de Ven,hsparra",2
+"Bryan Van de Ven,enricapq",2
+"Bryan Van de Ven,fpliger",2
+"Bryan Van de Ven,M4urice",2
+"Bryan Van de Ven,Martin Fleischmann",2
+"Bryan Van de Ven,Moritz Schreiber",2
+"Bryan Van de Ven,Claire Tang",2
+"Bryan Van de Ven,Daniel Danner",2
+"hhuuggoo,Hugo",2
+"enricapq,Mateusz Paprocki",2
+"Bryan Van de Ven,Tabish Chasmawala",2
+"Bryan Van de Ven,Kevin Colten",2
+"Azaya,Timo Cornelius Metzger",2
+"Boris Gorelik,Bryan Van de Ven",2
+"hugo,Joseph Cottam",2
+"Bryan Van de Ven,Benjamin Zaitlen",2
+"jburgy,Bryan Van de Ven",2
+"jlstevens,Bryan Van de Ven",2
+"joel.hull@continuum.io,Hugo",2
+"hugo,hhuuggoo",2
+"alhoo,Bryan Van de Ven",2
+"bokeh-integrations,Bryan Van de Ven",2
+"bcollins,fpliger",2
+"Havoc Pennington,bcollins",2
+"Iury Dias Piva,Timo Cornelius Metzger",2
+"Ian Thomas,Bryan Van de Ven",2
+"HuntJSparra,Jean-Luc Stevens",2
+"LilaHickey,Mateusz Paprocki",2
+"Luke Canavan,Jeff Zhang",2
+"Jean-Luc Stevens,HuntJSparra",2
+"Phillip Cloud,Mateusz Paprocki",2
+"Sarah Bird,Havoc Pennington",2
+"Sahat Yalkabov,Hugo",2
+"Pratap Vardhan,Bryan Van de Ven",2
+"Joseph Cottam,hugo",2
+"Hugo,hhuuggoo",2
+"Sarah Bird,Joseph Crail",2
+"Havoc Pennington,Sarah Bird",2
+"Timo Cornelius Metzger,Mateusz Paprocki",2
+"Sarah Heim,Bryan Van de Ven",2
+"Karen Poon,Mateusz Paprocki",2
+"Karan Dodia,Tabish Chasmawala",2
+"Nimish Bongale,Bryan Van de Ven",2
+"Maggie-M,Sarah Bird",2
+"Maggie Mari,Hugo",2
+"M4urice,Bryan Van de Ven",2
+"Mateusz Paprocki,henricryden",2
+"Maggie-M,Havoc Pennington",2
+"Nick Roth,Sarah Bird",2
+"Maggie-M,Fabio Pliger",2
+"Maggie Mari,Maggie-M",2
+"Mateusz Paprocki,Maggie-M",2
+"Mateusz Paprocki,Ian Thomas",2
+"Maggie-M,Maggie Mari",2
+"muendlein,Mateusz Paprocki",2
+"Almar Klein,lcanavan",2
+"Ammar Najjar,Bryan Van de Ven",2
+"lcanavan,Sarah Bird",2
+"Alex,Bryan Van de Ven",2
+"Adam Kasperowicz,Mateusz Paprocki",1
+"Alexandre Hannud Abdo,Bryan Van de Ven",1
+"Almar Klein,Claire Tang",1
+"Almar Klein,Maggie-M",1
+"Almar Klein,Sarah Bird",1
+"Almar Klein,damianavila",1
+"Andy Zhu,Almar Klein",1
+"Ari Hartikainen,Bryan Van de Ven",1
+"Arnaud Tsombeng,Bryan Van de Ven",1
+"lcanavan,damianavila",1
+"mattpap,Mateusz Paprocki",1
+"pzwang,Hugo",1
+"sam,S.Hughes",1
+"shughes-uk,damianavila",1
+"shughes.uk@gmail.com,Bryan Van de Ven",1
+"stonebig,Bryan Van de Ven",1
+"Mateusz Paprocki,3dprintscanner",1
+"Mateusz Paprocki,Andy Zhu",1
+"Mateusz Paprocki,Claire Tang",1
+"Mateusz Paprocki,Fabien Benureau",1
+"Mateusz Paprocki,Fabien C. Y. Benureau",1
+"Mateusz Paprocki,Icoti",1
+"Mateusz Paprocki,Jean-Luc Stevens",1
+"Mateusz Paprocki,Joseph Cottam",1
+"Mateusz Paprocki,Kevin Colten",1
+"Mateusz Paprocki,Maggie Mari",1
+"Mateusz Paprocki,Martin Fleischmann",1
+"Mateusz Paprocki,Nicolas Leclercq",1
+"Mateusz Paprocki,Paddy Mullen",1
+"Mateusz Paprocki,Raffs",1
+"Mateusz Paprocki,Samuel Brice",1
+"Mateusz Paprocki,Seth Rothschild",1
+"Mateusz Paprocki,Timo Cornelius Metzger",1
+"Mateusz Paprocki,enricapq",1
+"Maggie-M,Lila Hickey",1
+"Maggie-M,Nick Roth",1
+"Maggie-M,Pavlo Andriychenko",1
+"Maggie-M,Peter Wang",1
+"Maggie-M,damianavila",1
+"Maggie-M,hugo",1
+"Mateusz Paprocki,g-parki",1
+"Mateusz Paprocki,gabalafou",1
+"Mateusz Paprocki,muendlein",1
+"Matthew Willis,Bryan Van de Ven",1
+"Maxime Liquet,Mateusz Paprocki",1
+"Min ho Kim,Mateusz Paprocki",1
+"Moritz Schreiber,Bryce Kalmbach",1
+"Moritz Schreiber,Mateusz Paprocki",1
+"Moritz Schreiber,Timo Cornelius Metzger",1
+"Nathan Taylor,Mateusz Paprocki",1
+"Nicholas Roth,Nick Roth",1
+"Luke Canavan,fpliger",1
+"Luke Canavan,jfrydendall",1
+"Luke Canavan,mistakevin",1
+"Luke Canavan,mondainai",1
+"Maggie Mari,Amy Troschinetz",1
+"Maggie Mari,hugo",1
+"Maggie-M,Almar Klein",1
+"Maggie-M,Antoine Pitrou",1
+"Nick Roth,Nicholas Roth",1
+"Paddy Mullen,Carlos Cardenas",1
+"Paddy Mullen,Charles Flynn",1
+"Paddy Mullen,Julia Evans",1
+"Paddy Mullen,Maggie Mari",1
+"Paddy Mullen,Mateusz Paprocki",1
+"Paddy Mullen,hhuuggoo",1
+"Paddy Mullen,hugo",1
+"Karan Dodia,Joseph Cottam",1
+"Karan Dodia,damianavila",1
+"KasperPRasmussen,kpr",1
+"Kevin Colten,Bryan Van de Ven",1
+"LilaHickey,damianavila",1
+"Luke Canavan,Havoc Pennington",1
+"Luke Canavan,Maggie-M",1
+"PatChizzy,Timo Cornelius Metzger",1
+"Paul Nguyen,Carolyn Hulsey",1
+"Pavithra Eswaramoorthy,Aditya Jetely",1
+"Pavithra Eswaramoorthy,tcmetzger",1
+"Peter H. Li,Joseph Cottam",1
+"Peter Wang,Joseph Cottam",1
+"Peter Wang,Maggie Mari",1
+"Peter Wang,Mateusz Paprocki",1
+"Peter Wang,damianavila",1
+"Phillip Cloud,Bryan Van de Ven",1
+"Ivan Krukov,Bryan Van de Ven",1
+"Jack Beanland,Cédric Bouysset",1
+"James A. Bednar,Bryan Van de Ven",1
+"Jeroen Van Goey,marcuskd",1
+"John F. Burkhart,Luke Canavan",1
+"John Kirkham,Bryan Van de Ven",1
+"Joseph Cottam,Karan Dodia",1
+"Joseph Cottam,Peter Wang",1
+"Julia Signell,Bryan Van de Ven",1
+"Raffs,Mateusz Paprocki",1
+"Raghav,Bryan Van de Ven",1
+"Raghav,Mateusz Paprocki",1
+"Sarah Bird,Fabien C. Y. Benureau",1
+"Sarah Bird,HuntJSparra",1
+"Sarah Bird,Julia Signell",1
+"Sarah Bird,Kevin Colten",1
+"Hugo,dev_hacks",1
+"Hugo,joel.hull@continuum.io",1
+"Hugo,serverhacks",1
+"HuntJSparra,EJEP",1
+"Ionel Cristian Mărieș,Almar Klein",1
+"Iury Dias Piva,Bryan Van de Ven",1
+"Sarah Bird,Steven C. Howell",1
+"Sourav Singh,Bryan Van de Ven",1
+"Steffen Schröder,Mateusz Paprocki",1
+"Steven C. Howell,Bryan Van de Ven",1
+"Tabish Chasmawala,LilaHickey",1
+"Tabish Chasmawala,hugo",1
+"Thomas Kientz,zoeangell",1
+"Thomas PEDOT,HuntJSparra",1
+"Franz Wöllert,enricapq",1
+"Garrett Berg,Bryan Van de Ven",1
+"Geoffrey Stoel,Bryan Van de Ven",1
+"Havoc Pennington,Joseph Crail",1
+"Havoc Pennington,Luke Canavan",1
+"Havoc Pennington,Maggie-M",1
+"Havoc Pennington,Nick Roth",1
+"Hugo,Federico Frenguelli",1
+"Hugo,Maggie Mari",1
+"Timo Cornelius Metzger,Moritz Schreiber",1
+"Yash Pratapwar,Bryan Van de Ven",1
+"bcollins,Bryan Van de Ven",1
+"code-review-doctor,Bryan Van de Ven",1
+"colin fang,Kevin Colten",1
+"Bryan Van de Ven,samr85",1
+"Bryan Van de Ven,shughes-uk",1
+"Charles Flynn,Paddy Mullen",1
+"Christine Doig,Bryan Van de Ven",1
+"Claire Tang,Almar Klein",1
+"Corey Ducharme,Luke Canavan",1
+"Dave Hirschfeld,Mateusz Paprocki",1
+"Fabien Benureau,Mateusz Paprocki",1
+"Fabio Pliger,Sarah Bird",1
+"damianavila,Almar Klein",1
+"damianavila,Amy Troschinetz",1
+"damianavila,Luke Canavan",1
+"damianavila,Phillip Cloud",1
+"damianavila,Tabish Chasmawala",1
+"damianavila,lcanavan",1
+"damianavila,shughes-uk",1
+"dependabot[bot],Mateusz Paprocki",1
+"dev_hacks,Hugo",1
+"Bryan Van de Ven,Tim Snyder",1
+"Bryan Van de Ven,alhoo",1
+"Bryan Van de Ven,aseyboldt",1
+"Bryan Van de Ven,dependabot[bot]",1
+"Bryan Van de Ven,g-parki",1
+"Bryan Van de Ven,mondainai",1
+"Bryan Van de Ven,pzwang",1
+"Bryan Van de Ven,Richard Postelnik",1
+"Bryan Van de Ven,Stefan van der Walt",1
+"Bryan Van de Ven,Steffen Schröder",1
+"enricapq,Franz Wöllert",1
+"fpliger,Mateusz Paprocki",1
+"g-parki,Mateusz Paprocki",1
+"gabalafou,Mateusz Paprocki",1
+"gregorydillon,Bryan Van de Ven",1
+"gryBox,Bryan Van de Ven",1
+"harmbuisman,Mateusz Paprocki",1
+"henricryden,Mateusz Paprocki",1
+"hhuuggoo,Paddy Mullen",1
+"Bryan Van de Ven,Fedor Baart",1
+"Bryan Van de Ven,Franz Wöllert",1
+"Bryan Van de Ven,Ivan Usov",1
+"Bryan Van de Ven,Jean-Luc Stevens",1
+"Bryan Van de Ven,Julia Signell",1
+"Bryan Van de Ven,Lila Hickey",1
+"Arpita kesharwani,Mateusz Paprocki",1
+"Brittain Hard,Bryan Van de Ven",1
+"Bryan Van de Ven,Ammar Najjar",1
+"Bryan Van de Ven,Amy Troschinetz",1
+"Bryan Van de Ven,David Warde-Farley",1
+"Bryan Van de Ven,Eric Ma",1
+"Bryan Van de Ven,Eugene Petkevich",1
+"hugo,Peter Wang",1
+"jakirkham,Maggie-M",1
+"jaqueramaphan,Mateusz Paprocki",1
+"lcanavan,Almar Klein",1
+"lcanavan,Bryan Van de Ven",1
+"3dprintscanner,Maciej J",1
+"‮zlohhcuB treboR,Bryan Van de Ven",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,365
++01:00,2064
++02:00,2101
++03:00,9
++03:30,1
++05:30,28
++08:00,26
++09:00,1
++10:00,4
+-02:00,19
+-03:00,1467
+-04:00,2142
+-05:00,5717
+-06:00,3367
+-07:00,2363
+-08:00,1069
+-10:00,2
+,
+Contributors Experience,Average across 20123 files: 92.15%
+File,Top Contributor Share (%)
+bokeh/geoms.py,100.00
+bokeh/pandas_plot_data.py,100.00
+ggplot_notes.txt,100.00
+notes.txt,100.00
+tests/auto-mpg.csv,100.00
+tests/auto-mpg.data,100.00
+tests/auto-mpg.data2,100.00
+tests/one.py,100.00
+tests/tools.py,100.00
+tests/two.py,100.00

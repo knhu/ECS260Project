@@ -1,0 +1,105 @@
+file,author1,author2,time1,time2
+.appveyor.yml,XhmikosR,Michael[tm] Smith,2018-10-06 11:19:19+03:00,2018-10-07 00:20:49+09:00
+.appveyor.yml,Michael[tm] Smith,Nick Schonning,2019-04-22 15:01:17+09:00,2019-04-23 10:03:16+09:00
+.appveyor.yml,Nick Schonning,XhmikosR,2019-04-23 10:03:16+09:00,2019-04-23 18:54:17+09:00
+.cvsignore,hsivonen@9049286f-c432-0410-bfe8-c119560dd519,hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,2007-05-28 11:09:11+00:00,2007-05-28 11:16:55+00:00
+.cvsignore,hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2,2007-05-28 11:16:55+00:00,2007-05-28 12:04:07+00:00
+.cvsignore,hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2,2007-05-31 07:54:49+00:00,2007-05-31 07:54:56+00:00
+.cvsignore,hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2,hsivonen@9049286f-c432-0410-bfe8-c119560dd519,2007-05-31 07:54:56+00:00,2007-05-31 07:55:15+00:00
+.github/workflows/build.yml,dependabot[bot],Michael[tm] Smith,2021-09-06 04:11:05+00:00,2021-09-07 10:29:29+09:00
+.github/workflows/build.yml,dependabot[bot],XhmikosR,2021-09-13 13:36:36+09:00,2021-09-13 22:12:52+09:00
+.github/workflows/build.yml,Geertjan Wielenga,Michael[tm] Smith,2021-09-27 12:23:14+09:00,2021-09-27 12:40:12+09:00
+.github/workflows/build.yml,Michael[tm] Smith,dependabot[bot],2022-04-11 16:39:26+09:00,2022-04-11 16:03:24-04:00
+.hgignore,mike@w3.org,sideshowbarker,2010-12-03 14:44:18+09:00,2010-12-03 14:54:54+09:00
+.hgtags,(no author)@9049286f-c432-0410-bfe8-c119560dd519,(no author)@c6dcca6c-c432-0410-a79e-3fbb6554aff1,2007-05-28 11:09:11+00:00,2007-05-28 11:16:55+00:00
+.hgtags,(no author)@c6dcca6c-c432-0410-a79e-3fbb6554aff1,(no author)@5bfc576b-c432-0410-be1c-015b6bc4b1a2,2007-05-28 11:16:55+00:00,2007-05-28 12:04:07+00:00
+.settings/org.eclipse.jdt.core.prefs,Ville Skyttä,Michael[tm] Smith,2016-01-15 22:48:04+09:00,2016-01-16 04:37:42+09:00
+.travis.yml,Michael[tm] Smith,XhmikosR,2018-10-05 11:21:54+09:00,2018-10-05 12:13:05+09:00
+.travis.yml,Michael[tm] Smith,XhmikosR,2019-04-23 16:35:04+09:00,2019-04-23 18:54:17+09:00
+.travis.yml,XhmikosR,Michael[tm] Smith,2019-04-23 18:54:17+09:00,2019-04-23 18:58:11+09:00
+.travis.yml,Michael[tm] Smith,XhmikosR,2019-04-24 11:02:30+09:00,2019-04-24 10:30:01+03:00
+.travis.yml,XhmikosR,Michael[tm] Smith,2019-04-24 10:30:01+03:00,2019-04-24 17:04:41+09:00
+CHANGELOG.md,Michael[tm] Smith,Chris Rebert,2015-12-31 23:08:49+09:00,2016-01-01 10:43:38+09:00
+CHANGELOG.md,Robert Linder,Michael[tm] Smith,2018-08-26 11:59:53+09:00,2018-08-26 16:10:23+09:00
+Dockerfile,Andrew Pitt,Jim Sellers,2020-10-02 09:09:29+09:00,2020-10-02 12:20:36+09:00
+README,inkedblade@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2005-07-19 08:23:02+00:00,2005-07-19 08:33:32+00:00
+README,fantasai@e7398766-c432-0410-9565-638d39ca0058,inkedblade@e7398766-c432-0410-9565-638d39ca0058,2005-07-19 08:33:32+00:00,2005-07-19 09:04:41+00:00
+README,inkedblade@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2005-07-19 09:53:26+00:00,2005-07-19 10:27:30+00:00
+README,hsivonen@5bfc576b-c432-0410-be1c-015b6bc4b1a2,hsivonen@9049286f-c432-0410-bfe8-c119560dd519,2007-05-28 10:21:45+00:00,2007-05-28 10:28:17+00:00
+README,hsivonen@9049286f-c432-0410-bfe8-c119560dd519,hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,2007-05-28 10:28:17+00:00,2007-05-28 10:34:16+00:00
+README,hsivonen@c6dcca6c-c432-0410-a79e-3fbb6554aff1,hsivonen@9049286f-c432-0410-bfe8-c119560dd519,2007-05-28 10:34:16+00:00,2007-05-28 11:03:46+00:00
+README.md,Michael[tm] Smith,Maxime VALETTE,2014-10-07 15:21:33+09:00,2014-10-07 08:31:57+02:00
+README.md,Maxime VALETTE,Michael[tm] Smith,2014-10-07 08:31:57+02:00,2014-10-08 09:33:22+09:00
+README.md,Xue Fuqiao,Michael[tm] Smith,2017-01-14 20:44:08+09:00,2017-01-14 20:47:22+09:00
+README.md,Maarten Segers,Michael[tm] Smith,2018-07-14 17:47:51+09:00,2018-07-14 17:47:51+09:00
+README.md,Shlomi Fish,Michael[tm] Smith,2020-03-20 21:37:27+09:00,2020-03-20 22:02:38+09:00
+README.md,Mark Hansen,Michael[tm] Smith,2020-06-07 15:59:17+09:00,2020-06-08 07:21:01+09:00
+README.md,Meisam,Michael[tm] Smith,2023-02-05 18:44:25+09:00,2023-02-05 18:44:25+09:00
+build.py,Michael[tm] Smith,Henri Sivonen,2014-07-07 17:19:05+09:00,2014-07-07 15:43:35+03:00
+build.py,Henri Sivonen,Michael[tm] Smith,2014-07-07 15:53:13+03:00,2014-07-08 20:34:37+09:00
+build.py,Henri Sivonen,Michael[tm] Smith,2014-07-11 12:57:21+03:00,2014-07-12 02:52:37+09:00
+build.py,Bob Hogg,Jacob,2014-10-05 21:13:34+09:00,2014-10-05 22:01:28+09:00
+build.py,Jacob,Chris Rebert,2014-10-05 22:01:28+09:00,2014-10-05 23:40:37-07:00
+build.py,Chris Rebert,Michael[tm] Smith,2014-10-06 00:03:41-07:00,2014-10-06 22:51:13+09:00
+build.xml,Jacob,Michael[tm] Smith,2014-04-01 14:12:49-05:00,2014-04-02 18:28:04+09:00
+build/build.py,Michael[tm] Smith,Takeshi Kurosawa,2014-10-14 16:36:26+09:00,2014-10-15 12:17:02+09:00
+build/build.py,Takeshi Kurosawa,Michael[tm] Smith,2014-10-15 12:17:02+09:00,2014-10-15 12:18:06+09:00
+build/build.py,Michael[tm] Smith,Takeshi Kurosawa,2014-10-15 12:18:06+09:00,2014-10-15 16:47:37+09:00
+build/build.py,Michael[tm] Smith,Bob Hogg,2015-03-01 19:02:29+09:00,2015-03-01 22:17:44-08:00
+build/build.py,Bob Hogg,Michael[tm] Smith,2015-03-01 22:17:44-08:00,2015-03-02 15:38:06+09:00
+build/build.py,Michael[tm] Smith,Takeshi Kurosawa,2015-03-08 19:54:02+09:00,2015-03-09 11:06:18+09:00
+build/build.py,Takeshi Kurosawa,Michael[tm] Smith,2015-03-09 11:06:18+09:00,2015-03-09 18:13:23+09:00
+build/build.py,Michael[tm] Smith,Chris Rebert,2015-03-11 02:32:47+09:00,2015-03-10 13:38:26-07:00
+build/build.py,Chris Rebert,Michael[tm] Smith,2015-03-10 13:38:26-07:00,2015-03-11 11:48:43+09:00
+build/build.py,Michael[tm] Smith,Takeshi Kurosawa,2016-01-16 17:51:55+09:00,2016-01-16 19:28:10+09:00
+build/build.py,Fuqiao Xue,Michael[tm] Smith,2017-03-26 11:40:13+09:00,2017-03-26 22:25:18+09:00
+build/build.py,sideshowbarker,Marcos Pereira,2024-05-11 14:06:36+09:00,2024-05-11 14:27:20+09:00
+build/build.xml,Michael[tm] Smith,Bob Hogg,2015-03-02 01:12:16+09:00,2015-03-01 21:58:06-08:00
+build/build.xml,Bob Hogg,Michael[tm] Smith,2015-03-01 21:58:06-08:00,2015-03-02 15:38:06+09:00
+docs,dependabot[bot],Michael[tm] Smith,2021-06-27 10:56:41+09:00,2021-06-27 11:02:23+09:00
+index.html,Bob Hogg,Michael[tm] Smith,2015-03-03 23:04:50-08:00,2015-03-04 16:36:28+09:00
+index.html,Nicolai Ehemann,Michael[tm] Smith,2020-09-14 16:33:15+09:00,2020-09-14 17:53:56+09:00
+relaxng/block.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-03-20 21:53:11+00:00,2006-03-21 20:14:52+00:00
+relaxng/common.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-03-21 19:27:26+00:00,2006-03-21 20:14:52+00:00
+relaxng/common.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-04-01 14:15:56+00:00,2006-04-01 18:59:12+00:00
+relaxng/datatype/java/src/org/whattf/datatype/MicrodataProperty.java,Philip Jägenstedt,Henri Sivonen,2011-07-27 16:00:53+03:00,2011-07-27 16:05:26+03:00
+relaxng/html5core.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-03-20 21:53:11+00:00,2006-03-21 20:14:52+00:00
+relaxng/phrase.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-03-20 21:53:11+00:00,2006-03-21 20:14:52+00:00
+relaxng/web-forms.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-04-01 14:15:56+00:00,2006-04-01 18:59:12+00:00
+relaxng/xhtml5core.rnc,hsivonen@e7398766-c432-0410-9565-638d39ca0058,fantasai@e7398766-c432-0410-9565-638d39ca0058,2006-03-20 21:53:11+00:00,2006-03-21 20:14:52+00:00
+resources/spec/Makefile,Takeshi Kurosawa,Michael[tm] Smith,2016-05-02 23:06:08+09:00,2016-05-02 23:25:45+09:00
+schema/html5/assertions.sch,Jens Oliver Meiert,Steve Faulkner,2021-05-12 16:24:51+09:00,2021-05-13 12:16:39+09:00
+schema/html5/common.rnc,Niedziolka Michal,Michał Niedziółka,2022-11-02 15:22:59+09:00,2022-11-02 15:27:42+09:00
+schema/html5/embed.rnc,Malvoz,Michael[tm] Smith,2018-07-22 16:17:25+09:00,2018-07-22 16:24:30+09:00
+schema/html5/phrase.rnc,Romain Deltour,Michael[tm] Smith,2019-03-26 15:14:51+09:00,2019-03-26 16:03:56+09:00
+schema/html5/structural.rnc,Michael[tm] Smith,MattGarrish,2020-06-23 08:16:22+09:00,2020-06-23 23:36:31+09:00
+schema/html5/web-forms.rnc,Scott O'Hara,Michael[tm] Smith,2022-01-21 11:49:27+09:00,2022-01-21 11:49:27+09:00
+src/nu/validator/checker/NormalizationChecker.java,Bob Hogg,Michael[tm] Smith,2015-03-10 21:27:13-07:00,2015-03-11 14:10:16+09:00
+src/nu/validator/checker/TextContentChecker.java,Ville Skyttä,Michael[tm] Smith,2016-05-02 23:34:12+09:00,2016-05-03 14:53:04+09:00
+src/nu/validator/checker/XmlPiChecker.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/checker/schematronequiv/Assertions.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/checker/schematronequiv/Assertions.java,Michał Niedziółka,Niedziolka Michal,2022-11-02 17:10:45+09:00,2022-11-02 17:52:48+09:00
+src/nu/validator/checker/schematronequiv/Assertions.java,Niedziolka Michal,Michał Niedziółka,2022-11-02 17:52:48+09:00,2022-11-02 19:51:11+09:00
+src/nu/validator/checker/schematronequiv/Assertions.java,Michał Niedziółka,Michael[tm] Smith,2022-11-05 15:23:28+09:00,2022-11-05 15:39:51+09:00
+src/nu/validator/checker/schematronequiv/Assertions.java,stevefaulkner,Niedziolka Michal,2023-02-27 18:05:58+09:00,2023-02-27 18:43:29+09:00
+src/nu/validator/checker/schematronequiv/Assertions.java,Niedziolka Michal,stevefaulkner,2023-02-27 18:43:29+09:00,2023-02-28 17:26:28+09:00
+src/nu/validator/checker/schematronequiv/Html4Assertions.java,Bob Hogg,Michael[tm] Smith,2015-03-10 21:27:13-07:00,2015-03-11 14:10:16+09:00
+src/nu/validator/checker/schematronequiv/Html4Assertions.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/AbstractUnicodeClassCharacter.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/ContentSecurityPolicy.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/CssNumberToken.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/FunctionBody.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/ImageCandidateStringsWidthRequired.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/ImageCandidateURL.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/IntegrityMetadata.java,Takeshi Kurosawa,Michael[tm] Smith,2016-01-16 19:30:04+09:00,2016-01-16 22:12:40+09:00
+src/nu/validator/datatype/IntegrityMetadata.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/Language.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/MediaCondition.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/datatype/SandboxAllowList.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/messages/XhtmlMessageTextHandler.java,Jens Oliver Meiert,Steve Faulkner,2021-05-12 16:24:51+09:00,2021-05-13 12:16:39+09:00
+src/nu/validator/servlet/DelegatingServletInputStream.java,Ville Skyttä,Michael[tm] Smith,2016-01-26 17:57:02+02:00,2016-01-27 15:41:18+09:00
+src/nu/validator/servlet/MultipartFormDataFilter.java,Marcos Pereira,sideshowbarker,2024-05-11 14:27:20+09:00,2024-05-11 14:45:43+09:00
+src/nu/validator/servlet/VerifierServletTransaction.java,Ville Skyttä,Michael[tm] Smith,2016-05-02 23:34:12+09:00,2016-05-03 15:22:07+09:00
+src/nu/validator/validation/SimpleDocumentValidator.java,Vale de Lobo,Ville Skyttä,2016-05-02 23:30:08+09:00,2016-05-02 23:34:12+09:00
+src/nu/validator/xml/PrudentHttpEntityResolver.java,Ville Skyttä,Michael[tm] Smith,2016-06-15 18:32:25+09:00,2016-06-15 18:36:34+09:00
+src/nu/validator/xml/roleattributes/RoleAttributeFilteringContentHandlerWrapper.java,Shane McCarron,Michael[tm] Smith,2016-12-19 23:58:40+09:00,2016-12-20 00:07:00+09:00

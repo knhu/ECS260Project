@@ -1,0 +1,64 @@
+Field,Value
+Commits Overview,
+Total Commits,149
+Total Unique Authors,42
+,
+Top 10 Contributors,
+Author,Commits
+Michael de Hoog,85
+Danyal Prout,54
+Roberto Bayardo,22
+wbnns,18
+Henri Devieux,12
+Marcos Antonio Maceo,9
+Yukai Tu,8
+cody-wang-cb,7
+Francis Li,6
+Nobu,6
+,
+Communication Events,Total: 23
+"Author1,Author2",Events
+"Yukai Tu,wbnns",3
+"Roberto Bayardo,Michael de Hoog",3
+"Corentin de Maupeou,David Shoots",1
+"David Michael,David Cardenas",1
+"David Cardenas,Mihhail Sidorin",1
+"Francis Li,Michael de Hoog",1
+"Jesse Pollak,Michael de Hoog",1
+"Michael de Hoog,taycaldwell",1
+"Nobu,Freekers",1
+"Marcos Antonio Maceo,Michael de Hoog",1
+"Michael de Hoog,VolodymyrBg",1
+"Roberto Bayardo,Coffee ☕️",1
+"Public Profile,Corentin de Maupeou",1
+"Roberto Bayardo,stratusagency.eth",1
+"VolodymyrBg,Dmitry",1
+"boldkoala4615,Michael de Hoog",1
+"taycaldwell,wbnns",1
+"wbnns,Public Profile",1
+"wbnns,Roberto Bayardo",1
+,
+Committer Timezone Distribution,Unique Timezones: 9
+Timezone,Commits
++00:00,7
++11:00,6
+-01:00,3
+-04:00,8
+-05:00,37
+-06:00,21
+-07:00,9
+-08:00,16
+-10:00,42
+,
+Contributors Experience,Average across 33 files: 78.37%
+File,Top Contributor Share (%)
+geth-entrypoint.sh,100.00
+goerli/genesis-l2.json,100.00
+op-node-entrypoint.sh,100.00
+SECURITY.md,100.00
+.codeflow.yml,100.00
+DISCLAIMER.md,100.00
+mainnet/genesis-l2.json,100.00
+mainnet/rollup.json,100.00
+sepolia/genesis-l2.json,100.00
+sepolia/rollup.json,100.00

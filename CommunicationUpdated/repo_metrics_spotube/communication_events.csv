@@ -1,0 +1,119 @@
+file,author1,author2,time1,time2
+.github/workflows/build-iPA.yml,powen,Kingkor Roy Tirtho,2024-01-03 00:40:50+06:00,2024-01-03 14:08:06+06:00
+.github/workflows/flutter-build.yml,Kingkor Roy Tirtho,KR Tirtho,2022-01-17 12:50:47+06:00,2022-01-17 14:03:20+06:00
+.github/workflows/spotube-nightly.yml,Kingkor Roy Tirtho,dependabot[bot],2023-03-07 19:29:00+06:00,2023-03-07 18:22:26+00:00
+.github/workflows/spotube-release-binary.yml,dependabot[bot],Kingkor Roy Tirtho,2024-01-24 10:08:03+06:00,2024-01-24 12:46:27+06:00
+.github/workflows/spotube-release.yml,Kingkor Roy Tirtho,dependabot[bot],2023-03-08 00:21:43+06:00,2023-03-07 18:22:21+00:00
+.github/workflows/spotube-release.yml,dependabot[bot],Kingkor Roy Tirtho,2023-03-07 18:22:26+00:00,2023-03-08 01:21:33+06:00
+.github/workflows/spotube-release.yml,Kingkor Roy Tirtho,dependabot[bot],2023-03-08 09:09:18+06:00,2023-03-08 03:10:02+00:00
+.gitignore,Kingkor Roy Tirtho,KR Tirtho,2022-01-16 18:41:01+06:00,2022-01-17 14:03:20+06:00
+Makefile,Kingkor Roy Tirtho,KR Tirtho,2022-01-17 11:33:35+06:00,2022-01-18 11:10:02+06:00
+Makefile,KR Tirtho,Kingkor Roy Tirtho,2022-01-18 11:10:02+06:00,2022-01-19 00:04:03+06:00
+README.md,RustyApple,Kingkor Roy Tirtho,2022-01-28 05:37:18+00:00,2022-01-29 10:36:57+06:00
+README.md,Kingkor Roy Tirtho,Marcos Marado,2022-02-07 18:20:55+06:00,2022-02-07 14:18:18+00:00
+README.md,Marcos Marado,Kingkor Roy Tirtho,2022-02-07 14:18:18+00:00,2022-02-08 10:28:47+06:00
+README.md,Kingkor Roy Tirtho,Poussinou,2022-06-20 17:21:26+06:00,2022-06-20 21:12:18+02:00
+README.md,Kingkor Roy Tirtho,RustyApple,2023-03-08 12:47:18+06:00,2023-03-08 12:51:14+06:00
+README.md,RustyApple,meenbeese,2023-03-08 12:51:14+06:00,2023-03-09 00:37:08-05:00
+README.md,Kingkor Roy Tirtho,RaptaG,2023-03-16 11:09:21+06:00,2023-03-16 16:06:21+02:00
+README.md,Kingkor Roy Tirtho,meenbeese,2023-07-11 10:03:09+06:00,2023-07-11 21:04:46+03:00
+README.md,MerkomassDev,firapinch,2023-08-26 14:37:35+03:00,2023-08-27 00:14:53+06:00
+README.md,Meenbeese,Nabraj Khadka,2024-01-24 09:07:33+06:00,2024-01-24 09:52:49+06:00
+README.md,watchakorn-18k,Karim,2024-04-09 21:47:02+06:00,2024-04-09 22:53:09+06:00
+assets/spotube-screenshot.png,KR Tirtho,Kingkor Roy Tirtho,2022-01-13 14:40:07+06:00,2022-01-13 18:53:26+06:00
+aur-struct/PKGBUILD,RomanJos,Kingkor Roy Tirtho,2022-04-04 22:52:51+02:00,2022-04-05 18:11:27+06:00
+ios/Runner/Info.plist,powen,Kingkor Roy Tirtho,2024-02-24 21:22:23+06:00,2024-02-24 21:50:55+06:00
+lib/collections/language_codes.dart,Ice Year,Kingkor Roy Tirtho,2023-07-11 22:15:58+06:00,2023-07-11 22:23:51+06:00
+lib/collections/language_codes.dart,Kingkor Roy Tirtho,0x00646f616e6e63,2024-02-25 22:01:38+06:00,2024-02-25 22:59:54+06:00
+lib/collections/language_codes.dart,Josu Igoa,Omari Sopromadze,2024-05-10 22:22:56+06:00,2024-05-10 22:37:22+06:00
+lib/collections/language_codes.dart,Omari Sopromadze,ctih,2024-05-10 22:37:22+06:00,2024-05-10 22:49:38+06:00
+lib/collections/language_codes.dart,ctih,Yusril Rapsanjani,2024-05-10 22:49:38+06:00,2024-05-10 23:00:24+06:00
+lib/collections/language_codes.dart,Justin May,VARUN M,2025-03-15 16:26:49+06:00,2025-03-15 16:28:27+06:00
+lib/components/Home/Sidebar.dart,Demizo,Kingkor Roy Tirtho,2022-09-01 23:37:14-05:00,2022-09-03 09:42:41+06:00
+lib/components/Player/Player.dart,Kingkor Roy Tirtho,Piotr Rogowski,2022-01-22 10:32:21+06:00,2022-01-22 14:30:05+01:00
+lib/components/Player/Player.dart,Piotr Rogowski,Kingkor Roy Tirtho,2022-01-22 14:30:05+01:00,2022-01-23 13:24:17+06:00
+lib/components/Shared/PageWindowTitleBar.dart,Kingkor Roy Tirtho,highjeans,2022-02-04 09:40:53+06:00,2022-02-04 11:44:59-08:00
+lib/components/library/user_local_tracks.dart,Blake Leonard,Kingkor Roy Tirtho,2024-05-23 15:18:01+06:00,2024-05-23 16:56:52+06:00
+lib/components/playbutton_card.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/components/shared/playlist_shuffle_button.dart,tiaxter,Kingkor Roy Tirtho,2022-12-08 14:40:20+01:00,2022-12-08 22:33:15+06:00
+lib/components/shared/track_table/track_collection_view.dart,Kingkor Roy Tirtho,tiaxter,2022-12-08 11:43:31+06:00,2022-12-08 14:40:20+01:00
+lib/components/shared/track_table/track_collection_view.dart,tiaxter,Kingkor Roy Tirtho,2022-12-08 14:40:20+01:00,2022-12-08 22:09:48+06:00
+lib/hooks/use_progress.dart,Piotr Rogowski,Kingkor Roy Tirtho,2023-08-01 19:44:00+06:00,2023-08-02 11:12:22+06:00
+lib/l10n/app_ar.arb,muhammadbahaa2001,Kingkor Roy Tirtho,2023-09-26 17:59:32+06:00,2023-09-26 19:49:59+06:00
+lib/l10n/app_de.arb,siggi1984,Kingkor Roy Tirtho,2023-06-25 10:32:20+06:00,2023-06-25 14:19:33+06:00
+lib/l10n/app_en.arb,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/l10n/app_es.arb,Souda,Kingkor Roy Tirtho,2023-08-01 19:46:04+06:00,2023-08-02 15:12:55+06:00
+lib/l10n/app_eu.arb,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/l10n/app_eu.arb,Kingkor Roy Tirtho,Josu Igoa,2024-09-15 18:37:22+06:00,2024-09-15 18:46:17+06:00
+lib/l10n/app_ja.arb,maboroshin,Kingkor Roy Tirtho,2023-06-25 10:15:27+06:00,2023-06-25 10:29:49+06:00
+lib/l10n/app_ja.arb,Kingkor Roy Tirtho,maboroshin,2023-06-25 10:29:49+06:00,2023-06-25 14:29:08+06:00
+lib/l10n/app_ru.arb,Marat Budkevich,Kingkor Roy Tirtho,2024-08-10 22:03:42+06:00,2024-08-10 22:54:25+06:00
+lib/l10n/app_th.arb,watchakorn-18k,Kingkor Roy Tirtho,2024-04-09 21:47:02+06:00,2024-04-09 22:04:37+06:00
+lib/l10n/l10n.dart,Kingkor Roy Tirtho,siggi1984,2023-06-25 10:29:49+06:00,2023-06-25 10:32:20+06:00
+lib/l10n/l10n.dart,siggi1984,Kingkor Roy Tirtho,2023-06-25 10:32:20+06:00,2023-06-25 14:19:33+06:00
+lib/l10n/l10n.dart,Ice Year,Kingkor Roy Tirtho,2023-07-11 22:15:58+06:00,2023-07-11 22:23:51+06:00
+lib/l10n/l10n.dart,watchakorn-18k,ＷＩＮＺＯＲＴ,2024-04-09 21:47:02+06:00,2024-04-09 22:23:19+06:00
+lib/l10n/l10n.dart,Josu Igoa,Omari Sopromadze,2024-05-10 22:22:56+06:00,2024-05-10 22:37:22+06:00
+lib/l10n/l10n.dart,Omari Sopromadze,ctih,2024-05-10 22:37:22+06:00,2024-05-10 22:49:38+06:00
+lib/l10n/l10n.dart,ctih,Yusril Rapsanjani,2024-05-10 22:49:38+06:00,2024-05-10 23:00:24+06:00
+lib/l10n/l10n.dart,Yusril Rapsanjani,W͏ I͏ N͏ Z͏ O͏ R͏ T͏,2024-05-10 23:00:24+06:00,2024-05-10 23:06:02+06:00
+lib/l10n/l10n.dart,Justin May,VARUN M,2025-03-15 16:26:49+06:00,2025-03-15 16:28:27+06:00
+lib/l10n/l10n.dart,VARUN M,Kingkor Roy Tirtho,2025-03-15 16:28:27+06:00,2025-03-15 16:44:57+06:00
+lib/main.dart,Kingkor Roy Tirtho,Muhammad Brian Abdillah,2024-04-11 17:56:41+06:00,2024-04-12 10:27:54+06:00
+lib/main.dart,Muhammad Brian Abdillah,Kingkor Roy Tirtho,2024-04-12 10:27:54+06:00,2024-04-12 10:57:09+06:00
+lib/models/Logger.dart,Kingkor Roy Tirtho,Piotr Rogowski,2022-09-21 23:10:05+06:00,2022-09-21 21:56:21+02:00
+lib/modules/library/playlist_generate/multi_select_field.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/modules/player/player.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/modules/settings/color_scheme_picker_dialog.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/pages/album/album.dart,Kingkor Roy Tirtho,tiaxter,2022-12-08 12:32:27+06:00,2022-12-08 14:40:20+01:00
+lib/pages/album/album.dart,tiaxter,Kingkor Roy Tirtho,2022-12-08 14:40:20+01:00,2022-12-08 22:33:15+06:00
+lib/pages/library/local_folder.dart,Blake Leonard,Kingkor Roy Tirtho,2024-05-23 15:18:01+06:00,2024-05-23 16:56:52+06:00
+lib/pages/lyrics/lyrics.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/pages/playlist/playlist.dart,Kingkor Roy Tirtho,tiaxter,2022-12-08 12:32:27+06:00,2022-12-08 14:40:20+01:00
+lib/pages/playlist/playlist.dart,tiaxter,Kingkor Roy Tirtho,2022-12-08 14:40:20+01:00,2022-12-08 22:33:15+06:00
+lib/pages/profile/profile.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/pages/settings/sections/accounts.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/pages/stats/fees/fees.dart,Josu Igoa,Kingkor Roy Tirtho,2024-08-10 22:06:15+06:00,2024-08-10 22:54:25+06:00
+lib/provider/Playback.dart,Kingkor Roy Tirtho,Demizo,2022-09-03 09:42:41+06:00,2022-09-03 12:29:23-05:00
+lib/provider/discord_provider.dart,nexpid,Kingkor Roy Tirtho,2024-08-10 21:30:11+06:00,2024-08-10 21:35:38+06:00
+lib/provider/proxy_playlist/proxy_playlist_provider.dart,Kingkor Roy Tirtho,meenbeese,2023-09-29 18:45:00+06:00,2023-09-30 18:20:45+06:00
+lib/provider/proxy_playlist/proxy_playlist_provider.dart,meenbeese,Kingkor Roy Tirtho,2023-09-30 18:20:45+06:00,2023-09-30 18:33:04+06:00
+lib/services/download_manager/download_manager.dart,meenbeese,Kingkor Roy Tirtho,2023-09-30 18:20:45+06:00,2023-09-30 18:33:04+06:00
+lib/services/logger/logger.dart,Kingkor Roy Tirtho,arenekosreal,2024-07-14 18:58:47+06:00,2024-07-14 19:38:28+06:00
+lib/services/queries/playlist.dart,Victor Tinoco,Kingkor Roy Tirtho,2023-09-10 16:39:05+06:00,2023-09-10 16:39:21+06:00
+lib/utils/android_utils.dart,Muhammad Brian Abdillah,Kingkor Roy Tirtho,2024-04-12 10:27:54+06:00,2024-04-12 10:57:09+06:00
+lib/utils/service_utils.dart,Kingkor Roy Tirtho,Kuyumee,2024-02-18 21:11:28+06:00,2024-02-18 23:35:42+06:00
+pubspec.lock,dependabot[bot],Kingkor Roy Tirtho,2022-09-21 16:54:47+00:00,2022-09-21 23:10:05+06:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2022-09-21 23:10:05+06:00,2022-09-22 00:15:33+00:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2022-10-02 11:37:18+06:00,2022-10-02 05:39:46+00:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2022-10-24 17:59:58+06:00,2022-10-24 12:02:39+00:00
+pubspec.lock,dependabot[bot],Kingkor Roy Tirtho,2022-11-24 06:39:27+00:00,2022-11-24 12:58:16+06:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2022-11-24 13:16:57+06:00,2022-11-24 23:16:08+00:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2022-12-26 10:36:45+06:00,2022-12-26 04:39:17+00:00
+pubspec.lock,Kingkor Roy Tirtho,meenbeese,2023-09-29 18:45:00+06:00,2023-09-30 18:20:45+06:00
+pubspec.lock,meenbeese,Kingkor Roy Tirtho,2023-09-30 18:20:45+06:00,2023-09-30 18:33:04+06:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2023-10-07 12:15:28+06:00,2023-10-07 18:02:39+06:00
+pubspec.lock,dependabot[bot],Kingkor Roy Tirtho,2024-01-24 10:18:10+06:00,2024-01-24 11:45:26+06:00
+pubspec.lock,powen,Kingkor Roy Tirtho,2024-02-24 21:22:23+06:00,2024-02-24 22:53:30+06:00
+pubspec.lock,Kingkor Roy Tirtho,dependabot[bot],2024-02-24 22:53:30+06:00,2024-02-25 22:50:08+06:00
+pubspec.lock,dependabot[bot],Kingkor Roy Tirtho,2024-02-25 22:54:11+06:00,2024-02-25 23:06:40+06:00
+pubspec.lock,dependabot[bot],Kingkor Roy Tirtho,2024-04-11 17:30:11+06:00,2024-04-11 17:56:41+06:00
+pubspec.yaml,dependabot[bot],Kingkor Roy Tirtho,2022-09-21 16:54:47+00:00,2022-09-21 23:10:05+06:00
+pubspec.yaml,Kingkor Roy Tirtho,dependabot[bot],2022-09-21 23:10:05+06:00,2022-09-22 00:15:33+00:00
+pubspec.yaml,Kingkor Roy Tirtho,dependabot[bot],2022-10-02 11:37:18+06:00,2022-10-02 05:39:46+00:00
+pubspec.yaml,Kingkor Roy Tirtho,Piotr Rogowski,2022-10-13 19:41:25+06:00,2022-10-13 19:36:22+02:00
+pubspec.yaml,Kingkor Roy Tirtho,dependabot[bot],2022-10-24 17:59:58+06:00,2022-10-24 12:02:39+00:00
+pubspec.yaml,dependabot[bot],Kingkor Roy Tirtho,2022-11-24 06:39:27+00:00,2022-11-24 13:16:57+06:00
+pubspec.yaml,Kingkor Roy Tirtho,dependabot[bot],2022-11-24 13:16:57+06:00,2022-11-24 23:16:08+00:00
+pubspec.yaml,Kingkor Roy Tirtho,dependabot[bot],2022-12-26 10:36:45+06:00,2022-12-26 04:39:17+00:00
+pubspec.yaml,Kingkor Roy Tirtho,meenbeese,2023-09-29 18:45:00+06:00,2023-09-30 18:20:45+06:00
+pubspec.yaml,meenbeese,Kingkor Roy Tirtho,2023-09-30 18:20:45+06:00,2023-09-30 18:33:04+06:00
+pubspec.yaml,Kingkor Roy Tirtho,dependabot[bot],2023-10-07 12:15:28+06:00,2023-10-07 18:02:39+06:00
+pubspec.yaml,Kingkor Roy Tirtho,olivier2,2024-02-25 11:13:23+06:00,2024-02-25 22:26:06+06:00
+pubspec.yaml,olivier2,dependabot[bot],2024-02-25 22:26:06+06:00,2024-02-25 22:50:08+06:00
+pubspec.yaml,dependabot[bot],Kingkor Roy Tirtho,2024-04-11 17:30:11+06:00,2024-04-11 17:56:41+06:00
+pubspec.yaml,Ryze,Kingkor Roy Tirtho,2024-09-30 20:18:35+06:00,2024-09-30 21:53:12+06:00
+pubspec.yaml,Xavi Fortes,Kingkor Roy Tirtho,2024-10-09 14:47:11+06:00,2024-10-09 14:51:24+06:00
+untranslated_messages.json,Blake Leonard,Kingkor Roy Tirtho,2024-05-23 15:18:01+06:00,2024-05-23 16:56:52+06:00
+website/pages/index.tsx,Yaroslav Dmitriev,Kingkor Roy Tirtho,2023-08-23 10:08:36+06:00,2023-08-23 11:13:46+06:00
+windows/packaging/exe/inno_setup.iss,AdrienC,Kingkor Roy Tirtho,2024-09-15 18:49:13+06:00,2024-09-15 19:10:05+06:00

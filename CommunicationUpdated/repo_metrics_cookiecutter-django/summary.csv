@@ -1,0 +1,324 @@
+Field,Value
+Commits Overview,
+Total Commits,8184
+Total Unique Authors,461
+,
+Top 10 Contributors,
+Author,Commits
+pyup.io bot,1499
+github-actions,1192
+Bruno Alla,1118
+pyup-bot,852
+browniebroke,744
+Daniel Greenfeld,636
+Daniel Roy Greenfeld,447
+Audrey Roy Greenfeld,328
+dependabot[bot],243
+Nikita P. Shupeyko,211
+,
+Communication Events,Total: 598
+"Author1,Author2",Events
+"pyup.io bot,pyup-bot",40
+"pyup-bot,pyup.io bot",37
+"pyup.io bot,github-actions",26
+"Audrey Roy Greenfeld,Daniel Roy Greenfeld",15
+"Nikita Shupeyko,Nikita P. Shupeyko",14
+"Daniel Roy Greenfeld,Audrey Roy Greenfeld",13
+"Bruno Alla,browniebroke",13
+"Bruno Alla,pyup.io bot",12
+"Andrew Chen Wang,Bruno Alla",12
+"Jelmer,Bruno Alla",11
+"browniebroke,Bruno Alla",11
+"Bruno Alla,pyup-bot",11
+"pyup-bot,Bruno Alla",10
+"Bruno Alla,github-actions",10
+"github-actions,pyup.io bot",7
+"github-actions,Bruno Alla",7
+"pyup.io bot,Bruno Alla",6
+"dependabot[bot],Bruno Alla",5
+"Fabio C. Barrioneuvo da Luz,Fábio C. Barrionuevo da Luz",5
+"Daniel Roy Greenfeld,Fabio C. Barrioneuvo da Luz",5
+"Fábio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz",5
+"Bruno Alla,dependabot[bot]",5
+"Audrey Roy Greenfeld,Jay",4
+"Fabio C. Barrioneuvo da Luz,Daniel Roy Greenfeld",4
+"luzfcb,browniebroke",4
+"foarsitter,browniebroke",4
+"Bruno Alla,Tano Abeleyra",4
+"Jelmer Draaijer,Shayan Karimi",4
+"browniebroke,pyup.io bot",3
+"github-actions[bot],Bruno Alla",3
+"Matthew Foster Walsh,mpsantos",3
+"Jelmer Draaijer,github-actions",3
+"Jelmer Draaijer,jelmert",3
+"Nikita Shupeyko,Wan Liuyang",3
+"Jelmer,github-actions",3
+"Leonardo Jimenez,Leonardo",3
+"Pilhwan Kim,Bruno Alla",3
+"Daniel Roy Greenfeld,Fábio C. Barrionuevo da Luz",3
+"Daniel Roy Greenfeld,Amjith Ramanujam",3
+"pyup.io bot,Nikita Shupeyko",3
+"pyup.io bot,Jelmer Draaijer",3
+"Andrew-Chen-Wang,Andrew Chen Wang",3
+"pyup-bot,browniebroke",2
+"Delio Castillo,Daniel Roy Greenfeld",2
+"Daniel Roy Greenfeld,Philip Deuchler",2
+"Jannis Gebauer,pyup.io bot",2
+"Jannis Gebauer,Fabio C. Barrioneuvo da Luz",2
+"Jannis Gebauer,Daniel Roy Greenfeld",2
+"Fabio C. Barrioneuvo da Luz,Jannis Gebauer",2
+"Fabio C. Barrioneuvo da Luz,pyup-bot",2
+"Fabio C. Barrionuevo da Luz,Fabio C. Barrioneuvo da Luz",2
+"Daniel Greenfeld,Fabio C. Barrionuevo da Luz",2
+"Daniel Greenfeld,jmunro",2
+"Daniel Roy Greenfeld,Jannis Gebauer",2
+"Audrey Roy Greenfeld,Jannis Gebauer",2
+"Bruno Alla,Andrew-Chen-Wang",2
+"browniebroke,Jelmer Draaijer",2
+"browniebroke,pyup-bot",2
+"github-actions,Jelmer",2
+"dependabot[bot],github-actions[bot]",2
+"github-actions,Jelmer Draaijer",2
+"github-actions[bot],pyup.io bot",2
+"Arnav Choudhury,browniebroke",2
+"Audrey Roy Greenfeld,Fábio C. Barrionuevo da Luz",2
+"Bruno Alla,Arnav Choudhury",2
+"Nikita P. Shupeyko,pyup.io bot",2
+"Tom Atkins,Burhan Khalid",2
+"Sebastian Reyes Espinosa,Audrey Roy Greenfeld",2
+"Meghan Heintz,Daniel Roy Greenfeld",2
+"Jelmer Draaijer,pyup.io bot",2
+"Bruno Alla,github-actions[bot]",2
+"Jelmer,Andrew Chen Wang",2
+"Colm O'Connor,Fabio C. Barrioneuvo da Luz",1
+"Chris Pappalardo,Jay",1
+"Burhan Khalid,Tom Atkins",1
+"Burhan Khalid,Daniel Greenfeld",1
+"Burhan Khalid,Audrey Roy Greenfeld",1
+"Bruno Alla,shireenrao",1
+"saschalalala,Bruno Alla",1
+"rxm7706,github-actions",1
+"pyup.io bot,monosans",1
+"pyup.io bot,github-actions[bot]",1
+"pyup.io bot,Nikita P. Shupeyko",1
+"Daniel Greenfeld,Fábio C. Barrionuevo da Luz",1
+"Daniel Greenfeld,Lukas Klein",1
+"Daniel Greenfeld,Fábio C. Barrioneuvo da Luz",1
+"Daniel Greenfeld,Fabio C. Barrioneuvo da Luz",1
+"Cédric Gaspoz,Fabio C. Barrioneuvo da Luz",1
+"Daniel Roy Greenfeld,Krzysztof Żuraw",1
+"Daniel Roy Greenfeld,Jay",1
+"Daniel Roy Greenfeld,Nikita P. Shupeyko",1
+"Daniel Roy Greenfeld,Michael Luk",1
+"Daniel Roy Greenfeld,Ray Ch",1
+"Daniel Roy Greenfeld,Reggie Riser",1
+"Daniel Roy Greenfeld,Sulé",1
+"Daniel Roy Greenfeld,Parbhat Puri",1
+"Daniel Roy Greenfeld,Will Farley",1
+"Daniel Roy Greenfeld,kappataumu",1
+"Daniel Hillier,browniebroke",1
+"Daniel Greenfeld,Saurabh Kumar",1
+"Daniel Roy Greenfeld,Adam Bogdał",1
+"Daniel Roy Greenfeld,Burhan Khalid",1
+"Daniel Greenfeld,Albrecht Mühlenschulte",1
+"Daniel Greenfeld,Alberto Sanchez",1
+"Fabio C. Barrioneuvo da Luz,Eraldo Energy",1
+"Fabio C. Barrioneuvo da Luz,Catherine Devlin",1
+"Ernesto Cedeno,codnee",1
+"Daniele Tricoli,Fabio C. Barrionuevo da Luz",1
+"Daniel Roy Greenfeld,mjsisley",1
+"Daniel Roy Greenfeld,requires.io",1
+"Fabio C. Barrionuevo da Luz,Daniel Greenfeld",1
+"Fabio C. Barrioneuvo da Luz,Saurabh Kumar",1
+"Fábio C. Barrionuevo da Luz,Daniel Roy Greenfeld",1
+"Fábio C. Barrionuevo da Luz,Fabio C. Barrionuevo da Luz",1
+"Fábio C. Barrionuevo da Luz,Fabio Caritas Barrionuevo da Luz",1
+"Fábio C. Barrionuevo da Luz,Saurabh Kumar",1
+"Fábio C. Barrionuevo da Luz,zcho",1
+"Fabio C. Barrionuevo da Luz,Fábio C. Barrionuevo da Luz",1
+"Adin Hodovic,ghazi-git",1
+"Aadith PM,pyup-bot",1
+"Arnav Choudhury,Andrew Chen Wang",1
+"pyup-bot,Simon Rey",1
+"pyup-bot,Will",1
+"pyup-bot,areski",1
+"pyup-bot,dependabot[bot]",1
+"Alberto Sanchez,Daniel Greenfeld",1
+"Albrecht Mühlenschulte,Daniel Greenfeld",1
+"Adam Dobrawy,Saurabh Kumar",1
+"Andreas Meistad,Daniel Roy Greenfeld",1
+"Andres Gonzalez,Daniel Roy Greenfeld",1
+"Andrew Chen Wang,Jelmer Draaijer",1
+"Andrew Chen Wang,monosans",1
+"Andrew-Chen-Wang,Hannah Lazarus",1
+"Andrew-Chen-Wang,browniebroke",1
+"Andrew-Chen-Wang,pyup-bot",1
+"Alvaro [Andor],Jannis Gebauer",1
+"Jay,Daniel Roy Greenfeld",1
+"Jay,Chris Franklin",1
+"Jay,Audrey Roy Greenfeld",1
+"Jannis Gebauer,pyup-bot",1
+"Jannis Gebauer,Fábio C. Barrionuevo da Luz",1
+"Jannis Gebauer,Krzysztof Szumny",1
+"Jannis Gebauer,Bartłomiej Kurzeja",1
+"Jannis Gebauer,Burhan Khalid",1
+"Haseeb ur Rehman,Fábio C. Barrionuevo da Luz",1
+"Henrique Pereira,Travis McNeill",1
+"Jannis Gebauer,Audrey Roy Greenfeld",1
+"Hoai-Thu Vuong,Bruno Alla",1
+"Guilherme Guy,Bruno Alla",1
+"Gabriel Mejia,Bruno Alla",1
+"Ger Schinkel,Fabio C. Barrionuevo da Luz",1
+"Gil,Bruno Alla",1
+"Fábio C. Barrionuevo da Luz,Bruno Alla",1
+"Fábio C. Barrionuevo da Luz,Audrey Roy Greenfeld",1
+"Jelmer Draaijer,Howie Zhao",1
+"Jens Kaeske,Bruno Alla",1
+"Jeremy Carbaugh,Leonardo Jimenez",1
+"Jelmer Draaijer,foarsitter",1
+"Jelmert,browniebroke",1
+"Jay,jayfk",1
+"Bruno Alla,Jens Kaeske",1
+"Bruno Alla,Leon Kim",1
+"Bruno Alla,Nikita Shupeyko",1
+"Bruno Alla,Nicholas",1
+"Bruno Alla,Daniel Roy Greenfeld",1
+"Bruno Alla,Guilherme Fabrizio",1
+"Bruno Alla,Jelmer Draaijer",1
+"Jay,Jannis Gebauer",1
+"Lin Xianyi,Kaveh",1
+"Leonardo Jimenez,Jeremy Carbaugh",1
+"Leonardo,Andrew-Chen-Wang",1
+"Leon Kim,Pilhwan Kim",1
+"Martin Blech,Saurabh Kumar",1
+"Matt Braymer-Hayes,Fábio C. Barrionuevo da Luz",1
+"Martin Blech,Chris Franklin",1
+"Malik S,Nikita P. Shupeyko",1
+"Mesut YILMAZ,Fábio C. Barrionuevo da Luz",1
+"Michel Sassano,Nikita P. Shupeyko",1
+"Nikita P. Shupeyko,Daniel Roy Greenfeld",1
+"Nikita P. Shupeyko,Melanie Crutchfield",1
+"Nikita P. Shupeyko,saschalalala",1
+"Nikita Shupeyko,Demetris Stavrou",1
+"Meghan Heintz,Emily C",1
+"Marlon,Nikita P. Shupeyko",1
+"Param Kapur,Alexandr Artemyev",1
+"Nikita Shupeyko,pyup.io bot",1
+"Sadra Yahyapour,github-actions",1
+"ReadmeCritic,Burhan Khalid",1
+"Shupeyko Nikita,Jannis Gebauer",1
+"Jerome Leclanche,Davit Tovmasyan",1
+"Jon Miller,Jannis Gebauer",1
+"Kaveh,Saurabh Kumar",1
+"Kenneth Schnall,Daniel Roy Greenfeld",1
+"Keyvan Mosharraf,browniebroke",1
+"Krzysztof Żuraw,Daniel Roy Greenfeld",1
+"Leo Zhou,Carl Johnson",1
+"Bruno Alla,anuj",1
+"Jelmer,dependabot[bot]",1
+"Jelmer,pyup.io bot",1
+"Bruno Alla,Daniel Hillier",1
+"Xaver Y.R. Chen,Bruno Alla",1
+"Will,pyup.io bot",1
+"Vivian Guillen,Audrey Roy Greenfeld",1
+"Vicente G. Reyes,Cole Maclean",1
+"Vadim Iskuchekov,pyup-bot",1
+"Taylor Edmiston,Tom Atkins",1
+"TAKAHASHI Shuuji,Bruno Alla",1
+"Sulé,Vivian Guillen",1
+"Saurabh Kumar,Kaveh",1
+"Sudarshan Wadkar,Hannah Lazarus",1
+"Shupeyko Nikita,Nikita P. Shupeyko",1
+"dependabot[bot],areski",1
+"browniebroke,leollon",1
+"browniebroke,jeromecaisip",1
+"browniebroke,Yotam Tal",1
+"browniebroke,Arnav Choudhury",1
+"github-actions,rxm7706",1
+"github-actions,pre-commit-ci[bot]",1
+"github-actions[bot],browniebroke",1
+"github-actions[bot],Jelmer Draaijer",1
+"gwiskur,Tevak",1
+"hanasuhail,browniebroke",1
+"hleroy,Imran Rahman",1
+"github-actions[bot],pre-commit-ci[bot]",1
+"jduraj,Alexandre Provencio",1
+"jeromecaisip,browniebroke",1
+"jmunro,Daniel Greenfeld",1
+"kappataumu,Audrey Roy Greenfeld",1
+"enchance,pyup-bot",1
+"github-actions,browniebroke",1
+"browniebroke,Andrew-Chen-Wang",1
+"adinhodovic,Andrew Chen Wang",1
+"Audrey Roy Greenfeld,Fabio C. Barrionuevo da Luz",1
+"Audrey Roy Greenfeld,Daniel Greenfeld",1
+"Audrey Roy,Daniel Greenfeld",1
+"Audrey Roy,Colm O'Connor",1
+"Audrey Roy Greenfeld,Tom Atkins",1
+"Audrey Roy Greenfeld,Reggie Riser",1
+"Bert de Miranda,Shupeyko Nikita",1
+"Bernd Meyer,Eyad Sibai",1
+"Bruno Alla,Bo",1
+"mjsisley,Daniel Roy Greenfeld",1
+"mjsisley,Meghan Heintz",1
+"mjsisley,Vivian Guillen",1
+"monosans,Andrew Chen Wang",1
+"monosans,Jelmer Draaijer",1
+"monosans,pyup-bot",1
+"monosans,pyup.io bot",1
+"mpoli,Bruno Alla",1
+"pre-commit-ci[bot],browniebroke",1
+"pre-commit-ci[bot],github-actions",1
+"pyup-bot,Dalton Rardin",1
+"pyup-bot,Fabio C. Barrioneuvo da Luz",1
+"pyup-bot,Fábio C. Barrionuevo da Luz",1
+"pyup-bot,Jannis Gebauer",1
+"pyup-bot,Jelmer Draaijer",1
+"schacki,Jimmy Gitonga",1
+"shireenrao,Fabio C. Barrioneuvo da Luz",1
+"shireenrao,Tano Abeleyra",1
+"step21,Bruno Alla",1
+"umgelurgel,pyup-bot",1
+"yunti,Daniel Roy Greenfeld",1
+"yunti,Fábio C. Barrionuevo da Luz",1
+"yunti,stepmr",1
+,
+Committer Timezone Distribution,Unique Timezones: 24
+Timezone,Commits
++00:00,2397
++01:00,1943
++02:00,625
++03:00,474
++03:30,1
++04:00,3
++05:00,3
++05:30,161
++07:00,1
++08:00,99
++09:00,5
++09:30,3
++10:00,1
++11:00,8
++12:00,2
++13:00,2
+-02:00,11
+-03:00,713
+-04:00,124
+-05:00,110
+-05:30,5
+-06:00,36
+-07:00,1113
+-08:00,344
+,
+Contributors Experience,Average across 594 files: 77.06%
+File,Top Contributor Share (%)
+LICENSE.rst,100.00
+docs/deploy.rst,100.00
+docs/install.rst,100.00
+project_name/manage.py,100.00
+project_name/project_name/settings/__init__.py,100.00
+project_name/project_name/settings/base.py,100.00
+project_name/project_name/settings/local.py,100.00
+project_name/project_name/settings/production.py,100.00
+project_name/project_name/settings/test.py,100.00
+project_name/project_name/urls.py,100.00

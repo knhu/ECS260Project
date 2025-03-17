@@ -1,0 +1,85 @@
+Field,Value
+Commits Overview,
+Total Commits,1170
+Total Unique Authors,73
+,
+Top 10 Contributors,
+Author,Commits
+Dr_rOot,3119
+Shatyuka,90
+Gael Patarin,36
+thecodrr,32
+Abdullah mara,31
+Alexander Sharkov,31
+Sammy,26
+RaymondSalim,22
+Jiaqi Gu,19
+dicarne,18
+,
+Communication Events,Total: 134
+"Author1,Author2",Events
+"Gael Patarin,Dr_rOot",19
+"Dr_rOot,Gael Patarin",18
+"Dr_rOot,Jiaqi Gu",14
+"Dr_rOot,thecodrr",13
+"Yukai Huang,Dr_rOot",9
+"KOZ39,Dr_rOot",5
+"thecodrr,Dr_rOot",4
+"dicarne,Dr_rOot",4
+"HBKRKZK,Dr_rOot",4
+"Andre Noberto,Dr_rOot",3
+"Duy–Thanh Doan,Dmitry Kalinin",3
+"Nima Rasooli,Dr_rOot",2
+"Abdullah mara,Dr_rOot",2
+"FloatingShuYin,Dr_rOot",2
+"أحمد الطبراني,Dr_rOot",2
+"Dr_rOot,Kieran Mesquita",2
+"Restu Suhendar,Dr_rOot",2
+"Dr_rOot,jjandxa",2
+"Dr_rOot,Restu Suhendar",2
+"カワリミ人形,Dr_rOot",2
+"Dr_rOot,KOZ39",1
+"Bo Yuan,Dr_rOot",1
+"Alexander Sharkov,Dr_rOot",1
+"Dr_rOot,أحمد الطبراني",1
+"Kieran Mesquita,Dr_rOot",1
+"Jiaqi Gu,Dr_rOot",1
+"Hadi Alqattan,Dr_rOot",1
+"Imamuzzaki Abu Salam,Dr_rOot",1
+"Dr_rOot,gaokai",1
+"Dr_rOot,dicarne",1
+"Sammy,Dr_rOot",1
+"RaymondSalim,Dr_rOot",1
+"devrsi0n,Dr_rOot",1
+"dependabot[bot],Dr_rOot",1
+"Svend,Dr_rOot",1
+"Shatyuka,Dr_rOot",1
+"rubjo,Dr_rOot",1
+"gaokai,Kay",1
+"gaokai,Dr_rOot",1
+"weearc,Dr_rOot",1
+,
+Committer Timezone Distribution,Unique Timezones: 9
+Timezone,Commits
++00:00,2
++01:00,6
++02:00,1
++03:00,8
++05:30,3
++07:00,1
++08:00,1135
+-03:00,5
+-07:00,9
+,
+Contributors Experience,Average across 573 files: 93.33%
+File,Top Contributor Share (%)
+.babelrc,100.00
+.electron-vue/build.js,100.00
+.electron-vue/dev-client.js,100.00
+.electron-vue/dev-runner.js,100.00
+.eslintignore,100.00
+.eslintrc.js,100.00
+app-update.yml,100.00
+appveyor.yml,100.00
+extra/darwin/engine/aria2.conf,100.00
+extra/linux/engine/aria2.conf,100.00

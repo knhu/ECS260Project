@@ -1,0 +1,335 @@
+author,timestamp,file
+hf-lin,2025-01-26 01:56:45+08:00,README_EN.md
+hf-lin,2025-01-26 01:56:45+08:00,assets/logo/白底.png
+hf-lin,2025-01-26 01:56:45+08:00,assets/logo/透明底黑线.png
+hf-lin,2025-01-26 01:56:45+08:00,assets/logo/黑底.png
+hf-lin,2025-01-26 01:56:45+08:00,inference/codecmanipulator.py
+hf-lin,2025-01-26 01:56:45+08:00,inference/infer.py
+hf-lin,2025-01-26 01:56:45+08:00,inference/input.jsonl
+hf-lin,2025-01-26 01:56:45+08:00,inference/mm_tokenizer_v0.2_hf/tokenizer.model
+hf-lin,2025-01-26 01:56:45+08:00,inference/mmtokenizer.py
+hf-lin,2025-01-26 01:56:45+08:00,inference/readme.md
+hf-lin,2025-01-26 01:56:45+08:00,inference/reconstruct.sh
+hf-lin,2025-01-26 01:56:45+08:00,inference/xcodec_mini_infer
+hf-lin,2025-01-26 01:56:45+08:00,requirements.txt
+hf-lin,2025-01-26 02:40:27+08:00,README_EN.md
+hf-lin,2025-01-26 02:40:27+08:00,inference/infer.py
+hf-lin,2025-01-26 02:43:49+08:00,README.md
+hf-lin,2025-01-27 08:21:49+08:00,.gitignore
+hf-lin,2025-01-27 08:21:49+08:00,inference/infer.py
+hf-lin,2025-01-27 08:21:49+08:00,inference/input.jsonl
+hf-lin,2025-01-27 08:21:49+08:00,inference/reconstruct.sh
+hf-lin,2025-01-27 08:21:49+08:00,inference/xcodec_mini_infer
+hf-lin,2025-01-27 09:10:35+08:00,.gitattributes
+hf-lin,2025-01-27 09:10:35+08:00,README.md
+hf-lin,2025-01-27 09:10:35+08:00,inference/readme.md
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/.gitignore
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/LICENSE
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/README.md
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/data2vec_audio.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/data2vec_feature_reader.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/dump_feature.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/feature_utils.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/hubert_feature_reader.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/data2vec_base_l6_dev-clean.tokens
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/data2vec_large_l18_dev-clean.tokens
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/hubert_base_l9_dev-clean.tokens
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/hubert_large_l18_dev-clean.tokens
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/whisper_large_l32_dev-clean.tokens
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/whisper_medium_l24_dev-clean.tokens
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/whisper_feature_reader.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/examples/whisper_model.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/RepCodec.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/configs/repcodec_dim1024.yaml
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/configs/repcodec_dim1280.yaml
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/configs/repcodec_dim768.yaml
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/layers/conv_layer.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/layers/vq_module.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/decoder.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/encoder.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/projector.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/quantizer.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/residual_unit.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/tokenize.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/setup.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/train.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/train_configs/ex_dim768_mse.yaml
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/RepCodec/trainer/autoencoder.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/__main__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/compare/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/compare/encodec.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/base.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/dac.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/discriminator.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/layers.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/loss.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/quantize.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/utils/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/utils/decode.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/utils/encode.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/final_ckpt/ckpt_00360000.pth
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/final_ckpt/config.yaml
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/models/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/models/soundstream_hubert_new.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/conv.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/loss.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/lstm.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/norm.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/seanet.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/modules/transformer.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/quantization/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/quantization/core_vq.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/quantization/core_vq_lsx_version.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/quantization/distrib.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/quantization/vq.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/semantic_ckpts/hf_1_325000/config.json
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/semantic_ckpts/hf_1_325000/preprocessor_config.json
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/semantic_ckpts/hf_1_325000/pytorch_model.bin
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/utils/__init__.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/utils/ddp_utils.py
+hf-lin,2025-01-27 09:10:35+08:00,inference/xcodec_mini_infer/utils/utils.py
+hf-lin,2025-01-27 09:27:44+08:00,README.md
+hf-lin,2025-01-27 10:40:59+08:00,inference/infer.py
+hf-lin,2025-01-27 11:31:37+08:00,inference/infer.py
+Liang Yiming,2025-01-27 20:51:07+08:00,README.md
+Liang Yiming,2025-01-27 20:52:04+08:00,README.md
+hf-lin,2025-01-27 21:09:22+08:00,README.md
+hf-lin,2025-01-27 21:09:22+08:00,inference/infer.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/prompt_examples/genre.txt
+hf-lin,2025-01-27 21:09:22+08:00,inference/prompt_examples/lyrics.txt
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/decoders/config.yaml
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/models/soundstream_hubert_new.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/post_process_audio.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocoder.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/__init__.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/dataset.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/discriminators.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/experiment.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/feature_extractors.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/heads.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/helpers.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/loss.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/models.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/modules.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/pretrained.py
+hf-lin,2025-01-27 21:09:22+08:00,inference/xcodec_mini_infer/vocos/spectral_ops.py
+hf-lin,2025-01-27 21:11:19+08:00,README.md
+Yizhi Li,2025-01-27 13:14:39+00:00,assets/logo/yue.mp3
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/.gitignore
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/LICENSE
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/README.md
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/data2vec_audio.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/data2vec_feature_reader.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/dump_feature.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/feature_utils.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/hubert_feature_reader.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/data2vec_base_l6_dev-clean.tokens
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/data2vec_large_l18_dev-clean.tokens
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/hubert_base_l9_dev-clean.tokens
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/hubert_large_l18_dev-clean.tokens
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/whisper_large_l32_dev-clean.tokens
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/tokens/whisper_medium_l24_dev-clean.tokens
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/whisper_feature_reader.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/examples/whisper_model.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/RepCodec.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/configs/repcodec_dim1024.yaml
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/configs/repcodec_dim1280.yaml
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/configs/repcodec_dim768.yaml
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/layers/conv_layer.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/layers/vq_module.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/decoder.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/encoder.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/projector.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/quantizer.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/modules/residual_unit.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/repcodec/tokenize.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/setup.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/train.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/train_configs/ex_dim768_mse.yaml
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/RepCodec/trainer/autoencoder.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/decoders/config.yaml
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/__main__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/compare/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/compare/encodec.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/base.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/dac.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/model/discriminator.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/layers.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/loss.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/nn/quantize.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/utils/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/utils/decode.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/descriptaudiocodec/dac/utils/encode.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/final_ckpt/ckpt_00360000.pth
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/final_ckpt/config.yaml
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/models/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/models/soundstream_hubert_new.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/conv.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/loss.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/lstm.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/norm.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/seanet.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/modules/transformer.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/post_process_audio.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/quantization/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/quantization/core_vq.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/quantization/core_vq_lsx_version.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/quantization/distrib.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/quantization/vq.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/semantic_ckpts/hf_1_325000/config.json
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/semantic_ckpts/hf_1_325000/preprocessor_config.json
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/semantic_ckpts/hf_1_325000/pytorch_model.bin
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/utils/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/utils/ddp_utils.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/utils/utils.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocoder.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/__init__.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/dataset.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/discriminators.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/experiment.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/feature_extractors.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/heads.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/helpers.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/loss.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/models.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/modules.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/pretrained.py
+hf-lin,2025-01-27 21:24:33+08:00,inference/xcodec_mini_infer/vocos/spectral_ops.py
+hf-lin,2025-01-27 23:06:04+08:00,README.md
+hf-lin,2025-01-27 23:06:04+08:00,inference/infer.py
+Liang Yiming,2025-01-28 00:02:06+08:00,wav_top_200_tags.json
+Liang Yiming,2025-01-28 00:08:40+08:00,README.md
+hf-lin,2025-01-28 01:09:55+08:00,README.md
+hf-lin,2025-01-28 01:09:55+08:00,inference/infer.py
+hf-lin,2025-01-28 01:09:55+08:00,inference/prompt_examples/lyrics.txt
+hf-lin,2025-01-28 01:12:49+08:00,README.md
+hf-lin,2025-01-28 02:08:25+08:00,README.md
+Ruibin Yuan,2025-01-28 23:52:49+08:00,README.md
+Ruibin Yuan,2025-01-29 11:56:28+08:00,README.md
+Ruibin Yuan,2025-01-29 11:57:31+08:00,README.md
+Ruibin Yuan,2025-01-29 11:58:19+08:00,README.md
+Ruibin Yuan,2025-01-29 11:59:00+08:00,README.md
+Ruibin Yuan,2025-01-29 12:00:07+08:00,README.md
+Ruibin Yuan,2025-01-29 12:05:22+08:00,README.md
+Ruibin Yuan,2025-01-29 12:14:35+08:00,README.md
+Ruibin Yuan,2025-01-29 12:35:11+08:00,README.md
+a43992899,2025-01-29 14:10:00+08:00,README.md
+a43992899,2025-01-29 14:10:00+08:00,genre.txt
+a43992899,2025-01-29 14:10:00+08:00,lyrics.txt
+a43992899,2025-01-29 14:10:00+08:00,top_200_tags.json
+a43992899,2025-01-29 14:47:11+08:00,README.md
+a43992899,2025-01-29 15:34:18+08:00,README.md
+a43992899,2025-01-29 15:40:09+08:00,README.md
+a43992899,2025-01-29 15:41:22+08:00,README.md
+a43992899,2025-01-29 15:45:18+08:00,README.md
+a43992899,2025-01-29 15:58:00+08:00,README.md
+a43992899,2025-01-29 16:03:27+08:00,README.md
+a43992899,2025-01-29 16:14:07+08:00,README.md
+a43992899,2025-01-29 16:17:07+08:00,README.md
+a43992899,2025-01-29 16:41:29+08:00,README.md
+a43992899,2025-01-29 20:13:23+08:00,README.md
+a43992899,2025-01-29 20:14:19+08:00,README.md
+a43992899,2025-01-29 22:05:49+08:00,README.md
+a43992899,2025-01-29 22:32:34+08:00,README.md
+a43992899,2025-01-29 22:33:38+08:00,README.md
+a43992899,2025-01-30 00:25:17+08:00,README.md
+a43992899,2025-01-30 12:32:57+08:00,README.md
+a43992899,2025-01-30 16:56:58+08:00,README.md
+a43992899,2025-01-30 17:22:26+08:00,README.md
+a43992899,2025-01-30 20:50:21+08:00,README.md
+a43992899,2025-01-30 21:18:50+08:00,LICENSE
+a43992899,2025-01-30 21:18:50+08:00,NOTICE
+a43992899,2025-01-31 19:46:00+08:00,README.md
+a43992899,2025-01-31 21:00:11+08:00,README.md
+hf-lin,2025-02-01 22:20:58+08:00,README.md
+hf-lin,2025-02-01 22:20:58+08:00,inference/infer.py
+hf-lin,2025-02-01 22:20:58+08:00,inference/prompt_examples/pop.00001.Instrumental.mp3
+hf-lin,2025-02-01 22:20:58+08:00,inference/prompt_examples/pop.00001.Vocals.mp3
+hf-lin,2025-02-01 22:20:58+08:00,inference/prompt_examples/pop.00001.mp3
+a43992899,2025-02-02 00:55:07+08:00,README.md
+a43992899,2025-02-02 00:55:07+08:00,inference/xcodec_mini_infer
+a43992899,2025-02-02 00:55:07+08:00,pop.00001.Instrumental.mp3
+a43992899,2025-02-02 00:55:07+08:00,pop.00001.Vocals.mp3
+a43992899,2025-02-02 00:55:07+08:00,pop.00001.mp3
+hf-lin,2025-02-02 01:08:27+08:00,README.md
+a43992899,2025-02-02 02:20:19+08:00,.gitignore
+a43992899,2025-02-02 02:20:19+08:00,README.md
+a43992899,2025-02-02 02:23:12+08:00,README.md
+a43992899,2025-02-02 03:18:44+08:00,.gitignore
+a43992899,2025-02-02 03:18:44+08:00,README.md
+a43992899,2025-02-02 03:18:44+08:00,inference/infer.py
+a43992899,2025-02-02 03:18:44+08:00,inference/prompt_examples/genre.txt
+a43992899,2025-02-02 03:18:44+08:00,lyrics.txt
+a43992899,2025-02-02 03:18:44+08:00,prompt_egs/genre.txt
+a43992899,2025-02-02 03:18:44+08:00,prompt_egs/lyrics.txt
+a43992899,2025-02-02 03:18:44+08:00,prompt_egs/pop.00001.Instrumental.mp3
+a43992899,2025-02-02 03:18:44+08:00,prompt_egs/pop.00001.Vocals.mp3
+a43992899,2025-02-02 03:18:44+08:00,prompt_egs/pop.00001.mp3
+a43992899,2025-02-02 03:18:44+08:00,requirements.txt
+a43992899,2025-02-02 03:19:48+08:00,README.md
+Ruibin Yuan,2025-02-02 03:40:01+08:00,README.md
+askmyteapot,2025-02-02 14:11:25+10:00,inference/infer.py
+Ruibin Yuan,2025-02-02 15:30:19+08:00,README.md
+Ruibin Yuan,2025-02-02 15:44:12+08:00,README.md
+Ruibin Yuan,2025-02-02 15:52:22+08:00,README.md
+Ruibin Yuan,2025-02-02 16:27:03+08:00,README.md
+hf-lin,2025-02-02 19:22:12+08:00,README.md
+Ruibin Yuan,2025-02-02 20:21:27+08:00,README.md
+hf-lin,2025-02-03 17:05:00+08:00,inference/infer.py
+hf-lin,2025-02-04 12:14:57+08:00,README.md
+Ruibin Yuan,2025-02-04 13:54:08+08:00,README.md
+hf-lin,2025-02-04 14:30:33+08:00,inference/infer.py
+Ruibin Yuan,2025-02-04 16:35:35+08:00,README.md
+Ruibin Yuan,2025-02-04 16:44:27+08:00,README.md
+Ruibin Yuan,2025-02-04 16:51:27+08:00,README.md
+Ruibin Yuan,2025-02-04 16:59:31+08:00,README.md
+Ruibin Yuan,2025-02-05 11:07:49+08:00,README.md
+Ruibin Yuan,2025-02-05 11:39:13+08:00,README.md
+Ruibin Yuan,2025-02-05 11:48:39+08:00,README.md
+Ruibin Yuan,2025-02-05 11:49:13+08:00,README.md
+Ruibin Yuan,2025-02-05 11:59:25+08:00,README.md
+Ruibin Yuan,2025-02-05 12:00:54+08:00,README.md
+hf-lin,2025-02-05 20:07:46+08:00,README.md
+hf-lin,2025-02-05 20:07:46+08:00,inference/codecmanipulator.py
+hf-lin,2025-02-05 20:07:46+08:00,inference/infer.py
+hf-lin,2025-02-05 21:22:00+08:00,README.md
+Ruibin Yuan,2025-02-06 14:45:33+08:00,README.md
+Ruibin Yuan,2025-02-06 14:52:51+08:00,README.md
+Ruibin Yuan,2025-02-06 23:28:04+08:00,README.md
+Ruibin Yuan,2025-02-07 18:44:52+08:00,README.md
+Ruibin Yuan,2025-02-07 18:52:48+08:00,README.md
+Ruibin Yuan,2025-02-07 23:32:46+08:00,README.md
+Ruibin Yuan,2025-02-07 23:34:20+08:00,README.md
+Ruibin Yuan,2025-02-07 23:34:49+08:00,README.md
+Ruibin Yuan,2025-02-07 23:39:37+08:00,README.md
+Ruibin Yuan,2025-02-07 23:41:34+08:00,README.md
+Ruibin Yuan,2025-02-07 23:48:05+08:00,README.md
+Ruibin Yuan,2025-02-07 23:53:32+08:00,README.md
+Ruibin Yuan,2025-02-07 23:55:40+08:00,README.md
+Ruibin Yuan,2025-02-08 00:12:13+08:00,README.md
+Ruibin Yuan,2025-02-17 01:23:07+08:00,README.md
+Ruibin Yuan,2025-02-17 01:23:51+08:00,README.md
+Ruibin Yuan,2025-02-17 01:26:56+08:00,README.md
+Ruibin Yuan,2025-02-17 01:31:45+08:00,README.md
+Ruibin Yuan,2025-02-17 01:33:32+08:00,README.md
+Ruibin Yuan,2025-02-17 01:33:57+08:00,README.md
+Ruibin Yuan,2025-02-17 01:35:02+08:00,README.md
+Ruibin Yuan,2025-02-17 01:35:30+08:00,README.md
+Ruibin Yuan,2025-02-17 14:51:33+08:00,README.md
+Manal ML,2025-02-28 17:44:27+00:00,requirements.txt
+Ruibin Yuan,2025-03-07 20:49:57+08:00,README.md
+Ruibin Yuan,2025-03-11 12:12:07+08:00,README.md
+Ruibin Yuan,2025-03-11 17:35:29+08:00,README.md
+Ruibin Yuan,2025-03-12 14:52:25+08:00,README.md
+Ruibin Yuan,2025-03-12 14:52:51+08:00,README.md
+Ruibin Yuan,2025-03-12 14:53:28+08:00,README.md
+Ruibin Yuan,2025-03-12 14:54:15+08:00,README.md
+Ruibin Yuan,2025-03-12 14:54:40+08:00,README.md

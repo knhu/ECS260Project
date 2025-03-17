@@ -1,0 +1,1723 @@
+Field,Value
+Commits Overview,
+Total Commits,31969
+Total Unique Authors,468
+,
+Top 10 Contributors,
+Author,Commits
+Damien Doligez,19474
+Xavier Leroy,17598
+Jacques Garrigue,7844
+Gabriel Scherer,6763
+KC Sivaramakrishnan,5918
+Alain Frisch,5434
+Sébastien Hinderer,5085
+David Allsopp,4505
+Florian Angeletti,3552
+Stephen Dolan,3395
+,
+Communication Events,Total: 5358
+"Author1,Author2",Events
+"Jacques Garrigue,Alain Frisch",79
+"Alain Frisch,Jacques Garrigue",67
+"Xavier Leroy,Damien Doligez",63
+"Damien Doligez,Xavier Leroy",52
+"Damien Doligez,Jacques Garrigue",49
+"Jeremy Yallop,Jacques Garrigue",45
+"Hongbo Zhang,Damien Doligez",41
+"Mark Shinwell,Jacques Garrigue",41
+"Nicolas Ojeda Bar,Gabriel Scherer",41
+"Jacques Garrigue,Damien Doligez",39
+"octachron,Gabriel Scherer",38
+"Florian Angeletti,Gabriel Scherer",38
+"Damien Doligez,Pierre Weis",32
+"Sébastien Hinderer,David Allsopp",31
+"Mark Shinwell,Alain Frisch",30
+"Damien Doligez,Gabriel Scherer",30
+"Gabriel Scherer,Florian Angeletti",30
+"Fabrice Le Fessant,Jacques Garrigue",29
+"Damien Doligez,Alain Frisch",29
+"Antal Spector-Zabusky,Olivier Nicole",29
+"Florian Angeletti,octachron",28
+"octachron,Florian Angeletti",28
+"Xavier Leroy,Jacques Garrigue",27
+"alainfrisch,Pierre Chambart",27
+"Jacques Le Normand,Jacques Garrigue",27
+"Gabriel Scherer,David Allsopp",26
+"Xavier Leroy,David Allsopp",26
+"Sébastien Hinderer,KC Sivaramakrishnan",26
+"Leo White,Mark Shinwell",25
+"Runhang Li,Leo White",25
+"Gabriel Scherer,Xavier Leroy",24
+"David Allsopp,Gabriel Scherer",23
+"Leo White,Thomas Refis",23
+"Thomas Refis,Gabriel Scherer",23
+"Mark Shinwell,Leo White",23
+"Mark Shinwell,Damien Doligez",23
+"Jacques Garrigue,Xavier Leroy",22
+"Gabriel Scherer,Jacques Garrigue",22
+"Sébastien Hinderer,Gabriel Scherer",21
+"Gabriel Scherer,Thomas Refis",21
+"Mark Shinwell,Pierre Chambart",21
+"Xavier Leroy,Gabriel Scherer",20
+"Jacques Garrigue,Gabriel Scherer",20
+"Gabriel Scherer,Damien Doligez",20
+"Xavier Leroy,Jérôme Vouillon",20
+"Xavier Clerc,Gabriel Scherer",20
+"David Allsopp,Xavier Leroy",19
+"Pierre Chambart,Mark Shinwell",19
+"Takafumi Saikawa,Jacques Garrigue",18
+"David Allsopp,Sébastien Hinderer",18
+"Gabriel Scherer,Sébastien Hinderer",18
+"François Bobot,Nicolás Ojeda Bär",17
+"Gabriel Scherer,Nicolás Ojeda Bär",17
+"Gabriel Scherer,octachron",17
+"Xavier Leroy,Florian Angeletti",17
+"Gabriel Scherer,Alain Frisch",16
+"Nicolás Ojeda Bär,Gabriel Scherer",16
+"Antonin Décimo,David Allsopp",16
+"Leo White,Damien Doligez",16
+"Gabriel Scherer,Guillaume Munch-Maccagnoni",16
+"Jérôme Vouillon,Xavier Leroy",15
+"Damien Doligez,Xavier Clerc",15
+"Damien Doligez,Mark Shinwell",15
+"ygrek,Gabriel Scherer",15
+"Alain Frisch,Damien Doligez",15
+"Xavier Leroy,Sébastien Hinderer",15
+"Chris Casinghino,Vincent Laviron",15
+"alainfrisch,Alain Frisch",15
+"KC Sivaramakrishnan,Stephen Dolan",15
+"Florian Angeletti,David Allsopp",15
+"Pierre Weis,Damien Doligez",15
+"David Allsopp,Damien Doligez",15
+"Anil Madhavapeddy,KC Sivaramakrishnan",14
+"Stephen Dolan,Sébastien Hinderer",14
+"KC Sivaramakrishnan,Tom Kelly",14
+"Mark Shinwell,Gabriel Scherer",14
+"Stephen Dolan,Gabriel Scherer",14
+"Leo White,Hyunggyu Jang",14
+"David Allsopp,Florian Angeletti",13
+"Gabriel Scherer,Stephen Dolan",13
+"Xavier Clerc,Damien Doligez",13
+"Jacques Garrigue,Jacques Le Normand",13
+"Alain Frisch,Gabriel Scherer",13
+"Mark Shinwell,Xavier Leroy",13
+"KC Sivaramakrishnan,Jon Ludlam",12
+"Sadiq Jaffer,Mark Shinwell",12
+"Florian Angeletti,Nicolás Ojeda Bär",12
+"Xavier Leroy,Nicolás Ojeda Bär",12
+"Florian Angeletti,Thomas Refis",12
+"Sébastien Hinderer,Nicolás Ojeda Bär",12
+"Tom Kelly,KC Sivaramakrishnan",11
+"Antal Spector-Zabusky,Florian Angeletti",11
+"David Allsopp,Samuel Hym",11
+"Nicolás Ojeda Bär,Simon Cruanes",11
+"David Allsopp,Antonin Décimo",11
+"Stephen Dolan,Mark Shinwell",11
+"Mark Shinwell,Stephen Dolan",11
+"Jeremie Dimino,Gabriel Scherer",11
+"David Allsopp,Mark Shinwell",11
+"Pierre Weis,Xavier Leroy",11
+"Charles Chamberlain,Gabriel Scherer",11
+"octachron,Leo White",10
+"Fabrice Le Fessant,Damien Doligez",10
+"Sébastien Hinderer,Seb Hinderer",10
+"Nicolás Ojeda Bär,Xavier Leroy",10
+"Gabriel Scherer,Rodolphe Lepigre",10
+"Nicolás Ojeda Bär,Florian Angeletti",10
+"Greta Yorsh,Xavier Leroy",10
+"Florian Angeletti,Sébastien Hinderer",10
+"KC Sivaramakrishnan,Florian Angeletti",10
+"Xavier Leroy,Alain Frisch",10
+"Tom Kelly,Enguerrand Decorne",10
+"Leo White,David Allsopp",10
+"Alain Frisch,Xavier Leroy",10
+"Jacques Garrigue,Florian Angeletti",9
+"Nicolás Ojeda Bär,David Allsopp",9
+"Jacques Garrigue,Mark Shinwell",9
+"Sébastien Hinderer,Stephen Dolan",9
+"KC Sivaramakrishnan,Sébastien Hinderer",9
+"Sébastien Hinderer,Xavier Leroy",9
+"Xavier Clerc,Leo White",9
+"Jérémie Dimino,Damien Doligez",9
+"Armaël Guéneau,Thomas Refis",9
+"Alain Frisch,alainfrisch",9
+"Alain Frisch,Fabrice Le Fessant",9
+"Gabriel Scherer,Jeremy Yallop",9
+"alainfrisch,Jacques Garrigue",9
+"octachron,Sébastien Hinderer",9
+"yallop,Daniel Bünzli",8
+"Daniel de Rauglaudre,Xavier Leroy",8
+"Alain Frisch,Xavier Clerc",8
+"Maxence Guesdon,Xavier Leroy",8
+"Rodolphe Lepigre,Gabriel Scherer",8
+"Miod Vallat,Tim McGilchrist",8
+"Jeremie Dimino,alainfrisch",8
+"Jacques Garrigue,Luc Maranget",8
+"Stephen Dolan,Jacques-Henri Jourdan",8
+"Sébastien Hinderer,Florian Angeletti",8
+"Stephen Dolan,Jacques Garrigue",8
+"alainfrisch,Damien Doligez",8
+"Vincent Laviron,Pierre Chambart",8
+"Thomas Refis,Leo White",8
+"Xavier Leroy,Luc Maranget",8
+"Thomas Refis,Nicolás Ojeda Bär",8
+"KC Sivaramakrishnan,Runhang Li",7
+"Gabriel Scherer,alainfrisch",7
+"Jun FURUSE / 古瀬 淳,Pierre Weis",7
+"Jérémie Dimino,Stephen Dolan",7
+"Hugo Heuzard,Gabriel Scherer",7
+"alainfrisch,Hugo Heuzard",7
+"Jacques Garrigue,Pierre Weis",7
+"Olivier Nicole,Xavier Leroy",7
+"David Allsopp,Jacques Garrigue",7
+"Daniel de Rauglaudre,Damien Doligez",7
+"Thomas Refis,François Bobot",7
+"Leo White,alainfrisch",7
+"Jeremy Yallop,Gabriel Scherer",7
+"Simon Cruanes,Gabriel Scherer",7
+"Florian Angeletti,Ulysse Gérard",7
+"Stephen Dolan,KC Sivaramakrishnan",7
+"David Allsopp,Nicolás Ojeda Bär",7
+"Stephen Dolan,Jérémie Dimino",7
+"Jacques Garrigue,Nicolás Ojeda Bär",7
+"Damien Doligez,Leo White",7
+"Damien Doligez,Stephen Dolan",7
+"Ulysse Gérard,Florian Angeletti",7
+"KC Sivaramakrishnan,Luc Maranget",6
+"KC Sivaramakrishnan,Damien Doligez",6
+"sliquister,Drup",6
+"Gabriel Scherer,Jacques-Henri Jourdan",6
+"Enguerrand Decorne,Tom Kelly",6
+"Florian Angeletti,Xavier Leroy",6
+"Xavier Leroy,Pierre Weis",6
+"Xavier Leroy,Mark Shinwell",6
+"octachron,Jacques Garrigue",6
+"Xavier Leroy,Tom Kelly",6
+"alainfrisch,Gabriel Scherer",6
+"Antonin Décimo,Gabriel Scherer",6
+"Xavier Leroy,octachron",6
+"Gabriel Scherer,Valentin Gatien-Baron",6
+"Leo White,Pierre Chambart",6
+"Tom Kelly,Sudha Parimala",6
+"Leo White,Florian Angeletti",6
+"Kate,David Allsopp",6
+"Xavier Clerc,Alain Frisch",6
+"Leo White,Gabriel Scherer",6
+"Sadiq Jaffer,Xavier Leroy",6
+"Sadiq Jaffer,Tom Kelly",6
+"Stephen Dolan,Tom Kelly",6
+"David Allsopp,octachron",6
+"Leo White,octachron",6
+"Jacques Garrigue,David Allsopp",6
+"Fabrice Le Fessant,Mark Shinwell",6
+"Mark Shinwell,Nicolás Ojeda Bär",6
+"Florian Angeletti,Stephen Dolan",6
+"Stephen Dolan,Xavier Leroy",6
+"Jeremie Dimino,David Allsopp",6
+"Jacques Garrigue,alainfrisch",6
+"Jacques Garrigue,octachron",6
+"Nick Barnes,Gabriel Scherer",6
+"Pierre Chambart,Fourchaux",6
+"David Allsopp,Leo White",6
+"David Allsopp,KC Sivaramakrishnan",6
+"Nicolás Ojeda Bär,Jacques Garrigue",6
+"Daniel Bünzli,Alain Frisch",6
+"Florian Angeletti,Leo White",6
+"octachron,Mark Shinwell",6
+"Jacques Garrigue,Takafumi Saikawa",6
+"Nicolás Ojeda Bär,Sébastien Hinderer",6
+"Frédéric Bour,Gabriel Scherer",6
+"octachron,David Allsopp",6
+"Gabriel Scherer,Nick Roberts",6
+"Gabriel Scherer,Mark Shinwell",6
+"Gabriel Scherer,Luc Maranget",5
+"Gabriel Scherer,Fabrice Le Fessant",5
+"Alain Frisch,Thomas Refis",5
+"hhugo,Damien Doligez",5
+"Nicolas Ojeda Bar,alainfrisch",5
+"Jacques Garrigue,Thomas Refis",5
+"Nicolás Ojeda Bär,octachron",5
+"Olivier Nicole,David Allsopp",5
+"Jeremie Dimino,Nicolas Ojeda Bar",5
+"Sadiq Jaffer,KC Sivaramakrishnan",5
+"Damien Doligez,Sébastien Hinderer",5
+"Maxence Guesdon,Damien Doligez",5
+"Pierre Chambart,Damien Doligez",5
+"Xavier Clerc,Drup",5
+"Jérôme Vouillon,Didier Rémy",5
+"Xavier Leroy,Didier Rémy",5
+"KC Sivaramakrishnan,Enguerrand Decorne",5
+"Enguerrand Decorne,David Allsopp",5
+"octachron,Xavier Leroy",5
+"Jérémie Dimino,Mark Shinwell",5
+"Basile Starynkevitch,Maxence Guesdon",5
+"Antonin Décimo,Florian Angeletti",5
+"Vincent Laviron,Mark Shinwell",5
+"Thomas Refis,Florian Angeletti",5
+"Christophe Troestler,Mark Shinwell",5
+"Thomas Refis,Damien Doligez",5
+"Jon Ludlam,Florian Angeletti",5
+"Tom Kelly,Gabriel Scherer",5
+"Guillaume Munch-Maccagnoni,Gabriel Scherer",5
+"Tom Kelly,David Allsopp",5
+"Thomas Refis,Stephen Dolan",5
+"Seb Hinderer,Sébastien Hinderer",5
+"Fabrice Le Fessant,alainfrisch",5
+"Jeremy Yallop,Florian Angeletti",5
+"Stephen Dolan,Olivier Nicole",5
+"Damien Doligez,David Allsopp",5
+"Damien Doligez,François Bobot",5
+"Florian Angeletti,Jacques Garrigue",5
+"Fabrice Le Fessant,KC Sivaramakrishnan",5
+"Stephen Dolan,David Allsopp",5
+"Benoit Vaugon,alainfrisch",5
+"Damien Doligez,Tom Kelly",4
+"Jacques Garrigue,Nicolas Chataing",4
+"Damien Doligez,Nicolás Ojeda Bär",4
+"Jeremie Dimino,Thomas Refis",4
+"Mark Shinwell,alainfrisch",4
+"Miod Vallat,Gabriel Scherer",4
+"David Allsopp,Jeremie Dimino",4
+"Pierre Weis,Jacques Garrigue",4
+"Daniel Bünzli,David Allsopp",4
+"Pierre Chambart,Hugo Heuzard",4
+"Sadiq Jaffer,Gabriel Scherer",4
+"Nicolas Pouillard,Damien Doligez",4
+"Nicolás Ojeda Bär,Anil Madhavapeddy",4
+"Olivier Nicole,Sébastien Hinderer",4
+"Pierre Chambart,Gabriel Scherer",4
+"Nicolás Ojeda Bär,Nick Barnes",4
+"octachron,Jérémie Dimino",4
+"Daniel de Rauglaudre,Jacques Garrigue",4
+"Jacques-Henri Jourdan,Gabriel Scherer",4
+"Florian Angeletti,Antonin Décimo",4
+"Nathanaël Courant,Ulysse Gérard",4
+"Jacques Garrigue,Stephen Dolan",4
+"octachron,Jeremie Dimino",4
+"alban,Gabriel Scherer",4
+"Gabriel Scherer,Leo White",4
+"Gabriel Scherer,KC Sivaramakrishnan",4
+"Nicolás Ojeda Bär,Leo White",4
+"Damien Doligez,KC Sivaramakrishnan",4
+"Seb Hinderer,Gabriel Scherer",4
+"Jacques Garrigue,Fabrice Le Fessant",4
+"Damien Doligez,Fabrice Le Fessant",4
+"Florian Angeletti,Nick Barnes",4
+"Guillaume Munch-Maccagnoni,Florian Angeletti",4
+"Thomas Refis,Mark Shinwell",4
+"Leo White,Xavier Leroy",4
+"Mark Li,Runhang Li",4
+"Luc Maranget,Jacques Garrigue",4
+"John Whitington,Xavier Leroy",4
+"John Whitington,Gabriel Scherer",4
+"Stephen Dolan,Alain Frisch",4
+"Stephen Dolan,Florian Angeletti",4
+"Stephen Dolan,Damien Doligez",4
+"Sébastien Hinderer,octachron",4
+"Jérémie Dimino,Jeremie Dimino",4
+"Tom Kelly,Sadiq Jaffer",4
+"Tom Kelly,Xavier Leroy",4
+"Tom Kelly,Stephen Dolan",4
+"Gabriel Scherer,eutro",4
+"Kyle Miller,Armaël Guéneau",4
+"Kate,Gabriel Scherer",4
+"Konstantin Romanov,Gabriel Scherer",4
+"Ulysse Gérard,Nathanaël Courant",4
+"Valentin Gatien-Baron,zapashcanon",4
+"Vincent Laviron,Jacques Garrigue",4
+"Xavier Leroy,Enguerrand Decorne",4
+"alainfrisch,David Allsopp",4
+"Xavier Leroy,Sadiq Jaffer",4
+"Xavier Leroy,KC Sivaramakrishnan",4
+"KC Sivaramakrishnan,Leo White",4
+"ElHassan Wanas,El-Hassan Wanas",4
+"KC Sivaramakrishnan,Xavier Leroy",4
+"Gabriel Scherer,Jeremie Dimino",4
+"Gabriel Scherer,Frédéric Bour",4
+"samsa1,Florian Angeletti",3
+"Anil Madhavapeddy,Florian Angeletti",3
+"Aleksei Nikiforov,Xavier Leroy",3
+"Alain Frisch,David Allsopp",3
+"yallop,Damien Doligez",3
+"octachron,Tom Kelly",3
+"octachron,Thomas Refis",3
+"octachron,Nicolás Ojeda Bär",3
+"Frédéric Bour,KC Sivaramakrishnan",3
+"François Pottier,François Pottier",3
+"Gabriel Scherer,Basile Clement",3
+"Alain Frisch,Jacques-Henri Jourdan",3
+"Kate,Carlo Cabrera",3
+"KC Sivaramakrishnan,Sadiq Jaffer",3
+"Didier Rémy,Damien Doligez",3
+"Leo White,Stephen Dolan",3
+"Leo White,Jacques Garrigue",3
+"Leo White,Alain Frisch",3
+"Konstantin Romanov,Stephen Dolan",3
+"Enguerrand Decorne,Xavier Leroy",3
+"Jeremy Yallop,alainfrisch",3
+"Jeremy Yallop,Nicolás Ojeda Bär",3
+"Jeremy Yallop,John Whitington",3
+"Marcello Seri,Daniel Bünzli",3
+"David Allsopp,alainfrisch",3
+"David Allsopp,Stephen Dolan",3
+"Luc Maranget,Pierre Weis",3
+"Luc Maranget,Alain Frisch",3
+"Leo White,Xavier Clerc",3
+"Leo White,Vincent Laviron",3
+"David Allsopp,Romain Beauxis",3
+"David Allsopp,Olivier Nicole",3
+"Mark Shinwell,Sébastien Hinderer",3
+"Mark Shinwell,Florian Angeletti",3
+"Mark Shinwell,David Allsopp",3
+"Fabrice Le Fessant,octachron",3
+"Fabrice Le Fessant,Gabriel Scherer",3
+"Fabrice Le Fessant,Alain Frisch",3
+"Fabrice Buoro,fabbing",3
+"David Allsopp,Louis Gesbert",3
+"David Allsopp,Jules Aguillon",3
+"Miod Vallat,Antonin Décimo",3
+"Mekhrubon Turaev,Antal Spector-Zabusky",3
+"Max Mouratov,Sébastien Hinderer",3
+"Mark Shinwell,octachron",3
+"David Allsopp,Enguerrand Decorne",3
+"David Allsopp,Daniel Bünzli",3
+"Nicolas Ojeda Bar,Nicolás Ojeda Bär",3
+"Nicolas Ojeda Bar,Leo White",3
+"Nathan Rebours,David Allsopp",3
+"Florian Angeletti,Daniel Bünzli",3
+"Jacques-Henri Jourdan,JPR",3
+"Jacques-Henri Jourdan,David Allsopp",3
+"Jacques-Henri Jourdan,Damien Doligez",3
+"Jacques Garrigue,Sébastien Hinderer",3
+"Olivier Nicole,Fabrice Buoro",3
+"Nicolás Ojeda Bär,Thomas Refis",3
+"Nicolás Ojeda Bär,Greta Yorsh",3
+"Romain Beauxis,Gabriel Scherer",3
+"Pieter Goetschalckx,Gabriel Scherer",3
+"Perry E. Metzger,Dwight Guth",3
+"Damien Doligez,Pierre Chambart",3
+"Sadiq Jaffer,Enguerrand Decorne",3
+"Runhang Li,Thomas Refis",3
+"Daniel Bünzli,Jean-Christophe Filliatre",3
+"Jacques Garrigue,Maxence Guesdon",3
+"Florian Angeletti,Jeremy Yallop",3
+"Jacques Garrigue,Jeremie Dimino",3
+"Jacques Garrigue,Daniel de Rauglaudre",3
+"Damien Doligez,Nicolas Pouillard",3
+"Damien Doligez,Luc Maranget",3
+"Stefan Muenzel,Gabriel Scherer",3
+"Seb Hinderer,Antonin Décimo",3
+"Damien Doligez,Florian Angeletti",3
+"Stephen Dolan,Nicolás Ojeda Bär",3
+"Stephen Dolan,Leo White",3
+"Christophe Raffalli,Gabriel Scherer",3
+"Sébastien Hinderer,Jules Aguillon",3
+"Sébastien Hinderer,Jacques Garrigue",3
+"Sébastien Hinderer,Hugo Heuzard",3
+"Sébastien Hinderer,Greg V",3
+"Sébastien Briais,alainfrisch",3
+"Stephen Dolan,octachron",3
+"Hugo Heuzard,Damien Doligez",3
+"Guillaume Munch-Maccagnoni,Sébastien Hinderer",3
+"Guillaume Munch-Maccagnoni,David Allsopp",3
+"Guillaume Munch-Maccagnoni,Antonin Décimo",3
+"Thomas Refis,Sébastien Hinderer",3
+"Thomas Refis,Jérémie Dimino",3
+"Thomas Refis,David Allsopp",3
+"Tim McGilchrist,Romain Beauxis",3
+"Thomas Refis,octachron",3
+"Thomas Refis,Xavier Leroy",3
+"Greta Yorsh,Stephen Dolan",3
+"Fourchaux,Florian Angeletti",3
+"Gabriel Scherer,ygrek",3
+"Gabriel Scherer,Xavier Clerc",3
+"Gabriel Scherer,Wojciech Meyer",3
+"Gabriel Scherer,Vincent Laviron",3
+"François Pottier,François Pottier",3
+"Xavier Clerc,Jacques Garrigue",3
+"Wojciech Meyer,Gabriel Scherer",3
+"Basile Clement,Gabriel Scherer",3
+"Wiktor Kuchta,Xavier Leroy",3
+"Vladimir Keleshev,Daniel Bünzli",3
+"Vincent Laviron,Xavier Leroy",3
+"Vincent Laviron,Gabriel Scherer",3
+"Xavier Leroy,Jules Aguillon",3
+"Xavier Clerc,Stefan Muenzel",3
+"alainfrisch,François Bobot",3
+"alainfrisch,Demetri Obenour",3
+"Antonin Décimo,Nicolás Ojeda Bär",3
+"Xavier Leroy,Stephen Dolan",3
+"Xavier Leroy,Olivier Nicole",3
+"octachron,Antal Spector-Zabusky",3
+"objmagic,octachron",3
+"alainfrisch,Thomas Refis",3
+"alainfrisch,Nicolas Ojeda Bar",3
+"Gabriel Scherer,Seb Hinderer",3
+"Gabriel Scherer,Pierre Chambart",3
+"whitequark,Gabriel Scherer",3
+"yallop,François Bobot",3
+"zapashcanon,EruEri",2
+"yallop,Mark Shinwell",2
+"Andrey Bergman,Damien Doligez",2
+"Anil Madhavapeddy,Gabriel Scherer",2
+"octachron,Jim",2
+"octachron,John Whitington",2
+"octachron,Stephen Dolan",2
+"octachron,Valentin Gatien-Baron",2
+"octachron,Vincent Laviron",2
+"Alain Frisch,Florian Angeletti",2
+"Alain Frisch,Luc Maranget",2
+"Alain Frisch,Mark Shinwell",2
+"Alain Frisch,Nicolás Ojeda Bär",2
+"Alain Frisch,Stephen Dolan",2
+"Gabriel Radanne,Hugo Heuzard",2
+"octachron,alainfrisch",2
+"octachron,Hugo Heuzard",2
+"Anil Madhavapeddy,Xavier Leroy",2
+"Antonin Décimo,Damien Doligez",2
+"iOS Porting Team,EduardoRFS",2
+"jake-87,j",2
+"Gabriel Scherer,Antonin Décimo",2
+"Gabriel Scherer,Armaël Guéneau",2
+"Gabriel Scherer,Daniel Bünzli",2
+"Gabriel Scherer,Daniel Hillerström",2
+"Gabriel Scherer,Demi Obenour",2
+"favonia,David Allsopp",2
+"hhugo,Hugo Heuzard",2
+"alainfrisch,octachron",2
+"damiendoligez,Damien Doligez",2
+"doligez,François Bobot",2
+"alainfrisch,Jeremie Dimino",2
+"alainfrisch,Jeremy Yallop",2
+"alainfrisch,Max Mouratov",2
+"alainfrisch,Xavier Leroy",2
+"Antonin Décimo,Leo White",2
+"François Bobot,Mark Shinwell",2
+"François Bobot,Xavier Leroy",2
+"Antonin Décimo,Miod Vallat",2
+"Xavier Leroy,Thomas Refis",2
+"Xavier Leroy,Wojciech Meyer",2
+"Xavier Leroy,iOS Porting Team",2
+"Antonin Décimo,Vincent Laviron",2
+"Antonin Décimo,Xavier Leroy",2
+"Antonin Décimo,eutro",2
+"Antonio Nuno Monteiro,Issam Maghni",2
+"Xavier Leroy,Jan Midtgaard",2
+"Xavier Leroy,Jeremie Dimino",2
+"Xavier Leroy,Jeremy Yallop",2
+"Xavier Leroy,Matthew Ryan",2
+"Antonin Décimo,Seb Hinderer",2
+"Xavier Leroy,Antonin Décimo",2
+"Xavier Leroy,Chris Casinghino",2
+"Xavier Leroy,Fabrice Le Fessant",2
+"Gabriel Scherer,Stefan Muenzel",2
+"Fourchaux,Xavier Leroy",2
+"Gabriel Scherer,Greta Yorsh",2
+"Gabriel Scherer,Hongbo Zhang",2
+"Gabriel Scherer,Hugo Heuzard",2
+"Gabriel Scherer,John Whitington",2
+"Gabriel Scherer,Kate",2
+"Wojciech Meyer,Xavier Leroy",2
+"Wojciech Meyer,Alain Frisch",2
+"Wojciech Meyer,Damien Doligez",2
+"Vincent Laviron,Hugo Heuzard",2
+"Vincent Laviron,Stephen Dolan",2
+"Vincent Laviron,Takafumi Saikawa",2
+"Vincent Laviron,Daniel Bünzli",2
+"Bernhard Schommer,Gabriel Scherer",2
+"Bernhard Schommer,chrismamo1",2
+"Bernhard Schommer,octachron",2
+"Gabriel Scherer,Miod Vallat",2
+"Gabriel Scherer,Richard Eisenberg",2
+"Gabriel Scherer,Runhang Li",2
+"Török Edwin,Nicolas Ojeda Bar",2
+"Valentin Gatien-Baron,Gabriel Scherer",2
+"Tom Kelly,Anil Madhavapeddy",2
+"Tom Kelly,Damien Doligez",2
+"Tom Kelly,octachron",2
+"Tõivo Leedjärv,Konstantin Romanov",2
+"Tõivo Leedjärv,Sébastien Hinderer",2
+"Tim McGilchrist,David Allsopp",2
+"Tim McGilchrist,Gabriel Scherer",2
+"Tim McGilchrist,Jan Midtgaard",2
+"Chris Casinghino,Takafumi Saikawa",2
+"Christiana Anthony,Hyunggyu Jang",2
+"Takafumi Saikawa,Nick Roberts",2
+"Thomas Braibant,Damien Doligez",2
+"Thomas Refis,Armaël Guéneau",2
+"Thomas Refis,Drup",2
+"Sébastien Hinderer,Simon Fowler",2
+"Sébastien Hinderer,Tom Kelly",2
+"Sébastien Hinderer,Tõivo Leedjärv",2
+"Sébastien Hinderer,Xavier Clerc",2
+"Sébastien Hinderer,comex",2
+"Sébastien Hinderer,favonia",2
+"Sébastien Hinderer,whitequark",2
+"Sébastien Hinderer,Mark Shinwell",2
+"Christophe Troestler,Xavier Leroy",2
+"Gabriel Scherer,Takafumi Saikawa",2
+"Gabriel Scherer,Tim McGilchrist",2
+"Gabriel Scherer,objmagic",2
+"Damien Doligez,Armaël Guéneau",2
+"Sudha Parimala,Tom Kelly",2
+"Sébastien Hinderer,JPR",2
+"Stephen Dolan,Vincent Laviron",2
+"Damien Doligez,Bernhard Schommer",2
+"Damien Doligez,Daniel de Rauglaudre",2
+"Damien Doligez,Didier Rémy",2
+"Damien Doligez,Jacques-Henri Jourdan",2
+"Stephen Dolan,Guillaume Munch-Maccagnoni",2
+"Stephen Dolan,Sadiq Jaffer",2
+"Stephen Dolan,Antonin Décimo",2
+"Stephen Dolan,Daniel Bünzli",2
+"Damien Doligez,Jérémie Dimino",2
+"Guillaume Munch-Maccagnoni,Max Slater",2
+"Guillaume Munch-Maccagnoni,Nick Roberts",2
+"Florian Angeletti,hhugo",2
+"Damien Doligez,Maxence Guesdon",2
+"Spiros Eliopoulos,Jeremie Dimino",2
+"Stefan Muenzel,Nick Barnes",2
+"Stefan Muenzel,Thomas Refis",2
+"Seb Hinderer,David Allsopp",2
+"Seb Hinderer,Richard Eisenberg",2
+"Seb Hinderer,Vincent Laviron",2
+"Sadiq Jaffer,Ulysse Gérard",2
+"Samuel Hym,Tim McGilchrist",2
+"Damien Doligez,Thomas Refis",2
+"Damien Doligez,alainfrisch",2
+"Runhang Li,Jeremie Dimino",2
+"Sadiq Jaffer,David Allsopp",2
+"Hannes Mehnert,Gabriel Scherer",2
+"Greta Yorsh,Gabriel Scherer",2
+"Damien Doligez,damiendoligez",2
+"Damien Doligez,octachron",2
+"Daniel Bünzli,Florian Angeletti",2
+"Daniel Bünzli,Joan Thibault",2
+"Romain Beauxis,Samuel Thibault",2
+"Richard Bonichon,pierreweis",2
+"Richard Eisenberg,Antonin Décimo",2
+"Richard Eisenberg,Gabriel Scherer",2
+"Richard W.M. Jones,Gabriel Scherer",2
+"Pierre Weis,Jun FURUSE / 古瀬 淳",2
+"Pierre Weis,Jérôme Vouillon",2
+"Pierre Weis,Nicolas Pouillard",2
+"Raja Boujbel,Gabriel Scherer",2
+"Rich Neswold,Xavier Leroy",2
+"Pierre Chambart,Leo White",2
+"Guillaume Munch-Maccagnoni,Nicolás Ojeda Bär",2
+"Guillaume Munch-Maccagnoni,Tom Kelly",2
+"Guillaume Munch-Maccagnoni,Xavier Leroy",2
+"Guillaume Petiot,Leo White",2
+"Pierre Chambart,Xavier Clerc",2
+"Pierre Chambart,alainfrisch",2
+"Olivier Nicole,Miod Vallat",2
+"Daniel Bünzli,Vincent Laviron",2
+"Daniel Bünzli,Vladimir Keleshev",2
+"Olivier Nicole,Vincent Laviron",2
+"Olivier Andrieu,David Allsopp",2
+"Olivier Nicole,Antonin Décimo",2
+"Olivier Nicole,Florian Angeletti",2
+"Olivier Nicole,Gabriel Scherer",2
+"David Allsopp,Hongbo Zhang",2
+"Nicolás Ojeda Bär,Guillaume Munch-Maccagnoni",2
+"Nicolás Ojeda Bär,Jacques-Henri Jourdan",2
+"Nicolás Ojeda Bär,Jeremy Yallop",2
+"Nicolás Ojeda Bär,Jules Aguillon",2
+"Florian Angeletti,Vincent Laviron",2
+"Hongbo Zhang,David Allsopp",2
+"Hugo Heuzard,KC Sivaramakrishnan",2
+"Nicolás Ojeda Bär,Stefan Muenzel",2
+"Nicolás Ojeda Bär,Stephen Dolan",2
+"David Allsopp,Craig Ferguson",2
+"David Allsopp,Fabian",2
+"David Allsopp,Fourchaux",2
+"David Allsopp,Greta Yorsh",2
+"Nick Roberts,Stefan Muenzel",2
+"Nick Roberts,Takafumi Saikawa",2
+"Nicolas Ojeda Bar,Damien Doligez",2
+"Nicolas Ojeda Bar,Mark Shinwell",2
+"Hugo Heuzard,alainfrisch",2
+"Florian Angeletti,Nick Roberts",2
+"Florian Angeletti,Olivier Nicole",2
+"Florian Angeletti,Sadiq Jaffer",2
+"Florian Angeletti,Seb Hinderer",2
+"Nicolas Pouillard,Xavier Leroy",2
+"Nathanaëlle Courant,Nick Barnes",2
+"Nick Barnes,Florian Angeletti",2
+"Miod Vallat,Nicolás Ojeda Bär",2
+"Miod Vallat,Xavier Leroy",2
+"David Allsopp,Konstantin Romanov",2
+"Maxence Guesdon,Jacques Garrigue",2
+"Mekhrubon Turaev,Florian Angeletti",2
+"Miod Vallat,David Allsopp",2
+"Miod Vallat,Guillaume Munch-Maccagnoni",2
+"Mark Shinwell,yallop",2
+"Hyunggyu Jang,Leo White",2
+"JPR,Damien Doligez",2
+"JPR,David Allsopp",2
+"Jacques Garrigue,Didier Rémy",2
+"David Allsopp,Nicolas Ojeda Bar",2
+"David Allsopp,Olivier Andrieu",2
+"David Allsopp,Pierre Chambart",2
+"David Allsopp,Richard Bonichon",2
+"David Allsopp,Sadiq Jaffer",2
+"David Allsopp,Seb Hinderer",2
+"Mark Shinwell,Hugo Heuzard",2
+"Mark Shinwell,Jérémie Dimino",2
+"Lucas Pluvinage,Antonin Décimo",2
+"David Allsopp,Thomas Refis",2
+"David Allsopp,Vincent Laviron",2
+"Jacques Garrigue,Xavier Clerc",2
+"Jacques Garrigue,Leo White",2
+"Florian Angeletti,Greta Yorsh",2
+"Florian Angeletti,Guillaume Munch-Maccagnoni",2
+"Florian Angeletti,Jacques-Henri Jourdan",2
+"Luc Maranget,Damien Doligez",2
+"Luc Maranget,Nicolas Pouillard",2
+"Luc Maranget,Thomas Refis",2
+"Demetri Obenour,Demi Obenour",2
+"Demi Marie Obenour,Gabriel Scherer",2
+"Didier Rémy,Jérôme Vouillon",2
+"Dong An,Florian Angeletti",2
+"Leo White,Hugo Heuzard",2
+"Leo White,Nicolás Ojeda Bär",2
+"Kate,Nicolás Ojeda Bär",2
+"Laurent Mazare,Gabriel Scherer",2
+"Drup,Gabriel Scherer",2
+"Dwight Guth,Gabriel Scherer",2
+"Florian Angeletti,Mark Shinwell",2
+"Florian Angeletti,Miod Vallat",2
+"Jacques Garrigue,Olivier Nicole",2
+"Jacques Garrigue,Vincent Laviron",2
+"Jacques Garrigue,Wojciech Meyer",2
+"Jérôme Vouillon,Pierre Weis",2
+"KC Sivaramakrishnan,Christiano Haesbaert",2
+"KC Sivaramakrishnan,Thomas Refis",2
+"Jérôme Vouillon,Jacques Garrigue",2
+"Jules Aguillon,Jérémie Dimino",2
+"Jules Aguillon,Pierre Roux",2
+"Jun FURUSE / 古瀬 淳,Jacques Garrigue",2
+"John Whitington,Jacques Garrigue",2
+"John Whitington,Jeremy Yallop",2
+"Jon Ludlam,Enguerrand Decorne",2
+"Jon Ludlam,KC Sivaramakrishnan",2
+"Jacques Garrigue,whitequark",2
+"Jacques-Henri Jourdan,Stephen Dolan",2
+"Jacques-Henri Jourdan,Sébastien Hinderer",2
+"Jacques-Henri Jourdan,Thomas Refis",2
+"Jan Midtgaard,Antonin Décimo",2
+"Jan Midtgaard,Gabriel Scherer",2
+"Jeremy Yallop,David Allsopp",2
+"Jeremy Yallop,Thomas Refis",2
+"Jim,octachron",2
+"Jeremie Dimino,Pierre Chambart",2
+"Fabrice Buoro,Olivier Nicole",2
+"Fabrice Le Fessant,Xavier Clerc",2
+"Fabrice Le Fessant,Xavier Leroy",2
+"Florian Angeletti,Antal Spector-Zabusky",2
+"Florian Angeletti,Damien Doligez",2
+"Alain Frisch,octachron",2
+"Aleksei Nikiforov,Gabriel Scherer",2
+"Gabriel Radanne,Leo White",2
+"Gabriel Radanne,Nicolás Ojeda Bär",2
+"Alain Frisch,yallop",2
+"samsa1,Pierre Chambart",1
+"珊瑚,Florian Angeletti",1
+"Alain Frisch,AlexOnWork",1
+"Alain Frisch,Bernhard Schommer",1
+"shym,Nick Barnes",1
+"shym,hhugo",1
+"octachron,Nicolas Ojeda Bar",1
+"octachron,Pierre Chambart",1
+"octachron,Sébastien Briais",1
+"octachron,Tõivo Leedjärv",1
+"octachron,Török Edwin",1
+"octachron,aalekseyev",1
+"Gabriel Scherer,Edwin Török",1
+"Gabriel Scherer,Enguerrand Decorne",1
+"Gabriel Scherer,Fourchaux",1
+"xvw,Leo White",1
+"Alain Frisch,Hongbo Zhang",1
+"Alain Frisch,Pierre Chambart",1
+"Alain Frisch,Wojciech Meyer",1
+"Frédéric Recoules,Florian Angeletti",1
+"Gabe Levi,KC Sivaramakrishnan",1
+"Gabriel Radanne,Florian Angeletti",1
+"Janith Petangoda,Sudha Parimala",1
+"Javier Chavarri,Nick Barnes",1
+"Fermin Reig,Greta Yorsh",1
+"Florian Angeletti,Alain Frisch",1
+"Florian Angeletti,Anil Madhavapeddy",1
+"Florian Angeletti,Anukriti12",1
+"Florian Angeletti,Armael",1
+"Florian Angeletti,Armaël Guéneau",1
+"Florian Angeletti,Chris Casinghino",1
+"Florian Angeletti,Christiana Anthony",1
+"Florian Angeletti,Demi Marie Obenour",1
+"珊瑚,David Allsopp",1
+"zett98,dongyan",1
+"octachron,zett98",1
+"panglesd,Florian Angeletti",1
+"panglesd,Takafumi Saikawa",1
+"Jeremy Yallop,zapashcanon",1
+"Jerome Vouillon,Damien Doligez",1
+"Johan511,Miod Vallat",1
+"John Whitington,David Allsopp",1
+"Jeremie Dimino,François Bobot",1
+"Jeremie Dimino,Jérémie Dimino",1
+"Jeremie Dimino,KC Sivaramakrishnan",1
+"Jeremie Dimino,Leo White",1
+"Jeremie Dimino,Mark Shinwell",1
+"Jeremie Dimino,Spiros Eliopoulos",1
+"Jeremie Dimino,Stephen Dolan",1
+"Jeremie Dimino,Vincent Laporte",1
+"Fabrice Buoro,Florian Angeletti",1
+"Fabrice Le Fessant,David Allsopp",1
+"Fabrice Le Fessant,Jonathan Protzenko",1
+"Fabrice Le Fessant,Sébastien Hinderer",1
+"Jacques-Henri Jourdan,Jacques Garrigue",1
+"Jacques-Henri Jourdan,Jeremy Yallop",1
+"Jacques-Henri Jourdan,Xavier Leroy",1
+"Jan Midtgaard,François Pottier",1
+"Jules Aguillon,David Allsopp",1
+"Jules Aguillon,Edwin Török",1
+"Jules Aguillon,Gabriel Scherer",1
+"Jeremy Yallop,Enguerrand Decorne",1
+"Jeremy Yallop,Fourchaux",1
+"Jeremy Yallop,Jacques-Henri Jourdan",1
+"Jeremy Yallop,Jérémie Dimino",1
+"Jeremy Yallop,KC Sivaramakrishnan",1
+"Jeremy Yallop,Luc Maranget",1
+"Jeremy Yallop,Nick Barnes",1
+"Jeremy Yallop,Spiros Eliopoulos",1
+"Jeremy Yallop,Xavier Leroy",1
+"Jérémie Dimino,Tim Cuthbertson",1
+"John Whitington,Florian Angeletti",1
+"John Whitington,Fourchaux",1
+"John Whitington,octachron",1
+"Jon Ludlam,Gabriel Scherer",1
+"Jon Ludlam,Xavier Leroy",1
+"Jonathan Protzenko,Damien Doligez",1
+"Jonathan Protzenko,Wojciech Meyer",1
+"Josh Berdine,Antonin Décimo",1
+"Jules Aguillon,Boris Yakobowski",1
+"Florian Angeletti,Felix",1
+"Jean-Christophe Filliatre,Daniel Bünzli",1
+"Jeremie Dimino,Anil Madhavapeddy",1
+"Jacques Garrigue,xvw",1
+"Jacques-Henri Jourdan,Florian Angeletti",1
+"Jacques-Henri Jourdan,Greta Yorsh",1
+"Fabian,Florian Angeletti",1
+"Fabian,Jacques Garrigue",1
+"Fabrice,Gabriel Scherer",1
+"Fabrice,Guillaume Munch-Maccagnoni",1
+"Jules Aguillon,Richard L Ford",1
+"Jules Aguillon,Stephen Dolan",1
+"Jun FURUSE / 古瀬 淳,Xavier Leroy",1
+"Justin Frank,Damien Doligez",1
+"Jérémie Dimino,Alain Frisch",1
+"Jérémie Dimino,Bryan Phelps",1
+"Jérémie Dimino,David Allsopp",1
+"Jérémie Dimino,Florian Angeletti",1
+"Jérémie Dimino,Gabriel Scherer",1
+"Jérémie Dimino,Jacques Garrigue",1
+"Jérémie Dimino,Leo White",1
+"Jérémie Dimino,Thomas Refis",1
+"KC Sivaramakrishnan,Mark Shinwell",1
+"KC Sivaramakrishnan,Seb Hinderer",1
+"KC Sivaramakrishnan,Sudha Parimala",1
+"KC Sivaramakrishnan,Vincent Laviron",1
+"KC Sivaramakrishnan,alainfrisch",1
+"Jérôme Vouillon,Damien Doligez",1
+"Enguerrand Decorne,Richard Eisenberg",1
+"Enguerrand Decorne,Sadiq Jaffer",1
+"Enguerrand Decorne,Sudha Parimala",1
+"Enguerrand Decorne,Sébastien Hinderer",1
+"Enguerrand Decorne,Thomas Refis",1
+"Eric Stavarache,Gabriel Scherer",1
+"Et7f3,Stefan Muenzel",1
+"Ethan Aubin,octachron",1
+"Etienne Millon,Jacques Garrigue",1
+"Fabian,Alain Frisch",1
+"Jacques Garrigue,Nicolas Ojeda Bar",1
+"Jacques Garrigue,Romain Beauxis",1
+"Jacques Garrigue,Seb Hinderer",1
+"Jacques Garrigue,Tim McGilchrist",1
+"Jacques Garrigue,Valentin Gatien-Baron",1
+"Enguerrand Decorne,Jeremy Yallop",1
+"Enguerrand Decorne,KC Sivaramakrishnan",1
+"Enguerrand Decorne,Nicolás Ojeda Bär",1
+"Jérôme Vouillon,Valentin Gatien-Baron",1
+"KC Sivaramakrishnan,Anil Madhavapeddy",1
+"KC Sivaramakrishnan,Bartosz Modelski",1
+"KC Sivaramakrishnan,Bernhard Schommer",1
+"KC Sivaramakrishnan,David Allsopp",1
+"KC Sivaramakrishnan,Fabrice Le Fessant",1
+"KC Sivaramakrishnan,Jacques Garrigue",1
+"KC Sivaramakrishnan,Jeremy Yallop",1
+"Kakadu,Gabriel Scherer",1
+"Dong An,Xavier Leroy",1
+"Drup,Florian Angeletti",1
+"Drup,Kate",1
+"Drup,alainfrisch",1
+"Eduardo Rafael,Stephen Dolan",1
+"EduardoRFS,Florian Angeletti",1
+"Edwin Török,Gabriel Scherer",1
+"Edwin Török,Nicolás Ojeda Bär",1
+"El-Hassan Wanas,ElHassan Wanas",1
+"Jan Midtgaard,Nicolás Ojeda Bär",1
+"Jan Midtgaard,Xavier Leroy",1
+"Jan Midtgaard,hirrolot",1
+"Florian Angeletti,Michael Hendricks",1
+"Jacques Garrigue,Nathan Rebours",1
+"Jacques Garrigue,Nick Barnes",1
+"Leo White,Sébastien Hinderer",1
+"Kakadu,Stephen Dolan",1
+"Kate,Antonin Décimo",1
+"Kate,Josh Berdine",1
+"Kate,Leo White",1
+"Kate,Markus Mottl",1
+"Kate,Nick Roberts",1
+"Kate,Yawar Amin",1
+"Keryan Didier,Gabriel Scherer",1
+"Kiran Gopinathan,Stephen Dolan",1
+"Kiran Gopinathan,Xavier Leroy",1
+"Konstantin Romanov,David Allsopp",1
+"Konstantin Romanov,Tõivo Leedjärv",1
+"Kyle Miller,Greta Yorsh",1
+"Laurent Thévenoux,Gabriel Scherer",1
+"KC Sivaramakrishnan,fabbing",1
+"Dong An,Romain Beauxis",1
+"Dong An,Stephen Dolan",1
+"Leo White,Tim Cuthbertson",1
+"Leandro Ostera,Sudha Parimala",1
+"LemonBoy,ygrek",1
+"Leo White,Bernhard Schommer",1
+"Leo White,Dong An",1
+"Leo White,Gabriel Radanne",1
+"Leo White,Guillaume Munch-Maccagnoni",1
+"Leo White,Jérémie Dimino",1
+"Leo White,Kate",1
+"Leo White,Kiran Gopinathan",1
+"Leo White,Marc Lasson",1
+"Leo White,Matthew Ryan",1
+"Leo White,Sergey Avseyev",1
+"Leo White,Sudha Parimala",1
+"Louis Roché,Damien Doligez",1
+"Luc Maranget,Christophe Troestler",1
+"Luc Maranget,Gabriel Scherer",1
+"Luc Maranget,KC Sivaramakrishnan",1
+"Luc Maranget,Leo White",1
+"Luc Maranget,Nicolás Ojeda Bär",1
+"Lucas De Angelis,Stefan Muenzel",1
+"David Turner,Sadiq Jaffer",1
+"Demi Marie Obenour,Chris Casinghino",1
+"Demi Marie Obenour,Johan511",1
+"Demi Obenour,Jacques Garrigue",1
+"Demi Obenour,Nicolas Ojeda Bar",1
+"Demi Obenour,Sébastien Hinderer",1
+"Didier Rémy,Xavier Leroy",1
+"Dmitry Bely,Damien Doligez",1
+"Dmitry Bely,David Allsopp",1
+"Jacques Garrigue,Hannes Mehnert",1
+"Jacques Garrigue,Hyunggyu Jang",1
+"Jacques Garrigue,Jérémie Dimino",1
+"Florian Angeletti,Isaac Avram",1
+"Florian Angeletti,John Whitington",1
+"Florian Angeletti,Jules Aguillon",1
+"Florian Angeletti,Jérôme Vouillon",1
+"David Allsopp,Xavier Clerc",1
+"David Allsopp,Yotam Barnoy",1
+"David Allsopp,steinuil",1
+"Leo White,Vladimir Keleshev",1
+"Leo White,curiousleo",1
+"Leo White,yallop",1
+"Lilian Besson,Greta Yorsh",1
+"Louis Gesbert,Florian Angeletti",1
+"Louis Gesbert,Xavier Leroy",1
+"Mark Shinwell,Maxime Flin",1
+"Mark Shinwell,Nicolas Ojeda Bar",1
+"Lucas Pluvinage,Florian Angeletti",1
+"Lucas Pluvinage,Olivier Nicole",1
+"Lucas Pluvinage,Sadiq Jaffer",1
+"Malcolm Karutz,Florian Angeletti",1
+"Manuel Hornung,Etienne Millon",1
+"David Allsopp,Shakthi Kannan",1
+"David Allsopp,Stefan Muenzel",1
+"David Allsopp,Sudha Parimala",1
+"David Allsopp,Tim McGilchrist",1
+"David Allsopp,Tom Kelly",1
+"Jacques Garrigue,nojebar",1
+"Jacques Garrigue,shym",1
+"Jacques Garrigue,Enguerrand Decorne",1
+"Jacques Garrigue,Ethan Aubin",1
+"David Allsopp,Pierre Roux",1
+"David Allsopp,Rafaël Bocquet",1
+"David Allsopp,Renato Alencar",1
+"David Allsopp,Runhang Li",1
+"David Allsopp,xvw",1
+"Marc Lasson,Nicolás Ojeda Bär",1
+"Marc Lasson,alainfrisch",1
+"Marcello Seri,Wilfred Hughes",1
+"Mark Shinwell,Demi Obenour",1
+"Mark Shinwell,Drup",1
+"Mark Shinwell,Gabriel Radanne",1
+"Mark Shinwell,Guillaume Bury",1
+"Mark Shinwell,Hannes Mehnert",1
+"Mark Shinwell,Jeremy Yallop",1
+"Mark Shinwell,Jules Aguillon",1
+"Mark Shinwell,Markus Pfeiffer",1
+"Isaac Avram,Nicolás Ojeda Bär",1
+"Isaac Avram,Thomas Refis",1
+"JPR,Jacques-Henri Jourdan",1
+"Jaap Boender,Gabriel Scherer",1
+"Jacques Garrigue,Anil Madhavapeddy",1
+"Jacques Garrigue,Bernhard Schommer",1
+"Jacques Garrigue,Daniel Bünzli",1
+"Max Mouratov,KC Sivaramakrishnan",1
+"Max Mouratov,Nicolas Ojeda Bar",1
+"Max Mouratov,octachron",1
+"Mark Shinwell,Pierre Weis",1
+"Mark Shinwell,Richard Bonichon",1
+"Mark Shinwell,Ulugbek Abdullaev",1
+"Mark Shinwell,Valentin Gatien-Baron",1
+"David Allsopp,Nicolas Chataing",1
+"David Allsopp,Pierre Boutillier",1
+"Mark Shinwell,Virgile Prevosto",1
+"Markus Mottl,Gabriel Scherer",1
+"Markus Mottl,Stephen Dolan",1
+"Markus Mottl,pierreweis",1
+"Masanori Ogino,Miod Vallat",1
+"Matthew Else,Antonin Décimo",1
+"Matthew Else,Simon Cruanes",1
+"Matthew Ryan,Gabriel Scherer",1
+"Matthew Ryan,Jeremy Yallop",1
+"Matthew Ryan,Thomas Refis",1
+"Max Mouratov,Armaël Guéneau",1
+"Florian Angeletti,KC Sivaramakrishnan",1
+"Florian Angeletti,Louis Gesbert",1
+"Florian Angeletti,Lucas Pluvinage",1
+"Ian Zimmerman,Nicolás Ojeda Bär",1
+"Isaac Avram,Matthew Ryan",1
+"David Allsopp,Max Mouratov",1
+"David Allsopp,Nick Barnes",1
+"Miod Vallat,shym",1
+"Max Slater,Yawar Amin",1
+"Maxence Guesdon,Gabriel Scherer",1
+"Maxence Guesdon,Luc Maranget",1
+"Maxime Flin,Mark Shinwell",1
+"Mehdi Bouaziz,Xavier Leroy",1
+"Mekhrubon Turaev,David Allsopp",1
+"Mekhrubon Turaev,Thomas Refis",1
+"Mekhrubon Turaev,Vincent Laviron",1
+"Michael Hendricks,Florian Angeletti",1
+"Michel Mauny,Damien Doligez",1
+"Miod Vallat,Jan Midtgaard",1
+"Miod Vallat,Kate",1
+"Mark Shinwell,Vincent Laviron",1
+"Nick Barnes,Romain Beauxis",1
+"Nick Barnes,Stephen Dolan",1
+"Nick Roberts,Florian Angeletti",1
+"Nick Roberts,Gabriel Scherer",1
+"Nick Roberts,Jacques Garrigue",1
+"Nick Roberts,Jeremy Yallop",1
+"Miod Vallat,Max Slater",1
+"Miod Vallat,Samuel Hym",1
+"Miod Vallat,chetmurthy",1
+"Miod Vallat,fabbing",1
+"David Allsopp,Jeremy Yallop",1
+"David Allsopp,John Whitington",1
+"David Allsopp,Kate",1
+"David Allsopp,Luc Maranget",1
+"David Allsopp,Lucas Pluvinage",1
+"David Allsopp,Markus Mottl",1
+"Hugo Heuzard,maranget",1
+"Hugo Heuzard,octachron",1
+"Hyunggyu Jang,HyunggyuJang",1
+"Florian Angeletti,Richard Eisenberg",1
+"Florian Angeletti,Richard W.M. Jones",1
+"Florian Angeletti,Samuel Vivien",1
+"Nicolas Pouillard,Luc Maranget",1
+"Nicolás Ojeda Bär,Alain Frisch",1
+"Nathanaël Courant,David Allsopp",1
+"Nick Barnes,Aleksei Nikiforov",1
+"Nick Barnes,Antonin Décimo",1
+"Nick Barnes,David Allsopp",1
+"Nick Barnes,Guillaume Munch-Maccagnoni",1
+"Nick Barnes,Javier Chavarri",1
+"Nick Barnes,Lucas Pluvinage",1
+"Nick Barnes,Nicolás Ojeda Bär",1
+"David Allsopp,Guillaume Petiot",1
+"David Allsopp,Hannes Mehnert",1
+"Nick Roberts,Max Slater",1
+"Nick Roberts,Nick Barnes",1
+"Nick Roberts,Richard L Ford",1
+"Nicolas Chataing,Drup",1
+"Nicolas Ojeda Bar,Drup",1
+"Nicolas Ojeda Bar,Fermin Reig",1
+"Nicolas Ojeda Bar,Jacques Garrigue",1
+"Nicolas Ojeda Bar,Pierre Chambart",1
+"Nicolas Ojeda Bar,Sébastien Hinderer",1
+"Jacques Garrigue,Drup",1
+"Jacques Garrigue,Eduardo Rafael",1
+"Jacques Garrigue,EduardoRFS",1
+"Hugo Heuzard,Xavier Leroy",1
+"Hugo Heuzard,hhugo",1
+"Hongbo Zhang,alainfrisch",1
+"Hugo Herbelin,Daniel Bünzli",1
+"Hugo Heuzard,Florian Angeletti",1
+"Hugo Heuzard,Jacques Garrigue",1
+"Hugo Heuzard,Jeremy Yallop",1
+"Nicolás Ojeda Bär,Seb Hinderer",1
+"Nicolás Ojeda Bär,Andrew Litteken",1
+"Nicolás Ojeda Bär,Antonin Décimo",1
+"Nicolás Ojeda Bär,Armaël Guéneau",1
+"Nicolás Ojeda Bär,Bernhard Schommer",1
+"Nicolás Ojeda Bär,Damien Doligez",1
+"Nicolás Ojeda Bär,Daniel Bünzli",1
+"David Allsopp,Bart Jacobs",1
+"David Allsopp,Cedric Cellier",1
+"David Allsopp,Chris Casinghino",1
+"David Allsopp,Guillaume Munch-Maccagnoni",1
+"Nicolás Ojeda Bär,François Pottier",1
+"Nicolás Ojeda Bär,Ikko Ashimine",1
+"Nicolás Ojeda Bär,Isaac Avram",1
+"Nicolás Ojeda Bär,Jan Midtgaard",1
+"Nicolás Ojeda Bär,KC Sivaramakrishnan",1
+"Nicolás Ojeda Bär,Mark Shinwell",1
+"Nicolás Ojeda Bär,Miod Vallat",1
+"Nicolás Ojeda Bär,Nicolas Ojeda Bar",1
+"Florian Angeletti,Tim McGilchrist",1
+"Florian Angeletti,Valentin Gatien-Baron",1
+"Hannes Mehnert,Stephen Dolan",1
+"Haz,Tim McGilchrist",1
+"Hongbo Zhang,Alain Frisch",1
+"Hongbo Zhang,Gabriel Scherer",1
+"Hongbo Zhang,Jacques Garrigue",1
+"Hongbo Zhang,Wojciech Meyer",1
+"Daniil Baturin,Damien Doligez",1
+"David Allsopp,Alain Frisch",1
+"David Allsopp,Alistair",1
+"David Allsopp,Anil Madhavapeddy",1
+"Nicolás Ojeda Bär,Tim McGilchrist",1
+"Nicolás Ojeda Bär,Vincent Laviron",1
+"Nicolás Ojeda Bär,samsa1",1
+"Nicolás Ojeda Bär,wiktorkuchta",1
+"Oghenevwogaga Ebresafe,Florian Angeletti",1
+"Oghenevwogaga Ebresafe,Tom Kelly",1
+"Olivier Andrieu,Thomas Refis",1
+"Olivier Andrieu,octachron",1
+"Olivier Nicole,Antal Spector-Zabusky",1
+"Olivier Nicole,Chris Casinghino",1
+"Olivier Nicole,Hugo Heuzard",1
+"Olivier Nicole,Jan Midtgaard",1
+"Guillaume Munch-Maccagnoni,Richard W.M. Jones",1
+"Guillaume Munch-Maccagnoni,Romain Beauxis",1
+"Guillaume Petiot,David Allsopp",1
+"Guillaume Petiot,Olivier Nicole",1
+"Guillaume Petiot,Tom Kelly",1
+"Hannes Mehnert,Antonin Décimo",1
+"Hannes Mehnert,David Allsopp",1
+"Pierre Chambart,Xavier Leroy",1
+"Olivier Nicole,Lucas Pluvinage",1
+"Olivier Nicole,Samuel Hym",1
+"Daniel Bünzli,Nicolás Ojeda Bär",1
+"Daniel Bünzli,Tim McGilchrist",1
+"Daniel Bünzli,Valentin Gatien-Baron",1
+"Daniel Bünzli,Xavier Leroy",1
+"Daniel Bünzli,alainfrisch",1
+"Daniel Mangum,Nicolás Ojeda Bär",1
+"Oxana Kostikova,Mark Shinwell",1
+"Perry E. Metzger,Nicolás Ojeda Bär",1
+"Pierre Boutillier,Nicolás Ojeda Bär",1
+"Pierre Boutillier,octachron",1
+"Pierre Chambart,David Allsopp",1
+"Pierre Chambart,Hannes Mehnert",1
+"Pierre Chambart,JPR",1
+"Pierre Chambart,Runhang Li",1
+"Pierre Chambart,Sergey Avseyev",1
+"Pierre Chambart,Simon Cruanes",1
+"Pierre Chambart,Thomas Refis",1
+"Hugo Heuzard,Nicolás Ojeda Bär",1
+"Hugo Heuzard,Sadiq Jaffer",1
+"Hugo Heuzard,Sébastien Hinderer",1
+"Guillaume Munch-Maccagnoni,Olivier Nicole",1
+"Guillaume Munch-Maccagnoni,Pieter Goetschalckx",1
+"Richard L Ford,Daniel Bünzli",1
+"Rodolphe Lepigre,Stephen Dolan",1
+"Roma Sokolov,alainfrisch",1
+"Romain Beauxis,Antonin Décimo",1
+"Pierre Roux,Eric Stavarache",1
+"Pierre Weis,Alain Frisch",1
+"Pierre Weis,Luc Maranget",1
+"Pierre Weis,Maxence Guesdon",1
+"Pierre Weis,Wojciech Meyer",1
+"Pieter Goetschalckx,Hugo Heuzard",1
+"Pieter Goetschalckx,Stephen Dolan",1
+"Rafaël Bocquet,Runhang Li",1
+"Raphaël Proust,Gabriel Scherer",1
+"Raphaël Proust,Yishuai Li",1
+"Richard Bonichon,Damien Doligez",1
+"Olivier Nicole,alainfrisch",1
+"Daniel Bünzli,Antonin Décimo",1
+"Daniel Bünzli,Armaël Guéneau",1
+"Daniel Bünzli,Christophe Troestler",1
+"Daniel Bünzli,Etienne Millon",1
+"Daniel Bünzli,François Pottier",1
+"Daniel Bünzli,Gabriel Scherer",1
+"Daniel Bünzli,Guillaume Munch-Maccagnoni",1
+"Romain Beauxis,Nick Roberts",1
+"Richard Bonichon,David Allsopp",1
+"Richard Degenne,Olivier Andrieu",1
+"Richard Eisenberg,David Allsopp",1
+"Richard Eisenberg,Enguerrand Decorne",1
+"Richard Eisenberg,Florian Angeletti",1
+"Richard Eisenberg,Jacques Garrigue",1
+"Richard Eisenberg,Seb Hinderer",1
+"Richard Eisenberg,Stefan Muenzel",1
+"Greta Yorsh,David Allsopp",1
+"Greta Yorsh,Jacques-Henri Jourdan",1
+"Greta Yorsh,John Whitington",1
+"Greta Yorsh,Lilian Besson",1
+"Greta Yorsh,Nicolás Ojeda Bär",1
+"Greta Yorsh,Thomas Refis",1
+"Greta Yorsh,Tom Kelly",1
+"Greta Yorsh,muskangarg21",1
+"Guillaume Munch-Maccagnoni,Jacques Garrigue",1
+"Guillaume Munch-Maccagnoni,Jan Midtgaard",1
+"Sadiq Jaffer,Olivier Nicole",1
+"Sadiq Jaffer,Stephen Dolan",1
+"Sadiq Jaffer,Sébastien Hinderer",1
+"Romain Beauxis,Jacques Garrigue",1
+"Damien Doligez,nathan moreau",1
+"Damien Doligez,yallop",1
+"Samuel Vivien,David Allsopp",1
+"Romain Beauxis,Tim McGilchrist",1
+"Runhang Li,Damien Doligez",1
+"Runhang Li,Gabriel Scherer",1
+"Runhang Li,Pierre Chambart",1
+"Runhang Li,Sébastien Hinderer",1
+"Runhang Li,alainfrisch",1
+"Sadiq Jaffer,Antal Spector-Zabusky",1
+"Sadiq Jaffer,Jeremy Yallop",1
+"Sadiq Jaffer,Leo White",1
+"Sadiq Jaffer,Nick Barnes",1
+"Sadiq Jaffer,Nicolás Ojeda Bär",1
+"Hannes Mehnert,Jeremy Yallop",1
+"Hannes Mehnert,Nicolás Ojeda Bär",1
+"Greta Yorsh,Alain Frisch",1
+"Greta Yorsh,Antal Spector-Zabusky",1
+"SeungCheol Jung,Xavier Leroy",1
+"Shayne Fletcher,Vincent Laviron",1
+"Sima Kinsart,dongyan",1
+"Simon Cruanes,Jeremie Dimino",1
+"Simon Cruanes,alainfrisch",1
+"Sam Goldman,Thomas Refis",1
+"Samuel Hym,Antonin Décimo",1
+"Samuel Hym,Basile Clément",1
+"Samuel Hym,Olivier Nicole",1
+"Damien Doligez,Sam Goldman",1
+"Damien Doligez,Simon Cruanes",1
+"Damien Doligez,Stephane Glondu",1
+"Damien Doligez,Thomas Braibant",1
+"Damien Doligez,Wojciech Meyer",1
+"Damien Doligez,camlspotter",1
+"Samuel Thibault,Florian Angeletti",1
+"Stefan Muenzel,Francois Berenger",1
+"Stefan Muenzel,Isaac Avram",1
+"Stefan Muenzel,Jules Aguillon",1
+"Stefan Muenzel,Nangah Amandine",1
+"Stefan Muenzel,Nick Roberts",1
+"Stefan Muenzel,Samuel Hym",1
+"Stefan Muenzel,Xavier Leroy",1
+"Stephane Glondu,Gabriel Scherer",1
+"Samuel Vivien,Florian Angeletti",1
+"Samuel Vivien,Gabriel Scherer",1
+"Samuel Vivien,Sébastien Hinderer",1
+"Seb Hinderer,Damien Doligez",1
+"Seb Hinderer,Florian Angeletti",1
+"Seb Hinderer,Nicolás Ojeda Bär",1
+"Seb Hinderer,Thomas Leonard",1
+"Sergey Avseyev,Pierre Chambart",1
+"Florian Angeletti,Xavier Clerc",1
+"Florian Angeletti,eutro",1
+"Florian Angeletti,j",1
+"Florian Angeletti,progman1",1
+"Florian Angeletti,sliquister",1
+"Florian Angeletti,thierry-martinez",1
+"Florian Angeletti,zapashcanon",1
+"Florian Angeletti,珊瑚",1
+"Fourchaux,Antonin Décimo",1
+"Damien Doligez,Marc Lasson",1
+"Damien Doligez,Nick Barnes",1
+"Simon Cruanes,samsa1",1
+"Simon Fowler,Gabriel Scherer",1
+"Simon Parry,Florian Angeletti",1
+"Stefan Muenzel,David Allsopp",1
+"Stefan Muenzel,Florian Angeletti",1
+"Stephen Dolan,Sima Kinsart",1
+"Stephen Dolan,Stefan Muenzel",1
+"Stephen Dolan,Arseniy Alekseyev",1
+"Stephen Dolan,Craig Ferguson",1
+"Stephen Dolan,David Turner",1
+"Stephen Dolan,Dmitry Bely",1
+"Damien Doligez,Jeremie Dimino",1
+"Damien Doligez,Jonathan Protzenko",1
+"Damien Doligez,Jun FURUSE / 古瀬 淳",1
+"Damien Doligez,Konstantin Romanov",1
+"Damien Doligez,Louis Gesbert",1
+"Damien Doligez,Lucas Pluvinage",1
+"Guillaume Munch-Maccagnoni,Kakadu",1
+"Gabriel de Perthuis,David Allsopp",1
+"Glen Mével,Olivier Nicole",1
+"Glenn Slotte,David Allsopp",1
+"Damien Doligez,Hongbo Zhang",1
+"Damien Doligez,Hugo Heuzard",1
+"Stephen Dolan,gmevel",1
+"Stephen Dolan,hhugo",1
+"Damien Doligez,Nicolas Ojeda Bar",1
+"Stephen Dolan,Et7f3",1
+"Stephen Dolan,Etienne Millon",1
+"Stephen Dolan,Glenn Slotte",1
+"Stephen Dolan,Greta Yorsh",1
+"Stephen Dolan,JPR",1
+"Stephen Dolan,Louis Gesbert",1
+"Stephen Dolan,Max Mouratov",1
+"Stephen Dolan,Michael Hendricks",1
+"Stephen Dolan,Oxana Kostikova",1
+"Stephen Dolan,Pierre Chambart",1
+"Stephen Dolan,Raphael Sousa Santos",1
+"Sudha Parimala,Xavier Leroy",1
+"Swrup,Janith Petangoda",1
+"Sébastien Hinderer,Alain Frisch",1
+"Sébastien Hinderer,Antonin Décimo",1
+"Sébastien Hinderer,Cedric Cellier",1
+"Sébastien Hinderer,Chunhui He",1
+"Sébastien Hinderer,Damien Doligez",1
+"Sébastien Hinderer,Guillaume Petiot",1
+"Sébastien Hinderer,Jacques-Henri Jourdan",1
+"Stephen Dolan,Sébastien Briais",1
+"Stephen Dolan,Tim McGilchrist",1
+"Stephen Dolan,Xavier Clerc",1
+"Damien Doligez,Demi Obenour",1
+"Damien Doligez,Dong An",1
+"Damien Doligez,Greta Yorsh",1
+"Damien Doligez,Guillaume Munch-Maccagnoni",1
+"Gabriel Scherer,Ulysse Gérard",1
+"Gabriel Scherer,Will Crichton",1
+"Gabriel Scherer,YOSHIMURA Yuu",1
+"Gabriel Scherer,Yawar Amin",1
+"Gabriel Scherer,Yunxing Dai",1
+"Gabriel Scherer,favonia",1
+"Gabriel Scherer,hhugo",1
+"Gabriel Scherer,madroach",1
+"Gabriel Scherer,panglesd",1
+"Damien Doligez,Basile Starynkevitch",1
+"Damien Doligez,Benedikt Meurer",1
+"Stephen Dolan,shym",1
+"Sudha Parimala,Chris Casinghino",1
+"Sudha Parimala,Enguerrand Decorne",1
+"Sudha Parimala,KC Sivaramakrishnan",1
+"Sudha Parimala,Sadiq Jaffer",1
+"Sébastien Hinderer,madroach",1
+"Sébastien Hinderer,Jeremie Dimino",1
+"Sébastien Hinderer,Laurent Thévenoux",1
+"Christophe Raffalli,Olivier Nicole",1
+"Christophe Troestler,Florian Angeletti",1
+"Christophe Troestler,Kate",1
+"Christophe Troestler,alainfrisch",1
+"Chunhui He,Gabriel Scherer",1
+"Craig Ferguson,octachron",1
+"Damien Doligez,Andrey Bergman",1
+"Damien Doligez,Anton Bachin",1
+"Damien Doligez,Antonin Décimo",1
+"Fourchaux,Damien Doligez",1
+"Fourchaux,Leo White",1
+"Fourchaux,Stephen Dolan",1
+"Gabriel Scherer,Tom Kelly",1
+"Takafumi Saikawa,Michael Hendricks",1
+"Thomas Gazagnaire,Gabriel Scherer",1
+"Thomas Leonard,Florian Angeletti",1
+"Thomas Leonard,Gabriel Scherer",1
+"Thomas Refis,Daniel Bünzli",1
+"Thomas Refis,François Pottier",1
+"Thomas Refis,Frédéric Bour",1
+"Thomas Refis,Hannes Mehnert",1
+"Sébastien Hinderer,Oghenevwogaga Ebresafe",1
+"Sébastien Hinderer,Pierre Chambart",1
+"Sébastien Hinderer,Sadiq Jaffer",1
+"Sébastien Hinderer,Thomas Braibant",1
+"Sébastien Hinderer,Ulysse Gérard",1
+"Sébastien Hinderer,Wiktor Kuchta",1
+"Sébastien Hinderer,aalekseyev",1
+"Sébastien Hinderer,hhugo",1
+"Thomas Refis,KC Sivaramakrishnan",1
+"Thomas Refis,Kate",1
+"Chris Casinghino,Maxence Guesdon",1
+"Chris Casinghino,Miod Vallat",1
+"Chris Casinghino,Nicolás Ojeda Bär",1
+"Chris Casinghino,Richard Eisenberg",1
+"Chris Casinghino,Seb Hinderer",1
+"Chris Casinghino,hirrolot",1
+"Christiana Anthony,Nicolás Ojeda Bär",1
+"Christiano Haesbaert,Guillaume Munch-Maccagnoni",1
+"Christiano Haesbaert,Nicolás Ojeda Bär",1
+"Christiano Haesbaert,Tom Kelly",1
+"Tadeu Zagallo,Richard W.M. Jones",1
+"Tadeu Zagallo,octachron",1
+"Takafumi Saikawa,Gabriel Scherer",1
+"Takafumi Saikawa,Hugo Heuzard",1
+"Francois Berenger,Thomas Refis",1
+"Francois Rouaix,Xavier Leroy",1
+"François Pottier,Gabriel Scherer",1
+"François Pottier,Leo White",1
+"François Pottier,Thomas Refis",1
+"François Pottier,Tõivo Leedjärv",1
+"Frank Steffahn,Florian Angeletti",1
+"François Bobot,Alain Frisch",1
+"François Bobot,Damien Doligez",1
+"François Bobot,Gabriel Scherer",1
+"François Bobot,Jacques-Henri Jourdan",1
+"François Bobot,Leo White",1
+"Tim McGilchrist,Jacques Garrigue",1
+"Tim McGilchrist,Sébastien Hinderer",1
+"Thomas Refis,Jeremy Yallop",1
+"Thomas Refis,John Whitington",1
+"Tõivo Leedjärv,Xavier Leroy",1
+"Christoph Cullmann,Jacques Garrigue",1
+"Christophe Raffalli,Antonin Décimo",1
+"Christophe Raffalli,Florian Angeletti",1
+"Thomas Refis,Matthew Ryan",1
+"Thomas Refis,Nicolas Ojeda Bar",1
+"Thomas Refis,Pierre Chambart",1
+"Thomas Refis,Vladimir Keleshev",1
+"Thomas Refis,yallop",1
+"Tim Cuthbertson,Jeremie Dimino",1
+"Tim Cuthbertson,Thomas Refis",1
+"Tim McGilchrist,Antonin Décimo",1
+"Gabriel Scherer,wiktorkuchta",1
+"Gabriel Scherer,yallop",1
+"Gabriel Scherer,zapashcanon",1
+"Francois Berenger,Nicolás Ojeda Bär",1
+"Valentin Gatien-Baron,Gabriel Radanne",1
+"Valentin Gatien-Baron,Thomas Refis",1
+"Valentin Gatien-Baron,octachron",1
+"Valentin Gatien-Baron,sliquister",1
+"Vincent Laporte,Gabriel Scherer",1
+"Vincent Laviron,Antonin Décimo",1
+"Tim McGilchrist,Ulysse",1
+"Tim McGilchrist,Ulysse Gérard",1
+"Tim McGilchrist,Vincent Laviron",1
+"Tom Kelly,Alex Fan",1
+"Tom Kelly,Fabian",1
+"Tom Kelly,Florian Angeletti",1
+"Tom Kelly,Nicolás Ojeda Bär",1
+"Tom Kelly,Thomas Refis",1
+"Tom Kelly,Vincent Laviron",1
+"Tõivo Leedjärv,François Pottier",1
+"Gabriel Scherer,Richard W.M. Jones",1
+"Gabriel Scherer,Roma Sokolov",1
+"Gabriel Scherer,Romain Beauxis",1
+"Gabriel Scherer,Roven Gabriel",1
+"Gabriel Scherer,Sadiq Jaffer",1
+"Charlène_Gros,Vincent Laviron",1
+"Chet Murthy,John Whitington",1
+"Vincent Laviron,David Allsopp",1
+"Török Edwin,Damien Doligez",1
+"Ulugbek Abdullaev,Mark Shinwell",1
+"Ulysse Gérard,Christophe Raffalli",1
+"Ulysse Gérard,Gabriel Scherer",1
+"Ulysse Gérard,Miod Vallat",1
+"Ulysse Gérard,Samuel Vivien",1
+"Ulysse Gérard,Xavier Leroy",1
+"Ulysse Gérard,samsa1",1
+"Bernhard Schommer,Benoit Vaugon",1
+"Bernhard Schommer,David Allsopp",1
+"Bernhard Schommer,Florian Angeletti",1
+"Bernhard Schommer,Jacques Garrigue",1
+"Bernhard Schommer,Sébastien Hinderer",1
+"Bernhard Schommer,alainfrisch",1
+"Bukolab99,Vincent Laviron",1
+"Cedric Cellier,David Allsopp",1
+"François Bobot,Lucas Pluvinage",1
+"Gabriel Scherer,Stéphane Glondu",1
+"Gabriel Scherer,Tadeu Zagallo",1
+"Gabriel Scherer,Nicolas Ojeda Bar",1
+"Gabriel Scherer,Olaf Hering",1
+"Gabriel Scherer,Olivier Nicole",1
+"Gabriel Scherer,Pierre Boutillier",1
+"Gabriel Scherer,Pieter Goetschalckx",1
+"Bart Jacobs,David Allsopp",1
+"Bart Jacobs,Gabriel Scherer",1
+"Vincent Laviron,Greta Yorsh",1
+"Vincent Laviron,Jules Aguillon",1
+"Vincent Laviron,KC Sivaramakrishnan",1
+"Vincent Laviron,Kate",1
+"Vincent Laviron,Kyle Miller",1
+"Vincent Laviron,Nick Barnes",1
+"Vincent Laviron,Nick Roberts",1
+"Vincent Laviron,Olivier Nicole",1
+"Vincent Laviron,Rian Douglas",1
+"Vincent Laviron,Sadiq Jaffer",1
+"Vincent Laviron,Sébastien Hinderer",1
+"Vincent Laviron,zapashcanon",1
+"Virgile Prevosto,David Allsopp",1
+"Benoit Vaugon,Louis Gesbert",1
+"Xavier Clerc,Sébastien Hinderer",1
+"Xavier Clerc,xclerc",1
+"Xavier Clerc,ygrek",1
+"Xavier Leroy,Anil Madhavapeddy",1
+"Vladimir Keleshev,Drup",1
+"Vladimir Keleshev,Leo White",1
+"Weng Shiwei,Oxana Kostikova",1
+"Wiktor Kuchta,Vincent Laviron",1
+"Wilfred Hughes,Daniel Bünzli",1
+"Will Crichton,Gabriel Scherer",1
+"Armaël Guéneau,Jacques-Henri Jourdan",1
+"Armaël Guéneau,Nicolás Ojeda Bär",1
+"Armaël Guéneau,Wiktor Kuchta",1
+"Armaël Guéneau,Wilfred Hughes",1
+"Armaël Guéneau,sliquister",1
+"Arseniy Alekseyev,Florian Angeletti",1
+"Gabriel Scherer,Jerome Vouillon",1
+"Gabriel Scherer,Justin Frank",1
+"Xavier Leroy,François Pottier",1
+"Xavier Leroy,Frédéric Bour",1
+"Xavier Leroy,Greta Yorsh",1
+"Bartosz Modelski,Fabrice Buoro",1
+"Basile Clement,Guillaume Petiot",1
+"Basile Starynkevitch,Damien Doligez",1
+"Basile Starynkevitch,Jacques Garrigue",1
+"Benedikt Meurer,Wojciech Meyer",1
+"Wojciech Meyer,Xavier Clerc",1
+"Xavier Clerc,David Allsopp",1
+"Xavier Clerc,Florian Angeletti",1
+"Xavier Clerc,François Bobot",1
+"Xavier Clerc,Gabriel Radanne",1
+"Xavier Clerc,Hugo Heuzard",1
+"Xavier Leroy,Benedikt Meurer",1
+"Xavier Leroy,Bernhard Schommer",1
+"Xavier Leroy,Charlène_Gros",1
+"Xavier Leroy,Christophe Troestler",1
+"Xavier Leroy,EduardoRFS",1
+"Xavier Leroy,Edwin Török",1
+"Xavier Leroy,Fabrice",1
+"Xavier Leroy,Fourchaux",1
+"Xavier Leroy,François Bobot",1
+"Gabriel Scherer,Sergei Lebedev",1
+"Gabriel Scherer,Geoff Gole",1
+"Gabriel Scherer,Glen Mével",1
+"Gabriel Scherer,Hannes Mehnert",1
+"Gabriel Scherer,Hugo Herbelin",1
+"Gabriel Scherer,Jan Midtgaard",1
+"Gabriel Scherer,Janith Petangoda",1
+"Armaël Guéneau,Armael",1
+"Armaël Guéneau,Florian Angeletti",1
+"Armaël Guéneau,Gabriel Scherer",1
+"Xavier Leroy,Rich Neswold",1
+"Xavier Leroy,Jonathan Protzenko",1
+"Xavier Leroy,Jun FURUSE / 古瀬 淳",1
+"Xavier Leroy,Jérémie Dimino",1
+"Xavier Leroy,Keryan Didier",1
+"Xavier Leroy,Leo White",1
+"Xavier Leroy,Louis Gesbert",1
+"Xavier Leroy,Max Mouratov",1
+"Xavier Leroy,Maxence Guesdon",1
+"Xavier Leroy,Nathanaël Courant",1
+"Xavier Leroy,Nick Barnes",1
+"Xavier Leroy,Nick Roberts",1
+"Xavier Leroy,Anton Yabchinskiy",1
+"Xavier Leroy,Takafumi Saikawa",1
+"Xavier Leroy,alainfrisch",1
+"Xavier Leroy,fabbing",1
+"Xavier Leroy,fdopen",1
+"Xavier Leroy,sonologico",1
+"Xavier Leroy,whitequark",1
+"Yishuai Li,Gabriel Scherer",1
+"Yotam Barnoy,Vincent Laviron",1
+"Antonin Décimo,Stefan Muenzel",1
+"Antonin Décimo,Sudha Parimala",1
+"Antonin Décimo,Ulysse Gérard",1
+"Antonin Décimo,samsa1",1
+"Antonin Décimo,zapashcanon",1
+"Antonio Nuno Monteiro,David Allsopp",1
+"Anukriti12,Nicolás Ojeda Bär",1
+"Anukriti12,muskangarg21",1
+"Gabriel Scherer,François Pottier",1
+"François Bobot,Pierre Chambart",1
+"François Bobot,alainfrisch",1
+"François Bobot,doligez",1
+"François Pottier,David Allsopp",1
+"François Pottier,Florian Angeletti",1
+"François Pottier,Pierre Chambart",1
+"Frederic Bour,Thomas Refis",1
+"Frédéric Bour,Mark Shinwell",1
+"Antonin Décimo,Matt Walker",1
+"Antonin Décimo,Matthew Else",1
+"Xavier Leroy,Seb Hinderer",1
+"Xavier Leroy,Simon Cruanes",1
+"Xavier Leroy,Stefan Monnier",1
+"Xavier Leroy,Stefan Muenzel",1
+"Xavier Leroy,Sébastien Briais",1
+"Zoggy,Jacques Garrigue",1
+"Zoggy,Jan Midtgaard",1
+"aalekseyev,Armaël Guéneau",1
+"aalekseyev,Gabriel Scherer",1
+"aalekseyev,yallop",1
+"alainfrisch,Armaël Guéneau",1
+"Antonin Décimo,Guillaume Munch-Maccagnoni",1
+"Antonin Décimo,Haz",1
+"Antonin Décimo,Jacques-Henri Jourdan",1
+"Antonin Décimo,Josh Berdine",1
+"Antonin Décimo,Jules Aguillon",1
+"Gabriel Scherer,Lucas Pluvinage",1
+"Gabriel Scherer,Manuel Hornung",1
+"Gabriel Scherer,Masanori Ogino",1
+"Gabriel Scherer,François Pottier",1
+"Gabriel Scherer,François Bobot",1
+"eutro,Gabriel Scherer",1
+"eutro,Nick Barnes",1
+"fabbing,Gabriel Scherer",1
+"Antonin Décimo,Nat Mote",1
+"Antonin Décimo,Nick Barnes",1
+"Antonin Décimo,Olivier Nicole",1
+"Antonin Décimo,Sadiq Jaffer",1
+"alainfrisch,Fabrice Le Fessant",1
+"alainfrisch,Hongbo Zhang",1
+"alainfrisch,Jacques-Henri Jourdan",1
+"alainfrisch,Leo White",1
+"alainfrisch,Mark Shinwell",1
+"alainfrisch,Olivier Andrieu",1
+"alainfrisch,Richard Degenne",1
+"alainfrisch,Sébastien Hinderer",1
+"Yunxing Dai,Gabriel Scherer",1
+"hhugo,Gabriel Scherer",1
+"hhugo,Jeremy Yallop",1
+"hhugo,Mark Shinwell",1
+"hhugo,Markus Mottl",1
+"hhugo,Nicolás Ojeda Bär",1
+"hhugo,Pierre Chambart",1
+"alainfrisch,maranget",1
+"alainfrisch,objmagic",1
+"amaluxx,Gabor Greif",1
+"camlspotter,Damien Doligez",1
+"camlspotter,Jacques Garrigue",1
+"curiousleo,Chris Casinghino",1
+"curiousleo,Xavier Leroy",1
+"dongyan,Craig Ferguson",1
+"dongyan,Xavier Leroy",1
+"eutro,Florian Angeletti",1
+"Gabriel Scherer,Christophe Raffalli",1
+"Gabriel Scherer,Christophe Troestler",1
+"Gabriel Scherer,Demi Marie Obenour",1
+"Gabriel Scherer,Dhruv Maroo",1
+"Gabriel Scherer,Drup",1
+"octachron,Charles Chamberlain",1
+"octachron,Christophe Raffalli",1
+"octachron,Damien Doligez",1
+"fabbing,KC Sivaramakrishnan",1
+"fabbing,Sébastien Hinderer",1
+"favonia,Xavier Leroy",1
+"fdopen,Xavier Leroy",1
+"gmevel,David Allsopp",1
+"he32,Mark Shinwell",1
+"hhugo,David Allsopp",1
+"hhugo,Et7f3",1
+"hirrolot,David Allsopp",1
+"iguer,Gabriel Scherer",1
+"lijunsong,iguer",1
+"madroach,Nicolás Ojeda Bär",1
+"maranget,Bernhard Schommer",1
+"muskangarg21,Jérémie Dimino",1
+"muskangarg21,Stephen Dolan",1
+"objmagic,Leo White",1
+"objmagic,Thomas Refis",1
+"octachron,Alain Frisch",1
+"Frédéric Bour,Thomas Refis",1
+"Frédéric Bour,Xavier Leroy",1
+"Gabriel Scherer,Gabriel de Perthuis",1
+"Gabriel Scherer,Anil Madhavapeddy",1
+"Gabriel Scherer,Chet Murthy",1
+"Gabriel Scherer,Christoph Cullmann",1
+"octachron,he32",1
+"octachron,yallop",1
+"octachron,Daniel Bünzli",1
+"octachron,Greta Yorsh",1
+"Anil Madhavapeddy,Sébastien Hinderer",1
+"Anil Madhavapeddy,octachron",1
+"Antal Spector-Zabusky,Matthew Else",1
+"Antal Spector-Zabusky,Nicolas Chataing",1
+"Antal Spector-Zabusky,Sadiq Jaffer",1
+"Anton Bachin,Jacques Garrigue",1
+"Anton Bachin,Jacques-Henri Jourdan",1
+"Anton Yabchinskiy,Anil Madhavapeddy",1
+"Antonin Décimo,Antal Spector-Zabusky",1
+"Antonin Décimo,Daniel Bünzli",1
+"Antonin Décimo,Edwin Török",1
+"hirrolot,Daniel Bünzli",1
+"sliquister,Gabriel Scherer",1
+"shym,Gabriel Scherer",1
+"yallop,octachron",1
+"ygrek,Alain Frisch",1
+"ygrek,Dwight Guth",1
+"ygrek,Pieter Goetschalckx",1
+"zapashcanon,Christiano Haesbaert",1
+"Anil Madhavapeddy,Romain Beauxis",1
+"zapashcanon,Florian Angeletti",1
+"zapashcanon,Gabriel Scherer",1
+"zapashcanon,Miod Vallat",1
+"zapashcanon,Nicolas Ojeda Bar",1
+"zett98,Antal Spector-Zabusky",1
+"whitequark,Damien Doligez",1
+"octachron,Jules Aguillon",1
+"octachron,Luc Maranget",1
+"pierreweis,Richard Bonichon",1
+"pierreweis,octachron",1
+"progman1,David Allsopp",1
+"Aleksei Nikiforov,Nick Barnes",1
+"Alex Fan,Nicolás Ojeda Bär",1
+"AlexOnWork,Markus Mottl",1
+"Alexander Skvortsov,David Allsopp",1
+"Anarchos,Stephen Dolan",1
+"Andreas Abel,Xavier Leroy",1
+"Gabriel Radanne,alainfrisch",1
+"tkob,Armael",1
+"thierry-martinez,Gabriel Scherer",1
+"steinuil,Gabriel Scherer",1
+"sonologico,Xavier Leroy",1
+"sliquister,Xavier Clerc",1
+"sliquister,Jacques Garrigue",1
+,
+Committer Timezone Distribution,Unique Timezones: 17
+Timezone,Commits
++00:00,14746
++01:00,8960
++02:00,6137
++03:00,20
++04:00,1
++05:00,30
++05:30,578
++08:00,58
++09:00,385
++10:00,33
++11:00,13
+-03:00,22
+-04:00,492
+-05:00,346
+-06:00,26
+-07:00,84
+-08:00,38
+,
+Contributors Experience,Average across 9344 files: 75.94%
+File,Top Contributor Share (%)
+Makefile.config,100.00
+bytecomp/codegen.ml,100.00
+bytecomp/codegen.mli,100.00
+bytecomp/dectree.ml,100.00
+bytecomp/dectree.mli,100.00
+bytecomp/librarian.ml,100.00
+bytecomp/librarian.mli,100.00
+bytecomp/linker.ml,100.00
+bytecomp/linker.mli,100.00
+byterun/crc.c,100.00
